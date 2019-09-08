@@ -27,7 +27,17 @@
 		"name": "Bordeleaux Chevaliers",
 		"perf": "LBBLW",
 		"pts": 6,
-		"tdd": 1
+		"tdd": 5
+	},
+	{
+		"casd": -5,
+		"coin": -1,
+		"hth": 0,
+		"id": 912837,
+		"name": "Gnoming (2509)",
+		"perf": "LLBBB",
+		"pts": 6,
+		"tdd": 4
 	},
 	{
 		"casd": 7,
@@ -40,16 +50,6 @@
 		"tdd": -1
 	},
 	{
-		"casd": -5,
-		"coin": -1,
-		"hth": 0,
-		"id": 912837,
-		"name": "Gnoming (2509)",
-		"perf": "LLBBB",
-		"pts": 6,
-		"tdd": -2
-	},
-	{
 		"casd": 8,
 		"coin": -1,
 		"hth": -1,
@@ -57,17 +57,7 @@
 		"name": "Mugrec's Mechanical Madmen",
 		"perf": "WDLLB",
 		"pts": 5,
-		"tdd": -1
-	},
-	{
-		"casd": -4,
-		"coin": -1,
-		"hth": 1,
-		"id": 912821,
-		"name": "Flashfires",
-		"perf": "DDFWF",
-		"pts": 4,
-		"tdd": 2
+		"tdd": 1
 	},
 	{
 		"casd": -4,
@@ -78,6 +68,16 @@
 		"perf": "DDLWL",
 		"pts": 4,
 		"tdd": -1
+	},
+	{
+		"casd": -4,
+		"coin": -1,
+		"hth": 1,
+		"id": 912821,
+		"name": "Flashfires",
+		"perf": "DDFWF",
+		"pts": 4,
+		"tdd": -2
 	},
 	{
 		"casd": -4,
@@ -97,6 +97,6 @@
 		"name": "Snagruk Kurgans",
 		"perf": "LFFFF",
 		"pts": 0,
-		"tdd": -2
+		"tdd": -10
 	}
 ]

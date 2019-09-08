@@ -1,5 +1,15 @@
 [
 	{
+		"casd": 1,
+		"coin": -1,
+		"hth": 0,
+		"id": 926362,
+		"name": "Huah-Huah's Honor Guard",
+		"perf": "DDBBW",
+		"pts": 8,
+		"tdd": 5
+	},
+	{
 		"casd": 7,
 		"coin": -1,
 		"hth": 0,
@@ -10,16 +20,6 @@
 		"tdd": 3
 	},
 	{
-		"casd": 1,
-		"coin": -1,
-		"hth": 0,
-		"id": 926362,
-		"name": "Huah-Huah's Honor Guard",
-		"perf": "DDBBW",
-		"pts": 8,
-		"tdd": 1
-	},
-	{
 		"casd": 4,
 		"coin": -1,
 		"hth": 1,
@@ -27,7 +27,7 @@
 		"name": "Malign Malignation",
 		"perf": "DWBLB",
 		"pts": 7,
-		"tdd": 1
+		"tdd": 5
 	},
 	{
 		"casd": -12,
@@ -37,7 +37,7 @@
 		"name": "Mount Fuji Ronin",
 		"perf": "WLWBD",
 		"pts": 7,
-		"tdd": 0
+		"tdd": 2
 	},
 	{
 		"casd": -3,
@@ -47,27 +47,7 @@
 		"name": "Sledge Sisters",
 		"perf": "DDLWB",
 		"pts": 6,
-		"tdd": 0
-	},
-	{
-		"casd": 3,
-		"coin": -1,
-		"hth": 0,
-		"id": 931786,
-		"name": "Thurak Termites",
-		"perf": "WBFFF",
-		"pts": 4,
-		"tdd": 1
-	},
-	{
-		"casd": -2,
-		"coin": -1,
-		"hth": 0,
-		"id": 925668,
-		"name": "Anger Management",
-		"perf": "WFFBF",
-		"pts": 4,
-		"tdd": 1
+		"tdd": 2
 	},
 	{
 		"casd": -1,
@@ -78,6 +58,26 @@
 		"perf": "LWLFB",
 		"pts": 4,
 		"tdd": -1
+	},
+	{
+		"casd": 3,
+		"coin": -1,
+		"hth": 0,
+		"id": 931786,
+		"name": "Thurak Termites",
+		"perf": "WBFFF",
+		"pts": 4,
+		"tdd": -3
+	},
+	{
+		"casd": -2,
+		"coin": -1,
+		"hth": 0,
+		"id": 925668,
+		"name": "Anger Management",
+		"perf": "WFFBF",
+		"pts": 4,
+		"tdd": -3
 	},
 	{
 		"casd": -3,
@@ -97,6 +97,6 @@
 		"name": "Deadly Sinus Attack",
 		"perf": "LLLFF",
 		"pts": 0,
-		"tdd": -4
+		"tdd": -8
 	}
 ]
