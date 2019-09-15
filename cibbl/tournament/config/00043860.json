@@ -1,8 +1,10 @@
 {
+	"admin_comment": [
+		"Official mistake: TDD+CASD was applied as 1st tiebreaker instead of HTH",
+		"Official mistake: Slaves of the Serpent Queen got an extra +1 Prestige"
+	],
 	"name": "Y2, Autumn - Granite Division",
-	"order": [883751, 883051, 882382, 885728, 883064, 887763, 884005, 883278],
-	"order_comment": "Official mistake: TDD+CASD was applied as 1st tiebreaker instead of HTH",
-	"PPOS": [
+	"ppos": [
 		5,
 		3,
 		2,
@@ -13,6 +15,17 @@
 			"P": 18
 		}
 	},
-	"prestiges_comment": "Official mistake: Slaves of the Serpent Queen got an extra +1 Prestige",
-	"prev": 43560
+	"prev": 43560,
+	"standings": {
+		"order": [
+			883751,
+			883051,
+			882382,
+			885728,
+			883064,
+			887763,
+			884005,
+			883278
+		]
+	}
 }

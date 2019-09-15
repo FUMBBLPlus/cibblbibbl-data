@@ -1,8 +1,10 @@
 {
+	"admin_comment": [
+		"Official mistake: TDD+CASD was applied as 2nd tie-breaker instead of TDD",
+		"Official mistake: Norscan Curse was not punished for its concession"
+	],
 	"name": "Y2, Summer - Altdorf College Cup",
-	"order": [854690, 859111, 871172, 854257, 873698, 856203, 854678, 870410, 856697, 874317, 859122, 864291],
-	"order_comment": "Official mistake: TDD+CASD was applied as 2nd tie-breaker instead of TDD",
-	"PPOS": [
+	"ppos": [
 		8,
 		5,
 		3,
@@ -13,6 +15,20 @@
 			"P": 0
 		}
 	},
-	"prestiges_comment": "Official mistake: Norscan Curse was not punished for its concession"
+	"standings": {
+		"order": [
+			854690,
+			859111,
+			871172,
+			854257,
+			873698,
+			856203,
+			854678,
+			870410,
+			856697,
+			874317,
+			859122,
+			864291
+		]
+	}
 }
-
