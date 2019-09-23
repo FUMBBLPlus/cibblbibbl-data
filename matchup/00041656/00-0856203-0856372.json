@@ -1,17 +1,19 @@
 {
-	"856203": {
-		"cas": 1,
-		"casdiff": 0,
-		"rsym": "W",
-		"score": 2,
-		"scorediff": 0
-	},
-	"856372": {
-		"cas": 1,
-		"casdiff": 0,
-		"rsym": "L",
-		"score": 1,
-		"scorediff": 0
-	},
-	"excluded": "no"
+	"!excluded": "no",
+	"team_performance": {
+		"856203": {
+			"cas": 1,
+			"casdiff": 0,
+			"rsym": "W",
+			"score": 2,
+			"scorediff": 0
+		},
+		"856372": {
+			"cas": 1,
+			"casdiff": 0,
+			"rsym": "L",
+			"score": 1,
+			"scorediff": 0
+		}
+	}
 }

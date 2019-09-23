@@ -1,17 +1,19 @@
 {
-	"900800": {
-		"cas": 4,
-		"casdiff": 0,
-		"rsym": "L",
-		"score": 1,
-		"scorediff": 0
-	},
-	"906026": {
-		"cas": 3,
-		"casdiff": 0,
-		"rsym": "W",
-		"score": 2,
-		"scorediff": 0
-	},
-	"excluded": "no"
+	"!excluded": "no",
+	"team_performance": {
+		"900800": {
+			"cas": 4,
+			"casdiff": 0,
+			"rsym": "L",
+			"score": 1,
+			"scorediff": 0
+		},
+		"906026": {
+			"cas": 3,
+			"casdiff": 0,
+			"rsym": "W",
+			"score": 2,
+			"scorediff": 0
+		}
+	}
 }
