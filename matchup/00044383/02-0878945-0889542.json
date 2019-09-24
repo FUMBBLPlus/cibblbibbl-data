@@ -1,19 +1,228 @@
 {
 	"!excluded": "no",
+	"matchId": "3964216",
+	"player_performance": {
+		"878945": {
+			"11825655": {
+				"blk": 12,
+				"name": "Lashweaver Taker of Souls",
+				"prespp": 86,
+				"rus": 12,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "B"
+			},
+			"11825658": {
+				"blk": 8,
+				"name": "Laesydra",
+				"prespp": 20,
+				"tur": 16,
+				"type": "R"
+			},
+			"11825659": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Shyak",
+				"prespp": 20,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11825663": {
+				"blk": 5,
+				"name": "Braskh'har",
+				"prespp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11850084": {
+				"blk": 5,
+				"name": "Lady Lestella",
+				"prespp": 8,
+				"tur": 14,
+				"type": "R"
+			},
+			"11916781": {
+				"blk": 6,
+				"name": "Heladresh Lust-Bringer",
+				"pas": -1,
+				"prespp": 35,
+				"rus": 17,
+				"tur": 16,
+				"type": "R"
+			},
+			"11994839": {
+				"blk": 5,
+				"name": "Skylah the Desired",
+				"prespp": 31,
+				"tur": 13,
+				"type": "R"
+			},
+			"11998830": {
+				"blk": 3,
+				"died": [
+					2,
+					8,
+					"blocked",
+					"12003232"
+				],
+				"name": "Brog'hador",
+				"tur": 13,
+				"type": "R"
+			},
+			"12066502": {
+				"blk": 2,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Elasta Euphoria",
+				"pas": 2,
+				"prespp": 8,
+				"rus": 17,
+				"spp": 9,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12124776": {
+				"blk": 3,
+				"cas": 1,
+				"name": "T'lyargor",
+				"spp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"12124778": {
+				"blk": 4,
+				"name": "Da'Gorah",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"889542": {
+			"11994684": {
+				"blk": 5,
+				"name": "Mineral Casper",
+				"prespp": 7,
+				"tur": 14,
+				"type": "R"
+			},
+			"11994685": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Vortex",
+				"prespp": 10,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11994690": {
+				"blk": 1,
+				"name": "Flooding Caves",
+				"prespp": 8,
+				"rus": 18,
+				"tur": 12,
+				"type": "R"
+			},
+			"11994693": {
+				"blk": 3,
+				"name": "Flowing Woods",
+				"pas": 1,
+				"rus": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11994694": {
+				"name": "Burning Soul",
+				"prespp": 8,
+				"tur": 2,
+				"type": "R"
+			},
+			"11994696": {
+				"blk": 6,
+				"name": "Restless Igniter",
+				"prespp": 6,
+				"tur": 12,
+				"type": "R"
+			},
+			"12003232": {
+				"blk": 14,
+				"cas": 1,
+				"name": "Shimering Glow",
+				"prespp": 18,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12009380": {
+				"name": "Underground Heat",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12036400": {
+				"name": "Slight Tornado",
+				"prespp": 17,
+				"type": "R"
+			},
+			"12045054": {
+				"blk": 5,
+				"name": "Solid Ground",
+				"tur": 13,
+				"type": "R"
+			},
+			"12050725": {
+				"blk": 6,
+				"name": "Flametongues",
+				"tur": 12,
+				"type": "R"
+			},
+			"12078854": {
+				"blk": 2,
+				"name": "Burning Flowers",
+				"tur": 8,
+				"type": "R"
+			},
+			"889542S1": {
+				"blk": 1,
+				"name": "Big'Gunn Shonn",
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "S"
+			},
+			"889542S2": {
+				"blk": 1,
+				"name": "Hoshi Komi",
+				"rus": 5,
+				"tur": 6,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1039271",
 	"team_performance": {
 		"878945": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Eternal Ecstasy",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"889542": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Hellbound Firebats",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

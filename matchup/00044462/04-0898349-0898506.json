@@ -1,19 +1,186 @@
 {
 	"!excluded": "no",
+	"matchId": "3968619",
+	"player_performance": {
+		"898349": {
+			"12137854": {
+				"blk": 1,
+				"name": "Skittle Turpentine",
+				"rus": 10,
+				"tur": 16,
+				"type": "R"
+			},
+			"12137855": {
+				"name": "Scuttle Turpentine",
+				"prespp": 9,
+				"rus": 15,
+				"tur": 13,
+				"type": "R"
+			},
+			"12137856": {
+				"blk": 9,
+				"name": "Ol' Split Claw",
+				"prespp": 16,
+				"tur": 16,
+				"type": "B"
+			},
+			"12137857": {
+				"blk": 9,
+				"name": "\"Bubbles\" Thundertamer",
+				"tur": 16,
+				"type": "R"
+			},
+			"12137861": {
+				"blk": 2,
+				"name": "The Barnacle Bunch",
+				"tur": 14,
+				"type": "R"
+			},
+			"12137864": {
+				"blk": 1,
+				"cas": 1,
+				"mvp": 1,
+				"name": "\"Bait 'n Tackle\" Robinson",
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12137866": {
+				"name": "\"Sinker\" Smith",
+				"tur": 14,
+				"type": "R"
+			},
+			"12137867": {
+				"blk": 2,
+				"name": "\"Netting\" Walker",
+				"tur": 16,
+				"type": "R"
+			},
+			"12137869": {
+				"blk": 1,
+				"name": "\"Line\" Decker",
+				"tur": 14,
+				"type": "R"
+			},
+			"12155113": {
+				"blk": 1,
+				"name": "Cory Dirtyeagle",
+				"tur": 16,
+				"type": "R"
+			},
+			"12155114": {
+				"blk": 1,
+				"name": "Howard Clearspike",
+				"tur": 9,
+				"type": "R"
+			}
+		},
+		"898506": {
+			"12139026": {
+				"name": "Anubisath",
+				"prespp": 4,
+				"tur": 1,
+				"type": "R"
+			},
+			"12139027": {
+				"blk": 10,
+				"name": "Shekrem",
+				"prespp": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"12139031": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Othmar Lightbane",
+				"prespp": 9,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12139032": {
+				"blk": 6,
+				"name": "Taavi Fleshgorger",
+				"prespp": 3,
+				"rus": 20,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"12139033": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Brenno the Stalker",
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"12139034": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Holge the Forsworn",
+				"prespp": 11,
+				"rus": 16,
+				"spp": 5,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12139035": {
+				"blk": 3,
+				"name": "Uther the Exiled",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12139038": {
+				"blk": 3,
+				"name": "Kornel Crompton",
+				"tur": 11,
+				"type": "R"
+			},
+			"12139039": {
+				"blk": 3,
+				"name": "Osborn Rudges",
+				"tur": 17,
+				"type": "R"
+			},
+			"12139041": {
+				"blk": 1,
+				"name": "Mertin Middlestone",
+				"tur": 17,
+				"type": "R"
+			},
+			"12149401": {
+				"blk": 2,
+				"name": "Aeson Highclimb",
+				"tur": 12,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1044319",
 	"team_performance": {
 		"898349": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Riptide Runners",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"898506": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Shambling Revenants",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

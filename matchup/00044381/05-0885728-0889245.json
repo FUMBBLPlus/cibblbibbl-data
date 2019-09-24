@@ -1,19 +1,221 @@
 {
 	"!excluded": "no",
+	"matchId": "3971340",
+	"player_performance": {
+		"885728": {
+			"11933450": {
+				"blk": 13,
+				"cas": 2,
+				"name": "Yarrah the Gray",
+				"prespp": 25,
+				"spp": 4,
+				"tur": 17,
+				"type": "B"
+			},
+			"11933451": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Sookie Roo",
+				"prespp": 2,
+				"rus": 15,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11933452": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Naure Roo",
+				"prespp": 21,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11933454": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Rippa Roo",
+				"prespp": 23,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11933455": {
+				"blk": 6,
+				"name": "Pash a Roo",
+				"prespp": 23,
+				"rus": 7,
+				"tur": 14,
+				"type": "R"
+			},
+			"11933456": {
+				"name": "Dinkum Roo",
+				"prespp": 36,
+				"type": "R"
+			},
+			"11933457": {
+				"name": "Cuddles",
+				"prespp": 7,
+				"tur": 5,
+				"type": "R"
+			},
+			"11933460": {
+				"blk": 1,
+				"name": "Spike",
+				"tur": 10,
+				"type": "R"
+			},
+			"11933461": {
+				"blk": 3,
+				"name": "Patches",
+				"prespp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"11933462": {
+				"fou": 4,
+				"name": "Blu'Bogan",
+				"prespp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"11939409": {
+				"blk": 5,
+				"name": "Flower",
+				"prespp": 9,
+				"tur": 7,
+				"type": "R"
+			},
+			"12129142": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Niera Roo",
+				"rus": 4,
+				"spp": 5,
+				"tur": 14,
+				"type": "R"
+			},
+			"12144707": {
+				"blk": 1,
+				"name": "Snookums",
+				"tur": 9,
+				"type": "R"
+			}
+		},
+		"889245": {
+			"11990252": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Moving Shadows",
+				"prespp": 33,
+				"rus": 19,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11990253": {
+				"blk": 3,
+				"name": "Lurking Beneath",
+				"prespp": 20,
+				"tur": 11,
+				"type": "B"
+			},
+			"11990254": {
+				"blk": 7,
+				"name": "Sneaking Carpet",
+				"prespp": 20,
+				"tur": 16,
+				"type": "R"
+			},
+			"11990255": {
+				"blk": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Growling Brook",
+				"prespp": 8,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11990257": {
+				"blk": 8,
+				"name": "Fuming Badger",
+				"prespp": 17,
+				"tur": 16,
+				"type": "R"
+			},
+			"11990258": {
+				"blk": 4,
+				"name": "Laughing Rat",
+				"prespp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"11990260": {
+				"blk": 1,
+				"name": "Drunken Skunk",
+				"tur": 4,
+				"type": "R"
+			},
+			"11990261": {
+				"name": "Snorting Fox",
+				"prespp": 6,
+				"tur": 5,
+				"type": "R"
+			},
+			"12034801": {
+				"blk": 2,
+				"name": "Snickering Sausage",
+				"tur": 16,
+				"type": "R"
+			},
+			"12065206": {
+				"name": "Crazy Flea",
+				"rus": 3,
+				"tur": 10,
+				"type": "R"
+			},
+			"12105176": {
+				"name": "Furious Fish",
+				"tur": 3,
+				"type": "R"
+			},
+			"12124639": {
+				"blk": 2,
+				"name": "Knee pains",
+				"prespp": 11,
+				"tur": 9,
+				"type": "R"
+			},
+			"12149651": {
+				"name": "Lazy Landshark",
+				"tur": 8,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1047413",
 	"team_performance": {
 		"885728": {
 			"cas": 5,
 			"casdiff": 3,
+			"name": "Bear Clutchers",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"889245": {
 			"cas": 2,
 			"casdiff": -3,
+			"name": "Shroomwood Attercops",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

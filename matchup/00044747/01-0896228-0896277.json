@@ -1,19 +1,210 @@
 {
 	"!excluded": "no",
+	"matchId": "3978748",
+	"player_performance": {
+		"896228": {
+			"12103149": {
+				"blk": 2,
+				"name": "Mortarion",
+				"prespp": 16,
+				"tur": 16,
+				"type": "B"
+			},
+			"12103152": {
+				"blk": 3,
+				"name": "Ku'Gath",
+				"tur": 6,
+				"type": "R"
+			},
+			"12103156": {
+				"blk": 4,
+				"name": "Epidemius",
+				"prespp": 21,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103159": {
+				"name": "Typhus",
+				"prespp": 6,
+				"rus": 6,
+				"spp": 3,
+				"tds": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"12103165": {
+				"blk": 2,
+				"name": "Mattius Heiron",
+				"rus": 4,
+				"tur": 12,
+				"type": "R"
+			},
+			"12103183": {
+				"name": "Burroroz",
+				"prespp": 3,
+				"type": "R"
+			},
+			"12103185": {
+				"blk": 3,
+				"cas": 1,
+				"fou": 3,
+				"name": "Garalash",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103188": {
+				"fou": 2,
+				"name": "Ygadekai",
+				"prespp": 6,
+				"rus": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12114193": {
+				"blk": 9,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Omphuross",
+				"prespp": 13,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12124731": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Rabius",
+				"prespp": 16,
+				"rus": -2,
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"12143379": {
+				"name": "Malarus",
+				"prespp": 9,
+				"rus": 10,
+				"tur": 3,
+				"type": "R"
+			},
+			"12179689": {
+				"blk": 3,
+				"name": "Syphidemis",
+				"rus": 20,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"896277": {
+			"12103955": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Khul",
+				"prespp": 20,
+				"spp": 2,
+				"tur": 17,
+				"type": "B"
+			},
+			"12103956": {
+				"blk": 9,
+				"name": "Qu'arakk",
+				"prespp": 11,
+				"tur": 17,
+				"type": "B"
+			},
+			"12103957": {
+				"name": "Skiril",
+				"prespp": 19,
+				"tur": 2,
+				"type": "B"
+			},
+			"12103958": {
+				"blk": 4,
+				"cas": 2,
+				"name": "Zuznifik",
+				"prespp": 15,
+				"rus": 12,
+				"spp": 7,
+				"tds": 1,
+				"tur": 17,
+				"type": "B"
+			},
+			"12103985": {
+				"name": "Thraggskell",
+				"prespp": 6,
+				"tur": 4,
+				"type": "R"
+			},
+			"12103987": {
+				"name": "Hebnak-sneekl",
+				"prespp": 3,
+				"tur": 1,
+				"type": "R"
+			},
+			"12103988": {
+				"name": "Stuntlbosh",
+				"prespp": 3,
+				"rus": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"12103989": {
+				"mvp": 1,
+				"name": "Grotslag",
+				"pas": 1,
+				"prespp": 24,
+				"rus": 19,
+				"spp": 8,
+				"tds": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"12193813": {
+				"name": "Sylvester Coldfield",
+				"type": "R"
+			},
+			"12193814": {
+				"name": "Sylvester Strongstone",
+				"tur": 3,
+				"type": "R"
+			},
+			"12193815": {
+				"name": "Zachary Silenteagle",
+				"tur": 5,
+				"type": "R"
+			},
+			"896277M1": {
+				"name": "Merc Slave 1",
+				"tur": 8,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1055975",
 	"team_performance": {
 		"896228": {
 			"cas": 4,
 			"casdiff": 1,
+			"name": "Gardeners of Nurgle",
 			"rsym": "D",
 			"score": 2,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 2,
+			"tdsdiff": 0
 		},
 		"896277": {
 			"cas": 3,
 			"casdiff": -1,
+			"name": "Thirteenth Circle Abominations",
 			"rsym": "D",
 			"score": 2,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 2,
+			"tdsdiff": 0
 		}
 	}
 }

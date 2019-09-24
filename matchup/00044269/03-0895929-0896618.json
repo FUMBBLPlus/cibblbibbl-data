@@ -1,19 +1,202 @@
 {
 	"!excluded": "no",
+	"matchId": "3959425",
+	"player_performance": {
+		"895929": {
+			"12098249": {
+				"blk": 5,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Fangsnapper",
+				"spp": 5,
+				"tur": 7,
+				"type": "R"
+			},
+			"12098256": {
+				"blk": 4,
+				"name": "Windfury",
+				"tur": 10,
+				"type": "R"
+			},
+			"12098257": {
+				"blk": 2,
+				"name": "Clawchest",
+				"prespp": 8,
+				"tur": 14,
+				"type": "R"
+			},
+			"12098258": {
+				"blk": 2,
+				"name": "Silverscar",
+				"prespp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"12098263": {
+				"blk": 3,
+				"name": "Silverstriker",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12098287": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Amberfinger",
+				"pas": -1,
+				"rus": -1,
+				"spp": 1,
+				"tur": 9,
+				"type": "R"
+			},
+			"12098289": {
+				"name": "Crowripper",
+				"tur": 9,
+				"type": "R"
+			},
+			"12098290": {
+				"blk": 2,
+				"name": "Heartchewer",
+				"tur": 8,
+				"type": "R"
+			},
+			"12098291": {
+				"blk": 1,
+				"name": "Ironspine",
+				"tur": 9,
+				"type": "R"
+			},
+			"12098294": {
+				"name": "Blackchewer",
+				"tur": 8,
+				"type": "R"
+			},
+			"12098296": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Cragclaw",
+				"spp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"12098297": {
+				"name": "Duskdigger",
+				"rus": 6,
+				"tur": 13,
+				"type": "R"
+			}
+		},
+		"896618": {
+			"12109600": {
+				"name": "Alumar",
+				"type": "R"
+			},
+			"12109601": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Buraniel",
+				"prespp": 3,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"12109602": {
+				"name": "Bilenduin",
+				"prespp": 6,
+				"rus": 15,
+				"spp": 3,
+				"tds": 1,
+				"tur": 9,
+				"type": "R"
+			},
+			"12109604": {
+				"name": "Morniun",
+				"tur": 3,
+				"type": "R"
+			},
+			"12109605": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Neminor",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12109606": {
+				"blk": 3,
+				"cas": 1,
+				"fou": 1,
+				"name": "Quinluin",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12109607": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Luendil",
+				"rus": -5,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12109608": {
+				"blk": 1,
+				"fou": 2,
+				"name": "Oliveil",
+				"tur": 16,
+				"type": "R"
+			},
+			"12109609": {
+				"name": "Primoriel",
+				"tur": 5,
+				"type": "R"
+			},
+			"12109610": {
+				"blk": 2,
+				"cps": 1,
+				"name": "Clairion",
+				"pas": 2,
+				"rus": -4,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12109611": {
+				"name": "Hurindiel",
+				"type": "R"
+			},
+			"12114177": {
+				"blk": 1,
+				"fou": 2,
+				"name": "Sylvester Silentwing",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1033811",
 	"team_performance": {
 		"895929": {
 			"cas": 2,
 			"casdiff": -1,
+			"name": "Fangsnapper's Clawpack",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"896618": {
 			"cas": 3,
 			"casdiff": 1,
+			"name": "Charace Charioteers",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

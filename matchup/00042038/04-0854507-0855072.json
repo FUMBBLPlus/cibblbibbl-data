@@ -1,19 +1,238 @@
 {
 	"!excluded": "no",
+	"matchId": "3865581",
+	"player_performance": {
+		"854507": {
+			"11439074": {
+				"name": "M'zart, the Unbound Flame",
+				"prespp": 2,
+				"type": "R"
+			},
+			"11439075": {
+				"name": "Eltrith, the Silent",
+				"prespp": 12,
+				"type": "R"
+			},
+			"11439076": {
+				"blk": 3,
+				"name": "Maximilian Windhelm, the Fallen",
+				"prespp": 8,
+				"tur": 6,
+				"type": "R"
+			},
+			"11439078": {
+				"blk": 2,
+				"name": "Emminoth",
+				"prespp": 2,
+				"tur": 3,
+				"type": "R"
+			},
+			"11439079": {
+				"blk": 6,
+				"died": [
+					2,
+					3,
+					"blocked",
+					"11445736"
+				],
+				"name": "Turakal",
+				"prespp": 13,
+				"rus": 9,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11439080": {
+				"blk": 5,
+				"name": "Vol'arth the Brazen",
+				"prespp": 15,
+				"rus": 4,
+				"tur": 14,
+				"type": "R"
+			},
+			"11439087": {
+				"died": [
+					1,
+					3,
+					"blocked",
+					"11445735"
+				],
+				"name": "Zathogghua",
+				"tur": 2,
+				"type": "R"
+			},
+			"11439088": {
+				"name": "Yibb-Tstll",
+				"prespp": 5,
+				"tur": 4,
+				"type": "R"
+			},
+			"11439090": {
+				"blk": 8,
+				"name": "Do Galaad, the Herald",
+				"prespp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"11439091": {
+				"name": "A Formless Thing",
+				"prespp": 5,
+				"tur": 6,
+				"type": "R"
+			},
+			"11439092": {
+				"name": "Voonith",
+				"tur": 6,
+				"type": "R"
+			},
+			"11487104": {
+				"name": "Dantalion the Harbinger",
+				"prespp": 4,
+				"tur": 1,
+				"type": "R"
+			},
+			"11560684": {
+				"blk": 3,
+				"died": [
+					2,
+					1,
+					"blocked",
+					"11580236"
+				],
+				"mvp": 1,
+				"name": "Andashar",
+				"spp": 5,
+				"tur": 9,
+				"type": "R"
+			},
+			"854507S1": {
+				"blk": 2,
+				"name": "Max Spleenripper",
+				"tur": 8,
+				"type": "S"
+			}
+		},
+		"855072": {
+			"11445733": {
+				"blk": 3,
+				"name": "Jack",
+				"prespp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"11445734": {
+				"blk": 8,
+				"name": "Annie",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"11445735": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Katheen",
+				"prespp": 11,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11445736": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Teddy",
+				"prespp": 23,
+				"rus": 12,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11445737": {
+				"blk": 2,
+				"name": "Morgan le Fay",
+				"prespp": 2,
+				"rus": 4,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11445738": {
+				"blk": 5,
+				"cas": 1,
+				"fou": 1,
+				"name": "Merlin",
+				"prespp": 3,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11445741": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Queen Guinevere",
+				"prespp": 7,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11445745": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Thiebaut l'Amy",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11445747": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Blanchet Poupart",
+				"prespp": 10,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11580235": {
+				"blk": 1,
+				"fou": 1,
+				"name": "King Arthur III",
+				"tur": 11,
+				"type": "R"
+			},
+			"11580236": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Paul Whitesnake",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "925123",
 	"team_performance": {
 		"854507": {
 			"cas": 0,
 			"casdiff": -6,
+			"name": "Coven of the Mirrored Hall",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"855072": {
 			"cas": 6,
 			"casdiff": 6,
+			"name": "Carcassonne Knights",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

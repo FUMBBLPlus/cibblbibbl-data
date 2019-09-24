@@ -1,19 +1,238 @@
 {
 	"!excluded": "no",
+	"matchId": "3934502",
+	"player_performance": {
+		"882382": {
+			"11881468": {
+				"blk": 5,
+				"name": "Dezouk",
+				"tur": 17,
+				"type": "R"
+			},
+			"11881470": {
+				"blk": 14,
+				"name": "Gazeem",
+				"prespp": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"11881471": {
+				"blk": 12,
+				"name": "Gaudi",
+				"prespp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"11881474": {
+				"name": "Halzoun",
+				"tur": 9,
+				"type": "R"
+			},
+			"11881482": {
+				"blk": 1,
+				"name": "Jafar",
+				"prespp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11881487": {
+				"blk": 3,
+				"fou": 3,
+				"name": "Fidget",
+				"prespp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11881490": {
+				"fou": 1,
+				"mvp": 1,
+				"name": "Shan Yu",
+				"prespp": 2,
+				"spp": 5,
+				"type": "R"
+			},
+			"11881491": {
+				"blk": 13,
+				"name": "Gothel",
+				"prespp": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"11881492": {
+				"blk": 3,
+				"fou": 2,
+				"name": "Te Ka",
+				"tur": 8,
+				"type": "R"
+			},
+			"11881505": {
+				"blk": 2,
+				"died": [
+					2,
+					5,
+					"blocked",
+					"11950136"
+				],
+				"name": "Oogie Boogie",
+				"pas": 2,
+				"prespp": 18,
+				"rus": 35,
+				"tur": 13,
+				"type": "R"
+			},
+			"11942620": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Ka Viku",
+				"prespp": 3,
+				"rus": 10,
+				"spp": 8,
+				"tds": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11942621": {
+				"name": "Balkaza",
+				"tur": 9,
+				"type": "R"
+			},
+			"11942628": {
+				"name": "Scroop",
+				"prespp": 7,
+				"tur": 14,
+				"type": "R"
+			},
+			"11961337": {
+				"name": "Alli Baba",
+				"type": "R"
+			}
+		},
+		"883051": {
+			"11892405": {
+				"blk": 7,
+				"name": "\"Featherweight\" Gunnar",
+				"prespp": 31,
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"11892407": {
+				"name": "Hagen Halvarson",
+				"prespp": 4,
+				"type": "R"
+			},
+			"11892408": {
+				"blk": 10,
+				"mvp": 1,
+				"name": "Harkon Halvarson",
+				"prespp": 7,
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"11892413": {
+				"name": "Asmund the Pious",
+				"prespp": 4,
+				"type": "R"
+			},
+			"11892414": {
+				"blk": 5,
+				"name": "Bjorn of the Hammer",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11892420": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Crosby the Stout",
+				"prespp": 4,
+				"rus": 1,
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11892424": {
+				"blk": 4,
+				"name": "Dag of The Mire",
+				"prespp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11892427": {
+				"blk": 1,
+				"name": "Erland the Wayfarer",
+				"tur": 5,
+				"type": "R"
+			},
+			"11892428": {
+				"blk": 1,
+				"name": "Folke Ninth-Son",
+				"tur": 10,
+				"type": "R"
+			},
+			"11892429": {
+				"name": "Geir the Fisherman",
+				"type": "R"
+			},
+			"11892430": {
+				"blk": 1,
+				"name": "Halvor the Rock",
+				"prespp": 6,
+				"tur": 7,
+				"type": "R"
+			},
+			"11947871": {
+				"blk": 1,
+				"cps": 1,
+				"name": "\"Ambisinister\" Xander",
+				"pas": 3,
+				"rus": 18,
+				"spp": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"11950136": {
+				"blk": 7,
+				"cas": 2,
+				"name": "The Notorious Jerk",
+				"prespp": 5,
+				"spp": 4,
+				"tur": 15,
+				"type": "R"
+			},
+			"11970660": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Robert Palestream",
+				"tur": 12,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1005097",
 	"team_performance": {
 		"882382": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Ali's Anarchists",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"883051": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Vostok Iron Head ",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

@@ -1,19 +1,225 @@
 {
 	"!excluded": "no",
+	"matchId": "3964468",
+	"player_performance": {
+		"855228": {
+			"11448253": {
+				"fou": 1,
+				"name": "Kacy Cataranzo",
+				"prespp": 12,
+				"type": "R"
+			},
+			"11801400": {
+				"blk": 9,
+				"name": "Lei Zhang",
+				"prespp": 18,
+				"tur": 16,
+				"type": "R"
+			},
+			"11886203": {
+				"blk": 3,
+				"name": "Josh Levin",
+				"prespp": 19,
+				"tur": 16,
+				"type": "R"
+			},
+			"12015155": {
+				"blk": 6,
+				"name": "Asher Manbeck",
+				"prespp": 20,
+				"tur": 14,
+				"type": "R"
+			},
+			"12037464": {
+				"blk": 7,
+				"name": "Anika Spike",
+				"prespp": 13,
+				"tur": 16,
+				"type": "R"
+			},
+			"12058309": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Aidan Champion",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12074916": {
+				"blk": 10,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Lauren Loth",
+				"prespp": 12,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12126319": {
+				"name": "Nick Foles",
+				"rus": 41,
+				"spp": 6,
+				"tds": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"12126320": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Graham Strongeagle",
+				"tur": 16,
+				"type": "R"
+			},
+			"12126321": {
+				"died": [
+					1,
+					5,
+					"blocked",
+					"11737078"
+				],
+				"name": "Edward Dirtysnake",
+				"type": "R"
+			},
+			"12126322": {
+				"blk": 3,
+				"fou": 2,
+				"name": "Robert Grottylightning",
+				"tur": 16,
+				"type": "R"
+			},
+			"855228S1": {
+				"blk": 5,
+				"name": "Borg'th N'throg",
+				"tur": 16,
+				"type": "S"
+			}
+		},
+		"873349": {
+			"11737076": {
+				"blk": 5,
+				"cps": 2,
+				"name": "Harbert Kallath",
+				"pas": 10,
+				"prespp": 44,
+				"rus": 11,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11737077": {
+				"name": "Arnold \"waists-breaker\" Thacocroth",
+				"prespp": 60,
+				"type": "R"
+			},
+			"11737078": {
+				"blk": 8,
+				"cas": 2,
+				"name": "Sigmund \"silent\" Thacocroth",
+				"prespp": 52,
+				"rus": 13,
+				"spp": 7,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11737079": {
+				"blk": 7,
+				"name": "Landolf \"pickpocketer\" Thacocroth",
+				"prespp": 65,
+				"rus": -5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11737080": {
+				"blk": 2,
+				"name": "Hademar \"cradle robber\" Thacocroth",
+				"prespp": 52,
+				"tur": 6,
+				"type": "R"
+			},
+			"11737081": {
+				"name": "Aimar Kallath",
+				"prespp": 41,
+				"tur": 16,
+				"type": "R"
+			},
+			"11737085": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Falko Licht",
+				"prespp": 11,
+				"spp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"11737086": {
+				"blk": 1,
+				"name": "Ilya Storm",
+				"tur": 16,
+				"type": "R"
+			},
+			"11746799": {
+				"name": "Adri Kallath",
+				"prespp": 53,
+				"tur": 2,
+				"type": "R"
+			},
+			"11835133": {
+				"blk": 1,
+				"name": "Adolf Freshbreeze",
+				"prespp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"11948498": {
+				"name": "Rico kallath",
+				"prespp": 11,
+				"tur": 3,
+				"type": "R"
+			},
+			"12095341": {
+				"name": "Rudolf Moranion",
+				"tur": 4,
+				"type": "R"
+			},
+			"12095342": {
+				"blk": 3,
+				"name": "Jürg Schweizer",
+				"tur": 13,
+				"type": "R"
+			},
+			"12136164": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Alec van Hergwinen",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1039549",
 	"team_performance": {
 		"855228": {
 			"cas": 2,
 			"casdiff": -1,
+			"name": "Ninja Warriors",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"873349": {
 			"cas": 3,
 			"casdiff": 1,
+			"name": "Reik River Kicking Mules",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

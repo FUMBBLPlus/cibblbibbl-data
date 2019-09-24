@@ -1,19 +1,232 @@
 {
 	"!excluded": "no",
+	"matchId": "3989727",
+	"player_performance": {
+		"892248": {
+			"12037796": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Threasher",
+				"prespp": 26,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12037798": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Sharpnose",
+				"prespp": 9,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"12037800": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Blackfin",
+				"prespp": 18,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12037805": {
+				"name": "Cap'n Dirk Bloodlust",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12037810": {
+				"blk": 1,
+				"name": "Mutineer Morin",
+				"pas": 3,
+				"prespp": 17,
+				"rus": 31,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12037811": {
+				"name": "Balthasar Shipwright",
+				"tur": 3,
+				"type": "R"
+			},
+			"12037814": {
+				"name": "Althar the Converted",
+				"prespp": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"12037816": {
+				"blk": 1,
+				"name": "Sharktooth",
+				"prespp": 5,
+				"tur": 12,
+				"type": "R"
+			},
+			"12037817": {
+				"name": "One-armed Jack",
+				"prespp": 3,
+				"rus": 6,
+				"tur": 7,
+				"type": "R"
+			},
+			"12037818": {
+				"name": "Morgan the Crow",
+				"prespp": 4,
+				"tur": 2,
+				"type": "R"
+			},
+			"12138034": {
+				"name": "Banjo Billy",
+				"prespp": 5,
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 3,
+				"type": "R"
+			},
+			"12140421": {
+				"name": "Gunner",
+				"prespp": 7,
+				"tur": 9,
+				"type": "R"
+			},
+			"12172370": {
+				"blk": 2,
+				"int": 1,
+				"name": "Slim Jim",
+				"prespp": 3,
+				"rus": 8,
+				"spp": 5,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12235834": {
+				"blk": 1,
+				"name": "Bosun Codswallap",
+				"tur": 7,
+				"type": "R"
+			},
+			"12235835": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Hooktooth",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"903587": {
+			"12217650": {
+				"blk": 10,
+				"name": "Ragnis Smoulder",
+				"tur": 15,
+				"type": "R"
+			},
+			"12217651": {
+				"blk": 1,
+				"name": "Huricus Breeze",
+				"prespp": 10,
+				"tur": 14,
+				"type": "R"
+			},
+			"12217652": {
+				"blk": 2,
+				"name": "Chinook Gust",
+				"rus": 8,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12217653": {
+				"name": "Avalan Slate",
+				"tur": 13,
+				"type": "R"
+			},
+			"12217654": {
+				"blk": 1,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Umber Shale",
+				"prespp": 2,
+				"spp": 7,
+				"tur": 6,
+				"type": "R"
+			},
+			"12217655": {
+				"name": "Caenum Storm",
+				"tur": 3,
+				"type": "R"
+			},
+			"12217663": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Avala Falls",
+				"spp": 1,
+				"tur": 9,
+				"type": "R"
+			},
+			"12217666": {
+				"blk": 2,
+				"name": "Sigmis Inferno",
+				"tur": 10,
+				"type": "R"
+			},
+			"12217667": {
+				"blk": 1,
+				"name": "Soots Char",
+				"prespp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12217669": {
+				"blk": 7,
+				"name": "Fye Tinder",
+				"prespp": 9,
+				"tur": 15,
+				"type": "R"
+			},
+			"12250978": {
+				"name": "Magmis Pyre",
+				"tur": 2,
+				"type": "R"
+			},
+			"903587S1": {
+				"blk": 2,
+				"cps": 1,
+				"name": "Vinny Valhalla",
+				"rus": 8,
+				"spp": 1,
+				"tur": 7,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1068955",
 	"team_performance": {
 		"892248": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Crimson Fins",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 3,
+			"tdsdiff": 2
 		},
 		"903587": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Aqshy's Flames",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 1,
+			"tdsdiff": -2
 		}
 	}
 }

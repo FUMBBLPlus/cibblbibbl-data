@@ -1,19 +1,232 @@
 {
 	"!excluded": "no",
+	"matchId": "4017687",
+	"player_performance": {
+		"874452": {
+			"11756582": {
+				"name": "Draco Dracovich",
+				"prespp": 150,
+				"tur": 1,
+				"type": "R"
+			},
+			"11756629": {
+				"blk": 3,
+				"name": "Igor Igorivich",
+				"prespp": 143,
+				"rus": 3,
+				"tur": 8,
+				"type": "R"
+			},
+			"11756687": {
+				"blk": 1,
+				"name": "Karl",
+				"prespp": 4,
+				"tur": 7,
+				"type": "R"
+			},
+			"11756689": {
+				"blk": 6,
+				"name": "Franz",
+				"prespp": 10,
+				"tur": 15,
+				"type": "R"
+			},
+			"11980258": {
+				"blk": 1,
+				"name": "Tabbart",
+				"prespp": 18,
+				"tur": 9,
+				"type": "R"
+			},
+			"11981974": {
+				"blk": 3,
+				"fou": 2,
+				"name": "Arnold",
+				"prespp": 8,
+				"tur": 15,
+				"type": "R"
+			},
+			"12150966": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Sigfrid",
+				"pas": 3,
+				"prespp": 1,
+				"rus": 4,
+				"spp": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"12178898": {
+				"blk": 1,
+				"name": "Conrad",
+				"tur": 4,
+				"type": "R"
+			},
+			"12254615": {
+				"name": "Nickolaus",
+				"prespp": 3,
+				"tur": 3,
+				"type": "R"
+			},
+			"12319529": {
+				"mvp": 1,
+				"name": "Dracul Draculesti",
+				"prespp": 36,
+				"spp": 5,
+				"type": "R"
+			},
+			"12368009": {
+				"blk": 5,
+				"name": "Norbert von Bluten",
+				"prespp": 7,
+				"tur": 7,
+				"type": "R"
+			},
+			"12368012": {
+				"blk": 1,
+				"name": "Ulz",
+				"tur": 9,
+				"type": "R"
+			},
+			"12415471": {
+				"name": "Werner",
+				"tur": 8,
+				"type": "R"
+			},
+			"12415694": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Alex Alexsandrescu",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"12444792": {
+				"blk": 9,
+				"name": "Peter Badblood",
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"878945": {
+			"11825655": {
+				"blk": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Lashweaver Taker of Souls",
+				"prespp": 133,
+				"rus": 11,
+				"spp": 10,
+				"tds": 1,
+				"tur": 16,
+				"type": "B"
+			},
+			"11825658": {
+				"blk": 5,
+				"name": "Laesydra",
+				"prespp": 20,
+				"tur": 16,
+				"type": "R"
+			},
+			"11994839": {
+				"blk": 5,
+				"name": "Skylah the Desired",
+				"prespp": 63,
+				"tur": 16,
+				"type": "R"
+			},
+			"12066502": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Elasta Euphoria",
+				"prespp": 64,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12154896": {
+				"name": "Kit'anra",
+				"tur": 2,
+				"type": "R"
+			},
+			"12231015": {
+				"blk": 2,
+				"fou": 5,
+				"name": "Argonian",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12255001": {
+				"blk": 5,
+				"name": "Harg'Tor",
+				"prespp": 8,
+				"tur": 15,
+				"type": "R"
+			},
+			"12255005": {
+				"fou": 1,
+				"name": "Jallhaef",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"12262128": {
+				"name": "Draygon",
+				"tur": 16,
+				"type": "R"
+			},
+			"12309469": {
+				"name": "Ka'astellck",
+				"tur": 8,
+				"type": "R"
+			},
+			"12395482": {
+				"name": "Ely'khar",
+				"tur": 1,
+				"type": "R"
+			},
+			"12395483": {
+				"blk": 1,
+				"name": "Devrax",
+				"tur": 8,
+				"type": "R"
+			},
+			"12415282": {
+				"blk": 2,
+				"name": "Lilesh Snarelust",
+				"prespp": 6,
+				"rus": 27,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1101950",
 	"team_performance": {
 		"874452": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "Way of the Dragon",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"878945": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "Eternal Ecstasy",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

@@ -1,19 +1,227 @@
 {
 	"!excluded": "no",
+	"matchId": "3949088",
+	"player_performance": {
+		"874560": {
+			"11758676": {
+				"blk": 3,
+				"fou": 1,
+				"name": "The Fast But Bashy Wun",
+				"prespp": 29,
+				"tur": 8,
+				"type": "R"
+			},
+			"11758678": {
+				"blk": 11,
+				"cas": 1,
+				"name": "The Bashy But Fast Wun",
+				"prespp": 38,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11758679": {
+				"blk": 3,
+				"name": "Glog the Mighty",
+				"prespp": 19,
+				"tur": 9,
+				"type": "R"
+			},
+			"11758681": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Kruk the Sensitive",
+				"prespp": 21,
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11758683": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Flurg",
+				"prespp": 18,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11758687": {
+				"name": "Fleabag",
+				"prespp": 2,
+				"type": "R"
+			},
+			"11758690": {
+				"blk": 1,
+				"name": "Twitch",
+				"prespp": 6,
+				"rus": 17,
+				"tur": 17,
+				"type": "R"
+			},
+			"11769205": {
+				"name": "Tickle",
+				"prespp": 7,
+				"type": "R"
+			},
+			"11769207": {
+				"name": "Lunchbox",
+				"tur": 4,
+				"type": "R"
+			},
+			"11924507": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Krump the Majestic",
+				"prespp": 18,
+				"spp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11983507": {
+				"name": "Turdburgle",
+				"tur": 7,
+				"type": "R"
+			},
+			"12062094": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Chum",
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"12062098": {
+				"fou": 1,
+				"name": "Howard Bluefist",
+				"tur": 1,
+				"type": "R"
+			}
+		},
+		"888421": {
+			"11976226": {
+				"blk": 3,
+				"name": "Waziret Stunge",
+				"prespp": 6,
+				"tur": 16,
+				"type": "B"
+			},
+			"11976230": {
+				"mvp": 1,
+				"name": "Firrikeet Sharpblade",
+				"prespp": 11,
+				"spp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"11976233": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Lirrikeet Sharpblade",
+				"prespp": 24,
+				"spp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11976237": {
+				"blk": 3,
+				"name": "Skritt Swiftpaw",
+				"prespp": 21,
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11976241": {
+				"name": "Turm",
+				"prespp": 10,
+				"tur": 8,
+				"type": "R"
+			},
+			"11976244": {
+				"name": "Blogz",
+				"type": "R"
+			},
+			"11976246": {
+				"fou": 1,
+				"name": "Criz",
+				"prespp": 2,
+				"tur": 6,
+				"type": "R"
+			},
+			"11976248": {
+				"died": [
+					2,
+					8,
+					"blocked",
+					"11758683"
+				],
+				"name": "Groteld",
+				"tur": 3,
+				"type": "R"
+			},
+			"11981444": {
+				"name": "Yazzirit Rakeet",
+				"rus": 3,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12039964": {
+				"name": "Zik Shadowfang",
+				"tur": 5,
+				"type": "R"
+			},
+			"12039966": {
+				"blk": 1,
+				"name": "Sozax",
+				"tur": 8,
+				"type": "R"
+			},
+			"12054568": {
+				"fou": 2,
+				"name": "Robble",
+				"tur": 16,
+				"type": "R"
+			},
+			"12060305": {
+				"blk": 1,
+				"name": "Blight Darktail",
+				"tur": 10,
+				"type": "R"
+			},
+			"888421S1": {
+				"blk": 3,
+				"name": "Skitter Stab-Stab",
+				"pas": 1,
+				"rus": 6,
+				"tur": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1022094",
 	"team_performance": {
 		"874560": {
 			"cas": 4,
 			"casdiff": 2,
+			"name": "Poshgit's Daredevils",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"888421": {
 			"cas": 2,
 			"casdiff": -2,
+			"name": "Gobskrav Alliance",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

@@ -1,19 +1,208 @@
 {
 	"!excluded": "no",
+	"matchId": "3929397",
+	"player_performance": {
+		"883278": {
+			"11895930": {
+				"blk": 9,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Big Ben Rottingsburger",
+				"prespp": 2,
+				"spp": 7,
+				"tur": 16,
+				"type": "B"
+			},
+			"11895933": {
+				"blk": 6,
+				"name": "'Mean' Joe the Green",
+				"tur": 14,
+				"type": "R"
+			},
+			"11895934": {
+				"blk": 6,
+				"name": "L. C. Grubwood",
+				"tur": 16,
+				"type": "R"
+			},
+			"11895935": {
+				"blk": 10,
+				"name": "Dwight Spite",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11895937": {
+				"blk": 5,
+				"name": "Mel Bile",
+				"tur": 16,
+				"type": "R"
+			},
+			"11895939": {
+				"blk": 1,
+				"name": "Franco Hellish",
+				"prespp": 1,
+				"tur": 3,
+				"type": "R"
+			},
+			"11895940": {
+				"name": "Larry Boil",
+				"tur": 2,
+				"type": "R"
+			},
+			"11895941": {
+				"name": "Rocky Blaaargh-ber",
+				"tur": 9,
+				"type": "R"
+			},
+			"11895945": {
+				"blk": 2,
+				"name": "Troy Pestamalu",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11895946": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Terry Badshaw",
+				"tur": 9,
+				"type": "R"
+			},
+			"11895948": {
+				"name": "Jerome Bugiss",
+				"tur": 16,
+				"type": "R"
+			},
+			"883278M1": {
+				"blk": 6,
+				"name": "Merc Pestigor 1",
+				"rus": 8,
+				"tur": 16,
+				"type": "M"
+			}
+		},
+		"883751": {
+			"11903227": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Death Mask",
+				"tur": 8,
+				"type": "R"
+			},
+			"11903233": {
+				"blk": 3,
+				"name": "Ramhotep",
+				"tur": 8,
+				"type": "R"
+			},
+			"11903246": {
+				"blk": 9,
+				"name": "Colossus",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11903249": {
+				"blk": 3,
+				"name": "Sentinel of the Sands",
+				"prespp": 16,
+				"rus": 24,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11903250": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "The All-Seeing Eye",
+				"prespp": 3,
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"11903253": {
+				"name": "Anubis the Embalmer",
+				"tur": 9,
+				"type": "R"
+			},
+			"11903254": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Hathor the Pallbearer",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11903258": {
+				"blk": 3,
+				"name": "Seshat the Scribe",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11903260": {
+				"fou": 1,
+				"name": "Nightwalker",
+				"tur": 9,
+				"type": "R"
+			},
+			"11903261": {
+				"blk": 1,
+				"name": "The Grand Vizier",
+				"prespp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11903266": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Stargazer",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11903267": {
+				"name": "Tomb Raider",
+				"prespp": 5,
+				"tur": 1,
+				"type": "R"
+			},
+			"11903280": {
+				"name": "Baba the Builder",
+				"tur": 17,
+				"type": "R"
+			},
+			"11936541": {
+				"blk": 1,
+				"name": "Snakecharmer",
+				"tur": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "999104",
 	"team_performance": {
 		"883278": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Pittsburgh Scabbers",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"883751": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Slaves of the Serpent Queen",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

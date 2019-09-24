@@ -1,19 +1,216 @@
 {
 	"!excluded": "no",
+	"matchId": "3990133",
+	"player_performance": {
+		"896277": {
+			"12103956": {
+				"blk": 12,
+				"cas": 2,
+				"name": "Qu'arakk",
+				"prespp": 29,
+				"spp": 4,
+				"tur": 16,
+				"type": "B"
+			},
+			"12103957": {
+				"blk": 5,
+				"name": "Skiril",
+				"prespp": 23,
+				"tur": 16,
+				"type": "B"
+			},
+			"12103985": {
+				"fou": 1,
+				"mvp": 1,
+				"name": "Thraggskell",
+				"prespp": 12,
+				"rus": 19,
+				"spp": 8,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103987": {
+				"fou": 2,
+				"name": "Hebnak-sneekl",
+				"prespp": 6,
+				"tur": 2,
+				"type": "R"
+			},
+			"12103988": {
+				"name": "Stuntlbosh",
+				"prespp": 14,
+				"rus": 23,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12225642": {
+				"blk": 7,
+				"name": "Ukzatch",
+				"prespp": 20,
+				"tur": 16,
+				"type": "B"
+			},
+			"12289233": {
+				"name": "Julius Weakfist",
+				"tur": 4,
+				"type": "R"
+			},
+			"12289234": {
+				"name": "Graham Truefist",
+				"tur": 5,
+				"type": "R"
+			},
+			"896277M1": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Merc Rat Ogre 1",
+				"spp": 2,
+				"tur": 16,
+				"type": "M"
+			},
+			"896277M2": {
+				"blk": 4,
+				"name": "Merc Rat Ogre 2",
+				"tur": 16,
+				"type": "M"
+			},
+			"896277S1": {
+				"blk": 6,
+				"name": "Fezglitch",
+				"tur": 11,
+				"type": "S"
+			}
+		},
+		"898507": {
+			"12140161": {
+				"blk": 5,
+				"name": "Terror of Wurtbad",
+				"prespp": 25,
+				"tur": 17,
+				"type": "R"
+			},
+			"12140162": {
+				"blk": 1,
+				"name": "Hanskarl Denk",
+				"prespp": 10,
+				"tur": 1,
+				"type": "R"
+			},
+			"12140169": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Frederick van Hal",
+				"prespp": 11,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"12140173": {
+				"blk": 3,
+				"died": [
+					1,
+					5,
+					"blocked",
+					"12103956"
+				],
+				"name": "Artem",
+				"prespp": 11,
+				"tur": 5,
+				"type": "R"
+			},
+			"12140175": {
+				"blk": 8,
+				"mvp": 1,
+				"name": "Vigo",
+				"prespp": 19,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"12140180": {
+				"blk": 1,
+				"name": "Count Petr von Stolpe",
+				"prespp": 24,
+				"rus": 16,
+				"tur": 8,
+				"type": "R"
+			},
+			"12140181": {
+				"blk": 1,
+				"name": "Carcass",
+				"prespp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"12140182": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Bloat",
+				"prespp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"12140184": {
+				"blk": 1,
+				"name": "Rot",
+				"tur": 7,
+				"type": "R"
+			},
+			"12149573": {
+				"blk": 2,
+				"name": "Beast of Black-Run",
+				"prespp": 19,
+				"tur": 3,
+				"type": "R"
+			},
+			"12227552": {
+				"blk": 2,
+				"name": "Baronetess Odile von Stolpe",
+				"rus": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"12231366": {
+				"name": "Putrid",
+				"type": "R"
+			},
+			"12231367": {
+				"blk": 2,
+				"name": "Floater",
+				"tur": 17,
+				"type": "R"
+			},
+			"12254199": {
+				"name": "Maggot",
+				"tur": 6,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1069597",
 	"team_performance": {
 		"896277": {
 			"cas": 5,
 			"casdiff": 4,
+			"name": "Thirteenth Circle Abominations",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		},
 		"898507": {
 			"cas": 1,
 			"casdiff": -4,
+			"name": "Leicheberg Lycans",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		}
 	}
 }

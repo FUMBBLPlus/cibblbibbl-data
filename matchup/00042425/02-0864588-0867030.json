@@ -1,19 +1,214 @@
 {
 	"!excluded": "no",
+	"matchId": "3877167",
+	"player_performance": {
+		"864588": {
+			"11595377": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Black Bart",
+				"prespp": 4,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11595379": {
+				"name": "Thunder",
+				"tur": 2,
+				"type": "R"
+			},
+			"11595380": {
+				"name": "Cannons",
+				"tur": 12,
+				"type": "R"
+			},
+			"11595383": {
+				"blk": 2,
+				"name": "Silver Eye",
+				"prespp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"11595384": {
+				"name": "Crusty",
+				"prespp": 3,
+				"rus": 3,
+				"tur": 15,
+				"type": "R"
+			},
+			"11595386": {
+				"blk": 1,
+				"died": [
+					2,
+					6,
+					"blocked",
+					"11633494"
+				],
+				"name": "Mad Eye",
+				"prespp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"11595387": {
+				"name": "Barnacle",
+				"prespp": 4,
+				"type": "R"
+			},
+			"11595388": {
+				"name": "Scar Face",
+				"tur": 2,
+				"type": "R"
+			},
+			"11595390": {
+				"blk": 2,
+				"died": [
+					2,
+					6,
+					"eaten",
+					null
+				],
+				"name": "One-Eared",
+				"prespp": 6,
+				"tur": 10,
+				"type": "R"
+			},
+			"11595391": {
+				"mvp": 1,
+				"name": "Fishlips",
+				"spp": 5,
+				"tur": 3,
+				"type": "R"
+			},
+			"11646612": {
+				"blk": 4,
+				"name": "Shifty Hayes",
+				"tur": 5,
+				"type": "R"
+			},
+			"11646613": {
+				"name": "Edward Hardfield",
+				"tur": 14,
+				"type": "R"
+			}
+		},
+		"867030": {
+			"11633486": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Sokitoomi",
+				"spp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11633494": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Grymlog",
+				"prespp": 4,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11633500": {
+				"blk": 2,
+				"name": "Quaxili",
+				"tur": 16,
+				"type": "R"
+			},
+			"11633503": {
+				"blk": 2,
+				"name": "Kha-Ataxa",
+				"rus": 20,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11633505": {
+				"blk": 6,
+				"mvp": 1,
+				"name": "KhaBoq",
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11633506": {
+				"name": "Xlanaxlot",
+				"type": "R"
+			},
+			"11633507": {
+				"blk": 2,
+				"name": "Xapati",
+				"prespp": 5,
+				"rus": 6,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11633508": {
+				"name": "Tiktaq'To",
+				"tur": 10,
+				"type": "R"
+			},
+			"11633509": {
+				"blk": 2,
+				"name": "Zwup",
+				"rus": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"11633511": {
+				"blk": 3,
+				"name": "Xlatli",
+				"tur": 16,
+				"type": "R"
+			},
+			"11633512": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Huamundi",
+				"prespp": 3,
+				"rus": 11,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11646647": {
+				"name": "Nicholas Silenthawk",
+				"tur": 6,
+				"type": "R"
+			},
+			"867030M1": {
+				"blk": 3,
+				"name": "Merc Skink 1",
+				"tur": 16,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "938514",
 	"team_performance": {
 		"864588": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Blackmud Tridents",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		},
 		"867030": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Sport Spawning Zlatlan",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		}
 	}
 }

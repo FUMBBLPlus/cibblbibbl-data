@@ -1,19 +1,194 @@
 {
 	"!excluded": "no",
+	"matchId": "3959729",
+	"player_performance": {
+		"895806": {
+			"12096366": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Lord Stritzak Nightmaul",
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12096367": {
+				"blk": 4,
+				"name": "Lord Chrikch Fierymaul",
+				"tur": 11,
+				"type": "R"
+			},
+			"12096369": {
+				"blk": 8,
+				"name": "High Priest Zrach Roughfang",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12096370": {
+				"blk": 6,
+				"name": "High Priest Icquelk Heartclaw",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12096371": {
+				"blk": 3,
+				"name": "Threekch Amberchest",
+				"prespp": 12,
+				"rus": 17,
+				"tur": 11,
+				"type": "R"
+			},
+			"12096372": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Sniskrul Lowmaw",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 9,
+				"type": "R"
+			},
+			"12096373": {
+				"blk": 1,
+				"name": "Skruthruach Steelfury",
+				"tur": 16,
+				"type": "R"
+			},
+			"12096374": {
+				"name": "Qhrotch Barbedfinger",
+				"prespp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"12096375": {
+				"name": "Vonkalk Ashborn",
+				"tur": 12,
+				"type": "R"
+			},
+			"12096376": {
+				"blk": 1,
+				"name": "Critch Rapidfang",
+				"tur": 13,
+				"type": "R"
+			},
+			"12096377": {
+				"blk": 2,
+				"name": "Chruch Grimlasher",
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12115666": {
+				"name": "Antirion Woodscratcher",
+				"tur": 3,
+				"type": "R"
+			}
+		},
+		"896228": {
+			"12103149": {
+				"blk": 1,
+				"name": "Mortarion",
+				"prespp": 7,
+				"tur": 8,
+				"type": "B"
+			},
+			"12103150": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Scabeiathrax",
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103152": {
+				"blk": 8,
+				"name": "Ku'Gath",
+				"tur": 16,
+				"type": "R"
+			},
+			"12103156": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Epidemius",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103159": {
+				"blk": 3,
+				"name": "Typhus",
+				"prespp": 3,
+				"rus": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103164": {
+				"blk": 4,
+				"name": "Artemius",
+				"rus": 4,
+				"tur": 11,
+				"type": "R"
+			},
+			"12103165": {
+				"blk": 5,
+				"name": "Mattius Heiron",
+				"rus": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103183": {
+				"blk": 4,
+				"name": "Burroroz",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103185": {
+				"fou": 1,
+				"name": "Garalash",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12103188": {
+				"blk": 3,
+				"name": "Ygadekai",
+				"rus": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12114193": {
+				"blk": 7,
+				"name": "Omphuross",
+				"tur": 14,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1034161",
 	"team_performance": {
 		"895806": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Black Chasm Overlords",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"896228": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Gardeners of Nurgle",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

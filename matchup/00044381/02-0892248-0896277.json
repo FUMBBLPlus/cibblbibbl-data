@@ -1,19 +1,207 @@
 {
 	"!excluded": "no",
+	"matchId": "3963547",
+	"player_performance": {
+		"892248": {
+			"12037796": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Threasher",
+				"prespp": 15,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"12037798": {
+				"blk": 8,
+				"cas": 1,
+				"fou": 1,
+				"name": "Sharpnose",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12037800": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Blackfin",
+				"spp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"12037805": {
+				"blk": 1,
+				"cas": 1,
+				"fou": 1,
+				"name": "Cap'n Dirk Bloodlust",
+				"spp": 2,
+				"tur": 3,
+				"type": "R"
+			},
+			"12037807": {
+				"name": "Bosun Codswallap",
+				"tur": 3,
+				"type": "R"
+			},
+			"12037809": {
+				"blk": 2,
+				"name": "Ivor the Thrice Bitten",
+				"tur": 8,
+				"type": "R"
+			},
+			"12037810": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Mutineer Morin",
+				"prespp": 13,
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"12037811": {
+				"name": "Balthasar Shipwright",
+				"type": "R"
+			},
+			"12037814": {
+				"name": "Althar the Converted",
+				"type": "R"
+			},
+			"12037816": {
+				"blk": 1,
+				"name": "Sharktooth",
+				"tur": 4,
+				"type": "R"
+			},
+			"12037817": {
+				"blk": 2,
+				"name": "One-armed Jack",
+				"rus": 10,
+				"tur": 9,
+				"type": "R"
+			},
+			"12037818": {
+				"name": "Morgan the Crow",
+				"rus": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"12138034": {
+				"blk": 4,
+				"name": "Banjo Billy",
+				"tur": 15,
+				"type": "R"
+			},
+			"12140421": {
+				"fou": 1,
+				"name": "Gunner",
+				"type": "R"
+			}
+		},
+		"896277": {
+			"12103955": {
+				"blk": 3,
+				"name": "Khul",
+				"prespp": 11,
+				"tur": 11,
+				"type": "R"
+			},
+			"12103956": {
+				"blk": 10,
+				"name": "Qu'arakk",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103957": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Skiril",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103958": {
+				"blk": 9,
+				"cas": 2,
+				"name": "Zuznifik",
+				"prespp": 8,
+				"rus": 4,
+				"spp": 7,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103985": {
+				"name": "Thraggskell",
+				"pas": -1,
+				"prespp": 3,
+				"rus": -1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103986": {
+				"name": "Bodgnikk",
+				"type": "R"
+			},
+			"12103987": {
+				"fou": 1,
+				"name": "Hebnak-sneekl",
+				"prespp": 3,
+				"rus": 15,
+				"tur": 13,
+				"type": "R"
+			},
+			"12103988": {
+				"name": "Stuntlbosh",
+				"prespp": 3,
+				"tur": 1,
+				"type": "R"
+			},
+			"12103989": {
+				"name": "Grotslag",
+				"prespp": 21,
+				"tur": 2,
+				"type": "R"
+			},
+			"12124751": {
+				"name": "Sylvester Whitetree",
+				"tur": 1,
+				"type": "R"
+			},
+			"12124752": {
+				"name": "Sylvester Darkwing",
+				"tur": 6,
+				"type": "R"
+			},
+			"12124753": {
+				"name": "Yorick Darkbone",
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1038506",
 	"team_performance": {
 		"892248": {
 			"cas": 5,
 			"casdiff": 3,
+			"name": "Crimson Fins",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"896277": {
 			"cas": 2,
 			"casdiff": -3,
+			"name": "Thirteenth Circle Abominations",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

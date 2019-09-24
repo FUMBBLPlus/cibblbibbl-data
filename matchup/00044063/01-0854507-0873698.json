@@ -1,19 +1,205 @@
 {
 	"!excluded": "no",
+	"matchId": "3948632",
+	"player_performance": {
+		"854507": {
+			"11439080": {
+				"name": "Vol'arth the Brazen",
+				"prespp": 60,
+				"tur": 5,
+				"type": "R"
+			},
+			"11439088": {
+				"name": "Yibb-Tstll",
+				"prespp": 42,
+				"tur": 3,
+				"type": "R"
+			},
+			"11439090": {
+				"blk": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Do Galaad, the Herald",
+				"prespp": 63,
+				"spp": 7,
+				"tur": 10,
+				"type": "R"
+			},
+			"11582112": {
+				"name": "Horok",
+				"prespp": 19,
+				"type": "R"
+			},
+			"11681756": {
+				"blk": 7,
+				"name": "Neron",
+				"pas": 1,
+				"prespp": 20,
+				"rus": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11766988": {
+				"blk": 6,
+				"name": "Malphas, the Harbinger",
+				"prespp": 23,
+				"tur": 16,
+				"type": "R"
+			},
+			"11807607": {
+				"blk": 6,
+				"name": "Palehawk, the Revenant",
+				"prespp": 11,
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"11851618": {
+				"blk": 2,
+				"name": "Marius, the Forgiven",
+				"prespp": 17,
+				"tur": 13,
+				"type": "R"
+			},
+			"11926823": {
+				"blk": 2,
+				"name": "Berethan, the Soulless",
+				"rus": 10,
+				"tur": 16,
+				"type": "R"
+			},
+			"11973355": {
+				"blk": 1,
+				"name": "Nyerahd, the Cunning",
+				"prespp": 8,
+				"rus": 9,
+				"spp": 3,
+				"tds": 1,
+				"tur": 9,
+				"type": "R"
+			},
+			"12055102": {
+				"fou": 1,
+				"name": "Hagar-Ryon",
+				"tur": 1,
+				"type": "R"
+			},
+			"12055103": {
+				"fou": 1,
+				"name": "Y'Golonac",
+				"tur": 9,
+				"type": "R"
+			}
+		},
+		"873698": {
+			"11743258": {
+				"blk": 9,
+				"name": "MIstress of Lust",
+				"prespp": 59,
+				"rus": 8,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11743260": {
+				"blk": 8,
+				"name": "Kazgar Threelegs",
+				"prespp": 36,
+				"tur": 16,
+				"type": "R"
+			},
+			"11743263": {
+				"blk": 1,
+				"cps": 2,
+				"name": "Lecec Chickstalker",
+				"pas": 4,
+				"prespp": 29,
+				"rus": 3,
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11743266": {
+				"name": "Thirvelnosh Nightbinder",
+				"prespp": 12,
+				"rus": 8,
+				"tur": 12,
+				"type": "R"
+			},
+			"11743268": {
+				"name": "Thovho Shadowseeker",
+				"prespp": 22,
+				"tur": 8,
+				"type": "R"
+			},
+			"11904392": {
+				"blk": 7,
+				"name": "Misstress of Pain",
+				"prespp": 22,
+				"tur": 9,
+				"type": "R"
+			},
+			"11967644": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Mokzook Thicktail",
+				"prespp": 6,
+				"spp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"12031704": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Mistress of Pleasure",
+				"prespp": 6,
+				"spp": 5,
+				"tur": 7,
+				"type": "R"
+			},
+			"12032777": {
+				"fou": 1,
+				"name": "Kevin Grottyshield",
+				"type": "R"
+			},
+			"12032778": {
+				"blk": 1,
+				"name": "George Coldshield",
+				"tur": 12,
+				"type": "R"
+			},
+			"12032779": {
+				"fou": 2,
+				"name": "Billy Goldfist",
+				"tur": 3,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1021545",
 	"team_performance": {
 		"854507": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Coven of the Mirrored Hall",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"873698": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Pleasure Strings",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

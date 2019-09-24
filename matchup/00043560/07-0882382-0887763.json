@@ -1,19 +1,227 @@
 {
 	"!excluded": "no",
+	"matchId": "3934598",
+	"player_performance": {
+		"882382": {
+			"11881468": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Dezouk",
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"11881470": {
+				"blk": 7,
+				"name": "Gazeem",
+				"prespp": 6,
+				"tur": 13,
+				"type": "R"
+			},
+			"11881471": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Gaudi",
+				"prespp": 7,
+				"rus": 27,
+				"spp": 8,
+				"tds": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11881474": {
+				"blk": 1,
+				"name": "Halzoun",
+				"tur": 17,
+				"type": "R"
+			},
+			"11881482": {
+				"blk": 4,
+				"name": "Jafar",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11881490": {
+				"blk": 2,
+				"fou": 9,
+				"name": "Shan Yu",
+				"prespp": 7,
+				"tur": 13,
+				"type": "R"
+			},
+			"11881491": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Gothel",
+				"prespp": 6,
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"11881492": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Te Ka",
+				"spp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"11942620": {
+				"blk": 7,
+				"name": "Ka Viku",
+				"prespp": 11,
+				"tur": 17,
+				"type": "R"
+			},
+			"11942621": {
+				"blk": 1,
+				"name": "Balkaza",
+				"tur": 9,
+				"type": "R"
+			},
+			"11942628": {
+				"blk": 5,
+				"name": "Scroop",
+				"prespp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"11961337": {
+				"name": "Alli Baba",
+				"tur": 1,
+				"type": "R"
+			},
+			"11977896": {
+				"name": "Gin Phur",
+				"type": "R"
+			},
+			"11978228": {
+				"blk": 8,
+				"name": "Oogie Boogie",
+				"tur": 17,
+				"type": "I"
+			}
+		},
+		"887763": {
+			"11964981": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Deinonychus",
+				"prespp": 5,
+				"spp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11964995": {
+				"blk": 10,
+				"name": "Lambeosaurus",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11965000": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Gallimimus",
+				"prespp": 6,
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11965001": {
+				"blk": 5,
+				"name": "Gideonmentellia",
+				"tur": 16,
+				"type": "R"
+			},
+			"11965003": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Aahotepre",
+				"tur": 16,
+				"type": "R"
+			},
+			"11965004": {
+				"blk": 9,
+				"name": "Amenemhat",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11965005": {
+				"blk": 2,
+				"name": "Amasis",
+				"tur": 13,
+				"type": "R"
+			},
+			"11965006": {
+				"blk": 1,
+				"name": "Hornakht",
+				"tur": 2,
+				"type": "R"
+			},
+			"11965007": {
+				"fou": 1,
+				"name": "Hotepsekhemwy",
+				"tur": 9,
+				"type": "R"
+			},
+			"11965008": {
+				"mvp": 1,
+				"name": "Kiya",
+				"prespp": 3,
+				"spp": 5,
+				"type": "R"
+			},
+			"11965009": {
+				"died": [
+					1,
+					1,
+					"blocked",
+					"11881491"
+				],
+				"name": "Lysandra",
+				"type": "R"
+			},
+			"11976933": {
+				"blk": 4,
+				"name": "Jinfengopteryx",
+				"tur": 16,
+				"type": "R"
+			},
+			"887763S1": {
+				"blk": 1,
+				"name": "Humerus Carpal",
+				"rus": 26,
+				"spp": 3,
+				"tds": 1,
+				"tur": 9,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1005207",
 	"team_performance": {
 		"882382": {
 			"cas": 4,
 			"casdiff": 2,
+			"name": "Ali's Anarchists",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"887763": {
 			"cas": 2,
 			"casdiff": -2,
+			"name": "Extinction Event",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

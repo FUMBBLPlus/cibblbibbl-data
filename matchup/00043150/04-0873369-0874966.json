@@ -1,19 +1,207 @@
 {
 	"!excluded": "no",
+	"matchId": "3920637",
+	"player_performance": {
+		"873369": {
+			"11737364": {
+				"fou": 3,
+				"name": "Hybree",
+				"tur": 15,
+				"type": "R"
+			},
+			"11737365": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Trikhuf",
+				"pas": -1,
+				"prespp": 10,
+				"rus": 25,
+				"spp": 3,
+				"tds": 1,
+				"tur": 18,
+				"type": "R"
+			},
+			"11737376": {
+				"blk": 3,
+				"name": "Weyrot",
+				"prespp": 6,
+				"tur": 18,
+				"type": "R"
+			},
+			"11737379": {
+				"name": "Baahru",
+				"prespp": 3,
+				"tur": 8,
+				"type": "R"
+			},
+			"11737432": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Fulmayne Thrice-Crowned",
+				"prespp": 25,
+				"spp": 5,
+				"tur": 18,
+				"type": "R"
+			},
+			"11737433": {
+				"blk": 2,
+				"name": "Breyyar Scoredrinker",
+				"prespp": 14,
+				"tur": 18,
+				"type": "R"
+			},
+			"11737434": {
+				"blk": 4,
+				"cas": 2,
+				"name": "Stoneflagon Rhuheigh",
+				"prespp": 21,
+				"spp": 4,
+				"tur": 18,
+				"type": "R"
+			},
+			"11737443": {
+				"blk": 8,
+				"cas": 2,
+				"name": "Yronleg the Barrelbeast",
+				"prespp": 16,
+				"spp": 4,
+				"tur": 18,
+				"type": "R"
+			},
+			"11765170": {
+				"blk": 4,
+				"name": "Brewmaster Huhroarr",
+				"prespp": 12,
+				"tur": 18,
+				"type": "R"
+			},
+			"11859881": {
+				"blk": 1,
+				"name": "Heighar",
+				"rus": 12,
+				"tur": 18,
+				"type": "R"
+			},
+			"11859890": {
+				"name": "Yaahrut",
+				"prespp": 3,
+				"tur": 18,
+				"type": "R"
+			},
+			"11859894": {
+				"name": "Wytehide",
+				"type": "R"
+			}
+		},
+		"874966": {
+			"11764899": {
+				"blk": 1,
+				"name": "Benethor",
+				"prespp": 14,
+				"tur": 10,
+				"type": "R"
+			},
+			"11764901": {
+				"blk": 1,
+				"name": "Danesthos",
+				"tur": 14,
+				"type": "R"
+			},
+			"11764906": {
+				"blk": 3,
+				"died": [
+					2,
+					7,
+					"fouled",
+					"11737364"
+				],
+				"name": "Polkan the Red",
+				"prespp": 4,
+				"tur": 15,
+				"type": "R"
+			},
+			"11764910": {
+				"blk": 1,
+				"died": [
+					2,
+					1,
+					"blocked",
+					"11737434"
+				],
+				"name": "Wendoran",
+				"tur": 9,
+				"type": "R"
+			},
+			"11764915": {
+				"name": "Finavar",
+				"prespp": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"11764916": {
+				"blk": 1,
+				"name": "Jokleel",
+				"tur": 10,
+				"type": "R"
+			},
+			"11764917": {
+				"name": "Thuralin",
+				"prespp": 10,
+				"tur": 17,
+				"type": "R"
+			},
+			"11764918": {
+				"blk": 1,
+				"name": "Guldir",
+				"tur": 17,
+				"type": "R"
+			},
+			"11764919": {
+				"name": "Lemsas",
+				"tur": 12,
+				"type": "R"
+			},
+			"11764921": {
+				"blk": 7,
+				"name": "Morlanna",
+				"prespp": 22,
+				"tur": 17,
+				"type": "R"
+			},
+			"11836559": {
+				"blk": 9,
+				"mvp": 1,
+				"name": "Vanhir",
+				"prespp": 14,
+				"rus": 30,
+				"spp": 11,
+				"tds": 2,
+				"tur": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "988964",
 	"team_performance": {
 		"873369": {
 			"cas": 5,
 			"casdiff": 5,
+			"name": "Schattenwald Drinking Horns",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"874966": {
 			"cas": 0,
 			"casdiff": -5,
+			"name": "Modryn's Midnight Meddlers",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

@@ -1,19 +1,230 @@
 {
 	"!excluded": "no",
+	"matchId": "4050844",
+	"player_performance": {
+		"924405": {
+			"12545274": {
+				"blk": 4,
+				"name": "Krusher",
+				"tur": 12,
+				"type": "B"
+			},
+			"12545275": {
+				"blk": 4,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Grimdore Chainbreaker",
+				"prespp": 12,
+				"spp": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"12545276": {
+				"blk": 7,
+				"cas": 3,
+				"name": "Sugz Snarlof",
+				"prespp": 7,
+				"spp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12545277": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Urig Ironhide",
+				"spp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"12545278": {
+				"blk": 14,
+				"cas": 1,
+				"name": "Zaghik Znarl",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12545279": {
+				"blk": 8,
+				"name": "Zellar Cutthroat",
+				"prespp": 3,
+				"rus": 5,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12545280": {
+				"blk": 5,
+				"fou": 1,
+				"name": "Gurgug Gutter",
+				"prespp": 8,
+				"rus": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"12545282": {
+				"blk": 1,
+				"name": "Tukram Slitter",
+				"prespp": 17,
+				"tur": 3,
+				"type": "R"
+			},
+			"12545290": {
+				"blk": 4,
+				"died": [
+					1,
+					6,
+					"stabbed",
+					"12593134"
+				],
+				"name": "Arkiek Reek",
+				"prespp": 3,
+				"tur": 6,
+				"type": "R"
+			},
+			"12545293": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Wranviorx Posiontooth",
+				"prespp": 4,
+				"rus": 6,
+				"spp": 5,
+				"tds": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"12545296": {
+				"name": "Struhulk Lurker",
+				"prespp": 4,
+				"tur": 8,
+				"type": "R"
+			},
+			"12591760": {
+				"blk": 1,
+				"name": "Xaainth Headbeater",
+				"tur": 5,
+				"type": "R"
+			},
+			"12601880": {
+				"name": "Kigtug Lash",
+				"type": "R"
+			}
+		},
+		"924998": {
+			"12554695": {
+				"blk": 10,
+				"name": "Jhïef",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12554696": {
+				"blk": 4,
+				"name": "Môekh ‘Mayhem’",
+				"prespp": 9,
+				"tur": 10,
+				"type": "R"
+			},
+			"12554697": {
+				"blk": 9,
+				"mvp": 1,
+				"name": "Ekhlûd ‘The Spike’",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12554703": {
+				"blk": 1,
+				"name": "Mikhlô",
+				"prespp": 17,
+				"tur": 12,
+				"type": "R"
+			},
+			"12554704": {
+				"blk": 3,
+				"cas": 1,
+				"fou": 2,
+				"name": "Snôzkh",
+				"prespp": 3,
+				"spp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"12554706": {
+				"name": "Mukhrët",
+				"tur": 7,
+				"type": "R"
+			},
+			"12554727": {
+				"name": "Grerdrim",
+				"prespp": 2,
+				"tur": 2,
+				"type": "R"
+			},
+			"12579461": {
+				"name": "Järdikh",
+				"prespp": 16,
+				"rus": -2,
+				"tur": 5,
+				"type": "R"
+			},
+			"12593134": {
+				"blk": 4,
+				"name": "Kheon",
+				"rus": 1,
+				"tur": 6,
+				"type": "R"
+			},
+			"12595084": {
+				"blk": 1,
+				"fou": 3,
+				"name": "Alexander Fasthammer",
+				"tur": 6,
+				"type": "R"
+			},
+			"12595085": {
+				"name": "Fredrick Hideousspike",
+				"tur": 2,
+				"type": "R"
+			},
+			"924998M1": {
+				"blk": 1,
+				"name": "Merc Hobgoblin 1",
+				"tur": 10,
+				"type": "M"
+			},
+			"924998S1": {
+				"blk": 4,
+				"name": "Zzharg Madeye",
+				"tur": 12,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1140006",
 	"team_performance": {
 		"924405": {
 			"cas": 7,
 			"casdiff": 4,
+			"name": "Wolf Lands Slavers",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"924998": {
 			"cas": 3,
 			"casdiff": -4,
+			"name": "Khalibân Shivters",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

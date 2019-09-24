@@ -1,19 +1,192 @@
 {
 	"!excluded": "no",
+	"matchId": "4074037",
+	"player_performance": {
+		"925504": {
+			"12562180": {
+				"blk": 2,
+				"name": "Sir Danzig the Cinder",
+				"prespp": 21,
+				"tur": 5,
+				"type": "R"
+			},
+			"12562182": {
+				"name": "Sir Geoffrey the Bright",
+				"prespp": 8,
+				"type": "R"
+			},
+			"12562184": {
+				"blk": 5,
+				"name": "Fair Henry of Storms",
+				"prespp": 20,
+				"rus": 3,
+				"tur": 11,
+				"type": "R"
+			},
+			"12562186": {
+				"blk": 2,
+				"name": "Hardy Wilbur the Molten",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12562188": {
+				"name": "Calm Nolan the Current",
+				"prespp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12562189": {
+				"name": "Calm Xavier of Tides",
+				"prespp": 3,
+				"tur": 1,
+				"type": "R"
+			},
+			"12578583": {
+				"blk": 2,
+				"name": "Sir Wilfred the Scorching",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12685248": {
+				"blk": 2,
+				"name": "Sir Mercury the Inferno",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"12698931": {
+				"blk": 7,
+				"mvp": 1,
+				"name": "Duke Grough of Wyldwich",
+				"prespp": 7,
+				"spp": 5,
+				"tur": 9,
+				"type": "R"
+			},
+			"12710735": {
+				"fou": 1,
+				"name": "Fair Solaire of Suns",
+				"rus": 4,
+				"tur": 12,
+				"type": "R"
+			},
+			"12733218": {
+				"died": [
+					1,
+					6,
+					"dodgeFail",
+					null
+				],
+				"name": "Leroy Fastsnake",
+				"tur": 5,
+				"type": "R"
+			}
+		},
+		"926362": {
+			"12575045": {
+				"blk": 9,
+				"name": "Nik-Chihtlutl",
+				"tur": 14,
+				"type": "B"
+			},
+			"12575050": {
+				"blk": 4,
+				"name": "Gutip",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12575051": {
+				"blk": 3,
+				"name": "Cetip",
+				"tur": 16,
+				"type": "R"
+			},
+			"12575052": {
+				"blk": 6,
+				"name": "Co'axchox",
+				"prespp": 16,
+				"rus": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12575053": {
+				"blk": 3,
+				"name": "Tipitztuch",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12575056": {
+				"blk": 9,
+				"mvp": 1,
+				"name": "Chondauixtocl",
+				"prespp": 12,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12575057": {
+				"blk": 1,
+				"name": "Qre'axyac-Xlti",
+				"prespp": 9,
+				"rus": 31,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12575058": {
+				"name": "Haxtlun-Xi",
+				"prespp": 6,
+				"tur": 3,
+				"type": "R"
+			},
+			"12575059": {
+				"blk": 3,
+				"name": "Krar-Qretitl",
+				"tur": 16,
+				"type": "R"
+			},
+			"12575061": {
+				"blk": 12,
+				"name": "Xektech-Ga'e",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12646859": {
+				"blk": 10,
+				"name": "Qa'echtitl-Kre",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1166316",
 	"team_performance": {
 		"925504": {
 			"cas": 0,
 			"casdiff": 0,
+			"name": "Ichabod's Infernals",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"926362": {
 			"cas": 0,
 			"casdiff": 0,
+			"name": "Huah-Huah's Honor Guard",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

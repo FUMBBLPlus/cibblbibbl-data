@@ -1,19 +1,216 @@
 {
 	"!excluded": "no",
+	"matchId": "4052663",
+	"player_performance": {
+		"927862": {
+			"12598978": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Morgur Slogga",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"12598989": {
+				"blk": 1,
+				"name": "Ugga da One-legged",
+				"prespp": 2,
+				"tur": 2,
+				"type": "R"
+			},
+			"12598994": {
+				"blk": 6,
+				"died": [
+					2,
+					5,
+					"blocked",
+					"12607999"
+				],
+				"name": "Ozgut Facemangla",
+				"prespp": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"12598995": {
+				"died": [
+					1,
+					5,
+					"dodgeFail",
+					null
+				],
+				"name": "Narbog Elf-Krusha",
+				"prespp": 5,
+				"tur": 4,
+				"type": "R"
+			},
+			"12598997": {
+				"blk": 4,
+				"name": "Gadzooks Gormless",
+				"tur": 15,
+				"type": "R"
+			},
+			"12599001": {
+				"blk": 6,
+				"mvp": 1,
+				"name": "Grindok Gizzbut",
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"12599010": {
+				"blk": 2,
+				"name": "Gumit",
+				"prespp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12599014": {
+				"blk": 1,
+				"name": "Skarlik",
+				"rus": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"12599015": {
+				"blk": 2,
+				"name": "Fuggbang",
+				"prespp": 3,
+				"tur": 7,
+				"type": "R"
+			},
+			"12599016": {
+				"name": "Grotgrot",
+				"prespp": 3,
+				"rus": 19,
+				"tur": 15,
+				"type": "R"
+			},
+			"12599017": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Weebungo",
+				"tur": 14,
+				"type": "R"
+			},
+			"12615324": {
+				"blk": 2,
+				"name": "Mistah Beegs",
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"928360": {
+			"12607999": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Grendel",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 15,
+				"type": "B"
+			},
+			"12608002": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Baldur",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12608004": {
+				"blk": 6,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Surtr",
+				"prespp": 9,
+				"spp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"12608009": {
+				"fou": 1,
+				"name": "Hati",
+				"tur": 3,
+				"type": "R"
+			},
+			"12608011": {
+				"name": "Heidrek",
+				"prespp": 3,
+				"tur": 1,
+				"type": "R"
+			},
+			"12608018": {
+				"blk": 4,
+				"fou": 2,
+				"name": "Skoll",
+				"tur": 15,
+				"type": "R"
+			},
+			"12608023": {
+				"blk": 3,
+				"name": "Vali",
+				"prespp": 3,
+				"tur": 15,
+				"type": "R"
+			},
+			"12608031": {
+				"blk": 2,
+				"name": "Narfi",
+				"prespp": 3,
+				"tur": 15,
+				"type": "R"
+			},
+			"12608034": {
+				"blk": 1,
+				"name": "Mokkurkalfi",
+				"tur": 1,
+				"type": "R"
+			},
+			"12608036": {
+				"blk": 5,
+				"name": "Halogi",
+				"rus": 3,
+				"tur": 15,
+				"type": "R"
+			},
+			"12608039": {
+				"blk": 2,
+				"name": "Baugi",
+				"tur": 15,
+				"type": "R"
+			},
+			"12624317": {
+				"blk": 5,
+				"name": "Ullr",
+				"rus": 7,
+				"tur": 15,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1142059",
 	"team_performance": {
 		"927862": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Beegrok Massif Mob",
 			"rsym": "D",
 			"score": 0,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 0,
+			"tdsdiff": 0
 		},
 		"928360": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Gorequeen's Raiders",
 			"rsym": "D",
 			"score": 0,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 0,
+			"tdsdiff": 0
 		}
 	}
 }

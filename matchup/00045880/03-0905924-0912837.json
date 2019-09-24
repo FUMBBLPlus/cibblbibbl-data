@@ -1,19 +1,191 @@
 {
 	"!excluded": "no",
+	"matchId": "4031507",
+	"player_performance": {
+		"905924": {
+			"12254401": {
+				"blk": 7,
+				"name": "Reddup",
+				"prespp": 9,
+				"tur": 15,
+				"type": "R"
+			},
+			"12254402": {
+				"blk": 2,
+				"name": "Spook",
+				"prespp": 21,
+				"tur": 15,
+				"type": "B"
+			},
+			"12254405": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Bone",
+				"prespp": 25,
+				"rus": 18,
+				"spp": 5,
+				"tds": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"12254414": {
+				"blk": 3,
+				"name": "Clumsy",
+				"prespp": 7,
+				"tur": 8,
+				"type": "R"
+			},
+			"12254424": {
+				"name": "Ashur The Vile",
+				"rus": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"12254440": {
+				"name": "O-Dog The Trogslayer",
+				"prespp": 8,
+				"tur": 7,
+				"type": "R"
+			},
+			"12254445": {
+				"name": "Scumm The Rebel",
+				"prespp": 1,
+				"type": "R"
+			},
+			"12263755": {
+				"name": "Gizmo The Gambler",
+				"prespp": 3,
+				"tur": 15,
+				"type": "R"
+			},
+			"12263756": {
+				"blk": 1,
+				"name": "Killian Glowingwater",
+				"tur": 3,
+				"type": "R"
+			},
+			"12268727": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Redbone",
+				"prespp": 29,
+				"spp": 5,
+				"tur": 1,
+				"type": "R"
+			},
+			"12421873": {
+				"blk": 8,
+				"name": "Horrus",
+				"tur": 12,
+				"type": "R"
+			},
+			"12504396": {
+				"name": "Fredrick Hideousorc",
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"912837": {
+			"12365073": {
+				"blk": 8,
+				"name": "The Gnomissh’ Thingamajig",
+				"prespp": 9,
+				"tur": 16,
+				"type": "B"
+			},
+			"12365074": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Gnome Defence Alternator Apparatus",
+				"prespp": 10,
+				"spp": 5,
+				"tur": 3,
+				"type": "B"
+			},
+			"12365075": {
+				"blk": 6,
+				"name": "Totxixc Jr.",
+				"tur": 16,
+				"type": "R"
+			},
+			"12365076": {
+				"blk": 3,
+				"name": "Joanna Brokendrive",
+				"prespp": 6,
+				"tur": 8,
+				"type": "R"
+			},
+			"12365083": {
+				"name": "Network Traffic’ Granite",
+				"prespp": 6,
+				"rus": 22,
+				"tur": 13,
+				"type": "R"
+			},
+			"12365089": {
+				"name": "Prof. John Processor",
+				"prespp": 4,
+				"tur": 14,
+				"type": "R"
+			},
+			"12365095": {
+				"blk": 3,
+				"name": "Solid’ Jonathan Hardrive",
+				"prespp": 7,
+				"rus": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"12365097": {
+				"blk": 5,
+				"name": "Peter Compute",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12365098": {
+				"blk": 3,
+				"name": "Ingrid Graphic-card",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"12365099": {
+				"name": "PCI Plod",
+				"tur": 2,
+				"type": "R"
+			},
+			"12497878": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Mother Matty Board II",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1117687",
 	"team_performance": {
 		"905924": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Squill's Squig Pitt",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"912837": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Gnoming (2509)",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

@@ -1,19 +1,209 @@
 {
 	"!excluded": "no",
+	"matchId": "3938833",
+	"player_performance": {
+		"879779": {
+			"11839158": {
+				"blk": 5,
+				"name": "Erika Mencken",
+				"prespp": 20,
+				"tur": 14,
+				"type": "R"
+			},
+			"11839172": {
+				"blk": 2,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Roza Klemme",
+				"pas": 3,
+				"prespp": 31,
+				"rus": 9,
+				"spp": 9,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839175": {
+				"name": "Martin Axenrot",
+				"prespp": 22,
+				"type": "R"
+			},
+			"11839176": {
+				"blk": 1,
+				"name": "Mikael",
+				"tur": 12,
+				"type": "R"
+			},
+			"11839177": {
+				"blk": 3,
+				"name": "Dan",
+				"prespp": 9,
+				"tur": 14,
+				"type": "R"
+			},
+			"11839178": {
+				"blk": 1,
+				"name": "Per",
+				"tur": 12,
+				"type": "R"
+			},
+			"11839180": {
+				"blk": 8,
+				"name": "Anders",
+				"prespp": 18,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839181": {
+				"died": [
+					1,
+					1,
+					"blocked",
+					"11839798"
+				],
+				"name": "Miron",
+				"prespp": 2,
+				"type": "R"
+			},
+			"11839182": {
+				"blk": 2,
+				"name": "Oliver",
+				"tur": 8,
+				"type": "R"
+			},
+			"11866995": {
+				"blk": 2,
+				"name": "Sara Schirlitz",
+				"prespp": 6,
+				"rus": 32,
+				"spp": 9,
+				"tds": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"11914732": {
+				"blk": 1,
+				"name": "Ian",
+				"tur": 3,
+				"type": "R"
+			},
+			"11994841": {
+				"blk": 2,
+				"name": "Lieutenant Peter Tägtgren",
+				"tur": 14,
+				"type": "R"
+			}
+		},
+		"879790": {
+			"11839347": {
+				"name": "Hemek Abanux",
+				"rus": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839348": {
+				"blk": 1,
+				"name": "Kalrand Ahrudas",
+				"rus": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839349": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Arstur An'gom",
+				"spp": 5,
+				"tur": 10,
+				"type": "R"
+			},
+			"11839352": {
+				"blk": 2,
+				"name": "Halanath Skyrak",
+				"prespp": 9,
+				"rus": 17,
+				"spp": 3,
+				"tds": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"11839377": {
+				"blk": 11,
+				"name": "Tusk Anon, The Horned One",
+				"prespp": 28,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839378": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Ezrath Nemelas",
+				"prespp": 8,
+				"rus": 5,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839798": {
+				"blk": 12,
+				"cas": 1,
+				"name": "Ba'el, The Naked Slayer",
+				"prespp": 16,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11865383": {
+				"blk": 11,
+				"cas": 1,
+				"name": "Abraxis, Tooth of Death",
+				"prespp": 14,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11936995": {
+				"blk": 7,
+				"name": "Festernacus Furilock",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11959755": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Malphas, The Bloody Blade",
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11994403": {
+				"name": "William Grottystream",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1010263",
 	"team_performance": {
 		"879779": {
 			"cas": 0,
 			"casdiff": -4,
+			"name": "Nightmares Made Flesh",
 			"rsym": "W",
 			"score": 4,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 4,
+			"tdsdiff": 3
 		},
 		"879790": {
 			"cas": 4,
 			"casdiff": 4,
+			"name": "Unfettered Fury",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 1,
+			"tdsdiff": -3
 		}
 	}
 }

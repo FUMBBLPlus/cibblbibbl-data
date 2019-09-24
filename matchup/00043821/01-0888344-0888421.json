@@ -1,19 +1,209 @@
 {
 	"!excluded": "no",
+	"matchId": "3934505",
+	"player_performance": {
+		"888344": {
+			"11974838": {
+				"mvp": 1,
+				"name": "Finubar",
+				"pas": 1,
+				"rus": 9,
+				"spp": 8,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11974839": {
+				"blk": 3,
+				"name": "Tyrielle",
+				"tur": 15,
+				"type": "R"
+			},
+			"11974840": {
+				"blk": 2,
+				"name": "Korhil",
+				"rus": 17,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11974841": {
+				"blk": 4,
+				"name": "Yreene",
+				"tur": 15,
+				"type": "R"
+			},
+			"11974844": {
+				"name": "Ailmar",
+				"pas": -1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11974846": {
+				"blk": 4,
+				"name": "Phærael",
+				"tur": 8,
+				"type": "R"
+			},
+			"11974850": {
+				"blk": 4,
+				"cps": 1,
+				"name": "Hathor",
+				"spp": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11974853": {
+				"blk": 1,
+				"name": "Valen Freshbreeze",
+				"tur": 3,
+				"type": "R"
+			},
+			"11975460": {
+				"blk": 13,
+				"cas": 1,
+				"name": "Evilonah Fellblade",
+				"rus": 11,
+				"spp": 5,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11975462": {
+				"cps": 1,
+				"name": "Cassandrella Doomsayer",
+				"pas": 2,
+				"rus": 4,
+				"spp": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"11975493": {
+				"blk": 2,
+				"name": "Morvael Lightningstrider",
+				"rus": 1,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"888421": {
+			"11976226": {
+				"blk": 2,
+				"name": "Waziret Stunge",
+				"tur": 15,
+				"type": "B"
+			},
+			"11976230": {
+				"blk": 9,
+				"name": "Firrikeet Sharpblade",
+				"pas": 1,
+				"rus": 4,
+				"tur": 15,
+				"type": "R"
+			},
+			"11976233": {
+				"blk": 7,
+				"name": "Lirrikeet Sharpblade",
+				"tur": 15,
+				"type": "R"
+			},
+			"11976237": {
+				"mvp": 1,
+				"name": "Skritt Swiftpaw",
+				"pas": 1,
+				"rus": 12,
+				"spp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"11976239": {
+				"fou": 1,
+				"name": "Klobs",
+				"tur": 3,
+				"type": "R"
+			},
+			"11976240": {
+				"fou": 1,
+				"name": "Vebs",
+				"tur": 1,
+				"type": "R"
+			},
+			"11976241": {
+				"fou": 1,
+				"name": "Turm",
+				"tur": 2,
+				"type": "R"
+			},
+			"11976242": {
+				"blk": 2,
+				"name": "Pesz",
+				"rus": 8,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11976244": {
+				"name": "Blogz",
+				"tur": 7,
+				"type": "R"
+			},
+			"11976245": {
+				"blk": 1,
+				"name": "Slilx",
+				"tur": 9,
+				"type": "R"
+			},
+			"11976246": {
+				"name": "Criz",
+				"rus": 4,
+				"tur": 12,
+				"type": "R"
+			},
+			"11976247": {
+				"died": [
+					2,
+					7,
+					"gfiFail",
+					null
+				],
+				"name": "Stots",
+				"tur": 6,
+				"type": "R"
+			},
+			"11976248": {
+				"blk": 1,
+				"name": "Groteld",
+				"rus": 7,
+				"tur": 7,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1005101",
 	"team_performance": {
 		"888344": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Masqueraded Magnificence",
 			"rsym": "W",
 			"score": 4,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 4,
+			"tdsdiff": 3
 		},
 		"888421": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Gobskrav Alliance",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 1,
+			"tdsdiff": -3
 		}
 	}
 }

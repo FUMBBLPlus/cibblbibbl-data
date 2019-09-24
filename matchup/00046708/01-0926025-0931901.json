@@ -1,19 +1,213 @@
 {
 	"!excluded": "no",
+	"matchId": "4062712",
+	"player_performance": {
+		"926025": {
+			"12569521": {
+				"blk": 1,
+				"name": "Snot Steiner",
+				"prespp": 9,
+				"tur": 12,
+				"type": "B"
+			},
+			"12569525": {
+				"blk": 5,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Randy \"The Mucus Man\" Savage",
+				"prespp": 9,
+				"spp": 9,
+				"tur": 16,
+				"type": "B"
+			},
+			"12569527": {
+				"blk": 10,
+				"name": "Arnold Snotszenegger",
+				"prespp": 11,
+				"tur": 16,
+				"type": "B"
+			},
+			"12569686": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Lex Looger",
+				"prespp": 9,
+				"spp": 2,
+				"tur": 11,
+				"type": "B"
+			},
+			"12569688": {
+				"fou": 1,
+				"name": "Splop",
+				"prespp": 5,
+				"tur": 9,
+				"type": "R"
+			},
+			"12569689": {
+				"name": "Sploop",
+				"pas": 1,
+				"rus": 8,
+				"tur": 9,
+				"type": "R"
+			},
+			"12569690": {
+				"name": "Skitter",
+				"pas": 1,
+				"rus": 14,
+				"tur": 5,
+				"type": "R"
+			},
+			"12569693": {
+				"name": "Kicky",
+				"prespp": 3,
+				"rus": 6,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12569696": {
+				"died": [
+					1,
+					8,
+					"landingFail",
+					null
+				],
+				"name": "Icky",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12571803": {
+				"blk": 5,
+				"cas": 2,
+				"name": "Booger T",
+				"prespp": 13,
+				"spp": 4,
+				"tur": 15,
+				"type": "B"
+			},
+			"12571811": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Hock Hogan",
+				"prespp": 13,
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"12571815": {
+				"name": "Flicky",
+				"type": "R"
+			},
+			"12676624": {
+				"name": "Picky",
+				"tur": 6,
+				"type": "R"
+			},
+			"12676626": {
+				"blk": 2,
+				"name": "Splip",
+				"tur": 12,
+				"type": "R"
+			}
+		},
+		"931901": {
+			"12669783": {
+				"blk": 2,
+				"name": "Dodomeki",
+				"tur": 6,
+				"type": "B"
+			},
+			"12669786": {
+				"name": "Kaneko Ietada",
+				"tur": 12,
+				"type": "R"
+			},
+			"12669787": {
+				"name": "Miura Anjin",
+				"type": "R"
+			},
+			"12669789": {
+				"name": "Toki Yorinari",
+				"tur": 7,
+				"type": "R"
+			},
+			"12669790": {
+				"name": "Ii Naotora",
+				"rus": 34,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12669791": {
+				"name": "Baba Nobufusa",
+				"tur": 10,
+				"type": "R"
+			},
+			"12669792": {
+				"blk": 5,
+				"name": "Amago Haruhisa",
+				"tur": 13,
+				"type": "R"
+			},
+			"12669793": {
+				"blk": 2,
+				"name": "Arai Hakuseki",
+				"tur": 8,
+				"type": "R"
+			},
+			"12669794": {
+				"blk": 1,
+				"name": "Akebono Taro",
+				"tur": 15,
+				"type": "R"
+			},
+			"12669796": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Hakuho Sho",
+				"rus": 1,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12669799": {
+				"name": "Gamo Ujisato",
+				"tur": 8,
+				"type": "R"
+			},
+			"931901M1": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Merc Samurai 1",
+				"spp": 2,
+				"tur": 12,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1153348",
 	"team_performance": {
 		"926025": {
 			"cas": 6,
 			"casdiff": 5,
+			"name": "Deadly Sinus Attack",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"931901": {
 			"cas": 1,
 			"casdiff": -5,
+			"name": "Mount Fuji Ronin",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

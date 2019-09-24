@@ -1,19 +1,205 @@
 {
 	"!excluded": "no",
+	"matchId": "3985139",
+	"player_performance": {
+		"905606": {
+			"12250181": {
+				"blk": 1,
+				"name": "Thaskar the Patient",
+				"tur": 16,
+				"type": "R"
+			},
+			"12250182": {
+				"name": "Laris the Architect",
+				"prespp": 3,
+				"rus": 16,
+				"tur": 16,
+				"type": "R"
+			},
+			"12250183": {
+				"blk": 1,
+				"name": "Khahos the Crimson",
+				"prespp": 5,
+				"tur": 3,
+				"type": "R"
+			},
+			"12250187": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Itom the Visionary",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"12250188": {
+				"name": "Machakh the Ancient",
+				"tur": 7,
+				"type": "R"
+			},
+			"12250189": {
+				"name": "Rophkihon the Prime",
+				"tur": 16,
+				"type": "R"
+			},
+			"12250191": {
+				"name": "Nestap the Brillant",
+				"tur": 1,
+				"type": "R"
+			},
+			"12250204": {
+				"blk": 2,
+				"name": "Syiksa the Infinite",
+				"tur": 9,
+				"type": "R"
+			},
+			"12250205": {
+				"blk": 7,
+				"name": "Aexlor the Bulwark",
+				"prespp": 7,
+				"tur": 16,
+				"type": "B"
+			},
+			"12250207": {
+				"blk": 2,
+				"name": "Khokhakh the Honorable",
+				"tur": 16,
+				"type": "R"
+			},
+			"12250209": {
+				"name": "Erikheph the Watcher",
+				"tur": 12,
+				"type": "R"
+			},
+			"12250212": {
+				"blk": 5,
+				"name": "Kessas the White",
+				"prespp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"12260629": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Onileph The Artist",
+				"spp": 5,
+				"tur": 2,
+				"type": "R"
+			}
+		},
+		"905886": {
+			"12253779": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Charles Umpherston Aitchison",
+				"prespp": 5,
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"12253780": {
+				"blk": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Gyles Mackrell",
+				"prespp": 2,
+				"spp": 7,
+				"tur": 16,
+				"type": "B"
+			},
+			"12253781": {
+				"blk": 7,
+				"cas": 3,
+				"name": "Samuel White Baker",
+				"spp": 6,
+				"tur": 16,
+				"type": "B"
+			},
+			"12253782": {
+				"blk": 5,
+				"name": "Basil Eddis",
+				"prespp": 7,
+				"tur": 16,
+				"type": "B"
+			},
+			"12253784": {
+				"blk": 5,
+				"name": "Eldred Pottinger",
+				"prespp": 4,
+				"tur": 16,
+				"type": "B"
+			},
+			"12253785": {
+				"blk": 7,
+				"cas": 1,
+				"name": "E. W. Middlemast",
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"12254721": {
+				"name": "Grottleblagh",
+				"prespp": 3,
+				"rus": 18,
+				"spp": 3,
+				"tds": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"12254722": {
+				"name": "Spitshine",
+				"prespp": 3,
+				"tur": 3,
+				"type": "R"
+			},
+			"12254723": {
+				"fou": 2,
+				"name": "Scrubbalick",
+				"tur": 16,
+				"type": "R"
+			},
+			"12254725": {
+				"name": "Flibbitygiblet",
+				"rus": 14,
+				"spp": 3,
+				"tds": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"12259895": {
+				"blk": 1,
+				"name": "Sylvester Whitetree",
+				"tur": 16,
+				"type": "R"
+			},
+			"905886S1": {
+				"name": "Bomber Dribblesnot",
+				"tur": 12,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1063363",
 	"team_performance": {
 		"905606": {
 			"cas": 2,
 			"casdiff": -4,
+			"name": "Serpent-Guards of Khalida",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"905886": {
 			"cas": 6,
 			"casdiff": 4,
+			"name": "Sabre Mountain Rattlers",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

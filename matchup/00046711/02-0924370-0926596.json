@@ -1,19 +1,216 @@
 {
 	"!excluded": "no",
+	"matchId": "4066036",
+	"player_performance": {
+		"924370": {
+			"12544646": {
+				"name": "Freddy Wender",
+				"tur": 4,
+				"type": "R"
+			},
+			"12544648": {
+				"name": "Danny Baumer",
+				"rus": 4,
+				"tur": 13,
+				"type": "R"
+			},
+			"12544649": {
+				"blk": 1,
+				"name": "Dieter Chickenbelly",
+				"prespp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"12544650": {
+				"blk": 1,
+				"name": "Heinrich Foglogger",
+				"prespp": 3,
+				"tur": 3,
+				"type": "R"
+			},
+			"12544653": {
+				"blk": 1,
+				"name": "Alex Redlot",
+				"prespp": 17,
+				"rus": 8,
+				"spp": 3,
+				"tds": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"12544658": {
+				"name": "Kurt Long",
+				"prespp": 10,
+				"tur": 4,
+				"type": "R"
+			},
+			"12544659": {
+				"died": [
+					1,
+					3,
+					"blocked",
+					"12578812"
+				],
+				"name": "Clovis Heathland",
+				"prespp": 5,
+				"tur": 2,
+				"type": "R"
+			},
+			"12544666": {
+				"name": "Grendel",
+				"prespp": 22,
+				"type": "B"
+			},
+			"12544667": {
+				"blk": 4,
+				"name": "Tabak",
+				"prespp": 11,
+				"tur": 11,
+				"type": "B"
+			},
+			"12583244": {
+				"blk": 1,
+				"name": "Lonny Wideyes",
+				"pas": 1,
+				"prespp": 3,
+				"rus": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"12584566": {
+				"name": "Gregg Baumburger",
+				"tur": 12,
+				"type": "R"
+			},
+			"12584589": {
+				"mvp": 1,
+				"name": "Christy Long",
+				"prespp": 10,
+				"spp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"12596096": {
+				"name": "Sam Button",
+				"tur": 6,
+				"type": "R"
+			}
+		},
+		"926596": {
+			"12578807": {
+				"blk": 5,
+				"name": "Krilk The Black",
+				"prespp": 17,
+				"tur": 11,
+				"type": "R"
+			},
+			"12578808": {
+				"blk": 9,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Crashrin Shadowblade",
+				"prespp": 6,
+				"rus": 8,
+				"spp": 13,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12578810": {
+				"blk": 5,
+				"name": "Crilk One Oye",
+				"prespp": 10,
+				"tur": 16,
+				"type": "R"
+			},
+			"12578811": {
+				"blk": 9,
+				"name": "Skruolk",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12578812": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Vinkrolk",
+				"prespp": 10,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12578813": {
+				"blk": 1,
+				"name": "Gnam",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12578815": {
+				"blk": 4,
+				"name": "Ghogdri",
+				"tur": 16,
+				"type": "R"
+			},
+			"12578816": {
+				"blk": 1,
+				"name": "Tinksaz",
+				"prespp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"12587461": {
+				"blk": 1,
+				"name": "Jeegink",
+				"tur": 8,
+				"type": "R"
+			},
+			"12589646": {
+				"blk": 8,
+				"cas": 2,
+				"name": "Vekuzz",
+				"prespp": 10,
+				"spp": 4,
+				"tur": 16,
+				"type": "B"
+			},
+			"12622185": {
+				"name": "Rusk Left handed",
+				"pas": -1,
+				"prespp": 6,
+				"rus": 32,
+				"tur": 16,
+				"type": "R"
+			},
+			"12677890": {
+				"blk": 1,
+				"name": "Clemis",
+				"tur": 10,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1157135",
 	"team_performance": {
 		"924370": {
 			"cas": 0,
 			"casdiff": -4,
+			"name": "Gipfel Blueleaves",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"926596": {
 			"cas": 4,
 			"casdiff": 4,
+			"name": "Branded and Exiled",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

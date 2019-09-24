@@ -1,19 +1,195 @@
 {
 	"!excluded": "no",
+	"matchId": "4051870",
+	"player_performance": {
+		"927990": {
+			"12601187": {
+				"blk": 6,
+				"name": "Grufydd Spanglehelm",
+				"tur": 15,
+				"type": "R"
+			},
+			"12601188": {
+				"blk": 5,
+				"name": "Rhys Spanglehlem",
+				"tur": 15,
+				"type": "R"
+			},
+			"12601189": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Glyndwr Copperfist",
+				"spp": 7,
+				"tur": 13,
+				"type": "R"
+			},
+			"12601190": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Meibion Copperfist",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12601191": {
+				"blk": 3,
+				"name": "Aneurin The Fat",
+				"tur": 16,
+				"type": "R"
+			},
+			"12601193": {
+				"blk": 3,
+				"fou": 1,
+				"name": "\"Jolly\" Johann Oakenjaw",
+				"prespp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"12601194": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Dafydd Blackfurrow",
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"12601195": {
+				"blk": 7,
+				"name": "Rhodri The Red",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12601196": {
+				"blk": 2,
+				"name": "Drewfus Darknose",
+				"tur": 8,
+				"type": "R"
+			},
+			"12601199": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Mab Shortbrace",
+				"tur": 8,
+				"type": "R"
+			},
+			"12601200": {
+				"blk": 2,
+				"name": "Yohan Bluntnose",
+				"rus": 34,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			}
+		},
+		"928360": {
+			"12607999": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Grendel",
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"12608002": {
+				"blk": 4,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Baldur",
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12608004": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Surtr",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"12608009": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Hati",
+				"tur": 10,
+				"type": "R"
+			},
+			"12608011": {
+				"blk": 1,
+				"name": "Heidrek",
+				"rus": 14,
+				"spp": 3,
+				"tds": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"12608018": {
+				"blk": 3,
+				"name": "Skoll",
+				"tur": 5,
+				"type": "R"
+			},
+			"12608023": {
+				"blk": 2,
+				"name": "Vali",
+				"prespp": 3,
+				"tur": 8,
+				"type": "R"
+			},
+			"12608031": {
+				"blk": 4,
+				"name": "Narfi",
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12608034": {
+				"blk": 1,
+				"name": "Mokkurkalfi",
+				"tur": 13,
+				"type": "R"
+			},
+			"12608036": {
+				"blk": 3,
+				"name": "Halogi",
+				"tur": 16,
+				"type": "R"
+			},
+			"12608039": {
+				"blk": 4,
+				"name": "Baugi",
+				"tur": 13,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1141172",
 	"team_performance": {
 		"927990": {
 			"cas": 2,
 			"casdiff": -2,
+			"name": "Kazad-Dum Tinplate Company",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"928360": {
 			"cas": 4,
 			"casdiff": 2,
+			"name": "Gorequeen's Raiders",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

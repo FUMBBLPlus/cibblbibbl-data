@@ -1,19 +1,233 @@
 {
 	"!excluded": "no",
+	"matchId": "4045801",
+	"player_performance": {
+		"895929": {
+			"12098257": {
+				"name": "Clawchest",
+				"prespp": 76,
+				"type": "R"
+			},
+			"12098258": {
+				"name": "Silverscar",
+				"prespp": 49,
+				"type": "R"
+			},
+			"12098263": {
+				"blk": 2,
+				"name": "Silverstriker",
+				"prespp": 25,
+				"rus": 18,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"12098297": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Duskdigger",
+				"prespp": 84,
+				"rus": 11,
+				"spp": 2,
+				"tur": 6,
+				"type": "R"
+			},
+			"12136367": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Fangsnapper Jr",
+				"prespp": 47,
+				"spp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"12166472": {
+				"blk": 2,
+				"name": "Fangsnapper Jr Jr",
+				"prespp": 36,
+				"tur": 7,
+				"type": "R"
+			},
+			"12265899": {
+				"name": "Dustbinder",
+				"prespp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"12345051": {
+				"fou": 2,
+				"name": "Crowripper",
+				"prespp": 9,
+				"tur": 2,
+				"type": "R"
+			},
+			"12345108": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Windfury Jr",
+				"prespp": 18,
+				"rus": 9,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12496226": {
+				"name": "Crowchest",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12496241": {
+				"name": "Blackgaze",
+				"type": "R"
+			},
+			"12508550": {
+				"blk": 3,
+				"fou": 2,
+				"name": "Flintbasher",
+				"tur": 13,
+				"type": "R"
+			},
+			"12561519": {
+				"name": "Crowscar",
+				"tur": 11,
+				"type": "R"
+			},
+			"12576908": {
+				"blk": 1,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Fieryblight",
+				"prespp": 2,
+				"rus": 3,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12597915": {
+				"blk": 1,
+				"name": "Stonefangs",
+				"tur": 16,
+				"type": "R"
+			},
+			"12597916": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Slatecleaver",
+				"tur": 8,
+				"type": "R"
+			}
+		},
+		"919573": {
+			"12469183": {
+				"blk": 5,
+				"name": "Tornbull",
+				"prespp": 18,
+				"tur": 8,
+				"type": "B"
+			},
+			"12469184": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Blightbasher",
+				"prespp": 19,
+				"spp": 5,
+				"tur": 2,
+				"type": "B"
+			},
+			"12469185": {
+				"blk": 5,
+				"name": "Warpserker",
+				"prespp": 25,
+				"tur": 9,
+				"type": "B"
+			},
+			"12469186": {
+				"blk": 1,
+				"name": "Toerot",
+				"prespp": 25,
+				"tur": 3,
+				"type": "B"
+			},
+			"12469191": {
+				"name": "Tech Toetacker",
+				"prespp": 20,
+				"type": "R"
+			},
+			"12469192": {
+				"fou": 3,
+				"name": "Znukch Clothclaw",
+				"prespp": 6,
+				"tur": 9,
+				"type": "R"
+			},
+			"12469194": {
+				"name": "Crenq Brightear",
+				"prespp": 10,
+				"tur": 3,
+				"type": "R"
+			},
+			"12469210": {
+				"died": [
+					1,
+					2,
+					"blocked",
+					"12576908"
+				],
+				"name": "Srotch Firebaster",
+				"prespp": 6,
+				"tur": 2,
+				"type": "R"
+			},
+			"12539782": {
+				"name": "Krulk Needlehand",
+				"prespp": 16,
+				"rus": 23,
+				"spp": 3,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"12585236": {
+				"name": "Znich Ashenhat",
+				"tur": 4,
+				"type": "R"
+			},
+			"12593383": {
+				"blk": 2,
+				"name": "Cret Blackshorts",
+				"tur": 9,
+				"type": "R"
+			},
+			"12593385": {
+				"name": "Jack Bluewing",
+				"tur": 4,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1134301",
 	"team_performance": {
 		"895929": {
 			"cas": 5,
 			"casdiff": 5,
+			"name": "Fangsnapper's Clawpack",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"919573": {
 			"cas": 0,
 			"casdiff": -5,
+			"name": "Ragtag Animal Training Sartors",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

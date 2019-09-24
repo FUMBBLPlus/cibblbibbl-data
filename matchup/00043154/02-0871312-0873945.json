@@ -1,19 +1,242 @@
 {
 	"!excluded": "no",
+	"matchId": "3912854",
+	"player_performance": {
+		"871312": {
+			"11700282": {
+				"blk": 3,
+				"name": "Count Ludovig",
+				"prespp": 23,
+				"rus": 29,
+				"spp": 9,
+				"tds": 3,
+				"tur": 17,
+				"type": "R"
+			},
+			"11700284": {
+				"blk": 4,
+				"cas": 2,
+				"cps": 1,
+				"name": "Count Igor",
+				"pas": 3,
+				"prespp": 26,
+				"rus": 7,
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"11700285": {
+				"blk": 11,
+				"name": "Count Jurij",
+				"prespp": 17,
+				"tur": 17,
+				"type": "R"
+			},
+			"11700318": {
+				"blk": 6,
+				"name": "Seth",
+				"prespp": 13,
+				"tur": 17,
+				"type": "R"
+			},
+			"11700319": {
+				"blk": 7,
+				"name": "Anubis",
+				"prespp": 31,
+				"tur": 17,
+				"type": "R"
+			},
+			"11700320": {
+				"name": "Servant Milan",
+				"prespp": 4,
+				"tur": 11,
+				"type": "R"
+			},
+			"11700321": {
+				"blk": 4,
+				"name": "Servant Alexej",
+				"tur": 17,
+				"type": "R"
+			},
+			"11700322": {
+				"blk": 1,
+				"name": "Servant Pavel",
+				"prespp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11700323": {
+				"blk": 2,
+				"name": "Servant Fjodor",
+				"prespp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11734615": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Servant Alexander",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11775889": {
+				"name": "Servant Slavko",
+				"tur": 8,
+				"type": "R"
+			},
+			"11812909": {
+				"blk": 5,
+				"cas": 1,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Count Yaroslav",
+				"pas": 3,
+				"prespp": 3,
+				"rus": 15,
+				"spp": 8,
+				"tur": 17,
+				"type": "R"
+			},
+			"873945S1R1": {
+				"name": "Flint Churnblade",
+				"type": "D"
+			}
+		},
+		"873945": {
+			"11747836": {
+				"blk": 8,
+				"name": "Bersi Thometillsson",
+				"tur": 17,
+				"type": "R"
+			},
+			"11747837": {
+				"blk": 4,
+				"name": "Firthgest Thiodolfsson",
+				"prespp": 10,
+				"rus": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"11747839": {
+				"blk": 5,
+				"name": "Kol Styrsson",
+				"prespp": 14,
+				"rus": 26,
+				"tur": 17,
+				"type": "R"
+			},
+			"11747841": {
+				"blk": 6,
+				"mvp": 1,
+				"name": "Hall Solvisson",
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11747844": {
+				"name": "Sturla Suitsson",
+				"type": "R"
+			},
+			"11747847": {
+				"blk": 7,
+				"name": "Iri Brodirsson",
+				"prespp": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"11767822": {
+				"blk": 2,
+				"died": [
+					1,
+					6,
+					"blocked",
+					"11812909"
+				],
+				"name": "Brian Goldbrook",
+				"tur": 4,
+				"type": "R"
+			},
+			"11767823": {
+				"blk": 5,
+				"name": "Martin Truestream",
+				"tur": 17,
+				"type": "R"
+			},
+			"11792772": {
+				"blk": 4,
+				"name": "Horolf Hengerson",
+				"tur": 17,
+				"type": "R"
+			},
+			"11842737": {
+				"blk": 5,
+				"name": "David Whitestream",
+				"tur": 10,
+				"type": "R"
+			},
+			"11842738": {
+				"blk": 2,
+				"name": "Xavier Fasttree",
+				"tur": 6,
+				"type": "R"
+			},
+			"11842739": {
+				"blk": 5,
+				"died": [
+					2,
+					1,
+					"blocked",
+					"11734615"
+				],
+				"name": "Kevin Truehawk",
+				"tur": 8,
+				"type": "R"
+			},
+			"873945S1": {
+				"blk": 2,
+				"died": [
+					2,
+					0,
+					"secretWeaponBan",
+					null
+				],
+				"name": "Flint Churnblade",
+				"tur": 5,
+				"type": "S"
+			},
+			"873945S2": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Grim Ironjaw",
+				"rus": 1,
+				"spp": 2,
+				"tur": 17,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "979859",
 	"team_performance": {
 		"871312": {
 			"cas": 4,
 			"casdiff": 3,
+			"name": "Tower of the Necromancer",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		},
 		"873945": {
 			"cas": 1,
 			"casdiff": -3,
+			"name": "Warhird Huscarls",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		}
 	}
 }

@@ -1,19 +1,198 @@
 {
 	"!excluded": "no",
+	"matchId": "3963747",
+	"player_performance": {
+		"892658": {
+			"12044225": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Krip-tichox The Undying",
+				"prespp": 10,
+				"rus": 16,
+				"spp": 5,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12044227": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Qruxchihcoar",
+				"prespp": 14,
+				"rus": 2,
+				"spp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"12044228": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Coch-noalten",
+				"prespp": 17,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12044229": {
+				"blk": 11,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Helxo",
+				"prespp": 20,
+				"spp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"12044230": {
+				"blk": 2,
+				"name": "The Faint Body",
+				"rus": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12044232": {
+				"blk": 4,
+				"name": "Grimepest",
+				"tur": 13,
+				"type": "R"
+			},
+			"12044233": {
+				"blk": 1,
+				"name": "The Thin Presence",
+				"tur": 15,
+				"type": "R"
+			},
+			"12044234": {
+				"blk": 2,
+				"name": "The Ugly Miscreation",
+				"tur": 3,
+				"type": "R"
+			},
+			"12044235": {
+				"blk": 3,
+				"fou": 1,
+				"name": "The Tall Howler",
+				"tur": 13,
+				"type": "R"
+			},
+			"12044236": {
+				"blk": 4,
+				"cas": 1,
+				"name": "The Disfigured Wailer",
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12062980": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Kotal-Kiz",
+				"prespp": 18,
+				"spp": 2,
+				"tur": 9,
+				"type": "R"
+			}
+		},
+		"898337": {
+			"12143074": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Sebek",
+				"spp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"12143075": {
+				"blk": 6,
+				"name": "Remi",
+				"tur": 14,
+				"type": "R"
+			},
+			"12143076": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Oakhit",
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"12143077": {
+				"blk": 1,
+				"died": [
+					1,
+					5,
+					"blocked",
+					"12044229"
+				],
+				"name": "Mahe",
+				"tur": 5,
+				"type": "R"
+			},
+			"12143078": {
+				"blk": 6,
+				"name": "Khoaat",
+				"tur": 11,
+				"type": "R"
+			},
+			"12143079": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Aniath",
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12143080": {
+				"name": "Amanten",
+				"rus": 7,
+				"tur": 7,
+				"type": "R"
+			},
+			"12143081": {
+				"name": "Heperu",
+				"tur": 8,
+				"type": "R"
+			},
+			"12143082": {
+				"blk": 4,
+				"name": "Gensa",
+				"tur": 15,
+				"type": "R"
+			},
+			"12143083": {
+				"blk": 2,
+				"name": "Khoaat",
+				"tur": 15,
+				"type": "R"
+			},
+			"12143084": {
+				"name": "Memher",
+				"tur": 6,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1038745",
 	"team_performance": {
 		"892658": {
 			"cas": 6,
 			"casdiff": 4,
+			"name": "Tomb Guardians of the Tower",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"898337": {
 			"cas": 2,
 			"casdiff": -4,
+			"name": "Mahrak Maulers",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

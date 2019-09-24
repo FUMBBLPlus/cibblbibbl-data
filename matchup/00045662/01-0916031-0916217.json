@@ -1,19 +1,195 @@
 {
 	"!excluded": "no",
+	"matchId": "4014076",
+	"player_performance": {
+		"916031": {
+			"12413272": {
+				"blk": 4,
+				"name": "Teef Smasha",
+				"pas": 1,
+				"rus": 21,
+				"tur": 17,
+				"type": "R"
+			},
+			"12413273": {
+				"blk": 9,
+				"name": "Eyez Poka",
+				"tur": 17,
+				"type": "R"
+			},
+			"12413274": {
+				"blk": 10,
+				"name": "Throat Rippa",
+				"rus": 10,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12413275": {
+				"blk": 7,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Head Stompa",
+				"pas": -1,
+				"rus": 6,
+				"spp": 6,
+				"tur": 13,
+				"type": "R"
+			},
+			"12413277": {
+				"blk": 8,
+				"cas": 2,
+				"name": "Toes Gouger",
+				"spp": 4,
+				"tur": 17,
+				"type": "R"
+			},
+			"12413278": {
+				"blk": 4,
+				"name": "Spleen Eater",
+				"tur": 17,
+				"type": "R"
+			},
+			"12413279": {
+				"blk": 2,
+				"name": "Nose Smasher",
+				"rus": 14,
+				"spp": 6,
+				"tds": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12413280": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Gar'Og'Graw",
+				"tur": 6,
+				"type": "R"
+			},
+			"12413281": {
+				"fou": 1,
+				"name": "Gra'Ro'Pra",
+				"tur": 17,
+				"type": "R"
+			},
+			"12413282": {
+				"blk": 1,
+				"name": "Gro'Gaw'Cra",
+				"tur": 16,
+				"type": "R"
+			},
+			"12413283": {
+				"blk": 2,
+				"died": [
+					2,
+					8,
+					"blocked",
+					"12416226"
+				],
+				"name": "Gor'Raw'Dra",
+				"tur": 17,
+				"type": "R"
+			}
+		},
+		"916217": {
+			"12416220": {
+				"blk": 3,
+				"name": "Bestgor \"The Vicious\"",
+				"tur": 7,
+				"type": "R"
+			},
+			"12416222": {
+				"blk": 1,
+				"name": "Strongor \"The Mighty\"",
+				"tur": 1,
+				"type": "R"
+			},
+			"12416224": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Powergor \"The Relentless\"",
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"12416226": {
+				"blk": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Mustgor \"The Decided\"",
+				"spp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"12416227": {
+				"blk": 6,
+				"fou": 1,
+				"name": "Gogor \"The Brutal\"",
+				"tur": 17,
+				"type": "R"
+			},
+			"12416228": {
+				"name": "Fastgor \"The Lightning\"",
+				"rus": 17,
+				"tur": 9,
+				"type": "R"
+			},
+			"12416229": {
+				"name": "Quickgor \"The Legged\"",
+				"rus": 9,
+				"tur": 17,
+				"type": "R"
+			},
+			"12416233": {
+				"blk": 2,
+				"name": "Hollowgor \"The Hungry\"",
+				"tur": 6,
+				"type": "R"
+			},
+			"12416234": {
+				"blk": 3,
+				"name": "Tallgor \"The Landscapist\"",
+				"tur": 10,
+				"type": "R"
+			},
+			"12416236": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Brutegor \"The Doubtless\"",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12416238": {
+				"blk": 2,
+				"name": "Roughgor \"The Thoughtless\"",
+				"tur": 4,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1097931",
 	"team_performance": {
 		"916031": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "Gorthor's Prophets Of Mork",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		},
 		"916217": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "Cloven Clan",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		}
 	}
 }

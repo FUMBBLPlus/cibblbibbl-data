@@ -1,19 +1,212 @@
 {
 	"!excluded": "no",
+	"matchId": "3989664",
+	"player_performance": {
+		"888009": {
+			"11969189": {
+				"blk": 12,
+				"name": "Dumnorix",
+				"prespp": 28,
+				"tur": 16,
+				"type": "R"
+			},
+			"11969190": {
+				"blk": 7,
+				"name": "Boudica's Guardian",
+				"prespp": 28,
+				"tur": 16,
+				"type": "B"
+			},
+			"11969192": {
+				"blk": 12,
+				"cas": 1,
+				"name": "Antedios",
+				"prespp": 19,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11969193": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Gaius",
+				"prespp": 47,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11969198": {
+				"name": "Eolande",
+				"prespp": 9,
+				"rus": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"12029109": {
+				"name": "Cartimandua II",
+				"prespp": 16,
+				"tur": 9,
+				"type": "R"
+			},
+			"12058593": {
+				"blk": 1,
+				"name": "Breena II",
+				"prespp": 9,
+				"tur": 2,
+				"type": "R"
+			},
+			"12153115": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Danaxae",
+				"prespp": 12,
+				"rus": 1,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12178151": {
+				"name": "Aemioso",
+				"prespp": 6,
+				"rus": 10,
+				"tur": 16,
+				"type": "R"
+			},
+			"12241622": {
+				"blk": 9,
+				"name": "Faustidos",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12241623": {
+				"blk": 1,
+				"name": "Danylen",
+				"tur": 1,
+				"type": "R"
+			},
+			"12267136": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Fontilous",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 8,
+				"type": "R"
+			}
+		},
+		"896228": {
+			"12103149": {
+				"blk": 2,
+				"name": "Mortarion",
+				"prespp": 20,
+				"tur": 16,
+				"type": "B"
+			},
+			"12103152": {
+				"blk": 3,
+				"name": "Ku'Gath",
+				"prespp": 5,
+				"rus": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103156": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Epidemius",
+				"prespp": 21,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"12103185": {
+				"name": "Garalash",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12114193": {
+				"blk": 5,
+				"name": "Omphuross",
+				"prespp": 31,
+				"tur": 16,
+				"type": "R"
+			},
+			"12143379": {
+				"name": "Malarus",
+				"prespp": 19,
+				"type": "R"
+			},
+			"12179689": {
+				"blk": 2,
+				"cas": 2,
+				"name": "Syphidemis",
+				"prespp": 18,
+				"rus": 21,
+				"spp": 7,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12225641": {
+				"name": "Mathor",
+				"prespp": 9,
+				"tur": 1,
+				"type": "R"
+			},
+			"12235165": {
+				"blk": 3,
+				"name": "Svotrax",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12279787": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Zyvile",
+				"rus": 7,
+				"spp": 5,
+				"tur": 4,
+				"type": "R"
+			},
+			"12279788": {
+				"fou": 1,
+				"name": "Julius Bluefire",
+				"tur": 11,
+				"type": "R"
+			},
+			"12279789": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Ian Faststone",
+				"tur": 7,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1068856",
 	"team_performance": {
 		"888009": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "Londinium's Lunatics",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"896228": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "Gardeners of Nurgle",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

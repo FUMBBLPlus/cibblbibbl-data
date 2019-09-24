@@ -1,19 +1,235 @@
 {
 	"!excluded": "no",
+	"matchId": "4026959",
+	"player_performance": {
+		"915893": {
+			"12410997": {
+				"blk": 3,
+				"name": "White Fangs",
+				"tur": 12,
+				"type": "R"
+			},
+			"12410998": {
+				"blk": 4,
+				"name": "Thick Hide",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12410999": {
+				"blk": 7,
+				"name": "Sharpclaws",
+				"prespp": 7,
+				"rus": 8,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12411000": {
+				"blk": 2,
+				"name": "Swiftslash",
+				"prespp": 13,
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"12411001": {
+				"blk": 4,
+				"died": [
+					2,
+					4,
+					"blocked",
+					"12469185"
+				],
+				"name": "Chargtooth",
+				"prespp": 10,
+				"tur": 8,
+				"type": "R"
+			},
+			"12411002": {
+				"blk": 1,
+				"name": "Summercharge",
+				"prespp": 2,
+				"tur": 2,
+				"type": "R"
+			},
+			"12411003": {
+				"blk": 1,
+				"name": "Danel",
+				"prespp": 6,
+				"tur": 4,
+				"type": "R"
+			},
+			"12411004": {
+				"fou": 1,
+				"name": "Isnagard",
+				"tur": 10,
+				"type": "R"
+			},
+			"12411005": {
+				"fou": 1,
+				"mvp": 1,
+				"name": "Landerous",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 14,
+				"type": "R"
+			},
+			"12411006": {
+				"name": "Vladimoff",
+				"type": "R"
+			},
+			"12411007": {
+				"died": [
+					2,
+					1,
+					"blocked",
+					"12469186"
+				],
+				"name": "Madrigard",
+				"prespp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"12491057": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Orion The Untamable",
+				"spp": 2,
+				"tur": 10,
+				"type": "B"
+			}
+		},
+		"919573": {
+			"12469183": {
+				"blk": 7,
+				"cas": 2,
+				"name": "Tornbull",
+				"prespp": 7,
+				"spp": 4,
+				"tur": 16,
+				"type": "B"
+			},
+			"12469184": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Blightbasher",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"12469185": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Warpserker",
+				"prespp": 6,
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"12469186": {
+				"blk": 6,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Toerot",
+				"prespp": 8,
+				"spp": 9,
+				"tur": 16,
+				"type": "B"
+			},
+			"12469188": {
+				"died": [
+					1,
+					3,
+					"dodgeFail",
+					null
+				],
+				"name": "Qhun Spinesewer",
+				"prespp": 3,
+				"tur": 2,
+				"type": "R"
+			},
+			"12469191": {
+				"blk": 2,
+				"name": "Tech Toetacker",
+				"prespp": 6,
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"12469192": {
+				"name": "Znukch Clothclaw",
+				"rus": 6,
+				"tur": 9,
+				"type": "R"
+			},
+			"12469194": {
+				"name": "Crenq Brightear",
+				"type": "R"
+			},
+			"12469197": {
+				"name": "Zalk Weavepaw",
+				"type": "R"
+			},
+			"12469210": {
+				"blk": 1,
+				"name": "Srotch Firebaster",
+				"tur": 11,
+				"type": "R"
+			},
+			"12496058": {
+				"blk": 2,
+				"name": "Skaq Shoepaw",
+				"tur": 15,
+				"type": "R"
+			},
+			"12496059": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Jack Deepstone",
+				"rus": 6,
+				"tur": 15,
+				"type": "R"
+			},
+			"12496060": {
+				"name": "Jack Goldorc",
+				"type": "R"
+			},
+			"919573S1": {
+				"blk": 4,
+				"name": "Fezglitch",
+				"tur": 4,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1112356",
 	"team_performance": {
 		"915893": {
 			"cas": 1,
 			"casdiff": -5,
+			"name": "Loren's Rebuke",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"919573": {
 			"cas": 6,
 			"casdiff": 5,
+			"name": "Ragtag Animal Training Sartors",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

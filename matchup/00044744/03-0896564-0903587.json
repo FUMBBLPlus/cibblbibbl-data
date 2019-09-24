@@ -1,19 +1,216 @@
 {
 	"!excluded": "no",
+	"matchId": "3985460",
+	"player_performance": {
+		"896564": {
+			"12108653": {
+				"blk": 10,
+				"name": "Ra-aa-kheper",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12108654": {
+				"blk": 9,
+				"name": "Ounephes",
+				"prespp": 17,
+				"tur": 16,
+				"type": "R"
+			},
+			"12108656": {
+				"blk": 5,
+				"name": "Ra-men-ankh",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12108659": {
+				"blk": 2,
+				"name": "Suten-rekh",
+				"prespp": 7,
+				"tur": 10,
+				"type": "R"
+			},
+			"12108660": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Ra-mere-nefer",
+				"prespp": 10,
+				"spp": 5,
+				"tur": 4,
+				"type": "R"
+			},
+			"12108662": {
+				"blk": 1,
+				"name": "Ra-s-hotep-ab",
+				"prespp": 14,
+				"rus": 17,
+				"tur": 12,
+				"type": "R"
+			},
+			"12108664": {
+				"blk": 2,
+				"name": "Het-het",
+				"tur": 14,
+				"type": "R"
+			},
+			"12108665": {
+				"name": "Tu-en-hor",
+				"tur": 5,
+				"type": "R"
+			},
+			"12108667": {
+				"blk": 1,
+				"name": "Kan-ta",
+				"prespp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"12137186": {
+				"blk": 13,
+				"name": "Ten-em-haa-pthah",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12147083": {
+				"blk": 1,
+				"name": "Pai-netem",
+				"tur": 16,
+				"type": "R"
+			},
+			"12180821": {
+				"name": "Amemu",
+				"type": "R"
+			},
+			"12180822": {
+				"name": "Amenemef",
+				"tur": 8,
+				"type": "R"
+			},
+			"12180824": {
+				"name": "Amen-ra",
+				"tur": 10,
+				"type": "R"
+			}
+		},
+		"903587": {
+			"12217650": {
+				"blk": 8,
+				"name": "Ragnis Smoulder",
+				"tur": 13,
+				"type": "R"
+			},
+			"12217651": {
+				"blk": 3,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Huricus Breeze",
+				"prespp": 3,
+				"rus": 10,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12217652": {
+				"blk": 3,
+				"name": "Chinook Gust",
+				"tur": 12,
+				"type": "R"
+			},
+			"12217653": {
+				"blk": 2,
+				"name": "Avalan Slate",
+				"tur": 16,
+				"type": "R"
+			},
+			"12217654": {
+				"cas": 1,
+				"name": "Umber Shale",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12217655": {
+				"blk": 1,
+				"name": "Caenum Storm",
+				"tur": 16,
+				"type": "R"
+			},
+			"12217663": {
+				"blk": 3,
+				"name": "Avala Falls",
+				"tur": 16,
+				"type": "R"
+			},
+			"12217664": {
+				"blk": 1,
+				"died": [
+					1,
+					7,
+					"dodgeFail",
+					null
+				],
+				"name": "Igneos Blaze",
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 6,
+				"type": "R"
+			},
+			"12217666": {
+				"blk": 1,
+				"name": "Sigmis Inferno",
+				"tur": 12,
+				"type": "R"
+			},
+			"12217667": {
+				"blk": 1,
+				"int": 1,
+				"name": "Soots Char",
+				"rus": 2,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12217669": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Fye Tinder",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12250978": {
+				"blk": 3,
+				"name": "Magmis Pyre",
+				"tur": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1063743",
 	"team_performance": {
 		"896564": {
 			"cas": 0,
 			"casdiff": -3,
+			"name": "Thoughts of Thoth",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"903587": {
 			"cas": 3,
 			"casdiff": 3,
+			"name": "Aqshy's Flames",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

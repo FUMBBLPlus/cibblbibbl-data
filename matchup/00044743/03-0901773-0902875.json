@@ -1,19 +1,196 @@
 {
 	"!excluded": "no",
+	"matchId": "3980278",
+	"player_performance": {
+		"901773": {
+			"12188825": {
+				"name": "Vueech Emberrunner",
+				"tur": 1,
+				"type": "R"
+			},
+			"12188828": {
+				"blk": 2,
+				"name": "Kheetch Darkscream",
+				"prespp": 18,
+				"rus": 45,
+				"spp": 6,
+				"tds": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12188830": {
+				"name": "Skritch Highbinder",
+				"tur": 10,
+				"type": "R"
+			},
+			"12188831": {
+				"blk": 6,
+				"name": "Qixqokch Headtaker",
+				"prespp": 9,
+				"rus": 2,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12188832": {
+				"blk": 5,
+				"name": "Straxqenq Silentreaper",
+				"prespp": 4,
+				"tur": 15,
+				"type": "R"
+			},
+			"12188833": {
+				"blk": 6,
+				"died": [
+					2,
+					1,
+					"blocked",
+					"12206483"
+				],
+				"name": "Xalk Blazingclaw",
+				"tur": 8,
+				"type": "R"
+			},
+			"12188834": {
+				"blk": 3,
+				"name": "Eqal Broadseeker",
+				"tur": 14,
+				"type": "R"
+			},
+			"12188835": {
+				"blk": 4,
+				"name": "Qrokhuat Barbmaster",
+				"tur": 13,
+				"type": "R"
+			},
+			"12188837": {
+				"blk": 5,
+				"name": "Znuol Verminsnout",
+				"prespp": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"12216635": {
+				"blk": 9,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Rikek",
+				"spp": 7,
+				"tur": 13,
+				"type": "B"
+			},
+			"12223840": {
+				"blk": 4,
+				"name": "Ulric Clearstone",
+				"tur": 13,
+				"type": "R"
+			}
+		},
+		"902875": {
+			"12206473": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Willie War",
+				"tur": 6,
+				"type": "R"
+			},
+			"12206474": {
+				"blk": 1,
+				"name": "Paul Pike",
+				"tur": 14,
+				"type": "R"
+			},
+			"12206475": {
+				"blk": 1,
+				"name": "Charles Castle",
+				"prespp": 3,
+				"rus": -4,
+				"tur": 15,
+				"type": "R"
+			},
+			"12206476": {
+				"blk": 1,
+				"name": "Leroy Logistics",
+				"tur": 12,
+				"type": "R"
+			},
+			"12206477": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Colleen Charge",
+				"rus": 9,
+				"tur": 15,
+				"type": "R"
+			},
+			"12206478": {
+				"blk": 2,
+				"name": "Jack Jettison",
+				"rus": 4,
+				"tur": 15,
+				"type": "R"
+			},
+			"12206481": {
+				"blk": 1,
+				"name": "Timothy Tank",
+				"pas": -1,
+				"rus": 7,
+				"tur": 9,
+				"type": "R"
+			},
+			"12206482": {
+				"blk": 8,
+				"name": "Bernard Wolf",
+				"prespp": 5,
+				"tur": 12,
+				"type": "R"
+			},
+			"12206483": {
+				"blk": 11,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Gregory Wolf",
+				"prespp": 7,
+				"spp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"12206484": {
+				"blk": 3,
+				"name": "Blake Bunker",
+				"prespp": 2,
+				"tur": 8,
+				"type": "B"
+			},
+			"12226489": {
+				"blk": 1,
+				"name": "Martin Hideousstream",
+				"tur": 8,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1057721",
 	"team_performance": {
 		"901773": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Rikek Revenge",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		},
 		"902875": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "T.H.H.U. Slayers",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		}
 	}
 }

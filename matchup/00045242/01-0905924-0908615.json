@@ -1,19 +1,203 @@
 {
 	"!excluded": "no",
+	"matchId": "3999372",
+	"player_performance": {
+		"905924": {
+			"12254401": {
+				"blk": 3,
+				"name": "Reddup",
+				"prespp": 2,
+				"tur": 6,
+				"type": "R"
+			},
+			"12254402": {
+				"blk": 4,
+				"name": "Spook",
+				"prespp": 7,
+				"tur": 16,
+				"type": "B"
+			},
+			"12254405": {
+				"blk": 3,
+				"name": "Bone",
+				"prespp": 8,
+				"tur": 12,
+				"type": "R"
+			},
+			"12254406": {
+				"blk": 2,
+				"name": "Gruber",
+				"prespp": 10,
+				"rus": 14,
+				"spp": 3,
+				"tds": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"12254409": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Pygmy",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12254414": {
+				"name": "Clumsy",
+				"prespp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"12254424": {
+				"name": "Ashur The Vile",
+				"type": "R"
+			},
+			"12254427": {
+				"name": "Slob The Laborer",
+				"tur": 3,
+				"type": "R"
+			},
+			"12254440": {
+				"name": "O-Dog The Trogslayer",
+				"prespp": 8,
+				"tur": 1,
+				"type": "R"
+			},
+			"12254445": {
+				"name": "Scumm The Rebel",
+				"type": "R"
+			},
+			"12254450": {
+				"blk": 1,
+				"name": "Smartu The Unscarred",
+				"prespp": 3,
+				"tur": 13,
+				"type": "R"
+			},
+			"12263755": {
+				"blk": 2,
+				"name": "Gizmo The Gambler",
+				"tur": 16,
+				"type": "R"
+			},
+			"12263756": {
+				"name": "Killian Glowingwater",
+				"type": "R"
+			},
+			"12268727": {
+				"blk": 10,
+				"mvp": 1,
+				"name": "Redbone",
+				"prespp": 6,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"908615": {
+			"12296806": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Dinrac Firemight",
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12296807": {
+				"blk": 2,
+				"name": "Dobruc Flintbreaker",
+				"tur": 13,
+				"type": "R"
+			},
+			"12296808": {
+				"blk": 5,
+				"name": "Soren Copperfire",
+				"tur": 15,
+				"type": "R"
+			},
+			"12296810": {
+				"blk": 4,
+				"name": "Soarbad Leadfist",
+				"rus": 1,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12296811": {
+				"mvp": 1,
+				"name": "Krothregg Lightbearer",
+				"rus": 20,
+				"spp": 8,
+				"tds": 1,
+				"tur": 7,
+				"type": "R"
+			},
+			"12296812": {
+				"name": "Itrin Forgehank",
+				"rus": 19,
+				"tur": 7,
+				"type": "R"
+			},
+			"12296813": {
+				"blk": 1,
+				"name": "Thegram Silvershield",
+				"tur": 8,
+				"type": "R"
+			},
+			"12296814": {
+				"blk": 5,
+				"name": "Thirmdrim Stormdigger",
+				"tur": 14,
+				"type": "R"
+			},
+			"12296815": {
+				"blk": 3,
+				"name": "Elaoc Ingotward",
+				"tur": 15,
+				"type": "R"
+			},
+			"12296816": {
+				"blk": 4,
+				"name": "Dothum Rockbelt",
+				"tur": 8,
+				"type": "R"
+			},
+			"12296818": {
+				"blk": 2,
+				"name": "Kragugg Regalfire",
+				"tur": 15,
+				"type": "R"
+			},
+			"908615M1": {
+				"fou": 2,
+				"name": "Merc Blocker 1",
+				"tur": 6,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1081117",
 	"team_performance": {
 		"905924": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Squill's Squig Pitt",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"908615": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Barak Varr Voyagers",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

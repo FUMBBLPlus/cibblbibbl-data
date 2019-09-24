@@ -1,19 +1,209 @@
 {
 	"!excluded": "no",
+	"matchId": "4069891",
+	"player_performance": {
+		"905924": {
+			"12254401": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Reddup",
+				"prespp": 21,
+				"spp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"12254402": {
+				"blk": 2,
+				"name": "Spook",
+				"prespp": 23,
+				"tur": 17,
+				"type": "B"
+			},
+			"12254405": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Bone",
+				"prespp": 49,
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"12263755": {
+				"name": "Gizmo The Gambler",
+				"prespp": 9,
+				"tur": 6,
+				"type": "R"
+			},
+			"12268727": {
+				"blk": 3,
+				"name": "Redbone",
+				"prespp": 94,
+				"rus": 19,
+				"tur": 13,
+				"type": "R"
+			},
+			"12528884": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Angron",
+				"prespp": 8,
+				"spp": 5,
+				"tur": 5,
+				"type": "R"
+			},
+			"12547748": {
+				"name": "Wrex",
+				"prespp": 29,
+				"type": "R"
+			},
+			"12595120": {
+				"fou": 1,
+				"name": "Grub The Inedible",
+				"tur": 6,
+				"type": "R"
+			},
+			"12605626": {
+				"died": [
+					1,
+					7,
+					"blocked",
+					"12694017"
+				],
+				"name": "Overseer Lasher",
+				"tur": 7,
+				"type": "R"
+			},
+			"12622816": {
+				"name": "Oddgit",
+				"tur": 8,
+				"type": "R"
+			},
+			"12636263": {
+				"name": "Skweegus Da Trapper",
+				"tur": 8,
+				"type": "R"
+			},
+			"12691858": {
+				"name": "Glowgob",
+				"tur": 4,
+				"type": "R"
+			}
+		},
+		"916031": {
+			"12413275": {
+				"name": "Head Stompa",
+				"prespp": 54,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12413281": {
+				"name": "Gra'Ro'Pra",
+				"prespp": 4,
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12413282": {
+				"blk": 1,
+				"name": "Gro'Gaw'Cra",
+				"tur": 16,
+				"type": "R"
+			},
+			"12426039": {
+				"blk": 15,
+				"cas": 2,
+				"name": "Nose Snippa",
+				"prespp": 24,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12513955": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Veel Skinner",
+				"prespp": 9,
+				"spp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"12577257": {
+				"blk": 3,
+				"name": "Nail Bita",
+				"prespp": 17,
+				"rus": 5,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12579298": {
+				"blk": 1,
+				"name": "Gre'Ra'War",
+				"tur": 16,
+				"type": "R"
+			},
+			"12612939": {
+				"blk": 6,
+				"cas": 3,
+				"name": "Kzerio",
+				"prespp": 12,
+				"spp": 6,
+				"tur": 16,
+				"type": "B"
+			},
+			"12694017": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Heel Slappa",
+				"prespp": 5,
+				"rus": 37,
+				"spp": 11,
+				"tds": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"12696449": {
+				"blk": 2,
+				"name": "Ian Faststone",
+				"pas": 1,
+				"rus": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12696450": {
+				"blk": 2,
+				"name": "Ian Bluebrook",
+				"tur": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1161482",
 	"team_performance": {
 		"905924": {
 			"cas": 2,
 			"casdiff": -4,
+			"name": "Squill's Squig Pitt",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -6
+			"scorediff": -6,
+			"tds": 0,
+			"tdsdiff": -6
 		},
 		"916031": {
 			"cas": 6,
 			"casdiff": 4,
+			"name": "Gorthor's Prophets Of Mork",
 			"rsym": "W",
 			"score": 6,
-			"scorediff": 6
+			"scorediff": 6,
+			"tds": 6,
+			"tdsdiff": 6
 		}
 	}
 }

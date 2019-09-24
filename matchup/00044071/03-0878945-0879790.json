@@ -1,19 +1,217 @@
 {
 	"!excluded": "no",
+	"matchId": "3953500",
+	"player_performance": {
+		"878945": {
+			"11825655": {
+				"blk": 11,
+				"cas": 1,
+				"int": 1,
+				"name": "Lashweaver Taker of Souls",
+				"prespp": 79,
+				"rus": 6,
+				"spp": 7,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11825658": {
+				"name": "Laesydra",
+				"prespp": 20,
+				"tur": 3,
+				"type": "R"
+			},
+			"11825659": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Shyak",
+				"prespp": 20,
+				"tur": 13,
+				"type": "R"
+			},
+			"11825663": {
+				"blk": 3,
+				"name": "Braskh'har",
+				"prespp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"11850084": {
+				"blk": 3,
+				"name": "Lady Lestella",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11916781": {
+				"blk": 3,
+				"name": "Heladresh Lust-Bringer",
+				"prespp": 32,
+				"rus": 21,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11994839": {
+				"blk": 2,
+				"cas": 2,
+				"name": "Skylah the Desired",
+				"prespp": 22,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11998830": {
+				"blk": 2,
+				"name": "Brog'hador",
+				"tur": 9,
+				"type": "R"
+			},
+			"12066502": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Elasta Euphoria",
+				"prespp": 1,
+				"rus": 4,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12074025": {
+				"blk": 1,
+				"died": [
+					1,
+					7,
+					"blocked",
+					"11959755"
+				],
+				"name": "William Dirtytree",
+				"tur": 7,
+				"type": "R"
+			},
+			"12074026": {
+				"blk": 2,
+				"name": "Harold Cleartree",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"879790": {
+			"11839347": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Hemek Abanux",
+				"tur": 12,
+				"type": "R"
+			},
+			"11839348": {
+				"blk": 2,
+				"name": "Kalrand Ahrudas",
+				"tur": 12,
+				"type": "R"
+			},
+			"11839349": {
+				"name": "Arstur An'gom",
+				"prespp": 6,
+				"type": "R"
+			},
+			"11839378": {
+				"blk": 7,
+				"fou": 1,
+				"name": "Ezrath Nemelas",
+				"prespp": 14,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839798": {
+				"blk": 12,
+				"mvp": 1,
+				"name": "Ba'el, The Naked Slayer",
+				"prespp": 23,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11865383": {
+				"blk": 11,
+				"cas": 1,
+				"name": "Abraxis, Tooth of Death",
+				"prespp": 22,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11959755": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Malphas, The Bloody Blade",
+				"prespp": 9,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11999803": {
+				"name": "Zakhar Takai",
+				"tur": 1,
+				"type": "R"
+			},
+			"12040430": {
+				"name": "Mephithal Phobus",
+				"prespp": 16,
+				"tur": 1,
+				"type": "R"
+			},
+			"12071495": {
+				"blk": 2,
+				"name": "Fredrick Dirtyfield",
+				"tur": 15,
+				"type": "R"
+			},
+			"12071496": {
+				"blk": 4,
+				"name": "David Grottyorc",
+				"tur": 7,
+				"type": "R"
+			},
+			"12071497": {
+				"fou": 1,
+				"name": "Sylvester Bluerock",
+				"tur": 6,
+				"type": "R"
+			},
+			"879790S1": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Duke Luthor Von Hawkfire",
+				"rus": 12,
+				"spp": 2,
+				"tur": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1027061",
 	"team_performance": {
 		"878945": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "Eternal Ecstasy",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"879790": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "Unfettered Fury",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

@@ -1,19 +1,233 @@
 {
 	"!excluded": "no",
+	"matchId": "4067021",
+	"player_performance": {
+		"925504": {
+			"12562180": {
+				"blk": 3,
+				"name": "Sir Danzig the Cinder",
+				"prespp": 19,
+				"tur": 14,
+				"type": "R"
+			},
+			"12562182": {
+				"blk": 4,
+				"name": "Sir Geoffrey the Bright",
+				"prespp": 8,
+				"tur": 13,
+				"type": "R"
+			},
+			"12562184": {
+				"cps": 1,
+				"name": "Fair Henry of Storms",
+				"pas": 5,
+				"prespp": 10,
+				"rus": 38,
+				"spp": 7,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12562186": {
+				"name": "Hardy Wilbur the Molten",
+				"prespp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"12562187": {
+				"died": [
+					1,
+					3,
+					"blocked",
+					"12569525"
+				],
+				"name": "Hardy Frederick of Iron",
+				"tur": 3,
+				"type": "R"
+			},
+			"12562188": {
+				"name": "Calm Nolan the Current",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12562189": {
+				"name": "Calm Xavier of Tides",
+				"prespp": 3,
+				"tur": 8,
+				"type": "R"
+			},
+			"12578583": {
+				"blk": 1,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Sir Wilfred the Scorching",
+				"prespp": 2,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12685248": {
+				"blk": 2,
+				"name": "Sir Mercury the Inferno",
+				"rus": 8,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12695116": {
+				"blk": 1,
+				"name": "Graham Clearbone",
+				"tur": 14,
+				"type": "R"
+			},
+			"12695117": {
+				"name": "Aaron Vilewing",
+				"tur": 10,
+				"type": "R"
+			},
+			"12695118": {
+				"blk": 2,
+				"name": "Billy Goldhammer",
+				"tur": 16,
+				"type": "R"
+			},
+			"925504S1": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Puggy Baconbreath",
+				"spp": 2,
+				"tur": 13,
+				"type": "S"
+			}
+		},
+		"926025": {
+			"12569521": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Snot Steiner",
+				"prespp": 14,
+				"spp": 2,
+				"tur": 15,
+				"type": "B"
+			},
+			"12569525": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Randy \"The Mucus Man\" Savage",
+				"prespp": 20,
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"12569527": {
+				"name": "Arnold Snotszenegger",
+				"prespp": 11,
+				"type": "B"
+			},
+			"12569686": {
+				"blk": 8,
+				"mvp": 1,
+				"name": "Lex Looger",
+				"prespp": 11,
+				"spp": 5,
+				"tur": 16,
+				"type": "B"
+			},
+			"12569688": {
+				"name": "Splop",
+				"pas": 1,
+				"prespp": 5,
+				"rus": 9,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12569689": {
+				"died": [
+					1,
+					7,
+					"blocked",
+					"12578583"
+				],
+				"name": "Sploop",
+				"pas": 1,
+				"rus": 5,
+				"tur": 6,
+				"type": "R"
+			},
+			"12569690": {
+				"name": "Skitter",
+				"tur": 16,
+				"type": "R"
+			},
+			"12569693": {
+				"name": "Kicky",
+				"prespp": 6,
+				"tur": 5,
+				"type": "R"
+			},
+			"12571803": {
+				"blk": 6,
+				"name": "Booger T",
+				"prespp": 19,
+				"tur": 12,
+				"type": "B"
+			},
+			"12571811": {
+				"blk": 7,
+				"name": "Hock Hogan",
+				"prespp": 15,
+				"tur": 16,
+				"type": "B"
+			},
+			"12571815": {
+				"name": "Flicky",
+				"pas": 1,
+				"rus": 9,
+				"tur": 13,
+				"type": "R"
+			},
+			"12676624": {
+				"name": "Picky",
+				"tur": 3,
+				"type": "R"
+			},
+			"12676626": {
+				"name": "Splip",
+				"tur": 10,
+				"type": "R"
+			},
+			"12687289": {
+				"blk": 1,
+				"name": "Cave Digger",
+				"tur": 1,
+				"type": "B"
+			}
+		}
+	},
+	"replayId": "1158214",
 	"team_performance": {
 		"925504": {
 			"cas": 2,
 			"casdiff": 0,
+			"name": "Ichabod's Infernals",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 3,
+			"tdsdiff": 2
 		},
 		"926025": {
 			"cas": 2,
 			"casdiff": 0,
+			"name": "Deadly Sinus Attack",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 1,
+			"tdsdiff": -2
 		}
 	}
 }

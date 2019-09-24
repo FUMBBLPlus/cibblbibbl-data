@@ -1,19 +1,223 @@
 {
 	"!excluded": "no",
+	"matchId": "4029958",
+	"player_performance": {
+		"908529": {
+			"12295351": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Hhash'chtoth",
+				"prespp": 25,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12295353": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Bbadh'nurth",
+				"prespp": 25,
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"12295355": {
+				"name": "Vulpizh",
+				"prespp": 6,
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12295356": {
+				"name": "Belakhz",
+				"prespp": 5,
+				"tur": 3,
+				"type": "R"
+			},
+			"12295357": {
+				"blk": 1,
+				"name": "Aerhish",
+				"prespp": 4,
+				"tur": 7,
+				"type": "R"
+			},
+			"12295358": {
+				"name": "Yuhkuth",
+				"prespp": 3,
+				"type": "R"
+			},
+			"12295360": {
+				"name": "Splishj",
+				"prespp": 8,
+				"tur": 5,
+				"type": "R"
+			},
+			"12295364": {
+				"name": "Flizzit",
+				"tur": 8,
+				"type": "R"
+			},
+			"12336337": {
+				"blk": 9,
+				"cas": 2,
+				"name": "Shim'dre'lex'kazar",
+				"prespp": 11,
+				"spp": 4,
+				"tur": 13,
+				"type": "B"
+			},
+			"12349401": {
+				"name": "Kkrozh",
+				"type": "I"
+			},
+			"12372276": {
+				"fou": 1,
+				"name": "Zzak",
+				"prespp": 3,
+				"tur": 8,
+				"type": "I"
+			},
+			"12372278": {
+				"blk": 1,
+				"name": "Tarh",
+				"prespp": 3,
+				"tur": 15,
+				"type": "I"
+			},
+			"12404744": {
+				"blk": 1,
+				"name": "Hashi'gharoboth",
+				"prespp": 19,
+				"tur": 1,
+				"type": "R"
+			},
+			"12456141": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Gashokh'vanderburth",
+				"prespp": 6,
+				"rus": 21,
+				"spp": 8,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"909848": {
+			"12315757": {
+				"blk": 6,
+				"name": "Lythk the Merciless",
+				"prespp": 22,
+				"tur": 9,
+				"type": "R"
+			},
+			"12315759": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Fleshrender",
+				"prespp": 17,
+				"spp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"12315760": {
+				"blk": 9,
+				"name": "Xu'eem, Fury Unleashed",
+				"prespp": 37,
+				"rus": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"12315761": {
+				"name": "Kelriz the Unforgiving",
+				"prespp": 23,
+				"type": "R"
+			},
+			"12315762": {
+				"name": "Spinebreaker",
+				"prespp": 15,
+				"rus": 1,
+				"tur": 3,
+				"type": "R"
+			},
+			"12315763": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Oxhaar the Breaker",
+				"tur": 5,
+				"type": "R"
+			},
+			"12315764": {
+				"blk": 1,
+				"name": "Ar'anyq",
+				"prespp": 11,
+				"tur": 15,
+				"type": "R"
+			},
+			"12315782": {
+				"fou": 3,
+				"name": "Crehyg the Maddening",
+				"tur": 8,
+				"type": "R"
+			},
+			"12424767": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Tailslasher the Unbroken",
+				"prespp": 9,
+				"spp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"12431645": {
+				"blk": 1,
+				"name": "Rythaal the Malevolent",
+				"prespp": 8,
+				"tur": 4,
+				"type": "R"
+			},
+			"12492739": {
+				"blk": 2,
+				"name": "Abraxasz",
+				"pas": 1,
+				"prespp": 3,
+				"rus": 17,
+				"tur": 15,
+				"type": "R"
+			},
+			"12514180": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Howard Strongbone",
+				"tur": 8,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1115881",
 	"team_performance": {
 		"908529": {
 			"cas": 4,
 			"casdiff": 1,
+			"name": "ICBM Warpspawns",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"909848": {
 			"cas": 3,
 			"casdiff": -1,
+			"name": "Black Hearted Bloodseekers",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

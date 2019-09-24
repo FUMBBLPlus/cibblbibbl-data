@@ -1,19 +1,207 @@
 {
 	"!excluded": "no",
+	"matchId": "4010498",
+	"player_performance": {
+		"907426": {
+			"12278037": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Hrafn Blackhoof",
+				"prespp": 3,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12278038": {
+				"blk": 3,
+				"name": "Uzhog Eight-Legs",
+				"prespp": 14,
+				"tur": 4,
+				"type": "R"
+			},
+			"12278040": {
+				"blk": 9,
+				"name": "Urgogh Red-Eye",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12278043": {
+				"name": "Valug",
+				"prespp": 17,
+				"rus": 15,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12278044": {
+				"blk": 1,
+				"name": "Urlan",
+				"prespp": 6,
+				"tur": 8,
+				"type": "R"
+			},
+			"12278045": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Mak",
+				"prespp": 8,
+				"tur": 8,
+				"type": "R"
+			},
+			"12278046": {
+				"name": "Bundig",
+				"prespp": 5,
+				"tur": 7,
+				"type": "R"
+			},
+			"12278047": {
+				"name": "Bitterfoot",
+				"tur": 2,
+				"type": "R"
+			},
+			"12278048": {
+				"blk": 4,
+				"name": "Borgan Nightbreath",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12328815": {
+				"blk": 2,
+				"name": "Orgfan the Walking Wineskin",
+				"prespp": 19,
+				"tur": 3,
+				"type": "R"
+			},
+			"12331217": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Gorthaur Three-Quarters-Wit",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"908529": {
+			"12295351": {
+				"blk": 7,
+				"name": "Hhash'chtoth",
+				"prespp": 17,
+				"tur": 16,
+				"type": "R"
+			},
+			"12295353": {
+				"blk": 12,
+				"mvp": 1,
+				"name": "Bbadh'nurth",
+				"prespp": 12,
+				"rus": 13,
+				"spp": 8,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12295355": {
+				"blk": 1,
+				"name": "Vulpizh",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12295356": {
+				"name": "Belakhz",
+				"prespp": 4,
+				"tur": 11,
+				"type": "R"
+			},
+			"12295357": {
+				"name": "Aerhish",
+				"prespp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"12295358": {
+				"blk": 1,
+				"name": "Yuhkuth",
+				"tur": 16,
+				"type": "R"
+			},
+			"12295360": {
+				"name": "Splishj",
+				"prespp": 8,
+				"type": "R"
+			},
+			"12295364": {
+				"name": "Flizzit",
+				"tur": 3,
+				"type": "R"
+			},
+			"12336337": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Shim'dre'lex'kazar",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"12349401": {
+				"blk": 1,
+				"name": "Kkrozh",
+				"tur": 16,
+				"type": "I"
+			},
+			"12349402": {
+				"name": "Sazks",
+				"type": "I"
+			},
+			"12372276": {
+				"name": "Zzak",
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12372278": {
+				"name": "Tarh",
+				"pas": 1,
+				"rus": 6,
+				"tur": 14,
+				"type": "R"
+			},
+			"908529S1": {
+				"blk": 3,
+				"name": "Duke Luthor Von Hawkfire",
+				"tur": 5,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1093878",
 	"team_performance": {
 		"907426": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Hrafn's Herd",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"908529": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "ICBM Warpspawns",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

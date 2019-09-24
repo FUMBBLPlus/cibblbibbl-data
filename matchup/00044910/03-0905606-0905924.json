@@ -1,19 +1,201 @@
 {
 	"!excluded": "no",
+	"matchId": "3985002",
+	"player_performance": {
+		"905606": {
+			"12250181": {
+				"blk": 3,
+				"name": "Thaskar the Patient",
+				"rus": 3,
+				"tur": 15,
+				"type": "R"
+			},
+			"12250182": {
+				"name": "Laris the Architect",
+				"rus": 15,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12250183": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Khahos the Crimson",
+				"prespp": 5,
+				"tur": 4,
+				"type": "R"
+			},
+			"12250187": {
+				"blk": 3,
+				"name": "Itom the Visionary",
+				"prespp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"12250188": {
+				"blk": 6,
+				"name": "Machakh the Ancient",
+				"tur": 15,
+				"type": "R"
+			},
+			"12250189": {
+				"fou": 1,
+				"name": "Rophkihon the Prime",
+				"tur": 1,
+				"type": "R"
+			},
+			"12250191": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Nestap the Brillant",
+				"tur": 8,
+				"type": "R"
+			},
+			"12250204": {
+				"blk": 1,
+				"name": "Syiksa the Infinite",
+				"tur": 8,
+				"type": "R"
+			},
+			"12250205": {
+				"blk": 6,
+				"mvp": 1,
+				"name": "Aexlor the Bulwark",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 15,
+				"type": "B"
+			},
+			"12250207": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Khokhakh the Honorable",
+				"tur": 14,
+				"type": "R"
+			},
+			"12250209": {
+				"blk": 2,
+				"name": "Erikheph the Watcher",
+				"tur": 7,
+				"type": "R"
+			},
+			"12250212": {
+				"blk": 2,
+				"name": "Kessas the White",
+				"prespp": 2,
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"905924": {
+			"12254401": {
+				"name": "Reddup",
+				"type": "R"
+			},
+			"12254402": {
+				"blk": 6,
+				"name": "Spook",
+				"prespp": 5,
+				"tur": 15,
+				"type": "B"
+			},
+			"12254405": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Bone",
+				"rus": 15,
+				"spp": 8,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"12254406": {
+				"blk": 5,
+				"name": "Gruber",
+				"tur": 13,
+				"type": "R"
+			},
+			"12254409": {
+				"blk": 4,
+				"name": "Pygmy",
+				"tur": 12,
+				"type": "R"
+			},
+			"12254414": {
+				"blk": 1,
+				"name": "Clumsy",
+				"prespp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"12254424": {
+				"name": "Ashur The Vile",
+				"tur": 8,
+				"type": "R"
+			},
+			"12254426": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Ghekko The Supervisor",
+				"spp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"12254427": {
+				"name": "Slob The Laborer",
+				"tur": 1,
+				"type": "R"
+			},
+			"12254440": {
+				"name": "O-Dog The Trogslayer",
+				"tur": 5,
+				"type": "R"
+			},
+			"12254445": {
+				"name": "Scumm The Rebel",
+				"tur": 5,
+				"type": "R"
+			},
+			"12254450": {
+				"blk": 1,
+				"name": "Smartu The Unscarred",
+				"prespp": 3,
+				"tur": 4,
+				"type": "R"
+			},
+			"905924M1": {
+				"name": "Merc Squig Herder 1",
+				"type": "M"
+			},
+			"905924M2": {
+				"name": "Merc Squig Herder 2",
+				"tur": 15,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1063187",
 	"team_performance": {
 		"905606": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Serpent-Guards of Khalida",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		},
 		"905924": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Squill's Squig Pitt",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		}
 	}
 }

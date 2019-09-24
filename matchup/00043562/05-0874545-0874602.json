@@ -1,19 +1,217 @@
 {
 	"!excluded": "no",
+	"matchId": "3932541",
+	"player_performance": {
+		"874545": {
+			"11758477": {
+				"blk": 4,
+				"name": "Jared \"the Prince\"",
+				"prespp": 13,
+				"tur": 10,
+				"type": "R"
+			},
+			"11758478": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Chron \"dear Brother\"",
+				"prespp": 15,
+				"spp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"11758481": {
+				"blk": 3,
+				"name": "Uncle Thran",
+				"prespp": 12,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758486": {
+				"blk": 2,
+				"name": "Hera \"Big Sister\"",
+				"prespp": 10,
+				"tur": 4,
+				"type": "R"
+			},
+			"11758492": {
+				"blk": 2,
+				"name": "Counselar Jherein",
+				"prespp": 20,
+				"tur": 2,
+				"type": "R"
+			},
+			"11758496": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Speedy Gonza",
+				"prespp": 18,
+				"rus": 22,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758505": {
+				"name": "Fanko",
+				"type": "R"
+			},
+			"11758507": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Kachem",
+				"rus": 15,
+				"spp": 5,
+				"tds": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"11906271": {
+				"name": "Syna",
+				"type": "R"
+			},
+			"11916776": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Flashy Kord",
+				"prespp": 3,
+				"rus": 3,
+				"spp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"11942172": {
+				"name": "Sean Hotwing",
+				"type": "R"
+			},
+			"11942173": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Graham Darktree",
+				"spp": 2,
+				"tur": 12,
+				"type": "R"
+			}
+		},
+		"874602": {
+			"11759478": {
+				"blk": 9,
+				"cas": 4,
+				"name": "Soso",
+				"prespp": 33,
+				"spp": 8,
+				"tur": 14,
+				"type": "B"
+			},
+			"11759486": {
+				"name": "Oliver Gobwell",
+				"prespp": 16,
+				"rus": 7,
+				"tur": 6,
+				"type": "R"
+			},
+			"11759487": {
+				"blk": 1,
+				"name": "Gobespierre",
+				"rus": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11759492": {
+				"cas": 1,
+				"name": "Goblington",
+				"prespp": 10,
+				"spp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"11759493": {
+				"blk": 1,
+				"name": "Goblivar",
+				"tur": 13,
+				"type": "R"
+			},
+			"11759494": {
+				"name": "Gobseppe",
+				"prespp": 8,
+				"rus": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11759495": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Gobbibaldi",
+				"prespp": 3,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11773725": {
+				"name": "Bomma Meinhof",
+				"tur": 8,
+				"type": "R"
+			},
+			"11834404": {
+				"blk": 2,
+				"name": "Gobiliano Fanata",
+				"prespp": 20,
+				"tur": 3,
+				"type": "R"
+			},
+			"11874602": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Uli",
+				"prespp": 17,
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"11893279": {
+				"name": "Sporfungus",
+				"type": "R"
+			},
+			"11940562": {
+				"fou": 2,
+				"name": "Grot of Steel",
+				"tur": 2,
+				"type": "R"
+			},
+			"11940563": {
+				"blk": 1,
+				"died": [
+					2,
+					7,
+					"blocked",
+					"11758496"
+				],
+				"name": "Gobpoleon",
+				"tur": 6,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1002860",
 	"team_performance": {
 		"874545": {
 			"cas": 4,
 			"casdiff": -2,
+			"name": "Stone Prince's Men",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"874602": {
 			"cas": 6,
 			"casdiff": 2,
+			"name": "Goblin Revolushunary Kommittee",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

@@ -1,19 +1,228 @@
 {
 	"!excluded": "no",
+	"matchId": "3946885",
+	"player_performance": {
+		"862033": {
+			"11558599": {
+				"name": "Delvarus",
+				"prespp": 20,
+				"type": "R"
+			},
+			"11558605": {
+				"name": "Porphyricus",
+				"prespp": 36,
+				"tur": 2,
+				"type": "R"
+			},
+			"11558611": {
+				"blk": 2,
+				"name": "Hadrabulus Vioss",
+				"prespp": 16,
+				"tur": 6,
+				"type": "R"
+			},
+			"11558616": {
+				"name": "Phosis T'Kar",
+				"prespp": 46,
+				"tur": 2,
+				"type": "R"
+			},
+			"11558617": {
+				"name": "Skane",
+				"prespp": 34,
+				"type": "R"
+			},
+			"11567423": {
+				"blk": 2,
+				"name": "Kargos",
+				"prespp": 39,
+				"tur": 3,
+				"type": "R"
+			},
+			"11699147": {
+				"blk": 4,
+				"name": "Khalophis",
+				"prespp": 33,
+				"tur": 4,
+				"type": "R"
+			},
+			"11850112": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Ignatius Grulgor III",
+				"prespp": 1,
+				"spp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"11927160": {
+				"blk": 2,
+				"name": "Calas Typhon III",
+				"prespp": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"11966746": {
+				"blk": 10,
+				"name": "Kharn the Betrayer",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12029098": {
+				"died": [
+					2,
+					4,
+					"fouled",
+					"11709016"
+				],
+				"fou": 1,
+				"name": "Amon",
+				"rus": 13,
+				"tur": 12,
+				"type": "R"
+			},
+			"12051694": {
+				"blk": 1,
+				"name": "Sean Vilesnake",
+				"tur": 4,
+				"type": "R"
+			},
+			"12051695": {
+				"name": "Julius Hideoushawk",
+				"tur": 4,
+				"type": "R"
+			}
+		},
+		"871787": {
+			"11709004": {
+				"fou": 5,
+				"name": "Idun Hands",
+				"prespp": 7,
+				"tur": 6,
+				"type": "R"
+			},
+			"11709008": {
+				"fou": 1,
+				"name": "Emyys Doceon",
+				"tur": 9,
+				"type": "R"
+			},
+			"11709009": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Burk Silpal",
+				"prespp": 20,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11709010": {
+				"fou": 1,
+				"name": "Dando Enda",
+				"prespp": 8,
+				"tur": 1,
+				"type": "R"
+			},
+			"11709011": {
+				"name": "Raus Juit",
+				"prespp": 41,
+				"rus": 42,
+				"spp": 6,
+				"tds": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11709013": {
+				"blk": 1,
+				"name": "Kael Desini",
+				"prespp": 18,
+				"tur": 10,
+				"type": "R"
+			},
+			"11709015": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Vigoth Nony",
+				"prespp": 8,
+				"tur": 3,
+				"type": "R"
+			},
+			"11709016": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Strean Buren",
+				"prespp": 3,
+				"tur": 12,
+				"type": "R"
+			},
+			"11709018": {
+				"blk": 6,
+				"name": "Font Eiridan",
+				"prespp": 35,
+				"tur": 17,
+				"type": "R"
+			},
+			"11747061": {
+				"blk": 2,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Gutterfingers",
+				"prespp": 10,
+				"spp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"11791157": {
+				"name": "Calas Typhon",
+				"prespp": 12,
+				"tur": 17,
+				"type": "I"
+			},
+			"11814852": {
+				"blk": 10,
+				"cas": 2,
+				"name": "Pantheon Bane",
+				"prespp": 31,
+				"spp": 4,
+				"tur": 17,
+				"type": "R"
+			},
+			"11940785": {
+				"name": "Varesh Kaurambi",
+				"type": "I"
+			},
+			"11956674": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Abd Allah Bousaid",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1019533",
 	"team_performance": {
 		"862033": {
 			"cas": 0,
 			"casdiff": -8,
+			"name": "Forsaken of the Pantheon",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"871787": {
 			"cas": 8,
 			"casdiff": 8,
+			"name": "Malignant Curators",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

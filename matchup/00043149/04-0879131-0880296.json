@@ -1,19 +1,197 @@
 {
 	"!excluded": "no",
+	"matchId": "3914201",
+	"player_performance": {
+		"879131": {
+			"11828950": {
+				"blk": 4,
+				"name": "Calico Jack",
+				"prespp": 15,
+				"tur": 4,
+				"type": "R"
+			},
+			"11828951": {
+				"blk": 4,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Morag",
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828952": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Greta",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828953": {
+				"blk": 5,
+				"name": "Nefo Dawnripper",
+				"prespp": 9,
+				"rus": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828954": {
+				"blk": 3,
+				"name": "Ibhib Nightbreaker",
+				"prespp": 18,
+				"rus": 21,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828955": {
+				"name": "Dog Rough Drimond",
+				"tur": 16,
+				"type": "R"
+			},
+			"11828956": {
+				"blk": 4,
+				"name": "Grog Swiller Finn",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828957": {
+				"name": "Four-Teeth Sweete",
+				"tur": 16,
+				"type": "R"
+			},
+			"11828958": {
+				"name": "Scar Face Bones",
+				"tur": 9,
+				"type": "R"
+			},
+			"11828959": {
+				"name": "Rambling Gale",
+				"tur": 3,
+				"type": "R"
+			},
+			"11828960": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Rats Burford",
+				"spp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"11843870": {
+				"name": "Butcher Godfrey",
+				"tur": 6,
+				"type": "R"
+			}
+		},
+		"880296": {
+			"11848677": {
+				"blk": 7,
+				"name": "Pa-kamsi the Merciless",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848678": {
+				"blk": 3,
+				"name": "Salih the Griefer",
+				"prespp": 5,
+				"rus": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848679": {
+				"blk": 6,
+				"mvp": 1,
+				"name": "Djoser the Festerer",
+				"prespp": 2,
+				"rus": 7,
+				"spp": 8,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11848680": {
+				"blk": 8,
+				"name": "Taf-nekht the Shambler",
+				"tur": 16,
+				"type": "R"
+			},
+			"11848681": {
+				"blk": 5,
+				"name": "Set-en-et the Goader",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848682": {
+				"blk": 9,
+				"name": "Ra-tmeto the Biter",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848683": {
+				"blk": 7,
+				"name": "Khsathsovairyo the Butcher",
+				"pas": 1,
+				"rus": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848685": {
+				"blk": 2,
+				"name": "Nakht-ankh",
+				"tur": 16,
+				"type": "R"
+			},
+			"11848686": {
+				"name": "Ra-nefer-ab",
+				"rus": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"11848687": {
+				"died": [
+					1,
+					1,
+					"blocked",
+					"11828960"
+				],
+				"name": "Bastet",
+				"type": "R"
+			},
+			"11848689": {
+				"fou": 1,
+				"name": "Utet",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "981480",
 	"team_performance": {
 		"879131": {
 			"cas": 3,
 			"casdiff": 3,
+			"name": "Sartosa Black Flags",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		},
 		"880296": {
 			"cas": 0,
 			"casdiff": -3,
+			"name": "Lamentations of Mahrak",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		}
 	}
 }

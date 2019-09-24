@@ -1,19 +1,227 @@
 {
 	"!excluded": "no",
+	"matchId": "3894205",
+	"player_performance": {
+		"873245": {
+			"11736869": {
+				"blk": 10,
+				"name": "Roc",
+				"prespp": 13,
+				"tur": 17,
+				"type": "R"
+			},
+			"11736870": {
+				"blk": 7,
+				"mvp": 1,
+				"name": "Antyx",
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"11736871": {
+				"blk": 2,
+				"died": [
+					1,
+					5,
+					"blocked",
+					"11737085"
+				],
+				"name": "Haseem Abdul Sabbar",
+				"prespp": 5,
+				"tur": 4,
+				"type": "R"
+			},
+			"11736873": {
+				"blk": 4,
+				"cps": 1,
+				"name": "Abasi Inazi",
+				"pas": 1,
+				"prespp": 5,
+				"rus": 5,
+				"spp": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11736874": {
+				"name": "Ubaid Nassir",
+				"type": "R"
+			},
+			"11736875": {
+				"blk": 2,
+				"name": "Amen Malak",
+				"prespp": 8,
+				"tur": 10,
+				"type": "R"
+			},
+			"11736876": {
+				"blk": 3,
+				"cps": 1,
+				"name": "Fayid Mohammed",
+				"pas": -2,
+				"prespp": 2,
+				"rus": 3,
+				"spp": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11736877": {
+				"died": [
+					2,
+					2,
+					"blocked",
+					"11737078"
+				],
+				"name": "Ali Jaffar",
+				"rus": 11,
+				"tur": 9,
+				"type": "R"
+			},
+			"11736880": {
+				"blk": 1,
+				"name": "Tortankormen",
+				"tur": 5,
+				"type": "R"
+			},
+			"11736881": {
+				"blk": 7,
+				"name": "Sarbos",
+				"tur": 17,
+				"type": "R"
+			},
+			"11736882": {
+				"blk": 3,
+				"name": "Rakkar",
+				"tur": 17,
+				"type": "R"
+			},
+			"11736883": {
+				"blk": 2,
+				"name": "Singad",
+				"tur": 17,
+				"type": "R"
+			}
+		},
+		"873349": {
+			"11737076": {
+				"blk": 1,
+				"cps": 2,
+				"name": "Harbert Kallath",
+				"pas": 5,
+				"prespp": 2,
+				"rus": 6,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11737077": {
+				"blk": 10,
+				"name": "Arnold \"waists-breaker\" Thacocroth",
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11737078": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Sigmund \"silent\" Thacocroth",
+				"rus": 3,
+				"spp": 5,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11737079": {
+				"blk": 5,
+				"name": "Landolf \"pickpocketer\" Thacocroth",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11737080": {
+				"blk": 5,
+				"name": "Hademar \"cradle robber\" Thacocroth",
+				"prespp": 7,
+				"rus": 9,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11737081": {
+				"blk": 1,
+				"name": "Aimar Kallath",
+				"pas": 1,
+				"prespp": 6,
+				"rus": 17,
+				"spp": 6,
+				"tds": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11737082": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Dagobert Cizlat",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11737083": {
+				"blk": 4,
+				"cas": 1,
+				"fou": 1,
+				"name": "Clodomiro Brahms",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11737084": {
+				"blk": 2,
+				"name": "Farald Bott",
+				"tur": 15,
+				"type": "R"
+			},
+			"11737085": {
+				"blk": 2,
+				"cas": 1,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Falko Licht",
+				"spp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"11737086": {
+				"blk": 1,
+				"name": "Ilya Storm",
+				"tur": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "958463",
 	"team_performance": {
 		"873245": {
 			"cas": 0,
 			"casdiff": -4,
+			"name": "Sphinx Legion of Numas",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -5
+			"scorediff": -5,
+			"tds": 0,
+			"tdsdiff": -5
 		},
 		"873349": {
 			"cas": 4,
 			"casdiff": 4,
+			"name": "Reik River Kicking Mules",
 			"rsym": "W",
 			"score": 5,
-			"scorediff": 5
+			"scorediff": 5,
+			"tds": 5,
+			"tdsdiff": 5
 		}
 	}
 }

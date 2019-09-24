@@ -1,19 +1,202 @@
 {
 	"!excluded": "no",
+	"matchId": "3960167",
+	"player_performance": {
+		"888760": {
+			"11982012": {
+				"blk": 6,
+				"name": "Gusraz The Lonebringer",
+				"prespp": 13,
+				"tur": 16,
+				"type": "R"
+			},
+			"11982018": {
+				"blk": 8,
+				"name": "Taghoth Wrathfather",
+				"prespp": 10,
+				"tur": 16,
+				"type": "R"
+			},
+			"11982019": {
+				"blk": 1,
+				"name": "Ogbund Emberbender",
+				"tur": 15,
+				"type": "R"
+			},
+			"11982020": {
+				"blk": 1,
+				"name": "Tuzkan Nightgaze",
+				"tur": 16,
+				"type": "R"
+			},
+			"11982021": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Cagbuth Chaosforce",
+				"prespp": 10,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11982028": {
+				"blk": 1,
+				"name": "Scu'draz Ambercrest",
+				"tur": 15,
+				"type": "R"
+			},
+			"11982029": {
+				"blk": 5,
+				"name": "Zazhrin Emberborn",
+				"prespp": 18,
+				"tur": 16,
+				"type": "R"
+			},
+			"11982030": {
+				"blk": 2,
+				"name": "Crazgind Battleforged",
+				"tur": 16,
+				"type": "R"
+			},
+			"11982032": {
+				"blk": 1,
+				"name": "Emis Nightgazer",
+				"tur": 1,
+				"type": "R"
+			},
+			"11982034": {
+				"name": "Ciggus Rageborn",
+				"prespp": 19,
+				"rus": 32,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12001245": {
+				"blk": 2,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Drughath Naverbone",
+				"prespp": 4,
+				"spp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"12074027": {
+				"blk": 5,
+				"name": "Frungrah Flogdonal",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"889542": {
+			"11994684": {
+				"blk": 2,
+				"name": "Mineral Casper",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11994685": {
+				"name": "Vortex",
+				"prespp": 10,
+				"tur": 10,
+				"type": "R"
+			},
+			"11994690": {
+				"name": "Flooding Caves",
+				"prespp": 8,
+				"rus": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11994693": {
+				"name": "Flowing Woods",
+				"tur": 12,
+				"type": "R"
+			},
+			"11994694": {
+				"blk": 1,
+				"name": "Burning Soul",
+				"prespp": 8,
+				"tur": 10,
+				"type": "R"
+			},
+			"11994696": {
+				"blk": 2,
+				"name": "Restless Igniter",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12003232": {
+				"blk": 7,
+				"mvp": 1,
+				"name": "Shimering Glow",
+				"prespp": 13,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"12009380": {
+				"blk": 1,
+				"name": "Underground Heat",
+				"prespp": 2,
+				"tur": 2,
+				"type": "R"
+			},
+			"12036400": {
+				"name": "Slight Tornado",
+				"prespp": 17,
+				"tur": 7,
+				"type": "R"
+			},
+			"12045054": {
+				"name": "Solid Ground",
+				"tur": 10,
+				"type": "R"
+			},
+			"12050725": {
+				"blk": 1,
+				"name": "Flametongues",
+				"tur": 8,
+				"type": "R"
+			},
+			"12078854": {
+				"blk": 3,
+				"name": "Burning Flowers",
+				"tur": 10,
+				"type": "R"
+			},
+			"889542S1": {
+				"name": "Hoshi Komi",
+				"rus": 10,
+				"tur": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1034689",
 	"team_performance": {
 		"888760": {
 			"cas": 1,
 			"casdiff": 1,
+			"name": "Brothers Of Malice",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"889542": {
 			"cas": 0,
 			"casdiff": -1,
+			"name": "Hellbound Firebats",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

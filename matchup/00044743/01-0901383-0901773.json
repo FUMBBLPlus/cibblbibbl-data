@@ -1,19 +1,203 @@
 {
 	"!excluded": "no",
+	"matchId": "3976983",
+	"player_performance": {
+		"901383": {
+			"12182713": {
+				"name": "Vrekal Emberforce",
+				"tur": 2,
+				"type": "R"
+			},
+			"12182720": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Zhothor Stormchaser",
+				"rus": 1,
+				"spp": 2,
+				"tur": 18,
+				"type": "B"
+			},
+			"12182731": {
+				"blk": 8,
+				"name": "Vardred Netherbane",
+				"rus": 8,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12182734": {
+				"blk": 8,
+				"name": "Czerzrath Hellwatcher",
+				"tur": 18,
+				"type": "R"
+			},
+			"12182735": {
+				"name": "Vordraind the Nightskimmer",
+				"tur": 11,
+				"type": "R"
+			},
+			"12182739": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Vrogos Hellshaper",
+				"rus": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12182743": {
+				"blk": 2,
+				"cps": 1,
+				"fou": 1,
+				"name": "Andrax Starstrider",
+				"pas": 1,
+				"rus": 6,
+				"spp": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"12182754": {
+				"blk": 2,
+				"name": "Vorngoth Shaleripper",
+				"tur": 12,
+				"type": "R"
+			},
+			"12182756": {
+				"fou": 1,
+				"name": "Khirzal Hellchaser",
+				"tur": 3,
+				"type": "R"
+			},
+			"12182760": {
+				"blk": 3,
+				"name": "Skedron Voidborn",
+				"tur": 18,
+				"type": "R"
+			},
+			"12182765": {
+				"cps": 1,
+				"mvp": 1,
+				"name": "Tragbak Nightrider",
+				"pas": 6,
+				"rus": 4,
+				"spp": 6,
+				"tur": 5,
+				"type": "R"
+			},
+			"12182768": {
+				"blk": 1,
+				"name": "Tadzand Voidsworn",
+				"pas": 1,
+				"rus": 14,
+				"tur": 11,
+				"type": "R"
+			}
+		},
+		"901773": {
+			"12188825": {
+				"name": "Vueech Emberrunner",
+				"rus": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"12188828": {
+				"blk": 4,
+				"name": "Kheetch Darkscream",
+				"rus": 22,
+				"spp": 6,
+				"tds": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12188830": {
+				"blk": 1,
+				"name": "Skritch Highbinder",
+				"pas": 1,
+				"rus": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"12188831": {
+				"blk": 3,
+				"cps": 1,
+				"name": "Qixqokch Headtaker",
+				"rus": 13,
+				"spp": 4,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12188832": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Straxqenq Silentreaper",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12188833": {
+				"blk": 8,
+				"name": "Xalk Blazingclaw",
+				"tur": 17,
+				"type": "R"
+			},
+			"12188834": {
+				"blk": 2,
+				"name": "Eqal Broadseeker",
+				"tur": 9,
+				"type": "R"
+			},
+			"12188835": {
+				"blk": 1,
+				"name": "Qrokhuat Barbmaster",
+				"tur": 2,
+				"type": "R"
+			},
+			"12188836": {
+				"blk": 7,
+				"name": "Thatch Lowcrest",
+				"tur": 15,
+				"type": "R"
+			},
+			"12188837": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Znuol Verminsnout",
+				"spp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"12188838": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Oxqalk Ironweaver",
+				"tur": 6,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1053972",
 	"team_performance": {
 		"901383": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Andromeda Voidstriders",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 1,
+			"tdsdiff": -2
 		},
 		"901773": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Rikek Revenge",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 3,
+			"tdsdiff": 2
 		}
 	}
 }

@@ -1,19 +1,213 @@
 {
 	"!excluded": "no",
+	"matchId": "3995101",
+	"player_performance": {
+		"898337": {
+			"12143074": {
+				"blk": 10,
+				"name": "Sebek",
+				"prespp": 20,
+				"tur": 16,
+				"type": "R"
+			},
+			"12143075": {
+				"blk": 12,
+				"name": "Remi",
+				"prespp": 19,
+				"tur": 16,
+				"type": "R"
+			},
+			"12143076": {
+				"blk": 6,
+				"name": "Oakhit",
+				"prespp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"12143078": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Khoaat",
+				"prespp": 12,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12143079": {
+				"blk": 9,
+				"name": "Aniath",
+				"prespp": 16,
+				"tur": 16,
+				"type": "R"
+			},
+			"12143081": {
+				"blk": 3,
+				"name": "Heperu",
+				"tur": 16,
+				"type": "R"
+			},
+			"12143083": {
+				"blk": 2,
+				"name": "Khoaat",
+				"prespp": 3,
+				"tur": 14,
+				"type": "R"
+			},
+			"12168121": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Mahe",
+				"prespp": 12,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12286848": {
+				"blk": 3,
+				"name": "Amanten",
+				"rus": 41,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12286850": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Sobhis",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12296890": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Martin Hardfield",
+				"tur": 14,
+				"type": "R"
+			}
+		},
+		"903654": {
+			"12219671": {
+				"blk": 13,
+				"name": "Itekuyet",
+				"prespp": 22,
+				"rus": 6,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12219673": {
+				"cps": 1,
+				"name": "Ahmose",
+				"prespp": 12,
+				"rus": 11,
+				"spp": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12219675": {
+				"blk": 5,
+				"name": "Masaharta",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12219676": {
+				"blk": 7,
+				"name": "Senenmut",
+				"tur": 16,
+				"type": "R"
+			},
+			"12219677": {
+				"name": "Weshptah",
+				"tur": 12,
+				"type": "R"
+			},
+			"12219678": {
+				"blk": 7,
+				"name": "Merenre",
+				"prespp": 8,
+				"tur": 10,
+				"type": "R"
+			},
+			"12219681": {
+				"blk": 1,
+				"name": "Haremhab",
+				"tur": 4,
+				"type": "R"
+			},
+			"12219683": {
+				"name": "Intef",
+				"tur": 4,
+				"type": "R"
+			},
+			"12219684": {
+				"name": "Sihathor",
+				"tur": 12,
+				"type": "R"
+			},
+			"12219686": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Thaneni",
+				"prespp": 11,
+				"spp": 5,
+				"tur": 12,
+				"type": "R"
+			},
+			"12219712": {
+				"name": "Urhiya",
+				"tur": 6,
+				"type": "R"
+			},
+			"12227199": {
+				"blk": 3,
+				"name": "Kentetenka",
+				"prespp": 9,
+				"rus": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12318456": {
+				"died": [
+					2,
+					5,
+					"blocked",
+					"12286850"
+				],
+				"name": "Nekaure",
+				"tur": 9,
+				"type": "R"
+			},
+			"12318457": {
+				"name": "Setka",
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1076211",
 	"team_performance": {
 		"898337": {
 			"cas": 2,
 			"casdiff": 2,
+			"name": "Mahrak Maulers",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		},
 		"903654": {
 			"cas": 0,
 			"casdiff": -2,
+			"name": "Scions of Neferata",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		}
 	}
 }

@@ -1,19 +1,212 @@
 {
 	"!excluded": "no",
+	"matchId": "4043308",
+	"player_performance": {
+		"916217": {
+			"12416220": {
+				"blk": 8,
+				"name": "Bestgor \"The Vicious\"",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416224": {
+				"blk": 8,
+				"name": "Powergor \"The Relentless\"",
+				"prespp": 9,
+				"tur": 14,
+				"type": "R"
+			},
+			"12416226": {
+				"blk": 1,
+				"name": "Mustgor \"The Decided\"",
+				"prespp": 16,
+				"tur": 2,
+				"type": "R"
+			},
+			"12416228": {
+				"blk": 1,
+				"name": "Fastgor \"The Lightning\"",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416229": {
+				"name": "Quickgor \"The Legged\"",
+				"prespp": 19,
+				"rus": 18,
+				"spp": 3,
+				"tds": 1,
+				"tur": 9,
+				"type": "R"
+			},
+			"12416233": {
+				"blk": 1,
+				"name": "Hollowgor \"The Hungry\"",
+				"tur": 5,
+				"type": "R"
+			},
+			"12416234": {
+				"blk": 1,
+				"name": "Tallgor \"The Landscapist\"",
+				"tur": 10,
+				"type": "R"
+			},
+			"12416236": {
+				"blk": 6,
+				"name": "Brutegor \"The Doubtless\"",
+				"prespp": 7,
+				"tur": 14,
+				"type": "R"
+			},
+			"12416238": {
+				"blk": 5,
+				"name": "Roughgor \"The Thoughtless\"",
+				"prespp": 9,
+				"tur": 10,
+				"type": "R"
+			},
+			"12426803": {
+				"blk": 7,
+				"mvp": 1,
+				"name": "Brogor \"The Violent\"",
+				"prespp": 8,
+				"spp": 5,
+				"tur": 12,
+				"type": "R"
+			},
+			"12520848": {
+				"blk": 1,
+				"name": "Gogor \"The Brutal\"",
+				"tur": 9,
+				"type": "R"
+			},
+			"12578865": {
+				"blk": 3,
+				"name": "Fury the Meanotaur",
+				"tur": 9,
+				"type": "B"
+			}
+		},
+		"926756": {
+			"12581475": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Gaazgohk",
+				"prespp": 4,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12581476": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Yozmeat Bluntmail",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12581477": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Nuravreag Dragonbane",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12581478": {
+				"blk": 2,
+				"cps": 1,
+				"name": "Thrarbotum Snowview",
+				"pas": 4,
+				"prespp": 7,
+				"rus": 15,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12581479": {
+				"blk": 4,
+				"name": "Torebath Nightbelly",
+				"prespp": 6,
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12581480": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Hethomi Leadmane",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12581481": {
+				"blk": 3,
+				"name": "Duriznumlir Mithrilbreaker",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12581484": {
+				"blk": 3,
+				"name": "Norakherlug Blazingcoat",
+				"tur": 16,
+				"type": "R"
+			},
+			"12581485": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Werardrir Aletank",
+				"prespp": 2,
+				"rus": 10,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12581486": {
+				"blk": 6,
+				"name": "Orrig Onyxgrip",
+				"tur": 16,
+				"type": "R"
+			},
+			"12581487": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Hulmaem Mudhorn",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1131469",
 	"team_performance": {
 		"916217": {
 			"cas": 0,
 			"casdiff": -5,
+			"name": "Cloven Clan",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"926756": {
 			"cas": 5,
 			"casdiff": 5,
+			"name": "Drakes of the Forge",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

@@ -1,19 +1,240 @@
 {
 	"!excluded": "no",
+	"matchId": "3981342",
+	"player_performance": {
+		"874545": {
+			"11758477": {
+				"blk": 6,
+				"name": "Jared \"the Prince\"",
+				"prespp": 37,
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758478": {
+				"blk": 1,
+				"name": "Chron \"dear Brother\"",
+				"prespp": 20,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758481": {
+				"blk": 6,
+				"name": "Uncle Thran",
+				"prespp": 37,
+				"tur": 10,
+				"type": "R"
+			},
+			"11758492": {
+				"blk": 2,
+				"name": "Counselar Jherein",
+				"prespp": 28,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758496": {
+				"blk": 4,
+				"name": "Speedy Gonza",
+				"prespp": 36,
+				"tur": 16,
+				"type": "R"
+			},
+			"11906271": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Syna",
+				"prespp": 11,
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11942173": {
+				"blk": 3,
+				"name": "Graham Darktree",
+				"prespp": 18,
+				"tur": 11,
+				"type": "R"
+			},
+			"11981990": {
+				"blk": 4,
+				"name": "Barda, the secret Sister",
+				"prespp": 20,
+				"tur": 16,
+				"type": "R"
+			},
+			"12033397": {
+				"blk": 2,
+				"name": "Faruk",
+				"tur": 9,
+				"type": "R"
+			},
+			"12069306": {
+				"mvp": 1,
+				"name": "Flashy Fyra",
+				"prespp": 9,
+				"rus": 22,
+				"spp": 8,
+				"tds": 1,
+				"tur": 7,
+				"type": "R"
+			},
+			"12103676": {
+				"name": "Machhel",
+				"tur": 1,
+				"type": "R"
+			},
+			"12143809": {
+				"blk": 1,
+				"name": "Advisor Yhale",
+				"prespp": 14,
+				"tur": 16,
+				"type": "R"
+			},
+			"12165224": {
+				"name": "Ghro",
+				"tur": 1,
+				"type": "R"
+			},
+			"12224204": {
+				"blk": 9,
+				"cas": 2,
+				"name": "Old Stone",
+				"spp": 4,
+				"tur": 16,
+				"type": "B"
+			}
+		},
+		"886114": {
+			"11939696": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Erato",
+				"prespp": 32,
+				"rus": 1,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11939705": {
+				"cps": 1,
+				"fou": 1,
+				"name": "Lydia",
+				"prespp": 38,
+				"rus": 5,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11939712": {
+				"name": "Arya",
+				"prespp": 19,
+				"type": "R"
+			},
+			"11939715": {
+				"blk": 1,
+				"name": "Aadhýa",
+				"prespp": 1,
+				"tur": 6,
+				"type": "R"
+			},
+			"11939717": {
+				"died": [
+					1,
+					1,
+					"blocked",
+					"11906271"
+				],
+				"name": "Delilah",
+				"prespp": 24,
+				"tur": 1,
+				"type": "R"
+			},
+			"11939720": {
+				"blk": 4,
+				"died": [
+					2,
+					1,
+					"blocked",
+					"12224204"
+				],
+				"name": "Elidhith",
+				"prespp": 10,
+				"tur": 8,
+				"type": "R"
+			},
+			"11956884": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Elpida",
+				"prespp": 46,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12030024": {
+				"name": "Shinesa",
+				"prespp": 57,
+				"tur": 2,
+				"type": "R"
+			},
+			"12051225": {
+				"blk": 4,
+				"name": "Silvestra Darklightning",
+				"prespp": 16,
+				"tur": 7,
+				"type": "R"
+			},
+			"12075526": {
+				"blk": 2,
+				"name": "Apolla",
+				"tur": 8,
+				"type": "R"
+			},
+			"12131987": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Puridriel",
+				"prespp": 16,
+				"rus": 20,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12215710": {
+				"name": "Hellina",
+				"tur": 16,
+				"type": "R"
+			},
+			"12238327": {
+				"name": "Ithline",
+				"tur": 1,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1058942",
 	"team_performance": {
 		"874545": {
 			"cas": 3,
 			"casdiff": 1,
+			"name": "Stone Prince's Men",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"886114": {
 			"cas": 2,
 			"casdiff": -1,
+			"name": "Eye and Arrow",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

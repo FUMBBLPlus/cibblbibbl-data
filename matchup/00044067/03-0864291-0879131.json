@@ -1,19 +1,249 @@
 {
 	"!excluded": "no",
+	"matchId": "3951337",
+	"player_performance": {
+		"864291": {
+			"11590768": {
+				"blk": 11,
+				"cps": 1,
+				"name": "S. Sang",
+				"prespp": 56,
+				"rus": 17,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590769": {
+				"blk": 6,
+				"cas": 1,
+				"name": "U. Gress",
+				"prespp": 18,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590771": {
+				"blk": 5,
+				"fou": 1,
+				"name": "Redivor",
+				"prespp": 15,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590772": {
+				"died": [
+					1,
+					3,
+					"blocked",
+					"11828953"
+				],
+				"name": "Redimor",
+				"prespp": 13,
+				"tur": 2,
+				"type": "R"
+			},
+			"11590777": {
+				"blk": 5,
+				"name": "Limortor",
+				"prespp": 16,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590780": {
+				"blk": 5,
+				"name": "Affuquator",
+				"prespp": 11,
+				"tur": 14,
+				"type": "R"
+			},
+			"11590781": {
+				"blk": 2,
+				"name": "Dichitemor",
+				"prespp": 14,
+				"tur": 9,
+				"type": "R"
+			},
+			"11681513": {
+				"blk": 3,
+				"cps": 1,
+				"mvp": 1,
+				"name": "L.A. Biond",
+				"pas": -1,
+				"prespp": 19,
+				"spp": 6,
+				"tur": 11,
+				"type": "R"
+			},
+			"11737428": {
+				"name": "L.A. Gnora",
+				"prespp": 32,
+				"tur": 1,
+				"type": "R"
+			},
+			"11828958R1": {
+				"blk": 2,
+				"name": "Scar Face Bones",
+				"tur": 8,
+				"type": "D"
+			},
+			"11853366": {
+				"blk": 1,
+				"name": "Stukitemor",
+				"prespp": 7,
+				"tur": 6,
+				"type": "R"
+			},
+			"12034224": {
+				"blk": 6,
+				"name": "Sentiment",
+				"prespp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"12055203": {
+				"blk": 3,
+				"name": "Savastano",
+				"prespp": 2,
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"879131": {
+			"11828950": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Calico Jack",
+				"prespp": 45,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828951": {
+				"blk": 7,
+				"name": "Morag",
+				"prespp": 20,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828952": {
+				"blk": 4,
+				"name": "Greta",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828953": {
+				"blk": 3,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Nefo Dawnripper",
+				"prespp": 21,
+				"rus": 15,
+				"spp": 10,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828954": {
+				"name": "Ibhib Nightbreaker",
+				"prespp": 55,
+				"rus": 18,
+				"tur": 8,
+				"type": "R"
+			},
+			"11828955": {
+				"blk": 3,
+				"name": "Dog Rough Drimond",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828956": {
+				"blk": 6,
+				"name": "Grog Swiller Finn",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828957": {
+				"blk": 2,
+				"name": "Four-Teeth Sweete",
+				"prespp": 7,
+				"tur": 8,
+				"type": "R"
+			},
+			"11828958": {
+				"blk": 1,
+				"died": [
+					1,
+					8,
+					"blocked",
+					"11590769"
+				],
+				"name": "Scar Face Bones",
+				"tur": 8,
+				"type": "R"
+			},
+			"11828959": {
+				"name": "Rambling Gale",
+				"prespp": 5,
+				"tur": 2,
+				"type": "R"
+			},
+			"11875955": {
+				"name": "Two Fingers Luke",
+				"prespp": 7,
+				"type": "R"
+			},
+			"11875956": {
+				"fou": 2,
+				"name": "Hook Thorne",
+				"prespp": 7,
+				"tur": 6,
+				"type": "R"
+			},
+			"11956118": {
+				"blk": 2,
+				"name": "Voodoo Jones",
+				"tur": 8,
+				"type": "R"
+			},
+			"12037304": {
+				"blk": 1,
+				"name": "Ale Barrel Grey",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"879131S1": {
+				"blk": 1,
+				"name": "Boomer Eziasson",
+				"tur": 8,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1024627",
 	"team_performance": {
 		"864291": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Norscan Curse",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"879131": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Sartosa Black Flags",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

@@ -1,19 +1,221 @@
 {
 	"!excluded": "no",
+	"matchId": "3913121",
+	"player_performance": {
+		"854507": {
+			"11439076": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Maximilian Windhelm, the Fallen",
+				"prespp": 19,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11439078": {
+				"name": "Emminoth",
+				"prespp": 9,
+				"type": "R"
+			},
+			"11439080": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Vol'arth the Brazen",
+				"pas": 3,
+				"prespp": 32,
+				"rus": 12,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439088": {
+				"mvp": 1,
+				"name": "Yibb-Tstll",
+				"pas": -1,
+				"prespp": 24,
+				"rus": 3,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439090": {
+				"blk": 7,
+				"name": "Do Galaad, the Herald",
+				"prespp": 32,
+				"tur": 9,
+				"type": "R"
+			},
+			"11439091": {
+				"name": "A Formless Thing",
+				"prespp": 10,
+				"rus": 1,
+				"tur": 2,
+				"type": "R"
+			},
+			"11439092": {
+				"name": "Voonith",
+				"type": "R"
+			},
+			"11582112": {
+				"name": "Horok",
+				"prespp": 11,
+				"type": "R"
+			},
+			"11681756": {
+				"blk": 4,
+				"name": "Neron",
+				"prespp": 10,
+				"rus": 12,
+				"spp": 6,
+				"tds": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"11766988": {
+				"blk": 7,
+				"cas": 2,
+				"name": "Malphas, the Harbinger",
+				"prespp": 8,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11807607": {
+				"blk": 6,
+				"name": "Palehawk, the Revenant",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11851618": {
+				"blk": 2,
+				"name": "Marius, the Forgiven",
+				"rus": 10,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"869156": {
+			"11667457": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Glicees",
+				"prespp": 32,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11667458": {
+				"blk": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Xahr",
+				"prespp": 10,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11667459": {
+				"blk": 6,
+				"name": "Keeth",
+				"prespp": 15,
+				"tur": 16,
+				"type": "R"
+			},
+			"11667462": {
+				"blk": 9,
+				"name": "Rozatar",
+				"prespp": 19,
+				"rus": 2,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11667465": {
+				"blk": 2,
+				"name": "Mebas",
+				"prespp": 17,
+				"rus": 8,
+				"tur": 10,
+				"type": "R"
+			},
+			"11667467": {
+				"blk": 2,
+				"name": "Hralis",
+				"prespp": 11,
+				"rus": 3,
+				"tur": 12,
+				"type": "R"
+			},
+			"11667468": {
+				"fou": 1,
+				"name": "Nal",
+				"prespp": 7,
+				"tur": 1,
+				"type": "R"
+			},
+			"11667471": {
+				"blk": 1,
+				"name": "Acurag",
+				"prespp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"11744463": {
+				"name": "Troln",
+				"prespp": 7,
+				"tur": 3,
+				"type": "R"
+			},
+			"11756250": {
+				"blk": 2,
+				"fou": 2,
+				"name": "Yelnats",
+				"tur": 10,
+				"type": "R"
+			},
+			"11781773": {
+				"name": "Quari",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11781774": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Beebz",
+				"tur": 10,
+				"type": "R"
+			},
+			"11781776": {
+				"name": "Chingi",
+				"tur": 6,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "980192",
 	"team_performance": {
 		"854507": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "Coven of the Mirrored Hall",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"869156": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "Talsyn Tramplers",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

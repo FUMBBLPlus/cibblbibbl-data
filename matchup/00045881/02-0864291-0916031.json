@@ -1,19 +1,221 @@
 {
 	"!excluded": "no",
+	"matchId": "4027920",
+	"player_performance": {
+		"864291": {
+			"11590768": {
+				"blk": 6,
+				"name": "S. Sang",
+				"prespp": 89,
+				"tur": 12,
+				"type": "R"
+			},
+			"11590769": {
+				"name": "U. Gress",
+				"prespp": 41,
+				"type": "B"
+			},
+			"11590771": {
+				"blk": 2,
+				"name": "Redivor",
+				"prespp": 17,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590777": {
+				"blk": 5,
+				"name": "Limortor",
+				"prespp": 22,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590780": {
+				"name": "Affuquator",
+				"prespp": 24,
+				"tur": 4,
+				"type": "R"
+			},
+			"11590781": {
+				"blk": 2,
+				"died": [
+					2,
+					2,
+					"fireball",
+					null
+				],
+				"name": "Dichitemor",
+				"prespp": 21,
+				"tur": 3,
+				"type": "R"
+			},
+			"11681513": {
+				"blk": 5,
+				"name": "L.A. Biond",
+				"prespp": 68,
+				"rus": 3,
+				"tur": 13,
+				"type": "R"
+			},
+			"12163198": {
+				"blk": 3,
+				"name": "Gennarin",
+				"prespp": 9,
+				"tur": 14,
+				"type": "R"
+			},
+			"12178122": {
+				"blk": 4,
+				"name": "Balord",
+				"prespp": 19,
+				"tur": 13,
+				"type": "B"
+			},
+			"12218841": {
+				"name": "L.A. Gnora II",
+				"prespp": 34,
+				"tur": 2,
+				"type": "R"
+			},
+			"12447130": {
+				"name": "Borgan Nightbreath",
+				"tur": 9,
+				"type": "R"
+			},
+			"12455584": {
+				"blk": 3,
+				"name": "Freddie 'n Petto",
+				"prespp": 5,
+				"tur": 14,
+				"type": "R"
+			},
+			"12470187": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Stukas",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"864291M1": {
+				"blk": 1,
+				"name": "Merc Zombie Ogre 1",
+				"tur": 10,
+				"type": "M"
+			}
+		},
+		"916031": {
+			"12413273": {
+				"blk": 3,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Eyez Poka",
+				"prespp": 12,
+				"spp": 5,
+				"tur": 6,
+				"type": "R"
+			},
+			"12413274": {
+				"blk": 3,
+				"name": "Throat Rippa",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"12413275": {
+				"blk": 3,
+				"name": "Head Stompa",
+				"prespp": 25,
+				"rus": 37,
+				"spp": 9,
+				"tds": 3,
+				"tur": 17,
+				"type": "R"
+			},
+			"12413277": {
+				"blk": 5,
+				"name": "Toes Gouger",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12413278": {
+				"blk": 2,
+				"name": "Spleen Eater",
+				"tur": 17,
+				"type": "R"
+			},
+			"12413279": {
+				"blk": 10,
+				"name": "Nose Smasher",
+				"prespp": 14,
+				"tur": 17,
+				"type": "R"
+			},
+			"12413281": {
+				"name": "Gra'Ro'Pra",
+				"tur": 9,
+				"type": "R"
+			},
+			"12413282": {
+				"blk": 3,
+				"name": "Gro'Gaw'Cra",
+				"pas": 1,
+				"rus": 3,
+				"tur": 17,
+				"type": "R"
+			},
+			"12426039": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Nose Snippa",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12491516": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Liver Gutter",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12491517": {
+				"name": "William Silenthawk",
+				"tur": 5,
+				"type": "R"
+			},
+			"916031S1": {
+				"blk": 9,
+				"name": "Ripper",
+				"tur": 17,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1113493",
 	"team_performance": {
 		"864291": {
 			"cas": 0,
 			"casdiff": -3,
+			"name": "Norscan Curse",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		},
 		"916031": {
 			"cas": 3,
 			"casdiff": 3,
+			"name": "Gorthor's Prophets Of Mork",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		}
 	}
 }

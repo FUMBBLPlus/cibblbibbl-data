@@ -1,19 +1,261 @@
 {
 	"!excluded": "no",
+	"matchId": "4047968",
+	"player_performance": {
+		"905924": {
+			"12254401": {
+				"blk": 4,
+				"name": "Reddup",
+				"prespp": 16,
+				"tur": 6,
+				"type": "R"
+			},
+			"12254402": {
+				"blk": 3,
+				"name": "Spook",
+				"prespp": 21,
+				"tur": 8,
+				"type": "B"
+			},
+			"12254405": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Bone",
+				"prespp": 38,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"12254424": {
+				"name": "Ashur The Vile",
+				"prespp": 3,
+				"tur": 14,
+				"type": "R"
+			},
+			"12254440": {
+				"died": [
+					2,
+					1,
+					"fouled",
+					"12569688"
+				],
+				"name": "O-Dog The Trogslayer",
+				"prespp": 8,
+				"tur": 7,
+				"type": "R"
+			},
+			"12254445": {
+				"name": "Scumm The Rebel",
+				"prespp": 3,
+				"tur": 2,
+				"type": "R"
+			},
+			"12263755": {
+				"name": "Gizmo The Gambler",
+				"prespp": 9,
+				"tur": 5,
+				"type": "R"
+			},
+			"12268727": {
+				"blk": 7,
+				"cas": 1,
+				"cps": 1,
+				"name": "Redbone",
+				"pas": 3,
+				"prespp": 59,
+				"rus": 1,
+				"spp": 3,
+				"tur": 11,
+				"type": "R"
+			},
+			"12528884": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Angron",
+				"prespp": 4,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12547748": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Wrex",
+				"prespp": 12,
+				"spp": 5,
+				"tur": 14,
+				"type": "R"
+			},
+			"12561127": {
+				"died": [
+					2,
+					5,
+					"dodgeFail",
+					null
+				],
+				"name": "Dreakzaz Boogherz",
+				"rus": 21,
+				"spp": 3,
+				"tds": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"12595120": {
+				"name": "Grub The Inedible",
+				"tur": 5,
+				"type": "R"
+			},
+			"12605626": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Overseer Lasher",
+				"rus": 19,
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"926025": {
+			"12569521": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Snot Steiner",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 14,
+				"type": "B"
+			},
+			"12569525": {
+				"blk": 6,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Randy \"The Mucus Man\" Savage",
+				"prespp": 2,
+				"spp": 7,
+				"tur": 15,
+				"type": "B"
+			},
+			"12569527": {
+				"blk": 2,
+				"name": "Arnold Snotszenegger",
+				"prespp": 7,
+				"tur": 15,
+				"type": "B"
+			},
+			"12569686": {
+				"blk": 3,
+				"name": "Lex Looger",
+				"prespp": 4,
+				"tur": 15,
+				"type": "B"
+			},
+			"12569688": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Splop",
+				"pas": 1,
+				"prespp": 5,
+				"rus": 12,
+				"tur": 10,
+				"type": "R"
+			},
+			"12569689": {
+				"name": "Sploop",
+				"type": "R"
+			},
+			"12569690": {
+				"name": "Skitter",
+				"tur": 4,
+				"type": "R"
+			},
+			"12569691": {
+				"fou": 1,
+				"name": "Scatter",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12569693": {
+				"name": "Kicky",
+				"prespp": 3,
+				"tur": 15,
+				"type": "R"
+			},
+			"12569695": {
+				"died": [
+					1,
+					3,
+					"blocked",
+					"12268727"
+				],
+				"name": "Sticky",
+				"tur": 1,
+				"type": "R"
+			},
+			"12569696": {
+				"name": "Icky",
+				"prespp": 6,
+				"rus": 6,
+				"spp": 3,
+				"tds": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"12569702": {
+				"name": "Picky",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12571803": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Booger T",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 15,
+				"type": "B"
+			},
+			"12571811": {
+				"blk": 2,
+				"name": "Hock Hogan",
+				"prespp": 9,
+				"tur": 15,
+				"type": "B"
+			},
+			"12571815": {
+				"name": "Flicky",
+				"pas": -1,
+				"rus": -1,
+				"tur": 8,
+				"type": "R"
+			},
+			"926025S1": {
+				"blk": 5,
+				"name": "Ripper",
+				"tur": 15,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1136733",
 	"team_performance": {
 		"905924": {
 			"cas": 3,
 			"casdiff": -1,
+			"name": "Squill's Squig Pitt",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		},
 		"926025": {
 			"cas": 4,
 			"casdiff": 1,
+			"name": "Deadly Sinus Attack",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		}
 	}
 }

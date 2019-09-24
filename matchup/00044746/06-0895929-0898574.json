@@ -1,19 +1,225 @@
 {
 	"!excluded": "no",
+	"matchId": "3991283",
+	"player_performance": {
+		"895929": {
+			"12098256": {
+				"blk": 2,
+				"name": "Windfury",
+				"prespp": 11,
+				"tur": 12,
+				"type": "R"
+			},
+			"12098257": {
+				"blk": 13,
+				"name": "Clawchest",
+				"prespp": 31,
+				"tur": 17,
+				"type": "R"
+			},
+			"12098258": {
+				"blk": 3,
+				"name": "Silverscar",
+				"prespp": 14,
+				"tur": 17,
+				"type": "R"
+			},
+			"12098263": {
+				"blk": 7,
+				"name": "Silverstriker",
+				"prespp": 17,
+				"tur": 17,
+				"type": "R"
+			},
+			"12098289": {
+				"blk": 4,
+				"name": "Crowripper",
+				"prespp": 10,
+				"rus": 8,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12098294": {
+				"blk": 3,
+				"name": "Blackchewer",
+				"prespp": 9,
+				"rus": 2,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12098297": {
+				"blk": 1,
+				"name": "Duskdigger",
+				"prespp": 20,
+				"rus": 22,
+				"tur": 13,
+				"type": "R"
+			},
+			"12136367": {
+				"blk": 8,
+				"name": "Fangsnapper Jr",
+				"tur": 16,
+				"type": "R"
+			},
+			"12166472": {
+				"blk": 6,
+				"name": "Fangsnapper Jr Jr",
+				"tur": 16,
+				"type": "R"
+			},
+			"12184769": {
+				"blk": 2,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Barbedbreath",
+				"pas": 3,
+				"prespp": 8,
+				"rus": 4,
+				"spp": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"12265899": {
+				"blk": 1,
+				"name": "Dustbinder",
+				"tur": 17,
+				"type": "R"
+			},
+			"12295244": {
+				"name": "Broadreaper",
+				"tur": 1,
+				"type": "R"
+			},
+			"12295253": {
+				"name": "Heartbuster",
+				"type": "R"
+			}
+		},
+		"898574": {
+			"12140311": {
+				"blk": 9,
+				"name": "Hemlock Wyatt",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12140313": {
+				"blk": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Arsenic William",
+				"prespp": 16,
+				"rus": 9,
+				"spp": 10,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12140318": {
+				"blk": 5,
+				"name": "Dimefox Winston",
+				"prespp": 20,
+				"tur": 16,
+				"type": "R"
+			},
+			"12140321": {
+				"blk": 4,
+				"cps": 3,
+				"name": "Hydrazine Wendall",
+				"pas": 1,
+				"prespp": 13,
+				"rus": 10,
+				"spp": 3,
+				"tur": 12,
+				"type": "R"
+			},
+			"12140327": {
+				"name": "Lactonitrile Bernice",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12140330": {
+				"name": "Lindane Salvatore",
+				"prespp": 2,
+				"tur": 6,
+				"type": "R"
+			},
+			"12140331": {
+				"blk": 3,
+				"name": "Malononitrile Sebastian",
+				"tur": 16,
+				"type": "R"
+			},
+			"12140364": {
+				"name": "Methomyl Samuel",
+				"prespp": 6,
+				"tur": 3,
+				"type": "R"
+			},
+			"12140428": {
+				"blk": 4,
+				"name": "Phenol Sinclair",
+				"prespp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"12140430": {
+				"blk": 2,
+				"name": "Piperidine Scarlett",
+				"prespp": 7,
+				"tur": 10,
+				"type": "R"
+			},
+			"12146724": {
+				"name": "Anchorman",
+				"prespp": 2,
+				"tur": 2,
+				"type": "R"
+			},
+			"12180127": {
+				"name": "Botulinum Bo",
+				"prespp": 10,
+				"tur": 16,
+				"type": "R"
+			},
+			"12234728": {
+				"name": "Nightshade Simi",
+				"tur": 4,
+				"type": "R"
+			},
+			"12281353": {
+				"name": "Ph'rn \"Gent\" Kbrrcllr",
+				"tur": 3,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1071314",
 	"team_performance": {
 		"895929": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Fangsnapper's Clawpack",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"898574": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Revenge Street Reapers",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

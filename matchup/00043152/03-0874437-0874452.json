@@ -1,19 +1,221 @@
 {
 	"!excluded": "no",
+	"matchId": "3916041",
+	"player_performance": {
+		"874437": {
+			"11756331": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Lumbhant Perchklea",
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756333": {
+				"blk": 4,
+				"name": "Erclia Limblumb",
+				"prespp": 6,
+				"tur": 6,
+				"type": "R"
+			},
+			"11756335": {
+				"blk": 9,
+				"cas": 3,
+				"name": "Tardiproth Twikbreka",
+				"prespp": 7,
+				"spp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756336": {
+				"name": "Nomgulg Prattlehead",
+				"prespp": 7,
+				"tur": 4,
+				"type": "R"
+			},
+			"11756337": {
+				"blk": 4,
+				"name": "Persqka Boughclip",
+				"prespp": 9,
+				"tur": 7,
+				"type": "R"
+			},
+			"11756339": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Murzush Polhart",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756341": {
+				"blk": 6,
+				"died": [
+					2,
+					7,
+					"blocked",
+					"11756582"
+				],
+				"name": "Alrog Gnarltrim",
+				"prespp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"11756342": {
+				"blk": 1,
+				"name": "Lahuzy Nventra",
+				"rus": 5,
+				"tur": 9,
+				"type": "R"
+			},
+			"11756344": {
+				"blk": 2,
+				"name": "Homraz Kombina",
+				"tur": 16,
+				"type": "R"
+			},
+			"11756346": {
+				"blk": 1,
+				"name": "Knizzy Knotwatscha",
+				"rus": 8,
+				"tur": 8,
+				"type": "R"
+			},
+			"11756348": {
+				"blk": 2,
+				"name": "Scrub Scrub",
+				"prespp": 15,
+				"tur": 2,
+				"type": "R"
+			},
+			"11767524": {
+				"blk": 12,
+				"name": "Deramuz Trodalik",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"874452": {
+			"11756582": {
+				"blk": 12,
+				"cas": 2,
+				"name": "Draco Dracovich",
+				"prespp": 22,
+				"rus": 11,
+				"spp": 7,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756629": {
+				"blk": 10,
+				"name": "Igor Igorivich",
+				"prespp": 16,
+				"rus": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11756687": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Karl",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756689": {
+				"blk": 3,
+				"name": "Franz",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756707": {
+				"blk": 2,
+				"name": "Stefan",
+				"prespp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"11756708": {
+				"name": "Sigwald",
+				"prespp": 3,
+				"tur": 2,
+				"type": "R"
+			},
+			"11756715": {
+				"blk": 4,
+				"cas": 2,
+				"name": "Henrich von Blotenburg",
+				"prespp": 18,
+				"spp": 4,
+				"tur": 13,
+				"type": "R"
+			},
+			"11756720": {
+				"blk": 4,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Gustav von Darkwald",
+				"prespp": 9,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756722": {
+				"name": "Otto",
+				"tur": 7,
+				"type": "R"
+			},
+			"11756723": {
+				"name": "Giselle",
+				"rus": 18,
+				"spp": 3,
+				"tds": 1,
+				"tur": 9,
+				"type": "R"
+			},
+			"11756725": {
+				"blk": 3,
+				"name": "Rupert",
+				"tur": 16,
+				"type": "R"
+			},
+			"11775815": {
+				"died": [
+					1,
+					2,
+					"blocked",
+					"11756339"
+				],
+				"name": "Gunter",
+				"tur": 1,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "983618",
 	"team_performance": {
 		"874437": {
 			"cas": 4,
 			"casdiff": -2,
+			"name": "Bigwood Tree Shmashaz",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"874452": {
 			"cas": 6,
 			"casdiff": 2,
+			"name": "Way of the Dragon",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

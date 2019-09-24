@@ -1,19 +1,235 @@
 {
 	"!excluded": "no",
+	"matchId": "3990122",
+	"player_performance": {
+		"874966": {
+			"11764899": {
+				"blk": 1,
+				"name": "Benethor",
+				"prespp": 27,
+				"tur": 16,
+				"type": "R"
+			},
+			"11764915": {
+				"blk": 4,
+				"name": "Finavar",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11764917": {
+				"name": "Thuralin",
+				"prespp": 16,
+				"tur": 3,
+				"type": "R"
+			},
+			"11764921": {
+				"blk": 3,
+				"name": "Morlanna",
+				"prespp": 54,
+				"rus": 6,
+				"spp": 3,
+				"tds": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"11836559": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Vanhir",
+				"prespp": 80,
+				"rus": 15,
+				"spp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"11938500": {
+				"name": "Mereia",
+				"prespp": 31,
+				"tur": 15,
+				"type": "R"
+			},
+			"11967724": {
+				"name": "Hauclir",
+				"prespp": 19,
+				"rus": 25,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12052561": {
+				"name": "Mereia",
+				"prespp": 15,
+				"tur": 11,
+				"type": "R"
+			},
+			"12072196": {
+				"blk": 4,
+				"name": "Jokleel",
+				"prespp": 17,
+				"tur": 12,
+				"type": "R"
+			},
+			"12122141": {
+				"name": "Maglor",
+				"tur": 2,
+				"type": "R"
+			},
+			"12231028": {
+				"blk": 2,
+				"name": "Nimrodel",
+				"prespp": 9,
+				"tur": 12,
+				"type": "R"
+			},
+			"12256454": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Darthyr Birchfire",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 16,
+				"type": "B"
+			}
+		},
+		"879131": {
+			"11828950": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Calico Jack",
+				"prespp": 76,
+				"rus": 32,
+				"spp": 8,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828951": {
+				"blk": 2,
+				"name": "Morag",
+				"prespp": 28,
+				"tur": 16,
+				"type": "B"
+			},
+			"11828952": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Greta",
+				"prespp": 22,
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"11828953": {
+				"blk": 1,
+				"name": "Nefo Dawnripper",
+				"prespp": 38,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828954": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Ibhib Nightbreaker",
+				"pas": 5,
+				"prespp": 81,
+				"rus": 7,
+				"spp": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"11828955": {
+				"blk": 6,
+				"mvp": 1,
+				"name": "Dog Rough Drimond",
+				"prespp": 21,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11828956": {
+				"blk": 5,
+				"name": "Grog Swiller Finn",
+				"prespp": 29,
+				"tur": 12,
+				"type": "R"
+			},
+			"11875956": {
+				"fou": 4,
+				"name": "Hook Thorne",
+				"prespp": 7,
+				"tur": 5,
+				"type": "R"
+			},
+			"11956118": {
+				"name": "Voodoo Jones",
+				"tur": 10,
+				"type": "R"
+			},
+			"12037304": {
+				"name": "Ale Barrel Grey",
+				"prespp": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"12125595": {
+				"blk": 1,
+				"fou": 3,
+				"name": "Pegleg Peet",
+				"tur": 10,
+				"type": "R"
+			},
+			"12155340": {
+				"fou": 1,
+				"name": "Seabiscuit Maguire",
+				"tur": 13,
+				"type": "R"
+			},
+			"12233543": {
+				"name": "One-Ear McGee",
+				"tur": 8,
+				"type": "R"
+			},
+			"12261823": {
+				"fou": 1,
+				"name": "Scabby Flaherty",
+				"tur": 5,
+				"type": "R"
+			},
+			"879131S1": {
+				"died": [
+					1,
+					1,
+					"bomb",
+					null
+				],
+				"name": "Boomer Eziasson",
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1069549",
 	"team_performance": {
 		"874966": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Modryn's Midnight Meddlers",
 			"rsym": "D",
 			"score": 2,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 2,
+			"tdsdiff": 0
 		},
 		"879131": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Sartosa Black Flags",
 			"rsym": "D",
 			"score": 2,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 2,
+			"tdsdiff": 0
 		}
 	}
 }

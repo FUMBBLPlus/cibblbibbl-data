@@ -1,19 +1,211 @@
 {
 	"!excluded": "no",
+	"matchId": "3961312",
+	"player_performance": {
+		"889232": {
+			"11989951": {
+				"blk": 8,
+				"name": "Chthonic Pitchblende",
+				"prespp": 16,
+				"tur": 16,
+				"type": "R"
+			},
+			"11989952": {
+				"blk": 8,
+				"name": "Chthonic Cobaltite",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11989953": {
+				"blk": 9,
+				"name": "Chthonic Granite",
+				"prespp": 10,
+				"tur": 16,
+				"type": "R"
+			},
+			"11989954": {
+				"name": "Chthonic Jet",
+				"pas": 1,
+				"prespp": 2,
+				"rus": -2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11989958": {
+				"fou": 1,
+				"name": "Chthonic Gabbro",
+				"tur": 1,
+				"type": "R"
+			},
+			"11989967": {
+				"blk": 4,
+				"name": "Sylph Wisp",
+				"prespp": 21,
+				"rus": 13,
+				"tur": 11,
+				"type": "R"
+			},
+			"11989980": {
+				"name": "Chthonic Kaolinite",
+				"tur": 1,
+				"type": "R"
+			},
+			"12003575": {
+				"name": "Sylph Haze",
+				"pas": -1,
+				"prespp": 4,
+				"rus": 12,
+				"tur": 11,
+				"type": "R"
+			},
+			"12031249": {
+				"blk": 6,
+				"name": "Magma Crab",
+				"prespp": 5,
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"12070122": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Chthonic Slade",
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12078649": {
+				"blk": 4,
+				"name": "Naiad Vinessa",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12112830": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Chthonic Satinspar",
+				"tur": 2,
+				"type": "R"
+			},
+			"12120137": {
+				"blk": 2,
+				"name": "Naiad Jennifer",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"895356": {
+			"12088836": {
+				"blk": 5,
+				"name": "Vlad von Carstein",
+				"rus": 22,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12088837": {
+				"blk": 6,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Isabella von Carstein",
+				"spp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"12088838": {
+				"blk": 4,
+				"died": [
+					2,
+					2,
+					"blocked",
+					"12070122"
+				],
+				"name": "Mannfred von Carstein",
+				"tur": 5,
+				"type": "R"
+			},
+			"12088840": {
+				"blk": 4,
+				"name": "Konrad von Carstein",
+				"tur": 14,
+				"type": "R"
+			},
+			"12088841": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Igor",
+				"tur": 14,
+				"type": "R"
+			},
+			"12088842": {
+				"blk": 3,
+				"name": "Max",
+				"pas": 8,
+				"rus": 3,
+				"tur": 14,
+				"type": "R"
+			},
+			"12088843": {
+				"blk": 1,
+				"name": "Krell",
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12088845": {
+				"name": "Heinrich",
+				"tur": 9,
+				"type": "R"
+			},
+			"12088846": {
+				"blk": 2,
+				"name": "Kemmler",
+				"tur": 17,
+				"type": "R"
+			},
+			"12088848": {
+				"blk": 2,
+				"name": "Drak",
+				"tur": 17,
+				"type": "R"
+			},
+			"12088849": {
+				"blk": 1,
+				"name": "Maganti",
+				"tur": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1035989",
 	"team_performance": {
 		"889232": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Lost Golems of Grungni",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"895356": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Nehekhara Nightwings",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

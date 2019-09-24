@@ -1,19 +1,197 @@
 {
 	"!excluded": "no",
+	"matchId": "3984910",
+	"player_performance": {
+		"904377": {
+			"12231317": {
+				"blk": 1,
+				"name": "Ruby",
+				"rus": 15,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231319": {
+				"blk": 4,
+				"name": "Sapphire",
+				"prespp": 5,
+				"rus": 10,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231325": {
+				"blk": 6,
+				"name": "Emerald",
+				"tur": 14,
+				"type": "R"
+			},
+			"12231332": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Topaz",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231335": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Diamond",
+				"spp": 2,
+				"tur": 14,
+				"type": "B"
+			},
+			"12231336": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Aquamarine",
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231338": {
+				"blk": 3,
+				"name": "Alexandrite",
+				"tur": 14,
+				"type": "R"
+			},
+			"12231341": {
+				"blk": 2,
+				"name": "Opal",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231342": {
+				"blk": 4,
+				"name": "Spinel",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231343": {
+				"blk": 3,
+				"name": "Obsidian",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231345": {
+				"blk": 3,
+				"name": "Hematite",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"905924": {
+			"12254401": {
+				"blk": 1,
+				"name": "Reddup",
+				"tur": 2,
+				"type": "R"
+			},
+			"12254402": {
+				"blk": 8,
+				"mvp": 1,
+				"name": "Spook",
+				"spp": 5,
+				"tur": 16,
+				"type": "B"
+			},
+			"12254405": {
+				"blk": 4,
+				"name": "Bone",
+				"tur": 12,
+				"type": "R"
+			},
+			"12254406": {
+				"blk": 5,
+				"name": "Gruber",
+				"rus": 8,
+				"tur": 14,
+				"type": "R"
+			},
+			"12254409": {
+				"blk": 6,
+				"name": "Pygmy",
+				"tur": 16,
+				"type": "R"
+			},
+			"12254412": {
+				"blk": 3,
+				"died": [
+					2,
+					7,
+					"bomb",
+					null
+				],
+				"name": "Spot",
+				"tur": 14,
+				"type": "R"
+			},
+			"12254414": {
+				"cas": 1,
+				"name": "Clumsy",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12254424": {
+				"name": "Ashur The Vile",
+				"type": "R"
+			},
+			"12254426": {
+				"name": "Ghekko The Supervisor",
+				"tur": 12,
+				"type": "R"
+			},
+			"12254427": {
+				"name": "Slob The Laborer",
+				"tur": 16,
+				"type": "R"
+			},
+			"12254440": {
+				"name": "O-Dog The Trogslayer",
+				"tur": 8,
+				"type": "R"
+			},
+			"12254445": {
+				"name": "Scumm The Rebel",
+				"rus": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12254450": {
+				"name": "Smartu The Unscarred",
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1063085",
 	"team_performance": {
 		"904377": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Aurons",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		},
 		"905924": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Squill's Squig Pitt",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		}
 	}
 }

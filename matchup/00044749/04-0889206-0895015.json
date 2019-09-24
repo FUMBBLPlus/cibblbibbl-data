@@ -1,19 +1,228 @@
 {
 	"!excluded": "no",
+	"matchId": "3982652",
+	"player_performance": {
+		"889206": {
+			"11989533": {
+				"name": "Black Fire",
+				"prespp": 18,
+				"tur": 9,
+				"type": "R"
+			},
+			"11989534": {
+				"blk": 6,
+				"name": "Eternal Flame",
+				"prespp": 13,
+				"tur": 16,
+				"type": "R"
+			},
+			"11989541": {
+				"blk": 3,
+				"name": "Deep Blue",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11990235": {
+				"blk": 5,
+				"cas": 1,
+				"name": "River Wild",
+				"prespp": 19,
+				"spp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"11990236": {
+				"blk": 5,
+				"name": "Jack Ironfist",
+				"prespp": 19,
+				"tur": 16,
+				"type": "R"
+			},
+			"11990237": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Ben the Golden",
+				"prespp": 15,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11990238": {
+				"blk": 3,
+				"cas": 1,
+				"fou": 1,
+				"name": "Franky Waterfalls",
+				"prespp": 3,
+				"rus": 5,
+				"spp": 5,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"11990239": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Unbar the Wet",
+				"prespp": 13,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12032521": {
+				"blk": 2,
+				"name": "Jelly Floodings",
+				"prespp": 6,
+				"rus": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12032523": {
+				"name": "Running Water",
+				"type": "R"
+			},
+			"12050724": {
+				"name": "Typhoon",
+				"prespp": 31,
+				"rus": 19,
+				"tur": 6,
+				"type": "R"
+			},
+			"12078651": {
+				"fou": 1,
+				"name": "René Diff",
+				"tur": 4,
+				"type": "R"
+			},
+			"12129820": {
+				"name": "Red Baron",
+				"prespp": 15,
+				"tur": 5,
+				"type": "R"
+			},
+			"12239950": {
+				"fou": 1,
+				"name": "Fischermans nightmare",
+				"tur": 8,
+				"type": "R"
+			}
+		},
+		"895015": {
+			"12083002": {
+				"name": "Shanka",
+				"prespp": 20,
+				"type": "R"
+			},
+			"12083010": {
+				"name": "Thrano",
+				"prespp": 16,
+				"type": "R"
+			},
+			"12083011": {
+				"blk": 4,
+				"name": "Urano",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12083013": {
+				"blk": 1,
+				"name": "Pluro",
+				"prespp": 20,
+				"tur": 11,
+				"type": "R"
+			},
+			"12083015": {
+				"blk": 1,
+				"name": "Mared",
+				"prespp": 23,
+				"tur": 15,
+				"type": "R"
+			},
+			"12083372": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Roundril",
+				"prespp": 26,
+				"rus": -1,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12083373": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Edfrei",
+				"prespp": 24,
+				"spp": 5,
+				"tur": 6,
+				"type": "R"
+			},
+			"12083374": {
+				"blk": 10,
+				"name": "Bakeon",
+				"prespp": 37,
+				"tur": 16,
+				"type": "R"
+			},
+			"12158704": {
+				"blk": 2,
+				"name": "Carcosa",
+				"prespp": 2,
+				"tur": 10,
+				"type": "B"
+			},
+			"12218053": {
+				"died": [
+					2,
+					7,
+					"gfiFail",
+					null
+				],
+				"name": "Japuto",
+				"tur": 14,
+				"type": "R"
+			},
+			"12237075": {
+				"name": "Stelra",
+				"tur": 9,
+				"type": "R"
+			},
+			"12237078": {
+				"blk": 1,
+				"name": "Ian Clumsystream",
+				"tur": 15,
+				"type": "R"
+			},
+			"12237079": {
+				"blk": 1,
+				"name": "Zachary Deepfist",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1060471",
 	"team_performance": {
 		"889206": {
 			"cas": 5,
 			"casdiff": 4,
+			"name": "Tsunami Terrors",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"895015": {
 			"cas": 1,
 			"casdiff": -4,
+			"name": "Springbok Sprites",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

@@ -1,19 +1,226 @@
 {
 	"!excluded": "no",
+	"matchId": "4056299",
+	"player_performance": {
+		"926362": {
+			"12575045": {
+				"blk": 10,
+				"name": "Nik-Chihtlutl",
+				"tur": 14,
+				"type": "B"
+			},
+			"12575050": {
+				"blk": 2,
+				"name": "Gutip",
+				"prespp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"12575051": {
+				"blk": 3,
+				"name": "Cetip",
+				"tur": 16,
+				"type": "R"
+			},
+			"12575052": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Co'axchox",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"12575053": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Tipitztuch",
+				"spp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"12575056": {
+				"name": "Chondauixtocl",
+				"prespp": 3,
+				"tur": 2,
+				"type": "R"
+			},
+			"12575057": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Qre'axyac-Xlti",
+				"pas": 3,
+				"prespp": 7,
+				"spp": 1,
+				"tur": 6,
+				"type": "R"
+			},
+			"12575058": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Haxtlun-Xi",
+				"spp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"12575059": {
+				"blk": 1,
+				"name": "Krar-Qretitl",
+				"rus": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"12575061": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Xektech-Ga'e",
+				"prespp": 1,
+				"rus": 4,
+				"spp": 5,
+				"tur": 10,
+				"type": "R"
+			},
+			"12610855": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Paul Darklightning",
+				"tur": 3,
+				"type": "R"
+			}
+		},
+		"926717": {
+			"12580801": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Sister Annakonda",
+				"prespp": 9,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12580802": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Sister Vyper",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 6,
+				"type": "R"
+			},
+			"12580803": {
+				"blk": 2,
+				"name": "Sister Tygress",
+				"tur": 4,
+				"type": "R"
+			},
+			"12580804": {
+				"blk": 2,
+				"died": [
+					1,
+					2,
+					"blocked",
+					"12575053"
+				],
+				"name": "Sister Jaguarella",
+				"tur": 2,
+				"type": "R"
+			},
+			"12580809": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Ellyfant",
+				"rus": 12,
+				"tur": 14,
+				"type": "R"
+			},
+			"12580818": {
+				"blk": 1,
+				"name": "Krokodyle",
+				"rus": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"12580820": {
+				"blk": 1,
+				"died": [
+					1,
+					1,
+					"blocked",
+					"12575058"
+				],
+				"name": "Panthra",
+				"type": "R"
+			},
+			"12580822": {
+				"blk": 4,
+				"name": "Spydrella",
+				"tur": 8,
+				"type": "R"
+			},
+			"12580823": {
+				"blk": 3,
+				"name": "Eelie",
+				"tur": 16,
+				"type": "R"
+			},
+			"12580824": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Frawg",
+				"prespp": 6,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12580825": {
+				"blk": 2,
+				"name": "Pyrranha",
+				"prespp": 6,
+				"rus": 1,
+				"spp": 3,
+				"tds": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"12580826": {
+				"blk": 1,
+				"fou": 2,
+				"name": "Grylla",
+				"tur": 4,
+				"type": "R"
+			},
+			"12593814": {
+				"blk": 1,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Rattlsnayk",
+				"spp": 7,
+				"tur": 8,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1146140",
 	"team_performance": {
 		"926362": {
 			"cas": 4,
 			"casdiff": 0,
+			"name": "Huah-Huah's Honor Guard",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"926717": {
 			"cas": 4,
 			"casdiff": 0,
+			"name": "Handmaids of the Gods",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

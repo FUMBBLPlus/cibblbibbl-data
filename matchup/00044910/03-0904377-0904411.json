@@ -1,19 +1,207 @@
 {
 	"!excluded": "no",
+	"matchId": "3984928",
+	"player_performance": {
+		"904377": {
+			"12231317": {
+				"blk": 8,
+				"mvp": 1,
+				"name": "Ruby",
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231319": {
+				"blk": 4,
+				"cps": 1,
+				"name": "Sapphire",
+				"pas": -1,
+				"prespp": 8,
+				"spp": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12231325": {
+				"blk": 13,
+				"name": "Emerald",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231332": {
+				"blk": 14,
+				"cas": 1,
+				"name": "Topaz",
+				"prespp": 4,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231335": {
+				"blk": 1,
+				"name": "Diamond",
+				"prespp": 2,
+				"tur": 3,
+				"type": "B"
+			},
+			"12231336": {
+				"blk": 9,
+				"fou": 1,
+				"name": "Aquamarine",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231338": {
+				"blk": 4,
+				"name": "Alexandrite",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231341": {
+				"blk": 3,
+				"int": 1,
+				"name": "Opal",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231342": {
+				"died": [
+					1,
+					7,
+					"blocked",
+					"12259937"
+				],
+				"fou": 1,
+				"name": "Spinel",
+				"tur": 7,
+				"type": "R"
+			},
+			"12231343": {
+				"blk": 2,
+				"fou": 2,
+				"name": "Obsidian",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231345": {
+				"blk": 2,
+				"name": "Hematite",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"904411": {
+			"12231956": {
+				"blk": 11,
+				"cps": 1,
+				"name": "Cadwgan Bleak",
+				"prespp": 8,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231968": {
+				"blk": 3,
+				"name": "\"Smiles\" Arwyn",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231969": {
+				"blk": 1,
+				"name": "Idris Fast-Friend",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231970": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Madoc Gallows-Grin",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231971": {
+				"blk": 3,
+				"cps": 2,
+				"name": "Owain ap Bran",
+				"pas": -1,
+				"rus": 3,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231974": {
+				"blk": 2,
+				"name": "Prydwen ap Blaidd",
+				"prespp": 8,
+				"rus": 11,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"12231978": {
+				"blk": 3,
+				"name": "Llewelyn Grey-Eyes",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231979": {
+				"blk": 2,
+				"name": "Heilyn the Drunkard",
+				"tur": 5,
+				"type": "R"
+			},
+			"12231981": {
+				"name": "Meredith",
+				"type": "R"
+			},
+			"12231982": {
+				"blk": 7,
+				"name": "Eirian",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231983": {
+				"name": "Rhys",
+				"tur": 4,
+				"type": "R"
+			},
+			"12259937": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Graham Vileshield",
+				"rus": 7,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1063107",
 	"team_performance": {
 		"904377": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Aurons",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"904411": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Ynys Morion Mabsantwyr",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

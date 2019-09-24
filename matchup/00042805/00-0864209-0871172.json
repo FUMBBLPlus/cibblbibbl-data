@@ -1,19 +1,227 @@
 {
 	"!excluded": "no",
+	"matchId": "3893985",
+	"player_performance": {
+		"864209": {
+			"11589518": {
+				"blk": 1,
+				"name": "Mental Xug",
+				"prespp": 17,
+				"rus": 20,
+				"tur": 15,
+				"type": "R"
+			},
+			"11589520": {
+				"blk": 10,
+				"name": "Mack Shura",
+				"prespp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"11589531": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Whitewater Kogan",
+				"prespp": 5,
+				"spp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"11589534": {
+				"blk": 12,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Cowabunga Nurbag",
+				"prespp": 7,
+				"spp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"11589535": {
+				"name": "Choka Tog",
+				"tur": 3,
+				"type": "R"
+			},
+			"11589536": {
+				"blk": 4,
+				"cas": 1,
+				"died": [
+					2,
+					2,
+					"blocked",
+					"11698448"
+				],
+				"name": "Mullering Zurgug",
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11589537": {
+				"name": "Amped Yregh",
+				"tur": 2,
+				"type": "R"
+			},
+			"11589538": {
+				"fou": 1,
+				"name": "Stoked Urlgan",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11589539": {
+				"blk": 1,
+				"name": "Choppy Pitgurat",
+				"prespp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"11589565": {
+				"blk": 1,
+				"name": "Wipeout Xig",
+				"prespp": 13,
+				"type": "R"
+			},
+			"11716688": {
+				"blk": 3,
+				"name": "Harold Strongorc",
+				"tur": 17,
+				"type": "R"
+			},
+			"864209S1": {
+				"name": "Bomber Dribblesnot",
+				"tur": 1,
+				"type": "S"
+			}
+		},
+		"871172": {
+			"11698445": {
+				"blk": 12,
+				"cas": 2,
+				"name": "Jerek von Carstein",
+				"prespp": 7,
+				"spp": 4,
+				"tur": 17,
+				"type": "R"
+			},
+			"11698446": {
+				"blk": 1,
+				"cas": 1,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Elize von Carstein",
+				"pas": 1,
+				"prespp": 10,
+				"rus": 4,
+				"spp": 8,
+				"tur": 4,
+				"type": "R"
+			},
+			"11698447": {
+				"blk": 2,
+				"name": "Pieter von Carstein",
+				"prespp": 16,
+				"rus": 26,
+				"spp": 6,
+				"tds": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11698448": {
+				"blk": 9,
+				"cas": 2,
+				"name": "Markos von Carstein",
+				"prespp": 21,
+				"rus": 18,
+				"spp": 7,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11698449": {
+				"blk": 1,
+				"name": "Hans Schäfer",
+				"tur": 6,
+				"type": "R"
+			},
+			"11698450": {
+				"died": [
+					1,
+					3,
+					"blocked",
+					"11589531"
+				],
+				"name": "Lars Hoffman",
+				"tur": 3,
+				"type": "R"
+			},
+			"11698451": {
+				"blk": 3,
+				"name": "Johan Schulz",
+				"tur": 17,
+				"type": "R"
+			},
+			"11698453": {
+				"name": "Fritz Schneider",
+				"type": "R"
+			},
+			"11698473": {
+				"blk": 4,
+				"name": "Frank Fischer",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11698474": {
+				"blk": 4,
+				"name": "Schatten aus der Toten",
+				"prespp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"11704837": {
+				"blk": 2,
+				"name": "Gerhart Müller",
+				"tur": 12,
+				"type": "R"
+			},
+			"11720718": {
+				"blk": 7,
+				"cas": 2,
+				"name": "Olav Schmidt",
+				"spp": 4,
+				"tur": 17,
+				"type": "R"
+			},
+			"11729846": {
+				"blk": 2,
+				"name": "Karl Weber",
+				"prespp": 5,
+				"tur": 14,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "958196",
 	"team_performance": {
 		"864209": {
 			"cas": 3,
 			"casdiff": -4,
+			"name": "Gnarly Surf Mob",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		},
 		"871172": {
 			"cas": 7,
 			"casdiff": 4,
+			"name": "Nachthafen Nightlords",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		}
 	}
 }

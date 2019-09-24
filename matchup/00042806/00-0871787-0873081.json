@@ -1,19 +1,227 @@
 {
 	"!excluded": "no",
+	"matchId": "3894614",
+	"player_performance": {
+		"871787": {
+			"11709004": {
+				"blk": 1,
+				"name": "Idun Hands",
+				"prespp": 2,
+				"rus": 19,
+				"tur": 17,
+				"type": "R"
+			},
+			"11709005": {
+				"blk": 2,
+				"fou": 5,
+				"name": "Breek Argan",
+				"tur": 12,
+				"type": "R"
+			},
+			"11709006": {
+				"blk": 2,
+				"fou": 2,
+				"name": "Gaer Nettina",
+				"rus": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11709008": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Emyys Doceon",
+				"tur": 17,
+				"type": "R"
+			},
+			"11709009": {
+				"blk": 12,
+				"name": "Burk Silpal",
+				"prespp": 9,
+				"tur": 17,
+				"type": "R"
+			},
+			"11709010": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Dando Enda",
+				"prespp": 3,
+				"tur": 12,
+				"type": "R"
+			},
+			"11709011": {
+				"blk": 8,
+				"name": "Raus Juit",
+				"prespp": 8,
+				"tur": 13,
+				"type": "R"
+			},
+			"11709012": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Hengest Hirn",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"11709013": {
+				"name": "Kael Desini",
+				"pas": 1,
+				"prespp": 2,
+				"rus": 25,
+				"spp": 3,
+				"tds": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"11709015": {
+				"blk": 4,
+				"name": "Vigoth Nony",
+				"tur": 17,
+				"type": "R"
+			},
+			"11709016": {
+				"blk": 3,
+				"name": "Strean Buren",
+				"tur": 9,
+				"type": "R"
+			},
+			"11709018": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Font Eiridan",
+				"prespp": 8,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11727803": {
+				"name": "Svart Syn",
+				"type": "R"
+			}
+		},
+		"873081": {
+			"11732193": {
+				"blk": 6,
+				"mvp": 1,
+				"name": "Corron Cottonmouth",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"11732194": {
+				"died": [
+					1,
+					2,
+					"fouled",
+					"11709006"
+				],
+				"name": "Gutterfingers",
+				"tur": 2,
+				"type": "R"
+			},
+			"11732195": {
+				"blk": 8,
+				"name": "Syckler Spidergrin",
+				"prespp": 10,
+				"rus": 12,
+				"spp": 3,
+				"tds": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"11732196": {
+				"blk": 2,
+				"name": "Phantom Frickla",
+				"tur": 8,
+				"type": "R"
+			},
+			"11732197": {
+				"name": "Greedlip",
+				"type": "R"
+			},
+			"11732199": {
+				"name": "Kweex Thinarm",
+				"tur": 13,
+				"type": "R"
+			},
+			"11732200": {
+				"blk": 1,
+				"name": "Kazin Damppocket",
+				"tur": 16,
+				"type": "R"
+			},
+			"11732201": {
+				"fou": 1,
+				"name": "Somax Hardfingers",
+				"tur": 4,
+				"type": "R"
+			},
+			"11732202": {
+				"name": "Kwarax Twinspirit",
+				"rus": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"11732203": {
+				"name": "Kiit Fastshatter",
+				"type": "R"
+			},
+			"11732204": {
+				"name": "Whisperfresh",
+				"prespp": 8,
+				"type": "R"
+			},
+			"11732205": {
+				"blk": 2,
+				"name": "Lylinee Moist-Tongue",
+				"tur": 12,
+				"type": "R"
+			},
+			"11744455": {
+				"blk": 3,
+				"name": "Sticky Ride",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11746593": {
+				"blk": 1,
+				"fou": 2,
+				"name": "William Vileshield",
+				"tur": 13,
+				"type": "R"
+			},
+			"873081M1": {
+				"blk": 5,
+				"name": "Merc Skaven Lineman 1",
+				"tur": 16,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "958925",
 	"team_performance": {
 		"871787": {
 			"cas": 2,
 			"casdiff": 2,
+			"name": "Malignant Curators",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		},
 		"873081": {
 			"cas": 0,
 			"casdiff": -2,
+			"name": "Cavernous Crystalbreakers",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		}
 	}
 }

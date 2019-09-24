@@ -1,19 +1,224 @@
 {
 	"!excluded": "no",
+	"matchId": "3893188",
+	"player_performance": {
+		"872475": {
+			"11721709": {
+				"blk": 5,
+				"name": "Acer Steelroot",
+				"tur": 16,
+				"type": "R"
+			},
+			"11721710": {
+				"blk": 6,
+				"cas": 2,
+				"fou": 1,
+				"name": "Judge Juniperus",
+				"prespp": 4,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11721711": {
+				"blk": 4,
+				"name": "Sylvestris Pikebranch",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11721712": {
+				"blk": 3,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Larix Darkbark",
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11721713": {
+				"blk": 5,
+				"name": "Betula the Last Pendulum",
+				"prespp": 16,
+				"tur": 16,
+				"type": "R"
+			},
+			"11721714": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Picea the Piercer",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11721715": {
+				"fou": 1,
+				"name": "Cursed Oxalis",
+				"tur": 4,
+				"type": "R"
+			},
+			"11721716": {
+				"blk": 1,
+				"name": "Rubus the Drinker of Blood",
+				"tur": 5,
+				"type": "R"
+			},
+			"11721717": {
+				"fou": 1,
+				"name": "Sphagnum the Sly",
+				"prespp": 6,
+				"rus": 8,
+				"tur": 7,
+				"type": "R"
+			},
+			"11721718": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Mummified Maianthemum",
+				"prespp": 3,
+				"tur": 5,
+				"type": "R"
+			},
+			"11721719": {
+				"blk": 1,
+				"died": [
+					2,
+					5,
+					"blocked",
+					"11724303"
+				],
+				"name": "Sylvaticum the Corpsehugger",
+				"prespp": 3,
+				"tur": 4,
+				"type": "R"
+			},
+			"11727806": {
+				"blk": 1,
+				"name": "Tyranno Spite Carex",
+				"tur": 3,
+				"type": "R"
+			},
+			"11727807": {
+				"fou": 1,
+				"name": "Hum Polytrichum Hum",
+				"tur": 2,
+				"type": "R"
+			}
+		},
+		"872524": {
+			"11724299": {
+				"mvp": 1,
+				"name": "Brohna Purebite",
+				"prespp": 1,
+				"rus": 11,
+				"spp": 8,
+				"tds": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"11724300": {
+				"name": "Ysma Darkwhisper",
+				"prespp": 6,
+				"tur": 10,
+				"type": "R"
+			},
+			"11724301": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Jonabert Deadheart",
+				"spp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"11724302": {
+				"blk": 2,
+				"name": "Sandrobald Stonetears",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11724303": {
+				"blk": 2,
+				"cas": 2,
+				"name": "Yuza Sweetslash",
+				"prespp": 7,
+				"rus": 20,
+				"spp": 4,
+				"tur": 12,
+				"type": "R"
+			},
+			"11724304": {
+				"name": "Tarya Frozenbreath",
+				"prespp": 3,
+				"tur": 4,
+				"type": "R"
+			},
+			"11724305": {
+				"blk": 1,
+				"name": "Armidion",
+				"prespp": 3,
+				"tur": 3,
+				"type": "R"
+			},
+			"11724309": {
+				"name": "Barithius",
+				"prespp": 3,
+				"tur": 15,
+				"type": "R"
+			},
+			"11724310": {
+				"blk": 2,
+				"name": "Ordham",
+				"prespp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"11724311": {
+				"blk": 1,
+				"name": "Sarrumar",
+				"tur": 16,
+				"type": "R"
+			},
+			"11724312": {
+				"name": "Gerogious",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"872524S1": {
+				"blk": 2,
+				"died": [
+					2,
+					0,
+					"secretWeaponBan",
+					null
+				],
+				"name": "Helmut Wulf",
+				"tur": 1,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "957316",
 	"team_performance": {
 		"872475": {
 			"cas": 4,
 			"casdiff": 1,
+			"name": "True Roots of Khaine",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"872524": {
 			"cas": 3,
 			"casdiff": -1,
+			"name": "Silver Pinnacle Renegades",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

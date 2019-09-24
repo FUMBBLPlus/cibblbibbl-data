@@ -1,19 +1,190 @@
 {
 	"!excluded": "no",
+	"matchId": "3894245",
+	"player_performance": {
+		"872710": {
+			"11726387": {
+				"blk": 6,
+				"cas": 1,
+				"cps": 1,
+				"name": "Count Leopold Von Drak",
+				"pas": 1,
+				"rus": -1,
+				"spp": 3,
+				"tur": 17,
+				"type": "R"
+			},
+			"11726390": {
+				"blk": 1,
+				"name": "Countess Roseline Von Drak",
+				"rus": 16,
+				"tur": 9,
+				"type": "R"
+			},
+			"11726404": {
+				"blk": 2,
+				"name": "Serf Adolf",
+				"tur": 14,
+				"type": "R"
+			},
+			"11726415": {
+				"died": [
+					1,
+					1,
+					"blocked",
+					"11738132"
+				],
+				"name": "Serf Baldwyn",
+				"type": "R"
+			},
+			"11726419": {
+				"blk": 3,
+				"name": "Serf Diedric",
+				"tur": 8,
+				"type": "R"
+			},
+			"11726426": {
+				"name": "Serf Friedrich",
+				"type": "R"
+			},
+			"11726432": {
+				"blk": 3,
+				"name": "Serf Jurgen",
+				"tur": 17,
+				"type": "R"
+			},
+			"11726438": {
+				"name": "Serf Raynard",
+				"tur": 2,
+				"type": "R"
+			},
+			"11726439": {
+				"name": "Serf Werner",
+				"type": "R"
+			},
+			"11726441": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Serf Klaus",
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"11726445": {
+				"blk": 1,
+				"died": [
+					1,
+					8,
+					"blocked",
+					"11738133"
+				],
+				"name": "Serf Christof",
+				"tur": 8,
+				"type": "R"
+			}
+		},
+		"873420": {
+			"11738132": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Slugmane",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11738133": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Gloomgrip",
+				"prespp": 3,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11738135": {
+				"blk": 7,
+				"name": "Painfist",
+				"tur": 17,
+				"type": "R"
+			},
+			"11738136": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Baccac",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 1,
+				"type": "R"
+			},
+			"11738138": {
+				"blk": 1,
+				"name": "Khikhec",
+				"tur": 14,
+				"type": "R"
+			},
+			"11738139": {
+				"blk": 1,
+				"name": "Gugthar",
+				"tur": 9,
+				"type": "R"
+			},
+			"11738140": {
+				"blk": 2,
+				"name": "Grimhide",
+				"tur": 14,
+				"type": "R"
+			},
+			"11738141": {
+				"blk": 1,
+				"name": "Pyretoe",
+				"rus": 34,
+				"spp": 6,
+				"tds": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11738142": {
+				"blk": 2,
+				"name": "Wildhands",
+				"tur": 17,
+				"type": "R"
+			},
+			"11738143": {
+				"blk": 5,
+				"name": "Emberhide",
+				"rus": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"11738150": {
+				"blk": 3,
+				"name": "Heavyfeet",
+				"tur": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "958504",
 	"team_performance": {
 		"872710": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Drakenhof Dance Macabre",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"873420": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Nordberg Boozehounds",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

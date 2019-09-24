@@ -1,19 +1,243 @@
 {
 	"!excluded": "no",
+	"matchId": "3927188",
+	"player_performance": {
+		"859111": {
+			"11512661": {
+				"blk": 9,
+				"cas": 2,
+				"name": "Asura",
+				"prespp": 26,
+				"spp": 4,
+				"tur": 14,
+				"type": "R"
+			},
+			"11512662": {
+				"blk": 4,
+				"name": "Gandharva",
+				"prespp": 14,
+				"tur": 11,
+				"type": "R"
+			},
+			"11512667": {
+				"blk": 9,
+				"cas": 1,
+				"fou": 2,
+				"name": "Yaksha",
+				"prespp": 4,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11512668": {
+				"name": "Rakshasa",
+				"prespp": 27,
+				"tur": 2,
+				"type": "R"
+			},
+			"11512674": {
+				"blk": 9,
+				"name": "Markata",
+				"prespp": 12,
+				"tur": 16,
+				"type": "R"
+			},
+			"11512677": {
+				"name": "Bandar",
+				"prespp": 7,
+				"type": "R"
+			},
+			"11630133": {
+				"mvp": 1,
+				"name": "Ka",
+				"prespp": 12,
+				"spp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"11710872": {
+				"blk": 4,
+				"name": "Mountain Lifter",
+				"prespp": 18,
+				"rus": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11753833": {
+				"blk": 6,
+				"name": "The Rudra",
+				"prespp": 18,
+				"tur": 16,
+				"type": "R"
+			},
+			"11771306": {
+				"blk": 3,
+				"cps": 2,
+				"name": "Amrita",
+				"pas": 6,
+				"prespp": 19,
+				"rus": 6,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11795536": {
+				"blk": 2,
+				"died": [
+					1,
+					5,
+					"blocked",
+					"11700319"
+				],
+				"name": "Abu",
+				"tur": 5,
+				"type": "R"
+			},
+			"11877930": {
+				"blk": 3,
+				"name": "Lightning-Limbed",
+				"prespp": 5,
+				"tur": 9,
+				"type": "R"
+			}
+		},
+		"871312": {
+			"11700282": {
+				"blk": 1,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Count Ludovig",
+				"pas": 3,
+				"prespp": 41,
+				"rus": 20,
+				"spp": 9,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11700284": {
+				"blk": 5,
+				"name": "Count Igor",
+				"prespp": 31,
+				"rus": 8,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11700285": {
+				"blk": 6,
+				"name": "Count Jurij",
+				"prespp": 30,
+				"rus": 9,
+				"spp": 3,
+				"tds": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"11700318": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Seth",
+				"prespp": 18,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11700319": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Anubis",
+				"prespp": 31,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11700323": {
+				"blk": 1,
+				"name": "Servant Fjodor",
+				"prespp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11734615": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Servant Alexander",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11775889": {
+				"blk": 3,
+				"died": [
+					2,
+					4,
+					"blocked",
+					"11512667"
+				],
+				"name": "Servant Slavko",
+				"tur": 12,
+				"type": "R"
+			},
+			"11795536R1": {
+				"blk": 1,
+				"name": "Abu",
+				"tur": 4,
+				"type": "D"
+			},
+			"11812909": {
+				"blk": 2,
+				"name": "Count Yaroslav",
+				"prespp": 18,
+				"rus": 17,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11850036": {
+				"blk": 1,
+				"name": "Paul Darktree",
+				"tur": 6,
+				"type": "R"
+			},
+			"11874342": {
+				"blk": 1,
+				"name": "Servant Miro",
+				"tur": 12,
+				"type": "R"
+			},
+			"11930893": {
+				"blk": 1,
+				"name": "Servant Mirko",
+				"tur": 5,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "996554",
 	"team_performance": {
 		"859111": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "Dandaka Devas",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -4
+			"scorediff": -4,
+			"tds": 0,
+			"tdsdiff": -4
 		},
 		"871312": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "Tower of the Necromancer",
 			"rsym": "W",
 			"score": 4,
-			"scorediff": 4
+			"scorediff": 4,
+			"tds": 4,
+			"tdsdiff": 4
 		}
 	}
 }

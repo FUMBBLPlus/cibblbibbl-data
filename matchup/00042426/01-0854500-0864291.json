@@ -1,19 +1,233 @@
 {
 	"!excluded": "no",
+	"matchId": "3882341",
+	"player_performance": {
+		"854500": {
+			"11436771": {
+				"blk": 4,
+				"name": "Venomfiend Rendpox",
+				"prespp": 8,
+				"tur": 16,
+				"type": "B"
+			},
+			"11436774": {
+				"blk": 9,
+				"name": "Spasmpus Facerotten",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11436776": {
+				"blk": 13,
+				"mvp": 1,
+				"name": "Slugbubo Rabidbrute",
+				"prespp": 8,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11436778": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Mosstail",
+				"prespp": 49,
+				"rus": 20,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11436781": {
+				"blk": 2,
+				"name": "Zilox",
+				"tur": 6,
+				"type": "R"
+			},
+			"11436783": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Vocnur",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11436789": {
+				"fou": 1,
+				"name": "Torzoog",
+				"prespp": 9,
+				"tur": 2,
+				"type": "R"
+			},
+			"11448006": {
+				"blk": 2,
+				"name": "Banix",
+				"prespp": 11,
+				"tur": 9,
+				"type": "R"
+			},
+			"11460719": {
+				"name": "Aali Haytham Ahmad",
+				"prespp": 2,
+				"type": "R"
+			},
+			"11474275": {
+				"blk": 6,
+				"name": "Kylgot Battlespawned",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11488191": {
+				"blk": 5,
+				"name": "Ghonaz",
+				"prespp": 9,
+				"rus": 5,
+				"spp": 3,
+				"tds": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"11569105": {
+				"blk": 8,
+				"name": "Rendcanker Oozeface",
+				"prespp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11606344": {
+				"blk": 6,
+				"name": "Blackspew",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"864291": {
+			"11590768": {
+				"blk": 3,
+				"cas": 1,
+				"name": "S. Sang",
+				"prespp": 6,
+				"rus": 11,
+				"spp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"11590769": {
+				"blk": 5,
+				"cas": 1,
+				"name": "U. Gress",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590771": {
+				"name": "Redivor",
+				"tur": 8,
+				"type": "R"
+			},
+			"11590772": {
+				"blk": 2,
+				"name": "Redimor",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590773": {
+				"blk": 1,
+				"name": "Chitemor",
+				"tur": 4,
+				"type": "R"
+			},
+			"11590774": {
+				"blk": 1,
+				"died": [
+					2,
+					8,
+					"blocked",
+					"11436778"
+				],
+				"name": "Stramor",
+				"tur": 14,
+				"type": "R"
+			},
+			"11590777": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Limortor",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"11590778": {
+				"blk": 2,
+				"name": "Dissepolor",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590780": {
+				"blk": 1,
+				"name": "Affuquator",
+				"tur": 16,
+				"type": "R"
+			},
+			"11590781": {
+				"blk": 4,
+				"name": "Dichitemor",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11675327": {
+				"name": "Alexander Hardfire",
+				"tur": 1,
+				"type": "R"
+			},
+			"864291M1": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Merc Zombie Ogre 1",
+				"spp": 2,
+				"tur": 16,
+				"type": "M"
+			},
+			"864291S1": {
+				"name": "Sinnedbad",
+				"tur": 8,
+				"type": "S"
+			},
+			"864291S2": {
+				"blk": 5,
+				"name": "Setekh",
+				"tur": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "944504",
 	"team_performance": {
 		"854500": {
 			"cas": 2,
 			"casdiff": -1,
+			"name": "Seven Samples of Decay",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"864291": {
 			"cas": 3,
 			"casdiff": 1,
+			"name": "Norscan Curse",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

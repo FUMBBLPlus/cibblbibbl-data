@@ -1,19 +1,207 @@
 {
 	"!excluded": "no",
+	"matchId": "3964716",
+	"player_performance": {
+		"898504": {
+			"12139338": {
+				"name": "Artos",
+				"type": "B"
+			},
+			"12139340": {
+				"blk": 2,
+				"name": "Deitrich Wulfkind",
+				"rus": 8,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12139343": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Karl Eisenblut",
+				"prespp": 10,
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"12139357": {
+				"blk": 1,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Neldor Quickfoot",
+				"pas": 9,
+				"rus": 7,
+				"spp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12139358": {
+				"blk": 1,
+				"name": "Thenan Sharpclaw",
+				"tur": 10,
+				"type": "R"
+			},
+			"12139360": {
+				"name": "Vuduin Nighteyes",
+				"tur": 16,
+				"type": "R"
+			},
+			"12139368": {
+				"blk": 1,
+				"name": "Rennyn Longtooth",
+				"pas": 1,
+				"rus": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12139373": {
+				"blk": 1,
+				"name": "Kailu Dreadpaw",
+				"tur": 2,
+				"type": "R"
+			},
+			"12139374": {
+				"blk": 3,
+				"name": "Vartan Shadowstrike",
+				"tur": 16,
+				"type": "R"
+			},
+			"12139375": {
+				"died": [
+					2,
+					3,
+					"blocked",
+					"12139027"
+				],
+				"fou": 1,
+				"name": "Aeson Highclimb",
+				"tur": 7,
+				"type": "R"
+			},
+			"12139394": {
+				"blk": 5,
+				"name": "Franz Stehlklau",
+				"prespp": 5,
+				"rus": 13,
+				"tur": 16,
+				"type": "R"
+			},
+			"12143010": {
+				"name": "Aaron Deepfist",
+				"tur": 10,
+				"type": "R"
+			}
+		},
+		"898506": {
+			"12139026": {
+				"blk": 9,
+				"name": "Anubisath",
+				"tur": 18,
+				"type": "R"
+			},
+			"12139027": {
+				"blk": 7,
+				"cas": 2,
+				"name": "Shekrem",
+				"spp": 4,
+				"tur": 18,
+				"type": "R"
+			},
+			"12139031": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Othmar Lightbane",
+				"prespp": 5,
+				"spp": 2,
+				"tur": 18,
+				"type": "R"
+			},
+			"12139032": {
+				"blk": 5,
+				"name": "Taavi Fleshgorger",
+				"rus": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"12139033": {
+				"name": "Brenno the Stalker",
+				"tur": 7,
+				"type": "R"
+			},
+			"12139034": {
+				"blk": 7,
+				"mvp": 1,
+				"name": "Holge the Forsworn",
+				"rus": 11,
+				"spp": 8,
+				"tds": 1,
+				"tur": 18,
+				"type": "R"
+			},
+			"12139035": {
+				"blk": 5,
+				"name": "Uther the Exiled",
+				"tur": 18,
+				"type": "R"
+			},
+			"12139038": {
+				"blk": 8,
+				"name": "Kornel Crompton",
+				"tur": 18,
+				"type": "R"
+			},
+			"12139039": {
+				"blk": 2,
+				"name": "Osborn Rudges",
+				"tur": 18,
+				"type": "R"
+			},
+			"12139040": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Lucien Preston",
+				"tur": 12,
+				"type": "R"
+			},
+			"12139041": {
+				"name": "Mertin Middlestone",
+				"type": "R"
+			},
+			"12139375R1": {
+				"name": "Aeson Highclimb",
+				"tur": 5,
+				"type": "D"
+			},
+			"12149354": {
+				"fou": 3,
+				"name": "Edward Goldfist",
+				"tur": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1039840",
 	"team_performance": {
 		"898504": {
 			"cas": 1,
 			"casdiff": -3,
+			"name": "[L] Ravensloft Ravers",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"898506": {
 			"cas": 4,
 			"casdiff": 3,
+			"name": "Shambling Revenants",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

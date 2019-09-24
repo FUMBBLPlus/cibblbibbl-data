@@ -1,19 +1,202 @@
 {
 	"!excluded": "no",
+	"matchId": "3962437",
+	"player_performance": {
+		"895387": {
+			"12089484": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Troll Pollymaalu",
+				"prespp": 11,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12089486": {
+				"blk": 1,
+				"fou": 6,
+				"name": "\"Mean\" Gobbo Green",
+				"prespp": 7,
+				"tur": 14,
+				"type": "R"
+			},
+			"12089487": {
+				"blk": 1,
+				"name": "\"Big\" Gren Eetzaburga",
+				"tur": 16,
+				"type": "R"
+			},
+			"12089488": {
+				"name": "Gobby \"Blud\" Mucknally",
+				"pas": 1,
+				"rus": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"12089489": {
+				"blk": 2,
+				"cas": 1,
+				"fou": 1,
+				"name": "Chukka Noll",
+				"spp": 2,
+				"tur": 4,
+				"type": "R"
+			},
+			"12089495": {
+				"blk": 4,
+				"name": "Airy Badsure",
+				"tur": 16,
+				"type": "R"
+			},
+			"12089499": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Gob Wudsun",
+				"rus": 6,
+				"spp": 8,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12089504": {
+				"fou": 3,
+				"name": "Kleavin Green",
+				"prespp": 6,
+				"tur": 12,
+				"type": "R"
+			},
+			"12115472": {
+				"name": "Grin Swanny",
+				"tur": 1,
+				"type": "R"
+			},
+			"12115473": {
+				"blk": 5,
+				"name": "Grakk Buttla",
+				"tur": 16,
+				"type": "R"
+			},
+			"12124729": {
+				"blk": 3,
+				"name": "Painz Arrysun",
+				"rus": 8,
+				"tur": 13,
+				"type": "R"
+			},
+			"12124730": {
+				"blk": 2,
+				"name": "Grakk Buttla",
+				"pas": 1,
+				"rus": 6,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"896972": {
+			"12117786": {
+				"blk": 8,
+				"name": "Gorbad Faceclompah",
+				"rus": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12117787": {
+				"name": "Valanduil of House Meliane",
+				"type": "R"
+			},
+			"12117788": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Poppy Merribuck",
+				"spp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"12117789": {
+				"name": "Heinrich the Corpulent",
+				"tur": 5,
+				"type": "R"
+			},
+			"12117790": {
+				"name": "Balthasar the Youthful",
+				"tur": 3,
+				"type": "R"
+			},
+			"12117791": {
+				"blk": 7,
+				"name": "Konrad the Enchanter",
+				"tur": 16,
+				"type": "R"
+			},
+			"12117792": {
+				"blk": 5,
+				"name": "Gottlieb Thälmann of Averland",
+				"tur": 16,
+				"type": "R"
+			},
+			"12117795": {
+				"name": "Ferrimora of the Waxing Moon",
+				"tur": 8,
+				"type": "R"
+			},
+			"12117796": {
+				"blk": 5,
+				"name": "The Drinker of Desire and Wishes",
+				"tur": 16,
+				"type": "R"
+			},
+			"12117798": {
+				"blk": 2,
+				"died": [
+					2,
+					3,
+					"blocked",
+					"12089484"
+				],
+				"name": "Sammael the Meticulous",
+				"prespp": 4,
+				"tur": 10,
+				"type": "R"
+			},
+			"12117800": {
+				"name": "Siluvaine, Traverser of the Celestial Promenade",
+				"prespp": 5,
+				"tur": 4,
+				"type": "R"
+			},
+			"12117802": {
+				"blk": 2,
+				"name": "Urkrasour the Obedient",
+				"prespp": 3,
+				"rus": 22,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1037273",
 	"team_performance": {
 		"895387": {
 			"cas": 3,
 			"casdiff": 3,
+			"name": "Der Peaksblight Stealers",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"896972": {
 			"cas": 0,
 			"casdiff": -3,
+			"name": "Seekers of Transcendence",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

@@ -1,19 +1,212 @@
 {
 	"!excluded": "no",
+	"matchId": "3965914",
+	"player_performance": {
+		"897291": {
+			"12120800": {
+				"name": "Durisoul Hammerheart",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12120803": {
+				"blk": 8,
+				"name": "Derhaeth Trolldigger",
+				"tur": 14,
+				"type": "R"
+			},
+			"12120807": {
+				"blk": 3,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Darernomli Ironcloak",
+				"spp": 7,
+				"tur": 6,
+				"type": "R"
+			},
+			"12120809": {
+				"blk": 2,
+				"name": "Khumnael Grumblefeet",
+				"prespp": 10,
+				"tur": 1,
+				"type": "R"
+			},
+			"12120811": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Jassor Chaosbraid",
+				"prespp": 8,
+				"rus": 6,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12120812": {
+				"blk": 7,
+				"name": "Figrael Largefall",
+				"prespp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"12120814": {
+				"blk": 9,
+				"name": "Gardam Battlefinger",
+				"tur": 16,
+				"type": "R"
+			},
+			"12120815": {
+				"blk": 4,
+				"name": "Thadmaen Shadowbreaker",
+				"tur": 16,
+				"type": "R"
+			},
+			"12120816": {
+				"blk": 7,
+				"name": "Forfael Coalsword",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12120821": {
+				"blk": 8,
+				"name": "Brougratum Boneforged",
+				"prespp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"12120822": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Oritmeg Chaosblade",
+				"spp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"12140188": {
+				"blk": 6,
+				"name": "Tristan Hideousfield",
+				"tur": 16,
+				"type": "R"
+			},
+			"897291S1": {
+				"name": "Boomer Eziasson",
+				"tur": 2,
+				"type": "S"
+			}
+		},
+		"897379": {
+			"12122311": {
+				"blk": 12,
+				"name": "Gotrek Gurnisson",
+				"prespp": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"12122312": {
+				"blk": 8,
+				"name": "Snorri Nosebiter",
+				"prespp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"12122314": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Malakai Makaisson",
+				"spp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"12122318": {
+				"blk": 2,
+				"name": "Cpt. Long Drong",
+				"rus": 5,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12122319": {
+				"blk": 4,
+				"name": "First Mate Morgrim Dallinsson",
+				"pas": 1,
+				"prespp": 16,
+				"rus": 22,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12122320": {
+				"blk": 4,
+				"name": "Finn Hargrimsson",
+				"tur": 12,
+				"type": "R"
+			},
+			"12122325": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Yadri Budriksson",
+				"prespp": 4,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12122326": {
+				"name": "Belegar Baliksnev",
+				"tur": 1,
+				"type": "R"
+			},
+			"12122328": {
+				"name": "Borri Largsfind",
+				"prespp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"12122331": {
+				"blk": 3,
+				"cas": 2,
+				"name": "Fodrin Ranulfsson",
+				"prespp": 2,
+				"spp": 4,
+				"tur": 17,
+				"type": "R"
+			},
+			"12122332": {
+				"blk": 3,
+				"name": "Vragni Rorekfind",
+				"tur": 17,
+				"type": "R"
+			},
+			"12148101": {
+				"blk": 4,
+				"name": "Bjorni Bjornisson",
+				"rus": 6,
+				"tur": 15,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1041202",
 	"team_performance": {
 		"897291": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "Edge of the World Climbers",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"897379": {
 			"cas": 3,
 			"casdiff": 0,
+			"name": "~Karak Kadrin Slayers~",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

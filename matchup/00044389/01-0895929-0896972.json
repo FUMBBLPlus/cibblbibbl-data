@@ -1,19 +1,209 @@
 {
 	"!excluded": "no",
+	"matchId": "3961800",
+	"player_performance": {
+		"895929": {
+			"12098249": {
+				"blk": 3,
+				"name": "Fangsnapper",
+				"prespp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"12098256": {
+				"name": "Windfury",
+				"type": "R"
+			},
+			"12098257": {
+				"blk": 3,
+				"name": "Clawchest",
+				"prespp": 8,
+				"tur": 12,
+				"type": "R"
+			},
+			"12098258": {
+				"blk": 5,
+				"name": "Silverscar",
+				"prespp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"12098263": {
+				"blk": 9,
+				"mvp": 1,
+				"name": "Silverstriker",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"12098287": {
+				"blk": 3,
+				"cps": 1,
+				"name": "Amberfinger",
+				"prespp": 1,
+				"rus": 6,
+				"spp": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12098289": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Crowripper",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12098290": {
+				"blk": 1,
+				"name": "Heartchewer",
+				"tur": 2,
+				"type": "R"
+			},
+			"12098291": {
+				"blk": 2,
+				"died": [
+					1,
+					5,
+					"blocked",
+					"12117798"
+				],
+				"name": "Ironspine",
+				"tur": 5,
+				"type": "R"
+			},
+			"12098294": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Blackchewer",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12098296": {
+				"name": "Cragclaw",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12098297": {
+				"blk": 1,
+				"name": "Duskdigger",
+				"tur": 6,
+				"type": "R"
+			},
+			"12118111": {
+				"blk": 6,
+				"name": "Graham Hotlightning",
+				"tur": 17,
+				"type": "R"
+			}
+		},
+		"896972": {
+			"12117786": {
+				"blk": 5,
+				"name": "Gorbad Faceclompah",
+				"tur": 16,
+				"type": "R"
+			},
+			"12117787": {
+				"blk": 4,
+				"name": "Valanduil of House Meliane",
+				"tur": 8,
+				"type": "R"
+			},
+			"12117788": {
+				"blk": 7,
+				"name": "Poppy Merribuck",
+				"rus": 1,
+				"tur": 6,
+				"type": "R"
+			},
+			"12117789": {
+				"fou": 1,
+				"name": "Heinrich the Corpulent",
+				"tur": 2,
+				"type": "R"
+			},
+			"12117790": {
+				"blk": 3,
+				"name": "Balthasar the Youthful",
+				"tur": 15,
+				"type": "R"
+			},
+			"12117791": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Konrad the Enchanter",
+				"tur": 4,
+				"type": "R"
+			},
+			"12117792": {
+				"blk": 5,
+				"name": "Gottlieb Thälmann of Averland",
+				"tur": 16,
+				"type": "R"
+			},
+			"12117795": {
+				"blk": 5,
+				"name": "Ferrimora of the Waxing Moon",
+				"tur": 16,
+				"type": "R"
+			},
+			"12117796": {
+				"name": "The Drinker of Desire and Wishes",
+				"tur": 1,
+				"type": "R"
+			},
+			"12117798": {
+				"blk": 7,
+				"cas": 2,
+				"name": "Sammael the Meticulous",
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12117800": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Siluvaine, Traverser of the Celestial Promenade",
+				"rus": 9,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12117802": {
+				"blk": 3,
+				"name": "Urkrasour the Obedient",
+				"rus": 9,
+				"spp": 3,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1036532",
 	"team_performance": {
 		"895929": {
 			"cas": 2,
 			"casdiff": 0,
+			"name": "Fangsnapper's Clawpack",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"896972": {
 			"cas": 2,
 			"casdiff": 0,
+			"name": "Seekers of Transcendence",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

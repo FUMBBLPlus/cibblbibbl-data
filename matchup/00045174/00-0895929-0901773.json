@@ -1,19 +1,221 @@
 {
 	"!excluded": "no",
+	"matchId": "3996747",
+	"player_performance": {
+		"895929": {
+			"12098256": {
+				"blk": 7,
+				"name": "Windfury",
+				"prespp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"12098257": {
+				"blk": 9,
+				"cas": 3,
+				"name": "Clawchest",
+				"prespp": 31,
+				"spp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12098258": {
+				"blk": 4,
+				"name": "Silverscar",
+				"prespp": 14,
+				"tur": 16,
+				"type": "R"
+			},
+			"12098263": {
+				"blk": 8,
+				"name": "Silverstriker",
+				"prespp": 17,
+				"tur": 16,
+				"type": "R"
+			},
+			"12098289": {
+				"blk": 3,
+				"name": "Crowripper",
+				"prespp": 13,
+				"tur": 16,
+				"type": "R"
+			},
+			"12098294": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Blackchewer",
+				"prespp": 12,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12098297": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Duskdigger",
+				"prespp": 20,
+				"rus": 28,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12136367": {
+				"blk": 9,
+				"name": "Fangsnapper Jr",
+				"tur": 16,
+				"type": "R"
+			},
+			"12166472": {
+				"blk": 8,
+				"name": "Fangsnapper Jr Jr",
+				"tur": 16,
+				"type": "R"
+			},
+			"12184769": {
+				"blk": 3,
+				"name": "Barbedbreath",
+				"prespp": 14,
+				"rus": 23,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12265899": {
+				"blk": 2,
+				"name": "Dustbinder",
+				"tur": 12,
+				"type": "R"
+			},
+			"12295244": {
+				"name": "Broadreaper",
+				"type": "R"
+			},
+			"12295253": {
+				"name": "Heartbuster",
+				"tur": 4,
+				"type": "R"
+			}
+		},
+		"901773": {
+			"12188828": {
+				"blk": 1,
+				"died": [
+					2,
+					2,
+					"blocked",
+					"12098297"
+				],
+				"name": "Kheetch Darkscream",
+				"prespp": 48,
+				"rus": 23,
+				"spp": 3,
+				"tds": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"12188830": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Skritch Highbinder",
+				"prespp": 18,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12188831": {
+				"blk": 1,
+				"name": "Qixqokch Headtaker",
+				"prespp": 26,
+				"tur": 11,
+				"type": "R"
+			},
+			"12188832": {
+				"blk": 4,
+				"name": "Straxqenq Silentreaper",
+				"prespp": 6,
+				"tur": 15,
+				"type": "R"
+			},
+			"12188834": {
+				"blk": 3,
+				"name": "Eqal Broadseeker",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12188835": {
+				"name": "Qrokhuat Barbmaster",
+				"tur": 2,
+				"type": "R"
+			},
+			"12188837": {
+				"blk": 2,
+				"name": "Znuol Verminsnout",
+				"prespp": 9,
+				"tur": 8,
+				"type": "R"
+			},
+			"12216635": {
+				"name": "Rikek",
+				"prespp": 20,
+				"type": "B"
+			},
+			"12264961": {
+				"blk": 8,
+				"name": "Marcus Voladea",
+				"tur": 16,
+				"type": "R"
+			},
+			"12297221": {
+				"blk": 5,
+				"name": "William Clumsyshield",
+				"prespp": 4,
+				"tur": 15,
+				"type": "R"
+			},
+			"12325923": {
+				"blk": 2,
+				"name": "Leroy Clearbone",
+				"tur": 7,
+				"type": "R"
+			},
+			"12325924": {
+				"blk": 1,
+				"name": "Julius Strongsnake",
+				"tur": 14,
+				"type": "R"
+			},
+			"901773S1": {
+				"blk": 6,
+				"name": "Fezglitch",
+				"tur": 10,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1078114",
 	"team_performance": {
 		"895929": {
 			"cas": 4,
 			"casdiff": 4,
+			"name": "Fangsnapper's Clawpack",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"901773": {
 			"cas": 0,
 			"casdiff": -4,
+			"name": "Rikek Revenge",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

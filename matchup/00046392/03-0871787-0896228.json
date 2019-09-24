@@ -1,19 +1,241 @@
 {
 	"!excluded": "no",
+	"matchId": "4049860",
+	"player_performance": {
+		"871787": {
+			"11709008": {
+				"died": [
+					1,
+					4,
+					"blocked",
+					"896228S1"
+				],
+				"name": "Emyys Doceon",
+				"prespp": 8,
+				"tur": 4,
+				"type": "R"
+			},
+			"11709010": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Dando Enda",
+				"prespp": 16,
+				"tur": 16,
+				"type": "R"
+			},
+			"11709011": {
+				"blk": 5,
+				"name": "Raus Juit",
+				"prespp": 142,
+				"rus": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"11709013": {
+				"blk": 2,
+				"name": "Kael Desini",
+				"prespp": 38,
+				"tur": 16,
+				"type": "R"
+			},
+			"11709018": {
+				"blk": 6,
+				"name": "Font Eiridan",
+				"prespp": 57,
+				"tur": 16,
+				"type": "R"
+			},
+			"11747061": {
+				"blk": 5,
+				"name": "Gutterfingers",
+				"prespp": 43,
+				"tur": 16,
+				"type": "R"
+			},
+			"11814852": {
+				"blk": 7,
+				"name": "Pantheon Bane",
+				"prespp": 106,
+				"tur": 16,
+				"type": "R"
+			},
+			"12051832": {
+				"blk": 7,
+				"name": "Amon",
+				"prespp": 41,
+				"tur": 16,
+				"type": "B"
+			},
+			"12159733": {
+				"name": "Gert Stein",
+				"prespp": 6,
+				"tur": 3,
+				"type": "R"
+			},
+			"12423015": {
+				"blk": 9,
+				"name": "Harkon Halvarson",
+				"prespp": 16,
+				"tur": 16,
+				"type": "I"
+			},
+			"12467315": {
+				"blk": 1,
+				"name": "Garalash",
+				"prespp": 25,
+				"tur": 7,
+				"type": "R"
+			},
+			"12484122": {
+				"name": "Mat Laet",
+				"type": "R"
+			},
+			"12534057": {
+				"name": "Bau Lang",
+				"type": "R"
+			},
+			"12615329": {
+				"blk": 8,
+				"mvp": 1,
+				"name": "Arsady the Hung",
+				"prespp": 19,
+				"rus": 11,
+				"spp": 8,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12615340": {
+				"name": "Axeman",
+				"type": "R"
+			}
+		},
+		"896228": {
+			"12103149": {
+				"blk": 1,
+				"name": "Mortarion",
+				"prespp": 31,
+				"tur": 11,
+				"type": "B"
+			},
+			"12103152": {
+				"blk": 12,
+				"name": "Ku'Gath",
+				"prespp": 18,
+				"tur": 16,
+				"type": "R"
+			},
+			"12114193": {
+				"name": "Omphuross",
+				"prespp": 58,
+				"tur": 9,
+				"type": "R"
+			},
+			"12143379": {
+				"blk": 2,
+				"name": "Malarus",
+				"prespp": 50,
+				"rus": -1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12179689": {
+				"blk": 4,
+				"name": "Syphidemis",
+				"prespp": 66,
+				"tur": 16,
+				"type": "R"
+			},
+			"12325545": {
+				"blk": 4,
+				"name": "Halatoth",
+				"prespp": 19,
+				"tur": 16,
+				"type": "R"
+			},
+			"12407510": {
+				"blk": 12,
+				"name": "Kraarak",
+				"prespp": 19,
+				"tur": 16,
+				"type": "R"
+			},
+			"12448326": {
+				"blk": 1,
+				"name": "Gugarr",
+				"prespp": 6,
+				"rus": 16,
+				"tur": 10,
+				"type": "R"
+			},
+			"12465025": {
+				"fou": 1,
+				"mvp": 1,
+				"name": "Pligis",
+				"pas": -1,
+				"prespp": 3,
+				"rus": 5,
+				"spp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"12494315": {
+				"name": "Goulbar",
+				"type": "R"
+			},
+			"12503457": {
+				"fou": 1,
+				"name": "Vudiaz",
+				"tur": 1,
+				"type": "R"
+			},
+			"12512512": {
+				"blk": 1,
+				"name": "Makos",
+				"prespp": 8,
+				"tur": 3,
+				"type": "R"
+			},
+			"12533831": {
+				"name": "Gassious",
+				"prespp": 6,
+				"type": "R"
+			},
+			"12608838": {
+				"name": "Bloodscalp",
+				"type": "R"
+			},
+			"896228S1": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Schworg'n'Borg",
+				"spp": 2,
+				"tur": 12,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1138892",
 	"team_performance": {
 		"871787": {
 			"cas": 0,
 			"casdiff": -2,
+			"name": "Malignant Curators",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"896228": {
 			"cas": 2,
 			"casdiff": 2,
+			"name": "Gardeners of Nurgle",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

@@ -1,19 +1,260 @@
 {
 	"!excluded": "no",
+	"matchId": "4011973",
+	"player_performance": {
+		"905606": {
+			"12250181": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Thaskar the Patient",
+				"prespp": 11,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12250182": {
+				"blk": 9,
+				"cas": 2,
+				"name": "Laris the Architect",
+				"prespp": 19,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12250183": {
+				"fou": 1,
+				"name": "Khahos the Crimson",
+				"prespp": 10,
+				"type": "R"
+			},
+			"12250187": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Itom the Visionary",
+				"prespp": 4,
+				"tur": 13,
+				"type": "R"
+			},
+			"12250188": {
+				"blk": 2,
+				"name": "Machakh the Ancient",
+				"prespp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"12250189": {
+				"name": "Rophkihon the Prime",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12250191": {
+				"name": "Nestap the Brillant",
+				"tur": 8,
+				"type": "R"
+			},
+			"12250204": {
+				"blk": 1,
+				"name": "Syiksa the Infinite",
+				"prespp": 22,
+				"rus": 29,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12250205": {
+				"blk": 6,
+				"name": "Aexlor the Bulwark",
+				"prespp": 16,
+				"tur": 10,
+				"type": "B"
+			},
+			"12250207": {
+				"fou": 1,
+				"name": "Khokhakh the Honorable",
+				"tur": 8,
+				"type": "R"
+			},
+			"12250209": {
+				"name": "Erikheph the Watcher",
+				"tur": 8,
+				"type": "R"
+			},
+			"12250212": {
+				"blk": 2,
+				"name": "Kessas the White",
+				"prespp": 4,
+				"tur": 8,
+				"type": "R"
+			},
+			"12332893": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Ikkite the Idealist",
+				"prespp": 5,
+				"spp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"12359397": {
+				"blk": 1,
+				"fou": 2,
+				"name": "Ramsses the Vengeful",
+				"tur": 5,
+				"type": "R"
+			},
+			"12406485": {
+				"name": "Oyis The Conjurer",
+				"tur": 8,
+				"type": "R"
+			}
+		},
+		"907246": {
+			"12275140": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Longbark",
+				"prespp": 4,
+				"spp": 2,
+				"tur": 9,
+				"type": "B"
+			},
+			"12275141": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Greybranch",
+				"prespp": 7,
+				"spp": 5,
+				"tur": 16,
+				"type": "B"
+			},
+			"12275142": {
+				"name": "Joachim Pfeifenstopfer",
+				"prespp": 10,
+				"tur": 2,
+				"type": "R"
+			},
+			"12275143": {
+				"name": "Donnamiro Cuppins",
+				"prespp": 8,
+				"type": "R"
+			},
+			"12275144": {
+				"name": "Belba Merribuck",
+				"type": "R"
+			},
+			"12275145": {
+				"blk": 2,
+				"name": "Hamfast Ackerman",
+				"tur": 3,
+				"type": "R"
+			},
+			"12275146": {
+				"died": [
+					2,
+					4,
+					"dodgeFail",
+					null
+				],
+				"fou": 1,
+				"name": "Jeckl Pfandleiher",
+				"tur": 11,
+				"type": "R"
+			},
+			"12275147": {
+				"blk": 2,
+				"name": "Gerdrut Schwarzfussens",
+				"rus": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"12275148": {
+				"name": "Ottmar Kohlkopf",
+				"tur": 4,
+				"type": "R"
+			},
+			"12275149": {
+				"blk": 1,
+				"name": "Wolf Klemperer",
+				"prespp": 11,
+				"tur": 12,
+				"type": "R"
+			},
+			"12275151": {
+				"fou": 1,
+				"name": "Franz Sommernacht",
+				"prespp": 2,
+				"rus": -1,
+				"tur": 9,
+				"type": "R"
+			},
+			"12319720": {
+				"name": "Harald Nasenbrecher",
+				"pas": 1,
+				"rus": 4,
+				"tur": 10,
+				"type": "R"
+			},
+			"12319721": {
+				"died": [
+					1,
+					2,
+					"blocked",
+					"12250182"
+				],
+				"name": "Potrick Kleinman",
+				"prespp": 8,
+				"tur": 1,
+				"type": "R"
+			},
+			"12364714": {
+				"died": [
+					1,
+					1,
+					"blocked",
+					"12250182"
+				],
+				"name": "Grambo Tiefschlaeger",
+				"type": "R"
+			},
+			"907246S1": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Borg'th N'throg",
+				"spp": 2,
+				"tur": 16,
+				"type": "S"
+			},
+			"907246S2": {
+				"blk": 5,
+				"name": "Deeproot Strongbranch",
+				"tur": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1095592",
 	"team_performance": {
 		"905606": {
 			"cas": 3,
 			"casdiff": 1,
+			"name": "Serpent-Guards of Khalida",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"907246": {
 			"cas": 2,
 			"casdiff": -1,
+			"name": "Mootland Defenders",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

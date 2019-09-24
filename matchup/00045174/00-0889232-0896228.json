@@ -1,19 +1,234 @@
 {
 	"!excluded": "no",
+	"matchId": "3996308",
+	"player_performance": {
+		"889232": {
+			"11989951": {
+				"blk": 4,
+				"name": "Chthonic Pitchblende",
+				"prespp": 20,
+				"tur": 16,
+				"type": "R"
+			},
+			"11989952": {
+				"blk": 4,
+				"name": "Chthonic Cobaltite",
+				"prespp": 17,
+				"tur": 16,
+				"type": "R"
+			},
+			"11989953": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Chthonic Granite",
+				"prespp": 23,
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11989958": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Chthonic Gabbro",
+				"tur": 7,
+				"type": "R"
+			},
+			"11989967": {
+				"blk": 6,
+				"name": "Sylph Wisp",
+				"prespp": 36,
+				"rus": 12,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11989980": {
+				"blk": 6,
+				"name": "Chthonic Kaolinite",
+				"prespp": 19,
+				"tur": 16,
+				"type": "R"
+			},
+			"12003575": {
+				"name": "Sylph Haze",
+				"prespp": 31,
+				"rus": 8,
+				"tur": 8,
+				"type": "R"
+			},
+			"12031249": {
+				"blk": 5,
+				"name": "Magma Crab",
+				"prespp": 20,
+				"rus": 10,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12070122": {
+				"blk": 6,
+				"cas": 2,
+				"name": "Chthonic Slade",
+				"prespp": 33,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12112830": {
+				"name": "Chthonic Satinspar",
+				"prespp": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"12145447": {
+				"mvp": 1,
+				"name": "Magma Flow",
+				"prespp": 2,
+				"spp": 5,
+				"type": "R"
+			},
+			"12187033": {
+				"blk": 2,
+				"name": "Chthonic Cinnabar",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12254234": {
+				"blk": 3,
+				"name": "Naiad Kaiya",
+				"prespp": 5,
+				"tur": 10,
+				"type": "R"
+			},
+			"12279033": {
+				"name": "Naiad Tori",
+				"tur": 3,
+				"type": "R"
+			}
+		},
+		"896228": {
+			"12103149": {
+				"blk": 1,
+				"name": "Mortarion",
+				"prespp": 20,
+				"tur": 11,
+				"type": "B"
+			},
+			"12103152": {
+				"blk": 8,
+				"name": "Ku'Gath",
+				"prespp": 7,
+				"tur": 13,
+				"type": "R"
+			},
+			"12103185": {
+				"name": "Garalash",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12114193": {
+				"blk": 12,
+				"name": "Omphuross",
+				"prespp": 33,
+				"tur": 16,
+				"type": "R"
+			},
+			"12143379": {
+				"blk": 4,
+				"name": "Malarus",
+				"prespp": 21,
+				"rus": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12179689": {
+				"blk": 3,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Syphidemis",
+				"pas": -5,
+				"prespp": 25,
+				"rus": 9,
+				"spp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12225641": {
+				"blk": 11,
+				"name": "Mathor",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12235165": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Svotrax",
+				"prespp": 8,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12286455": {
+				"blk": 1,
+				"cps": 2,
+				"name": "Gugarr",
+				"pas": 4,
+				"rus": 4,
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"12286456": {
+				"died": [
+					1,
+					2,
+					"blocked",
+					"11989953"
+				],
+				"name": "Ulric Paletree",
+				"prespp": 7,
+				"tur": 2,
+				"type": "R"
+			},
+			"12321064": {
+				"died": [
+					1,
+					4,
+					"blocked",
+					"12070122"
+				],
+				"name": "Julius Trueshield",
+				"tur": 4,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1077613",
 	"team_performance": {
 		"889232": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Lost Golems of Grungni",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"896228": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Gardeners of Nurgle",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

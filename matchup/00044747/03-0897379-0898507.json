@@ -1,19 +1,225 @@
 {
 	"!excluded": "no",
+	"matchId": "3979964",
+	"player_performance": {
+		"897379": {
+			"12122311": {
+				"blk": 6,
+				"name": "Gotrek Gurnisson",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12122312": {
+				"blk": 9,
+				"name": "Snorri Nosebiter",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12122314": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Malakai Makaisson",
+				"prespp": 14,
+				"spp": 5,
+				"tur": 2,
+				"type": "R"
+			},
+			"12122318": {
+				"blk": 2,
+				"cps": 1,
+				"name": "Cpt. Long Drong",
+				"pas": -1,
+				"prespp": 12,
+				"rus": 14,
+				"spp": 4,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12122319": {
+				"blk": 2,
+				"cps": 1,
+				"name": "First Mate Morgrim Dallinsson",
+				"pas": 7,
+				"prespp": 27,
+				"rus": 22,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12122320": {
+				"blk": 1,
+				"name": "Finn Hargrimsson",
+				"tur": 10,
+				"type": "R"
+			},
+			"12122325": {
+				"blk": 4,
+				"name": "Yadri Budriksson",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12122326": {
+				"blk": 1,
+				"name": "Belegar Baliksnev",
+				"prespp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"12122328": {
+				"name": "Borri Largsfind",
+				"prespp": 7,
+				"tur": 2,
+				"type": "R"
+			},
+			"12122331": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Fodrin Ranulfsson",
+				"prespp": 6,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12122332": {
+				"fou": 1,
+				"name": "Vragni Rorekfind",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12148101": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Bjorni Bjornisson",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12182659": {
+				"blk": 10,
+				"name": "Rodi Balkisson",
+				"prespp": 15,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"898507": {
+			"12140161": {
+				"blk": 4,
+				"cas": 1,
+				"cps": 1,
+				"name": "Terror of Wurtbad",
+				"pas": 2,
+				"prespp": 17,
+				"rus": 9,
+				"spp": 6,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12140162": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Hanskarl Denk",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"12140169": {
+				"blk": 4,
+				"name": "Frederick van Hal",
+				"prespp": 11,
+				"tur": 15,
+				"type": "R"
+			},
+			"12140173": {
+				"blk": 7,
+				"name": "Artem",
+				"prespp": 3,
+				"tur": 17,
+				"type": "R"
+			},
+			"12140175": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Vigo",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12140180": {
+				"name": "Count Petr von Stolpe",
+				"prespp": 15,
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12140181": {
+				"blk": 1,
+				"name": "Carcass",
+				"prespp": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"12140182": {
+				"name": "Bloat",
+				"type": "R"
+			},
+			"12140183": {
+				"name": "Corpse",
+				"prespp": 2,
+				"tur": 2,
+				"type": "R"
+			},
+			"12140184": {
+				"name": "Rot",
+				"tur": 4,
+				"type": "R"
+			},
+			"12149573": {
+				"blk": 7,
+				"name": "Beast of Black-Run",
+				"prespp": 16,
+				"tur": 17,
+				"type": "R"
+			},
+			"12227552": {
+				"blk": 4,
+				"name": "Baronetess Odile von Stolpe",
+				"rus": 8,
+				"tur": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1057334",
 	"team_performance": {
 		"897379": {
 			"cas": 2,
 			"casdiff": 0,
+			"name": "~Karak Kadrin Slayers~",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"898507": {
 			"cas": 2,
 			"casdiff": 0,
+			"name": "Leicheberg Lycans",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

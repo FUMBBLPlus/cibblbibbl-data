@@ -1,19 +1,234 @@
 {
 	"!excluded": "no",
+	"matchId": "3919231",
+	"player_performance": {
+		"869156": {
+			"11667457": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Glicees",
+				"prespp": 37,
+				"rus": 23,
+				"spp": 8,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11667458": {
+				"blk": 8,
+				"name": "Xahr",
+				"prespp": 17,
+				"tur": 16,
+				"type": "R"
+			},
+			"11667459": {
+				"blk": 10,
+				"cas": 3,
+				"mvp": 1,
+				"name": "Keeth",
+				"prespp": 15,
+				"spp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"11667462": {
+				"name": "Rozatar",
+				"prespp": 27,
+				"type": "R"
+			},
+			"11667465": {
+				"blk": 2,
+				"name": "Mebas",
+				"prespp": 17,
+				"rus": 18,
+				"tur": 14,
+				"type": "R"
+			},
+			"11667467": {
+				"blk": 1,
+				"name": "Hralis",
+				"prespp": 11,
+				"tur": 5,
+				"type": "R"
+			},
+			"11667468": {
+				"fou": 1,
+				"name": "Nal",
+				"prespp": 7,
+				"tur": 9,
+				"type": "R"
+			},
+			"11667471": {
+				"fou": 3,
+				"name": "Acurag",
+				"prespp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11744463": {
+				"blk": 4,
+				"name": "Troln",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756250": {
+				"blk": 1,
+				"name": "Yelnats",
+				"tur": 16,
+				"type": "R"
+			},
+			"11781773": {
+				"blk": 2,
+				"name": "Quari",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11781774": {
+				"name": "Beebz",
+				"tur": 8,
+				"type": "R"
+			},
+			"11851751": {
+				"name": "Axperti",
+				"tur": 1,
+				"type": "R"
+			},
+			"11851754": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Zorq",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"874602": {
+			"11759478": {
+				"blk": 3,
+				"name": "Soso",
+				"prespp": 25,
+				"tur": 16,
+				"type": "B"
+			},
+			"11759479": {
+				"died": [
+					1,
+					7,
+					"secretWeaponBan",
+					null
+				],
+				"fou": 1,
+				"name": "Grot of Steel",
+				"prespp": 5,
+				"tur": 1,
+				"type": "R"
+			},
+			"11759483": {
+				"name": "Sporfungus",
+				"type": "R"
+			},
+			"11759484": {
+				"name": "Freegob",
+				"prespp": 6,
+				"tur": 6,
+				"type": "R"
+			},
+			"11759486": {
+				"name": "Oliver Gobwell",
+				"prespp": 8,
+				"rus": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11759487": {
+				"blk": 1,
+				"name": "Gobespierre",
+				"tur": 9,
+				"type": "R"
+			},
+			"11759492": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Goblington",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 12,
+				"type": "R"
+			},
+			"11759493": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Goblivar",
+				"tur": 3,
+				"type": "R"
+			},
+			"11759494": {
+				"blk": 4,
+				"name": "Gobseppe",
+				"prespp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11759495": {
+				"name": "Gobbibaldi",
+				"tur": 4,
+				"type": "R"
+			},
+			"11759497": {
+				"name": "Che Gobvara",
+				"tur": 2,
+				"type": "R"
+			},
+			"11773725": {
+				"name": "Bomma Meinhof",
+				"pas": 1,
+				"rus": 5,
+				"tur": 2,
+				"type": "R"
+			},
+			"11834404": {
+				"blk": 4,
+				"name": "Gobiliano Fanata",
+				"prespp": 10,
+				"tur": 5,
+				"type": "R"
+			},
+			"11874602": {
+				"blk": 3,
+				"name": "Uli",
+				"tur": 16,
+				"type": "B"
+			},
+			"874602S1": {
+				"blk": 11,
+				"name": "Ripper",
+				"tur": 13,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "987335",
 	"team_performance": {
 		"869156": {
 			"cas": 4,
 			"casdiff": 4,
+			"name": "Talsyn Tramplers",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"874602": {
 			"cas": 0,
 			"casdiff": -4,
+			"name": "Goblin Revolushunary Kommittee",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

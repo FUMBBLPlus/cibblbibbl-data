@@ -1,19 +1,205 @@
 {
 	"!excluded": "no",
+	"matchId": "4046174",
+	"player_performance": {
+		"926053": {
+			"12570037": {
+				"blk": 9,
+				"name": "Huitzilopochtli Harbinger of War",
+				"prespp": 9,
+				"tur": 11,
+				"type": "B"
+			},
+			"12570096": {
+				"blk": 5,
+				"name": "Tezcatlipoca the Black",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12570097": {
+				"blk": 5,
+				"name": "Xipe-Totec the Reborn",
+				"prespp": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"12570098": {
+				"blk": 8,
+				"cas": 2,
+				"name": "Quetzalcoatl the White",
+				"prespp": 2,
+				"spp": 4,
+				"tur": 13,
+				"type": "R"
+			},
+			"12570099": {
+				"blk": 6,
+				"name": "Tepeyollotl Breaker of Mountains",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12570100": {
+				"blk": 5,
+				"name": "Tlaloc Bringer of Thunder",
+				"tur": 16,
+				"type": "R"
+			},
+			"12570103": {
+				"blk": 6,
+				"cas": 1,
+				"int": 1,
+				"mvp": 1,
+				"name": "Nesoxochi Queen of Darkness",
+				"spp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12570104": {
+				"name": "Ometeotl the One with the Two Faces",
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12570105": {
+				"name": "Mixcoatl the Hunter",
+				"prespp": 3,
+				"tur": 9,
+				"type": "R"
+			},
+			"12570106": {
+				"fou": 1,
+				"name": "Tecciztecatl Master of the Moon",
+				"tur": 4,
+				"type": "R"
+			},
+			"12570109": {
+				"blk": 1,
+				"name": "Omacatl Master of Laughter",
+				"prespp": 4,
+				"rus": 21,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"926717": {
+			"12580801": {
+				"blk": 8,
+				"name": "Sister Annakonda",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12580802": {
+				"blk": 4,
+				"name": "Sister Vyper",
+				"prespp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"12580803": {
+				"blk": 3,
+				"name": "Sister Tygress",
+				"tur": 11,
+				"type": "R"
+			},
+			"12580804": {
+				"blk": 2,
+				"name": "Sister Jaguarella",
+				"tur": 5,
+				"type": "R"
+			},
+			"12580809": {
+				"blk": 1,
+				"name": "Ellyfant",
+				"tur": 7,
+				"type": "R"
+			},
+			"12580818": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Krokodyle",
+				"tur": 16,
+				"type": "R"
+			},
+			"12580820": {
+				"blk": 3,
+				"name": "Panthra",
+				"tur": 12,
+				"type": "R"
+			},
+			"12580822": {
+				"blk": 2,
+				"name": "Spydrella",
+				"tur": 15,
+				"type": "R"
+			},
+			"12580823": {
+				"name": "Eelie",
+				"type": "R"
+			},
+			"12580824": {
+				"blk": 3,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Frawg",
+				"pas": 2,
+				"rus": 7,
+				"spp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12580825": {
+				"blk": 1,
+				"name": "Pyrranha",
+				"prespp": 3,
+				"rus": 12,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"12580826": {
+				"fou": 1,
+				"name": "Grylla",
+				"tur": 1,
+				"type": "R"
+			},
+			"12593814": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Rattlsnayk",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1134729",
 	"team_performance": {
 		"926053": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Servants of Sacrifice",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"926717": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Handmaids of the Gods",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

@@ -1,19 +1,224 @@
 {
 	"!excluded": "no",
+	"matchId": "3938994",
+	"player_performance": {
+		"876711": {
+			"11790127": {
+				"name": "Nettala",
+				"prespp": 7,
+				"type": "R"
+			},
+			"11790128": {
+				"blk": 11,
+				"name": "Geranara",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11790129": {
+				"blk": 12,
+				"cas": 2,
+				"name": "Hellobora",
+				"prespp": 12,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11790130": {
+				"blk": 3,
+				"name": "Decumaria",
+				"prespp": 23,
+				"rus": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"11790133": {
+				"blk": 3,
+				"name": "Mahoganaea",
+				"tur": 8,
+				"type": "R"
+			},
+			"11790136": {
+				"blk": 2,
+				"name": "Anisatum",
+				"prespp": 2,
+				"rus": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11790138": {
+				"blk": 3,
+				"name": "Telodice",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11942326": {
+				"blk": 7,
+				"mvp": 1,
+				"name": "Ilex",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11970988": {
+				"blk": 7,
+				"name": "Willos",
+				"prespp": 5,
+				"tur": 9,
+				"type": "R"
+			},
+			"11995587": {
+				"blk": 2,
+				"fou": 1,
+				"name": "William Dirtyhammer",
+				"tur": 3,
+				"type": "R"
+			},
+			"11995588": {
+				"name": "Aaron Hardfire",
+				"tur": 1,
+				"type": "R"
+			},
+			"11995589": {
+				"blk": 1,
+				"name": "Brian Darkhammer",
+				"tur": 12,
+				"type": "R"
+			}
+		},
+		"884107": {
+			"11908765": {
+				"blk": 3,
+				"name": "Reiner Schüttler",
+				"prespp": 16,
+				"rus": 35,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11908766": {
+				"blk": 4,
+				"name": "Klaus Kottel",
+				"prespp": 17,
+				"rus": 11,
+				"spp": 3,
+				"tds": 1,
+				"tur": 6,
+				"type": "R"
+			},
+			"11908767": {
+				"blk": 2,
+				"died": [
+					1,
+					4,
+					"gfiFail",
+					null
+				],
+				"name": "Olivia Walton",
+				"prespp": 8,
+				"tur": 3,
+				"type": "R"
+			},
+			"11908769": {
+				"name": "Erich Mielke",
+				"tur": 3,
+				"type": "R"
+			},
+			"11908770": {
+				"blk": 2,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Erika Berger",
+				"spp": 7,
+				"tur": 13,
+				"type": "R"
+			},
+			"11908772": {
+				"name": "Trude Unruh",
+				"tur": 6,
+				"type": "R"
+			},
+			"11908773": {
+				"blk": 2,
+				"name": "Uta Nimtz",
+				"tur": 16,
+				"type": "R"
+			},
+			"11908774": {
+				"blk": 7,
+				"name": "Knut Flöter",
+				"tur": 16,
+				"type": "R"
+			},
+			"11908775": {
+				"blk": 1,
+				"name": "Jürgen Marcus",
+				"prespp": 4,
+				"tur": 5,
+				"type": "R"
+			},
+			"11908776": {
+				"blk": 1,
+				"name": "Christian Goebel",
+				"tur": 9,
+				"type": "R"
+			},
+			"11908777": {
+				"name": "Jörg Heinrich",
+				"tur": 7,
+				"type": "R"
+			},
+			"11908786": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Max Stirner",
+				"spp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11942022": {
+				"blk": 2,
+				"name": "Helmut Kohl",
+				"prespp": 2,
+				"tur": 6,
+				"type": "R"
+			},
+			"11956204": {
+				"name": "Horst Genscher",
+				"tur": 16,
+				"type": "R"
+			},
+			"11967900": {
+				"name": "Heiko Härlich",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1010471",
 	"team_performance": {
 		"876711": {
 			"cas": 2,
 			"casdiff": 0,
+			"name": "Cythral Old Oaks",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		},
 		"884107": {
 			"cas": 2,
 			"casdiff": 0,
+			"name": "Kastratenkantate Sylvania",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		}
 	}
 }

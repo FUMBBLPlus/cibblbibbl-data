@@ -1,19 +1,219 @@
 {
 	"!excluded": "no",
+	"matchId": "4044034",
+	"player_performance": {
+		"926053": {
+			"12570037": {
+				"blk": 8,
+				"cas": 2,
+				"name": "Huitzilopochtli Harbinger of War",
+				"prespp": 5,
+				"spp": 4,
+				"tur": 16,
+				"type": "B"
+			},
+			"12570096": {
+				"blk": 6,
+				"name": "Tezcatlipoca the Black",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12570097": {
+				"blk": 8,
+				"mvp": 1,
+				"name": "Xipe-Totec the Reborn",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"12570098": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Quetzalcoatl the White",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12570099": {
+				"blk": 8,
+				"name": "Tepeyollotl Breaker of Mountains",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12570100": {
+				"blk": 7,
+				"name": "Tlaloc Bringer of Thunder",
+				"tur": 16,
+				"type": "R"
+			},
+			"12570103": {
+				"blk": 4,
+				"name": "Nesoxochi Queen of Darkness",
+				"tur": 11,
+				"type": "R"
+			},
+			"12570104": {
+				"blk": 1,
+				"name": "Ometeotl the One with the Two Faces",
+				"tur": 11,
+				"type": "R"
+			},
+			"12570105": {
+				"name": "Mixcoatl the Hunter",
+				"prespp": 3,
+				"rus": 12,
+				"tur": 7,
+				"type": "R"
+			},
+			"12570106": {
+				"name": "Tecciztecatl Master of the Moon",
+				"type": "R"
+			},
+			"12570109": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Omacatl Master of Laughter",
+				"pas": -1,
+				"rus": 11,
+				"spp": 4,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12581856": {
+				"blk": 2,
+				"name": "Julius Vilewing",
+				"rus": 6,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"926596": {
+			"12578806": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Zulgeteb",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 14,
+				"type": "B"
+			},
+			"12578807": {
+				"blk": 5,
+				"name": "Krilk The Black",
+				"prespp": 7,
+				"rus": 14,
+				"tur": 15,
+				"type": "R"
+			},
+			"12578808": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Crashrin Shadowblade",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12578809": {
+				"blk": 2,
+				"cps": 1,
+				"died": [
+					2,
+					7,
+					"dodgeFail",
+					null
+				],
+				"name": "Xenkin Poisonbreath",
+				"pas": 3,
+				"prespp": 5,
+				"rus": 3,
+				"spp": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"12578810": {
+				"blk": 1,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Crilk One Oye",
+				"pas": 4,
+				"rus": 9,
+				"spp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12578811": {
+				"blk": 3,
+				"name": "Skruolk",
+				"prespp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"12578812": {
+				"name": "Vinkrolk",
+				"prespp": 8,
+				"tur": 2,
+				"type": "R"
+			},
+			"12578813": {
+				"name": "Gnam",
+				"tur": 16,
+				"type": "R"
+			},
+			"12578814": {
+				"name": "Krenksuc",
+				"tur": 2,
+				"type": "R"
+			},
+			"12578815": {
+				"name": "Ghogdri",
+				"type": "R"
+			},
+			"12578816": {
+				"name": "Tinksaz",
+				"tur": 1,
+				"type": "R"
+			},
+			"12578817": {
+				"name": "Skrisk",
+				"prespp": 3,
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"12587461": {
+				"name": "Jeegink",
+				"tur": 2,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1132310",
 	"team_performance": {
 		"926053": {
 			"cas": 3,
 			"casdiff": 1,
+			"name": "Servants of Sacrifice",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		},
 		"926596": {
 			"cas": 2,
 			"casdiff": -1,
+			"name": "Branded and Exiled",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		}
 	}
 }

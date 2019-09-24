@@ -1,19 +1,203 @@
 {
 	"!excluded": "no",
+	"matchId": "3929400",
+	"player_performance": {
+		"883051": {
+			"11892405": {
+				"blk": 4,
+				"name": "\"Featherweight\" Gunnar",
+				"prespp": 8,
+				"rus": 19,
+				"spp": 9,
+				"tds": 3,
+				"tur": 17,
+				"type": "R"
+			},
+			"11892407": {
+				"blk": 6,
+				"name": "Hagen Halvarson",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11892408": {
+				"blk": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Harkon Halvarson",
+				"spp": 7,
+				"tur": 10,
+				"type": "R"
+			},
+			"11892413": {
+				"blk": 5,
+				"name": "Asmund the Pious",
+				"tur": 17,
+				"type": "R"
+			},
+			"11892414": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Bjorn of the Hammer",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11892420": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Crosby the Stout",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11892424": {
+				"blk": 6,
+				"fou": 1,
+				"name": "Dag of The Mire",
+				"tur": 17,
+				"type": "R"
+			},
+			"11892427": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Erland the Wayfarer",
+				"tur": 17,
+				"type": "R"
+			},
+			"11892428": {
+				"blk": 3,
+				"name": "Folke Ninth-Son",
+				"pas": 1,
+				"rus": 12,
+				"tur": 17,
+				"type": "R"
+			},
+			"11892429": {
+				"name": "Geir the Fisherman",
+				"type": "R"
+			},
+			"11892430": {
+				"blk": 4,
+				"cas": 2,
+				"fou": 1,
+				"name": "Halvor the Rock",
+				"spp": 4,
+				"tur": 17,
+				"type": "R"
+			},
+			"11938582": {
+				"blk": 4,
+				"name": "Sylvester Grottyshield",
+				"tur": 17,
+				"type": "R"
+			}
+		},
+		"883064": {
+			"11892679": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Igor",
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11892680": {
+				"blk": 3,
+				"name": "Ivan",
+				"prespp": 7,
+				"rus": 12,
+				"tur": 16,
+				"type": "R"
+			},
+			"11892684": {
+				"blk": 2,
+				"cps": 1,
+				"name": "Valdimir",
+				"pas": 1,
+				"prespp": 4,
+				"rus": 6,
+				"spp": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"11892685": {
+				"blk": 1,
+				"name": "Ursula the Bear",
+				"tur": 1,
+				"type": "R"
+			},
+			"11892687": {
+				"name": "Grigory",
+				"prespp": 7,
+				"type": "R"
+			},
+			"11892688": {
+				"blk": 4,
+				"name": "Dmitri",
+				"tur": 16,
+				"type": "R"
+			},
+			"11893901": {
+				"blk": 3,
+				"name": "Anton",
+				"tur": 14,
+				"type": "R"
+			},
+			"11893902": {
+				"fou": 1,
+				"name": "Maxim",
+				"prespp": 2,
+				"tur": 3,
+				"type": "R"
+			},
+			"11893904": {
+				"blk": 4,
+				"name": "Boris",
+				"tur": 11,
+				"type": "R"
+			},
+			"11936536": {
+				"blk": 3,
+				"name": "Robert Cleareagle",
+				"tur": 13,
+				"type": "R"
+			},
+			"11936537": {
+				"blk": 3,
+				"name": "Albert Darkwing",
+				"tur": 14,
+				"type": "R"
+			},
+			"11936538": {
+				"blk": 1,
+				"name": "Graham Fastlightning",
+				"tur": 15,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "999101",
 	"team_performance": {
 		"883051": {
 			"cas": 4,
 			"casdiff": 4,
+			"name": "Vostok Iron Head ",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		},
 		"883064": {
 			"cas": 0,
 			"casdiff": -4,
+			"name": "Kislev's Gryphon Legion",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		}
 	}
 }

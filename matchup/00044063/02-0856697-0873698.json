@@ -1,19 +1,229 @@
 {
 	"!excluded": "no",
+	"matchId": "3950737",
+	"player_performance": {
+		"856697": {
+			"11472246": {
+				"blk": 8,
+				"cas": 2,
+				"name": "Skulltaker",
+				"prespp": 34,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11472250": {
+				"blk": 2,
+				"name": "Arkh'gar",
+				"prespp": 47,
+				"tur": 5,
+				"type": "R"
+			},
+			"11472254": {
+				"blk": 2,
+				"fou": 2,
+				"mvp": 1,
+				"name": "Tallomin",
+				"prespp": 11,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11472255": {
+				"blk": 2,
+				"name": "Arvax the Mad",
+				"prespp": 44,
+				"rus": 14,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11472256": {
+				"blk": 1,
+				"name": "Scyrak",
+				"prespp": 10,
+				"tur": 10,
+				"type": "R"
+			},
+			"11472262": {
+				"blk": 1,
+				"name": "Headsman of Cellebos",
+				"prespp": 26,
+				"tur": 16,
+				"type": "R"
+			},
+			"11472270": {
+				"blk": 2,
+				"name": "Drakkar",
+				"prespp": 48,
+				"rus": 23,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11658789": {
+				"name": "H'Stan",
+				"prespp": 12,
+				"tur": 15,
+				"type": "R"
+			},
+			"11730736": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Doomsday The Everliving",
+				"prespp": 38,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11809828": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Apocolypse",
+				"prespp": 15,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11905351": {
+				"name": "Stiltskin",
+				"type": "R"
+			},
+			"11971992": {
+				"died": [
+					1,
+					4,
+					"blocked",
+					"12060850"
+				],
+				"name": "Grinner",
+				"tur": 3,
+				"type": "R"
+			},
+			"12029068": {
+				"blk": 3,
+				"name": "Doom of Pajaro",
+				"prespp": 5,
+				"tur": 5,
+				"type": "R"
+			},
+			"12029069": {
+				"blk": 2,
+				"fou": 1,
+				"name": "K'Han",
+				"tur": 10,
+				"type": "R"
+			}
+		},
+		"873698": {
+			"11743258": {
+				"blk": 7,
+				"name": "MIstress of Lust",
+				"prespp": 62,
+				"rus": 15,
+				"tur": 15,
+				"type": "R"
+			},
+			"11743260": {
+				"blk": 7,
+				"name": "Kazgar Threelegs",
+				"prespp": 36,
+				"tur": 11,
+				"type": "R"
+			},
+			"11743263": {
+				"blk": 3,
+				"name": "Lecec Chickstalker",
+				"prespp": 31,
+				"tur": 15,
+				"type": "R"
+			},
+			"11743266": {
+				"fou": 1,
+				"name": "Thirvelnosh Nightbinder",
+				"prespp": 12,
+				"tur": 13,
+				"type": "R"
+			},
+			"11743268": {
+				"name": "Thovho Shadowseeker",
+				"prespp": 22,
+				"type": "R"
+			},
+			"11904392": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Misstress of Pain",
+				"prespp": 22,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11967644": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Mokzook Thicktail",
+				"prespp": 8,
+				"spp": 5,
+				"tur": 10,
+				"type": "R"
+			},
+			"12031704": {
+				"blk": 1,
+				"name": "Mistress of Pleasure",
+				"prespp": 11,
+				"tur": 5,
+				"type": "R"
+			},
+			"12060846": {
+				"blk": 3,
+				"name": "Mistress of Agony",
+				"tur": 6,
+				"type": "R"
+			},
+			"12060848": {
+				"name": "George Dirtystone",
+				"tur": 11,
+				"type": "R"
+			},
+			"12060849": {
+				"name": "Vincent Bluesnake",
+				"tur": 1,
+				"type": "R"
+			},
+			"12060850": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Julius Hotbrook",
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1023957",
 	"team_performance": {
 		"856697": {
 			"cas": 4,
 			"casdiff": 2,
+			"name": "Crimson Skull",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"873698": {
 			"cas": 2,
 			"casdiff": -2,
+			"name": "Pleasure Strings",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

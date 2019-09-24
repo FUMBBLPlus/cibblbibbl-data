@@ -1,19 +1,208 @@
 {
 	"!excluded": "no",
+	"matchId": "3902221",
+	"player_performance": {
+		"872044": {
+			"11713837": {
+				"blk": 13,
+				"cas": 1,
+				"cps": 1,
+				"name": "Carol I",
+				"pas": 1,
+				"prespp": 23,
+				"rus": 4,
+				"spp": 3,
+				"tur": 17,
+				"type": "R"
+			},
+			"11713838": {
+				"blk": 9,
+				"name": "Ferdinand I",
+				"prespp": 22,
+				"tur": 15,
+				"type": "R"
+			},
+			"11713840": {
+				"name": "Burggraf of Nuremberg",
+				"tur": 9,
+				"type": "R"
+			},
+			"11713841": {
+				"blk": 1,
+				"name": "Reichsgraf of Hohenzollern",
+				"prespp": 22,
+				"tur": 17,
+				"type": "R"
+			},
+			"11713845": {
+				"blk": 5,
+				"name": "Constantin",
+				"tur": 11,
+				"type": "R"
+			},
+			"11713846": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Dragonmir",
+				"tur": 17,
+				"type": "R"
+			},
+			"11713847": {
+				"fou": 1,
+				"name": "Grigore",
+				"tur": 2,
+				"type": "R"
+			},
+			"11734005": {
+				"mvp": 1,
+				"name": "Anna Jagiellon",
+				"prespp": 11,
+				"rus": 31,
+				"spp": 11,
+				"tds": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11756292": {
+				"blk": 2,
+				"name": "Maria Christina",
+				"tur": 10,
+				"type": "R"
+			},
+			"11787325": {
+				"blk": 1,
+				"name": "Zsuzsanna Lorántffy",
+				"tur": 16,
+				"type": "R"
+			},
+			"11790833": {
+				"blk": 3,
+				"name": "Sylvester Clumsysnake",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"874452": {
+			"11756581": {
+				"blk": 7,
+				"mvp": 1,
+				"name": "Gregor Gregorivich",
+				"prespp": 7,
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"11756582": {
+				"blk": 8,
+				"name": "Draco Dracovich",
+				"prespp": 8,
+				"tur": 12,
+				"type": "R"
+			},
+			"11756629": {
+				"blk": 8,
+				"name": "Igor Igorivich",
+				"prespp": 8,
+				"rus": 4,
+				"tur": 17,
+				"type": "R"
+			},
+			"11756687": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Karl",
+				"tur": 17,
+				"type": "R"
+			},
+			"11756689": {
+				"blk": 5,
+				"name": "Franz",
+				"tur": 17,
+				"type": "R"
+			},
+			"11756707": {
+				"blk": 3,
+				"name": "Stefan",
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"11756708": {
+				"blk": 1,
+				"cps": 2,
+				"name": "Sigwald",
+				"pas": 4,
+				"prespp": 1,
+				"rus": 7,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11756715": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Henrich von Blotenburg",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"11756720": {
+				"blk": 8,
+				"name": "Gustav von Darkwald",
+				"prespp": 4,
+				"tur": 17,
+				"type": "R"
+			},
+			"11756722": {
+				"blk": 4,
+				"name": "Otto",
+				"rus": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756723": {
+				"blk": 1,
+				"name": "Giselle",
+				"pas": 1,
+				"rus": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"11756725": {
+				"name": "Rupert",
+				"tur": 2,
+				"type": "R"
+			},
+			"11775815": {
+				"name": "Gunter",
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "967810",
 	"team_performance": {
 		"872044": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Strigos Elită",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"874452": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Way of the Dragon",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

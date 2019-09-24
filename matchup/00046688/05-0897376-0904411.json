@@ -1,19 +1,235 @@
 {
 	"!excluded": "no",
+	"matchId": "4069863",
+	"player_performance": {
+		"897376": {
+			"12122272": {
+				"blk": 10,
+				"name": "Dark Shade",
+				"prespp": 60,
+				"tur": 16,
+				"type": "R"
+			},
+			"12122273": {
+				"blk": 7,
+				"name": "Deep Root",
+				"prespp": 38,
+				"tur": 16,
+				"type": "R"
+			},
+			"12122274": {
+				"blk": 6,
+				"name": "Long Branch",
+				"prespp": 35,
+				"tur": 16,
+				"type": "R"
+			},
+			"12122276": {
+				"blk": 1,
+				"name": "White Leaf",
+				"prespp": 37,
+				"rus": 14,
+				"spp": 3,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"12122280": {
+				"name": "Lichen",
+				"prespp": 16,
+				"type": "R"
+			},
+			"12168335": {
+				"blk": 5,
+				"name": "Gray Timber",
+				"prespp": 39,
+				"rus": 14,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12171988": {
+				"blk": 6,
+				"name": "Nut",
+				"prespp": 21,
+				"tur": 16,
+				"type": "R"
+			},
+			"12497695": {
+				"blk": 4,
+				"name": "Ivy",
+				"prespp": 15,
+				"tur": 16,
+				"type": "R"
+			},
+			"12501405": {
+				"fou": 1,
+				"name": "Fruit",
+				"prespp": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"12515971": {
+				"name": "Vine",
+				"prespp": 3,
+				"type": "R"
+			},
+			"12529934": {
+				"blk": 2,
+				"name": "Fungus",
+				"tur": 16,
+				"type": "R"
+			},
+			"12529938": {
+				"mvp": 1,
+				"name": "Slip Stream",
+				"prespp": 1,
+				"spp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"12559341": {
+				"blk": 10,
+				"name": "Hollow",
+				"prespp": 12,
+				"tur": 16,
+				"type": "R"
+			},
+			"12580870": {
+				"name": "Shoot",
+				"type": "R"
+			},
+			"12710019": {
+				"blk": 1,
+				"name": "Crooked Creek",
+				"tur": 8,
+				"type": "R"
+			}
+		},
+		"904411": {
+			"12231968": {
+				"blk": 11,
+				"cas": 1,
+				"name": "\"Smiles\" Arwyn",
+				"prespp": 52,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12231970": {
+				"blk": 3,
+				"name": "Madoc Gallows-Grin",
+				"prespp": 32,
+				"tur": 17,
+				"type": "R"
+			},
+			"12231971": {
+				"name": "Owain ap Bran",
+				"prespp": 58,
+				"type": "R"
+			},
+			"12231974": {
+				"blk": 4,
+				"name": "Prydwen ap Blaidd",
+				"prespp": 49,
+				"rus": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"12231978": {
+				"blk": 2,
+				"name": "Llewelyn Grey-Eyes",
+				"prespp": 34,
+				"tur": 17,
+				"type": "R"
+			},
+			"12231981": {
+				"blk": 6,
+				"name": "Meredith",
+				"prespp": 9,
+				"tur": 13,
+				"type": "R"
+			},
+			"12259937": {
+				"blk": 10,
+				"name": "Graham the Brave",
+				"prespp": 40,
+				"tur": 17,
+				"type": "R"
+			},
+			"12261545": {
+				"blk": 4,
+				"name": "Morcanth the Melancholy",
+				"prespp": 40,
+				"rus": 9,
+				"tur": 9,
+				"type": "R"
+			},
+			"12438765": {
+				"blk": 3,
+				"name": "Caerwyn",
+				"prespp": 8,
+				"tur": 10,
+				"type": "R"
+			},
+			"12438788": {
+				"blk": 2,
+				"name": "Glynn",
+				"prespp": 14,
+				"tur": 9,
+				"type": "R"
+			},
+			"12522725": {
+				"blk": 7,
+				"mvp": 1,
+				"name": "Evan the Heartbreaker",
+				"prespp": 28,
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"12587195": {
+				"blk": 1,
+				"name": "Aeron",
+				"tur": 9,
+				"type": "R"
+			},
+			"12610016": {
+				"blk": 5,
+				"name": "\"Black Dog\" Bleddyn",
+				"prespp": 11,
+				"tur": 12,
+				"type": "R"
+			},
+			"12663114": {
+				"name": "Dylan",
+				"tur": 8,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1161444",
 	"team_performance": {
 		"897376": {
 			"cas": 0,
 			"casdiff": -1,
+			"name": "Darkenwood Sentinels",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"904411": {
 			"cas": 1,
 			"casdiff": 1,
+			"name": "Ynys Morion Mabsantwyr",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

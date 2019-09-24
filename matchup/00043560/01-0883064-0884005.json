@@ -1,19 +1,200 @@
 {
 	"!excluded": "no",
+	"matchId": "3924848",
+	"player_performance": {
+		"883064": {
+			"11892679": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Igor",
+				"tur": 11,
+				"type": "R"
+			},
+			"11892680": {
+				"blk": 1,
+				"name": "Ivan",
+				"rus": 8,
+				"tur": 9,
+				"type": "R"
+			},
+			"11892684": {
+				"blk": 2,
+				"cas": 1,
+				"cps": 2,
+				"name": "Valdimir",
+				"pas": 12,
+				"rus": 8,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11892685": {
+				"name": "Ursula the Bear",
+				"tur": 3,
+				"type": "R"
+			},
+			"11892687": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Grigory",
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11892688": {
+				"blk": 3,
+				"name": "Dmitri",
+				"pas": 1,
+				"rus": -3,
+				"tur": 16,
+				"type": "R"
+			},
+			"11892689": {
+				"blk": 2,
+				"name": "Yuriy",
+				"tur": 10,
+				"type": "R"
+			},
+			"11893901": {
+				"blk": 5,
+				"fou": 1,
+				"name": "Anton",
+				"tur": 16,
+				"type": "R"
+			},
+			"11893902": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Maxim",
+				"spp": 2,
+				"tur": 6,
+				"type": "R"
+			},
+			"11893903": {
+				"died": [
+					1,
+					1,
+					"fouled",
+					"11907321"
+				],
+				"name": "Sasha",
+				"type": "R"
+			},
+			"11893904": {
+				"blk": 5,
+				"name": "Boris",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"884005": {
+			"11907306": {
+				"blk": 4,
+				"name": "Salgadrum",
+				"tur": 16,
+				"type": "R"
+			},
+			"11907308": {
+				"blk": 5,
+				"name": "Goshek",
+				"tur": 16,
+				"type": "R"
+			},
+			"11907309": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Tralug",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11907311": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Voltar",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11907312": {
+				"blk": 6,
+				"name": "Naemak",
+				"tur": 16,
+				"type": "R"
+			},
+			"11907314": {
+				"blk": 7,
+				"name": "Gishka",
+				"tur": 16,
+				"type": "R"
+			},
+			"11907315": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Irmir",
+				"rus": 20,
+				"spp": 8,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11907316": {
+				"name": "Neko",
+				"tur": 14,
+				"type": "R"
+			},
+			"11907319": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Juki",
+				"tur": 3,
+				"type": "R"
+			},
+			"11907320": {
+				"name": "Slena",
+				"tur": 3,
+				"type": "R"
+			},
+			"11907321": {
+				"blk": 1,
+				"fou": 2,
+				"name": "Llorila",
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11907323": {
+				"fou": 1,
+				"name": "Yermalil",
+				"rus": 15,
+				"tur": 13,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "993835",
 	"team_performance": {
 		"883064": {
 			"cas": 2,
 			"casdiff": -1,
+			"name": "Kislev's Gryphon Legion",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"884005": {
 			"cas": 3,
 			"casdiff": 1,
+			"name": "Emerald Forest Watchmen",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

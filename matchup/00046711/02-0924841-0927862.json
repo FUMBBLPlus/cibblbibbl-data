@@ -1,19 +1,211 @@
 {
 	"!excluded": "no",
+	"matchId": "4065525",
+	"player_performance": {
+		"924841": {
+			"12552091": {
+				"blk": 7,
+				"name": "Quonq Sharpfangs",
+				"tur": 17,
+				"type": "R"
+			},
+			"12552094": {
+				"died": [
+					1,
+					2,
+					"fouled",
+					"12669143"
+				],
+				"name": "Znol Verminscar",
+				"prespp": 20,
+				"tur": 2,
+				"type": "R"
+			},
+			"12552095": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Skruch Duskwalker",
+				"prespp": 19,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12552098": {
+				"blk": 6,
+				"name": "Zaqrat",
+				"prespp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"12552099": {
+				"blk": 1,
+				"name": "Khrokch",
+				"prespp": 3,
+				"tur": 17,
+				"type": "R"
+			},
+			"12552101": {
+				"fou": 1,
+				"name": "Trietch",
+				"prespp": 7,
+				"tur": 1,
+				"type": "R"
+			},
+			"12552116": {
+				"cps": 1,
+				"name": "Snuktlich",
+				"spp": 1,
+				"tur": 9,
+				"type": "R"
+			},
+			"12585407": {
+				"blk": 15,
+				"name": "Squarx Deadreaver",
+				"prespp": 20,
+				"tur": 17,
+				"type": "R"
+			},
+			"12592998": {
+				"blk": 4,
+				"name": "Sqreet",
+				"tur": 17,
+				"type": "R"
+			},
+			"12602311": {
+				"blk": 1,
+				"name": "Wraat",
+				"tur": 6,
+				"type": "R"
+			},
+			"12616266": {
+				"name": "Runtch Quicklegs",
+				"prespp": 3,
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12678911": {
+				"cps": 3,
+				"mvp": 1,
+				"name": "Qulk Grimgaze",
+				"pas": 1,
+				"rus": 17,
+				"spp": 8,
+				"tur": 17,
+				"type": "R"
+			}
+		},
+		"927862": {
+			"12598978": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Morgur Slogga",
+				"prespp": 11,
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"12598989": {
+				"blk": 5,
+				"name": "Ugga da One-legged",
+				"prespp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"12598997": {
+				"blk": 2,
+				"name": "Gadzooks Gormless",
+				"tur": 17,
+				"type": "R"
+			},
+			"12599001": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Grindok Gizzbut",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12599010": {
+				"name": "Gumit",
+				"prespp": 2,
+				"rus": 14,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12599014": {
+				"name": "Skarlik",
+				"type": "R"
+			},
+			"12599015": {
+				"name": "Fuggbang",
+				"prespp": 4,
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"12599016": {
+				"blk": 1,
+				"name": "Grotgrot",
+				"prespp": 3,
+				"tur": 4,
+				"type": "R"
+			},
+			"12599017": {
+				"blk": 1,
+				"name": "Weebungo",
+				"prespp": 3,
+				"tur": 17,
+				"type": "R"
+			},
+			"12615324": {
+				"blk": 4,
+				"name": "Mistah Beegs",
+				"tur": 17,
+				"type": "R"
+			},
+			"12669139": {
+				"blk": 1,
+				"name": "Urgrot Bolgrot",
+				"tur": 17,
+				"type": "R"
+			},
+			"12669143": {
+				"fou": 2,
+				"name": "Graham Deepstone",
+				"tur": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1156522",
 	"team_performance": {
 		"924841": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Under-Nuln Bells",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"927862": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Beegrok Massif Mob",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

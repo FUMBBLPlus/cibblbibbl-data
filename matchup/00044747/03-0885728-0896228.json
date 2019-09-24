@@ -1,19 +1,208 @@
 {
 	"!excluded": "no",
+	"matchId": "3982333",
+	"player_performance": {
+		"885728": {
+			"11933450": {
+				"name": "Yarrah the Gray",
+				"prespp": 29,
+				"type": "B"
+			},
+			"11933451": {
+				"name": "Sookie Roo",
+				"prespp": 9,
+				"tur": 1,
+				"type": "R"
+			},
+			"11933452": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Naure Roo",
+				"prespp": 33,
+				"tur": 8,
+				"type": "R"
+			},
+			"11933454": {
+				"blk": 3,
+				"name": "Rippa Roo",
+				"prespp": 28,
+				"rus": 12,
+				"tur": 12,
+				"type": "R"
+			},
+			"11933455": {
+				"blk": 11,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Pash a Roo",
+				"prespp": 27,
+				"spp": 7,
+				"tur": 14,
+				"type": "R"
+			},
+			"11933462": {
+				"blk": 2,
+				"name": "Blu'Bogan",
+				"prespp": 7,
+				"tur": 11,
+				"type": "R"
+			},
+			"11939409": {
+				"blk": 6,
+				"name": "Flower",
+				"prespp": 9,
+				"tur": 14,
+				"type": "R"
+			},
+			"12129142": {
+				"blk": 4,
+				"name": "Niera Roo",
+				"prespp": 10,
+				"tur": 16,
+				"type": "R"
+			},
+			"12196374": {
+				"blk": 3,
+				"name": "Darlee Roo",
+				"tur": 16,
+				"type": "R"
+			},
+			"12196375": {
+				"blk": 1,
+				"name": "Cuetee",
+				"tur": 2,
+				"type": "R"
+			},
+			"12221424": {
+				"blk": 6,
+				"name": "Howard Hardtree",
+				"tur": 16,
+				"type": "R"
+			},
+			"12221425": {
+				"fou": 1,
+				"name": "Xavier Weakhawk",
+				"tur": 4,
+				"type": "R"
+			},
+			"885728S1": {
+				"name": "Bomber Dribblesnot",
+				"tur": 4,
+				"type": "S"
+			}
+		},
+		"896228": {
+			"12103149": {
+				"blk": 3,
+				"cas": 2,
+				"name": "Mortarion",
+				"prespp": 16,
+				"spp": 4,
+				"tur": 14,
+				"type": "B"
+			},
+			"12103152": {
+				"blk": 4,
+				"name": "Ku'Gath",
+				"tur": 17,
+				"type": "R"
+			},
+			"12103156": {
+				"blk": 7,
+				"name": "Epidemius",
+				"prespp": 21,
+				"tur": 17,
+				"type": "R"
+			},
+			"12103165": {
+				"blk": 3,
+				"name": "Mattius Heiron",
+				"tur": 17,
+				"type": "R"
+			},
+			"12103185": {
+				"blk": 1,
+				"fou": 3,
+				"name": "Garalash",
+				"prespp": 9,
+				"tur": 11,
+				"type": "R"
+			},
+			"12114193": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Omphuross",
+				"prespp": 22,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12124731": {
+				"blk": 5,
+				"name": "Rabius",
+				"prespp": 20,
+				"tur": 17,
+				"type": "R"
+			},
+			"12143379": {
+				"blk": 4,
+				"name": "Malarus",
+				"prespp": 10,
+				"rus": 26,
+				"spp": 6,
+				"tds": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12179689": {
+				"blk": 3,
+				"name": "Syphidemis",
+				"prespp": 8,
+				"rus": 11,
+				"spp": 6,
+				"tds": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12225641": {
+				"blk": 4,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Mathor",
+				"spp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"12235165": {
+				"blk": 2,
+				"name": "Svotrax",
+				"rus": 5,
+				"tur": 14,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1060069",
 	"team_performance": {
 		"885728": {
 			"cas": 1,
 			"casdiff": -3,
+			"name": "Bear Clutchers",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -4
+			"scorediff": -4,
+			"tds": 0,
+			"tdsdiff": -4
 		},
 		"896228": {
 			"cas": 4,
 			"casdiff": 3,
+			"name": "Gardeners of Nurgle",
 			"rsym": "W",
 			"score": 4,
-			"scorediff": 4
+			"scorediff": 4,
+			"tds": 4,
+			"tdsdiff": 4
 		}
 	}
 }

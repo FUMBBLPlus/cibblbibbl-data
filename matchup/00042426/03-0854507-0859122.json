@@ -1,19 +1,227 @@
 {
 	"!excluded": "no",
+	"matchId": "3884415",
+	"player_performance": {
+		"854507": {
+			"11439074": {
+				"blk": 1,
+				"died": [
+					2,
+					2,
+					"blocked",
+					"11512896"
+				],
+				"name": "M'zart, the Unbound Flame",
+				"prespp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"11439075": {
+				"blk": 5,
+				"name": "Eltrith, the Silent",
+				"prespp": 14,
+				"tur": 13,
+				"type": "R"
+			},
+			"11439076": {
+				"blk": 1,
+				"name": "Maximilian Windhelm, the Fallen",
+				"prespp": 8,
+				"tur": 3,
+				"type": "R"
+			},
+			"11439078": {
+				"name": "Emminoth",
+				"prespp": 7,
+				"type": "R"
+			},
+			"11439080": {
+				"blk": 5,
+				"name": "Vol'arth the Brazen",
+				"prespp": 16,
+				"rus": 15,
+				"tur": 12,
+				"type": "R"
+			},
+			"11439088": {
+				"name": "Yibb-Tstll",
+				"prespp": 10,
+				"tur": 4,
+				"type": "R"
+			},
+			"11439090": {
+				"blk": 2,
+				"name": "Do Galaad, the Herald",
+				"prespp": 7,
+				"tur": 5,
+				"type": "R"
+			},
+			"11439091": {
+				"name": "A Formless Thing",
+				"prespp": 10,
+				"type": "R"
+			},
+			"11439092": {
+				"name": "Voonith",
+				"type": "R"
+			},
+			"11582112": {
+				"blk": 1,
+				"name": "Horok",
+				"prespp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"11681756": {
+				"blk": 1,
+				"name": "Neron",
+				"tur": 9,
+				"type": "R"
+			},
+			"11681757": {
+				"name": "Osmond Weaksnake",
+				"type": "R"
+			},
+			"11681758": {
+				"name": "Ulric Clearorc",
+				"tur": 1,
+				"type": "R"
+			},
+			"11681759": {
+				"fou": 1,
+				"mvp": 1,
+				"name": "Cory Truelightning",
+				"spp": 5,
+				"tur": 1,
+				"type": "R"
+			},
+			"854507S1": {
+				"blk": 1,
+				"name": "Max Spleenripper",
+				"tur": 1,
+				"type": "S"
+			}
+		},
+		"859122": {
+			"11512890": {
+				"blk": 9,
+				"name": "Logan Willow",
+				"prespp": 17,
+				"tur": 16,
+				"type": "R"
+			},
+			"11512891": {
+				"blk": 3,
+				"name": "Archer Maddison",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11512892": {
+				"blk": 3,
+				"name": "Jackson Violet",
+				"prespp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"11512894": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Alexander Tyler",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11512896": {
+				"blk": 3,
+				"cas": 3,
+				"name": "Hugo Hunter",
+				"prespp": 1,
+				"spp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11512898": {
+				"name": "Oscar Jayden",
+				"prespp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"11512907": {
+				"blk": 6,
+				"name": "Alan Berkley",
+				"tur": 16,
+				"type": "R"
+			},
+			"11512909": {
+				"blk": 3,
+				"cas": 1,
+				"fou": 4,
+				"name": "Michael Summer",
+				"prespp": 12,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11512911": {
+				"blk": 2,
+				"name": "Ellie Mackenzie",
+				"prespp": 7,
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11512914": {
+				"blk": 2,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Jaxon Piper",
+				"prespp": 7,
+				"rus": 22,
+				"spp": 10,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11580218": {
+				"blk": 3,
+				"name": "Edward Riley",
+				"tur": 16,
+				"type": "R"
+			},
+			"11598373": {
+				"blk": 5,
+				"name": "Flynn Nate",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "946960",
 	"team_performance": {
 		"854507": {
 			"cas": 0,
 			"casdiff": -7,
+			"name": "Coven of the Mirrored Hall",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"859122": {
 			"cas": 7,
 			"casdiff": 7,
+			"name": "Flying Drop Bears",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

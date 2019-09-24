@@ -1,19 +1,230 @@
 {
 	"!excluded": "no",
+	"matchId": "3929929",
+	"player_performance": {
+		"854678": {
+			"11439618": {
+				"blk": 2,
+				"name": "Nightmaster Gnawnagar",
+				"prespp": 23,
+				"rus": -10,
+				"tur": 10,
+				"type": "R"
+			},
+			"11439624": {
+				"name": "Grisnik the Blacktail",
+				"prespp": 19,
+				"type": "R"
+			},
+			"11439628": {
+				"name": "Sneekis the Dragon",
+				"prespp": 42,
+				"type": "R"
+			},
+			"11482377": {
+				"name": "Grisnagar the Brave",
+				"prespp": 14,
+				"type": "R"
+			},
+			"11696955": {
+				"name": "Nightmaster Gaz",
+				"prespp": 21,
+				"tur": 2,
+				"type": "R"
+			},
+			"11696956": {
+				"name": "Nightmaster Skirshakk",
+				"prespp": 49,
+				"rus": 10,
+				"type": "R"
+			},
+			"11696958": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Thanaz the Darkflame",
+				"tur": 16,
+				"type": "R"
+			},
+			"11850585": {
+				"blk": 5,
+				"name": "Nightlord Azhiskikk",
+				"prespp": 15,
+				"tur": 9,
+				"type": "R"
+			},
+			"11875035": {
+				"blk": 1,
+				"died": [
+					1,
+					4,
+					"blocked",
+					"11646894"
+				],
+				"name": "Vermir the Shrewd",
+				"tur": 3,
+				"type": "R"
+			},
+			"11934134": {
+				"blk": 2,
+				"cps": 1,
+				"name": "Nightmaster Vasquee",
+				"pas": 1,
+				"prespp": 5,
+				"spp": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"11948519": {
+				"name": "Thanflem the Splinter",
+				"type": "R"
+			},
+			"11951210": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Nightlord Nurgrin",
+				"spp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"11951211": {
+				"blk": 3,
+				"cas": 1,
+				"name": "William Palesnake",
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			}
+		},
+		"867862": {
+			"11646894": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Serrek of Nathrezzar",
+				"prespp": 34,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11646901": {
+				"blk": 3,
+				"name": "Muk",
+				"pas": -1,
+				"prespp": 38,
+				"rus": -3,
+				"tur": 16,
+				"type": "R"
+			},
+			"11646902": {
+				"fou": 2,
+				"name": "Ner",
+				"prespp": 7,
+				"tur": 1,
+				"type": "R"
+			},
+			"11646912": {
+				"name": "Che",
+				"prespp": 4,
+				"type": "R"
+			},
+			"11651506": {
+				"blk": 2,
+				"name": "Izz",
+				"prespp": 42,
+				"rus": 4,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11722423": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Vur",
+				"prespp": 12,
+				"rus": 8,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11763541": {
+				"blk": 1,
+				"fou": 3,
+				"name": "Vute",
+				"prespp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"11782667": {
+				"blk": 3,
+				"fou": 2,
+				"name": "Vir",
+				"tur": 10,
+				"type": "R"
+			},
+			"11791082": {
+				"name": "Sethar",
+				"prespp": 24,
+				"type": "R"
+			},
+			"11848523": {
+				"blk": 5,
+				"name": "Drawesh Blooddrinker",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11876841": {
+				"fou": 1,
+				"name": "Druz",
+				"tur": 16,
+				"type": "R"
+			},
+			"11917261": {
+				"name": "Irtriss",
+				"prespp": 1,
+				"rus": 4,
+				"tur": 7,
+				"type": "R"
+			},
+			"11943420": {
+				"blk": 3,
+				"name": "Nethrafar the Raider",
+				"tur": 16,
+				"type": "R"
+			},
+			"11946085": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Tarotep of Horin 'Reth",
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "999728",
 	"team_performance": {
 		"854678": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Lords of the Silent Death",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"867862": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Everlasting Vultures of Settra",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

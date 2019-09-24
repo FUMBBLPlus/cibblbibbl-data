@@ -1,19 +1,216 @@
 {
 	"!excluded": "no",
+	"matchId": "3961345",
+	"player_performance": {
+		"879790": {
+			"11839347": {
+				"name": "Hemek Abanux",
+				"type": "R"
+			},
+			"11839348": {
+				"name": "Kalrand Ahrudas",
+				"rus": 9,
+				"tur": 5,
+				"type": "R"
+			},
+			"11839349": {
+				"blk": 6,
+				"name": "Arstur An'gom",
+				"prespp": 6,
+				"rus": 20,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839378": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Ezrath Nemelas",
+				"prespp": 14,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839798": {
+				"blk": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Ba'el, The Naked Slayer",
+				"prespp": 28,
+				"spp": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"11865383": {
+				"blk": 11,
+				"cas": 2,
+				"name": "Abraxis, Tooth of Death",
+				"prespp": 24,
+				"spp": 4,
+				"tur": 12,
+				"type": "R"
+			},
+			"11959755": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Malphas, The Bloody Blade",
+				"prespp": 11,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11999803": {
+				"name": "Zakhar Takai",
+				"type": "R"
+			},
+			"12040430": {
+				"name": "Mephithal Phobus",
+				"prespp": 16,
+				"type": "R"
+			},
+			"12086407": {
+				"fou": 1,
+				"name": "Alexander Grottywing",
+				"tur": 8,
+				"type": "R"
+			},
+			"12086408": {
+				"blk": 2,
+				"name": "Harold Silentbrook",
+				"tur": 6,
+				"type": "R"
+			},
+			"12086409": {
+				"name": "Trey Silentstream",
+				"tur": 13,
+				"type": "R"
+			},
+			"12086410": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Edward Vilehawk",
+				"tur": 16,
+				"type": "R"
+			},
+			"12086411": {
+				"fou": 2,
+				"name": "Billy Grottytree",
+				"rus": 6,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"888421": {
+			"11976226": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Waziret Stunge",
+				"prespp": 6,
+				"spp": 2,
+				"tur": 10,
+				"type": "B"
+			},
+			"11976230": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Firrikeet Sharpblade",
+				"prespp": 16,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"11976233": {
+				"blk": 11,
+				"cas": 1,
+				"name": "Lirrikeet Sharpblade",
+				"prespp": 26,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11976237": {
+				"blk": 3,
+				"name": "Skritt Swiftpaw",
+				"prespp": 24,
+				"tur": 16,
+				"type": "R"
+			},
+			"11976241": {
+				"name": "Turm",
+				"prespp": 10,
+				"tur": 9,
+				"type": "R"
+			},
+			"11976246": {
+				"name": "Criz",
+				"prespp": 2,
+				"tur": 2,
+				"type": "R"
+			},
+			"11981444": {
+				"blk": 3,
+				"name": "Yazzirit Rakeet",
+				"prespp": 3,
+				"rus": 28,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12039964": {
+				"blk": 1,
+				"name": "Zik Shadowfang",
+				"tur": 12,
+				"type": "R"
+			},
+			"12039966": {
+				"name": "Sozax",
+				"tur": 6,
+				"type": "R"
+			},
+			"12054568": {
+				"name": "Robble",
+				"tur": 7,
+				"type": "R"
+			},
+			"12060305": {
+				"blk": 1,
+				"name": "Blight Darktail",
+				"tur": 4,
+				"type": "R"
+			},
+			"12063537": {
+				"fou": 2,
+				"name": "Yulub",
+				"tur": 12,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1035935",
 	"team_performance": {
 		"879790": {
 			"cas": 5,
 			"casdiff": 3,
+			"name": "Unfettered Fury",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"888421": {
 			"cas": 2,
 			"casdiff": -3,
+			"name": "Gobskrav Alliance",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

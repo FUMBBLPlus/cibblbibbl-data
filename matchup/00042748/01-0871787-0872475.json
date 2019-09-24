@@ -1,19 +1,202 @@
 {
 	"!excluded": "no",
+	"matchId": "3891124",
+	"player_performance": {
+		"871787": {
+			"11709003": {
+				"died": [
+					2,
+					3,
+					"blocked",
+					"11721713"
+				],
+				"name": "Earnan Gene",
+				"tur": 5,
+				"type": "R"
+			},
+			"11709004": {
+				"blk": 1,
+				"name": "Idun Hands",
+				"rus": 4,
+				"tur": 8,
+				"type": "R"
+			},
+			"11709005": {
+				"blk": 1,
+				"fou": 2,
+				"name": "Breek Argan",
+				"tur": 14,
+				"type": "R"
+			},
+			"11709006": {
+				"name": "Gaer Nettina",
+				"tur": 9,
+				"type": "R"
+			},
+			"11709008": {
+				"name": "Emyys Doceon",
+				"rus": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"11709009": {
+				"name": "Burk Silpal",
+				"tur": 9,
+				"type": "R"
+			},
+			"11709010": {
+				"blk": 1,
+				"name": "Dando Enda",
+				"tur": 7,
+				"type": "R"
+			},
+			"11709011": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Raus Juit",
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"11709012": {
+				"blk": 1,
+				"name": "Hengest Hirn",
+				"tur": 8,
+				"type": "R"
+			},
+			"11709013": {
+				"blk": 2,
+				"name": "Kael Desini",
+				"tur": 5,
+				"type": "R"
+			},
+			"11709015": {
+				"name": "Vigoth Nony",
+				"tur": 11,
+				"type": "R"
+			},
+			"11709016": {
+				"blk": 5,
+				"name": "Strean Buren",
+				"tur": 15,
+				"type": "R"
+			},
+			"11709018": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Font Eiridan",
+				"rus": -1,
+				"tur": 14,
+				"type": "R"
+			}
+		},
+		"872475": {
+			"11721709": {
+				"blk": 7,
+				"name": "Acer Steelroot",
+				"tur": 15,
+				"type": "R"
+			},
+			"11721710": {
+				"blk": 6,
+				"cas": 1,
+				"fou": 1,
+				"name": "Judge Juniperus",
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11721711": {
+				"blk": 4,
+				"cas": 1,
+				"int": 1,
+				"name": "Sylvestris Pikebranch",
+				"spp": 4,
+				"tur": 15,
+				"type": "R"
+			},
+			"11721712": {
+				"blk": 4,
+				"name": "Larix Darkbark",
+				"tur": 15,
+				"type": "R"
+			},
+			"11721713": {
+				"blk": 4,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Betula the Last Pendulum",
+				"spp": 9,
+				"tur": 15,
+				"type": "R"
+			},
+			"11721714": {
+				"blk": 8,
+				"name": "Picea the Piercer",
+				"tur": 15,
+				"type": "R"
+			},
+			"11721715": {
+				"fou": 1,
+				"name": "Cursed Oxalis",
+				"tur": 2,
+				"type": "R"
+			},
+			"11721716": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Rubus the Drinker of Blood",
+				"rus": 3,
+				"tur": 12,
+				"type": "R"
+			},
+			"11721717": {
+				"name": "Sphagnum the Sly",
+				"rus": 6,
+				"spp": 3,
+				"tds": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"11721718": {
+				"fou": 1,
+				"name": "Mummified Maianthemum",
+				"rus": 3,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11721719": {
+				"blk": 1,
+				"name": "Sylvaticum the Corpsehugger",
+				"rus": 14,
+				"tur": 15,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "954872",
 	"team_performance": {
 		"871787": {
 			"cas": 1,
 			"casdiff": -4,
+			"name": "Malignant Curators",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"872475": {
 			"cas": 5,
 			"casdiff": 4,
+			"name": "True Roots of Khaine",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

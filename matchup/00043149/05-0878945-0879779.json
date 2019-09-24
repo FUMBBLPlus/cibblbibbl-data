@@ -1,19 +1,225 @@
 {
 	"!excluded": "no",
+	"matchId": "3916069",
+	"player_performance": {
+		"878945": {
+			"11825655": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Lashweaver Taker of Souls",
+				"prespp": 20,
+				"rus": 6,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11825656": {
+				"blk": 3,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Mistress of Pain",
+				"pas": 3,
+				"prespp": 14,
+				"rus": 5,
+				"spp": 6,
+				"tur": 15,
+				"type": "R"
+			},
+			"11825657": {
+				"blk": 4,
+				"cas": 2,
+				"name": "Elyssar'sirath",
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11825658": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Laesydra",
+				"prespp": 3,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11825659": {
+				"blk": 9,
+				"name": "Shyak",
+				"prespp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"11825660": {
+				"name": "Vha'shaelhur",
+				"type": "R"
+			},
+			"11825661": {
+				"blk": 5,
+				"name": "Balzropht",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11825662": {
+				"blk": 2,
+				"name": "Fulgrim",
+				"tur": 13,
+				"type": "R"
+			},
+			"11825663": {
+				"blk": 1,
+				"name": "Braskh'har",
+				"tur": 15,
+				"type": "R"
+			},
+			"11825664": {
+				"blk": 3,
+				"name": "Lil'een'dow",
+				"tur": 16,
+				"type": "R"
+			},
+			"11825665": {
+				"name": "Volgarax",
+				"tur": 6,
+				"type": "R"
+			},
+			"11850084": {
+				"blk": 2,
+				"name": "Lady Lestella",
+				"prespp": 1,
+				"tur": 7,
+				"type": "R"
+			},
+			"878945S1": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Lewdgrip Whiparm",
+				"pas": 7,
+				"rus": 5,
+				"spp": 1,
+				"tur": 15,
+				"type": "S"
+			}
+		},
+		"879779": {
+			"11839158": {
+				"blk": 3,
+				"name": "Erika Mencken",
+				"pas": 1,
+				"prespp": 6,
+				"rus": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839171": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Anya Hoess",
+				"prespp": 6,
+				"rus": 6,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839172": {
+				"blk": 1,
+				"name": "Roza Klemme",
+				"prespp": 9,
+				"rus": 28,
+				"spp": 6,
+				"tds": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11839174": {
+				"blk": 11,
+				"name": "Captain Jonas Renkse",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839175": {
+				"blk": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Martin Axenrot",
+				"prespp": 9,
+				"spp": 7,
+				"tur": 11,
+				"type": "R"
+			},
+			"11839176": {
+				"blk": 1,
+				"name": "Mikael",
+				"pas": -1,
+				"rus": 3,
+				"tur": 12,
+				"type": "R"
+			},
+			"11839177": {
+				"blk": 7,
+				"name": "Dan",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839178": {
+				"blk": 1,
+				"name": "Per",
+				"tur": 6,
+				"type": "R"
+			},
+			"11839180": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Anders",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839181": {
+				"blk": 3,
+				"name": "Miron",
+				"tur": 16,
+				"type": "R"
+			},
+			"11839182": {
+				"name": "Oliver",
+				"tur": 5,
+				"type": "R"
+			},
+			"11866995": {
+				"name": "Sara Schirlitz",
+				"rus": 9,
+				"tur": 13,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "983657",
 	"team_performance": {
 		"878945": {
 			"cas": 4,
 			"casdiff": 1,
+			"name": "Eternal Ecstasy",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 1,
+			"tdsdiff": -2
 		},
 		"879779": {
 			"cas": 3,
 			"casdiff": -1,
+			"name": "Nightmares Made Flesh",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 3,
+			"tdsdiff": 2
 		}
 	}
 }

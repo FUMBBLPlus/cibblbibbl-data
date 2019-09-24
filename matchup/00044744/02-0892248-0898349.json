@@ -1,19 +1,215 @@
 {
 	"!excluded": "no",
+	"matchId": "3980500",
+	"player_performance": {
+		"892248": {
+			"12037796": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Threasher",
+				"prespp": 19,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12037798": {
+				"blk": 1,
+				"name": "Sharpnose",
+				"prespp": 9,
+				"tur": 4,
+				"type": "R"
+			},
+			"12037800": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Blackfin",
+				"prespp": 14,
+				"rus": 3,
+				"spp": 2,
+				"tur": 3,
+				"type": "R"
+			},
+			"12037805": {
+				"name": "Cap'n Dirk Bloodlust",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12037809": {
+				"blk": 1,
+				"name": "Ivor the Thrice Bitten",
+				"tur": 2,
+				"type": "R"
+			},
+			"12037810": {
+				"name": "Mutineer Morin",
+				"prespp": 15,
+				"type": "R"
+			},
+			"12037811": {
+				"blk": 5,
+				"name": "Balthasar Shipwright",
+				"tur": 9,
+				"type": "R"
+			},
+			"12037814": {
+				"blk": 2,
+				"name": "Althar the Converted",
+				"prespp": 7,
+				"rus": -1,
+				"tur": 5,
+				"type": "R"
+			},
+			"12037816": {
+				"blk": 2,
+				"name": "Sharktooth",
+				"prespp": 5,
+				"tur": 5,
+				"type": "R"
+			},
+			"12037817": {
+				"blk": 1,
+				"name": "One-armed Jack",
+				"tur": 13,
+				"type": "R"
+			},
+			"12037818": {
+				"blk": 3,
+				"fou": 2,
+				"name": "Morgan the Crow",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12138034": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Banjo Billy",
+				"prespp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"12140421": {
+				"blk": 1,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Gunner",
+				"pas": 2,
+				"prespp": 1,
+				"rus": 2,
+				"spp": 6,
+				"tur": 6,
+				"type": "R"
+			},
+			"12172370": {
+				"blk": 1,
+				"name": "Slim Jim",
+				"prespp": 3,
+				"tur": 6,
+				"type": "R"
+			}
+		},
+		"898349": {
+			"12137854": {
+				"name": "Skittle Turpentine",
+				"pas": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12137855": {
+				"cps": 1,
+				"name": "Scuttle Turpentine",
+				"prespp": 9,
+				"rus": 33,
+				"spp": 7,
+				"tds": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12137856": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Ol' Split Claw",
+				"prespp": 20,
+				"spp": 2,
+				"tur": 17,
+				"type": "B"
+			},
+			"12137857": {
+				"blk": 10,
+				"name": "\"Bubbles\" Thundertamer",
+				"prespp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"12137861": {
+				"blk": 1,
+				"name": "The Barnacle Bunch",
+				"tur": 9,
+				"type": "R"
+			},
+			"12137864": {
+				"name": "\"Bait 'n Tackle\" Robinson",
+				"prespp": 10,
+				"tur": 11,
+				"type": "R"
+			},
+			"12137866": {
+				"blk": 3,
+				"fou": 2,
+				"name": "\"Sinker\" Smith",
+				"tur": 17,
+				"type": "R"
+			},
+			"12137867": {
+				"name": "\"Netting\" Walker",
+				"tur": 17,
+				"type": "R"
+			},
+			"12137869": {
+				"blk": 3,
+				"name": "\"Line\" Decker",
+				"tur": 17,
+				"type": "R"
+			},
+			"12171299": {
+				"blk": 5,
+				"cas": 2,
+				"mvp": 1,
+				"name": "\"The Ripper\" Jackson",
+				"spp": 9,
+				"tur": 17,
+				"type": "R"
+			},
+			"12233914": {
+				"blk": 2,
+				"name": "Tristan Clumsyeagle",
+				"rus": 5,
+				"tur": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1057982",
 	"team_performance": {
 		"892248": {
 			"cas": 2,
 			"casdiff": -1,
+			"name": "Crimson Fins",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"898349": {
 			"cas": 3,
 			"casdiff": 1,
+			"name": "Riptide Runners",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

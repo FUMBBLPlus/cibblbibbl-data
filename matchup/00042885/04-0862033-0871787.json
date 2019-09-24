@@ -1,19 +1,237 @@
 {
 	"!excluded": "no",
+	"matchId": "3902269",
+	"player_performance": {
+		"862033": {
+			"11558593": {
+				"blk": 3,
+				"name": "Kharn",
+				"tur": 7,
+				"type": "R"
+			},
+			"11558599": {
+				"blk": 6,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Delvarus",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"11558605": {
+				"blk": 2,
+				"name": "Porphyricus",
+				"prespp": 18,
+				"tur": 4,
+				"type": "R"
+			},
+			"11558607": {
+				"blk": 3,
+				"died": [
+					2,
+					2,
+					"blocked",
+					"11709018"
+				],
+				"name": "Calas Typhon",
+				"prespp": 10,
+				"tur": 10,
+				"type": "R"
+			},
+			"11558611": {
+				"blk": 4,
+				"name": "Hadrabulus Vioss",
+				"tur": 16,
+				"type": "R"
+			},
+			"11558613": {
+				"blk": 1,
+				"name": "Marius Vairosean",
+				"tur": 1,
+				"type": "R"
+			},
+			"11558616": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Phosis T'Kar",
+				"prespp": 23,
+				"rus": 8,
+				"tur": 14,
+				"type": "R"
+			},
+			"11558617": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Skane",
+				"prespp": 11,
+				"spp": 2,
+				"tur": 6,
+				"type": "R"
+			},
+			"11567423": {
+				"blk": 2,
+				"name": "Kargos",
+				"prespp": 17,
+				"tur": 15,
+				"type": "R"
+			},
+			"11681780": {
+				"blk": 2,
+				"name": "Hathor Maat",
+				"prespp": 12,
+				"tur": 3,
+				"type": "R"
+			},
+			"11681785": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Lucius",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11699119": {
+				"name": "Julius Kaesoron",
+				"tur": 1,
+				"type": "R"
+			},
+			"11699147": {
+				"blk": 1,
+				"name": "Khalophis",
+				"rus": 1,
+				"tur": 9,
+				"type": "R"
+			},
+			"11721803": {
+				"blk": 4,
+				"name": "Ignatius Grulgor II",
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"871787": {
+			"11709004": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Idun Hands",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"11709005": {
+				"blk": 4,
+				"name": "Breek Argan",
+				"tur": 16,
+				"type": "R"
+			},
+			"11709006": {
+				"name": "Gaer Nettina",
+				"type": "R"
+			},
+			"11709008": {
+				"name": "Emyys Doceon",
+				"tur": 2,
+				"type": "R"
+			},
+			"11709009": {
+				"blk": 4,
+				"name": "Burk Silpal",
+				"prespp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"11709010": {
+				"blk": 2,
+				"fou": 2,
+				"name": "Dando Enda",
+				"prespp": 8,
+				"tur": 8,
+				"type": "R"
+			},
+			"11709011": {
+				"blk": 8,
+				"name": "Raus Juit",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11709012": {
+				"blk": 10,
+				"name": "Hengest Hirn",
+				"prespp": 20,
+				"tur": 16,
+				"type": "R"
+			},
+			"11709013": {
+				"name": "Kael Desini",
+				"prespp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"11709015": {
+				"fou": 2,
+				"name": "Vigoth Nony",
+				"prespp": 6,
+				"tur": 1,
+				"type": "R"
+			},
+			"11709016": {
+				"blk": 3,
+				"name": "Strean Buren",
+				"tur": 13,
+				"type": "R"
+			},
+			"11709018": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Font Eiridan",
+				"prespp": 10,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11727803": {
+				"blk": 1,
+				"name": "Svart Syn",
+				"rus": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11747061": {
+				"blk": 4,
+				"name": "Gutterfingers",
+				"prespp": 2,
+				"rus": 31,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "967877",
 	"team_performance": {
 		"862033": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Forsaken of the Pantheon",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"871787": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Malignant Curators",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

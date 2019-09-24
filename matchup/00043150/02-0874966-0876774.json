@@ -1,19 +1,189 @@
 {
 	"!excluded": "no",
+	"matchId": "3914397",
+	"player_performance": {
+		"874966": {
+			"11764899": {
+				"name": "Benethor",
+				"prespp": 9,
+				"tur": 2,
+				"type": "R"
+			},
+			"11764901": {
+				"blk": 2,
+				"name": "Danesthos",
+				"rus": 3,
+				"tur": 13,
+				"type": "R"
+			},
+			"11764906": {
+				"name": "Polkan the Red",
+				"prespp": 4,
+				"tur": 9,
+				"type": "R"
+			},
+			"11764910": {
+				"blk": 3,
+				"name": "Wendoran",
+				"tur": 10,
+				"type": "R"
+			},
+			"11764915": {
+				"name": "Finavar",
+				"prespp": 1,
+				"tur": 3,
+				"type": "R"
+			},
+			"11764916": {
+				"name": "Jokleel",
+				"pas": 1,
+				"rus": 14,
+				"tur": 11,
+				"type": "R"
+			},
+			"11764917": {
+				"blk": 1,
+				"name": "Thuralin",
+				"prespp": 8,
+				"tur": 9,
+				"type": "R"
+			},
+			"11764918": {
+				"name": "Guldir",
+				"tur": 1,
+				"type": "R"
+			},
+			"11764919": {
+				"name": "Lemsas",
+				"type": "R"
+			},
+			"11764921": {
+				"blk": 3,
+				"name": "Morlanna",
+				"prespp": 19,
+				"tur": 5,
+				"type": "R"
+			},
+			"11836559": {
+				"blk": 9,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Vanhir",
+				"rus": 3,
+				"spp": 7,
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"876774": {
+			"11791176": {
+				"blk": 8,
+				"cas": 2,
+				"name": "Mather Teresa of Diesdolf",
+				"prespp": 2,
+				"spp": 4,
+				"tur": 15,
+				"type": "R"
+			},
+			"11791177": {
+				"blk": 1,
+				"name": "Saint Agnes \"The Comet\"",
+				"pas": 1,
+				"prespp": 3,
+				"rus": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"11791210": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Saint Helga \"The Hammer\"",
+				"pas": -1,
+				"prespp": 8,
+				"rus": 20,
+				"spp": 4,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11791215": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Ludmilla \"The Redeemed\"",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"11791216": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Carol \"Divine Punishment\"",
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11791220": {
+				"blk": 6,
+				"name": "Berta \"The Humble Daughter\"",
+				"tur": 15,
+				"type": "R"
+			},
+			"11791224": {
+				"blk": 4,
+				"name": "Ingrid \"Blind Faith\"",
+				"tur": 15,
+				"type": "R"
+			},
+			"11791226": {
+				"fou": 1,
+				"name": "Luisa \"The Martyr\"",
+				"tur": 4,
+				"type": "R"
+			},
+			"11791229": {
+				"blk": 2,
+				"name": "Johanna \"Silent Devotion\"",
+				"tur": 15,
+				"type": "R"
+			},
+			"11791238": {
+				"blk": 1,
+				"name": "Tilda \"The Penitent\"",
+				"pas": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"11791244": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Grisolda \"Last Pilgrimage\"",
+				"tur": 5,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "981688",
 	"team_performance": {
 		"874966": {
 			"cas": 1,
 			"casdiff": -3,
+			"name": "Modryn's Midnight Meddlers",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"876774": {
 			"cas": 4,
 			"casdiff": 3,
+			"name": "Congregation of Holy Touchdown",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

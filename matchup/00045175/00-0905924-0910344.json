@@ -1,19 +1,216 @@
 {
 	"!excluded": "no",
+	"matchId": "3997363",
+	"player_performance": {
+		"905924": {
+			"12254401": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Reddup",
+				"spp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"12254402": {
+				"blk": 8,
+				"name": "Spook",
+				"prespp": 7,
+				"tur": 16,
+				"type": "B"
+			},
+			"12254405": {
+				"name": "Bone",
+				"prespp": 8,
+				"type": "R"
+			},
+			"12254406": {
+				"name": "Gruber",
+				"prespp": 10,
+				"type": "R"
+			},
+			"12254409": {
+				"blk": 4,
+				"name": "Pygmy",
+				"tur": 16,
+				"type": "R"
+			},
+			"12254414": {
+				"name": "Clumsy",
+				"prespp": 2,
+				"tur": 4,
+				"type": "R"
+			},
+			"12254424": {
+				"name": "Ashur The Vile",
+				"tur": 3,
+				"type": "R"
+			},
+			"12254427": {
+				"blk": 3,
+				"name": "Slob The Laborer",
+				"tur": 16,
+				"type": "R"
+			},
+			"12254440": {
+				"blk": 3,
+				"name": "O-Dog The Trogslayer",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12254445": {
+				"name": "Scumm The Rebel",
+				"tur": 9,
+				"type": "R"
+			},
+			"12254450": {
+				"name": "Smartu The Unscarred",
+				"prespp": 3,
+				"tur": 1,
+				"type": "R"
+			},
+			"12263755": {
+				"blk": 3,
+				"name": "Gizmo The Gambler",
+				"rus": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12263756": {
+				"name": "Killian Glowingwater",
+				"tur": 6,
+				"type": "R"
+			},
+			"12268727": {
+				"blk": 4,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Redbone",
+				"rus": 11,
+				"spp": 6,
+				"tur": 11,
+				"type": "R"
+			}
+		},
+		"910344": {
+			"12323836": {
+				"blk": 1,
+				"name": "Abel Sturm",
+				"prespp": 5,
+				"rus": 21,
+				"spp": 3,
+				"tds": 1,
+				"tur": 7,
+				"type": "R"
+			},
+			"12323837": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Draco Gore",
+				"spp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"12323838": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Ivan Vallejo",
+				"prespp": 2,
+				"rus": 7,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12323839": {
+				"blk": 9,
+				"name": "Marquis Agulliar",
+				"pas": 1,
+				"prespp": 6,
+				"rus": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12323842": {
+				"blk": 1,
+				"name": "Melchior",
+				"tur": 6,
+				"type": "R"
+			},
+			"12323843": {
+				"name": "Demetrius",
+				"type": "R"
+			},
+			"12323844": {
+				"blk": 3,
+				"name": "Doru",
+				"tur": 8,
+				"type": "R"
+			},
+			"12323845": {
+				"name": "Cassius",
+				"tur": 7,
+				"type": "R"
+			},
+			"12323846": {
+				"blk": 3,
+				"name": "Spike",
+				"tur": 16,
+				"type": "R"
+			},
+			"12323847": {
+				"blk": 2,
+				"name": "Lucien",
+				"tur": 7,
+				"type": "R"
+			},
+			"12323848": {
+				"blk": 2,
+				"died": [
+					1,
+					8,
+					"blocked",
+					"12254401"
+				],
+				"name": "Damien",
+				"tur": 8,
+				"type": "R"
+			},
+			"12323849": {
+				"blk": 2,
+				"name": "Ascelin",
+				"tur": 16,
+				"type": "R"
+			},
+			"12325681": {
+				"blk": 6,
+				"name": "Grazabire Lust'igor",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1078823",
 	"team_performance": {
 		"905924": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Squill's Squig Pitt",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"910344": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Vlad's Vampheroes",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

@@ -1,19 +1,216 @@
 {
 	"!excluded": "no",
+	"matchId": "3918819",
+	"player_performance": {
+		"863441": {
+			"11582128": {
+				"blk": 5,
+				"name": "Baraskan",
+				"prespp": 34,
+				"tur": 16,
+				"type": "R"
+			},
+			"11582129": {
+				"blk": 8,
+				"name": "Ansodhil",
+				"prespp": 35,
+				"tur": 16,
+				"type": "R"
+			},
+			"11582131": {
+				"blk": 4,
+				"name": "Aerian",
+				"prespp": 23,
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11582132": {
+				"blk": 12,
+				"name": "Firithas",
+				"prespp": 37,
+				"tur": 16,
+				"type": "R"
+			},
+			"11582133": {
+				"blk": 4,
+				"name": "Falandar",
+				"prespp": 31,
+				"rus": 15,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11582134": {
+				"blk": 1,
+				"name": "Lonlaithilon",
+				"prespp": 20,
+				"rus": 4,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11582135": {
+				"blk": 3,
+				"name": "Norlir",
+				"prespp": 23,
+				"tur": 16,
+				"type": "R"
+			},
+			"11582136": {
+				"blk": 2,
+				"name": "Gethonil",
+				"prespp": 10,
+				"tur": 6,
+				"type": "R"
+			},
+			"11582137": {
+				"blk": 6,
+				"name": "Linfarnrir",
+				"prespp": 18,
+				"tur": 16,
+				"type": "R"
+			},
+			"11582139": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Arathion",
+				"prespp": 12,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11657983": {
+				"blk": 1,
+				"name": "Nuirlan",
+				"prespp": 20,
+				"tur": 8,
+				"type": "R"
+			},
+			"11777457": {
+				"name": "Lurol",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"873945": {
+			"11747836": {
+				"blk": 4,
+				"name": "Bersi Thometillsson",
+				"tur": 16,
+				"type": "R"
+			},
+			"11747837": {
+				"blk": 5,
+				"name": "Firthgest Thiodolfsson",
+				"prespp": 14,
+				"rus": -1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11747839": {
+				"blk": 2,
+				"name": "Kol Styrsson",
+				"prespp": 20,
+				"rus": 3,
+				"tur": 14,
+				"type": "R"
+			},
+			"11747841": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Hall Solvisson",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11747844": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Sturla Suitsson",
+				"spp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"11767823": {
+				"blk": 3,
+				"name": "Martin Truestream",
+				"tur": 9,
+				"type": "R"
+			},
+			"11792772": {
+				"blk": 2,
+				"name": "Horolf Hengerson",
+				"tur": 9,
+				"type": "R"
+			},
+			"11850057": {
+				"blk": 4,
+				"name": "Iri Iricsson",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11868201": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Robert Clearstone",
+				"tur": 12,
+				"type": "R"
+			},
+			"11868202": {
+				"blk": 3,
+				"name": "Zachary Dirtytree",
+				"tur": 16,
+				"type": "R"
+			},
+			"11868203": {
+				"blk": 2,
+				"name": "Osmond Hardbone",
+				"tur": 12,
+				"type": "R"
+			},
+			"873945S1": {
+				"blk": 2,
+				"name": "Boomer Eziasson",
+				"tur": 15,
+				"type": "S"
+			},
+			"873945S2": {
+				"blk": 4,
+				"name": "Grim Ironjaw",
+				"tur": 13,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "986857",
 	"team_performance": {
 		"863441": {
 			"cas": 0,
 			"casdiff": -1,
+			"name": "Tor Anroc Anglers",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		},
 		"873945": {
 			"cas": 1,
 			"casdiff": 1,
+			"name": "Warhird Huscarls",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		}
 	}
 }

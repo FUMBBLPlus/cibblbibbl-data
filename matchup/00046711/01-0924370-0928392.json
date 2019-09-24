@@ -1,19 +1,217 @@
 {
 	"!excluded": "no",
+	"matchId": "4061592",
+	"player_performance": {
+		"924370": {
+			"12544646": {
+				"blk": 1,
+				"name": "Freddy Wender",
+				"tur": 8,
+				"type": "R"
+			},
+			"12544648": {
+				"blk": 2,
+				"name": "Danny Baumer",
+				"tur": 13,
+				"type": "R"
+			},
+			"12544649": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Dieter Chickenbelly",
+				"rus": 2,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12544650": {
+				"name": "Heinrich Foglogger",
+				"rus": 16,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12544653": {
+				"blk": 6,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Alex Redlot",
+				"prespp": 8,
+				"spp": 9,
+				"tur": 15,
+				"type": "R"
+			},
+			"12544658": {
+				"name": "Kurt Long",
+				"prespp": 10,
+				"tur": 1,
+				"type": "R"
+			},
+			"12544659": {
+				"name": "Clovis Heathland",
+				"prespp": 5,
+				"tur": 4,
+				"type": "R"
+			},
+			"12544666": {
+				"blk": 5,
+				"cas": 2,
+				"name": "Grendel",
+				"prespp": 18,
+				"spp": 4,
+				"tur": 16,
+				"type": "B"
+			},
+			"12544667": {
+				"blk": 2,
+				"name": "Tabak",
+				"prespp": 11,
+				"tur": 16,
+				"type": "B"
+			},
+			"12583244": {
+				"blk": 1,
+				"name": "Lonny Wideyes",
+				"prespp": 3,
+				"tur": 11,
+				"type": "R"
+			},
+			"12584566": {
+				"name": "Gregg Baumburger",
+				"tur": 8,
+				"type": "R"
+			},
+			"12584589": {
+				"blk": 2,
+				"name": "Christy Long",
+				"prespp": 10,
+				"tur": 6,
+				"type": "R"
+			},
+			"12596096": {
+				"blk": 2,
+				"name": "Sam Button",
+				"tur": 10,
+				"type": "R"
+			}
+		},
+		"928392": {
+			"12608663": {
+				"blk": 12,
+				"cas": 4,
+				"name": "Nobok Lizardslayer",
+				"prespp": 7,
+				"spp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12608664": {
+				"name": "Tabu Carnoheart",
+				"prespp": 8,
+				"type": "R"
+			},
+			"12608665": {
+				"blk": 7,
+				"name": "Tikbuk Giantbane",
+				"tur": 12,
+				"type": "R"
+			},
+			"12608666": {
+				"blk": 2,
+				"name": "Suki Sharktooth",
+				"tur": 6,
+				"type": "R"
+			},
+			"12608667": {
+				"blk": 2,
+				"name": "Kofu Skinkfoot",
+				"prespp": 8,
+				"tur": 4,
+				"type": "R"
+			},
+			"12608668": {
+				"blk": 1,
+				"name": "Shaka RIverstrider",
+				"prespp": 9,
+				"rus": 6,
+				"tur": 10,
+				"type": "R"
+			},
+			"12608670": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Wala Orcarm",
+				"prespp": 6,
+				"rus": 12,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12608671": {
+				"blk": 4,
+				"name": "Falai Toadhunter",
+				"prespp": 9,
+				"tur": 15,
+				"type": "R"
+			},
+			"12608672": {
+				"mvp": 1,
+				"name": "Vak'i Sundancer",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12608673": {
+				"name": "As'ali Poison Sharma",
+				"type": "R"
+			},
+			"12608674": {
+				"name": "Daai Konali",
+				"tur": 2,
+				"type": "R"
+			},
+			"12630332": {
+				"name": "Dokori Bokxa",
+				"type": "R"
+			},
+			"12634519": {
+				"blk": 1,
+				"name": "Viza Spherechucker",
+				"rus": 6,
+				"tur": 11,
+				"type": "R"
+			},
+			"12634520": {
+				"blk": 3,
+				"name": "Julius Hideoustree",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1152090",
 	"team_performance": {
 		"924370": {
 			"cas": 5,
 			"casdiff": 0,
+			"name": "Gipfel Blueleaves",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"928392": {
 			"cas": 5,
 			"casdiff": 0,
+			"name": "Piranha Swamp Warriors",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

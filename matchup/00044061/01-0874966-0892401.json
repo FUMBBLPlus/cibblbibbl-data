@@ -1,19 +1,193 @@
 {
 	"!excluded": "no",
+	"matchId": "3947081",
+	"player_performance": {
+		"874966": {
+			"11764899": {
+				"name": "Benethor",
+				"prespp": 21,
+				"tur": 16,
+				"type": "R"
+			},
+			"11764901": {
+				"blk": 3,
+				"name": "Danesthos",
+				"prespp": 6,
+				"tur": 10,
+				"type": "R"
+			},
+			"11764915": {
+				"blk": 4,
+				"name": "Finavar",
+				"prespp": 6,
+				"tur": 8,
+				"type": "R"
+			},
+			"11764917": {
+				"name": "Thuralin",
+				"prespp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"11764919": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Lemsas",
+				"prespp": 4,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11764921": {
+				"blk": 3,
+				"name": "Morlanna",
+				"prespp": 42,
+				"tur": 16,
+				"type": "R"
+			},
+			"11836559": {
+				"blk": 10,
+				"cas": 2,
+				"name": "Vanhir",
+				"prespp": 43,
+				"rus": 16,
+				"spp": 7,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11900737": {
+				"blk": 4,
+				"name": "Beliath the Grimm",
+				"prespp": 9,
+				"tur": 16,
+				"type": "B"
+			},
+			"11938500": {
+				"blk": 1,
+				"name": "Mereia",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11967724": {
+				"cps": 1,
+				"name": "Hauclir",
+				"pas": 1,
+				"prespp": 7,
+				"rus": 7,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12034410": {
+				"name": "Timaris",
+				"tur": 1,
+				"type": "R"
+			}
+		},
+		"892401": {
+			"12040096": {
+				"blk": 5,
+				"name": "Quercus Agrifolia",
+				"tur": 16,
+				"type": "R"
+			},
+			"12040097": {
+				"blk": 4,
+				"name": "Xanthotricha",
+				"tur": 16,
+				"type": "R"
+			},
+			"12040098": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Salix Simulatrix",
+				"spp": 5,
+				"tur": 9,
+				"type": "R"
+			},
+			"12040100": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Wimmeriana",
+				"rus": 2,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12040102": {
+				"blk": 2,
+				"cps": 1,
+				"name": "Betula Alajica",
+				"pas": 3,
+				"rus": 6,
+				"spp": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"12040103": {
+				"name": "Alleghaniensis",
+				"tur": 2,
+				"type": "R"
+			},
+			"12040104": {
+				"name": "Ifallia",
+				"tur": 7,
+				"type": "R"
+			},
+			"12040105": {
+				"blk": 3,
+				"name": "Amoria",
+				"tur": 13,
+				"type": "R"
+			},
+			"12040106": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Aurora",
+				"tur": 16,
+				"type": "R"
+			},
+			"12040107": {
+				"name": "Piloria",
+				"tur": 9,
+				"type": "R"
+			},
+			"12040108": {
+				"name": "Witerfill",
+				"tur": 9,
+				"type": "R"
+			},
+			"892401S1": {
+				"blk": 12,
+				"name": "Grak'Ng'Grak Gorthag",
+				"tur": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1019737",
 	"team_performance": {
 		"874966": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Modryn's Midnight Meddlers",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"892401": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Aboreal Majickz",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

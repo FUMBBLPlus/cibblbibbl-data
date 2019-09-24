@@ -1,19 +1,213 @@
 {
 	"!excluded": "no",
+	"matchId": "4029314",
+	"player_performance": {
+		"916217": {
+			"12416220": {
+				"blk": 8,
+				"name": "Bestgor \"The Vicious\"",
+				"prespp": 8,
+				"tur": 15,
+				"type": "R"
+			},
+			"12416222": {
+				"blk": 12,
+				"name": "Strongor \"The Mighty\"",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416224": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Powergor \"The Relentless\"",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416226": {
+				"blk": 3,
+				"name": "Mustgor \"The Decided\"",
+				"prespp": 9,
+				"tur": 3,
+				"type": "R"
+			},
+			"12416227": {
+				"died": [
+					2,
+					7,
+					"blocked",
+					"12416612"
+				],
+				"name": "Gogor \"The Brutal\"",
+				"prespp": 2,
+				"tur": 6,
+				"type": "R"
+			},
+			"12416228": {
+				"blk": 1,
+				"name": "Fastgor \"The Lightning\"",
+				"prespp": 6,
+				"tur": 5,
+				"type": "R"
+			},
+			"12416229": {
+				"name": "Quickgor \"The Legged\"",
+				"prespp": 10,
+				"rus": 23,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416233": {
+				"name": "Hollowgor \"The Hungry\"",
+				"tur": 16,
+				"type": "R"
+			},
+			"12416234": {
+				"name": "Tallgor \"The Landscapist\"",
+				"tur": 6,
+				"type": "R"
+			},
+			"12416236": {
+				"blk": 6,
+				"name": "Brutegor \"The Doubtless\"",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416238": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Roughgor \"The Thoughtless\"",
+				"prespp": 4,
+				"spp": 5,
+				"tur": 12,
+				"type": "R"
+			},
+			"12426803": {
+				"blk": 4,
+				"name": "Brogor \"The Violent\"",
+				"tur": 8,
+				"type": "R"
+			}
+		},
+		"916230": {
+			"12416612": {
+				"blk": 12,
+				"cas": 4,
+				"name": "Vârcolac",
+				"prespp": 19,
+				"spp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416620": {
+				"blk": 4,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Moarte",
+				"prespp": 2,
+				"spp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"12416633": {
+				"blk": 2,
+				"name": "Apostol Vântu",
+				"prespp": 6,
+				"rus": 9,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416640": {
+				"blk": 5,
+				"name": "Nelu Szilágyi",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416642": {
+				"blk": 2,
+				"name": "Radu Constantin",
+				"prespp": 6,
+				"rus": 22,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416645": {
+				"name": "Ionut Pârvulescu",
+				"tur": 8,
+				"type": "R"
+			},
+			"12416646": {
+				"name": "Beryx Albu",
+				"tur": 9,
+				"type": "R"
+			},
+			"12416647": {
+				"name": "Cosmin Boroi",
+				"tur": 16,
+				"type": "R"
+			},
+			"12416649": {
+				"name": "Petar Mitu",
+				"type": "R"
+			},
+			"12416651": {
+				"blk": 1,
+				"name": "Claudiu Poénaru",
+				"prespp": 7,
+				"tur": 13,
+				"type": "R"
+			},
+			"12423760": {
+				"blk": 2,
+				"name": "Ovidiu Gheorghiu",
+				"prespp": 7,
+				"tur": 13,
+				"type": "R"
+			},
+			"12498397": {
+				"name": "Nicusor Dalca",
+				"tur": 14,
+				"type": "R"
+			},
+			"12498398": {
+				"blk": 2,
+				"fou": 2,
+				"name": "Bogdan Bucur",
+				"tur": 15,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1115132",
 	"team_performance": {
 		"916217": {
 			"cas": 0,
 			"casdiff": -5,
+			"name": "Cloven Clan",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"916230": {
 			"cas": 5,
 			"casdiff": 5,
+			"name": "Mourkain Kings",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

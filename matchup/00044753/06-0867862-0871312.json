@@ -1,19 +1,230 @@
 {
 	"!excluded": "no",
+	"matchId": "3989129",
+	"player_performance": {
+		"867862": {
+			"11646901": {
+				"blk": 3,
+				"name": "Muk",
+				"prespp": 53,
+				"tur": 16,
+				"type": "R"
+			},
+			"11722423": {
+				"blk": 11,
+				"cas": 1,
+				"name": "Vur",
+				"prespp": 39,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11782667": {
+				"blk": 3,
+				"fou": 3,
+				"name": "Vir",
+				"prespp": 9,
+				"tur": 13,
+				"type": "R"
+			},
+			"11917261": {
+				"name": "Irtriss",
+				"prespp": 34,
+				"rus": 24,
+				"spp": 6,
+				"tds": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11946085": {
+				"blk": 12,
+				"cas": 1,
+				"name": "Tarotep of Horin 'Reth",
+				"prespp": 33,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12051541": {
+				"name": "Drewaq Evilgrin",
+				"type": "R"
+			},
+			"12065262": {
+				"blk": 7,
+				"name": "Zird",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12122939": {
+				"blk": 7,
+				"name": "Treth' Kon Sharkface",
+				"tur": 16,
+				"type": "R"
+			},
+			"12199989": {
+				"blk": 4,
+				"cas": 1,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Umir",
+				"prespp": 2,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12215612": {
+				"name": "Kudir",
+				"tur": 7,
+				"type": "R"
+			},
+			"12223534": {
+				"blk": 6,
+				"cas": 2,
+				"name": "Chitol",
+				"prespp": 8,
+				"rus": 7,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12264876": {
+				"blk": 12,
+				"cas": 2,
+				"name": "Imir' Zhan of Thorgotan",
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"871312": {
+			"11700284": {
+				"blk": 5,
+				"name": "Count Igor",
+				"prespp": 69,
+				"tur": 16,
+				"type": "R"
+			},
+			"11700285": {
+				"blk": 2,
+				"name": "Count Jurij",
+				"prespp": 53,
+				"tur": 3,
+				"type": "R"
+			},
+			"11700319": {
+				"blk": 2,
+				"died": [
+					1,
+					2,
+					"blocked",
+					"12264876"
+				],
+				"name": "Anubis",
+				"prespp": 62,
+				"tur": 2,
+				"type": "R"
+			},
+			"11700323": {
+				"blk": 3,
+				"name": "Servant Fjodor",
+				"prespp": 16,
+				"tur": 12,
+				"type": "R"
+			},
+			"11812909": {
+				"blk": 6,
+				"cas": 2,
+				"name": "Count Yaroslav",
+				"prespp": 81,
+				"rus": 4,
+				"spp": 7,
+				"tds": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"11936975": {
+				"blk": 3,
+				"name": "Ladislao Celano",
+				"prespp": 9,
+				"tur": 13,
+				"type": "R"
+			},
+			"11986735": {
+				"cps": 1,
+				"mvp": 1,
+				"name": "Count Ludovig II.",
+				"pas": 7,
+				"prespp": 40,
+				"rus": 4,
+				"spp": 6,
+				"tur": 14,
+				"type": "R"
+			},
+			"12066122": {
+				"name": "Servant Volodomyr",
+				"tur": 12,
+				"type": "R"
+			},
+			"12159997": {
+				"blk": 6,
+				"name": "Servant Franko",
+				"prespp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"12219185": {
+				"blk": 3,
+				"name": "Servant Markos",
+				"tur": 9,
+				"type": "R"
+			},
+			"12239624": {
+				"blk": 1,
+				"name": "Servant Iwan",
+				"tur": 6,
+				"type": "R"
+			},
+			"12239687": {
+				"name": "Baldomero Caudillo",
+				"tur": 1,
+				"type": "R"
+			},
+			"12261685": {
+				"blk": 1,
+				"name": "Osiris",
+				"tur": 16,
+				"type": "R"
+			},
+			"12261744": {
+				"blk": 1,
+				"name": "Raondir Goldchin",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1068023",
 	"team_performance": {
 		"867862": {
 			"cas": 7,
 			"casdiff": 5,
+			"name": "Everlasting Vultures of Settra",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"871312": {
 			"cas": 2,
 			"casdiff": -5,
+			"name": "Tower of the Necromancer",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

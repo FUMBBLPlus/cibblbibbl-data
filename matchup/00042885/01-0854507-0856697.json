@@ -1,19 +1,234 @@
 {
 	"!excluded": "no",
+	"matchId": "3898256",
+	"player_performance": {
+		"854507": {
+			"11439075": {
+				"blk": 12,
+				"died": [
+					2,
+					7,
+					"fouled",
+					"11720018"
+				],
+				"name": "Eltrith, the Silent",
+				"prespp": 40,
+				"tur": 15,
+				"type": "R"
+			},
+			"11439076": {
+				"blk": 11,
+				"cas": 1,
+				"name": "Maximilian Windhelm, the Fallen",
+				"prespp": 10,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439078": {
+				"blk": 6,
+				"name": "Emminoth",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439080": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Vol'arth the Brazen",
+				"prespp": 26,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439088": {
+				"name": "Yibb-Tstll",
+				"prespp": 18,
+				"rus": 10,
+				"tur": 5,
+				"type": "R"
+			},
+			"11439090": {
+				"blk": 11,
+				"name": "Do Galaad, the Herald",
+				"prespp": 18,
+				"rus": -1,
+				"tur": 13,
+				"type": "R"
+			},
+			"11439091": {
+				"name": "A Formless Thing",
+				"prespp": 10,
+				"tur": 14,
+				"type": "R"
+			},
+			"11439092": {
+				"fou": 1,
+				"name": "Voonith",
+				"tur": 6,
+				"type": "R"
+			},
+			"11582112": {
+				"name": "Horok",
+				"prespp": 4,
+				"tur": 6,
+				"type": "R"
+			},
+			"11681756": {
+				"blk": 5,
+				"name": "Neron",
+				"prespp": 10,
+				"tur": 9,
+				"type": "R"
+			},
+			"11721776": {
+				"name": "Yyanghar",
+				"prespp": 3,
+				"tur": 1,
+				"type": "R"
+			},
+			"854507M1": {
+				"fou": 2,
+				"name": "Merc Familiar 1",
+				"tur": 9,
+				"type": "M"
+			}
+		},
+		"856697": {
+			"11472246": {
+				"blk": 5,
+				"name": "Skulltaker",
+				"prespp": 19,
+				"tur": 16,
+				"type": "R"
+			},
+			"11472247": {
+				"name": "Urifdaemonkin",
+				"prespp": 8,
+				"type": "R"
+			},
+			"11472248": {
+				"blk": 5,
+				"name": "Valkia the Bloody",
+				"prespp": 19,
+				"tur": 16,
+				"type": "R"
+			},
+			"11472249": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Red Prophet",
+				"prespp": 21,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11472250": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Arkh'gar",
+				"prespp": 36,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11472254": {
+				"blk": 5,
+				"fou": 2,
+				"name": "Tallomin",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11472255": {
+				"blk": 4,
+				"name": "Arvax the Mad",
+				"prespp": 19,
+				"rus": 12,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11472256": {
+				"name": "Scyrak",
+				"prespp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"11472262": {
+				"name": "Headsman of Cellebos",
+				"prespp": 18,
+				"type": "R"
+			},
+			"11472265": {
+				"blk": 2,
+				"name": "Ba'ar Zul",
+				"prespp": 12,
+				"tur": 16,
+				"type": "R"
+			},
+			"11472270": {
+				"blk": 3,
+				"name": "Drakkar",
+				"prespp": 25,
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11658788": {
+				"name": "Sha'To",
+				"prespp": 2,
+				"type": "R"
+			},
+			"11658789": {
+				"blk": 1,
+				"name": "H'Stan",
+				"prespp": 5,
+				"tur": 2,
+				"type": "R"
+			},
+			"11720018": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Bane",
+				"tur": 16,
+				"type": "R"
+			},
+			"11730736": {
+				"blk": 3,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Doomsday The Everliving",
+				"spp": 9,
+				"tur": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "963114",
 	"team_performance": {
 		"854507": {
 			"cas": 1,
 			"casdiff": -5,
+			"name": "Coven of the Mirrored Hall",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"856697": {
 			"cas": 6,
 			"casdiff": 5,
+			"name": "Crimson Skull",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

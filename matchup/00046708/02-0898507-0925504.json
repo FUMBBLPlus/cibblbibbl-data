@@ -1,19 +1,245 @@
 {
 	"!excluded": "no",
+	"matchId": "4065285",
+	"player_performance": {
+		"898507": {
+			"12140161": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Terror of Wurtbad",
+				"prespp": 48,
+				"spp": 5,
+				"tur": 3,
+				"type": "R"
+			},
+			"12140162": {
+				"blk": 7,
+				"cas": 2,
+				"name": "Hanskarl Denk",
+				"prespp": 24,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12140169": {
+				"blk": 9,
+				"name": "Frederick van Hal",
+				"prespp": 35,
+				"tur": 16,
+				"type": "R"
+			},
+			"12140175": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Vigo",
+				"prespp": 31,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12140181": {
+				"fou": 3,
+				"name": "Carcass",
+				"prespp": 7,
+				"tur": 3,
+				"type": "R"
+			},
+			"12140184": {
+				"name": "Rot",
+				"tur": 12,
+				"type": "R"
+			},
+			"12149573": {
+				"blk": 9,
+				"name": "Beast of Black-Run",
+				"prespp": 31,
+				"tur": 16,
+				"type": "R"
+			},
+			"12227552": {
+				"blk": 1,
+				"name": "Baronetess Odile von Stolpe",
+				"prespp": 16,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231366": {
+				"name": "Putrid",
+				"prespp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"12231367": {
+				"blk": 5,
+				"name": "Floater",
+				"tur": 13,
+				"type": "R"
+			},
+			"12254199": {
+				"name": "Maggot",
+				"prespp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"12289388": {
+				"blk": 11,
+				"name": "Solice",
+				"prespp": 24,
+				"tur": 16,
+				"type": "R"
+			},
+			"12349964": {
+				"name": "Bubos",
+				"tur": 4,
+				"type": "R"
+			},
+			"12605730": {
+				"name": "Fetid",
+				"type": "R"
+			},
+			"12666672": {
+				"name": "Kristoff Biller",
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 8,
+				"type": "R"
+			}
+		},
+		"925504": {
+			"12562177": {
+				"blk": 2,
+				"cas": 1,
+				"died": [
+					1,
+					3,
+					"fouled",
+					"12140181"
+				],
+				"name": "Lord Ichabod of Wyldwich",
+				"prespp": 16,
+				"spp": 2,
+				"tur": 3,
+				"type": "R"
+			},
+			"12562180": {
+				"blk": 3,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Sir Danzig the Cinder",
+				"prespp": 12,
+				"spp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"12562182": {
+				"blk": 2,
+				"name": "Sir Geoffrey the Bright",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12562183": {
+				"blk": 1,
+				"died": [
+					2,
+					7,
+					"blocked",
+					"12140175"
+				],
+				"name": "Sir Theodore the Blazing",
+				"prespp": 11,
+				"tur": 12,
+				"type": "R"
+			},
+			"12562184": {
+				"name": "Fair Henry of Storms",
+				"prespp": 10,
+				"tur": 5,
+				"type": "R"
+			},
+			"12562185": {
+				"died": [
+					1,
+					7,
+					"dodgeFail",
+					null
+				],
+				"name": "Fair Desmond the Twister",
+				"prespp": 19,
+				"rus": 18,
+				"tur": 6,
+				"type": "R"
+			},
+			"12562186": {
+				"blk": 1,
+				"name": "Hardy Wilbur the Molten",
+				"prespp": 5,
+				"tur": 5,
+				"type": "R"
+			},
+			"12562187": {
+				"blk": 2,
+				"name": "Hardy Frederick of Iron",
+				"tur": 16,
+				"type": "R"
+			},
+			"12562188": {
+				"blk": 1,
+				"name": "Calm Nolan the Current",
+				"prespp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"12562189": {
+				"name": "Calm Xavier of Tides",
+				"prespp": 3,
+				"tur": 4,
+				"type": "R"
+			},
+			"12578583": {
+				"name": "Sir Wilfred the Scorching",
+				"prespp": 2,
+				"tur": 3,
+				"type": "R"
+			},
+			"12685248": {
+				"name": "Sir Mercury the Inferno",
+				"rus": 5,
+				"tur": 4,
+				"type": "R"
+			},
+			"925504S1": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Big Gregg",
+				"spp": 2,
+				"tur": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1156261",
 	"team_performance": {
 		"898507": {
 			"cas": 4,
 			"casdiff": 1,
+			"name": "Leicheberg Lycans",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"925504": {
 			"cas": 3,
 			"casdiff": -1,
+			"name": "Ichabod's Infernals",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

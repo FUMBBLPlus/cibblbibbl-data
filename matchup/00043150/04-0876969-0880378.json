@@ -1,19 +1,197 @@
 {
 	"!excluded": "no",
+	"matchId": "3921265",
+	"player_performance": {
+		"876969": {
+			"11818427": {
+				"blk": 8,
+				"name": "The Flame of Progress",
+				"tur": 18,
+				"type": "R"
+			},
+			"11818434": {
+				"blk": 9,
+				"mvp": 1,
+				"name": "The Way Forward",
+				"prespp": 3,
+				"spp": 5,
+				"tur": 18,
+				"type": "R"
+			},
+			"11818436": {
+				"blk": 9,
+				"name": "The Transformation of Minds",
+				"rus": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"11818495": {
+				"blk": 2,
+				"cas": 1,
+				"name": "The Worm that Gnaws",
+				"prespp": 1,
+				"rus": 2,
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11818499": {
+				"name": "The Water that Burns",
+				"tur": 13,
+				"type": "R"
+			},
+			"11818501": {
+				"blk": 1,
+				"name": "The Snake that Entwines",
+				"rus": 8,
+				"tur": 5,
+				"type": "R"
+			},
+			"11818502": {
+				"fou": 1,
+				"name": "The Shadow's Face",
+				"tur": 18,
+				"type": "R"
+			},
+			"11818503": {
+				"name": "The Star that Blinds",
+				"tur": 1,
+				"type": "R"
+			},
+			"11818504": {
+				"blk": 1,
+				"died": [
+					2,
+					6,
+					"dodgeFail",
+					null
+				],
+				"name": "The Cracked Voice",
+				"tur": 14,
+				"type": "R"
+			},
+			"11818505": {
+				"blk": 8,
+				"name": "The Unfolding Awareness",
+				"prespp": 6,
+				"tur": 18,
+				"type": "R"
+			},
+			"11818506": {
+				"blk": 10,
+				"name": "The Fracturing Consciousness",
+				"prespp": 6,
+				"tur": 18,
+				"type": "R"
+			}
+		},
+		"880378": {
+			"11849912": {
+				"blk": 9,
+				"name": "The Great Unclean One",
+				"prespp": 3,
+				"rus": 3,
+				"tur": 17,
+				"type": "R"
+			},
+			"11849914": {
+				"blk": 9,
+				"name": "Khandek the Foul",
+				"tur": 17,
+				"type": "R"
+			},
+			"11849915": {
+				"blk": 6,
+				"name": "Crizhol Vomitflesh",
+				"prespp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"11849916": {
+				"blk": 8,
+				"mvp": 1,
+				"name": "Zinzul the Plaguereaper",
+				"prespp": 8,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11849917": {
+				"blk": 8,
+				"name": "Erdrund the Leproushand",
+				"tur": 17,
+				"type": "R"
+			},
+			"11849918": {
+				"blk": 1,
+				"name": "Isguz Foulear",
+				"tur": 1,
+				"type": "R"
+			},
+			"11849919": {
+				"blk": 1,
+				"name": "Rhemel Crappyhand",
+				"pas": -1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11849920": {
+				"name": "Strozkun Foulskin",
+				"type": "R"
+			},
+			"11849921": {
+				"blk": 1,
+				"name": "Gazgand Stinkhorn",
+				"tur": 6,
+				"type": "R"
+			},
+			"11849923": {
+				"blk": 2,
+				"name": "Zashren Vomitheart",
+				"rus": 10,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11849925": {
+				"name": "Skurzrond Foularm",
+				"prespp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11865381": {
+				"blk": 1,
+				"cas": 1,
+				"fou": 1,
+				"name": "Aaron Hardshield",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "989700",
 	"team_performance": {
 		"876969": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Bringers of Knowledge",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"880378": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Nurgle Plaguebearers",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

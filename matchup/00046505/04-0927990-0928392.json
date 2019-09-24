@@ -1,19 +1,188 @@
 {
 	"!excluded": "no",
+	"matchId": "4053260",
+	"player_performance": {
+		"927990": {
+			"12601187": {
+				"name": "Grufydd Spanglehelm",
+				"tur": 2,
+				"type": "R"
+			},
+			"12601188": {
+				"name": "Rhys Spanglehlem",
+				"tur": 2,
+				"type": "R"
+			},
+			"12601189": {
+				"name": "Glyndwr Copperfist",
+				"prespp": 7,
+				"tur": 2,
+				"type": "R"
+			},
+			"12601190": {
+				"name": "Meibion Copperfist",
+				"prespp": 8,
+				"tur": 1,
+				"type": "R"
+			},
+			"12601191": {
+				"died": [
+					1,
+					3,
+					"fouled",
+					"12608671"
+				],
+				"name": "Aneurin The Fat",
+				"tur": 2,
+				"type": "R"
+			},
+			"12601193": {
+				"name": "\"Jolly\" Johann Oakenjaw",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12601195": {
+				"blk": 1,
+				"name": "Rhodri The Red",
+				"prespp": 2,
+				"tur": 2,
+				"type": "R"
+			},
+			"12601196": {
+				"blk": 1,
+				"name": "Drewfus Darknose",
+				"tur": 2,
+				"type": "R"
+			},
+			"12601199": {
+				"name": "Mab Shortbrace",
+				"type": "R"
+			},
+			"12601200": {
+				"name": "Yohan Bluntnose",
+				"prespp": 3,
+				"tur": 2,
+				"type": "R"
+			},
+			"12624315": {
+				"name": "Ian Truestream",
+				"tur": 1,
+				"type": "R"
+			},
+			"12624316": {
+				"blk": 1,
+				"name": "Alexander Deeptree",
+				"tur": 2,
+				"type": "R"
+			}
+		},
+		"928392": {
+			"12608663": {
+				"blk": 2,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Nobok Lizardslayer",
+				"spp": 7,
+				"tur": 3,
+				"type": "R"
+			},
+			"12608664": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Tabu Carnoheart",
+				"prespp": 6,
+				"spp": 2,
+				"tur": 3,
+				"type": "R"
+			},
+			"12608665": {
+				"blk": 2,
+				"name": "Tikbuk Giantbane",
+				"tur": 3,
+				"type": "R"
+			},
+			"12608666": {
+				"blk": 1,
+				"name": "Suki Sharktooth",
+				"tur": 3,
+				"type": "R"
+			},
+			"12608667": {
+				"name": "Kofu Skinkfoot",
+				"prespp": 8,
+				"tur": 3,
+				"type": "R"
+			},
+			"12608668": {
+				"name": "Shaka RIverstrider",
+				"prespp": 6,
+				"tur": 3,
+				"type": "R"
+			},
+			"12608669": {
+				"name": "Kalali Eaglesight",
+				"prespp": 1,
+				"tur": 3,
+				"type": "R"
+			},
+			"12608670": {
+				"mvp": 1,
+				"name": "Wala Orcarm",
+				"prespp": 1,
+				"rus": 7,
+				"spp": 5,
+				"tur": 3,
+				"type": "R"
+			},
+			"12608671": {
+				"blk": 1,
+				"cas": 1,
+				"fou": 1,
+				"name": "Falai Toadhunter",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 2,
+				"type": "R"
+			},
+			"12608672": {
+				"name": "Vak'i Sundancer",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12608673": {
+				"name": "As'ali Poison Sharma",
+				"tur": 3,
+				"type": "R"
+			},
+			"12608674": {
+				"fou": 2,
+				"name": "Daai Konali",
+				"tur": 3,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1142755",
 	"team_performance": {
 		"927990": {
 			"cas": 0,
 			"casdiff": -4,
+			"name": "Kazad-Dum Tinplate Company",
 			"rsym": "C",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": 0
 		},
 		"928392": {
 			"cas": 4,
 			"casdiff": 4,
+			"name": "Piranha Swamp Warriors",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 0,
+			"tdsdiff": 0
 		}
 	}
 }

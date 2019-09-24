@@ -1,19 +1,202 @@
 {
 	"!excluded": "no",
+	"matchId": "3845496",
+	"player_performance": {
+		"855530": {
+			"11453258": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Krotep the Silent",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11453259": {
+				"blk": 6,
+				"name": "Ximtra the Everlasting",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11453261": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Tutencal the Harvester",
+				"prespp": 14,
+				"rus": 23,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11453266": {
+				"blk": 5,
+				"name": "Ramsezuma Bonescale",
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11453268": {
+				"blk": 8,
+				"name": "Nephalanque Crushjaw",
+				"tur": 16,
+				"type": "R"
+			},
+			"11453272": {
+				"blk": 7,
+				"name": "Chakhamen Blood River",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11453281": {
+				"blk": 1,
+				"fou": 2,
+				"name": "Offering of Blood",
+				"tur": 16,
+				"type": "R"
+			},
+			"11453282": {
+				"blk": 1,
+				"fou": 2,
+				"name": "Offering of Bone",
+				"tur": 16,
+				"type": "R"
+			},
+			"11453284": {
+				"name": "Offering of Flesh",
+				"tur": 1,
+				"type": "R"
+			},
+			"11453285": {
+				"blk": 5,
+				"cas": 2,
+				"name": "Offering of Claws",
+				"prespp": 5,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11453289": {
+				"blk": 3,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Offering of Fangs",
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"856372": {
+			"11466689": {
+				"name": "Zlatec",
+				"prespp": 9,
+				"type": "R"
+			},
+			"11466691": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Zlatxhol",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11466692": {
+				"name": "Quetli",
+				"tur": 10,
+				"type": "R"
+			},
+			"11466695": {
+				"blk": 2,
+				"name": "Boqinzi",
+				"tur": 13,
+				"type": "R"
+			},
+			"11466697": {
+				"name": "Xlboq",
+				"tur": 5,
+				"type": "R"
+			},
+			"11466698": {
+				"blk": 1,
+				"died": [
+					2,
+					6,
+					"fouled",
+					"11453289"
+				],
+				"name": "Adohimazda",
+				"rus": 3,
+				"tur": 12,
+				"type": "R"
+			},
+			"11466699": {
+				"blk": 1,
+				"died": [
+					1,
+					2,
+					"blocked",
+					"11453285"
+				],
+				"name": "Tenqchicc",
+				"prespp": 5,
+				"tur": 1,
+				"type": "R"
+			},
+			"11466701": {
+				"name": "Ankhaloq",
+				"prespp": 5,
+				"tur": 4,
+				"type": "R"
+			},
+			"11466702": {
+				"name": "Garkrox",
+				"rus": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"11466703": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Hextenq",
+				"prespp": 3,
+				"spp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"11466708": {
+				"blk": 1,
+				"name": "Otta-uax",
+				"rus": 14,
+				"tur": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "902377",
 	"team_performance": {
 		"855530": {
 			"cas": 6,
 			"casdiff": 5,
+			"name": "Guardians of the Lurking God",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"856372": {
 			"cas": 1,
 			"casdiff": -5,
+			"name": "Teotiqua Oracles",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

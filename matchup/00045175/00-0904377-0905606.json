@@ -1,19 +1,224 @@
 {
 	"!excluded": "no",
+	"matchId": "3995031",
+	"player_performance": {
+		"904377": {
+			"12231317": {
+				"blk": 10,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Ruby",
+				"prespp": 8,
+				"spp": 9,
+				"tur": 17,
+				"type": "R"
+			},
+			"12231319": {
+				"blk": 1,
+				"name": "Sapphire",
+				"prespp": 9,
+				"rus": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"12231325": {
+				"blk": 8,
+				"name": "Emerald",
+				"prespp": 2,
+				"rus": 9,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12231332": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Topaz",
+				"prespp": 6,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12231335": {
+				"blk": 8,
+				"name": "Diamond",
+				"prespp": 9,
+				"tur": 17,
+				"type": "B"
+			},
+			"12231336": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Aquamarine",
+				"prespp": 9,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12231338": {
+				"blk": 1,
+				"died": [
+					2,
+					3,
+					"blocked",
+					"12250212"
+				],
+				"name": "Alexandrite",
+				"tur": 9,
+				"type": "R"
+			},
+			"12231341": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Opal",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12231345": {
+				"blk": 3,
+				"name": "Hematite",
+				"tur": 17,
+				"type": "R"
+			},
+			"12266023": {
+				"blk": 8,
+				"name": "Pearl",
+				"tur": 17,
+				"type": "B"
+			},
+			"12266027": {
+				"blk": 2,
+				"name": "Cory Hardstream",
+				"tur": 17,
+				"type": "R"
+			}
+		},
+		"905606": {
+			"12250181": {
+				"blk": 1,
+				"name": "Thaskar the Patient",
+				"tur": 18,
+				"type": "R"
+			},
+			"12250182": {
+				"cps": 1,
+				"mvp": 1,
+				"name": "Laris the Architect",
+				"prespp": 4,
+				"rus": 8,
+				"spp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12250183": {
+				"blk": 3,
+				"name": "Khahos the Crimson",
+				"prespp": 10,
+				"tur": 6,
+				"type": "R"
+			},
+			"12250187": {
+				"blk": 1,
+				"name": "Itom the Visionary",
+				"prespp": 4,
+				"tur": 18,
+				"type": "R"
+			},
+			"12250188": {
+				"blk": 3,
+				"name": "Machakh the Ancient",
+				"prespp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"12250189": {
+				"blk": 2,
+				"cas": 1,
+				"int": 1,
+				"name": "Rophkihon the Prime",
+				"spp": 4,
+				"tur": 13,
+				"type": "R"
+			},
+			"12250191": {
+				"blk": 2,
+				"name": "Nestap the Brillant",
+				"tur": 5,
+				"type": "R"
+			},
+			"12250204": {
+				"blk": 2,
+				"name": "Syiksa the Infinite",
+				"prespp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"12250205": {
+				"blk": 12,
+				"name": "Aexlor the Bulwark",
+				"prespp": 7,
+				"tur": 17,
+				"type": "B"
+			},
+			"12250207": {
+				"blk": 2,
+				"name": "Khokhakh the Honorable",
+				"tur": 7,
+				"type": "R"
+			},
+			"12250209": {
+				"blk": 5,
+				"name": "Erikheph the Watcher",
+				"tur": 17,
+				"type": "R"
+			},
+			"12250212": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Kessas the White",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"12260629": {
+				"blk": 2,
+				"name": "Onileph The Artist",
+				"prespp": 5,
+				"tur": 5,
+				"type": "R"
+			},
+			"12318765": {
+				"name": "Tepthetho the Graceful",
+				"tur": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1076140",
 	"team_performance": {
 		"904377": {
 			"cas": 5,
 			"casdiff": 3,
+			"name": "Aurons",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"905606": {
 			"cas": 2,
 			"casdiff": -3,
+			"name": "Serpent-Guards of Khalida",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

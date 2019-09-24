@@ -1,19 +1,188 @@
 {
 	"!excluded": "no",
+	"matchId": "3957748",
+	"player_performance": {
+		"895929": {
+			"12098249": {
+				"blk": 2,
+				"name": "Fangsnapper",
+				"tur": 3,
+				"type": "R"
+			},
+			"12098256": {
+				"blk": 6,
+				"name": "Windfury",
+				"tur": 16,
+				"type": "R"
+			},
+			"12098257": {
+				"blk": 10,
+				"mvp": 1,
+				"name": "Clawchest",
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12098258": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Silverscar",
+				"rus": 6,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12098263": {
+				"blk": 8,
+				"name": "Silverstriker",
+				"tur": 16,
+				"type": "R"
+			},
+			"12098287": {
+				"blk": 2,
+				"name": "Amberfinger",
+				"tur": 16,
+				"type": "R"
+			},
+			"12098289": {
+				"blk": 2,
+				"name": "Crowripper",
+				"tur": 9,
+				"type": "R"
+			},
+			"12098290": {
+				"name": "Heartchewer",
+				"tur": 5,
+				"type": "R"
+			},
+			"12098291": {
+				"name": "Ironspine",
+				"tur": 16,
+				"type": "R"
+			},
+			"12098294": {
+				"name": "Blackchewer",
+				"type": "R"
+			},
+			"12098296": {
+				"blk": 2,
+				"name": "Cragclaw",
+				"tur": 16,
+				"type": "R"
+			},
+			"12098297": {
+				"name": "Duskdigger",
+				"rus": 5,
+				"tur": 8,
+				"type": "R"
+			}
+		},
+		"896228": {
+			"12103149": {
+				"blk": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Mortarion",
+				"spp": 7,
+				"tur": 16,
+				"type": "B"
+			},
+			"12103150": {
+				"blk": 5,
+				"name": "Scabeiathrax",
+				"tur": 16,
+				"type": "R"
+			},
+			"12103152": {
+				"blk": 9,
+				"name": "Ku'Gath",
+				"tur": 16,
+				"type": "R"
+			},
+			"12103156": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Epidemius",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103159": {
+				"blk": 2,
+				"name": "Typhus",
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12103164": {
+				"blk": 1,
+				"name": "Artemius",
+				"tur": 16,
+				"type": "R"
+			},
+			"12103165": {
+				"blk": 3,
+				"name": "Mattius Heiron",
+				"tur": 16,
+				"type": "R"
+			},
+			"12103183": {
+				"blk": 5,
+				"name": "Burroroz",
+				"tur": 16,
+				"type": "R"
+			},
+			"12103185": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Garalash",
+				"tur": 16,
+				"type": "R"
+			},
+			"12103188": {
+				"fou": 1,
+				"name": "Ygadekai",
+				"tur": 3,
+				"type": "R"
+			},
+			"12103189": {
+				"blk": 3,
+				"died": [
+					2,
+					7,
+					"blocked",
+					"12098258"
+				],
+				"fou": 1,
+				"name": "Kresalax",
+				"tur": 14,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1031855",
 	"team_performance": {
 		"895929": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Fangsnapper's Clawpack",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"896228": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Gardeners of Nurgle",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

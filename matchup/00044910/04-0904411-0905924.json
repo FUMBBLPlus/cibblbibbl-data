@@ -1,19 +1,213 @@
 {
 	"!excluded": "no",
+	"matchId": "3985504",
+	"player_performance": {
+		"904411": {
+			"12231956": {
+				"blk": 6,
+				"name": "Cadwgan Bleak",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231968": {
+				"name": "\"Smiles\" Arwyn",
+				"type": "R"
+			},
+			"12231969": {
+				"blk": 1,
+				"name": "Idris Fast-Friend",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231970": {
+				"blk": 10,
+				"cas": 2,
+				"name": "Madoc Gallows-Grin",
+				"prespp": 7,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231971": {
+				"blk": 1,
+				"name": "Owain ap Bran",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231974": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Prydwen ap Blaidd",
+				"prespp": 11,
+				"rus": 7,
+				"spp": 8,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231978": {
+				"blk": 2,
+				"name": "Llewelyn Grey-Eyes",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231979": {
+				"name": "Heilyn the Drunkard",
+				"type": "R"
+			},
+			"12231981": {
+				"name": "Meredith",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231982": {
+				"blk": 1,
+				"name": "Eirian",
+				"rus": 6,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12231983": {
+				"blk": 3,
+				"fou": 2,
+				"name": "Rhys",
+				"pas": 1,
+				"rus": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12259937": {
+				"blk": 1,
+				"name": "Graham the Brave",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12261545": {
+				"blk": 2,
+				"cps": 1,
+				"name": "Morcanth the Melancholy",
+				"pas": -3,
+				"rus": 13,
+				"spp": 1,
+				"tur": 9,
+				"type": "R"
+			}
+		},
+		"905924": {
+			"12254401": {
+				"blk": 3,
+				"name": "Reddup",
+				"tur": 5,
+				"type": "R"
+			},
+			"12254402": {
+				"blk": 3,
+				"name": "Spook",
+				"prespp": 5,
+				"tur": 15,
+				"type": "B"
+			},
+			"12254405": {
+				"blk": 4,
+				"name": "Bone",
+				"prespp": 8,
+				"tur": 10,
+				"type": "R"
+			},
+			"12254406": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Gruber",
+				"rus": 9,
+				"spp": 10,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"12254409": {
+				"blk": 6,
+				"name": "Pygmy",
+				"tur": 15,
+				"type": "R"
+			},
+			"12254414": {
+				"blk": 1,
+				"name": "Clumsy",
+				"prespp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"12254424": {
+				"name": "Ashur The Vile",
+				"tur": 5,
+				"type": "R"
+			},
+			"12254426": {
+				"died": [
+					1,
+					4,
+					"blocked",
+					"12231970"
+				],
+				"name": "Ghekko The Supervisor",
+				"prespp": 2,
+				"tur": 4,
+				"type": "R"
+			},
+			"12254427": {
+				"blk": 2,
+				"name": "Slob The Laborer",
+				"rus": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"12254440": {
+				"name": "O-Dog The Trogslayer",
+				"rus": 1,
+				"tur": 6,
+				"type": "R"
+			},
+			"12254445": {
+				"name": "Scumm The Rebel",
+				"rus": 9,
+				"tur": 13,
+				"type": "R"
+			},
+			"12254450": {
+				"name": "Smartu The Unscarred",
+				"prespp": 3,
+				"tur": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1063776",
 	"team_performance": {
 		"904411": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Ynys Morion Mabsantwyr",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"905924": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Squill's Squig Pitt",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

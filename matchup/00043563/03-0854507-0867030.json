@@ -1,19 +1,205 @@
 {
 	"!excluded": "no",
+	"matchId": "3927948",
+	"player_performance": {
+		"854507": {
+			"11439080": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Vol'arth the Brazen",
+				"prespp": 44,
+				"rus": 12,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439088": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Yibb-Tstll",
+				"prespp": 34,
+				"rus": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439090": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Do Galaad, the Herald",
+				"prespp": 52,
+				"rus": 14,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11582112": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Horok",
+				"prespp": 17,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11681756": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Neron",
+				"prespp": 18,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11766988": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Malphas, the Harbinger",
+				"prespp": 17,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11807607": {
+				"blk": 6,
+				"name": "Palehawk, the Revenant",
+				"prespp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"11851618": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Marius, the Forgiven",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11926823": {
+				"blk": 4,
+				"name": "Berethan, the Soulless",
+				"tur": 14,
+				"type": "R"
+			},
+			"11926825": {
+				"fou": 1,
+				"name": "Jack Dirtytree",
+				"tur": 11,
+				"type": "R"
+			},
+			"11926826": {
+				"name": "Zachary Clumsyhammer",
+				"tur": 2,
+				"type": "R"
+			}
+		},
+		"867030": {
+			"11633486": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Sokitoomi",
+				"prespp": 27,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11633494": {
+				"name": "Grymlog",
+				"prespp": 22,
+				"tur": 3,
+				"type": "R"
+			},
+			"11633500": {
+				"name": "Quaxili",
+				"prespp": 2,
+				"tur": 2,
+				"type": "R"
+			},
+			"11633503": {
+				"blk": 1,
+				"name": "Kha-Ataxa",
+				"prespp": 18,
+				"tur": 2,
+				"type": "R"
+			},
+			"11633506": {
+				"name": "Xlanaxlot",
+				"prespp": 11,
+				"tur": 5,
+				"type": "R"
+			},
+			"11633507": {
+				"name": "Xapati",
+				"pas": -1,
+				"prespp": 18,
+				"rus": -7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11633509": {
+				"name": "Zwup",
+				"prespp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"11633512": {
+				"blk": 1,
+				"name": "Huamundi",
+				"prespp": 23,
+				"rus": 7,
+				"tur": 14,
+				"type": "R"
+			},
+			"11767503": {
+				"blk": 13,
+				"mvp": 1,
+				"name": "Carnivore",
+				"prespp": 4,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11929270": {
+				"blk": 8,
+				"name": "Dro'ka'khanxlot",
+				"tur": 16,
+				"type": "R"
+			},
+			"11929271": {
+				"name": "Aaron Quicksnake",
+				"tur": 16,
+				"type": "R"
+			},
+			"867030S1": {
+				"blk": 6,
+				"name": "Diegi Maratona",
+				"tur": 12,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "997430",
 	"team_performance": {
 		"854507": {
 			"cas": 5,
 			"casdiff": 4,
+			"name": "Coven of the Mirrored Hall",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"867030": {
 			"cas": 1,
 			"casdiff": -4,
+			"name": "Sport Spawning Zlatlan",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

@@ -1,19 +1,201 @@
 {
 	"!excluded": "no",
+	"matchId": "3967451",
+	"player_performance": {
+		"898504": {
+			"12139338": {
+				"name": "Artos",
+				"type": "B"
+			},
+			"12139340": {
+				"blk": 2,
+				"name": "Deitrich Wulfkind",
+				"prespp": 11,
+				"tur": 5,
+				"type": "R"
+			},
+			"12139343": {
+				"blk": 1,
+				"name": "Karl Eisenblut",
+				"prespp": 12,
+				"tur": 5,
+				"type": "R"
+			},
+			"12139357": {
+				"name": "Neldor Quickfoot",
+				"prespp": 7,
+				"rus": 4,
+				"tur": 5,
+				"type": "R"
+			},
+			"12139358": {
+				"name": "Thenan Sharpclaw",
+				"tur": 5,
+				"type": "R"
+			},
+			"12139360": {
+				"blk": 1,
+				"died": [
+					1,
+					1,
+					"blocked",
+					"12146724"
+				],
+				"name": "Vuduin Nighteyes",
+				"type": "R"
+			},
+			"12139368": {
+				"name": "Rennyn Longtooth",
+				"tur": 1,
+				"type": "R"
+			},
+			"12139373": {
+				"name": "Kailu Dreadpaw",
+				"tur": 5,
+				"type": "R"
+			},
+			"12139374": {
+				"name": "Vartan Shadowstrike",
+				"tur": 5,
+				"type": "R"
+			},
+			"12139394": {
+				"blk": 1,
+				"name": "Franz Stehlklau",
+				"prespp": 5,
+				"tur": 5,
+				"type": "R"
+			},
+			"12154028": {
+				"blk": 2,
+				"name": "Otto Langzahn",
+				"tur": 3,
+				"type": "R"
+			},
+			"12154030": {
+				"died": [
+					1,
+					1,
+					"blocked",
+					"12140430"
+				],
+				"name": "Paul Whiteorc",
+				"tur": 1,
+				"type": "R"
+			}
+		},
+		"898574": {
+			"12139360R1": {
+				"name": "Vuduin Nighteyes",
+				"type": "D"
+			},
+			"12140311": {
+				"blk": 4,
+				"name": "Hemlock Wyatt",
+				"prespp": 1,
+				"tur": 5,
+				"type": "R"
+			},
+			"12140313": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Arsenic William",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 5,
+				"type": "R"
+			},
+			"12140318": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Dimefox Winston",
+				"prespp": 10,
+				"spp": 5,
+				"tur": 5,
+				"type": "R"
+			},
+			"12140321": {
+				"blk": 1,
+				"name": "Hydrazine Wendall",
+				"prespp": 7,
+				"rus": 1,
+				"tur": 5,
+				"type": "R"
+			},
+			"12140327": {
+				"name": "Lactonitrile Bernice",
+				"prespp": 8,
+				"tur": 5,
+				"type": "R"
+			},
+			"12140330": {
+				"name": "Lindane Salvatore",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12140331": {
+				"blk": 1,
+				"name": "Malononitrile Sebastian",
+				"tur": 5,
+				"type": "R"
+			},
+			"12140364": {
+				"blk": 1,
+				"name": "Methomyl Samuel",
+				"prespp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"12140428": {
+				"blk": 3,
+				"name": "Phenol Sinclair",
+				"tur": 5,
+				"type": "R"
+			},
+			"12140430": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Piperidine Scarlett",
+				"spp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"12140438": {
+				"name": "Terbufos Sonia",
+				"tur": 5,
+				"type": "R"
+			},
+			"12146724": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Anchorman",
+				"spp": 2,
+				"tur": 5,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1042982",
 	"team_performance": {
 		"898504": {
 			"cas": 0,
 			"casdiff": -3,
+			"name": "[L] Ravensloft Ravers",
 			"rsym": "C",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": 0
 		},
 		"898574": {
 			"cas": 3,
 			"casdiff": 3,
+			"name": "Revenge Street Reapers",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 0,
+			"tdsdiff": 0
 		}
 	}
 }

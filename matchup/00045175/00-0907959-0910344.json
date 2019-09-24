@@ -1,19 +1,221 @@
 {
 	"!excluded": "no",
+	"matchId": "3996328",
+	"player_performance": {
+		"907959": {
+			"12285927": {
+				"blk": 8,
+				"name": "Richter Kless",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12285928": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Drachron Lewdshade",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12285929": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Gregor Lushclaw",
+				"spp": 5,
+				"tur": 10,
+				"type": "R"
+			},
+			"12285943": {
+				"blk": 2,
+				"died": [
+					1,
+					4,
+					"crowdPushed",
+					null
+				],
+				"name": "Grazabire Lust'igor",
+				"prespp": 2,
+				"rus": 6,
+				"tur": 3,
+				"type": "R"
+			},
+			"12285944": {
+				"blk": 2,
+				"cas": 1,
+				"died": [
+					1,
+					7,
+					"dodgeFail",
+					null
+				],
+				"name": "Zhopulax Intoxt'igor",
+				"spp": 2,
+				"tur": 6,
+				"type": "R"
+			},
+			"12285959": {
+				"blk": 2,
+				"cps": 2,
+				"name": "Nemeliz Ssin",
+				"rus": 8,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12285960": {
+				"blk": 1,
+				"name": "Ez'lith Fervor",
+				"tur": 12,
+				"type": "R"
+			},
+			"12285967": {
+				"name": "Lilith Gi'khas",
+				"type": "R"
+			},
+			"12285974": {
+				"blk": 2,
+				"name": "Deedee Hezvix",
+				"tur": 16,
+				"type": "R"
+			},
+			"12285975": {
+				"blk": 1,
+				"cps": 1,
+				"fou": 1,
+				"name": "Rhiahirr Xcezz",
+				"pas": 4,
+				"prespp": 1,
+				"rus": 21,
+				"spp": 4,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"12285977": {
+				"blk": 1,
+				"name": "Mordethia Sinestro",
+				"tur": 4,
+				"type": "R"
+			},
+			"12321589": {
+				"fou": 1,
+				"name": "Robert Strongbrook",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"910344": {
+			"12285943R1": {
+				"blk": 1,
+				"name": "Grazabire Lust'igor",
+				"tur": 5,
+				"type": "D"
+			},
+			"12323836": {
+				"blk": 7,
+				"mvp": 1,
+				"name": "Abel Sturm",
+				"rus": 4,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12323837": {
+				"blk": 2,
+				"name": "Draco Gore",
+				"tur": 6,
+				"type": "R"
+			},
+			"12323838": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Ivan Vallejo",
+				"spp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"12323839": {
+				"blk": 6,
+				"name": "Marquis Agulliar",
+				"rus": 20,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12323842": {
+				"blk": 1,
+				"name": "Melchior",
+				"tur": 8,
+				"type": "R"
+			},
+			"12323843": {
+				"blk": 2,
+				"name": "Demetrius",
+				"tur": 9,
+				"type": "R"
+			},
+			"12323844": {
+				"blk": 2,
+				"name": "Doru",
+				"tur": 5,
+				"type": "R"
+			},
+			"12323845": {
+				"blk": 3,
+				"name": "Cassius",
+				"tur": 16,
+				"type": "R"
+			},
+			"12323846": {
+				"blk": 4,
+				"name": "Spike",
+				"tur": 16,
+				"type": "R"
+			},
+			"12323847": {
+				"blk": 2,
+				"name": "Lucien",
+				"tur": 11,
+				"type": "R"
+			},
+			"12323848": {
+				"blk": 1,
+				"name": "Damien",
+				"tur": 11,
+				"type": "R"
+			},
+			"12323849": {
+				"blk": 4,
+				"name": "Ascelin",
+				"tur": 13,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1077643",
 	"team_performance": {
 		"907959": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "River Teufel Tricksters",
 			"rsym": "D",
 			"score": 2,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 2,
+			"tdsdiff": 0
 		},
 		"910344": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Vlad's Vampheroes",
 			"rsym": "D",
 			"score": 2,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 2,
+			"tdsdiff": 0
 		}
 	}
 }

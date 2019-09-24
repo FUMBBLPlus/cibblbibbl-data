@@ -1,19 +1,231 @@
 {
 	"!excluded": "no",
+	"matchId": "4061183",
+	"player_performance": {
+		"924405": {
+			"12545274": {
+				"blk": 6,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Krusher",
+				"prespp": 2,
+				"spp": 7,
+				"tur": 17,
+				"type": "B"
+			},
+			"12545275": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Grimdore Chainbreaker",
+				"prespp": 19,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12545276": {
+				"blk": 3,
+				"name": "Sugz Snarlof",
+				"prespp": 13,
+				"tur": 12,
+				"type": "R"
+			},
+			"12545277": {
+				"blk": 4,
+				"name": "Urig Ironhide",
+				"prespp": 7,
+				"tur": 7,
+				"type": "R"
+			},
+			"12545278": {
+				"blk": 11,
+				"cas": 1,
+				"name": "Zaghik Znarl",
+				"prespp": 9,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12545279": {
+				"blk": 6,
+				"fou": 1,
+				"name": "Zellar Cutthroat",
+				"prespp": 12,
+				"rus": 11,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12545280": {
+				"blk": 5,
+				"name": "Gurgug Gutter",
+				"prespp": 8,
+				"rus": 22,
+				"spp": 6,
+				"tds": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12545282": {
+				"blk": 10,
+				"fou": 1,
+				"name": "Tukram Slitter",
+				"prespp": 17,
+				"tur": 14,
+				"type": "R"
+			},
+			"12545293": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Wranviorx Posiontooth",
+				"prespp": 9,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12545296": {
+				"fou": 1,
+				"name": "Struhulk Lurker",
+				"prespp": 4,
+				"tur": 4,
+				"type": "R"
+			},
+			"12591760": {
+				"name": "Xaainth Headbeater",
+				"type": "R"
+			},
+			"12601880": {
+				"blk": 5,
+				"name": "Kigtug Lash",
+				"prespp": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12620091": {
+				"blk": 1,
+				"name": "Pligulk Pigstabber",
+				"tur": 9,
+				"type": "R"
+			},
+			"12664398": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Juttiz Swiper",
+				"tur": 6,
+				"type": "R"
+			}
+		},
+		"928360": {
+			"12607999": {
+				"blk": 9,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Grendel",
+				"prespp": 10,
+				"spp": 7,
+				"tur": 16,
+				"type": "B"
+			},
+			"12608002": {
+				"blk": 7,
+				"name": "Baldur",
+				"prespp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"12608004": {
+				"blk": 3,
+				"name": "Surtr",
+				"prespp": 20,
+				"tur": 5,
+				"type": "R"
+			},
+			"12608011": {
+				"name": "Heidrek",
+				"prespp": 5,
+				"tur": 2,
+				"type": "R"
+			},
+			"12608018": {
+				"blk": 1,
+				"died": [
+					2,
+					1,
+					"blocked",
+					"12545293"
+				],
+				"name": "Skoll",
+				"tur": 8,
+				"type": "R"
+			},
+			"12608023": {
+				"blk": 3,
+				"name": "Vali",
+				"prespp": 3,
+				"tur": 4,
+				"type": "R"
+			},
+			"12608031": {
+				"blk": 1,
+				"name": "Narfi",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"12608034": {
+				"name": "Mokkurkalfi",
+				"tur": 8,
+				"type": "R"
+			},
+			"12608036": {
+				"name": "Halogi",
+				"tur": 5,
+				"type": "R"
+			},
+			"12608039": {
+				"blk": 3,
+				"name": "Baugi",
+				"tur": 16,
+				"type": "R"
+			},
+			"12624317": {
+				"blk": 3,
+				"name": "Ullr",
+				"prespp": 6,
+				"rus": 9,
+				"tur": 13,
+				"type": "R"
+			},
+			"12627616": {
+				"blk": 1,
+				"name": "Hati",
+				"prespp": 7,
+				"tur": 7,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1151619",
 	"team_performance": {
 		"924405": {
 			"cas": 5,
 			"casdiff": 4,
+			"name": "Wolf Lands Slavers",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		},
 		"928360": {
 			"cas": 1,
 			"casdiff": -4,
+			"name": "Gorequeen's Raiders",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		}
 	}
 }

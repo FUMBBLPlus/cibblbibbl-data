@@ -1,19 +1,209 @@
 {
 	"!excluded": "no",
+	"matchId": "3902538",
+	"player_performance": {
+		"873945": {
+			"11747835": {
+				"blk": 10,
+				"cas": 2,
+				"name": "Modolf Dagsson",
+				"prespp": 9,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11747836": {
+				"blk": 2,
+				"name": "Bersi Thometillsson",
+				"tur": 16,
+				"type": "R"
+			},
+			"11747837": {
+				"blk": 4,
+				"name": "Firthgest Thiodolfsson",
+				"rus": 5,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11747839": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Kol Styrsson",
+				"prespp": 3,
+				"rus": 11,
+				"spp": 5,
+				"tur": 14,
+				"type": "R"
+			},
+			"11747841": {
+				"blk": 3,
+				"name": "Hall Solvisson",
+				"tur": 7,
+				"type": "R"
+			},
+			"11747842": {
+				"blk": 4,
+				"died": [
+					2,
+					7,
+					"blocked",
+					"11752703"
+				],
+				"name": "Heriolf Wengosson",
+				"rus": 15,
+				"spp": 3,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"11747844": {
+				"blk": 2,
+				"name": "Sturla Suitsson",
+				"tur": 9,
+				"type": "R"
+			},
+			"11747846": {
+				"blk": 7,
+				"name": "Modolf Svæinsson",
+				"prespp": 15,
+				"tur": 16,
+				"type": "R"
+			},
+			"11747847": {
+				"blk": 1,
+				"name": "Iri Brodirsson",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11767822": {
+				"blk": 1,
+				"name": "Brian Goldbrook",
+				"tur": 16,
+				"type": "R"
+			},
+			"11767823": {
+				"blk": 4,
+				"name": "Martin Truestream",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"874216": {
+			"11752703": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Owain Glyndwr",
+				"prespp": 10,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11752704": {
+				"blk": 4,
+				"name": "Aneurin Bevan",
+				"tur": 15,
+				"type": "R"
+			},
+			"11752711": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Hywel Dda",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11752714": {
+				"blk": 8,
+				"mvp": 1,
+				"name": "Tasker Watkins",
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11752718": {
+				"blk": 6,
+				"name": "Hedd Wyn",
+				"tur": 16,
+				"type": "R"
+			},
+			"11752719": {
+				"blk": 7,
+				"name": "Iolo Morganwg",
+				"tur": 16,
+				"type": "R"
+			},
+			"11752721": {
+				"name": "Betsi Cadwaladr",
+				"tur": 8,
+				"type": "R"
+			},
+			"11752724": {
+				"fou": 1,
+				"name": "Taliesin",
+				"tur": 3,
+				"type": "R"
+			},
+			"11752729": {
+				"name": "Gwendoline Davies",
+				"tur": 11,
+				"type": "R"
+			},
+			"11752730": {
+				"blk": 3,
+				"name": "Llywelyn ap Gruffudd",
+				"tur": 16,
+				"type": "R"
+			},
+			"11752731": {
+				"name": "Dafydd ap Gwilym",
+				"prespp": 3,
+				"tur": 6,
+				"type": "R"
+			},
+			"11752732": {
+				"name": "Dic Penderyn",
+				"prespp": 3,
+				"rus": -1,
+				"tur": 2,
+				"type": "R"
+			},
+			"11767621": {
+				"name": "Owain Lawgoch",
+				"tur": 7,
+				"type": "R"
+			},
+			"11767665": {
+				"name": "Rhys Ifans",
+				"rus": 11,
+				"tur": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "968174",
 	"team_performance": {
 		"873945": {
 			"cas": 2,
 			"casdiff": 0,
+			"name": "Warhird Huscarls",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"874216": {
 			"cas": 2,
 			"casdiff": 0,
+			"name": "Slumbering Dragons",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

@@ -1,19 +1,218 @@
 {
 	"!excluded": "no",
+	"matchId": "3950955",
+	"player_performance": {
+		"886114": {
+			"11939696": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Erato",
+				"prespp": 16,
+				"rus": 5,
+				"spp": 5,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"11939705": {
+				"blk": 3,
+				"name": "Lydia",
+				"prespp": 18,
+				"rus": 16,
+				"tur": 10,
+				"type": "R"
+			},
+			"11939711": {
+				"blk": 1,
+				"name": "Ariel",
+				"rus": 10,
+				"spp": 3,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"11939712": {
+				"name": "Arya",
+				"prespp": 17,
+				"tur": 14,
+				"type": "R"
+			},
+			"11939715": {
+				"blk": 3,
+				"name": "Aadhýa",
+				"tur": 14,
+				"type": "R"
+			},
+			"11939716": {
+				"name": "Coleshá",
+				"tur": 14,
+				"type": "R"
+			},
+			"11939717": {
+				"blk": 5,
+				"name": "Delilah",
+				"prespp": 20,
+				"tur": 14,
+				"type": "R"
+			},
+			"11939720": {
+				"name": "Elidhith",
+				"prespp": 6,
+				"type": "R"
+			},
+			"11956884": {
+				"blk": 7,
+				"int": 1,
+				"mvp": 1,
+				"name": "Elpida",
+				"pas": -1,
+				"prespp": 7,
+				"rus": 5,
+				"spp": 7,
+				"tur": 14,
+				"type": "R"
+			},
+			"12030024": {
+				"blk": 8,
+				"name": "Shinesa",
+				"prespp": 17,
+				"tur": 14,
+				"type": "R"
+			},
+			"12051225": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Sylvester Darklightning",
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"12051226": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Tristan Darkfire",
+				"spp": 2,
+				"tur": 10,
+				"type": "R"
+			}
+		},
+		"888344": {
+			"11974838": {
+				"blk": 1,
+				"name": "Finubar",
+				"prespp": 11,
+				"tur": 10,
+				"type": "R"
+			},
+			"11974839": {
+				"blk": 1,
+				"name": "Tyrielle",
+				"tur": 14,
+				"type": "R"
+			},
+			"11974840": {
+				"blk": 4,
+				"name": "Korhil",
+				"prespp": 6,
+				"tur": 14,
+				"type": "R"
+			},
+			"11974841": {
+				"blk": 6,
+				"name": "Yreene",
+				"prespp": 6,
+				"tur": 8,
+				"type": "R"
+			},
+			"11974844": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Ailmar",
+				"pas": 2,
+				"prespp": 5,
+				"rus": 3,
+				"spp": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"11974846": {
+				"name": "Phærael",
+				"prespp": 15,
+				"type": "R"
+			},
+			"11974850": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Hathor",
+				"pas": 1,
+				"prespp": 9,
+				"rus": 6,
+				"spp": 5,
+				"tur": 6,
+				"type": "R"
+			},
+			"11974853": {
+				"name": "Valen Freshbreeze",
+				"type": "R"
+			},
+			"11975460": {
+				"blk": 4,
+				"name": "Evilonah Fellblade",
+				"prespp": 19,
+				"tur": 14,
+				"type": "R"
+			},
+			"11975493": {
+				"blk": 1,
+				"name": "Morvael Lightningstrider",
+				"prespp": 22,
+				"rus": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"11980511": {
+				"blk": 6,
+				"name": "Valahuir Morningstar",
+				"prespp": 17,
+				"tur": 13,
+				"type": "R"
+			},
+			"12043532": {
+				"blk": 1,
+				"name": "Ornthalas Eaglesflight",
+				"prespp": 8,
+				"tur": 3,
+				"type": "R"
+			},
+			"12043865": {
+				"blk": 1,
+				"name": "Bel-Ithlirel Swiftstrider",
+				"tur": 14,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1024188",
 	"team_performance": {
 		"886114": {
 			"cas": 3,
 			"casdiff": 3,
+			"name": "Eye and Arrow",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"888344": {
 			"cas": 0,
 			"casdiff": -3,
+			"name": "Masqueraded Magnificence",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

@@ -1,19 +1,216 @@
 {
 	"!excluded": "no",
+	"matchId": "4041541",
+	"player_performance": {
+		"926018": {
+			"12569391": {
+				"blk": 11,
+				"cas": 2,
+				"name": "Korger Ur",
+				"prespp": 7,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12569392": {
+				"blk": 3,
+				"name": "Mager",
+				"tur": 11,
+				"type": "R"
+			},
+			"12569393": {
+				"blk": 4,
+				"name": "Stag Sgat",
+				"tur": 16,
+				"type": "R"
+			},
+			"12569395": {
+				"blk": 5,
+				"name": "\"The Unihorn\"",
+				"tur": 16,
+				"type": "R"
+			},
+			"12569396": {
+				"blk": 4,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Purg",
+				"prespp": 2,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12569397": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Farnegor",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12569399": {
+				"blk": 1,
+				"died": [
+					1,
+					5,
+					"blocked",
+					"12569525"
+				],
+				"name": "Cester",
+				"tur": 5,
+				"type": "R"
+			},
+			"12569402": {
+				"blk": 2,
+				"name": "Nager",
+				"tur": 16,
+				"type": "R"
+			},
+			"12569406": {
+				"name": "Pag-smer",
+				"tur": 4,
+				"type": "R"
+			},
+			"12569407": {
+				"blk": 2,
+				"name": "Nubimer",
+				"rus": 8,
+				"tur": 15,
+				"type": "R"
+			},
+			"12569408": {
+				"fou": 1,
+				"name": "Fragufer",
+				"rus": 21,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"926025": {
+			"12569521": {
+				"blk": 6,
+				"name": "Snot Steiner",
+				"tur": 16,
+				"type": "B"
+			},
+			"12569525": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Randy \"The Mucus Man\" Savage",
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"12569527": {
+				"blk": 8,
+				"mvp": 1,
+				"name": "Arnold Snotszenegger",
+				"spp": 5,
+				"tur": 16,
+				"type": "B"
+			},
+			"12569686": {
+				"blk": 6,
+				"name": "Lex Looger",
+				"tur": 16,
+				"type": "B"
+			},
+			"12569687": {
+				"name": "Splip",
+				"type": "R"
+			},
+			"12569688": {
+				"fou": 1,
+				"name": "Splop",
+				"tur": 15,
+				"type": "R"
+			},
+			"12569689": {
+				"name": "Sploop",
+				"tur": 3,
+				"type": "R"
+			},
+			"12569690": {
+				"name": "Skitter",
+				"tur": 3,
+				"type": "R"
+			},
+			"12569691": {
+				"name": "Scatter",
+				"tur": 5,
+				"type": "R"
+			},
+			"12569693": {
+				"fou": 1,
+				"name": "Kicky",
+				"pas": 1,
+				"rus": 7,
+				"tur": 8,
+				"type": "R"
+			},
+			"12569695": {
+				"name": "Sticky",
+				"tur": 8,
+				"type": "R"
+			},
+			"12569696": {
+				"fou": 1,
+				"name": "Icky",
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 4,
+				"type": "R"
+			},
+			"12569702": {
+				"cas": 1,
+				"name": "Picky",
+				"spp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"12571803": {
+				"blk": 7,
+				"name": "Booger T",
+				"tur": 16,
+				"type": "B"
+			},
+			"12571811": {
+				"blk": 6,
+				"name": "Hock Hogan",
+				"tur": 16,
+				"type": "B"
+			},
+			"12571815": {
+				"name": "Flicky",
+				"tur": 1,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1129483",
 	"team_performance": {
 		"926018": {
 			"cas": 4,
 			"casdiff": 2,
+			"name": "Kordoberg's Herd",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		},
 		"926025": {
 			"cas": 2,
 			"casdiff": -2,
+			"name": "Deadly Sinus Attack",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		}
 	}
 }

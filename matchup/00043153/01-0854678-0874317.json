@@ -1,19 +1,234 @@
 {
 	"!excluded": "no",
+	"matchId": "3912963",
+	"player_performance": {
+		"854678": {
+			"11439615": {
+				"blk": 6,
+				"died": [
+					2,
+					4,
+					"blocked",
+					"11754410"
+				],
+				"name": "Nightlord Throiskikkcin",
+				"prespp": 30,
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11439616": {
+				"blk": 5,
+				"name": "Nightlord Kratskittar",
+				"prespp": 38,
+				"tur": 9,
+				"type": "R"
+			},
+			"11439618": {
+				"blk": 5,
+				"name": "Nightmaster Gnawnagar",
+				"prespp": 16,
+				"rus": 5,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439620": {
+				"name": "Nightmaster Nurgrin",
+				"pas": -1,
+				"prespp": 17,
+				"rus": 11,
+				"tur": 2,
+				"type": "R"
+			},
+			"11439623": {
+				"died": [
+					1,
+					4,
+					"blocked",
+					"11754418"
+				],
+				"name": "Crittskik the Green",
+				"prespp": 7,
+				"tur": 3,
+				"type": "R"
+			},
+			"11439624": {
+				"blk": 2,
+				"name": "Grisnik the Blacktail",
+				"pas": -1,
+				"prespp": 17,
+				"rus": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439627": {
+				"fou": 1,
+				"name": "Burhakk the Ghost",
+				"prespp": 10,
+				"tur": 4,
+				"type": "R"
+			},
+			"11439628": {
+				"blk": 4,
+				"name": "Sneekis the Dragon",
+				"prespp": 38,
+				"tur": 8,
+				"type": "R"
+			},
+			"11439629": {
+				"name": "Vasquee the Greywhisker",
+				"prespp": 13,
+				"tur": 12,
+				"type": "R"
+			},
+			"11482377": {
+				"blk": 3,
+				"name": "Grisnagar the Brave",
+				"prespp": 10,
+				"tur": 5,
+				"type": "R"
+			},
+			"11696955": {
+				"mvp": 1,
+				"name": "Nightmaster Gaz",
+				"prespp": 13,
+				"spp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"11696956": {
+				"name": "Nightmaster Skirshakk",
+				"prespp": 16,
+				"rus": 2,
+				"tur": 2,
+				"type": "R"
+			},
+			"11696958": {
+				"blk": 2,
+				"name": "Thanaz the Darkflame",
+				"tur": 12,
+				"type": "R"
+			}
+		},
+		"874317": {
+			"11754392": {
+				"blk": 3,
+				"name": "Balor Evil-eye",
+				"prespp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"11754395": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Moloch the Terrible",
+				"prespp": 5,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11754410": {
+				"blk": 11,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Odracon The Procreator",
+				"prespp": 7,
+				"spp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11754411": {
+				"blk": 5,
+				"name": "Bres",
+				"prespp": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"11754412": {
+				"fou": 1,
+				"name": "Cian",
+				"tur": 1,
+				"type": "R"
+			},
+			"11754414": {
+				"blk": 1,
+				"name": "Lug",
+				"tur": 16,
+				"type": "R"
+			},
+			"11754416": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Cichol Grichencos",
+				"tur": 14,
+				"type": "R"
+			},
+			"11754417": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Cethlenn",
+				"tur": 8,
+				"type": "R"
+			},
+			"11754418": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Tethra",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11754422": {
+				"blk": 1,
+				"name": "Biròq",
+				"prespp": 16,
+				"rus": 33,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11768708": {
+				"blk": 3,
+				"name": "Slough Feg",
+				"tur": 16,
+				"type": "R"
+			},
+			"874317S1": {
+				"blk": 3,
+				"fou": 1,
+				"name": "M'Gorg'Gn'Throg",
+				"tur": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "979985",
 	"team_performance": {
 		"854678": {
 			"cas": 0,
 			"casdiff": -6,
+			"name": "Lords of the Silent Death",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"874317": {
 			"cas": 6,
 			"casdiff": 6,
+			"name": "Misty Isle Gators",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

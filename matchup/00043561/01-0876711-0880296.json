@@ -1,19 +1,198 @@
 {
 	"!excluded": "no",
+	"matchId": "3928599",
+	"player_performance": {
+		"876711": {
+			"11790126": {
+				"blk": 9,
+				"name": "Oake",
+				"prespp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"11790127": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Nettala",
+				"prespp": 5,
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"11790128": {
+				"blk": 10,
+				"name": "Geranara",
+				"tur": 16,
+				"type": "R"
+			},
+			"11790129": {
+				"blk": 4,
+				"name": "Hellobora",
+				"prespp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11790130": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Decumaria",
+				"prespp": 8,
+				"rus": 30,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11790131": {
+				"name": "Geranoris",
+				"prespp": 5,
+				"type": "R"
+			},
+			"11790133": {
+				"blk": 5,
+				"fou": 1,
+				"name": "Mahoganaea",
+				"tur": 16,
+				"type": "R"
+			},
+			"11790136": {
+				"blk": 3,
+				"name": "Anisatum",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11790137": {
+				"blk": 2,
+				"died": [
+					2,
+					3,
+					"blocked",
+					"11848677"
+				],
+				"name": "Kalise",
+				"tur": 11,
+				"type": "R"
+			},
+			"11790138": {
+				"blk": 2,
+				"name": "Telodice",
+				"tur": 12,
+				"type": "R"
+			},
+			"11790140": {
+				"name": "Ensata",
+				"tur": 16,
+				"type": "R"
+			},
+			"11942310": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Tristan Coldbrook",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"880296": {
+			"11848677": {
+				"blk": 11,
+				"cas": 1,
+				"name": "Pa-kamsi the Merciless",
+				"prespp": 9,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848678": {
+				"blk": 8,
+				"mvp": 1,
+				"name": "Salih the Griefer",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848679": {
+				"blk": 6,
+				"name": "Djoser the Festerer",
+				"prespp": 10,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848680": {
+				"blk": 4,
+				"name": "Taf-nekht the Shambler",
+				"tur": 7,
+				"type": "R"
+			},
+			"11848681": {
+				"blk": 7,
+				"name": "Set-en-et the Goader",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848682": {
+				"blk": 7,
+				"name": "Ra-tmeto the Biter",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848683": {
+				"blk": 3,
+				"name": "Khsathsovairyo the Butcher",
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848685": {
+				"fou": 1,
+				"name": "Nakht-ankh",
+				"type": "R"
+			},
+			"11848686": {
+				"blk": 1,
+				"name": "Ra-nefer-ab",
+				"tur": 16,
+				"type": "R"
+			},
+			"11848689": {
+				"blk": 2,
+				"name": "Utet",
+				"tur": 16,
+				"type": "R"
+			},
+			"11857540": {
+				"blk": 3,
+				"name": "Robert Clumsystone",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "998192",
 	"team_performance": {
 		"876711": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Cythral Old Oaks",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"880296": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Lamentations of Mahrak",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

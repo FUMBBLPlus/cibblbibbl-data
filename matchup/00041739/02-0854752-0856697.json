@@ -1,19 +1,218 @@
 {
 	"!excluded": "no",
+	"matchId": "3849642",
+	"player_performance": {
+		"854752": {
+			"11440634": {
+				"blk": 4,
+				"died": [
+					2,
+					1,
+					"blocked",
+					"11472248"
+				],
+				"name": "Frenzon",
+				"prespp": 6,
+				"tur": 9,
+				"type": "R"
+			},
+			"11440635": {
+				"blk": 1,
+				"name": "Kalma",
+				"rus": -6,
+				"tur": 17,
+				"type": "R"
+			},
+			"11440636": {
+				"name": "Satrophine",
+				"type": "R"
+			},
+			"11440637": {
+				"name": "Onslaught",
+				"prespp": 3,
+				"tur": 6,
+				"type": "R"
+			},
+			"11440638": {
+				"blk": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Psychon",
+				"prespp": 12,
+				"spp": 7,
+				"tur": 14,
+				"type": "R"
+			},
+			"11440639": {
+				"blk": 2,
+				"name": "Splintermind",
+				"rus": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"11440641": {
+				"blk": 1,
+				"died": [
+					1,
+					7,
+					"dodgeFail",
+					null
+				],
+				"name": "Adrenalight",
+				"prespp": 4,
+				"tur": 6,
+				"type": "R"
+			},
+			"11440643": {
+				"blk": 1,
+				"name": "Grave Lotus",
+				"tur": 17,
+				"type": "R"
+			},
+			"11440644": {
+				"blk": 1,
+				"name": "Serpentin",
+				"prespp": 17,
+				"tur": 14,
+				"type": "R"
+			},
+			"11440646": {
+				"cps": 1,
+				"name": "Hypex",
+				"pas": 1,
+				"prespp": 5,
+				"rus": 6,
+				"spp": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"11467161": {
+				"name": "Mankweed",
+				"tur": 1,
+				"type": "R"
+			},
+			"11467162": {
+				"name": "Spook",
+				"prespp": 5,
+				"type": "R"
+			}
+		},
+		"856697": {
+			"11472246": {
+				"blk": 8,
+				"name": "Skulltaker",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11472247": {
+				"blk": 8,
+				"name": "Urifdaemonkin",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11472248": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Valkia the Bloody",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11472249": {
+				"blk": 5,
+				"name": "Red Prophet",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11472250": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Arkh'gar",
+				"prespp": 3,
+				"rus": 21,
+				"spp": 8,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11472254": {
+				"name": "Tallomin",
+				"tur": 17,
+				"type": "R"
+			},
+			"11472255": {
+				"name": "Arvax the Mad",
+				"prespp": 5,
+				"rus": 1,
+				"spp": 3,
+				"tds": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"11472256": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Scyrak",
+				"rus": 4,
+				"spp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"11472262": {
+				"blk": 2,
+				"name": "Headsman of Cellebos",
+				"tur": 17,
+				"type": "R"
+			},
+			"11472265": {
+				"blk": 3,
+				"name": "Ba'ar Zul",
+				"rus": 14,
+				"tur": 14,
+				"type": "R"
+			},
+			"11472270": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Drakkar",
+				"rus": 10,
+				"spp": 5,
+				"tds": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"856697S1": {
+				"fou": 2,
+				"name": "Max Spleenripper",
+				"tur": 2,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "907104",
 	"team_performance": {
 		"854752": {
 			"cas": 1,
 			"casdiff": -4,
+			"name": "Pleasure Principle",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		},
 		"856697": {
 			"cas": 5,
 			"casdiff": 4,
+			"name": "Crimson Skull",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		}
 	}
 }

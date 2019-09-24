@@ -1,19 +1,238 @@
 {
 	"!excluded": "no",
+	"matchId": "3944968",
+	"player_performance": {
+		"874452": {
+			"11756582": {
+				"blk": 1,
+				"name": "Draco Dracovich",
+				"prespp": 76,
+				"tur": 2,
+				"type": "R"
+			},
+			"11756629": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Igor Igorivich",
+				"prespp": 52,
+				"rus": 25,
+				"spp": 5,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11756687": {
+				"name": "Karl",
+				"prespp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11756689": {
+				"name": "Franz",
+				"prespp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11756708": {
+				"blk": 1,
+				"fou": 2,
+				"name": "Sigwald",
+				"prespp": 5,
+				"tur": 12,
+				"type": "R"
+			},
+			"11756720": {
+				"blk": 10,
+				"name": "Gustav von Darkwald",
+				"prespp": 36,
+				"tur": 16,
+				"type": "R"
+			},
+			"11869690": {
+				"blk": 7,
+				"name": "Vlad Vladovich",
+				"prespp": 39,
+				"rus": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11875044": {
+				"name": "Laura",
+				"tur": 8,
+				"type": "R"
+			},
+			"11903019": {
+				"name": "Dietrich",
+				"prespp": 3,
+				"tur": 4,
+				"type": "R"
+			},
+			"11926830": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Reinhart von Teufeldorf",
+				"prespp": 7,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11978034": {
+				"name": "Fritz",
+				"type": "R"
+			},
+			"11980257": {
+				"blk": 1,
+				"name": "Griswald",
+				"tur": 10,
+				"type": "R"
+			},
+			"11980258": {
+				"name": "Tabbart",
+				"tur": 12,
+				"type": "R"
+			},
+			"11981974": {
+				"name": "Arnold",
+				"tur": 5,
+				"type": "R"
+			},
+			"12039550": {
+				"blk": 2,
+				"name": "Andrei Androvich",
+				"rus": 2,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"879790": {
+			"11839347": {
+				"fou": 1,
+				"name": "Hemek Abanux",
+				"tur": 16,
+				"type": "R"
+			},
+			"11839348": {
+				"name": "Kalrand Ahrudas",
+				"tur": 9,
+				"type": "R"
+			},
+			"11839349": {
+				"blk": 2,
+				"name": "Arstur An'gom",
+				"prespp": 5,
+				"rus": 7,
+				"tur": 10,
+				"type": "R"
+			},
+			"11839352": {
+				"blk": 5,
+				"cas": 1,
+				"died": [
+					2,
+					5,
+					"blocked",
+					"11926830"
+				],
+				"fou": 1,
+				"name": "Halanath Skyrak",
+				"prespp": 12,
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11839377": {
+				"blk": 11,
+				"cas": 2,
+				"name": "Tusk Anon, The Horned One",
+				"prespp": 28,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839378": {
+				"blk": 2,
+				"name": "Ezrath Nemelas",
+				"prespp": 10,
+				"rus": 6,
+				"tur": 10,
+				"type": "R"
+			},
+			"11839798": {
+				"blk": 2,
+				"name": "Ba'el, The Naked Slayer",
+				"prespp": 18,
+				"tur": 8,
+				"type": "R"
+			},
+			"11865383": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Abraxis, Tooth of Death",
+				"prespp": 16,
+				"spp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"11936995": {
+				"blk": 1,
+				"died": [
+					1,
+					2,
+					"blocked",
+					"11756629"
+				],
+				"name": "Festernacus Furilock",
+				"prespp": 6,
+				"tur": 1,
+				"type": "R"
+			},
+			"11959755": {
+				"blk": 8,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Malphas, The Bloody Blade",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"11999803": {
+				"blk": 1,
+				"name": "Zakhar Takai",
+				"tur": 3,
+				"type": "R"
+			},
+			"879790M1": {
+				"name": "Merc Khorne Cultist 1",
+				"tur": 5,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1017275",
 	"team_performance": {
 		"874452": {
 			"cas": 2,
 			"casdiff": -2,
+			"name": "Way of the Dragon",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"879790": {
 			"cas": 4,
 			"casdiff": 2,
+			"name": "Unfettered Fury",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

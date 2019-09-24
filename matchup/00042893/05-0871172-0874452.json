@@ -1,19 +1,225 @@
 {
 	"!excluded": "no",
+	"matchId": "3907930",
+	"player_performance": {
+		"871172": {
+			"11698446": {
+				"blk": 8,
+				"cas": 2,
+				"name": "Elize von Carstein",
+				"prespp": 40,
+				"rus": 17,
+				"spp": 7,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11698447": {
+				"blk": 7,
+				"name": "Pieter von Carstein",
+				"prespp": 35,
+				"tur": 9,
+				"type": "R"
+			},
+			"11698448": {
+				"blk": 7,
+				"name": "Markos von Carstein",
+				"pas": 1,
+				"prespp": 45,
+				"rus": -1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11698449": {
+				"blk": 1,
+				"name": "Hans Schäfer",
+				"tur": 15,
+				"type": "R"
+			},
+			"11698451": {
+				"name": "Johan Schulz",
+				"tur": 2,
+				"type": "R"
+			},
+			"11698453": {
+				"name": "Fritz Schneider",
+				"prespp": 4,
+				"tur": 15,
+				"type": "R"
+			},
+			"11698473": {
+				"name": "Frank Fischer",
+				"prespp": 5,
+				"tur": 1,
+				"type": "R"
+			},
+			"11698474": {
+				"name": "Schatten aus der Toten",
+				"prespp": 7,
+				"tur": 6,
+				"type": "R"
+			},
+			"11704837": {
+				"blk": 3,
+				"name": "Gerhart Müller",
+				"tur": 15,
+				"type": "R"
+			},
+			"11720718": {
+				"fou": 1,
+				"name": "Olav Schmidt",
+				"prespp": 4,
+				"tur": 8,
+				"type": "R"
+			},
+			"11766468": {
+				"name": "Lasse Hoffmann",
+				"tur": 7,
+				"type": "R"
+			},
+			"11766469": {
+				"name": "Karsten Weber",
+				"prespp": 2,
+				"type": "R"
+			},
+			"11766703": {
+				"blk": 4,
+				"name": "Hans Kruger",
+				"tur": 14,
+				"type": "R"
+			},
+			"11809763": {
+				"blk": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Jennevieve von Carstein",
+				"prespp": 6,
+				"rus": 6,
+				"spp": 7,
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"874452": {
+			"11756581": {
+				"blk": 10,
+				"cas": 3,
+				"name": "Gregor Gregorivich",
+				"prespp": 15,
+				"spp": 6,
+				"tur": 15,
+				"type": "R"
+			},
+			"11756582": {
+				"blk": 6,
+				"name": "Draco Dracovich",
+				"prespp": 12,
+				"rus": 18,
+				"tur": 12,
+				"type": "R"
+			},
+			"11756629": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Igor Igorivich",
+				"prespp": 8,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11756687": {
+				"blk": 1,
+				"name": "Karl",
+				"tur": 7,
+				"type": "R"
+			},
+			"11756689": {
+				"blk": 4,
+				"name": "Franz",
+				"prespp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11756707": {
+				"blk": 2,
+				"name": "Stefan",
+				"prespp": 3,
+				"tur": 10,
+				"type": "R"
+			},
+			"11756708": {
+				"name": "Sigwald",
+				"prespp": 3,
+				"tur": 1,
+				"type": "R"
+			},
+			"11756715": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Henrich von Blotenburg",
+				"prespp": 9,
+				"spp": 5,
+				"tur": 10,
+				"type": "R"
+			},
+			"11756720": {
+				"blk": 5,
+				"fou": 1,
+				"name": "Gustav von Darkwald",
+				"prespp": 9,
+				"tur": 15,
+				"type": "R"
+			},
+			"11756722": {
+				"name": "Otto",
+				"tur": 1,
+				"type": "R"
+			},
+			"11756723": {
+				"name": "Giselle",
+				"tur": 3,
+				"type": "R"
+			},
+			"11756725": {
+				"blk": 1,
+				"name": "Rupert",
+				"tur": 3,
+				"type": "R"
+			},
+			"11775815": {
+				"name": "Gunter",
+				"tur": 5,
+				"type": "R"
+			},
+			"874452S1": {
+				"blk": 3,
+				"name": "Crazy Igor",
+				"tur": 11,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "974315",
 	"team_performance": {
 		"871172": {
 			"cas": 3,
 			"casdiff": -1,
+			"name": "Nachthafen Nightlords",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"874452": {
 			"cas": 4,
 			"casdiff": 1,
+			"name": "Way of the Dragon",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

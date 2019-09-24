@@ -1,19 +1,216 @@
 {
 	"!excluded": "no",
+	"matchId": "3957977",
+	"player_performance": {
+		"889232": {
+			"11989951": {
+				"blk": 5,
+				"name": "Chthonic Pitchblende",
+				"prespp": 16,
+				"tur": 15,
+				"type": "R"
+			},
+			"11989952": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Chthonic Cobaltite",
+				"prespp": 5,
+				"rus": 4,
+				"spp": 3,
+				"tds": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"11989953": {
+				"blk": 4,
+				"name": "Chthonic Granite",
+				"prespp": 10,
+				"tur": 13,
+				"type": "R"
+			},
+			"11989954": {
+				"blk": 2,
+				"name": "Chthonic Jet",
+				"tur": 15,
+				"type": "R"
+			},
+			"11989958": {
+				"blk": 1,
+				"name": "Chthonic Gabbro",
+				"tur": 10,
+				"type": "R"
+			},
+			"11989967": {
+				"blk": 4,
+				"name": "Sylph Wisp",
+				"pas": 1,
+				"prespp": 17,
+				"rus": 31,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11989973": {
+				"blk": 7,
+				"cas": 2,
+				"name": "Naiad Nomia",
+				"prespp": 22,
+				"spp": 4,
+				"tur": 15,
+				"type": "R"
+			},
+			"11989980": {
+				"blk": 4,
+				"name": "Chthonic Kaolinite",
+				"tur": 15,
+				"type": "R"
+			},
+			"12003575": {
+				"fou": 1,
+				"name": "Sylph Haze",
+				"prespp": 4,
+				"tur": 8,
+				"type": "R"
+			},
+			"12031249": {
+				"fou": 1,
+				"mvp": 1,
+				"name": "Magma Crab",
+				"spp": 5,
+				"tur": 6,
+				"type": "R"
+			},
+			"12070122": {
+				"blk": 7,
+				"name": "Chthonic Slade",
+				"tur": 9,
+				"type": "R"
+			},
+			"12078649": {
+				"blk": 2,
+				"name": "Naiad Vinessa",
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"889542": {
+			"11994682": {
+				"blk": 4,
+				"died": [
+					1,
+					6,
+					"blocked",
+					"11989973"
+				],
+				"name": "Lord Hellfire",
+				"prespp": 17,
+				"tur": 5,
+				"type": "R"
+			},
+			"11994684": {
+				"blk": 3,
+				"name": "Mineral Casper",
+				"prespp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"11994685": {
+				"name": "Vortex",
+				"prespp": 10,
+				"rus": -3,
+				"tur": 5,
+				"type": "R"
+			},
+			"11994690": {
+				"name": "Flooding Caves",
+				"pas": -1,
+				"prespp": 8,
+				"rus": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"11994693": {
+				"name": "Flowing Woods",
+				"type": "R"
+			},
+			"11994694": {
+				"blk": 1,
+				"name": "Burning Soul",
+				"prespp": 8,
+				"tur": 6,
+				"type": "R"
+			},
+			"11994696": {
+				"blk": 2,
+				"name": "Restless Igniter",
+				"prespp": 6,
+				"tur": 6,
+				"type": "R"
+			},
+			"12003232": {
+				"blk": 1,
+				"name": "Shimering Glow",
+				"prespp": 13,
+				"tur": 5,
+				"type": "R"
+			},
+			"12009380": {
+				"name": "Underground Heat",
+				"prespp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"12036400": {
+				"mvp": 1,
+				"name": "Slight Tornado",
+				"prespp": 12,
+				"rus": 17,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"12045054": {
+				"blk": 4,
+				"name": "Solid Ground",
+				"tur": 15,
+				"type": "R"
+			},
+			"12050725": {
+				"blk": 1,
+				"name": "Flametongues",
+				"tur": 7,
+				"type": "R"
+			},
+			"12078854": {
+				"blk": 3,
+				"name": "Burning Flowers",
+				"tur": 11,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1031918",
 	"team_performance": {
 		"889232": {
 			"cas": 2,
 			"casdiff": 2,
+			"name": "Lost Golems of Grungni",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"889542": {
 			"cas": 0,
 			"casdiff": -2,
+			"name": "Hellbound Firebats",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

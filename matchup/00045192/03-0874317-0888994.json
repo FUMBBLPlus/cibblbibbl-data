@@ -1,19 +1,239 @@
 {
 	"!excluded": "no",
+	"matchId": "4001156",
+	"player_performance": {
+		"874317": {
+			"11754392": {
+				"blk": 7,
+				"cas": 2,
+				"name": "Balor Evil-eye",
+				"prespp": 25,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11754410": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Odracon The Procreator",
+				"prespp": 63,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11754412": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Cian",
+				"prespp": 22,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11754414": {
+				"fou": 1,
+				"name": "Lug",
+				"tur": 13,
+				"type": "R"
+			},
+			"11754417": {
+				"name": "Cethlenn",
+				"prespp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11754418": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Tethra",
+				"prespp": 22,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11904321": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Dilek",
+				"pas": 3,
+				"prespp": 57,
+				"rus": 1,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11966718": {
+				"blk": 7,
+				"name": "The Fog",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12047952": {
+				"blk": 9,
+				"cas": 2,
+				"name": "Slough Feg",
+				"prespp": 37,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12126092": {
+				"blk": 1,
+				"name": "Hadiz",
+				"prespp": 18,
+				"rus": 38,
+				"tur": 14,
+				"type": "R"
+			},
+			"12239695": {
+				"blk": 2,
+				"name": "Moloch the 3rd",
+				"prespp": 26,
+				"tur": 16,
+				"type": "R"
+			},
+			"12340697": {
+				"fou": 1,
+				"name": "Foulloch",
+				"tur": 7,
+				"type": "R"
+			}
+		},
+		"888994": {
+			"11985437": {
+				"blk": 9,
+				"name": "Vargwursgelnd",
+				"prespp": 45,
+				"tur": 16,
+				"type": "B"
+			},
+			"11985438": {
+				"blk": 12,
+				"cas": 1,
+				"name": "Gwoftirbnewfg",
+				"prespp": 73,
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"11985439": {
+				"blk": 6,
+				"name": "Gnorfmangph",
+				"prespp": 36,
+				"tur": 13,
+				"type": "B"
+			},
+			"11985441": {
+				"name": "Murchú Varken",
+				"prespp": 22,
+				"type": "R"
+			},
+			"11985462": {
+				"blk": 11,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Jforznthrargh",
+				"prespp": 45,
+				"spp": 7,
+				"tur": 16,
+				"type": "B"
+			},
+			"12031804": {
+				"name": "Báine Styrix",
+				"prespp": 55,
+				"rus": 20,
+				"spp": 6,
+				"tds": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12042228": {
+				"name": "Aodhán Coobe",
+				"prespp": 17,
+				"tur": 4,
+				"type": "R"
+			},
+			"12042370": {
+				"blk": 1,
+				"name": "Ualraig Fovor",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12129508": {
+				"name": "Hanrahan Fearghail",
+				"prespp": 8,
+				"rus": 8,
+				"tur": 11,
+				"type": "R"
+			},
+			"12190156": {
+				"died": [
+					1,
+					5,
+					"dodgeFail",
+					null
+				],
+				"name": "Sionn Volux",
+				"prespp": 8,
+				"tur": 4,
+				"type": "R"
+			},
+			"12277260": {
+				"fou": 1,
+				"name": "Brocc Rydan",
+				"prespp": 8,
+				"tur": 4,
+				"type": "R"
+			},
+			"12277426": {
+				"name": "Muirne Ariannona",
+				"tur": 5,
+				"type": "R"
+			},
+			"12297183": {
+				"name": "Olcán Cid",
+				"tur": 1,
+				"type": "R"
+			},
+			"12321072": {
+				"name": "Branduff Marney",
+				"type": "R"
+			},
+			"12341063": {
+				"fou": 1,
+				"name": "Éanna Fasner",
+				"type": "R"
+			},
+			"12341066": {
+				"name": "Baoth Foghladh",
+				"tur": 4,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1083201",
 	"team_performance": {
 		"874317": {
 			"cas": 7,
 			"casdiff": 5,
+			"name": "Misty Isle Gators",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"888994": {
 			"cas": 2,
 			"casdiff": -5,
+			"name": "Beerbog Behemoths",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

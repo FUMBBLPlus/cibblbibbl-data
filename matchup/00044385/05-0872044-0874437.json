@@ -1,19 +1,227 @@
 {
 	"!excluded": "no",
+	"matchId": "3969696",
+	"player_performance": {
+		"872044": {
+			"11713837": {
+				"blk": 14,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Carol I",
+				"prespp": 114,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11713838": {
+				"blk": 4,
+				"cps": 1,
+				"name": "Ferdinand I",
+				"pas": 1,
+				"prespp": 36,
+				"rus": 16,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11713847": {
+				"died": [
+					1,
+					2,
+					"blocked",
+					"11922070"
+				],
+				"fou": 1,
+				"name": "Grigore",
+				"tur": 2,
+				"type": "R"
+			},
+			"11756292": {
+				"name": "Maria Christina",
+				"prespp": 13,
+				"tur": 2,
+				"type": "R"
+			},
+			"11787325": {
+				"blk": 1,
+				"name": "Zsuzsanna Lorántffy",
+				"prespp": 15,
+				"tur": 9,
+				"type": "R"
+			},
+			"11859010": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Jelena Zrinska",
+				"prespp": 18,
+				"tur": 16,
+				"type": "R"
+			},
+			"11946731": {
+				"blk": 2,
+				"name": "Eleonore-Magdalena",
+				"prespp": 3,
+				"rus": 4,
+				"tur": 10,
+				"type": "R"
+			},
+			"11953214": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Wilhelmina Amalia",
+				"prespp": 9,
+				"rus": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11953217": {
+				"name": "Andrei",
+				"tur": 5,
+				"type": "R"
+			},
+			"11985989": {
+				"name": "Stefon",
+				"tur": 3,
+				"type": "R"
+			},
+			"12060385": {
+				"blk": 3,
+				"name": "Nicholas I",
+				"tur": 10,
+				"type": "R"
+			},
+			"12060391": {
+				"name": "Dumitru",
+				"prespp": 2,
+				"tur": 1,
+				"type": "R"
+			},
+			"12141683": {
+				"blk": 6,
+				"name": "Augustus I",
+				"prespp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"872044S1": {
+				"blk": 3,
+				"fou": 3,
+				"name": "Quasimordor",
+				"tur": 16,
+				"type": "S"
+			}
+		},
+		"874437": {
+			"11756336": {
+				"name": "Nomgulg Prattlehead",
+				"prespp": 42,
+				"rus": 21,
+				"spp": 3,
+				"tds": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"11756337": {
+				"blk": 6,
+				"name": "Persqka Boughclip",
+				"prespp": 31,
+				"tur": 15,
+				"type": "R"
+			},
+			"11756348": {
+				"blk": 1,
+				"name": "Scrub Scrub",
+				"prespp": 23,
+				"tur": 4,
+				"type": "R"
+			},
+			"11898319": {
+				"blk": 4,
+				"name": "Buce'ador Espeleólody",
+				"prespp": 33,
+				"tur": 8,
+				"type": "B"
+			},
+			"11919173": {
+				"blk": 1,
+				"name": "Arprehdy Taenaerae",
+				"prespp": 17,
+				"tur": 7,
+				"type": "R"
+			},
+			"11922070": {
+				"blk": 5,
+				"cas": 1,
+				"name": "T?ne Mahuta",
+				"prespp": 18,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11966937": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Radix Radex",
+				"tur": 16,
+				"type": "R"
+			},
+			"12047631": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Brawl Punya",
+				"prespp": 10,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12101922": {
+				"blk": 1,
+				"cas": 1,
+				"fou": 1,
+				"name": "Chankiri Crighac",
+				"prespp": 4,
+				"spp": 2,
+				"tur": 3,
+				"type": "R"
+			},
+			"12135896": {
+				"blk": 4,
+				"name": "Komuna Kijidoma",
+				"prespp": 6,
+				"tur": 14,
+				"type": "R"
+			},
+			"12169591": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Bun di Riddim",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1045529",
 	"team_performance": {
 		"872044": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Strigos Elită",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"874437": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Bigwood Tree Shmashaz",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

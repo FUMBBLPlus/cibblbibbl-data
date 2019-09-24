@@ -1,19 +1,218 @@
 {
 	"!excluded": "no",
+	"matchId": "4072780",
+	"player_performance": {
+		"924841": {
+			"12552091": {
+				"blk": 7,
+				"name": "Quonq Sharpfangs",
+				"prespp": 8,
+				"rus": -1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12552095": {
+				"blk": 3,
+				"name": "Skruch Duskwalker",
+				"prespp": 22,
+				"tur": 15,
+				"type": "R"
+			},
+			"12552098": {
+				"blk": 5,
+				"name": "Zaqrat",
+				"prespp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"12552099": {
+				"blk": 5,
+				"name": "Khrokch",
+				"prespp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"12552101": {
+				"fou": 1,
+				"name": "Trietch",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12552116": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Snuktlich",
+				"prespp": 1,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"12585407": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Squarx Deadreaver",
+				"prespp": 22,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12592998": {
+				"name": "Sqreet",
+				"type": "R"
+			},
+			"12602311": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Wraat",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"12616266": {
+				"cps": 1,
+				"name": "Runtch Quicklegs",
+				"pas": 3,
+				"prespp": 15,
+				"rus": 11,
+				"spp": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12678911": {
+				"blk": 2,
+				"name": "Qulk Grimgaze",
+				"prespp": 10,
+				"rus": 14,
+				"spp": 6,
+				"tds": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12714787": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Zitch",
+				"tur": 15,
+				"type": "R"
+			},
+			"12728053": {
+				"blk": 1,
+				"name": "Znach Skullstalker",
+				"tur": 7,
+				"type": "R"
+			}
+		},
+		"925779": {
+			"12566452": {
+				"blk": 2,
+				"name": "Shulindi Calam",
+				"tur": 9,
+				"type": "R"
+			},
+			"12566453": {
+				"blk": 9,
+				"name": "Rekana Tolomo",
+				"prespp": 12,
+				"tur": 14,
+				"type": "R"
+			},
+			"12566454": {
+				"blk": 6,
+				"name": "Asanti Mahaa",
+				"prespp": 18,
+				"tur": 14,
+				"type": "R"
+			},
+			"12566455": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Rulinkie Gishama",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 2,
+				"type": "R"
+			},
+			"12566456": {
+				"blk": 2,
+				"name": "Stilonio Hashama",
+				"tur": 15,
+				"type": "R"
+			},
+			"12566457": {
+				"blk": 4,
+				"cps": 1,
+				"name": "Xsa Tu",
+				"pas": 2,
+				"prespp": 9,
+				"rus": 5,
+				"spp": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12566460": {
+				"blk": 1,
+				"name": "Chi Chi",
+				"tur": 15,
+				"type": "R"
+			},
+			"12566462": {
+				"blk": 2,
+				"name": "Slitchi Papapa",
+				"tur": 15,
+				"type": "R"
+			},
+			"12566463": {
+				"fou": 1,
+				"name": "Wang Diloho",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12621230": {
+				"blk": 3,
+				"name": "Si Satsu",
+				"tur": 13,
+				"type": "R"
+			},
+			"12686039": {
+				"blk": 1,
+				"name": "Xi Tsu",
+				"prespp": 8,
+				"rus": 4,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12686040": {
+				"blk": 1,
+				"name": "Tong Pla",
+				"tur": 4,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1164835",
 	"team_performance": {
 		"924841": {
 			"cas": 3,
 			"casdiff": 3,
+			"name": "Under-Nuln Bells",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"925779": {
 			"cas": 0,
 			"casdiff": -3,
+			"name": "Divine Sun",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

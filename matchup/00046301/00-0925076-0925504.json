@@ -1,19 +1,196 @@
 {
 	"!excluded": "no",
+	"matchId": "4041853",
+	"player_performance": {
+		"925076": {
+			"12555820": {
+				"name": "Ar Valgeir",
+				"prespp": 5,
+				"type": "R"
+			},
+			"12555821": {
+				"blk": 11,
+				"cas": 1,
+				"name": "Ar Wolfmar",
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"12555822": {
+				"blk": 2,
+				"name": "Dagobert Braunstein",
+				"rus": 12,
+				"tur": 16,
+				"type": "R"
+			},
+			"12555824": {
+				"name": "Herbert Güldenstädt",
+				"tur": 2,
+				"type": "R"
+			},
+			"12555825": {
+				"cas": 1,
+				"name": "Guntram Grabner",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12555826": {
+				"blk": 1,
+				"name": "William Alt",
+				"prespp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"12555827": {
+				"blk": 2,
+				"cps": 1,
+				"name": "Volkhard Wahler",
+				"prespp": 6,
+				"rus": -3,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12555834": {
+				"name": "Wolfram Neuner",
+				"tur": 2,
+				"type": "R"
+			},
+			"12555842": {
+				"blk": 4,
+				"name": "Aldebrand",
+				"prespp": 2,
+				"tur": 8,
+				"type": "B"
+			},
+			"12555844": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Ludwig",
+				"spp": 5,
+				"tur": 16,
+				"type": "B"
+			},
+			"12576661": {
+				"name": "Leroy Strongsnake",
+				"tur": 10,
+				"type": "R"
+			},
+			"12576662": {
+				"blk": 3,
+				"name": "Leroy Deepfire",
+				"rus": 12,
+				"spp": 3,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			}
+		},
+		"925504": {
+			"12562177": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Lord Ichabod of Wyldwich",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12562180": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Sir Danzig the Cinder",
+				"prespp": 3,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12562181": {
+				"blk": 3,
+				"name": "Sir Bailey the Wild",
+				"tur": 16,
+				"type": "R"
+			},
+			"12562182": {
+				"blk": 1,
+				"name": "Sir Geoffrey the Bright",
+				"tur": 16,
+				"type": "R"
+			},
+			"12562183": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Sir Theodore the Blazing",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12562184": {
+				"blk": 3,
+				"name": "Fair Henry of Storms",
+				"rus": 26,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12562185": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Fair Desmond the Twister",
+				"pas": 1,
+				"spp": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"12562186": {
+				"name": "Hardy Wilbur the Molten",
+				"prespp": 5,
+				"tur": 5,
+				"type": "R"
+			},
+			"12562187": {
+				"blk": 2,
+				"name": "Hardy Frederick of Iron",
+				"tur": 16,
+				"type": "R"
+			},
+			"12562188": {
+				"blk": 1,
+				"name": "Calm Nolan the Current",
+				"tur": 16,
+				"type": "R"
+			},
+			"12562189": {
+				"blk": 3,
+				"name": "Calm Xavier of Tides",
+				"rus": 7,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1129841",
 	"team_performance": {
 		"925076": {
 			"cas": 2,
 			"casdiff": 0,
+			"name": "Children of Ulric",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"925504": {
 			"cas": 2,
 			"casdiff": 0,
+			"name": "Ichabod's Infernals",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

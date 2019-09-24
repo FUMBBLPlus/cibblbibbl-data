@@ -1,19 +1,210 @@
 {
 	"!excluded": "no",
+	"matchId": "3894889",
+	"player_performance": {
+		"867030": {
+			"11633486": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Sokitoomi",
+				"prespp": 9,
+				"spp": 2,
+				"tur": 6,
+				"type": "R"
+			},
+			"11633494": {
+				"blk": 11,
+				"name": "Grymlog",
+				"prespp": 6,
+				"tur": 13,
+				"type": "R"
+			},
+			"11633500": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Quaxili",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11633503": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Kha-Ataxa",
+				"prespp": 13,
+				"spp": 5,
+				"tur": 7,
+				"type": "R"
+			},
+			"11633506": {
+				"name": "Xlanaxlot",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11633507": {
+				"blk": 4,
+				"name": "Xapati",
+				"prespp": 8,
+				"tur": 10,
+				"type": "R"
+			},
+			"11633509": {
+				"blk": 3,
+				"name": "Zwup",
+				"prespp": 2,
+				"rus": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"11633512": {
+				"name": "Huamundi",
+				"prespp": 20,
+				"tur": 6,
+				"type": "R"
+			},
+			"11748296": {
+				"blk": 1,
+				"name": "Trey Strongeagle",
+				"tur": 16,
+				"type": "R"
+			},
+			"11748297": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Vincent Clearfist",
+				"tur": 11,
+				"type": "R"
+			},
+			"11748298": {
+				"blk": 1,
+				"name": "Albert Clearsnake",
+				"tur": 6,
+				"type": "R"
+			}
+		},
+		"868977": {
+			"11664898": {
+				"blk": 3,
+				"cas": 2,
+				"name": "Donn Old",
+				"spp": 4,
+				"tur": 9,
+				"type": "R"
+			},
+			"11664900": {
+				"blk": 7,
+				"mvp": 1,
+				"name": "Mell Annia",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11664908": {
+				"blk": 7,
+				"name": "Jinn'm Attis",
+				"prespp": 5,
+				"rus": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11664912": {
+				"blk": 4,
+				"name": "Dsheffse Shons",
+				"tur": 16,
+				"type": "R"
+			},
+			"11664913": {
+				"blk": 6,
+				"name": "Meek P'nce",
+				"prespp": 7,
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11664915": {
+				"blk": 1,
+				"name": "Tilla \"Rex\" Son",
+				"prespp": 12,
+				"tur": 1,
+				"type": "R"
+			},
+			"11664919": {
+				"blk": 7,
+				"name": "Att Hugglah",
+				"prespp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11664920": {
+				"died": [
+					1,
+					8,
+					"blocked",
+					"11633500"
+				],
+				"name": "B'ttsy D'Foss",
+				"tur": 8,
+				"type": "R"
+			},
+			"11664925": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Alone T'shao",
+				"spp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"11664927": {
+				"blk": 4,
+				"name": "Crack Clem Mens'n",
+				"prespp": 2,
+				"rus": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11714899": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Lin'da Mahagony",
+				"prespp": 3,
+				"rus": 22,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11715010": {
+				"blk": 6,
+				"name": "Myc Alls Kuse",
+				"tur": 12,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "959247",
 	"team_performance": {
 		"867030": {
 			"cas": 2,
 			"casdiff": -2,
+			"name": "Sport Spawning Zlatlan",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"868977": {
 			"cas": 4,
 			"casdiff": 2,
+			"name": "Athel Loren Red Saplings",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

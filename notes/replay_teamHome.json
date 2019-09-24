@@ -1,0 +1,790 @@
+{
+    "apothecaries": 1,
+    "assistantCoaches": 0,
+    "baseIconPath": "http://fumbbl.com/",
+    "cheerleaders": 0,
+    "coach": "captainmalkor",
+    "fanFactor": 8,
+    "logoUrl": "i/553430",
+    "playerArray": [
+        {
+            "agility": 2,
+            "armour": 8,
+            "lastingInjuries": [],
+            "movement": 5,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12168335",
+            "playerName": "Gray Timber",
+            "playerNr": 1,
+            "playerType": "Regular",
+            "positionIconIndex": 0,
+            "positionId": "7410",
+            "recoveringInjury": null,
+            "skillArray": [
+                "+ST",
+                "+ST",
+                "Block",
+                "Prehensile Tail",
+                "Tentacles"
+            ],
+            "strength": 6,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 2,
+            "armour": 8,
+            "lastingInjuries": [
+                "Broken Jaw (MNG)",
+                "Broken Ribs (MNG)",
+                "Fractured Leg (MNG)",
+                "Smashed Hand (MNG)"
+            ],
+            "movement": 5,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12122272",
+            "playerName": "Dark Shade",
+            "playerNr": 2,
+            "playerType": "Regular",
+            "positionIconIndex": 0,
+            "positionId": "7410",
+            "recoveringInjury": null,
+            "skillArray": [
+                "Block",
+                "Juggernaut",
+                "Mighty Blow",
+                "Tackle",
+                "Prehensile Tail",
+                "Tentacles"
+            ],
+            "strength": 4,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 1,
+            "armour": 10,
+            "lastingInjuries": [],
+            "movement": 4,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12122273",
+            "playerName": "Deep Root",
+            "playerNr": 3,
+            "playerType": "Regular",
+            "positionIconIndex": 0,
+            "positionId": "7409",
+            "recoveringInjury": null,
+            "skillArray": [
+                "Block",
+                "Guard",
+                "Mighty Blow",
+                "Stand Firm"
+            ],
+            "strength": 4,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 1,
+            "armour": 10,
+            "lastingInjuries": [],
+            "movement": 4,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12122274",
+            "playerName": "Long Branch",
+            "playerNr": 4,
+            "playerType": "Regular",
+            "positionIconIndex": 1,
+            "positionId": "7409",
+            "recoveringInjury": null,
+            "skillArray": [
+                "Block",
+                "Dodge",
+                "Guard",
+                "Stand Firm"
+            ],
+            "strength": 4,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 3,
+            "armour": 7,
+            "lastingInjuries": [],
+            "movement": 7,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12710019",
+            "playerName": "Crooked Creek",
+            "playerNr": 5,
+            "playerType": "Regular",
+            "positionIconIndex": 0,
+            "positionId": "7408",
+            "recoveringInjury": null,
+            "skillArray": [
+                "Frenzy"
+            ],
+            "strength": 3,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 3,
+            "armour": 7,
+            "lastingInjuries": [],
+            "movement": 7,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12122276",
+            "playerName": "White Leaf",
+            "playerNr": 6,
+            "playerType": "Regular",
+            "positionIconIndex": 0,
+            "positionId": "7408",
+            "recoveringInjury": null,
+            "skillArray": [
+                "Block",
+                "Dodge",
+                "Side Step",
+                "Frenzy"
+            ],
+            "strength": 3,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 3,
+            "armour": 7,
+            "lastingInjuries": [],
+            "movement": 7,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12529938",
+            "playerName": "Slip Stream",
+            "playerNr": 7,
+            "playerType": "Regular",
+            "positionIconIndex": 0,
+            "positionId": "7408",
+            "recoveringInjury": null,
+            "skillArray": [
+                "Wrestle",
+                "Frenzy"
+            ],
+            "strength": 3,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 3,
+            "armour": 9,
+            "lastingInjuries": [
+                "Broken Jaw (MNG)"
+            ],
+            "movement": 5,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12580870",
+            "playerName": "Shoot",
+            "playerNr": 8,
+            "playerType": "Regular",
+            "positionIconIndex": 0,
+            "positionId": "7407",
+            "recoveringInjury": null,
+            "skillArray": [],
+            "strength": 3,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 3,
+            "armour": 9,
+            "lastingInjuries": [
+                "Broken Jaw (MNG)"
+            ],
+            "movement": 5,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12515971",
+            "playerName": "Vine",
+            "playerNr": 9,
+            "playerType": "Regular",
+            "positionIconIndex": 1,
+            "positionId": "7407",
+            "recoveringInjury": null,
+            "skillArray": [],
+            "strength": 3,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 3,
+            "armour": 8,
+            "lastingInjuries": [
+                "Fractured Skull (-AV)",
+                "Smashed Hand (MNG)"
+            ],
+            "movement": 5,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12122280",
+            "playerName": "Lichen",
+            "playerNr": 10,
+            "playerType": "Regular",
+            "positionIconIndex": 2,
+            "positionId": "7407",
+            "recoveringInjury": null,
+            "skillArray": [
+                "Dirty Player",
+                "Kick"
+            ],
+            "strength": 3,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 3,
+            "armour": 9,
+            "lastingInjuries": [
+                "Broken Ribs (MNG)"
+            ],
+            "movement": 5,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12501405",
+            "playerName": "Fruit",
+            "playerNr": 11,
+            "playerType": "Regular",
+            "positionIconIndex": 0,
+            "positionId": "7407",
+            "recoveringInjury": null,
+            "skillArray": [
+                "Block"
+            ],
+            "strength": 3,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 3,
+            "armour": 9,
+            "lastingInjuries": [
+                "Pinched Nerve (MNG)"
+            ],
+            "movement": 5,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12529934",
+            "playerName": "Fungus",
+            "playerNr": 12,
+            "playerType": "Regular",
+            "positionIconIndex": 1,
+            "positionId": "7407",
+            "recoveringInjury": null,
+            "skillArray": [],
+            "strength": 3,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 3,
+            "armour": 9,
+            "lastingInjuries": [],
+            "movement": 5,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12559341",
+            "playerName": "Hollow",
+            "playerNr": 13,
+            "playerType": "Regular",
+            "positionIconIndex": 2,
+            "positionId": "7407",
+            "recoveringInjury": null,
+            "skillArray": [
+                "+ST"
+            ],
+            "strength": 4,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 3,
+            "armour": 9,
+            "lastingInjuries": [
+                "Gouged Eye (MNG)"
+            ],
+            "movement": 5,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12171988",
+            "playerName": "Nut",
+            "playerNr": 14,
+            "playerType": "Regular",
+            "positionIconIndex": 0,
+            "positionId": "7407",
+            "recoveringInjury": null,
+            "skillArray": [
+                "Block",
+                "Guard"
+            ],
+            "strength": 3,
+            "urlIconSet": null,
+            "urlPortrait": null
+        },
+        {
+            "agility": 2,
+            "armour": 9,
+            "lastingInjuries": [
+                "Broken Neck (-AG)",
+                "Broken Jaw (MNG)"
+            ],
+            "movement": 5,
+            "nrOfIcons": 0,
+            "playerGender": "neutral",
+            "playerId": "12497695",
+            "playerName": "Ivy",
+            "playerNr": 15,
+            "playerType": "Regular",
+            "positionIconIndex": 1,
+            "positionId": "7407",
+            "recoveringInjury": null,
+            "skillArray": [
+                "Block"
+            ],
+            "strength": 3,
+            "urlIconSet": null,
+            "urlPortrait": null
+        }
+    ],
+    "race": "Dryad (CIBBL)",
+    "reRolls": 4,
+    "roster": {
+        "apothecary": true,
+        "baseIconPath": "http://fumbbl.com/",
+        "logoUrl": "i/553145",
+        "maxReRolls": 8,
+        "necromancer": false,
+        "positionArray": [
+            {
+                "agility": 2,
+                "armour": 10,
+                "cost": 360000,
+                "displayName": null,
+                "movement": 4,
+                "nrOfIcons": 1,
+                "playerGender": "male",
+                "playerType": "Star",
+                "positionId": "7660",
+                "positionName": "Schworg'n'Borg",
+                "quantity": 1,
+                "race": "Ogre",
+                "shorthand": "SB",
+                "skillArray": [
+                    "Grab",
+                    "Juggernaut",
+                    "Loner",
+                    "Mighty Blow",
+                    "Nerves of Steel",
+                    "Regeneration",
+                    "Stand Firm",
+                    "Tackle",
+                    "Thick Skull",
+                    "Throw Team-Mate"
+                ],
+                "skillCategoriesDouble": [
+                    "Strength",
+                    "Agility",
+                    "General",
+                    "Passing"
+                ],
+                "skillCategoriesNormal": [],
+                "skillValues": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "strength": 5,
+                "teamWithPositionId": null,
+                "thrall": false,
+                "undead": false,
+                "urlIconSet": "i/582488",
+                "urlPortrait": "i/"
+            },
+            {
+                "agility": 4,
+                "armour": 9,
+                "cost": 260000,
+                "displayName": null,
+                "movement": 7,
+                "nrOfIcons": 1,
+                "playerGender": "female",
+                "playerType": "Star",
+                "positionId": "7585",
+                "positionName": "Vinny Valhalla",
+                "quantity": 1,
+                "race": "Norse",
+                "shorthand": "ViV",
+                "skillArray": [
+                    "Block",
+                    "Catch",
+                    "Loner",
+                    "Nerves of Steel",
+                    "Sure Feet",
+                    "Sure Hands"
+                ],
+                "skillCategoriesDouble": [
+                    "Strength",
+                    "Agility",
+                    "General",
+                    "Passing"
+                ],
+                "skillCategoriesNormal": [],
+                "skillValues": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "strength": 3,
+                "teamWithPositionId": null,
+                "thrall": false,
+                "undead": false,
+                "urlIconSet": "i/533519",
+                "urlPortrait": "i/531865"
+            },
+            {
+                "agility": 3,
+                "armour": 7,
+                "cost": 140000,
+                "displayName": null,
+                "movement": 5,
+                "nrOfIcons": 1,
+                "playerGender": "female",
+                "playerType": "Star",
+                "positionId": "7584",
+                "positionName": "Willow Rosebark",
+                "quantity": 1,
+                "race": "Special",
+                "shorthand": "WiR",
+                "skillArray": [
+                    "Dauntless",
+                    "Loner",
+                    "Side Step",
+                    "Thick Skull"
+                ],
+                "skillCategoriesDouble": [
+                    "Strength",
+                    "Agility",
+                    "General",
+                    "Passing"
+                ],
+                "skillCategoriesNormal": [],
+                "skillValues": [
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "strength": 4,
+                "teamWithPositionId": null,
+                "thrall": false,
+                "undead": false,
+                "urlIconSet": "i/501129",
+                "urlPortrait": "i/501130"
+            },
+            {
+                "agility": 2,
+                "armour": 8,
+                "cost": 100000,
+                "displayName": null,
+                "movement": 5,
+                "nrOfIcons": 1,
+                "playerGender": "neutral",
+                "playerType": "Regular",
+                "positionId": "7410",
+                "positionName": "Willow Aspect",
+                "quantity": 2,
+                "race": null,
+                "shorthand": "W",
+                "skillArray": [
+                    "Prehensile Tail",
+                    "Tentacles"
+                ],
+                "skillCategoriesDouble": [
+                    "Agility",
+                    "Passing"
+                ],
+                "skillCategoriesNormal": [
+                    "Strength",
+                    "General"
+                ],
+                "skillValues": [
+                    0,
+                    0
+                ],
+                "strength": 4,
+                "teamWithPositionId": null,
+                "thrall": false,
+                "undead": false,
+                "urlIconSet": "i/500656",
+                "urlPortrait": "i/500657"
+            },
+            {
+                "agility": 2,
+                "armour": 9,
+                "cost": 290000,
+                "displayName": null,
+                "movement": 6,
+                "nrOfIcons": 1,
+                "playerGender": "female",
+                "playerType": "Star",
+                "positionId": "7531",
+                "positionName": "Bertha Bigfist",
+                "quantity": 1,
+                "race": "Special",
+                "shorthand": "BeB",
+                "skillArray": [
+                    "Bone-Head",
+                    "Break Tackle",
+                    "Dodge",
+                    "Loner",
+                    "Mighty Blow",
+                    "Thick Skull",
+                    "Throw Team-Mate"
+                ],
+                "skillCategoriesDouble": [
+                    "Strength",
+                    "Agility",
+                    "General",
+                    "Passing"
+                ],
+                "skillCategoriesNormal": [],
+                "skillValues": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "strength": 5,
+                "teamWithPositionId": null,
+                "thrall": false,
+                "undead": false,
+                "urlIconSet": "i/501023",
+                "urlPortrait": "i/501024"
+            },
+            {
+                "agility": 3,
+                "armour": 6,
+                "cost": 140000,
+                "displayName": null,
+                "movement": 5,
+                "nrOfIcons": 1,
+                "playerGender": "male",
+                "playerType": "Star",
+                "positionId": "7569",
+                "positionName": "Puggy Baconbreath",
+                "quantity": 1,
+                "race": "Special",
+                "shorthand": "PuB",
+                "skillArray": [
+                    "Block",
+                    "Dodge",
+                    "Loner",
+                    "Nerves of Steel",
+                    "Right Stuff",
+                    "Stunty"
+                ],
+                "skillCategoriesDouble": [
+                    "Strength",
+                    "Agility",
+                    "General",
+                    "Passing"
+                ],
+                "skillCategoriesNormal": [],
+                "skillValues": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "strength": 3,
+                "teamWithPositionId": null,
+                "thrall": false,
+                "undead": false,
+                "urlIconSet": "i/501099",
+                "urlPortrait": "i/501100"
+            },
+            {
+                "agility": 1,
+                "armour": 10,
+                "cost": 300000,
+                "displayName": null,
+                "movement": 2,
+                "nrOfIcons": 1,
+                "playerGender": "male",
+                "playerType": "Star",
+                "positionId": "7538",
+                "positionName": "Deeproot Strongbranch",
+                "quantity": 1,
+                "race": "Special",
+                "shorthand": "DeS",
+                "skillArray": [
+                    "Block",
+                    "Loner",
+                    "Mighty Blow",
+                    "Stand Firm",
+                    "Strong Arm",
+                    "Thick Skull",
+                    "Throw Team-Mate"
+                ],
+                "skillCategoriesDouble": [
+                    "Strength",
+                    "Agility",
+                    "General",
+                    "Passing"
+                ],
+                "skillCategoriesNormal": [],
+                "skillValues": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "strength": 7,
+                "teamWithPositionId": null,
+                "thrall": false,
+                "undead": false,
+                "urlIconSet": "i/501037",
+                "urlPortrait": "i/501038"
+            },
+            {
+                "agility": 3,
+                "armour": 7,
+                "cost": 70000,
+                "displayName": null,
+                "movement": 7,
+                "nrOfIcons": 1,
+                "playerGender": "neutral",
+                "playerType": "Regular",
+                "positionId": "7408",
+                "positionName": "Birch Aspect",
+                "quantity": 4,
+                "race": null,
+                "shorthand": "B",
+                "skillArray": [
+                    "Frenzy"
+                ],
+                "skillCategoriesDouble": [
+                    "Strength",
+                    "Passing"
+                ],
+                "skillCategoriesNormal": [
+                    "Agility",
+                    "General"
+                ],
+                "skillValues": [
+                    0
+                ],
+                "strength": 3,
+                "teamWithPositionId": null,
+                "thrall": false,
+                "undead": false,
+                "urlIconSet": "i/558944",
+                "urlPortrait": "i/500653"
+            },
+            {
+                "agility": 3,
+                "armour": 9,
+                "cost": 50000,
+                "displayName": null,
+                "movement": 5,
+                "nrOfIcons": 3,
+                "playerGender": "neutral",
+                "playerType": "Regular",
+                "positionId": "7407",
+                "positionName": "Dryad",
+                "quantity": 16,
+                "race": null,
+                "shorthand": "D",
+                "skillCategoriesDouble": [
+                    "Strength",
+                    "Agility",
+                    "Passing"
+                ],
+                "skillCategoriesNormal": [
+                    "General"
+                ],
+                "strength": 3,
+                "teamWithPositionId": null,
+                "thrall": false,
+                "undead": false,
+                "urlIconSet": "i/500650",
+                "urlPortrait": "i/500651"
+            },
+            {
+                "agility": 1,
+                "armour": 10,
+                "cost": 90000,
+                "displayName": null,
+                "movement": 4,
+                "nrOfIcons": 2,
+                "playerGender": "neutral",
+                "playerType": "Regular",
+                "positionId": "7409",
+                "positionName": "Oak Aspect",
+                "quantity": 2,
+                "race": null,
+                "shorthand": "O",
+                "skillArray": [
+                    "Stand Firm"
+                ],
+                "skillCategoriesDouble": [
+                    "Agility",
+                    "Passing"
+                ],
+                "skillCategoriesNormal": [
+                    "Strength",
+                    "General"
+                ],
+                "skillValues": [
+                    0
+                ],
+                "strength": 4,
+                "teamWithPositionId": null,
+                "thrall": false,
+                "undead": false,
+                "urlIconSet": "i/500654",
+                "urlPortrait": "i/500655"
+            }
+        ],
+        "raisedPositionId": "",
+        "reRollCost": 60000,
+        "rosterId": "897376",
+        "rosterName": "Dryad (CIBBL)",
+        "undead": false
+    },
+    "teamId": "897376",
+    "teamName": "Darkenwood Sentinels",
+    "teamValue": 1950000,
+    "treasury": 320000
+}

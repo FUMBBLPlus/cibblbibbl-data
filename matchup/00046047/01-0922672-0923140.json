@@ -1,19 +1,204 @@
 {
 	"!excluded": "no",
+	"matchId": "4033743",
+	"player_performance": {
+		"922672": {
+			"12515845": {
+				"blk": 6,
+				"fou": 1,
+				"name": "Grishnak",
+				"rus": 8,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12515846": {
+				"blk": 4,
+				"name": "Zunker",
+				"tur": 10,
+				"type": "R"
+			},
+			"12515848": {
+				"blk": 6,
+				"name": "Grishen",
+				"rus": 5,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12515849": {
+				"blk": 2,
+				"name": "Valek",
+				"tur": 3,
+				"type": "R"
+			},
+			"12515854": {
+				"cps": 1,
+				"name": "Daverb",
+				"pas": 2,
+				"rus": 21,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12515856": {
+				"blk": 1,
+				"fou": 2,
+				"name": "Goverk",
+				"tur": 4,
+				"type": "R"
+			},
+			"12515857": {
+				"blk": 5,
+				"name": "Bellek",
+				"tur": 16,
+				"type": "R"
+			},
+			"12519672": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Nizic",
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12520608": {
+				"blk": 7,
+				"name": "Otic",
+				"tur": 16,
+				"type": "R"
+			},
+			"12520609": {
+				"blk": 4,
+				"name": "Ikuz",
+				"tur": 16,
+				"type": "R"
+			},
+			"12520610": {
+				"blk": 7,
+				"name": "Azid",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"923140": {
+			"12523353": {
+				"blk": 2,
+				"name": "Goongol Nonose",
+				"tur": 10,
+				"type": "B"
+			},
+			"12523354": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Wuiq Squibbler",
+				"pas": 1,
+				"rus": 5,
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"12523356": {
+				"blk": 1,
+				"name": "Zurt Bohurt",
+				"tur": 3,
+				"type": "R"
+			},
+			"12523357": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Klavlak Psilocybe",
+				"rus": 4,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12523358": {
+				"blk": 9,
+				"name": "Jakdikt Junckt",
+				"pas": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12523361": {
+				"blk": 2,
+				"name": "Kroirt Kroock",
+				"rus": 6,
+				"spp": 3,
+				"tds": 1,
+				"tur": 9,
+				"type": "R"
+			},
+			"12523362": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Strigsits Phart",
+				"tur": 5,
+				"type": "R"
+			},
+			"12523363": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Pukenaz Mucus",
+				"tur": 16,
+				"type": "R"
+			},
+			"12523364": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Voorsirk Smellz",
+				"pas": 1,
+				"rus": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12523365": {
+				"blk": 2,
+				"name": "Zaszlurt Lurkdirt",
+				"tur": 16,
+				"type": "R"
+			},
+			"12523367": {
+				"name": "Vukziz Phunginus",
+				"tur": 16,
+				"type": "R"
+			},
+			"12523368": {
+				"name": "Dreakzaz Boogherz",
+				"tur": 7,
+				"type": "R"
+			},
+			"12523369": {
+				"fou": 1,
+				"name": "Woolk Spitnet",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1120247",
 	"team_performance": {
 		"922672": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Gazbag's Hunters",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"923140": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Dreadpeak's Delusionals",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

@@ -1,19 +1,229 @@
 {
 	"!excluded": "no",
+	"matchId": "3945517",
+	"player_performance": {
+		"883751": {
+			"11903227": {
+				"blk": 1,
+				"fou": 2,
+				"mvp": 1,
+				"name": "Death Mask",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 2,
+				"type": "R"
+			},
+			"11903233": {
+				"blk": 5,
+				"fou": 3,
+				"name": "Ramhotep",
+				"tur": 13,
+				"type": "R"
+			},
+			"11903249": {
+				"blk": 2,
+				"name": "Sentinel of the Sands",
+				"prespp": 29,
+				"tur": 16,
+				"type": "R"
+			},
+			"11903250": {
+				"name": "The All-Seeing Eye",
+				"prespp": 20,
+				"type": "R"
+			},
+			"11903253": {
+				"blk": 2,
+				"name": "Anubis the Embalmer",
+				"tur": 16,
+				"type": "R"
+			},
+			"11903254": {
+				"blk": 1,
+				"name": "Hathor the Pallbearer",
+				"prespp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"11903258": {
+				"name": "Seshat the Scribe",
+				"prespp": 2,
+				"type": "R"
+			},
+			"11903260": {
+				"name": "Nightwalker",
+				"type": "R"
+			},
+			"11903261": {
+				"blk": 2,
+				"name": "The Grand Vizier",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11903266": {
+				"blk": 3,
+				"name": "Stargazer",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11903267": {
+				"name": "Tomb Raider",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11903280": {
+				"blk": 1,
+				"name": "Baba the Builder",
+				"prespp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"11936541": {
+				"blk": 1,
+				"name": "Snakecharmer",
+				"prespp": 7,
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11950137": {
+				"blk": 5,
+				"name": "Behemoth",
+				"tur": 16,
+				"type": "R"
+			},
+			"12029196": {
+				"blk": 1,
+				"name": "The Beetle Juicer",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12038227": {
+				"name": "Antimony the Alchemist",
+				"type": "R"
+			}
+		},
+		"891237": {
+			"12022003": {
+				"blk": 7,
+				"mvp": 1,
+				"name": "Barrow Gorthadon",
+				"prespp": 1,
+				"spp": 5,
+				"tur": 10,
+				"type": "R"
+			},
+			"12022005": {
+				"name": "Swan Alphon",
+				"type": "R"
+			},
+			"12022006": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Heni Hethurin",
+				"pas": 4,
+				"prespp": 3,
+				"rus": 17,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12022007": {
+				"name": "Yoke Ianuon",
+				"tur": 8,
+				"type": "R"
+			},
+			"12022008": {
+				"blk": 1,
+				"name": "Tety Goweston",
+				"prespp": 6,
+				"tur": 8,
+				"type": "R"
+			},
+			"12022009": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Kanut Nardhon",
+				"prespp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"12022010": {
+				"blk": 3,
+				"name": "Dew Midhon",
+				"tur": 16,
+				"type": "R"
+			},
+			"12022012": {
+				"blk": 1,
+				"name": "Pirin Alfirinor",
+				"tur": 11,
+				"type": "R"
+			},
+			"12022014": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Meretment Estoladon",
+				"tur": 11,
+				"type": "R"
+			},
+			"12022015": {
+				"name": "Porren Cennan",
+				"tur": 3,
+				"type": "R"
+			},
+			"12022022": {
+				"blk": 1,
+				"name": "Mirilan Antegobon",
+				"tur": 16,
+				"type": "R"
+			},
+			"12043494": {
+				"died": [
+					1,
+					5,
+					"fouled",
+					"11903233"
+				],
+				"name": "Evander Whitefist",
+				"tur": 5,
+				"type": "R"
+			},
+			"891237M1": {
+				"blk": 1,
+				"name": "Merc Lineman 1",
+				"tur": 8,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1017912",
 	"team_performance": {
 		"883751": {
 			"cas": 1,
 			"casdiff": 1,
+			"name": "Slaves of the Serpent Queen",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"891237": {
 			"cas": 0,
 			"casdiff": -1,
+			"name": "Dukes of Earthquake Valley",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

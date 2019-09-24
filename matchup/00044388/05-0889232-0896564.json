@@ -1,19 +1,225 @@
 {
 	"!excluded": "no",
+	"matchId": "3970227",
+	"player_performance": {
+		"889232": {
+			"11989951": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Chthonic Pitchblende",
+				"prespp": 18,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11989952": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Chthonic Cobaltite",
+				"prespp": 10,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11989953": {
+				"name": "Chthonic Granite",
+				"prespp": 15,
+				"type": "R"
+			},
+			"11989958": {
+				"name": "Chthonic Gabbro",
+				"tur": 9,
+				"type": "R"
+			},
+			"11989967": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Sylph Wisp",
+				"pas": 1,
+				"prespp": 24,
+				"rus": 12,
+				"spp": 5,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11989980": {
+				"blk": 2,
+				"name": "Chthonic Kaolinite",
+				"prespp": 10,
+				"tur": 15,
+				"type": "R"
+			},
+			"12003575": {
+				"cps": 2,
+				"mvp": 1,
+				"name": "Sylph Haze",
+				"pas": -3,
+				"prespp": 10,
+				"rus": 22,
+				"spp": 10,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12031249": {
+				"blk": 3,
+				"name": "Magma Crab",
+				"prespp": 8,
+				"tur": 9,
+				"type": "R"
+			},
+			"12070122": {
+				"blk": 6,
+				"name": "Chthonic Slade",
+				"prespp": 20,
+				"tur": 17,
+				"type": "R"
+			},
+			"12078649": {
+				"blk": 3,
+				"name": "Naiad Vinessa",
+				"prespp": 5,
+				"tur": 6,
+				"type": "R"
+			},
+			"12112830": {
+				"blk": 1,
+				"name": "Chthonic Satinspar",
+				"tur": 17,
+				"type": "R"
+			},
+			"12120137": {
+				"blk": 2,
+				"name": "Naiad Jennifer",
+				"tur": 17,
+				"type": "R"
+			},
+			"12145447": {
+				"blk": 2,
+				"name": "Magma Flow",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			}
+		},
+		"896564": {
+			"12108653": {
+				"blk": 9,
+				"name": "Ra-aa-kheper",
+				"prespp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"12108654": {
+				"blk": 11,
+				"name": "Ounephes",
+				"prespp": 8,
+				"tur": 17,
+				"type": "R"
+			},
+			"12108656": {
+				"blk": 9,
+				"name": "Ra-men-ankh",
+				"prespp": 4,
+				"tur": 17,
+				"type": "R"
+			},
+			"12108659": {
+				"blk": 5,
+				"name": "Suten-rekh",
+				"prespp": 7,
+				"tur": 8,
+				"type": "R"
+			},
+			"12108660": {
+				"name": "Ra-mere-nefer",
+				"prespp": 10,
+				"type": "R"
+			},
+			"12108662": {
+				"blk": 9,
+				"name": "Ra-s-hotep-ab",
+				"prespp": 7,
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12108664": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Het-het",
+				"tur": 11,
+				"type": "R"
+			},
+			"12108665": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Tu-en-hor",
+				"pas": 1,
+				"rus": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"12108667": {
+				"blk": 2,
+				"name": "Kan-ta",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12137186": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Ten-em-haa-pthah",
+				"spp": 5,
+				"tur": 6,
+				"type": "R"
+			},
+			"12147083": {
+				"blk": 2,
+				"name": "Pai-netem",
+				"tur": 10,
+				"type": "R"
+			},
+			"12168120": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Trey Paleshield",
+				"tur": 8,
+				"type": "R"
+			},
+			"896564S1": {
+				"blk": 9,
+				"name": "Setekh",
+				"tur": 14,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1046152",
 	"team_performance": {
 		"889232": {
 			"cas": 3,
 			"casdiff": 3,
+			"name": "Lost Golems of Grungni",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"896564": {
 			"cas": 0,
 			"casdiff": -3,
+			"name": "Thoughts of Thoth",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

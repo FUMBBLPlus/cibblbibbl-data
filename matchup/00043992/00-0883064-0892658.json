@@ -1,19 +1,207 @@
 {
 	"!excluded": "no",
+	"matchId": "3945816",
+	"player_performance": {
+		"883064": {
+			"11892679": {
+				"blk": 2,
+				"cps": 1,
+				"name": "Igor",
+				"prespp": 17,
+				"rus": -7,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11892680": {
+				"blk": 2,
+				"name": "Ivan",
+				"prespp": 19,
+				"rus": 4,
+				"spp": 3,
+				"tds": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"11892684": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Valdimir",
+				"prespp": 15,
+				"rus": 8,
+				"spp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"11892685": {
+				"blk": 2,
+				"died": [
+					1,
+					8,
+					"fouled",
+					"12044235"
+				],
+				"name": "Ursula the Bear",
+				"prespp": 7,
+				"tur": 8,
+				"type": "R"
+			},
+			"11892687": {
+				"name": "Grigory",
+				"prespp": 13,
+				"tur": 2,
+				"type": "R"
+			},
+			"11892688": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Dmitri",
+				"spp": 5,
+				"tur": 14,
+				"type": "R"
+			},
+			"11893901": {
+				"blk": 1,
+				"name": "Anton",
+				"tur": 3,
+				"type": "R"
+			},
+			"11893902": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Maxim",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11893904": {
+				"blk": 3,
+				"name": "Boris",
+				"tur": 14,
+				"type": "R"
+			},
+			"11989734": {
+				"blk": 2,
+				"name": "Yurly Jr",
+				"tur": 11,
+				"type": "R"
+			},
+			"12029730": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Evgeni",
+				"tur": 11,
+				"type": "R"
+			}
+		},
+		"892658": {
+			"12044225": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Krip-tichox The Undying",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12044227": {
+				"blk": 4,
+				"name": "Qruxchihcoar",
+				"prespp": 6,
+				"rus": 24,
+				"spp": 3,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"12044228": {
+				"blk": 4,
+				"name": "Coch-noalten",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12044229": {
+				"blk": 8,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Helxo",
+				"prespp": 7,
+				"spp": 9,
+				"tur": 15,
+				"type": "R"
+			},
+			"12044230": {
+				"name": "The Faint Body",
+				"tur": 16,
+				"type": "R"
+			},
+			"12044231": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Dawnhag",
+				"tur": 12,
+				"type": "R"
+			},
+			"12044232": {
+				"blk": 2,
+				"name": "Grimepest",
+				"tur": 16,
+				"type": "R"
+			},
+			"12044233": {
+				"blk": 1,
+				"fou": 1,
+				"name": "The Thin Presence",
+				"tur": 16,
+				"type": "R"
+			},
+			"12044234": {
+				"name": "The Ugly Miscreation",
+				"tur": 16,
+				"type": "R"
+			},
+			"12044235": {
+				"blk": 1,
+				"fou": 2,
+				"name": "The Tall Howler",
+				"tur": 7,
+				"type": "R"
+			},
+			"12044236": {
+				"blk": 1,
+				"name": "The Disfigured Wailer",
+				"tur": 8,
+				"type": "R"
+			},
+			"892658S1": {
+				"blk": 11,
+				"name": "Ramtut III",
+				"tur": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1018268",
 	"team_performance": {
 		"883064": {
 			"cas": 2,
 			"casdiff": -3,
+			"name": "Kislev's Gryphon Legion",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		},
 		"892658": {
 			"cas": 5,
 			"casdiff": 3,
+			"name": "Tomb Guardians of the Tower",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		}
 	}
 }

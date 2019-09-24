@@ -1,19 +1,201 @@
 {
 	"!excluded": "no",
+	"matchId": "3964479",
+	"player_performance": {
+		"897292": {
+			"12120853": {
+				"blk": 5,
+				"name": "Del Spiderslayer",
+				"prespp": 7,
+				"tur": 13,
+				"type": "R"
+			},
+			"12120854": {
+				"blk": 3,
+				"name": "Fultru Orchammer",
+				"rus": 9,
+				"tur": 15,
+				"type": "R"
+			},
+			"12120855": {
+				"blk": 5,
+				"name": "Torgrak Foeblade",
+				"tur": 16,
+				"type": "R"
+			},
+			"12120856": {
+				"name": "Gordafr Farminer",
+				"type": "R"
+			},
+			"12120857": {
+				"blk": 7,
+				"name": "Boad Bronzecaster",
+				"tur": 16,
+				"type": "R"
+			},
+			"12120858": {
+				"blk": 4,
+				"name": "Rotu Earthdigger",
+				"tur": 14,
+				"type": "R"
+			},
+			"12120859": {
+				"blk": 4,
+				"name": "Bofden Flamebeard",
+				"tur": 14,
+				"type": "R"
+			},
+			"12120863": {
+				"blk": 1,
+				"died": [
+					1,
+					3,
+					"blocked",
+					"12122328"
+				],
+				"name": "Cael Copperbeard",
+				"tur": 2,
+				"type": "R"
+			},
+			"12120867": {
+				"blk": 4,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Kirrimm Ironheart",
+				"prespp": 2,
+				"rus": 7,
+				"spp": 8,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12120870": {
+				"blk": 3,
+				"name": "Dagyr Axemaker",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"12120871": {
+				"blk": 2,
+				"fou": 4,
+				"name": "Mikhail Dragonforge",
+				"tur": 9,
+				"type": "R"
+			},
+			"12126543": {
+				"blk": 4,
+				"name": "Robert Hideousstone",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"897379": {
+			"12122311": {
+				"blk": 9,
+				"name": "Gotrek Gurnisson",
+				"prespp": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"12122312": {
+				"blk": 1,
+				"name": "Snorri Nosebiter",
+				"prespp": 2,
+				"tur": 4,
+				"type": "R"
+			},
+			"12122314": {
+				"blk": 8,
+				"name": "Malakai Makaisson",
+				"tur": 8,
+				"type": "R"
+			},
+			"12122318": {
+				"blk": 3,
+				"name": "Cpt. Long Drong",
+				"rus": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12122319": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "First Mate Morgrim Dallinsson",
+				"prespp": 8,
+				"rus": 38,
+				"spp": 8,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"12122320": {
+				"blk": 4,
+				"name": "Finn Hargrimsson",
+				"tur": 17,
+				"type": "R"
+			},
+			"12122325": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Yadri Budriksson",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12122326": {
+				"blk": 5,
+				"name": "Belegar Baliksnev",
+				"tur": 17,
+				"type": "R"
+			},
+			"12122328": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Borri Largsfind",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12122331": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Fodrin Ranulfsson",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12122332": {
+				"blk": 7,
+				"fou": 1,
+				"name": "Vragni Rorekfind",
+				"tur": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1039564",
 	"team_performance": {
 		"897292": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "BC Submarine Zhufbar",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		},
 		"897379": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "~Karak Kadrin Slayers~",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		}
 	}
 }

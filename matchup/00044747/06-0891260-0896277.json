@@ -1,19 +1,202 @@
 {
 	"!excluded": "no",
+	"matchId": "3986288",
+	"player_performance": {
+		"891260": {
+			"12023006": {
+				"name": "Varman",
+				"prespp": 26,
+				"rus": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"12023007": {
+				"blk": 2,
+				"name": "Surya",
+				"prespp": 28,
+				"tur": 16,
+				"type": "R"
+			},
+			"12023008": {
+				"name": "Tambra",
+				"prespp": 3,
+				"tur": 2,
+				"type": "R"
+			},
+			"12023009": {
+				"blk": 5,
+				"name": "Linga",
+				"prespp": 16,
+				"tur": 12,
+				"type": "R"
+			},
+			"12023010": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Svay",
+				"prespp": 9,
+				"spp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"12023011": {
+				"blk": 2,
+				"name": "Kompong",
+				"prespp": 9,
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12023012": {
+				"blk": 5,
+				"name": "Harsha",
+				"prespp": 16,
+				"tur": 14,
+				"type": "R"
+			},
+			"12023013": {
+				"blk": 5,
+				"name": "Vapada",
+				"prespp": 9,
+				"tur": 13,
+				"type": "R"
+			},
+			"12023014": {
+				"blk": 3,
+				"name": "Dangrek",
+				"prespp": 9,
+				"tur": 9,
+				"type": "R"
+			},
+			"12023015": {
+				"name": "Nokor",
+				"prespp": 6,
+				"type": "R"
+			},
+			"12129840": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Mekong",
+				"prespp": 12,
+				"spp": 5,
+				"tur": 16,
+				"type": "B"
+			},
+			"12173023": {
+				"name": "Watang",
+				"prespp": 10,
+				"rus": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"12254200": {
+				"name": "Imjee",
+				"tur": 5,
+				"type": "R"
+			}
+		},
+		"896277": {
+			"12103956": {
+				"blk": 12,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Qu'arakk",
+				"prespp": 22,
+				"spp": 7,
+				"tur": 16,
+				"type": "B"
+			},
+			"12103957": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Skiril",
+				"prespp": 21,
+				"spp": 2,
+				"tur": 12,
+				"type": "B"
+			},
+			"12103985": {
+				"name": "Thraggskell",
+				"pas": -1,
+				"prespp": 12,
+				"rus": -1,
+				"tur": 6,
+				"type": "R"
+			},
+			"12103987": {
+				"fou": 4,
+				"name": "Hebnak-sneekl",
+				"prespp": 6,
+				"tur": 12,
+				"type": "R"
+			},
+			"12103988": {
+				"name": "Stuntlbosh",
+				"prespp": 8,
+				"rus": 30,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12225642": {
+				"blk": 6,
+				"name": "Ukzatch",
+				"prespp": 20,
+				"tur": 12,
+				"type": "B"
+			},
+			"896277M1": {
+				"blk": 3,
+				"name": "Merc Rat Ogre 1",
+				"tur": 16,
+				"type": "M"
+			},
+			"896277M2": {
+				"blk": 2,
+				"name": "Merc Rat Ogre 2",
+				"tur": 12,
+				"type": "M"
+			},
+			"896277M3": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Merc Rat Ogre 3",
+				"spp": 2,
+				"tur": 16,
+				"type": "M"
+			},
+			"896277S1": {
+				"blk": 3,
+				"name": "Fezglitch",
+				"tur": 4,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1064698",
 	"team_performance": {
 		"891260": {
 			"cas": 1,
 			"casdiff": -3,
+			"name": "Library of Indra",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"896277": {
 			"cas": 4,
 			"casdiff": 3,
+			"name": "Thirteenth Circle Abominations",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

@@ -1,19 +1,212 @@
 {
 	"!excluded": "no",
+	"matchId": "4013978",
+	"player_performance": {
+		"900747": {
+			"12173110": {
+				"blk": 4,
+				"name": "Stonemuncher the Ancient",
+				"prespp": 11,
+				"tur": 16,
+				"type": "B"
+			},
+			"12173143": {
+				"blk": 1,
+				"name": "Dialor the Noble",
+				"prespp": 32,
+				"rus": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12173145": {
+				"blk": 4,
+				"cps": 1,
+				"name": "Khras the Enslaved",
+				"prespp": 31,
+				"rus": 13,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12173148": {
+				"name": "Uzras Strongblade",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12173151": {
+				"blk": 3,
+				"name": "Hrkas Prouddeath",
+				"prespp": 7,
+				"tur": 10,
+				"type": "R"
+			},
+			"12173153": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Ghras Paingiver",
+				"prespp": 17,
+				"rus": 11,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12173155": {
+				"blk": 11,
+				"name": "Frazsa Grimhand",
+				"prespp": 23,
+				"tur": 16,
+				"type": "R"
+			},
+			"12296160": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Krank Cracker",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 16,
+				"type": "B"
+			},
+			"12320799": {
+				"blk": 4,
+				"name": "GRaarzas",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12399357": {
+				"blk": 1,
+				"name": "Orja Coldless",
+				"tur": 14,
+				"type": "R"
+			},
+			"12399358": {
+				"blk": 2,
+				"name": "Hairy Chrizz",
+				"tur": 16,
+				"type": "R"
+			},
+			"12399363": {
+				"name": "Squishy Bob",
+				"prespp": 5,
+				"tur": 2,
+				"type": "R"
+			},
+			"12422173": {
+				"name": "Scrim Bloodlust",
+				"tur": 10,
+				"type": "R"
+			},
+			"12422174": {
+				"blk": 1,
+				"name": "Oris Devistator",
+				"tur": 6,
+				"type": "R"
+			}
+		},
+		"904377": {
+			"12231317": {
+				"blk": 9,
+				"name": "Ruby",
+				"prespp": 27,
+				"tur": 15,
+				"type": "R"
+			},
+			"12231319": {
+				"blk": 1,
+				"name": "Sapphire",
+				"prespp": 15,
+				"rus": 31,
+				"spp": 6,
+				"tds": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12231325": {
+				"blk": 11,
+				"mvp": 1,
+				"name": "Emerald",
+				"prespp": 10,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"12231332": {
+				"blk": 7,
+				"name": "Topaz",
+				"prespp": 10,
+				"tur": 15,
+				"type": "R"
+			},
+			"12231335": {
+				"blk": 9,
+				"name": "Diamond",
+				"prespp": 26,
+				"tur": 15,
+				"type": "B"
+			},
+			"12231336": {
+				"blk": 4,
+				"name": "Aquamarine",
+				"prespp": 18,
+				"tur": 15,
+				"type": "R"
+			},
+			"12231345": {
+				"blk": 2,
+				"name": "Hematite",
+				"tur": 13,
+				"type": "R"
+			},
+			"12319471": {
+				"blk": 7,
+				"name": "Pearl II",
+				"prespp": 9,
+				"tur": 15,
+				"type": "B"
+			},
+			"12343156": {
+				"blk": 1,
+				"name": "Alexandrite II",
+				"prespp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12405289": {
+				"blk": 4,
+				"name": "Sean Hothawk",
+				"tur": 15,
+				"type": "R"
+			},
+			"12405290": {
+				"blk": 3,
+				"name": "Yorick Weaklightning",
+				"tur": 15,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1097841",
 	"team_performance": {
 		"900747": {
 			"cas": 1,
 			"casdiff": 1,
+			"name": "Black Monolith Worshippers",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"904377": {
 			"cas": 0,
 			"casdiff": -1,
+			"name": "Aurons",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

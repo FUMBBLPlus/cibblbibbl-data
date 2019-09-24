@@ -1,19 +1,210 @@
 {
 	"!excluded": "no",
+	"matchId": "4048459",
+	"player_performance": {
+		"916217": {
+			"12416220": {
+				"blk": 13,
+				"name": "Bestgor \"The Vicious\"",
+				"prespp": 22,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416224": {
+				"blk": 7,
+				"name": "Powergor \"The Relentless\"",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416226": {
+				"blk": 7,
+				"name": "Mustgor \"The Decided\"",
+				"prespp": 22,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416228": {
+				"name": "Fastgor \"The Lightning\"",
+				"prespp": 8,
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"12416229": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Quickgor \"The Legged\"",
+				"prespp": 25,
+				"rus": 28,
+				"spp": 8,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416233": {
+				"name": "Hollowgor \"The Hungry\"",
+				"tur": 10,
+				"type": "R"
+			},
+			"12416236": {
+				"blk": 1,
+				"name": "Brutegor \"The Doubtless\"",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12416238": {
+				"blk": 6,
+				"name": "Roughgor \"The Thoughtless\"",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12426803": {
+				"name": "Brogor \"The Violent\"",
+				"prespp": 13,
+				"tur": 2,
+				"type": "R"
+			},
+			"12520848": {
+				"blk": 3,
+				"name": "Gogor \"The Brutal\"",
+				"tur": 16,
+				"type": "R"
+			},
+			"12578865": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Fury the Meanotaur",
+				"prespp": 16,
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"12596091": {
+				"blk": 2,
+				"name": "Tallgor Jr, Son of the Landscapist",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"926018": {
+			"12569392": {
+				"blk": 1,
+				"name": "Mager",
+				"tur": 16,
+				"type": "R"
+			},
+			"12569393": {
+				"blk": 3,
+				"name": "Stag Sgat",
+				"tur": 8,
+				"type": "R"
+			},
+			"12569395": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "\"The Unihorn\"",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12569396": {
+				"blk": 2,
+				"name": "Purg",
+				"prespp": 11,
+				"tur": 6,
+				"type": "R"
+			},
+			"12569397": {
+				"blk": 6,
+				"name": "Farnegor",
+				"prespp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"12569406": {
+				"name": "Pag-smer",
+				"type": "R"
+			},
+			"12569407": {
+				"name": "Nubimer",
+				"type": "R"
+			},
+			"12569408": {
+				"cps": 1,
+				"name": "Fragufer",
+				"pas": 2,
+				"prespp": 3,
+				"rus": 22,
+				"spp": 4,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12592880": {
+				"blk": 3,
+				"name": "Drunker",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12598779": {
+				"name": "Nicholas Hotbone",
+				"tur": 11,
+				"type": "R"
+			},
+			"12598780": {
+				"blk": 1,
+				"name": "Richard Darkbone",
+				"tur": 14,
+				"type": "R"
+			},
+			"12598781": {
+				"name": "Julius Strongfield",
+				"tur": 6,
+				"type": "R"
+			},
+			"12598782": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Cory Coldwing",
+				"tur": 13,
+				"type": "R"
+			},
+			"926018S1": {
+				"blk": 1,
+				"name": "Wreacking Baargh",
+				"tur": 2,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1137303",
 	"team_performance": {
 		"916217": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Cloven Clan",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"926018": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Kordoberg's Herd",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

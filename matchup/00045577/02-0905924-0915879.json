@@ -1,19 +1,204 @@
 {
 	"!excluded": "no",
+	"matchId": "4013675",
+	"player_performance": {
+		"905924": {
+			"12254401": {
+				"name": "Reddup",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12254402": {
+				"blk": 3,
+				"name": "Spook",
+				"prespp": 7,
+				"tur": 16,
+				"type": "B"
+			},
+			"12254405": {
+				"blk": 8,
+				"mvp": 1,
+				"name": "Bone",
+				"prespp": 12,
+				"rus": 4,
+				"spp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"12254406": {
+				"blk": 2,
+				"died": [
+					1,
+					6,
+					"blocked",
+					"12410766"
+				],
+				"name": "Gruber",
+				"prespp": 13,
+				"rus": 6,
+				"tur": 6,
+				"type": "R"
+			},
+			"12254414": {
+				"blk": 7,
+				"name": "Clumsy",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12254424": {
+				"name": "Ashur The Vile",
+				"tur": 7,
+				"type": "R"
+			},
+			"12254440": {
+				"blk": 1,
+				"fou": 1,
+				"name": "O-Dog The Trogslayer",
+				"prespp": 8,
+				"tur": 3,
+				"type": "R"
+			},
+			"12254445": {
+				"name": "Scumm The Rebel",
+				"tur": 8,
+				"type": "R"
+			},
+			"12254450": {
+				"name": "Smartu The Unscarred",
+				"prespp": 3,
+				"tur": 9,
+				"type": "R"
+			},
+			"12263755": {
+				"name": "Gizmo The Gambler",
+				"type": "R"
+			},
+			"12263756": {
+				"name": "Killian Glowingwater",
+				"tur": 5,
+				"type": "R"
+			},
+			"12268727": {
+				"blk": 11,
+				"cas": 1,
+				"name": "Redbone",
+				"prespp": 16,
+				"rus": 7,
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"12421782": {
+				"fou": 1,
+				"name": "Zachary Hotspike",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"915879": {
+			"12410762": {
+				"blk": 6,
+				"name": "Go mbristear do chnámha",
+				"tur": 16,
+				"type": "B"
+			},
+			"12410763": {
+				"blk": 5,
+				"name": "Go mbristear gach cnámh id' chorp",
+				"tur": 14,
+				"type": "R"
+			},
+			"12410764": {
+				"blk": 2,
+				"name": "Go mbristear do chosa",
+				"tur": 16,
+				"type": "R"
+			},
+			"12410765": {
+				"blk": 4,
+				"name": "500 Mallacht ort",
+				"tur": 16,
+				"type": "R"
+			},
+			"12410766": {
+				"blk": 7,
+				"cas": 2,
+				"name": "Mallacht Déi ort",
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12410767": {
+				"blk": 1,
+				"name": "Biodh an diabhal agat",
+				"tur": 3,
+				"type": "R"
+			},
+			"12410768": {
+				"blk": 10,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Póg mo thóin",
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12410769": {
+				"blk": 1,
+				"name": "Mo sheacht mallacht ort",
+				"tur": 12,
+				"type": "R"
+			},
+			"12410770": {
+				"name": "Go dtachta Sé thú",
+				"tur": 16,
+				"type": "R"
+			},
+			"12410771": {
+				"name": "Go n-ithe an chat",
+				"rus": 4,
+				"tur": 6,
+				"type": "R"
+			},
+			"12410772": {
+				"name": "Fairsinge agus fán id' chionn",
+				"rus": 10,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12410773": {
+				"blk": 1,
+				"name": "Ithe an diabhal an chat",
+				"rus": 5,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1097489",
 	"team_performance": {
 		"905924": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Squill's Squig Pitt",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"915879": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Brehon's Lament",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

@@ -1,19 +1,225 @@
 {
 	"!excluded": "no",
+	"matchId": "3911150",
+	"player_performance": {
+		"862033": {
+			"11558593": {
+				"blk": 5,
+				"fou": 1,
+				"name": "Kharn",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11558599": {
+				"blk": 3,
+				"name": "Delvarus",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11558605": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Porphyricus",
+				"prespp": 20,
+				"spp": 2,
+				"tur": 2,
+				"type": "R"
+			},
+			"11558611": {
+				"blk": 2,
+				"cas": 1,
+				"fou": 1,
+				"name": "Hadrabulus Vioss",
+				"spp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"11558616": {
+				"name": "Phosis T'Kar",
+				"prespp": 23,
+				"rus": -2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11558617": {
+				"name": "Skane",
+				"prespp": 15,
+				"tur": 2,
+				"type": "R"
+			},
+			"11567423": {
+				"blk": 8,
+				"name": "Kargos",
+				"prespp": 17,
+				"tur": 16,
+				"type": "R"
+			},
+			"11681780": {
+				"name": "Hathor Maat",
+				"prespp": 17,
+				"tur": 3,
+				"type": "R"
+			},
+			"11681785": {
+				"blk": 1,
+				"name": "Lucius",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11699119": {
+				"blk": 5,
+				"name": "Julius Kaesoron",
+				"tur": 8,
+				"type": "R"
+			},
+			"11699147": {
+				"blk": 1,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Khalophis",
+				"prespp": 3,
+				"rus": 6,
+				"spp": 6,
+				"tur": 8,
+				"type": "R"
+			},
+			"11721803": {
+				"name": "Ignatius Grulgor II",
+				"tur": 1,
+				"type": "R"
+			},
+			"11841355": {
+				"blk": 2,
+				"name": "Calas Typhon",
+				"tur": 12,
+				"type": "R"
+			}
+		},
+		"869156": {
+			"11667457": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Glicees",
+				"prespp": 27,
+				"rus": 3,
+				"spp": 5,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11667458": {
+				"blk": 9,
+				"name": "Xahr",
+				"prespp": 10,
+				"tur": 15,
+				"type": "R"
+			},
+			"11667459": {
+				"blk": 1,
+				"name": "Keeth",
+				"prespp": 15,
+				"tur": 1,
+				"type": "R"
+			},
+			"11667462": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Rozatar",
+				"prespp": 14,
+				"rus": 13,
+				"spp": 5,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11667465": {
+				"name": "Mebas",
+				"prespp": 17,
+				"rus": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"11667467": {
+				"blk": 7,
+				"name": "Hralis",
+				"prespp": 11,
+				"tur": 15,
+				"type": "R"
+			},
+			"11667468": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Nal",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"11667471": {
+				"name": "Acurag",
+				"prespp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"11744463": {
+				"blk": 7,
+				"name": "Troln",
+				"prespp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"11756250": {
+				"blk": 3,
+				"name": "Yelnats",
+				"tur": 14,
+				"type": "R"
+			},
+			"11781773": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Quari",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"11781774": {
+				"blk": 2,
+				"name": "Beebz",
+				"tur": 8,
+				"type": "R"
+			},
+			"11781776": {
+				"fou": 1,
+				"name": "Chingi",
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "977923",
 	"team_performance": {
 		"862033": {
 			"cas": 3,
 			"casdiff": -1,
+			"name": "Forsaken of the Pantheon",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"869156": {
 			"cas": 4,
 			"casdiff": 1,
+			"name": "Talsyn Tramplers",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

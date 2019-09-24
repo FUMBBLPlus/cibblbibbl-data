@@ -1,19 +1,214 @@
 {
 	"!excluded": "no",
+	"matchId": "4048716",
+	"player_performance": {
+		"926053": {
+			"12570037": {
+				"blk": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Huitzilopochtli Harbinger of War",
+				"prespp": 9,
+				"spp": 7,
+				"tur": 16,
+				"type": "B"
+			},
+			"12570096": {
+				"blk": 9,
+				"name": "Tezcatlipoca the Black",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12570097": {
+				"blk": 6,
+				"name": "Xipe-Totec the Reborn",
+				"prespp": 7,
+				"rus": 1,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12570098": {
+				"blk": 5,
+				"died": [
+					2,
+					1,
+					"blocked",
+					"12575052"
+				],
+				"name": "Quetzalcoatl the White",
+				"prespp": 6,
+				"tur": 8,
+				"type": "R"
+			},
+			"12570099": {
+				"blk": 12,
+				"name": "Tepeyollotl Breaker of Mountains",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12570100": {
+				"blk": 7,
+				"name": "Tlaloc Bringer of Thunder",
+				"tur": 13,
+				"type": "R"
+			},
+			"12570103": {
+				"blk": 11,
+				"name": "Nesoxochi Queen of Darkness",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12570104": {
+				"blk": 2,
+				"name": "Ometeotl the One with the Two Faces",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"12570105": {
+				"blk": 1,
+				"name": "Mixcoatl the Hunter",
+				"prespp": 3,
+				"rus": 19,
+				"tur": 16,
+				"type": "R"
+			},
+			"12570106": {
+				"fou": 1,
+				"name": "Tecciztecatl Master of the Moon",
+				"tur": 2,
+				"type": "R"
+			},
+			"12570109": {
+				"name": "Omacatl Master of Laughter",
+				"prespp": 7,
+				"rus": 17,
+				"tur": 16,
+				"type": "R"
+			},
+			"12599625": {
+				"blk": 1,
+				"name": "Chalchiuhtlatonal The Master of the Water Dance",
+				"tur": 8,
+				"type": "R"
+			}
+		},
+		"926362": {
+			"12575045": {
+				"name": "Nik-Chihtlutl",
+				"type": "B"
+			},
+			"12575050": {
+				"blk": 3,
+				"name": "Gutip",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12575051": {
+				"blk": 4,
+				"name": "Cetip",
+				"tur": 16,
+				"type": "R"
+			},
+			"12575052": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Co'axchox",
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12575053": {
+				"blk": 2,
+				"name": "Tipitztuch",
+				"tur": 16,
+				"type": "R"
+			},
+			"12575054": {
+				"blk": 3,
+				"died": [
+					2,
+					2,
+					"blocked",
+					"12570037"
+				],
+				"name": "Xlta'uhtluxco",
+				"tur": 7,
+				"type": "R"
+			},
+			"12575056": {
+				"blk": 2,
+				"name": "Chondauixtocl",
+				"prespp": 3,
+				"tur": 7,
+				"type": "R"
+			},
+			"12575057": {
+				"blk": 3,
+				"name": "Qre'axyac-Xlti",
+				"prespp": 7,
+				"rus": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"12575058": {
+				"blk": 1,
+				"name": "Haxtlun-Xi",
+				"tur": 7,
+				"type": "R"
+			},
+			"12575059": {
+				"blk": 4,
+				"name": "Krar-Qretitl",
+				"tur": 16,
+				"type": "R"
+			},
+			"12575061": {
+				"blk": 7,
+				"cps": 1,
+				"name": "Xektech-Ga'e",
+				"pas": 1,
+				"rus": 2,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12593891": {
+				"blk": 3,
+				"name": "Harold Stronghawk",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1137597",
 	"team_performance": {
 		"926053": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Servants of Sacrifice",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"926362": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Huah-Huah's Honor Guard",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

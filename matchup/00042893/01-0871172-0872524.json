@@ -1,19 +1,233 @@
 {
 	"!excluded": "no",
+	"matchId": "3898154",
+	"player_performance": {
+		"871172": {
+			"11698445": {
+				"blk": 11,
+				"name": "Jerek von Carstein",
+				"prespp": 25,
+				"rus": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"11698446": {
+				"blk": 3,
+				"cps": 3,
+				"mvp": 1,
+				"name": "Elize von Carstein",
+				"pas": 13,
+				"prespp": 18,
+				"rus": 11,
+				"spp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11698447": {
+				"blk": 3,
+				"name": "Pieter von Carstein",
+				"prespp": 22,
+				"rus": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"11698448": {
+				"blk": 12,
+				"cas": 1,
+				"name": "Markos von Carstein",
+				"prespp": 35,
+				"rus": 23,
+				"spp": 8,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11698449": {
+				"name": "Hans Schäfer",
+				"tur": 1,
+				"type": "R"
+			},
+			"11698451": {
+				"name": "Johan Schulz",
+				"tur": 5,
+				"type": "R"
+			},
+			"11698453": {
+				"blk": 2,
+				"name": "Fritz Schneider",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11698473": {
+				"blk": 3,
+				"name": "Frank Fischer",
+				"pas": -1,
+				"prespp": 2,
+				"rus": 6,
+				"tur": 13,
+				"type": "R"
+			},
+			"11698474": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Schatten aus der Toten",
+				"prespp": 5,
+				"spp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"11704837": {
+				"blk": 7,
+				"name": "Gerhart Müller",
+				"tur": 16,
+				"type": "R"
+			},
+			"11720718": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Olav Schmidt",
+				"prespp": 4,
+				"tur": 13,
+				"type": "R"
+			},
+			"11729846": {
+				"blk": 1,
+				"died": [
+					2,
+					8,
+					"blocked",
+					"11724303"
+				],
+				"name": "Karl Weber",
+				"prespp": 5,
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"872524": {
+			"11724299": {
+				"blk": 1,
+				"cps": 1,
+				"name": "Brohna Purebite",
+				"pas": 2,
+				"prespp": 23,
+				"rus": 29,
+				"spp": 4,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11724300": {
+				"blk": 4,
+				"name": "Ysma Darkwhisper",
+				"pas": 5,
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11724301": {
+				"blk": 11,
+				"cas": 1,
+				"name": "Jonabert Deadheart",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11724303": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Yuza Sweetslash",
+				"prespp": 13,
+				"rus": 8,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11724304": {
+				"blk": 2,
+				"cps": 1,
+				"name": "Tarya Frozenbreath",
+				"pas": 8,
+				"prespp": 6,
+				"rus": 12,
+				"spp": 4,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11724305": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Armidion",
+				"prespp": 8,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11724309": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Barithius",
+				"prespp": 3,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11724310": {
+				"blk": 1,
+				"name": "Ordham",
+				"prespp": 4,
+				"tur": 12,
+				"type": "R"
+			},
+			"11724311": {
+				"name": "Sarrumar",
+				"tur": 13,
+				"type": "R"
+			},
+			"11724312": {
+				"blk": 1,
+				"name": "Gerogious",
+				"pas": -1,
+				"prespp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"11739350": {
+				"name": "Kikor",
+				"type": "R"
+			},
+			"11762329": {
+				"name": "Aaron Weakeagle",
+				"tur": 14,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "963001",
 	"team_performance": {
 		"871172": {
 			"cas": 2,
 			"casdiff": -1,
+			"name": "Nachthafen Nightlords",
 			"rsym": "L",
 			"score": 2,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 2,
+			"tdsdiff": -1
 		},
 		"872524": {
 			"cas": 3,
 			"casdiff": 1,
+			"name": "Silver Pinnacle Renegades",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 3,
+			"tdsdiff": 1
 		}
 	}
 }

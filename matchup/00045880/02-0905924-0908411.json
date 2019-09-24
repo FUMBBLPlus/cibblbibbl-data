@@ -1,19 +1,230 @@
 {
 	"!excluded": "no",
+	"matchId": "4027772",
+	"player_performance": {
+		"905924": {
+			"12254401": {
+				"blk": 7,
+				"name": "Reddup",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12254402": {
+				"blk": 4,
+				"cas": 2,
+				"name": "Spook",
+				"prespp": 17,
+				"spp": 4,
+				"tur": 17,
+				"type": "B"
+			},
+			"12254405": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Bone",
+				"prespp": 17,
+				"rus": 5,
+				"spp": 8,
+				"tds": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"12254414": {
+				"name": "Clumsy",
+				"prespp": 7,
+				"tur": 6,
+				"type": "R"
+			},
+			"12254424": {
+				"name": "Ashur The Vile",
+				"pas": 1,
+				"rus": 3,
+				"tur": 10,
+				"type": "R"
+			},
+			"12254440": {
+				"name": "O-Dog The Trogslayer",
+				"prespp": 8,
+				"tur": 10,
+				"type": "R"
+			},
+			"12254445": {
+				"cps": 1,
+				"name": "Scumm The Rebel",
+				"pas": 8,
+				"rus": 21,
+				"spp": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"12254450": {
+				"died": [
+					2,
+					0,
+					"hitByRock",
+					null
+				],
+				"name": "Smartu The Unscarred",
+				"prespp": 3,
+				"tur": 8,
+				"type": "R"
+			},
+			"12263755": {
+				"name": "Gizmo The Gambler",
+				"prespp": 3,
+				"type": "R"
+			},
+			"12263756": {
+				"fou": 1,
+				"name": "Killian Glowingwater",
+				"tur": 3,
+				"type": "R"
+			},
+			"12268727": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Redbone",
+				"prespp": 22,
+				"rus": -1,
+				"spp": 7,
+				"tur": 5,
+				"type": "R"
+			},
+			"12421873": {
+				"blk": 4,
+				"name": "Horrus",
+				"tur": 17,
+				"type": "R"
+			},
+			"905924S1": {
+				"blk": 4,
+				"name": "Swingin' Willy",
+				"tur": 16,
+				"type": "S"
+			}
+		},
+		"908411": {
+			"12293139": {
+				"blk": 2,
+				"name": "Nicomo Cosca",
+				"prespp": 21,
+				"tur": 2,
+				"type": "R"
+			},
+			"12293140": {
+				"blk": 9,
+				"name": "Duke Orzo",
+				"prespp": 15,
+				"tur": 17,
+				"type": "R"
+			},
+			"12293141": {
+				"blk": 3,
+				"name": "Caul Shivers",
+				"prespp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"12293148": {
+				"blk": 5,
+				"name": "Cas Shenkt",
+				"prespp": 7,
+				"rus": 2,
+				"spp": 3,
+				"tds": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"12293162": {
+				"blk": 3,
+				"name": "Friendly",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12293164": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Shylo Vitari",
+				"prespp": 11,
+				"spp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"12293166": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Morveer",
+				"prespp": 18,
+				"rus": 8,
+				"tur": 15,
+				"type": "R"
+			},
+			"12293169": {
+				"blk": 5,
+				"name": "Gobba",
+				"prespp": 16,
+				"tur": 12,
+				"type": "R"
+			},
+			"12372288": {
+				"mvp": 1,
+				"name": "Benna Murcatto",
+				"prespp": 8,
+				"rus": 14,
+				"spp": 5,
+				"tur": 3,
+				"type": "R"
+			},
+			"12424758": {
+				"blk": 3,
+				"name": "Jezal dan Luthar",
+				"prespp": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"12458078": {
+				"name": "Monza",
+				"tur": 7,
+				"type": "R"
+			},
+			"12460470": {
+				"blk": 1,
+				"name": "Ario",
+				"tur": 7,
+				"type": "R"
+			},
+			"12460472": {
+				"blk": 1,
+				"name": "Day",
+				"tur": 5,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1113313",
 	"team_performance": {
 		"905924": {
 			"cas": 4,
 			"casdiff": 3,
+			"name": "Squill's Squig Pitt",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"908411": {
 			"cas": 1,
 			"casdiff": -3,
+			"name": "Black Gulf Hippocampi",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

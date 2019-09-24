@@ -1,19 +1,210 @@
 {
 	"!excluded": "no",
+	"matchId": "3895548",
+	"player_performance": {
+		"872927": {
+			"11729664": {
+				"name": "Trokch Silentstriker",
+				"type": "R"
+			},
+			"11729665": {
+				"blk": 10,
+				"name": "Skak Clawreaver",
+				"tur": 15,
+				"type": "R"
+			},
+			"11729666": {
+				"blk": 6,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Qril Pridewalker",
+				"spp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"11729667": {
+				"blk": 6,
+				"fou": 1,
+				"name": "Vulk Shadowspire",
+				"rus": 18,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11729668": {
+				"blk": 10,
+				"name": "Trutch Lowfingers",
+				"tur": 15,
+				"type": "R"
+			},
+			"11729669": {
+				"blk": 3,
+				"cas": 2,
+				"name": "Zhan Shadowfingers",
+				"rus": -3,
+				"spp": 4,
+				"tur": 14,
+				"type": "R"
+			},
+			"11729670": {
+				"blk": 2,
+				"name": "Stonqukch Duskborn",
+				"tur": 13,
+				"type": "R"
+			},
+			"11729671": {
+				"blk": 2,
+				"name": "Qieshqin Bristlescream",
+				"tur": 15,
+				"type": "R"
+			},
+			"11729672": {
+				"blk": 1,
+				"name": "Qhruonqrot Ashgaze",
+				"tur": 8,
+				"type": "R"
+			},
+			"11729673": {
+				"blk": 1,
+				"name": "Zricnik Bitterchest",
+				"tur": 12,
+				"type": "R"
+			},
+			"11729674": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Qhun Caskspine",
+				"tur": 13,
+				"type": "R"
+			},
+			"11729675": {
+				"blk": 1,
+				"name": "Kruoch Ashentail",
+				"tur": 9,
+				"type": "R"
+			},
+			"872927S1": {
+				"blk": 1,
+				"name": "Fezglitch",
+				"tur": 1,
+				"type": "S"
+			}
+		},
+		"873090": {
+			"11732404": {
+				"blk": 11,
+				"name": "Kraz Mighty-Horn",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11732405": {
+				"blk": 12,
+				"cas": 1,
+				"name": "Gnaz Thunder-Charge",
+				"prespp": 8,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11732407": {
+				"blk": 4,
+				"cps": 1,
+				"name": "Toz Bone-Shatter",
+				"pas": -2,
+				"prespp": 5,
+				"rus": 12,
+				"spp": 4,
+				"tds": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"11732408": {
+				"name": "Kribba Krunosch",
+				"pas": 1,
+				"prespp": 1,
+				"rus": 6,
+				"tur": 14,
+				"type": "R"
+			},
+			"11732410": {
+				"died": [
+					1,
+					4,
+					"blocked",
+					"11729669"
+				],
+				"name": "Braknaz",
+				"tur": 3,
+				"type": "R"
+			},
+			"11732411": {
+				"blk": 5,
+				"name": "Miraz",
+				"tur": 16,
+				"type": "R"
+			},
+			"11732421": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Snotta Burgo",
+				"prespp": 3,
+				"tur": 7,
+				"type": "R"
+			},
+			"11748846": {
+				"blk": 6,
+				"mvp": 1,
+				"name": "Grumsch Giant-Killer",
+				"spp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"11748847": {
+				"blk": 3,
+				"name": "Richard Goldlightning",
+				"tur": 14,
+				"type": "R"
+			},
+			"11748848": {
+				"blk": 4,
+				"name": "Billy Weakorc",
+				"rus": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11748849": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Trey Strongstream",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "960011",
 	"team_performance": {
 		"872927": {
 			"cas": 3,
 			"casdiff": 1,
+			"name": "Notorious BIBBL.Inc.Brawlers",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		},
 		"873090": {
 			"cas": 2,
 			"casdiff": -1,
+			"name": "Clan MacCraddle",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		}
 	}
 }

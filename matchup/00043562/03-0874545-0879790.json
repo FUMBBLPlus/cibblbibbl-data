@@ -1,19 +1,215 @@
 {
 	"!excluded": "no",
+	"matchId": "3928565",
+	"player_performance": {
+		"874545": {
+			"11758476": {
+				"blk": 2,
+				"died": [
+					2,
+					3,
+					"blocked",
+					"11839377"
+				],
+				"name": "Old Stone",
+				"prespp": 12,
+				"tur": 11,
+				"type": "R"
+			},
+			"11758477": {
+				"blk": 3,
+				"name": "Jared \"the Prince\"",
+				"prespp": 13,
+				"tur": 11,
+				"type": "R"
+			},
+			"11758478": {
+				"blk": 4,
+				"name": "Chron \"dear Brother\"",
+				"prespp": 15,
+				"tur": 10,
+				"type": "R"
+			},
+			"11758481": {
+				"blk": 7,
+				"name": "Uncle Thran",
+				"prespp": 12,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758486": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Hera \"Big Sister\"",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758492": {
+				"blk": 6,
+				"name": "Counselar Jherein",
+				"prespp": 20,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758496": {
+				"blk": 6,
+				"name": "Speedy Gonza",
+				"prespp": 18,
+				"rus": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758505": {
+				"name": "Fanko",
+				"type": "R"
+			},
+			"11758507": {
+				"name": "Kachem",
+				"tur": 16,
+				"type": "R"
+			},
+			"11854767": {
+				"name": "Broka",
+				"type": "R"
+			},
+			"11906271": {
+				"blk": 1,
+				"name": "Syna",
+				"tur": 6,
+				"type": "R"
+			},
+			"11916776": {
+				"blk": 3,
+				"name": "Flashy Kord",
+				"rus": 18,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11916782": {
+				"died": [
+					1,
+					1,
+					"blocked",
+					"11865383"
+				],
+				"name": "Kenja",
+				"type": "R"
+			}
+		},
+		"879790": {
+			"11839347": {
+				"name": "Hemek Abanux",
+				"tur": 2,
+				"type": "R"
+			},
+			"11839348": {
+				"blk": 1,
+				"fou": 2,
+				"name": "Kalrand Ahrudas",
+				"tur": 9,
+				"type": "R"
+			},
+			"11839349": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Arstur An'gom",
+				"rus": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839350": {
+				"name": "Mephithal  Phobus",
+				"tur": 8,
+				"type": "R"
+			},
+			"11839352": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Halanath Skyrak",
+				"prespp": 7,
+				"tur": 10,
+				"type": "R"
+			},
+			"11839353": {
+				"blk": 8,
+				"name": "Burro'tzor Svodred",
+				"prespp": 16,
+				"tur": 12,
+				"type": "R"
+			},
+			"11839377": {
+				"blk": 10,
+				"cas": 2,
+				"name": "Tusk Anon, The Horned One",
+				"prespp": 11,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839378": {
+				"blk": 4,
+				"name": "Ezrath Nemelas",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"11839379": {
+				"name": "Zakhar Takai",
+				"tur": 1,
+				"type": "R"
+			},
+			"11839798": {
+				"blk": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Ba'el, The Naked Slayer",
+				"spp": 7,
+				"tur": 14,
+				"type": "R"
+			},
+			"11865383": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Abraxis, Tooth of Death",
+				"prespp": 10,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11936995": {
+				"blk": 2,
+				"name": "Festernacus Furilock",
+				"rus": 19,
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "998145",
 	"team_performance": {
 		"874545": {
 			"cas": 0,
 			"casdiff": -5,
+			"name": "Stone Prince's Men",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"879790": {
 			"cas": 5,
 			"casdiff": 5,
+			"name": "Unfettered Fury",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

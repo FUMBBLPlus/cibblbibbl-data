@@ -1,19 +1,228 @@
 {
 	"!excluded": "no",
+	"matchId": "3878577",
+	"player_performance": {
+		"866253": {
+			"11621103": {
+				"blk": 11,
+				"name": "Aahotepre",
+				"tur": 16,
+				"type": "R"
+			},
+			"11621104": {
+				"blk": 3,
+				"cas": 1,
+				"cps": 1,
+				"name": "Aaheru",
+				"pas": -1,
+				"rus": 3,
+				"spp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"11621105": {
+				"name": "Aions",
+				"pas": 1,
+				"prespp": 6,
+				"rus": 14,
+				"tur": 16,
+				"type": "R"
+			},
+			"11621106": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Akhenaton",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11621107": {
+				"blk": 3,
+				"name": "Abdilihiti",
+				"prespp": 10,
+				"tur": 3,
+				"type": "R"
+			},
+			"11621109": {
+				"blk": 4,
+				"name": "Akhem",
+				"tur": 10,
+				"type": "R"
+			},
+			"11621110": {
+				"name": "Aanekhtou",
+				"type": "R"
+			},
+			"11621111": {
+				"blk": 2,
+				"cas": 1,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Alim",
+				"spp": 7,
+				"tur": 8,
+				"type": "R"
+			},
+			"11621112": {
+				"blk": 5,
+				"cas": 1,
+				"fou": 1,
+				"name": "Pthah-Hat-Ankhef",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11621113": {
+				"blk": 1,
+				"name": "Ra-Apepi",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11621114": {
+				"name": "Ra-En-Nito-Iri-En-Tme",
+				"prespp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"11621115": {
+				"blk": 4,
+				"name": "Akar",
+				"tur": 16,
+				"type": "R"
+			},
+			"11651631": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Fektem",
+				"tur": 4,
+				"type": "R"
+			},
+			"866253S1": {
+				"blk": 1,
+				"name": "Sinnedbad",
+				"tur": 2,
+				"type": "S"
+			}
+		},
+		"867030": {
+			"11633486": {
+				"blk": 4,
+				"name": "Sokitoomi",
+				"prespp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11633494": {
+				"blk": 2,
+				"name": "Grymlog",
+				"prespp": 6,
+				"tur": 3,
+				"type": "R"
+			},
+			"11633500": {
+				"blk": 1,
+				"name": "Quaxili",
+				"tur": 16,
+				"type": "R"
+			},
+			"11633503": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Kha-Ataxa",
+				"prespp": 3,
+				"spp": 5,
+				"tur": 12,
+				"type": "R"
+			},
+			"11633505": {
+				"blk": 5,
+				"died": [
+					2,
+					6,
+					"blocked",
+					"11621106"
+				],
+				"name": "KhaBoq",
+				"prespp": 5,
+				"tur": 13,
+				"type": "R"
+			},
+			"11633506": {
+				"name": "Xlanaxlot",
+				"tur": 9,
+				"type": "R"
+			},
+			"11633507": {
+				"fou": 1,
+				"name": "Xapati",
+				"prespp": 8,
+				"tur": 8,
+				"type": "R"
+			},
+			"11633508": {
+				"blk": 1,
+				"died": [
+					2,
+					1,
+					"blocked",
+					"11621111"
+				],
+				"name": "Tiktaq'To",
+				"tur": 8,
+				"type": "R"
+			},
+			"11633509": {
+				"blk": 2,
+				"name": "Zwup",
+				"tur": 14,
+				"type": "R"
+			},
+			"11633511": {
+				"blk": 1,
+				"name": "Xlatli",
+				"tur": 8,
+				"type": "R"
+			},
+			"11633512": {
+				"name": "Huamundi",
+				"prespp": 6,
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11648154": {
+				"blk": 2,
+				"name": "Nakai",
+				"tur": 7,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "940164",
 	"team_performance": {
 		"866253": {
 			"cas": 7,
 			"casdiff": 7,
+			"name": "Queen Khalida's Killers",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"867030": {
 			"cas": 0,
 			"casdiff": -7,
+			"name": "Sport Spawning Zlatlan",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

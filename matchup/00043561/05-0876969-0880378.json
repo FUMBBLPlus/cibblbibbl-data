@@ -1,19 +1,228 @@
 {
 	"!excluded": "no",
+	"matchId": "3934996",
+	"player_performance": {
+		"876969": {
+			"11818427": {
+				"blk": 8,
+				"name": "The Flame of Progress",
+				"prespp": 13,
+				"tur": 16,
+				"type": "R"
+			},
+			"11818434": {
+				"blk": 4,
+				"name": "The Way Forward",
+				"prespp": 19,
+				"rus": 3,
+				"tur": 14,
+				"type": "R"
+			},
+			"11818436": {
+				"blk": 2,
+				"name": "The Transformation of Minds",
+				"prespp": 2,
+				"tur": 2,
+				"type": "R"
+			},
+			"11818495": {
+				"blk": 1,
+				"name": "The Worm that Gnaws",
+				"prespp": 3,
+				"tur": 10,
+				"type": "R"
+			},
+			"11818499": {
+				"name": "The Water that Burns",
+				"rus": 3,
+				"tur": 11,
+				"type": "R"
+			},
+			"11818501": {
+				"fou": 1,
+				"name": "The Snake that Entwines",
+				"tur": 11,
+				"type": "R"
+			},
+			"11818503": {
+				"blk": 1,
+				"cas": 1,
+				"name": "The Star that Blinds",
+				"spp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11818505": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "The Unfolding Awareness",
+				"prespp": 10,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11818506": {
+				"blk": 4,
+				"name": "The Fracturing Consciousness",
+				"prespp": 11,
+				"tur": 12,
+				"type": "R"
+			},
+			"11942024": {
+				"blk": 4,
+				"name": "The Rouge Dream",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11980185": {
+				"name": "Harold Goldshield",
+				"tur": 9,
+				"type": "R"
+			},
+			"876969M1": {
+				"name": "Merc Flamer 1",
+				"tur": 16,
+				"type": "M"
+			}
+		},
+		"880378": {
+			"11849912": {
+				"blk": 11,
+				"name": "The Great Unclean One",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11849914": {
+				"blk": 4,
+				"name": "Khandek the Foul",
+				"prespp": 5,
+				"rus": 12,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11849915": {
+				"blk": 4,
+				"died": [
+					1,
+					8,
+					"blocked",
+					"11818505"
+				],
+				"name": "Crizhol Vomitflesh",
+				"prespp": 16,
+				"tur": 8,
+				"type": "R"
+			},
+			"11849916": {
+				"blk": 14,
+				"cas": 1,
+				"name": "Zinzul the Plaguereaper",
+				"prespp": 24,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11849917": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Erdrund the Leproushand",
+				"prespp": 16,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11849919": {
+				"fou": 1,
+				"name": "Rhemel Crappyhand",
+				"tur": 11,
+				"type": "R"
+			},
+			"11849920": {
+				"name": "Strozkun Foulskin",
+				"prespp": 4,
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 7,
+				"type": "R"
+			},
+			"11849921": {
+				"blk": 2,
+				"name": "Gazgand Stinkhorn",
+				"tur": 8,
+				"type": "R"
+			},
+			"11849923": {
+				"blk": 2,
+				"name": "Zashren Vomitheart",
+				"prespp": 3,
+				"tur": 15,
+				"type": "R"
+			},
+			"11849925": {
+				"blk": 2,
+				"name": "Skurzrond Foularm",
+				"prespp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"11865381": {
+				"fou": 1,
+				"name": "Aaron Hardshield",
+				"prespp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"11898269": {
+				"blk": 1,
+				"name": "Arzund Foulleap",
+				"tur": 6,
+				"type": "R"
+			},
+			"11943988": {
+				"blk": 10,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Gul'Zar Pestbringer",
+				"prespp": 7,
+				"spp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11967902": {
+				"blk": 2,
+				"name": "Orguz Foularm",
+				"tur": 8,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1005659",
 	"team_performance": {
 		"876969": {
 			"cas": 2,
 			"casdiff": -2,
+			"name": "Bringers of Knowledge",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"880378": {
 			"cas": 4,
 			"casdiff": 2,
+			"name": "Nurgle Plaguebearers",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

@@ -1,19 +1,240 @@
 {
 	"!excluded": "no",
+	"matchId": "3924314",
+	"player_performance": {
+		"874452": {
+			"11756582": {
+				"blk": 6,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Draco Dracovich",
+				"prespp": 34,
+				"rus": 1,
+				"spp": 12,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756629": {
+				"blk": 4,
+				"cas": 2,
+				"cps": 1,
+				"name": "Igor Igorivich",
+				"prespp": 20,
+				"rus": 23,
+				"spp": 11,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756687": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Karl",
+				"prespp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"11756689": {
+				"name": "Franz",
+				"prespp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11756708": {
+				"name": "Sigwald",
+				"prespp": 3,
+				"tur": 8,
+				"type": "R"
+			},
+			"11756715": {
+				"blk": 1,
+				"name": "Henrich von Blotenburg",
+				"prespp": 22,
+				"tur": 11,
+				"type": "R"
+			},
+			"11756720": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Gustav von Darkwald",
+				"prespp": 16,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756722": {
+				"name": "Otto",
+				"prespp": 3,
+				"tur": 10,
+				"type": "R"
+			},
+			"11756723": {
+				"name": "Giselle",
+				"prespp": 3,
+				"type": "R"
+			},
+			"11756725": {
+				"name": "Rupert",
+				"tur": 8,
+				"type": "R"
+			},
+			"11869690": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Vlad Vladovich",
+				"prespp": 12,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11875043": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Mathilde",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11875044": {
+				"name": "Laura",
+				"tur": 4,
+				"type": "R"
+			},
+			"11903019": {
+				"fou": 1,
+				"name": "Dietrich",
+				"tur": 12,
+				"type": "R"
+			}
+		},
+		"874560": {
+			"11758676": {
+				"blk": 1,
+				"name": "The Fast But Bashy Wun",
+				"prespp": 16,
+				"tur": 1,
+				"type": "R"
+			},
+			"11758678": {
+				"blk": 4,
+				"name": "The Bashy But Fast Wun",
+				"prespp": 14,
+				"tur": 7,
+				"type": "R"
+			},
+			"11758679": {
+				"name": "Glog the Mighty",
+				"prespp": 8,
+				"type": "R"
+			},
+			"11758680": {
+				"blk": 5,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Hurg the Brave",
+				"prespp": 11,
+				"spp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758681": {
+				"blk": 5,
+				"name": "Kruk the Sensitive",
+				"prespp": 14,
+				"tur": 13,
+				"type": "R"
+			},
+			"11758683": {
+				"name": "Flurg",
+				"prespp": 6,
+				"tur": 10,
+				"type": "R"
+			},
+			"11758687": {
+				"name": "Fleabag",
+				"prespp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11758688": {
+				"name": "Teabag",
+				"type": "R"
+			},
+			"11758690": {
+				"name": "Twitch",
+				"prespp": 3,
+				"tur": 4,
+				"type": "R"
+			},
+			"11758691": {
+				"name": "Flinch",
+				"prespp": 6,
+				"tur": 4,
+				"type": "R"
+			},
+			"11758692": {
+				"died": [
+					2,
+					2,
+					"blocked",
+					"11756582"
+				],
+				"name": "Pooflake",
+				"pas": -1,
+				"rus": 3,
+				"tur": 3,
+				"type": "R"
+			},
+			"11758693": {
+				"name": "Smee",
+				"prespp": 3,
+				"tur": 5,
+				"type": "R"
+			},
+			"11769205": {
+				"name": "Tickle",
+				"prespp": 7,
+				"tur": 3,
+				"type": "R"
+			},
+			"11769206": {
+				"name": "Squeal",
+				"pas": 1,
+				"prespp": 2,
+				"rus": 3,
+				"tur": 3,
+				"type": "R"
+			},
+			"11769207": {
+				"name": "Lunchbox",
+				"rus": 5,
+				"tur": 2,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "993236",
 	"team_performance": {
 		"874452": {
 			"cas": 7,
 			"casdiff": 5,
+			"name": "Way of the Dragon",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		},
 		"874560": {
 			"cas": 2,
 			"casdiff": -5,
+			"name": "Poshgit's Daredevils",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		}
 	}
 }

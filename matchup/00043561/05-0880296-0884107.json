@@ -1,19 +1,220 @@
 {
 	"!excluded": "no",
+	"matchId": "3936853",
+	"player_performance": {
+		"880296": {
+			"11848677": {
+				"blk": 13,
+				"name": "Pa-kamsi the Merciless",
+				"prespp": 16,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848678": {
+				"blk": 10,
+				"name": "Salih the Griefer",
+				"prespp": 10,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848679": {
+				"blk": 3,
+				"died": [
+					1,
+					5,
+					"blocked",
+					"11908765"
+				],
+				"name": "Djoser the Festerer",
+				"prespp": 10,
+				"tur": 5,
+				"type": "R"
+			},
+			"11848680": {
+				"blk": 9,
+				"mvp": 1,
+				"name": "Taf-nekht the Shambler",
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848681": {
+				"blk": 2,
+				"name": "Set-en-et the Goader",
+				"prespp": 4,
+				"rus": 4,
+				"tur": 7,
+				"type": "R"
+			},
+			"11848682": {
+				"blk": 10,
+				"name": "Ra-tmeto the Biter",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11848683": {
+				"name": "Khsathsovairyo the Butcher",
+				"prespp": 10,
+				"rus": 10,
+				"tur": 2,
+				"type": "R"
+			},
+			"11848685": {
+				"blk": 2,
+				"name": "Nakht-ankh",
+				"tur": 16,
+				"type": "R"
+			},
+			"11848686": {
+				"blk": 3,
+				"fou": 2,
+				"name": "Ra-nefer-ab",
+				"tur": 9,
+				"type": "R"
+			},
+			"11848689": {
+				"name": "Utet",
+				"tur": 16,
+				"type": "R"
+			},
+			"11943985": {
+				"blk": 6,
+				"name": "Behdeti the Unwashed",
+				"rus": 7,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"884107": {
+			"11908765": {
+				"blk": 6,
+				"cas": 1,
+				"cps": 1,
+				"mvp": 1,
+				"name": "Reiner Schüttler",
+				"pas": 2,
+				"prespp": 8,
+				"rus": 6,
+				"spp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11908766": {
+				"blk": 9,
+				"name": "Klaus Kottel",
+				"prespp": 11,
+				"rus": 13,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11908767": {
+				"name": "Olivia Walton",
+				"prespp": 8,
+				"type": "R"
+			},
+			"11908769": {
+				"blk": 2,
+				"name": "Erich Mielke",
+				"tur": 16,
+				"type": "R"
+			},
+			"11908770": {
+				"name": "Erika Berger",
+				"tur": 8,
+				"type": "R"
+			},
+			"11908772": {
+				"blk": 2,
+				"name": "Trude Unruh",
+				"tur": 4,
+				"type": "R"
+			},
+			"11908773": {
+				"name": "Uta Nimtz",
+				"tur": 8,
+				"type": "R"
+			},
+			"11908774": {
+				"name": "Knut Flöter",
+				"tur": 1,
+				"type": "R"
+			},
+			"11908775": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Jürgen Marcus",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"11908776": {
+				"blk": 2,
+				"name": "Christian Goebel",
+				"tur": 11,
+				"type": "R"
+			},
+			"11908777": {
+				"blk": 1,
+				"name": "Jörg Heinrich",
+				"tur": 4,
+				"type": "R"
+			},
+			"11908786": {
+				"blk": 2,
+				"name": "Max Stirner",
+				"tur": 16,
+				"type": "R"
+			},
+			"11942022": {
+				"blk": 3,
+				"name": "Helmut Kohl",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11956204": {
+				"name": "Horst Genscher",
+				"type": "R"
+			},
+			"11967900": {
+				"blk": 1,
+				"name": "Heiko Härlich",
+				"tur": 11,
+				"type": "R"
+			},
+			"884107S1": {
+				"blk": 4,
+				"name": "Wilhelm Chaney",
+				"tur": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1007863",
 	"team_performance": {
 		"880296": {
 			"cas": 0,
 			"casdiff": -2,
+			"name": "Lamentations of Mahrak",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"884107": {
 			"cas": 2,
 			"casdiff": 2,
+			"name": "Kastratenkantate Sylvania",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

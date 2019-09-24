@@ -1,19 +1,220 @@
 {
 	"!excluded": "no",
+	"matchId": "3939748",
+	"player_performance": {
+		"888994": {
+			"11985437": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Vargwursgelnd",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11985438": {
+				"blk": 8,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Gwoftirbnewfg",
+				"spp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11985439": {
+				"blk": 7,
+				"name": "Gnorfmangph",
+				"tur": 16,
+				"type": "R"
+			},
+			"11985440": {
+				"name": "Banbha Fasner",
+				"tur": 2,
+				"type": "R"
+			},
+			"11985441": {
+				"name": "Murchú Varken",
+				"rus": 34,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11985442": {
+				"name": "Berrach Marney",
+				"prespp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"11985443": {
+				"name": "Lasarina Ariannona",
+				"rus": 12,
+				"spp": 3,
+				"tds": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"11985444": {
+				"name": "Nuala  Rydan",
+				"type": "R"
+			},
+			"11985445": {
+				"name": "Beagán Coobe",
+				"tur": 2,
+				"type": "R"
+			},
+			"11985446": {
+				"died": [
+					1,
+					6,
+					"gfiFail",
+					null
+				],
+				"fou": 1,
+				"name": "Ruarc  Sythril",
+				"prespp": 8,
+				"tur": 5,
+				"type": "R"
+			},
+			"11985447": {
+				"name": "Faolán Volux",
+				"tur": 16,
+				"type": "R"
+			},
+			"11985462": {
+				"blk": 12,
+				"cas": 2,
+				"name": "Jforznthrargh",
+				"prespp": 2,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11998001": {
+				"blk": 1,
+				"name": "Gobnait Fovor",
+				"tur": 8,
+				"type": "R"
+			},
+			"11998010": {
+				"fou": 1,
+				"name": "Fachtna Cid",
+				"tur": 16,
+				"type": "R"
+			},
+			"888994M1": {
+				"fou": 1,
+				"name": "Merc Pixie 1",
+				"tur": 6,
+				"type": "M"
+			}
+		},
+		"889533": {
+			"11994488": {
+				"blk": 6,
+				"name": "Sickening Metamorphosis",
+				"prespp": 5,
+				"tur": 10,
+				"type": "B"
+			},
+			"11994489": {
+				"blk": 8,
+				"name": "Evisceration Plague",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11994490": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Intestinal Crank",
+				"prespp": 3,
+				"spp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"11994491": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Burstspasm",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11994493": {
+				"blk": 1,
+				"name": "Vomitfang",
+				"prespp": 2,
+				"rus": 22,
+				"tur": 16,
+				"type": "R"
+			},
+			"11994494": {
+				"died": [
+					1,
+					1,
+					"blocked",
+					"11985462"
+				],
+				"name": "Puswarp",
+				"tur": 1,
+				"type": "R"
+			},
+			"11994495": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Rabidfoam",
+				"tur": 16,
+				"type": "R"
+			},
+			"11994496": {
+				"name": "Mucusblight",
+				"tur": 7,
+				"type": "R"
+			},
+			"11994497": {
+				"blk": 1,
+				"name": "Gnawloon",
+				"tur": 5,
+				"type": "R"
+			},
+			"11994498": {
+				"name": "Slobgobble",
+				"type": "R"
+			},
+			"11994500": {
+				"name": "Maggotooze",
+				"tur": 7,
+				"type": "R"
+			},
+			"12003216": {
+				"blk": 4,
+				"name": "Worm Infested",
+				"tur": 13,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1011323",
 	"team_performance": {
 		"888994": {
 			"cas": 5,
 			"casdiff": 4,
+			"name": "Beerbog Behemoths",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		},
 		"889533": {
 			"cas": 1,
 			"casdiff": -4,
+			"name": "Ecstasy in Decay",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		}
 	}
 }

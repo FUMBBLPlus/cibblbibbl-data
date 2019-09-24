@@ -1,19 +1,196 @@
 {
 	"!excluded": "no",
+	"matchId": "3910293",
+	"player_performance": {
+		"874966": {
+			"11764899": {
+				"blk": 3,
+				"name": "Benethor",
+				"prespp": 9,
+				"rus": 20,
+				"tur": 16,
+				"type": "R"
+			},
+			"11764901": {
+				"name": "Danesthos",
+				"type": "R"
+			},
+			"11764906": {
+				"blk": 3,
+				"cas": 2,
+				"name": "Polkan the Red",
+				"spp": 4,
+				"tur": 10,
+				"type": "R"
+			},
+			"11764910": {
+				"name": "Wendoran",
+				"type": "R"
+			},
+			"11764915": {
+				"blk": 1,
+				"name": "Finavar",
+				"prespp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11764916": {
+				"name": "Jokleel",
+				"type": "R"
+			},
+			"11764917": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Thuralin",
+				"prespp": 3,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11764918": {
+				"blk": 2,
+				"name": "Guldir",
+				"tur": 8,
+				"type": "R"
+			},
+			"11764919": {
+				"blk": 4,
+				"name": "Lemsas",
+				"tur": 16,
+				"type": "R"
+			},
+			"11764921": {
+				"blk": 13,
+				"name": "Morlanna",
+				"prespp": 13,
+				"rus": 16,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11807601": {
+				"blk": 3,
+				"name": "Sylvester Weakstream",
+				"tur": 16,
+				"type": "R"
+			},
+			"11807602": {
+				"blk": 1,
+				"name": "Fredrick Weakfield",
+				"tur": 11,
+				"type": "R"
+			},
+			"11807603": {
+				"blk": 3,
+				"name": "Robert Hardshield",
+				"tur": 14,
+				"type": "R"
+			},
+			"11807604": {
+				"blk": 2,
+				"name": "Alexander Goldstone",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"876969": {
+			"11818427": {
+				"blk": 4,
+				"name": "The Flame of Progress",
+				"rus": 4,
+				"tur": 17,
+				"type": "R"
+			},
+			"11818434": {
+				"blk": 7,
+				"name": "The Way Forward",
+				"rus": 3,
+				"tur": 10,
+				"type": "R"
+			},
+			"11818436": {
+				"blk": 6,
+				"name": "The Transformation of Minds",
+				"tur": 11,
+				"type": "R"
+			},
+			"11818495": {
+				"blk": 1,
+				"name": "The Worm that Gnaws",
+				"tur": 8,
+				"type": "R"
+			},
+			"11818499": {
+				"blk": 2,
+				"name": "The Water that Burns",
+				"tur": 15,
+				"type": "R"
+			},
+			"11818501": {
+				"name": "The Snake that Entwines",
+				"pas": 1,
+				"rus": 8,
+				"tur": 17,
+				"type": "R"
+			},
+			"11818502": {
+				"blk": 2,
+				"fou": 1,
+				"name": "The Shadow's Face",
+				"tur": 13,
+				"type": "R"
+			},
+			"11818503": {
+				"blk": 1,
+				"name": "The Star that Blinds",
+				"tur": 14,
+				"type": "R"
+			},
+			"11818504": {
+				"blk": 1,
+				"name": "The Cracked Voice",
+				"tur": 14,
+				"type": "R"
+			},
+			"11818505": {
+				"blk": 4,
+				"cps": 1,
+				"name": "The Unfolding Awareness",
+				"spp": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11818506": {
+				"mvp": 1,
+				"name": "The Fracturing Consciousness",
+				"spp": 5,
+				"tur": 1,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "976962",
 	"team_performance": {
 		"874966": {
 			"cas": 2,
 			"casdiff": 2,
+			"name": "Modryn's Midnight Meddlers",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"876969": {
 			"cas": 0,
 			"casdiff": -2,
+			"name": "Bringers of Knowledge",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

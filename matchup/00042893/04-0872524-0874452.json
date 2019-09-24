@@ -1,19 +1,236 @@
 {
 	"!excluded": "no",
+	"matchId": "3902783",
+	"player_performance": {
+		"872524": {
+			"11724299": {
+				"blk": 2,
+				"name": "Brohna Purebite",
+				"pas": 1,
+				"prespp": 31,
+				"rus": 27,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11724300": {
+				"blk": 3,
+				"name": "Ysma Darkwhisper",
+				"prespp": 11,
+				"rus": 11,
+				"spp": 3,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11724301": {
+				"blk": 10,
+				"name": "Jonabert Deadheart",
+				"prespp": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"11724303": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Yuza Sweetslash",
+				"prespp": 32,
+				"spp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"11724304": {
+				"mvp": 1,
+				"name": "Tarya Frozenbreath",
+				"prespp": 10,
+				"rus": -2,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"11724305": {
+				"blk": 4,
+				"name": "Armidion",
+				"prespp": 10,
+				"tur": 16,
+				"type": "R"
+			},
+			"11724309": {
+				"blk": 3,
+				"name": "Barithius",
+				"prespp": 8,
+				"tur": 15,
+				"type": "R"
+			},
+			"11724310": {
+				"blk": 8,
+				"name": "Ordham",
+				"prespp": 9,
+				"tur": 17,
+				"type": "R"
+			},
+			"11724311": {
+				"name": "Sarrumar",
+				"tur": 9,
+				"type": "R"
+			},
+			"11724312": {
+				"fou": 1,
+				"name": "Gerogious",
+				"prespp": 2,
+				"tur": 6,
+				"type": "R"
+			},
+			"11739350": {
+				"blk": 1,
+				"name": "Kikor",
+				"tur": 8,
+				"type": "R"
+			},
+			"11784363": {
+				"blk": 1,
+				"name": "Conquirium",
+				"tur": 17,
+				"type": "R"
+			},
+			"11794063": {
+				"died": [
+					2,
+					8,
+					"blocked",
+					"11756689"
+				],
+				"name": "Garrant",
+				"tur": 8,
+				"type": "R"
+			}
+		},
+		"874452": {
+			"11756581": {
+				"blk": 6,
+				"name": "Gregor Gregorivich",
+				"prespp": 12,
+				"rus": 19,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756582": {
+				"blk": 11,
+				"cas": 2,
+				"name": "Draco Dracovich",
+				"prespp": 8,
+				"rus": 11,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756629": {
+				"blk": 4,
+				"name": "Igor Igorivich",
+				"prespp": 8,
+				"tur": 7,
+				"type": "R"
+			},
+			"11756687": {
+				"blk": 4,
+				"name": "Karl",
+				"tur": 16,
+				"type": "R"
+			},
+			"11756689": {
+				"blk": 5,
+				"cas": 1,
+				"fou": 1,
+				"name": "Franz",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756707": {
+				"blk": 6,
+				"name": "Stefan",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756708": {
+				"blk": 2,
+				"name": "Sigwald",
+				"prespp": 3,
+				"tur": 8,
+				"type": "R"
+			},
+			"11756715": {
+				"blk": 2,
+				"name": "Henrich von Blotenburg",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756720": {
+				"blk": 9,
+				"mvp": 1,
+				"name": "Gustav von Darkwald",
+				"prespp": 4,
+				"spp": 5,
+				"tur": 14,
+				"type": "R"
+			},
+			"11756722": {
+				"blk": 1,
+				"name": "Otto",
+				"tur": 10,
+				"type": "R"
+			},
+			"11756723": {
+				"blk": 1,
+				"name": "Giselle",
+				"tur": 2,
+				"type": "R"
+			},
+			"11756725": {
+				"name": "Rupert",
+				"type": "R"
+			},
+			"11775815": {
+				"blk": 1,
+				"name": "Gunter",
+				"rus": -2,
+				"tur": 7,
+				"type": "R"
+			},
+			"874452S1": {
+				"blk": 9,
+				"name": "Count Luthor Von Drakenborg",
+				"tur": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "968442",
 	"team_performance": {
 		"872524": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Silver Pinnacle Renegades",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"874452": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Way of the Dragon",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

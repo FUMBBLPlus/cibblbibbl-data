@@ -1,19 +1,185 @@
 {
 	"!excluded": "no",
+	"matchId": "3937870",
+	"player_performance": {
+		"888760": {
+			"11982012": {
+				"blk": 12,
+				"cas": 2,
+				"name": "Gusraz The Lonebringer",
+				"spp": 4,
+				"tur": 17,
+				"type": "R"
+			},
+			"11982018": {
+				"blk": 6,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Taghoth Wrathfather",
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"11982019": {
+				"blk": 2,
+				"name": "Ogbund Emberbender",
+				"tur": 15,
+				"type": "R"
+			},
+			"11982020": {
+				"name": "Tuzkan Nightgaze",
+				"tur": 17,
+				"type": "R"
+			},
+			"11982021": {
+				"blk": 2,
+				"name": "Cagbuth Chaosforce",
+				"tur": 17,
+				"type": "R"
+			},
+			"11982023": {
+				"blk": 1,
+				"name": "Trennel Skullstriker",
+				"rus": 10,
+				"tur": 17,
+				"type": "R"
+			},
+			"11982028": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Scu'draz Ambercrest",
+				"tur": 17,
+				"type": "R"
+			},
+			"11982029": {
+				"blk": 1,
+				"name": "Zazhrin Emberborn",
+				"tur": 11,
+				"type": "R"
+			},
+			"11982030": {
+				"blk": 3,
+				"name": "Crazgind Battleforged",
+				"tur": 17,
+				"type": "R"
+			},
+			"11982032": {
+				"blk": 2,
+				"name": "Emis Nightgazer",
+				"rus": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11982034": {
+				"fou": 1,
+				"name": "Ciggus Rageborn",
+				"tur": 11,
+				"type": "R"
+			}
+		},
+		"889002": {
+			"11985590": {
+				"blk": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Rædwald of Grim Moor",
+				"rus": 13,
+				"spp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"11985591": {
+				"blk": 7,
+				"name": "Ælle of Bylorhof",
+				"rus": 8,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11985592": {
+				"blk": 4,
+				"name": "Alfred of Hel Fenn",
+				"tur": 14,
+				"type": "R"
+			},
+			"11985593": {
+				"blk": 5,
+				"name": "Oswiu of Morrfenn",
+				"rus": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11985594": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Acwel Durwin",
+				"spp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"11985595": {
+				"name": "Beorn Anson",
+				"tur": 7,
+				"type": "R"
+			},
+			"11985596": {
+				"blk": 1,
+				"name": "Corey Baldlice",
+				"tur": 8,
+				"type": "R"
+			},
+			"11985597": {
+				"name": "Calflice Dreng",
+				"tur": 16,
+				"type": "R"
+			},
+			"11985598": {
+				"name": "Ealdian Galan",
+				"type": "R"
+			},
+			"11985599": {
+				"blk": 1,
+				"name": "Grimbold Heolstor",
+				"tur": 8,
+				"type": "R"
+			},
+			"11985600": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Hererinc Isen",
+				"spp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"11985601": {
+				"name": "Kenway Leof",
+				"tur": 6,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1009128",
 	"team_performance": {
 		"888760": {
 			"cas": 2,
 			"casdiff": -1,
+			"name": "Brothers Of Malice",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"889002": {
 			"cas": 3,
 			"casdiff": 1,
+			"name": "Offa's Hearthweru",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

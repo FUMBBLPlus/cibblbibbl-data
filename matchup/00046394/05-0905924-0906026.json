@@ -1,19 +1,258 @@
 {
 	"!excluded": "no",
+	"matchId": "4054378",
+	"player_performance": {
+		"905924": {
+			"12254401": {
+				"blk": 1,
+				"name": "Reddup",
+				"prespp": 16,
+				"tur": 2,
+				"type": "R"
+			},
+			"12254402": {
+				"name": "Spook",
+				"prespp": 21,
+				"tur": 4,
+				"type": "B"
+			},
+			"12254405": {
+				"blk": 4,
+				"cas": 2,
+				"name": "Bone",
+				"prespp": 40,
+				"spp": 4,
+				"tur": 10,
+				"type": "R"
+			},
+			"12254424": {
+				"name": "Ashur The Vile",
+				"prespp": 6,
+				"tur": 2,
+				"type": "R"
+			},
+			"12254445": {
+				"blk": 3,
+				"name": "Scumm The Rebel",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"12263755": {
+				"name": "Gizmo The Gambler",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12268727": {
+				"blk": 7,
+				"cas": 4,
+				"mvp": 1,
+				"name": "Redbone",
+				"prespp": 69,
+				"rus": 19,
+				"spp": 16,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12528884": {
+				"name": "Angron",
+				"prespp": 6,
+				"type": "R"
+			},
+			"12547748": {
+				"blk": 1,
+				"name": "Wrex",
+				"prespp": 24,
+				"tur": 16,
+				"type": "R"
+			},
+			"12595120": {
+				"blk": 1,
+				"name": "Grub The Inedible",
+				"tur": 14,
+				"type": "R"
+			},
+			"12605626": {
+				"blk": 2,
+				"name": "Overseer Lasher",
+				"tur": 16,
+				"type": "R"
+			},
+			"12622809": {
+				"blk": 1,
+				"died": [
+					1,
+					3,
+					"blocked",
+					"12255960"
+				],
+				"name": "Frongolmuncher",
+				"tur": 2,
+				"type": "R"
+			},
+			"12622816": {
+				"name": "Oddgit",
+				"tur": 9,
+				"type": "R"
+			},
+			"12627290": {
+				"died": [
+					1,
+					3,
+					"blocked",
+					"12255961"
+				],
+				"name": "Izzit Kleen",
+				"tur": 2,
+				"type": "R"
+			}
+		},
+		"906026": {
+			"12255960": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Hungry",
+				"prespp": 37,
+				"rus": 2,
+				"spp": 2,
+				"tur": 17,
+				"type": "B"
+			},
+			"12255961": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Mani Mad Cap",
+				"prespp": 27,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12255962": {
+				"name": "Dizgot Boomfeet",
+				"prespp": 78,
+				"rus": 17,
+				"tur": 7,
+				"type": "R"
+			},
+			"12411917": {
+				"blk": 6,
+				"name": "Angry",
+				"prespp": 39,
+				"tur": 10,
+				"type": "B"
+			},
+			"12492986": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Kurdan Sparkvolt",
+				"prespp": 3,
+				"tur": 3,
+				"type": "R"
+			},
+			"12492987": {
+				"blk": 2,
+				"name": "Urdin",
+				"prespp": 3,
+				"tur": 7,
+				"type": "R"
+			},
+			"12504901": {
+				"name": "Tristan Hotwing",
+				"prespp": 2,
+				"tur": 7,
+				"type": "R"
+			},
+			"12504902": {
+				"name": "William Goldstream",
+				"prespp": 3,
+				"type": "R"
+			},
+			"12545355": {
+				"name": "Golk Le sourd",
+				"prespp": 15,
+				"tur": 6,
+				"type": "R"
+			},
+			"12586084": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Ash Onehanded",
+				"spp": 5,
+				"tur": 3,
+				"type": "R"
+			},
+			"12586694": {
+				"blk": 1,
+				"name": "Zerdack Handspin",
+				"prespp": 3,
+				"tur": 9,
+				"type": "R"
+			},
+			"12586695": {
+				"blk": 1,
+				"name": "Zouk Machine",
+				"prespp": 3,
+				"rus": 19,
+				"tur": 9,
+				"type": "R"
+			},
+			"12597729": {
+				"died": [
+					2,
+					3,
+					"landingFail",
+					null
+				],
+				"name": "Hocus Boggle",
+				"prespp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"12597730": {
+				"blk": 2,
+				"fou": 1,
+				"name": "GolG Ginger",
+				"tur": 9,
+				"type": "R"
+			},
+			"12615447": {
+				"blk": 1,
+				"name": "Poool",
+				"prespp": 5,
+				"tur": 1,
+				"type": "R"
+			},
+			"12622181": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Pal Adin",
+				"tur": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1143993",
 	"team_performance": {
 		"905924": {
 			"cas": 6,
 			"casdiff": 3,
+			"name": "Squill's Squig Pitt",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"906026": {
 			"cas": 3,
 			"casdiff": -3,
+			"name": "Karak Azog Outlaws",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

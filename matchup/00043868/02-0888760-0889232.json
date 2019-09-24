@@ -1,19 +1,195 @@
 {
 	"!excluded": "no",
+	"matchId": "3939091",
+	"player_performance": {
+		"888760": {
+			"11982012": {
+				"blk": 13,
+				"name": "Gusraz The Lonebringer",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11982018": {
+				"blk": 3,
+				"name": "Taghoth Wrathfather",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11982019": {
+				"blk": 2,
+				"name": "Ogbund Emberbender",
+				"tur": 16,
+				"type": "R"
+			},
+			"11982020": {
+				"blk": 4,
+				"name": "Tuzkan Nightgaze",
+				"tur": 16,
+				"type": "R"
+			},
+			"11982021": {
+				"blk": 4,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Cagbuth Chaosforce",
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11982023": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Trennel Skullstriker",
+				"tur": 16,
+				"type": "R"
+			},
+			"11982028": {
+				"blk": 5,
+				"name": "Scu'draz Ambercrest",
+				"tur": 11,
+				"type": "R"
+			},
+			"11982029": {
+				"blk": 3,
+				"name": "Zazhrin Emberborn",
+				"rus": 20,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11982030": {
+				"blk": 4,
+				"name": "Crazgind Battleforged",
+				"tur": 16,
+				"type": "R"
+			},
+			"11982032": {
+				"name": "Emis Nightgazer",
+				"type": "R"
+			},
+			"11982034": {
+				"blk": 5,
+				"name": "Ciggus Rageborn",
+				"tur": 16,
+				"type": "R"
+			},
+			"11994718": {
+				"fou": 1,
+				"name": "Xavier Grottyshield",
+				"tur": 10,
+				"type": "R"
+			}
+		},
+		"889232": {
+			"11989945": {
+				"blk": 2,
+				"name": "Chthonic Slade",
+				"tur": 2,
+				"type": "R"
+			},
+			"11989946": {
+				"blk": 7,
+				"name": "Chthonic Cinnabar",
+				"tur": 16,
+				"type": "R"
+			},
+			"11989951": {
+				"blk": 5,
+				"cas": 1,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Chthonic Pitchblende",
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11989952": {
+				"blk": 2,
+				"name": "Chthonic Cobaltite",
+				"tur": 16,
+				"type": "R"
+			},
+			"11989953": {
+				"fou": 1,
+				"name": "Chthonic Granite",
+				"tur": 10,
+				"type": "R"
+			},
+			"11989954": {
+				"blk": 5,
+				"name": "Chthonic Jet",
+				"tur": 15,
+				"type": "R"
+			},
+			"11989958": {
+				"blk": 6,
+				"name": "Chthonic Gabbro",
+				"tur": 12,
+				"type": "R"
+			},
+			"11989962": {
+				"blk": 4,
+				"name": "Magma Imp",
+				"tur": 11,
+				"type": "R"
+			},
+			"11989967": {
+				"blk": 1,
+				"name": "Sylph Wisp",
+				"prespp": 3,
+				"rus": -1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11989973": {
+				"blk": 10,
+				"name": "Naiad Nomia",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11989977": {
+				"blk": 3,
+				"cps": 1,
+				"name": "Naiad Eretria",
+				"pas": 1,
+				"rus": 2,
+				"spp": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"11989980": {
+				"blk": 1,
+				"name": "Chthonic Kaolinite",
+				"tur": 5,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1010581",
 	"team_performance": {
 		"888760": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Brothers Of Malice",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"889232": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Lost Golems of Grungni",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

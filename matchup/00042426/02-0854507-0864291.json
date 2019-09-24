@@ -1,19 +1,197 @@
 {
 	"!excluded": "no",
+	"matchId": "3883528",
+	"player_performance": {
+		"854507": {
+			"11439074": {
+				"blk": 8,
+				"name": "M'zart, the Unbound Flame",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439075": {
+				"blk": 13,
+				"name": "Eltrith, the Silent",
+				"prespp": 14,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439076": {
+				"blk": 11,
+				"name": "Maximilian Windhelm, the Fallen",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439078": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Emminoth",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 7,
+				"type": "R"
+			},
+			"11439080": {
+				"blk": 2,
+				"cps": 1,
+				"name": "Vol'arth the Brazen",
+				"pas": 2,
+				"prespp": 15,
+				"rus": 20,
+				"spp": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439088": {
+				"name": "Yibb-Tstll",
+				"prespp": 10,
+				"tur": 7,
+				"type": "R"
+			},
+			"11439090": {
+				"blk": 3,
+				"name": "Do Galaad, the Herald",
+				"prespp": 7,
+				"tur": 5,
+				"type": "R"
+			},
+			"11439091": {
+				"name": "A Formless Thing",
+				"prespp": 10,
+				"tur": 3,
+				"type": "R"
+			},
+			"11439092": {
+				"name": "Voonith",
+				"tur": 6,
+				"type": "R"
+			},
+			"11582112": {
+				"blk": 3,
+				"cas": 1,
+				"name": "Horok",
+				"spp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"11657971": {
+				"fou": 2,
+				"name": "Jack Clumsyhammer",
+				"tur": 5,
+				"type": "R"
+			}
+		},
+		"864291": {
+			"11590768": {
+				"blk": 11,
+				"cas": 1,
+				"name": "S. Sang",
+				"prespp": 8,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590769": {
+				"blk": 4,
+				"name": "U. Gress",
+				"prespp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590771": {
+				"name": "Redivor",
+				"tur": 16,
+				"type": "R"
+			},
+			"11590772": {
+				"blk": 7,
+				"cas": 1,
+				"fou": 1,
+				"name": "Redimor",
+				"prespp": 5,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590773": {
+				"blk": 1,
+				"name": "Chitemor",
+				"tur": 16,
+				"type": "R"
+			},
+			"11590777": {
+				"blk": 2,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Limortor",
+				"prespp": 7,
+				"spp": 5,
+				"tur": 12,
+				"type": "R"
+			},
+			"11590778": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Dissepolor",
+				"prespp": 5,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590780": {
+				"blk": 4,
+				"cas": 2,
+				"name": "Affuquator",
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11590781": {
+				"blk": 1,
+				"name": "Dichitemor",
+				"prespp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"11681513": {
+				"name": "L.A. Biond",
+				"rus": 17,
+				"spp": 3,
+				"tds": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"11681514": {
+				"blk": 1,
+				"name": "Trey Grottyorc",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "945876",
 	"team_performance": {
 		"854507": {
 			"cas": 2,
 			"casdiff": -4,
+			"name": "Coven of the Mirrored Hall",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"864291": {
 			"cas": 6,
 			"casdiff": 4,
+			"name": "Norscan Curse",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

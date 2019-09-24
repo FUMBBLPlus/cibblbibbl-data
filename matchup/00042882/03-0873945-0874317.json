@@ -1,19 +1,196 @@
 {
 	"!excluded": "no",
+	"matchId": "3898521",
+	"player_performance": {
+		"873945": {
+			"11747835": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Modolf Dagsson",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"11747836": {
+				"name": "Bersi Thometillsson",
+				"type": "R"
+			},
+			"11747837": {
+				"blk": 2,
+				"name": "Firthgest Thiodolfsson",
+				"tur": 15,
+				"type": "R"
+			},
+			"11747839": {
+				"name": "Kol Styrsson",
+				"prespp": 3,
+				"rus": 13,
+				"tur": 15,
+				"type": "R"
+			},
+			"11747841": {
+				"blk": 9,
+				"name": "Hall Solvisson",
+				"tur": 15,
+				"type": "R"
+			},
+			"11747842": {
+				"blk": 4,
+				"name": "Heriolf Wengosson",
+				"tur": 15,
+				"type": "R"
+			},
+			"11747844": {
+				"blk": 4,
+				"name": "Sturla Suitsson",
+				"tur": 15,
+				"type": "R"
+			},
+			"11747846": {
+				"blk": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Modolf Svæinsson",
+				"prespp": 5,
+				"rus": 11,
+				"spp": 10,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11747847": {
+				"blk": 5,
+				"name": "Iri Brodirsson",
+				"prespp": 6,
+				"tur": 15,
+				"type": "R"
+			},
+			"11767822": {
+				"blk": 3,
+				"name": "Brian Goldbrook",
+				"tur": 15,
+				"type": "R"
+			},
+			"11767823": {
+				"blk": 1,
+				"name": "Martin Truestream",
+				"tur": 15,
+				"type": "R"
+			},
+			"11767824": {
+				"blk": 4,
+				"name": "Alexander Silentbrook",
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"874317": {
+			"11754392": {
+				"blk": 8,
+				"fou": 1,
+				"name": "Balor Evil-eye",
+				"tur": 15,
+				"type": "R"
+			},
+			"11754395": {
+				"blk": 7,
+				"mvp": 1,
+				"name": "Moloch the Terrible",
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"11754410": {
+				"blk": 5,
+				"name": "Odracon The Procreator",
+				"prespp": 7,
+				"tur": 8,
+				"type": "R"
+			},
+			"11754411": {
+				"blk": 3,
+				"cps": 1,
+				"name": "Bres",
+				"spp": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"11754412": {
+				"blk": 1,
+				"name": "Cian",
+				"tur": 7,
+				"type": "R"
+			},
+			"11754414": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Lug",
+				"tur": 15,
+				"type": "R"
+			},
+			"11754415": {
+				"blk": 4,
+				"died": [
+					2,
+					5,
+					"blocked",
+					"11747846"
+				],
+				"name": "Conand",
+				"tur": 11,
+				"type": "R"
+			},
+			"11754416": {
+				"blk": 5,
+				"name": "Cichol Grichencos",
+				"tur": 14,
+				"type": "R"
+			},
+			"11754417": {
+				"blk": 3,
+				"name": "Cethlenn",
+				"tur": 15,
+				"type": "R"
+			},
+			"11754418": {
+				"blk": 7,
+				"name": "Tethra",
+				"prespp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"11754422": {
+				"blk": 2,
+				"name": "Biròq",
+				"prespp": 9,
+				"rus": 4,
+				"tur": 7,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "963413",
 	"team_performance": {
 		"873945": {
 			"cas": 2,
 			"casdiff": 2,
+			"name": "Warhird Huscarls",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"874317": {
 			"cas": 0,
 			"casdiff": -2,
+			"name": "Misty Isle Gators",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

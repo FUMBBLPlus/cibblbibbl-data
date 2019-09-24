@@ -1,19 +1,232 @@
 {
 	"!excluded": "no",
+	"matchId": "3956822",
+	"player_performance": {
+		"856697": {
+			"11472246": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Skulltaker",
+				"prespp": 42,
+				"spp": 2,
+				"tur": 10,
+				"type": "R"
+			},
+			"11472250": {
+				"blk": 2,
+				"name": "Arkh'gar",
+				"prespp": 52,
+				"tur": 6,
+				"type": "R"
+			},
+			"11472254": {
+				"blk": 2,
+				"fou": 4,
+				"name": "Tallomin",
+				"prespp": 16,
+				"tur": 7,
+				"type": "R"
+			},
+			"11472255": {
+				"blk": 3,
+				"name": "Arvax the Mad",
+				"prespp": 50,
+				"rus": 16,
+				"tur": 15,
+				"type": "R"
+			},
+			"11472256": {
+				"name": "Scyrak",
+				"prespp": 10,
+				"tur": 9,
+				"type": "R"
+			},
+			"11472262": {
+				"blk": 7,
+				"name": "Headsman of Cellebos",
+				"prespp": 26,
+				"tur": 16,
+				"type": "R"
+			},
+			"11472270": {
+				"blk": 3,
+				"name": "Drakkar",
+				"prespp": 51,
+				"tur": 5,
+				"type": "R"
+			},
+			"11658789": {
+				"name": "H'Stan",
+				"prespp": 12,
+				"tur": 7,
+				"type": "R"
+			},
+			"11730736": {
+				"blk": 2,
+				"name": "Doomsday The Everliving",
+				"prespp": 44,
+				"tur": 3,
+				"type": "R"
+			},
+			"11809828": {
+				"blk": 3,
+				"name": "Apocolypse",
+				"prespp": 17,
+				"tur": 4,
+				"type": "R"
+			},
+			"11905351": {
+				"blk": 4,
+				"name": "Stiltskin",
+				"tur": 14,
+				"type": "R"
+			},
+			"12029068": {
+				"mvp": 1,
+				"name": "Doom of Pajaro",
+				"prespp": 5,
+				"spp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"12029069": {
+				"name": "K'Han",
+				"tur": 9,
+				"type": "R"
+			},
+			"12071748": {
+				"blk": 6,
+				"name": "Eli Wrath",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"871787": {
+			"11709004": {
+				"fou": 4,
+				"name": "Idun Hands",
+				"prespp": 7,
+				"tur": 4,
+				"type": "R"
+			},
+			"11709008": {
+				"name": "Emyys Doceon",
+				"type": "R"
+			},
+			"11709009": {
+				"blk": 1,
+				"name": "Burk Silpal",
+				"prespp": 24,
+				"tur": 9,
+				"type": "R"
+			},
+			"11709010": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Dando Enda",
+				"prespp": 8,
+				"tur": 12,
+				"type": "R"
+			},
+			"11709011": {
+				"blk": 2,
+				"name": "Raus Juit",
+				"prespp": 52,
+				"rus": 37,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11709013": {
+				"blk": 5,
+				"name": "Kael Desini",
+				"prespp": 23,
+				"tur": 16,
+				"type": "R"
+			},
+			"11709016": {
+				"blk": 1,
+				"name": "Strean Buren",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11709018": {
+				"blk": 3,
+				"name": "Font Eiridan",
+				"prespp": 40,
+				"tur": 8,
+				"type": "R"
+			},
+			"11747061": {
+				"blk": 11,
+				"cas": 1,
+				"name": "Gutterfingers",
+				"prespp": 17,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11791157": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Calas Typhon",
+				"prespp": 14,
+				"spp": 5,
+				"tur": 16,
+				"type": "I"
+			},
+			"11814852": {
+				"blk": 16,
+				"cas": 3,
+				"name": "Pantheon Bane",
+				"prespp": 37,
+				"spp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11940785": {
+				"name": "Varesh Kaurambi",
+				"type": "I"
+			},
+			"11956674": {
+				"blk": 4,
+				"name": "Abd Allah Bousaid",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12051832": {
+				"blk": 4,
+				"name": "Amon",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1030760",
 	"team_performance": {
 		"856697": {
 			"cas": 1,
 			"casdiff": -3,
+			"name": "Crimson Skull",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"871787": {
 			"cas": 4,
 			"casdiff": 3,
+			"name": "Malignant Curators",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

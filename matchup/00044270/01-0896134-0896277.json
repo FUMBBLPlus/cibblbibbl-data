@@ -1,19 +1,206 @@
 {
 	"!excluded": "no",
+	"matchId": "3957258",
+	"player_performance": {
+		"896134": {
+			"12101570": {
+				"blk": 11,
+				"cas": 1,
+				"fou": 2,
+				"name": "Rotten Roller",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12101571": {
+				"blk": 3,
+				"name": "Krakshot Neek",
+				"rus": 17,
+				"spp": 6,
+				"tds": 2,
+				"tur": 15,
+				"type": "R"
+			},
+			"12101572": {
+				"mvp": 1,
+				"name": "Shokk-naww",
+				"rus": 3,
+				"spp": 5,
+				"tur": 6,
+				"type": "R"
+			},
+			"12101577": {
+				"name": "Snub-tail",
+				"tur": 1,
+				"type": "R"
+			},
+			"12101578": {
+				"blk": 6,
+				"fou": 1,
+				"name": "Quee-kin",
+				"tur": 17,
+				"type": "R"
+			},
+			"12101579": {
+				"blk": 4,
+				"name": "Vyrmreek",
+				"tur": 17,
+				"type": "R"
+			},
+			"12101580": {
+				"name": "Virr-yekk",
+				"tur": 4,
+				"type": "R"
+			},
+			"12101581": {
+				"blk": 1,
+				"name": "Gimp-paw",
+				"tur": 17,
+				"type": "R"
+			},
+			"12101582": {
+				"blk": 1,
+				"name": "Snivel-likk",
+				"tur": 7,
+				"type": "R"
+			},
+			"12101583": {
+				"blk": 6,
+				"name": "Nakk-Nakk",
+				"rus": 8,
+				"tur": 13,
+				"type": "R"
+			},
+			"12101584": {
+				"blk": 2,
+				"name": "Kreeyik",
+				"tur": 17,
+				"type": "R"
+			},
+			"12101586": {
+				"blk": 2,
+				"died": [
+					2,
+					3,
+					"blocked",
+					"12103958"
+				],
+				"name": "Skrykk",
+				"tur": 9,
+				"type": "R"
+			},
+			"12101587": {
+				"blk": 5,
+				"fou": 1,
+				"name": "Reeknose",
+				"tur": 13,
+				"type": "R"
+			},
+			"12101597": {
+				"name": "Virulent Reever",
+				"tur": 9,
+				"type": "R"
+			}
+		},
+		"896277": {
+			"12103955": {
+				"blk": 4,
+				"name": "Khul",
+				"tur": 12,
+				"type": "R"
+			},
+			"12103956": {
+				"blk": 6,
+				"name": "Qu'arakk",
+				"tur": 17,
+				"type": "R"
+			},
+			"12103957": {
+				"blk": 5,
+				"name": "Skiril",
+				"tur": 10,
+				"type": "R"
+			},
+			"12103958": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Zuznifik",
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"12103985": {
+				"name": "Thraggskell",
+				"tur": 3,
+				"type": "R"
+			},
+			"12103986": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Bodgnikk",
+				"tur": 13,
+				"type": "R"
+			},
+			"12103987": {
+				"blk": 1,
+				"name": "Hebnak-sneekl",
+				"tur": 8,
+				"type": "R"
+			},
+			"12103988": {
+				"name": "Stuntlbosh",
+				"rus": 11,
+				"spp": 3,
+				"tds": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"12103989": {
+				"blk": 2,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Grotslag",
+				"spp": 7,
+				"tur": 9,
+				"type": "R"
+			},
+			"12103990": {
+				"blk": 1,
+				"name": "Runty",
+				"pas": 1,
+				"rus": 6,
+				"tur": 11,
+				"type": "R"
+			},
+			"12103991": {
+				"blk": 1,
+				"name": "Bodgehammer",
+				"tur": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1031271",
 	"team_performance": {
 		"896134": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Rotfall Ironworks Rocketeers",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"896277": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Thirteenth Circle Abominations",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

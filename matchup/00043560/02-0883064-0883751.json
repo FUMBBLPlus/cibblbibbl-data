@@ -1,19 +1,216 @@
 {
 	"!excluded": "no",
+	"matchId": "3927651",
+	"player_performance": {
+		"883064": {
+			"11892679": {
+				"blk": 3,
+				"name": "Igor",
+				"rus": 7,
+				"tur": 10,
+				"type": "R"
+			},
+			"11892680": {
+				"blk": 1,
+				"cps": 2,
+				"mvp": 1,
+				"name": "Ivan",
+				"pas": 5,
+				"rus": 5,
+				"spp": 7,
+				"tur": 13,
+				"type": "R"
+			},
+			"11892684": {
+				"blk": 1,
+				"name": "Valdimir",
+				"prespp": 4,
+				"tur": 4,
+				"type": "R"
+			},
+			"11892685": {
+				"name": "Ursula the Bear",
+				"type": "R"
+			},
+			"11892687": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Grigory",
+				"prespp": 5,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11892688": {
+				"blk": 3,
+				"name": "Dmitri",
+				"tur": 12,
+				"type": "R"
+			},
+			"11892689": {
+				"blk": 2,
+				"died": [
+					2,
+					2,
+					"fouled",
+					"11903233"
+				],
+				"name": "Yuriy",
+				"tur": 10,
+				"type": "R"
+			},
+			"11893901": {
+				"name": "Anton",
+				"tur": 2,
+				"type": "R"
+			},
+			"11893902": {
+				"name": "Maxim",
+				"prespp": 2,
+				"type": "R"
+			},
+			"11893904": {
+				"fou": 1,
+				"name": "Boris",
+				"tur": 2,
+				"type": "R"
+			},
+			"11919142": {
+				"name": "Jack Fastrock",
+				"tur": 2,
+				"type": "R"
+			},
+			"11919143": {
+				"blk": 2,
+				"name": "Duane Hideouswing",
+				"tur": 9,
+				"type": "R"
+			},
+			"11919144": {
+				"blk": 2,
+				"fou": 1,
+				"name": "David Grottyfire",
+				"tur": 9,
+				"type": "R"
+			}
+		},
+		"883751": {
+			"11903227": {
+				"blk": 2,
+				"fou": 2,
+				"name": "Death Mask",
+				"tur": 8,
+				"type": "R"
+			},
+			"11903233": {
+				"blk": 4,
+				"fou": 2,
+				"name": "Ramhotep",
+				"tur": 9,
+				"type": "R"
+			},
+			"11903246": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Colossus",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11903249": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Sentinel of the Sands",
+				"prespp": 5,
+				"rus": 29,
+				"spp": 11,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11903250": {
+				"name": "The All-Seeing Eye",
+				"prespp": 3,
+				"type": "R"
+			},
+			"11903253": {
+				"blk": 1,
+				"name": "Anubis the Embalmer",
+				"tur": 16,
+				"type": "R"
+			},
+			"11903254": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Hathor the Pallbearer",
+				"tur": 16,
+				"type": "R"
+			},
+			"11903258": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Seshat the Scribe",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11903260": {
+				"blk": 4,
+				"name": "Nightwalker",
+				"tur": 16,
+				"type": "R"
+			},
+			"11903261": {
+				"blk": 2,
+				"name": "The Grand Vizier",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11903266": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Stargazer",
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"11903267": {
+				"fou": 1,
+				"name": "Tomb Raider",
+				"prespp": 5,
+				"tur": 8,
+				"type": "R"
+			},
+			"11903280": {
+				"blk": 2,
+				"name": "Baba the Builder",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "997079",
 	"team_performance": {
 		"883064": {
 			"cas": 1,
 			"casdiff": -5,
+			"name": "Kislev's Gryphon Legion",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"883751": {
 			"cas": 6,
 			"casdiff": 5,
+			"name": "Slaves of the Serpent Queen",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

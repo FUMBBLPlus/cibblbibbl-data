@@ -1,19 +1,267 @@
 {
 	"!excluded": "no",
+	"matchId": "3970086",
+	"player_performance": {
+		"867862": {
+			"11646894": {
+				"blk": 11,
+				"cas": 2,
+				"name": "Serrek of Nathrezzar",
+				"prespp": 52,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11646901": {
+				"blk": 7,
+				"name": "Muk",
+				"prespp": 48,
+				"tur": 16,
+				"type": "R"
+			},
+			"11646902": {
+				"blk": 3,
+				"fou": 3,
+				"name": "Ner",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11646912": {
+				"blk": 4,
+				"name": "Che",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11722423": {
+				"blk": 9,
+				"name": "Vur",
+				"prespp": 32,
+				"tur": 16,
+				"type": "R"
+			},
+			"11763541": {
+				"blk": 1,
+				"died": [
+					2,
+					4,
+					"blocked",
+					"11869690"
+				],
+				"fou": 1,
+				"name": "Vute",
+				"prespp": 10,
+				"tur": 11,
+				"type": "R"
+			},
+			"11782667": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Vir",
+				"prespp": 4,
+				"spp": 5,
+				"tur": 12,
+				"type": "R"
+			},
+			"11791082": {
+				"blk": 5,
+				"name": "Sethar",
+				"prespp": 57,
+				"rus": 8,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11917261": {
+				"cps": 1,
+				"name": "Irtriss",
+				"pas": 3,
+				"prespp": 16,
+				"rus": 25,
+				"spp": 4,
+				"tds": 1,
+				"tur": 7,
+				"type": "R"
+			},
+			"11946085": {
+				"blk": 11,
+				"cas": 1,
+				"name": "Tarotep of Horin 'Reth",
+				"prespp": 31,
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"12051541": {
+				"name": "Drewaq Evilgrin",
+				"type": "R"
+			},
+			"12065262": {
+				"name": "Zird",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12065369": {
+				"blk": 2,
+				"name": "Chyh 'Tan",
+				"prespp": 9,
+				"tur": 12,
+				"type": "R"
+			},
+			"12122939": {
+				"blk": 7,
+				"name": "Treth' Kon Sharkface",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"874452": {
+			"11756582": {
+				"blk": 9,
+				"name": "Draco Dracovich",
+				"prespp": 98,
+				"tur": 16,
+				"type": "R"
+			},
+			"11756629": {
+				"blk": 4,
+				"cps": 1,
+				"name": "Igor Igorivich",
+				"pas": 1,
+				"prespp": 78,
+				"rus": 21,
+				"spp": 4,
+				"tds": 1,
+				"tur": 17,
+				"type": "R"
+			},
+			"11756687": {
+				"blk": 1,
+				"name": "Karl",
+				"prespp": 4,
+				"tur": 6,
+				"type": "R"
+			},
+			"11756689": {
+				"name": "Franz",
+				"prespp": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"11756720": {
+				"blk": 6,
+				"cas": 1,
+				"died": [
+					2,
+					5,
+					"blocked",
+					"11946085"
+				],
+				"name": "Gustav von Darkwald",
+				"prespp": 40,
+				"spp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"11869690": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Vlad Vladovich",
+				"prespp": 49,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11926830": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Reinhart von Teufeldorf",
+				"prespp": 35,
+				"spp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11978034": {
+				"name": "Fritz",
+				"tur": 12,
+				"type": "R"
+			},
+			"11980258": {
+				"mvp": 1,
+				"name": "Tabbart",
+				"prespp": 3,
+				"spp": 5,
+				"tur": 4,
+				"type": "R"
+			},
+			"11981974": {
+				"name": "Arnold",
+				"prespp": 3,
+				"tur": 10,
+				"type": "R"
+			},
+			"12066347": {
+				"blk": 2,
+				"name": "Gregoiriana Gregorivich",
+				"prespp": 12,
+				"rus": 11,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12150966": {
+				"blk": 1,
+				"name": "Sigfrid",
+				"tur": 12,
+				"type": "R"
+			},
+			"12150969": {
+				"blk": 1,
+				"name": "Brunhilde",
+				"tur": 14,
+				"type": "R"
+			},
+			"12167783": {
+				"name": "Jurgen",
+				"type": "R"
+			},
+			"12178898": {
+				"name": "Conrad",
+				"tur": 1,
+				"type": "R"
+			},
+			"874452S1": {
+				"blk": 1,
+				"name": "Quasimordor",
+				"tur": 4,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1045982",
 	"team_performance": {
 		"867862": {
 			"cas": 4,
 			"casdiff": 1,
+			"name": "Everlasting Vultures of Settra",
 			"rsym": "D",
 			"score": 2,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 2,
+			"tdsdiff": 0
 		},
 		"874452": {
 			"cas": 3,
 			"casdiff": -1,
+			"name": "Way of the Dragon",
 			"rsym": "D",
 			"score": 2,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 2,
+			"tdsdiff": 0
 		}
 	}
 }

@@ -1,19 +1,219 @@
 {
 	"!excluded": "no",
+	"matchId": "3988754",
+	"player_performance": {
+		"885728": {
+			"11933450": {
+				"blk": 15,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Yarrah the Gray",
+				"prespp": 33,
+				"spp": 7,
+				"tur": 16,
+				"type": "B"
+			},
+			"11933452": {
+				"blk": 3,
+				"name": "Naure Roo",
+				"prespp": 33,
+				"rus": 27,
+				"spp": 3,
+				"tds": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"11933454": {
+				"blk": 9,
+				"name": "Rippa Roo",
+				"prespp": 38,
+				"tur": 14,
+				"type": "R"
+			},
+			"11933455": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Pash a Roo",
+				"prespp": 36,
+				"spp": 2,
+				"tur": 14,
+				"type": "R"
+			},
+			"11939409": {
+				"blk": 4,
+				"name": "Flower",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"12196374": {
+				"blk": 1,
+				"name": "Darlee Roo",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12196375": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Cuetee",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12221424": {
+				"blk": 1,
+				"name": "Felicity",
+				"tur": 14,
+				"type": "R"
+			},
+			"12271789": {
+				"blk": 3,
+				"name": "Julius Coldsnake",
+				"tur": 16,
+				"type": "R"
+			},
+			"12271790": {
+				"name": "Julius Clearwing",
+				"tur": 4,
+				"type": "R"
+			},
+			"12271791": {
+				"blk": 4,
+				"name": "Xavier Hideouseagle",
+				"tur": 15,
+				"type": "R"
+			},
+			"885728S1": {
+				"name": "Bomber Dribblesnot",
+				"tur": 16,
+				"type": "S"
+			}
+		},
+		"898507": {
+			"12140161": {
+				"blk": 5,
+				"name": "Terror of Wurtbad",
+				"prespp": 25,
+				"tur": 16,
+				"type": "R"
+			},
+			"12140162": {
+				"blk": 4,
+				"name": "Hanskarl Denk",
+				"prespp": 10,
+				"rus": 4,
+				"tur": 9,
+				"type": "R"
+			},
+			"12140169": {
+				"blk": 8,
+				"name": "Frederick van Hal",
+				"prespp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"12140173": {
+				"blk": 8,
+				"mvp": 1,
+				"name": "Artem",
+				"prespp": 6,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"12140175": {
+				"blk": 8,
+				"name": "Vigo",
+				"prespp": 19,
+				"tur": 14,
+				"type": "R"
+			},
+			"12140180": {
+				"blk": 1,
+				"name": "Count Petr von Stolpe",
+				"prespp": 21,
+				"rus": 16,
+				"spp": 3,
+				"tds": 1,
+				"tur": 11,
+				"type": "R"
+			},
+			"12140181": {
+				"blk": 2,
+				"name": "Carcass",
+				"prespp": 7,
+				"tur": 9,
+				"type": "R"
+			},
+			"12140182": {
+				"name": "Bloat",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12140184": {
+				"name": "Rot",
+				"tur": 1,
+				"type": "R"
+			},
+			"12149573": {
+				"blk": 5,
+				"name": "Beast of Black-Run",
+				"prespp": 16,
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12227552": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Baronetess Odile von Stolpe",
+				"tur": 16,
+				"type": "R"
+			},
+			"12231366": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Putrid",
+				"tur": 9,
+				"type": "R"
+			},
+			"12231367": {
+				"blk": 6,
+				"name": "Floater",
+				"tur": 8,
+				"type": "R"
+			},
+			"12254199": {
+				"name": "Maggot",
+				"tur": 5,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1067570",
 	"team_performance": {
 		"885728": {
 			"cas": 3,
 			"casdiff": 3,
+			"name": "Bear Clutchers",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		},
 		"898507": {
 			"cas": 0,
 			"casdiff": -3,
+			"name": "Leicheberg Lycans",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		}
 	}
 }

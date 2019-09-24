@@ -1,19 +1,177 @@
 {
 	"!excluded": "no",
+	"matchId": "3963528",
+	"player_performance": {
+		"898506": {
+			"12139026": {
+				"blk": 1,
+				"name": "Anubisath",
+				"tur": 1,
+				"type": "R"
+			},
+			"12139027": {
+				"blk": 15,
+				"name": "Shekrem",
+				"tur": 16,
+				"type": "R"
+			},
+			"12139031": {
+				"blk": 6,
+				"mvp": 1,
+				"name": "Othmar Lightbane",
+				"spp": 5,
+				"tur": 12,
+				"type": "R"
+			},
+			"12139032": {
+				"blk": 8,
+				"name": "Taavi Fleshgorger",
+				"tur": 16,
+				"type": "R"
+			},
+			"12139033": {
+				"blk": 7,
+				"name": "Brenno the Stalker",
+				"tur": 12,
+				"type": "R"
+			},
+			"12139034": {
+				"blk": 5,
+				"name": "Holge the Forsworn",
+				"tur": 10,
+				"type": "R"
+			},
+			"12139035": {
+				"blk": 7,
+				"name": "Uther the Exiled",
+				"rus": 16,
+				"tur": 16,
+				"type": "R"
+			},
+			"12139038": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Kornel Crompton",
+				"tur": 5,
+				"type": "R"
+			},
+			"12139039": {
+				"blk": 6,
+				"name": "Osborn Rudges",
+				"tur": 15,
+				"type": "R"
+			},
+			"12139040": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Lucien Preston",
+				"tur": 9,
+				"type": "R"
+			},
+			"12139041": {
+				"blk": 1,
+				"name": "Mertin Middlestone",
+				"tur": 5,
+				"type": "R"
+			}
+		},
+		"898507": {
+			"12140161": {
+				"blk": 6,
+				"name": "Terror of Wurtbad",
+				"tur": 16,
+				"type": "R"
+			},
+			"12140162": {
+				"blk": 4,
+				"name": "Hanskarl Denk",
+				"tur": 16,
+				"type": "R"
+			},
+			"12140169": {
+				"blk": 7,
+				"name": "Frederick van Hal",
+				"tur": 16,
+				"type": "R"
+			},
+			"12140173": {
+				"blk": 4,
+				"name": "Artem",
+				"tur": 16,
+				"type": "R"
+			},
+			"12140175": {
+				"blk": 4,
+				"name": "Vigo",
+				"tur": 16,
+				"type": "R"
+			},
+			"12140180": {
+				"blk": 1,
+				"name": "Count Petr von Stolpe",
+				"rus": 24,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12140181": {
+				"blk": 2,
+				"cas": 1,
+				"fou": 1,
+				"mvp": 1,
+				"name": "Carcass",
+				"spp": 7,
+				"tur": 12,
+				"type": "R"
+			},
+			"12140182": {
+				"fou": 1,
+				"name": "Bloat",
+				"tur": 16,
+				"type": "R"
+			},
+			"12140183": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Corpse",
+				"tur": 16,
+				"type": "R"
+			},
+			"12140184": {
+				"name": "Rot",
+				"tur": 16,
+				"type": "R"
+			},
+			"12140185": {
+				"blk": 1,
+				"name": "Decay",
+				"tur": 13,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1038472",
 	"team_performance": {
 		"898506": {
 			"cas": 0,
 			"casdiff": -1,
+			"name": "Shambling Revenants",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"898507": {
 			"cas": 1,
 			"casdiff": 1,
+			"name": "Leicheberg Lycans",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

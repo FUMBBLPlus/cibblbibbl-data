@@ -1,19 +1,227 @@
 {
 	"!excluded": "no",
+	"matchId": "3927545",
+	"player_performance": {
+		"873369": {
+			"11737364": {
+				"name": "Hybree",
+				"type": "R"
+			},
+			"11737365": {
+				"blk": 1,
+				"name": "Trikhuf",
+				"prespp": 16,
+				"tur": 5,
+				"type": "R"
+			},
+			"11737376": {
+				"name": "Weyrot",
+				"prespp": 6,
+				"tur": 3,
+				"type": "R"
+			},
+			"11737432": {
+				"blk": 4,
+				"name": "Fulmayne Thrice-Crowned",
+				"prespp": 35,
+				"tur": 9,
+				"type": "R"
+			},
+			"11737433": {
+				"blk": 2,
+				"name": "Breyyar Scoredrinker",
+				"prespp": 16,
+				"rus": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"11737434": {
+				"mvp": 1,
+				"name": "Stoneflagon Rhuheigh",
+				"prespp": 25,
+				"spp": 5,
+				"tur": 2,
+				"type": "R"
+			},
+			"11737443": {
+				"blk": 4,
+				"name": "Yronleg the Barrelbeast",
+				"prespp": 24,
+				"tur": 14,
+				"type": "R"
+			},
+			"11765170": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Brewmaster Huhroarr",
+				"prespp": 21,
+				"spp": 2,
+				"tur": 11,
+				"type": "R"
+			},
+			"11859881": {
+				"fou": 1,
+				"name": "Heighar",
+				"tur": 4,
+				"type": "R"
+			},
+			"11859894": {
+				"name": "Wytehide",
+				"prespp": 5,
+				"rus": 2,
+				"tur": 8,
+				"type": "R"
+			},
+			"11902855": {
+				"name": "R'hoghn Hollowhorn",
+				"prespp": 5,
+				"tur": 14,
+				"type": "R"
+			},
+			"11935713": {
+				"blk": 1,
+				"died": [
+					2,
+					7,
+					"blocked",
+					"11758678"
+				],
+				"name": "Raahmyut",
+				"tur": 15,
+				"type": "R"
+			},
+			"11935714": {
+				"name": "Breighrin",
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"874560": {
+			"11758676": {
+				"blk": 10,
+				"cas": 1,
+				"name": "The Fast But Bashy Wun",
+				"prespp": 16,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758678": {
+				"blk": 14,
+				"cas": 3,
+				"mvp": 1,
+				"name": "The Bashy But Fast Wun",
+				"prespp": 14,
+				"spp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758679": {
+				"blk": 3,
+				"cas": 2,
+				"name": "Glog the Mighty",
+				"prespp": 13,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758681": {
+				"blk": 1,
+				"name": "Kruk the Sensitive",
+				"prespp": 14,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758683": {
+				"blk": 3,
+				"name": "Flurg",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"11758687": {
+				"name": "Fleabag",
+				"prespp": 2,
+				"type": "R"
+			},
+			"11758690": {
+				"name": "Twitch",
+				"prespp": 3,
+				"rus": 4,
+				"tur": 8,
+				"type": "R"
+			},
+			"11758691": {
+				"name": "Flinch",
+				"prespp": 6,
+				"rus": 2,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"11758693": {
+				"name": "Smee",
+				"prespp": 3,
+				"tur": 8,
+				"type": "R"
+			},
+			"11769205": {
+				"name": "Tickle",
+				"prespp": 7,
+				"rus": 11,
+				"tur": 13,
+				"type": "R"
+			},
+			"11769206": {
+				"fou": 1,
+				"name": "Squeal",
+				"prespp": 2,
+				"tur": 1,
+				"type": "R"
+			},
+			"11769207": {
+				"fou": 1,
+				"name": "Lunchbox",
+				"tur": 8,
+				"type": "R"
+			},
+			"11924507": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Krump the Majestic",
+				"tur": 16,
+				"type": "R"
+			},
+			"874560S1": {
+				"fou": 5,
+				"name": "Nobbla Blackwart",
+				"tur": 10,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "996965",
 	"team_performance": {
 		"873369": {
 			"cas": 1,
 			"casdiff": -9,
+			"name": "Schattenwald Drinking Horns",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"874560": {
 			"cas": 10,
 			"casdiff": 9,
+			"name": "Poshgit's Daredevils",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

@@ -1,19 +1,216 @@
 {
 	"!excluded": "no",
+	"matchId": "3897653",
+	"player_performance": {
+		"862033": {
+			"11558593": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Kharn",
+				"tur": 8,
+				"type": "R"
+			},
+			"11558599": {
+				"blk": 4,
+				"name": "Delvarus",
+				"prespp": 2,
+				"tur": 17,
+				"type": "R"
+			},
+			"11558605": {
+				"name": "Porphyricus",
+				"prespp": 18,
+				"tur": 1,
+				"type": "R"
+			},
+			"11558607": {
+				"blk": 9,
+				"name": "Calas Typhon",
+				"prespp": 10,
+				"tur": 17,
+				"type": "R"
+			},
+			"11558611": {
+				"blk": 3,
+				"name": "Hadrabulus Vioss",
+				"tur": 17,
+				"type": "R"
+			},
+			"11558613": {
+				"blk": 1,
+				"name": "Marius Vairosean",
+				"tur": 9,
+				"type": "R"
+			},
+			"11558616": {
+				"name": "Phosis T'Kar",
+				"prespp": 17,
+				"rus": 28,
+				"spp": 3,
+				"tds": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"11558617": {
+				"blk": 2,
+				"name": "Skane",
+				"prespp": 6,
+				"tur": 3,
+				"type": "R"
+			},
+			"11567423": {
+				"blk": 6,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Kargos",
+				"prespp": 10,
+				"spp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"11681780": {
+				"blk": 4,
+				"name": "Hathor Maat",
+				"prespp": 8,
+				"tur": 14,
+				"type": "R"
+			},
+			"11681785": {
+				"blk": 3,
+				"fou": 2,
+				"name": "Lucius",
+				"prespp": 6,
+				"tur": 17,
+				"type": "R"
+			},
+			"11699119": {
+				"name": "Julius Kaesoron",
+				"type": "R"
+			},
+			"11699147": {
+				"blk": 4,
+				"name": "Khalophis",
+				"tur": 13,
+				"type": "R"
+			},
+			"11721803": {
+				"blk": 3,
+				"fou": 2,
+				"name": "Ignatius Grulgor II",
+				"tur": 15,
+				"type": "R"
+			}
+		},
+		"873698": {
+			"11743257": {
+				"blk": 6,
+				"name": "MIsstress of Pain",
+				"tur": 16,
+				"type": "R"
+			},
+			"11743258": {
+				"blk": 8,
+				"name": "MIstress of Lust",
+				"tur": 16,
+				"type": "R"
+			},
+			"11743259": {
+				"blk": 4,
+				"name": "MIsstress of Pleasure",
+				"tur": 9,
+				"type": "R"
+			},
+			"11743260": {
+				"blk": 2,
+				"mvp": 1,
+				"name": "Kazgar Threelegs",
+				"rus": 4,
+				"spp": 8,
+				"tds": 1,
+				"tur": 12,
+				"type": "R"
+			},
+			"11743261": {
+				"blk": 3,
+				"name": "Honkos Hornie",
+				"tur": 13,
+				"type": "R"
+			},
+			"11743262": {
+				"name": "Ginil Lustbringer",
+				"rus": 4,
+				"tur": 4,
+				"type": "R"
+			},
+			"11743263": {
+				"blk": 4,
+				"name": "Lecec Chickstalker",
+				"pas": 1,
+				"rus": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"11743264": {
+				"blk": 3,
+				"name": "Lecathoth Strapslave",
+				"tur": 12,
+				"type": "R"
+			},
+			"11743265": {
+				"died": [
+					1,
+					4,
+					"blocked",
+					"11567423"
+				],
+				"name": "Sighoci Chainbinded",
+				"rus": 14,
+				"tur": 4,
+				"type": "R"
+			},
+			"11743266": {
+				"blk": 2,
+				"name": "Thirvelnosh Nightbinder",
+				"tur": 16,
+				"type": "R"
+			},
+			"11743268": {
+				"blk": 2,
+				"name": "Thovho Shadowseeker",
+				"tur": 11,
+				"type": "R"
+			},
+			"873698S1": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Lord Borak the Despoiler",
+				"spp": 2,
+				"tur": 8,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "962425",
 	"team_performance": {
 		"862033": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Forsaken of the Pantheon",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		},
 		"873698": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Pleasure Strings",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		}
 	}
 }

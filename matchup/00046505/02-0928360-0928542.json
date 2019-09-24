@@ -1,19 +1,187 @@
 {
 	"!excluded": "no",
+	"matchId": "4049265",
+	"player_performance": {
+		"928360": {
+			"12607999": {
+				"blk": 12,
+				"name": "Grendel",
+				"tur": 16,
+				"type": "B"
+			},
+			"12608002": {
+				"blk": 5,
+				"name": "Baldur",
+				"tur": 16,
+				"type": "R"
+			},
+			"12608004": {
+				"blk": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Surtr",
+				"spp": 7,
+				"tur": 9,
+				"type": "R"
+			},
+			"12608009": {
+				"blk": 1,
+				"name": "Hati",
+				"pas": 1,
+				"rus": 15,
+				"tur": 10,
+				"type": "R"
+			},
+			"12608011": {
+				"blk": 5,
+				"name": "Heidrek",
+				"tur": 16,
+				"type": "R"
+			},
+			"12608018": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Skoll",
+				"tur": 7,
+				"type": "R"
+			},
+			"12608023": {
+				"blk": 5,
+				"name": "Vali",
+				"rus": 8,
+				"spp": 3,
+				"tds": 1,
+				"tur": 13,
+				"type": "R"
+			},
+			"12608031": {
+				"blk": 3,
+				"name": "Narfi",
+				"tur": 16,
+				"type": "R"
+			},
+			"12608034": {
+				"blk": 6,
+				"name": "Mokkurkalfi",
+				"rus": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12608036": {
+				"blk": 6,
+				"name": "Halogi",
+				"tur": 10,
+				"type": "R"
+			},
+			"12608039": {
+				"blk": 6,
+				"name": "Baugi",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"928542": {
+			"12611404": {
+				"name": "Antonius Rex",
+				"type": "R"
+			},
+			"12611405": {
+				"blk": 6,
+				"name": "Estebadon",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12611406": {
+				"blk": 9,
+				"name": "Fernandocus",
+				"tur": 14,
+				"type": "R"
+			},
+			"12611410": {
+				"blk": 9,
+				"mvp": 1,
+				"name": "Renatops",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12611426": {
+				"name": "Cordofana",
+				"prespp": 3,
+				"rus": 16,
+				"tur": 16,
+				"type": "R"
+			},
+			"12611427": {
+				"blk": 1,
+				"name": "Humeralis",
+				"tur": 16,
+				"type": "R"
+			},
+			"12611429": {
+				"blk": 1,
+				"name": "Ormativentris",
+				"tur": 16,
+				"type": "R"
+			},
+			"12611430": {
+				"name": "Palestris",
+				"type": "R"
+			},
+			"12611431": {
+				"blk": 2,
+				"name": "Nigrotympanica",
+				"tur": 9,
+				"type": "R"
+			},
+			"12611433": {
+				"fou": 1,
+				"name": "Okinavana",
+				"tur": 6,
+				"type": "R"
+			},
+			"12611434": {
+				"blk": 1,
+				"name": "Cascadae",
+				"tur": 16,
+				"type": "R"
+			},
+			"12613247": {
+				"fou": 1,
+				"name": "Robert Whitestream",
+				"type": "R"
+			},
+			"12613248": {
+				"blk": 3,
+				"name": "Tristan Coldspike",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1138230",
 	"team_performance": {
 		"928360": {
 			"cas": 1,
 			"casdiff": 1,
+			"name": "Gorequeen's Raiders",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"928542": {
 			"cas": 0,
 			"casdiff": -1,
+			"name": "Krok-Ante Ancestors",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

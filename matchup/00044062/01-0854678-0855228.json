@@ -1,19 +1,221 @@
 {
 	"!excluded": "no",
+	"matchId": "3948095",
+	"player_performance": {
+		"854678": {
+			"11439618": {
+				"blk": 3,
+				"name": "Nightmaster Gnawnagar",
+				"prespp": 27,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439624": {
+				"blk": 6,
+				"cas": 1,
+				"fou": 3,
+				"name": "Grisnik the Blacktail",
+				"prespp": 19,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439628": {
+				"blk": 13,
+				"name": "Sneekis the Dragon",
+				"prespp": 42,
+				"tur": 16,
+				"type": "R"
+			},
+			"11482377": {
+				"blk": 6,
+				"name": "Grisnagar the Brave",
+				"prespp": 19,
+				"tur": 16,
+				"type": "R"
+			},
+			"11696956": {
+				"name": "Nightmaster Skirshakk",
+				"pas": 1,
+				"prespp": 53,
+				"rus": 13,
+				"tur": 8,
+				"type": "R"
+			},
+			"11696958": {
+				"name": "Thanaz the Darkflame",
+				"tur": 10,
+				"type": "R"
+			},
+			"11850585": {
+				"blk": 4,
+				"name": "Nightlord Azhiskikk",
+				"prespp": 19,
+				"tur": 16,
+				"type": "R"
+			},
+			"11934134": {
+				"cps": 1,
+				"name": "Nightmaster Vasquee",
+				"prespp": 7,
+				"rus": 24,
+				"spp": 4,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11948519": {
+				"blk": 2,
+				"name": "Thanflem the Splinter",
+				"tur": 7,
+				"type": "R"
+			},
+			"11951210": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Nightlord Nurgrin",
+				"prespp": 10,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11951211": {
+				"died": [
+					1,
+					1,
+					"blocked",
+					"11869550"
+				],
+				"name": "Willskittar the Palesnake",
+				"prespp": 2,
+				"type": "R"
+			},
+			"11975516": {
+				"blk": 1,
+				"name": "Nightmaster Burhakk",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"855228": {
+			"11448229": {
+				"blk": 3,
+				"name": "Jessie Graff",
+				"prespp": 68,
+				"tur": 15,
+				"type": "R"
+			},
+			"11448253": {
+				"blk": 1,
+				"fou": 2,
+				"name": "Kacy Cataranzo",
+				"prespp": 12,
+				"tur": 10,
+				"type": "R"
+			},
+			"11494706": {
+				"blk": 5,
+				"died": [
+					1,
+					7,
+					"crowdPushed",
+					null
+				],
+				"name": "Jack Caldiero",
+				"prespp": 40,
+				"tur": 7,
+				"type": "R"
+			},
+			"11801400": {
+				"blk": 6,
+				"mvp": 1,
+				"name": "Lei Zhang",
+				"prespp": 10,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11869550": {
+				"blk": 3,
+				"cas": 1,
+				"died": [
+					2,
+					2,
+					"dodgeFail",
+					null
+				],
+				"name": "Daniel Gil",
+				"prespp": 31,
+				"spp": 2,
+				"tur": 5,
+				"type": "R"
+			},
+			"11886203": {
+				"blk": 5,
+				"name": "Josh Levin",
+				"prespp": 19,
+				"tur": 12,
+				"type": "R"
+			},
+			"12015155": {
+				"blk": 7,
+				"name": "Asher Manbeck",
+				"prespp": 13,
+				"tur": 16,
+				"type": "R"
+			},
+			"12037464": {
+				"blk": 2,
+				"name": "Anika Spike",
+				"prespp": 3,
+				"rus": 16,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"12037524": {
+				"fou": 1,
+				"name": "Billy Clumsylightning",
+				"tur": 4,
+				"type": "R"
+			},
+			"12037525": {
+				"blk": 1,
+				"name": "William Coldspike",
+				"tur": 15,
+				"type": "R"
+			},
+			"12037526": {
+				"name": "Vincent Darkhammer",
+				"tur": 8,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1020951",
 	"team_performance": {
 		"854678": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Lords of the Silent Death",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"855228": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Ninja Warriors",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

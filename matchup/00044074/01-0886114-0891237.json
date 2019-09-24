@@ -1,19 +1,212 @@
 {
 	"!excluded": "no",
+	"matchId": "3946742",
+	"player_performance": {
+		"886114": {
+			"11939696": {
+				"blk": 15,
+				"name": "Erato",
+				"pas": 1,
+				"prespp": 16,
+				"rus": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"11939705": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Lydia",
+				"prespp": 13,
+				"rus": 5,
+				"spp": 5,
+				"tds": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"11939711": {
+				"blk": 3,
+				"name": "Ariel",
+				"tur": 16,
+				"type": "R"
+			},
+			"11939712": {
+				"cas": 1,
+				"name": "Arya",
+				"prespp": 12,
+				"rus": 12,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11939715": {
+				"blk": 3,
+				"name": "Aadhýa",
+				"tur": 14,
+				"type": "R"
+			},
+			"11939716": {
+				"name": "Coleshá",
+				"type": "R"
+			},
+			"11939717": {
+				"blk": 5,
+				"cas": 1,
+				"name": "Delilah",
+				"prespp": 18,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11939720": {
+				"blk": 7,
+				"name": "Elidhith",
+				"prespp": 6,
+				"tur": 15,
+				"type": "R"
+			},
+			"11956884": {
+				"blk": 1,
+				"name": "Elpida",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"12030024": {
+				"blk": 5,
+				"mvp": 1,
+				"name": "Shinesa",
+				"prespp": 6,
+				"rus": 32,
+				"spp": 11,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12031757": {
+				"name": "David Clearbone",
+				"tur": 16,
+				"type": "R"
+			},
+			"12031758": {
+				"blk": 1,
+				"name": "Trey Silentstone",
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"891237": {
+			"12022003": {
+				"name": "Barrow Gorthadon",
+				"prespp": 6,
+				"type": "R"
+			},
+			"12022005": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Swan Alphon",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 13,
+				"type": "R"
+			},
+			"12022006": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Heni Hethurin",
+				"prespp": 8,
+				"spp": 5,
+				"tur": 15,
+				"type": "R"
+			},
+			"12022007": {
+				"blk": 2,
+				"name": "Yoke Ianuon",
+				"tur": 16,
+				"type": "R"
+			},
+			"12022008": {
+				"blk": 6,
+				"name": "Tety Goweston",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12022009": {
+				"blk": 3,
+				"name": "Kanut Nardhon",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12022010": {
+				"blk": 1,
+				"name": "Dew Midhon",
+				"prespp": 1,
+				"tur": 6,
+				"type": "R"
+			},
+			"12022012": {
+				"blk": 4,
+				"name": "Pirin Alfirinor",
+				"rus": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12022014": {
+				"blk": 1,
+				"name": "Meretment Estoladon",
+				"tur": 6,
+				"type": "R"
+			},
+			"12022015": {
+				"died": [
+					1,
+					2,
+					"blocked",
+					"11939705"
+				],
+				"name": "Porren Cennan",
+				"prespp": 2,
+				"tur": 1,
+				"type": "R"
+			},
+			"12022022": {
+				"blk": 3,
+				"name": "Mirilan Antegobon",
+				"prespp": 6,
+				"tur": 15,
+				"type": "R"
+			},
+			"12051057": {
+				"blk": 1,
+				"name": "David Quickbone",
+				"tur": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1019355",
 	"team_performance": {
 		"886114": {
 			"cas": 3,
 			"casdiff": 2,
+			"name": "Eye and Arrow",
 			"rsym": "W",
 			"score": 4,
-			"scorediff": 4
+			"scorediff": 4,
+			"tds": 4,
+			"tdsdiff": 4
 		},
 		"891237": {
 			"cas": 1,
 			"casdiff": -2,
+			"name": "Dukes of Earthquake Valley",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -4
+			"scorediff": -4,
+			"tds": 0,
+			"tdsdiff": -4
 		}
 	}
 }

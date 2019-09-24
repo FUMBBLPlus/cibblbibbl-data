@@ -1,19 +1,232 @@
 {
 	"!excluded": "no",
+	"matchId": "4045987",
+	"player_performance": {
+		"905924": {
+			"12254401": {
+				"blk": 3,
+				"name": "Reddup",
+				"prespp": 16,
+				"tur": 8,
+				"type": "R"
+			},
+			"12254402": {
+				"blk": 3,
+				"name": "Spook",
+				"prespp": 21,
+				"tur": 16,
+				"type": "B"
+			},
+			"12254405": {
+				"blk": 4,
+				"name": "Bone",
+				"pas": 1,
+				"prespp": 35,
+				"rus": 13,
+				"spp": 3,
+				"tds": 1,
+				"tur": 15,
+				"type": "R"
+			},
+			"12254424": {
+				"name": "Ashur The Vile",
+				"prespp": 3,
+				"tur": 11,
+				"type": "R"
+			},
+			"12254440": {
+				"blk": 1,
+				"name": "O-Dog The Trogslayer",
+				"prespp": 8,
+				"tur": 2,
+				"type": "R"
+			},
+			"12254445": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Scumm The Rebel",
+				"prespp": 1,
+				"spp": 2,
+				"tur": 3,
+				"type": "R"
+			},
+			"12263755": {
+				"blk": 1,
+				"name": "Gizmo The Gambler",
+				"prespp": 9,
+				"tur": 10,
+				"type": "R"
+			},
+			"12263756": {
+				"name": "Killian Glowingwater",
+				"tur": 5,
+				"type": "R"
+			},
+			"12268727": {
+				"blk": 10,
+				"cas": 2,
+				"name": "Redbone",
+				"prespp": 52,
+				"rus": 11,
+				"spp": 7,
+				"tds": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"12528884": {
+				"blk": 2,
+				"cas": 1,
+				"name": "Angron",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"12547748": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Wrex",
+				"prespp": 7,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12561127": {
+				"name": "Dreakzaz Boogherz",
+				"tur": 8,
+				"type": "R"
+			},
+			"12595120": {
+				"name": "Grub The Inedible",
+				"tur": 6,
+				"type": "R"
+			}
+		},
+		"926596": {
+			"12578807": {
+				"blk": 10,
+				"name": "Krilk The Black",
+				"prespp": 7,
+				"tur": 15,
+				"type": "R"
+			},
+			"12578808": {
+				"blk": 4,
+				"name": "Crashrin Shadowblade",
+				"prespp": 2,
+				"tur": 12,
+				"type": "R"
+			},
+			"12578810": {
+				"blk": 4,
+				"name": "Crilk One Oye",
+				"prespp": 6,
+				"tur": 16,
+				"type": "R"
+			},
+			"12578811": {
+				"name": "Skruolk",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12578812": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Vinkrolk",
+				"prespp": 8,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12578813": {
+				"mvp": 1,
+				"name": "Gnam",
+				"spp": 5,
+				"type": "R"
+			},
+			"12578814": {
+				"died": [
+					1,
+					7,
+					"blocked",
+					"12268727"
+				],
+				"fou": 1,
+				"name": "Krenksuc",
+				"tur": 6,
+				"type": "R"
+			},
+			"12578815": {
+				"name": "Ghogdri",
+				"type": "R"
+			},
+			"12578816": {
+				"name": "Tinksaz",
+				"tur": 7,
+				"type": "R"
+			},
+			"12587461": {
+				"name": "Jeegink",
+				"tur": 5,
+				"type": "R"
+			},
+			"12589646": {
+				"blk": 4,
+				"name": "Vekuzz",
+				"tur": 16,
+				"type": "B"
+			},
+			"12589647": {
+				"name": "Trey Clumsyspike",
+				"type": "R"
+			},
+			"926596M1": {
+				"blk": 1,
+				"name": "Merc Skaven Lineman 1",
+				"tur": 8,
+				"type": "M"
+			},
+			"926596S1": {
+				"blk": 3,
+				"died": [
+					2,
+					0,
+					"secretWeaponBan",
+					null
+				],
+				"name": "Garbage Throttlesnot",
+				"tur": 2,
+				"type": "S"
+			},
+			"926596S2": {
+				"name": "Shisk Four-Arms",
+				"rus": -2,
+				"tur": 12,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1134510",
 	"team_performance": {
 		"905924": {
 			"cas": 4,
 			"casdiff": 3,
+			"name": "Squill's Squig Pitt",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		},
 		"926596": {
 			"cas": 1,
 			"casdiff": -3,
+			"name": "Branded and Exiled",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		}
 	}
 }

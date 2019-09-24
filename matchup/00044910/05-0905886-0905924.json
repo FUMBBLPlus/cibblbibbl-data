@@ -1,19 +1,206 @@
 {
 	"!excluded": "no",
+	"matchId": "3986522",
+	"player_performance": {
+		"905886": {
+			"12253779": {
+				"blk": 3,
+				"name": "Charles Umpherston Aitchison",
+				"prespp": 7,
+				"tur": 9,
+				"type": "B"
+			},
+			"12253780": {
+				"blk": 3,
+				"mvp": 1,
+				"name": "Gyles Mackrell",
+				"prespp": 9,
+				"spp": 5,
+				"tur": 17,
+				"type": "B"
+			},
+			"12253781": {
+				"blk": 9,
+				"cas": 1,
+				"name": "Samuel White Baker",
+				"prespp": 6,
+				"spp": 2,
+				"tur": 17,
+				"type": "B"
+			},
+			"12253782": {
+				"blk": 3,
+				"name": "Basil Eddis",
+				"prespp": 7,
+				"tur": 6,
+				"type": "B"
+			},
+			"12253784": {
+				"blk": 8,
+				"cas": 1,
+				"name": "Eldred Pottinger",
+				"prespp": 4,
+				"spp": 2,
+				"tur": 17,
+				"type": "B"
+			},
+			"12253785": {
+				"blk": 8,
+				"cas": 1,
+				"name": "E. W. Middlemast",
+				"prespp": 2,
+				"spp": 2,
+				"tur": 17,
+				"type": "B"
+			},
+			"12254721": {
+				"blk": 1,
+				"name": "Grottleblagh",
+				"prespp": 6,
+				"tur": 9,
+				"type": "R"
+			},
+			"12254722": {
+				"name": "Spitshine",
+				"prespp": 3,
+				"type": "R"
+			},
+			"12254723": {
+				"blk": 2,
+				"name": "Scrubbalick",
+				"tur": 9,
+				"type": "R"
+			},
+			"12261642": {
+				"blk": 9,
+				"cas": 2,
+				"name": "William Cotton Oswell",
+				"spp": 4,
+				"tur": 17,
+				"type": "B"
+			},
+			"12261643": {
+				"name": "Vincent Vileeagle",
+				"rus": 5,
+				"tur": 7,
+				"type": "R"
+			},
+			"12261644": {
+				"name": "Vincent Dirtyorc",
+				"rus": 1,
+				"tur": 11,
+				"type": "R"
+			}
+		},
+		"905924": {
+			"12254401": {
+				"blk": 4,
+				"name": "Reddup",
+				"tur": 13,
+				"type": "R"
+			},
+			"12254402": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Spook",
+				"prespp": 5,
+				"spp": 2,
+				"tur": 16,
+				"type": "B"
+			},
+			"12254405": {
+				"blk": 5,
+				"name": "Bone",
+				"prespp": 8,
+				"tur": 13,
+				"type": "R"
+			},
+			"12254406": {
+				"name": "Gruber",
+				"prespp": 10,
+				"rus": -3,
+				"tur": 2,
+				"type": "R"
+			},
+			"12254409": {
+				"name": "Pygmy",
+				"tur": 16,
+				"type": "R"
+			},
+			"12254414": {
+				"blk": 5,
+				"name": "Clumsy",
+				"prespp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12254424": {
+				"blk": 1,
+				"name": "Ashur The Vile",
+				"tur": 16,
+				"type": "R"
+			},
+			"12254427": {
+				"blk": 1,
+				"name": "Slob The Laborer",
+				"tur": 8,
+				"type": "R"
+			},
+			"12254440": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "O-Dog The Trogslayer",
+				"rus": 16,
+				"spp": 8,
+				"tds": 1,
+				"tur": 10,
+				"type": "R"
+			},
+			"12254445": {
+				"blk": 1,
+				"name": "Scumm The Rebel",
+				"tur": 8,
+				"type": "R"
+			},
+			"12254450": {
+				"name": "Smartu The Unscarred",
+				"prespp": 3,
+				"tur": 8,
+				"type": "R"
+			},
+			"12263755": {
+				"name": "Gizmo The Gambler",
+				"tur": 16,
+				"type": "R"
+			},
+			"12263756": {
+				"name": "Killian Glowingwater",
+				"tur": 11,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1064976",
 	"team_performance": {
 		"905886": {
 			"cas": 5,
 			"casdiff": 4,
+			"name": "Sabre Mountain Rattlers",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		},
 		"905924": {
 			"cas": 1,
 			"casdiff": -4,
+			"name": "Squill's Squig Pitt",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		}
 	}
 }

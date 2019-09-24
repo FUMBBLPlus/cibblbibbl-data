@@ -1,19 +1,217 @@
 {
 	"!excluded": "no",
+	"matchId": "3918969",
+	"player_performance": {
+		"854507": {
+			"11439076": {
+				"name": "Maximilian Windhelm, the Fallen",
+				"prespp": 21,
+				"type": "R"
+			},
+			"11439078": {
+				"blk": 1,
+				"name": "Emminoth",
+				"prespp": 9,
+				"tur": 3,
+				"type": "R"
+			},
+			"11439080": {
+				"blk": 1,
+				"name": "Vol'arth the Brazen",
+				"pas": -1,
+				"prespp": 35,
+				"rus": -1,
+				"tur": 10,
+				"type": "R"
+			},
+			"11439088": {
+				"name": "Yibb-Tstll",
+				"prespp": 34,
+				"rus": 11,
+				"tur": 2,
+				"type": "R"
+			},
+			"11439090": {
+				"blk": 13,
+				"name": "Do Galaad, the Herald",
+				"prespp": 32,
+				"tur": 16,
+				"type": "R"
+			},
+			"11439091": {
+				"name": "A Formless Thing",
+				"prespp": 10,
+				"tur": 3,
+				"type": "R"
+			},
+			"11439092": {
+				"died": [
+					2,
+					4,
+					"blocked",
+					"11603005"
+				],
+				"fou": 1,
+				"name": "Voonith",
+				"tur": 4,
+				"type": "R"
+			},
+			"11582112": {
+				"blk": 2,
+				"cps": 1,
+				"name": "Horok",
+				"pas": 6,
+				"prespp": 12,
+				"rus": 4,
+				"spp": 1,
+				"tur": 6,
+				"type": "R"
+			},
+			"11681756": {
+				"blk": 4,
+				"name": "Neron",
+				"prespp": 16,
+				"tur": 16,
+				"type": "R"
+			},
+			"11766988": {
+				"blk": 11,
+				"mvp": 1,
+				"name": "Malphas, the Harbinger",
+				"prespp": 12,
+				"spp": 5,
+				"tur": 12,
+				"type": "R"
+			},
+			"11807607": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Palehawk, the Revenant",
+				"prespp": 6,
+				"tur": 8,
+				"type": "R"
+			},
+			"11851618": {
+				"blk": 10,
+				"cas": 1,
+				"name": "Marius, the Forgiven",
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"865063": {
+			"11603005": {
+				"blk": 7,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Ouszz",
+				"prespp": 23,
+				"spp": 9,
+				"tur": 9,
+				"type": "R"
+			},
+			"11603008": {
+				"blk": 5,
+				"fou": 2,
+				"name": "Riptorr",
+				"prespp": 12,
+				"tur": 16,
+				"type": "R"
+			},
+			"11603012": {
+				"blk": 1,
+				"name": "Timrr",
+				"tur": 16,
+				"type": "R"
+			},
+			"11603015": {
+				"blk": 1,
+				"fou": 3,
+				"name": "Twerk",
+				"prespp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11603016": {
+				"blk": 1,
+				"name": "Esqds",
+				"prespp": 16,
+				"tur": 3,
+				"type": "R"
+			},
+			"11603017": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Nert",
+				"prespp": 14,
+				"rus": 16,
+				"spp": 5,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11670597": {
+				"blk": 4,
+				"fou": 1,
+				"name": "Trey Truestone",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11747200": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Pipa Swer",
+				"prespp": 34,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11800288": {
+				"blk": 4,
+				"name": "Rbferz Shzzkich",
+				"prespp": 15,
+				"rus": 11,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11864164": {
+				"blk": 1,
+				"name": "Argorzzz Zumbbzzee",
+				"tur": 10,
+				"type": "R"
+			},
+			"11883741": {
+				"name": "Ungarr",
+				"tur": 2,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "987019",
 	"team_performance": {
 		"854507": {
 			"cas": 2,
 			"casdiff": -3,
+			"name": "Coven of the Mirrored Hall",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -2
+			"scorediff": -2,
+			"tds": 0,
+			"tdsdiff": -2
 		},
 		"865063": {
 			"cas": 5,
 			"casdiff": 3,
+			"name": "Oyxl Great Pyramid Heroes",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 2
+			"scorediff": 2,
+			"tds": 2,
+			"tdsdiff": 2
 		}
 	}
 }

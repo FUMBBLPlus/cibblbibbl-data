@@ -1,19 +1,210 @@
 {
 	"!excluded": "no",
+	"matchId": "3949002",
+	"player_performance": {
+		"871312": {
+			"11700284": {
+				"blk": 8,
+				"name": "Count Igor",
+				"prespp": 44,
+				"rus": 7,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11700285": {
+				"blk": 7,
+				"name": "Count Jurij",
+				"prespp": 37,
+				"rus": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11700318": {
+				"blk": 6,
+				"cas": 1,
+				"name": "Seth",
+				"prespp": 34,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11700319": {
+				"blk": 4,
+				"name": "Anubis",
+				"prespp": 48,
+				"tur": 16,
+				"type": "R"
+			},
+			"11700323": {
+				"blk": 2,
+				"name": "Servant Fjodor",
+				"prespp": 9,
+				"tur": 16,
+				"type": "R"
+			},
+			"11812909": {
+				"name": "Count Yaroslav",
+				"prespp": 35,
+				"tur": 16,
+				"type": "R"
+			},
+			"11850036": {
+				"blk": 1,
+				"name": "Paul Darktree",
+				"tur": 16,
+				"type": "R"
+			},
+			"11933869": {
+				"blk": 2,
+				"name": "Abu",
+				"tur": 16,
+				"type": "R"
+			},
+			"11936975": {
+				"blk": 4,
+				"name": "Ladislao Celano",
+				"prespp": 7,
+				"tur": 16,
+				"type": "R"
+			},
+			"11986735": {
+				"mvp": 1,
+				"name": "Count Ludovig II.",
+				"rus": 16,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"12062896": {
+				"name": "Servant Dmitri",
+				"type": "R"
+			}
+		},
+		"889002": {
+			"11985592": {
+				"blk": 6,
+				"name": "Alfred of Hel Fenn",
+				"prespp": 19,
+				"rus": 4,
+				"tur": 14,
+				"type": "R"
+			},
+			"11985593": {
+				"blk": 9,
+				"name": "Oswiu of Morrfenn",
+				"prespp": 16,
+				"tur": 16,
+				"type": "R"
+			},
+			"11985594": {
+				"blk": 4,
+				"name": "Acwel Durwin",
+				"prespp": 7,
+				"tur": 17,
+				"type": "R"
+			},
+			"11985595": {
+				"name": "Beorn Anson",
+				"tur": 7,
+				"type": "R"
+			},
+			"11985596": {
+				"name": "Corey Baldlice",
+				"tur": 1,
+				"type": "R"
+			},
+			"11985597": {
+				"name": "Calflice Dreng",
+				"type": "R"
+			},
+			"11985598": {
+				"blk": 1,
+				"name": "Ealdian Galan",
+				"rus": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"11985600": {
+				"mvp": 1,
+				"name": "Hererinc Isen",
+				"prespp": 2,
+				"spp": 5,
+				"tur": 4,
+				"type": "R"
+			},
+			"11985601": {
+				"name": "Kenway Leof",
+				"tur": 6,
+				"type": "R"
+			},
+			"11994724": {
+				"name": "Vincent Darkeagle",
+				"prespp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"12003569": {
+				"blk": 3,
+				"name": "Rædwald of Grim Moor II",
+				"prespp": 4,
+				"rus": 10,
+				"tur": 17,
+				"type": "R"
+			},
+			"12035226": {
+				"name": "Grimbold Heolstor II",
+				"type": "R"
+			},
+			"889002M1": {
+				"name": "Merc Thrall 1",
+				"tur": 2,
+				"type": "M"
+			},
+			"889002M2": {
+				"blk": 1,
+				"cas": 1,
+				"name": "Merc Vampire 1",
+				"spp": 2,
+				"tur": 12,
+				"type": "M"
+			},
+			"889002S1": {
+				"blk": 3,
+				"name": "Quasimordor",
+				"tur": 13,
+				"type": "S"
+			},
+			"889002S2": {
+				"blk": 10,
+				"name": "Wilhelm Chaney",
+				"tur": 17,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1021982",
 	"team_performance": {
 		"871312": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Tower of the Necromancer",
 			"rsym": "W",
 			"score": 1,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 1,
+			"tdsdiff": 1
 		},
 		"889002": {
 			"cas": 1,
 			"casdiff": 0,
+			"name": "Offa's Hearthweru",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 0,
+			"tdsdiff": -1
 		}
 	}
 }

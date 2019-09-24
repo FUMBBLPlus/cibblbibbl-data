@@ -1,19 +1,212 @@
 {
 	"!excluded": "no",
+	"matchId": "4054057",
+	"player_performance": {
+		"928360": {
+			"12607999": {
+				"blk": 5,
+				"cas": 3,
+				"name": "Grendel",
+				"prespp": 4,
+				"spp": 6,
+				"tur": 16,
+				"type": "B"
+			},
+			"12608002": {
+				"blk": 7,
+				"cas": 1,
+				"name": "Baldur",
+				"prespp": 9,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12608004": {
+				"blk": 6,
+				"cas": 2,
+				"name": "Surtr",
+				"prespp": 16,
+				"spp": 4,
+				"tur": 16,
+				"type": "R"
+			},
+			"12608011": {
+				"blk": 4,
+				"cas": 1,
+				"name": "Heidrek",
+				"prespp": 3,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12608018": {
+				"blk": 7,
+				"name": "Skoll",
+				"tur": 16,
+				"type": "R"
+			},
+			"12608023": {
+				"blk": 3,
+				"fou": 2,
+				"name": "Vali",
+				"prespp": 3,
+				"tur": 8,
+				"type": "R"
+			},
+			"12608031": {
+				"blk": 4,
+				"name": "Narfi",
+				"prespp": 3,
+				"tur": 16,
+				"type": "R"
+			},
+			"12608034": {
+				"blk": 1,
+				"fou": 1,
+				"name": "Mokkurkalfi",
+				"tur": 4,
+				"type": "R"
+			},
+			"12608036": {
+				"fou": 1,
+				"name": "Halogi",
+				"tur": 1,
+				"type": "R"
+			},
+			"12608039": {
+				"blk": 4,
+				"name": "Baugi",
+				"tur": 16,
+				"type": "R"
+			},
+			"12624317": {
+				"blk": 5,
+				"name": "Ullr",
+				"rus": 36,
+				"spp": 6,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"12627616": {
+				"blk": 3,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Hati",
+				"rus": 4,
+				"spp": 7,
+				"tur": 16,
+				"type": "R"
+			}
+		},
+		"928392": {
+			"12608663": {
+				"blk": 7,
+				"name": "Nobok Lizardslayer",
+				"prespp": 7,
+				"tur": 14,
+				"type": "R"
+			},
+			"12608664": {
+				"name": "Tabu Carnoheart",
+				"prespp": 8,
+				"tur": 1,
+				"type": "R"
+			},
+			"12608665": {
+				"blk": 1,
+				"name": "Tikbuk Giantbane",
+				"tur": 11,
+				"type": "R"
+			},
+			"12608666": {
+				"blk": 5,
+				"name": "Suki Sharktooth",
+				"tur": 15,
+				"type": "R"
+			},
+			"12608667": {
+				"blk": 1,
+				"name": "Kofu Skinkfoot",
+				"prespp": 8,
+				"tur": 16,
+				"type": "R"
+			},
+			"12608668": {
+				"name": "Shaka RIverstrider",
+				"prespp": 6,
+				"rus": 11,
+				"spp": 3,
+				"tds": 1,
+				"tur": 8,
+				"type": "R"
+			},
+			"12608669": {
+				"name": "Kalali Eaglesight",
+				"pas": 1,
+				"prespp": 1,
+				"rus": 4,
+				"tur": 4,
+				"type": "R"
+			},
+			"12608670": {
+				"name": "Wala Orcarm",
+				"prespp": 6,
+				"tur": 3,
+				"type": "R"
+			},
+			"12608671": {
+				"mvp": 1,
+				"name": "Falai Toadhunter",
+				"prespp": 4,
+				"spp": 5,
+				"tur": 11,
+				"type": "R"
+			},
+			"12608672": {
+				"name": "Vak'i Sundancer",
+				"prespp": 2,
+				"tur": 9,
+				"type": "R"
+			},
+			"12608673": {
+				"name": "As'ali Poison Sharma",
+				"tur": 12,
+				"type": "R"
+			},
+			"12608674": {
+				"name": "Daai Konali",
+				"tur": 10,
+				"type": "R"
+			},
+			"12630332": {
+				"name": "Dokori Bokxa",
+				"tur": 1,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1143644",
 	"team_performance": {
 		"928360": {
 			"cas": 9,
 			"casdiff": 9,
+			"name": "Gorequeen's Raiders",
 			"rsym": "W",
 			"score": 2,
-			"scorediff": 1
+			"scorediff": 1,
+			"tds": 2,
+			"tdsdiff": 1
 		},
 		"928392": {
 			"cas": 0,
 			"casdiff": -9,
+			"name": "Piranha Swamp Warriors",
 			"rsym": "L",
 			"score": 1,
-			"scorediff": -1
+			"scorediff": -1,
+			"tds": 1,
+			"tdsdiff": -1
 		}
 	}
 }

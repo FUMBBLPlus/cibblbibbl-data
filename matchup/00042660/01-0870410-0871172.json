@@ -1,19 +1,184 @@
 {
 	"!excluded": "no",
+	"matchId": "3887461",
+	"player_performance": {
+		"870410": {
+			"11686464": {
+				"blk": 1,
+				"name": "Zizou Zannanza",
+				"rus": 1,
+				"tur": 14,
+				"type": "R"
+			},
+			"11686465": {
+				"blk": 2,
+				"cas": 1,
+				"cps": 1,
+				"name": "King Pepi",
+				"pas": -1,
+				"rus": 6,
+				"spp": 3,
+				"tur": 17,
+				"type": "R"
+			},
+			"11686466": {
+				"blk": 12,
+				"name": "Wazza Rudamun",
+				"tur": 17,
+				"type": "R"
+			},
+			"11686468": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Ruud Devil Neserkauhor",
+				"tur": 17,
+				"type": "R"
+			},
+			"11686470": {
+				"fou": 1,
+				"name": "De Zulk Analmaye",
+				"tur": 8,
+				"type": "R"
+			},
+			"11686471": {
+				"blk": 2,
+				"name": "Zapah Manio Bebiankh",
+				"rus": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"11686472": {
+				"blk": 2,
+				"name": "Roi Khayu",
+				"tur": 17,
+				"type": "R"
+			},
+			"11686475": {
+				"blk": 5,
+				"name": "Guard of the Devils",
+				"tur": 17,
+				"type": "R"
+			},
+			"11686476": {
+				"blk": 10,
+				"mvp": 1,
+				"name": "Guard of the Arsenal",
+				"spp": 5,
+				"tur": 17,
+				"type": "R"
+			},
+			"11686477": {
+				"blk": 7,
+				"name": "Guard of the Reds",
+				"tur": 15,
+				"type": "R"
+			},
+			"11686481": {
+				"blk": 9,
+				"name": "Protector of the Toffees",
+				"tur": 17,
+				"type": "R"
+			}
+		},
+		"871172": {
+			"11698445": {
+				"blk": 3,
+				"cps": 1,
+				"name": "Jerek von Carstein",
+				"rus": 29,
+				"spp": 7,
+				"tds": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11698446": {
+				"blk": 2,
+				"name": "Elize von Carstein",
+				"tur": 4,
+				"type": "R"
+			},
+			"11698447": {
+				"blk": 4,
+				"name": "Pieter von Carstein",
+				"tur": 16,
+				"type": "R"
+			},
+			"11698448": {
+				"blk": 14,
+				"mvp": 1,
+				"name": "Markos von Carstein",
+				"rus": 2,
+				"spp": 8,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11698449": {
+				"blk": 2,
+				"name": "Hans Schäfer",
+				"tur": 11,
+				"type": "R"
+			},
+			"11698450": {
+				"name": "Lars Hoffman",
+				"tur": 16,
+				"type": "R"
+			},
+			"11698451": {
+				"blk": 1,
+				"name": "Johan Schulz",
+				"tur": 14,
+				"type": "R"
+			},
+			"11698453": {
+				"name": "Fritz Schneider",
+				"type": "R"
+			},
+			"11698462": {
+				"blk": 1,
+				"died": [
+					2,
+					3,
+					"blocked",
+					"11686465"
+				],
+				"name": "Gustav Müller",
+				"tur": 10,
+				"type": "R"
+			},
+			"11698473": {
+				"name": "Frank Fischer",
+				"tur": 16,
+				"type": "R"
+			},
+			"11698474": {
+				"name": "Schatten aus der Toten",
+				"tur": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "950626",
 	"team_performance": {
 		"870410": {
 			"cas": 1,
 			"casdiff": 1,
+			"name": "Settra's Goats",
 			"rsym": "L",
 			"score": 0,
-			"scorediff": -3
+			"scorediff": -3,
+			"tds": 0,
+			"tdsdiff": -3
 		},
 		"871172": {
 			"cas": 0,
 			"casdiff": -1,
+			"name": "Nachthafen Nightlords",
 			"rsym": "W",
 			"score": 3,
-			"scorediff": 3
+			"scorediff": 3,
+			"tds": 3,
+			"tdsdiff": 3
 		}
 	}
 }

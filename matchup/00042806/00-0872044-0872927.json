@@ -1,19 +1,203 @@
 {
 	"!excluded": "no",
+	"matchId": "3896252",
+	"player_performance": {
+		"872044": {
+			"11713837": {
+				"blk": 15,
+				"cas": 1,
+				"name": "Carol I",
+				"prespp": 15,
+				"rus": -1,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11713838": {
+				"blk": 9,
+				"name": "Ferdinand I",
+				"prespp": 11,
+				"tur": 16,
+				"type": "R"
+			},
+			"11713840": {
+				"name": "Burggraf of Nuremberg",
+				"tur": 7,
+				"type": "R"
+			},
+			"11713841": {
+				"blk": 4,
+				"mvp": 1,
+				"name": "Reichsgraf of Hohenzollern",
+				"prespp": 11,
+				"rus": 24,
+				"spp": 8,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11713842": {
+				"name": "Graf of Sigmaringen",
+				"tur": 15,
+				"type": "R"
+			},
+			"11713845": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Constantin",
+				"tur": 12,
+				"type": "R"
+			},
+			"11713846": {
+				"blk": 5,
+				"name": "Dragonmir",
+				"tur": 16,
+				"type": "R"
+			},
+			"11713847": {
+				"blk": 1,
+				"name": "Grigore",
+				"tur": 14,
+				"type": "R"
+			},
+			"11734005": {
+				"blk": 1,
+				"name": "Anna Jagiellon",
+				"tur": 11,
+				"type": "R"
+			},
+			"11751030": {
+				"blk": 1,
+				"name": "Kevin Coldorc",
+				"tur": 9,
+				"type": "R"
+			},
+			"11751031": {
+				"fou": 1,
+				"name": "Alexander Truestone",
+				"tur": 8,
+				"type": "R"
+			}
+		},
+		"872927": {
+			"11729664": {
+				"blk": 2,
+				"name": "Trokch Silentstriker",
+				"tur": 3,
+				"type": "R"
+			},
+			"11729665": {
+				"blk": 11,
+				"name": "Skak Clawreaver",
+				"tur": 16,
+				"type": "R"
+			},
+			"11729666": {
+				"blk": 12,
+				"cas": 1,
+				"name": "Qril Pridewalker",
+				"prespp": 7,
+				"spp": 2,
+				"tur": 16,
+				"type": "R"
+			},
+			"11729667": {
+				"blk": 7,
+				"name": "Vulk Shadowspire",
+				"prespp": 3,
+				"rus": 9,
+				"spp": 3,
+				"tds": 1,
+				"tur": 16,
+				"type": "R"
+			},
+			"11729668": {
+				"blk": 4,
+				"name": "Trutch Lowfingers",
+				"tur": 11,
+				"type": "R"
+			},
+			"11729669": {
+				"blk": 1,
+				"mvp": 1,
+				"name": "Zhan Shadowfingers",
+				"prespp": 4,
+				"rus": 6,
+				"spp": 5,
+				"tur": 16,
+				"type": "R"
+			},
+			"11729670": {
+				"blk": 2,
+				"fou": 1,
+				"name": "Stonqukch Duskborn",
+				"tur": 16,
+				"type": "R"
+			},
+			"11729671": {
+				"blk": 2,
+				"name": "Qieshqin Bristlescream",
+				"tur": 11,
+				"type": "R"
+			},
+			"11729672": {
+				"blk": 1,
+				"died": [
+					1,
+					7,
+					"fouled",
+					"11713845"
+				],
+				"name": "Qhruonqrot Ashgaze",
+				"tur": 6,
+				"type": "R"
+			},
+			"11729673": {
+				"blk": 3,
+				"name": "Zricnik Bitterchest",
+				"tur": 13,
+				"type": "R"
+			},
+			"11729674": {
+				"name": "Qhun Caskspine",
+				"type": "R"
+			},
+			"11729675": {
+				"blk": 3,
+				"fou": 1,
+				"name": "Kruoch Ashentail",
+				"tur": 16,
+				"type": "R"
+			},
+			"11752304": {
+				"blk": 1,
+				"name": "Quickchop WarpHand",
+				"tur": 1,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "960812",
 	"team_performance": {
 		"872044": {
 			"cas": 2,
 			"casdiff": 1,
+			"name": "Strigos Elită",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		},
 		"872927": {
 			"cas": 1,
 			"casdiff": -1,
+			"name": "Notorious BIBBL.Inc.Brawlers",
 			"rsym": "D",
 			"score": 1,
-			"scorediff": 0
+			"scorediff": 0,
+			"tds": 1,
+			"tdsdiff": 0
 		}
 	}
 }
