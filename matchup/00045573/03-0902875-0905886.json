@@ -61,7 +61,7 @@
 				"type": "R"
 			},
 			"12340451": {
-				"died": [
+				"dead": [
 					1,
 					4,
 					"blocked",
@@ -87,7 +87,7 @@
 			"12353603": {
 				"blk": 2,
 				"cas": 1,
-				"died": [
+				"dead": [
 					2,
 					1,
 					"blocked",
@@ -180,33 +180,38 @@
 			},
 			"12429232": {
 				"name": "Zachary Coldrock",
+				"retired": true,
 				"tur": 9,
-				"type": "R"
+				"type": "J"
 			},
 			"12429233": {
 				"blk": 1,
 				"fou": 2,
 				"name": "Sylvester Clearwing",
+				"retired": true,
 				"tur": 12,
-				"type": "R"
+				"type": "J"
 			},
 			"12429234": {
 				"name": "George Vilefire",
+				"retired": true,
 				"rus": 4,
 				"tur": 7,
-				"type": "R"
+				"type": "J"
 			},
 			"12429235": {
 				"fou": 3,
 				"name": "Duane Blueshield",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12429236": {
 				"blk": 2,
 				"name": "Cory Deepshield",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

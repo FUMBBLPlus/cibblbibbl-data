@@ -32,7 +32,7 @@
 			},
 			"12570098": {
 				"blk": 5,
-				"died": [
+				"dead": [
 					2,
 					1,
 					"blocked",
@@ -133,7 +133,7 @@
 			},
 			"12575054": {
 				"blk": 3,
-				"died": [
+				"dead": [
 					2,
 					2,
 					"blocked",
@@ -183,8 +183,9 @@
 			"12593891": {
 				"blk": 3,
 				"name": "Harold Stronghawk",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

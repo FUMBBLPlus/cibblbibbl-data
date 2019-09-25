@@ -41,7 +41,7 @@
 			},
 			"12314479": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					2,
 					8,
 					"blocked",
@@ -159,7 +159,7 @@
 				"type": "R"
 			},
 			"12569465": {
-				"died": [
+				"dead": [
 					2,
 					2,
 					"blocked",
@@ -173,6 +173,7 @@
 				"blk": 1,
 				"name": "Alenmisa Ratlnim",
 				"prespp": 3,
+				"retired": true,
 				"tur": 1,
 				"type": "R"
 			},
@@ -215,13 +216,15 @@
 			},
 			"12601451": {
 				"name": "Fredrick Fastbone",
+				"retired": true,
 				"tur": 5,
-				"type": "R"
+				"type": "J"
 			},
 			"12601452": {
 				"name": "Albert Truebone",
+				"retired": true,
 				"tur": 3,
-				"type": "R"
+				"type": "J"
 			},
 			"926021M1": {
 				"name": "Merc Priestess 1",

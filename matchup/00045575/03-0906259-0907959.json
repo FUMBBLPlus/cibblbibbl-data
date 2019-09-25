@@ -30,7 +30,7 @@
 			},
 			"12259677": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					5,
 					"blocked",
@@ -130,6 +130,7 @@
 			"12285967": {
 				"blk": 2,
 				"name": "Lilith Gi'khas",
+				"retired": true,
 				"tur": 16,
 				"type": "R"
 			},
@@ -174,13 +175,15 @@
 			"12424774": {
 				"blk": 2,
 				"name": "Sylvester Weakeagle",
+				"retired": true,
 				"tur": 17,
-				"type": "R"
+				"type": "J"
 			},
 			"12424775": {
 				"name": "Brian Fastbrook",
+				"retired": true,
 				"tur": 13,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

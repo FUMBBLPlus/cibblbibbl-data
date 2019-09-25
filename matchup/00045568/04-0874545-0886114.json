@@ -196,18 +196,20 @@
 				"blk": 2,
 				"fou": 1,
 				"name": "Cory Grottyspike",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12441506": {
 				"fou": 2,
 				"name": "Ulric Clearstream",
+				"retired": true,
 				"tur": 9,
-				"type": "R"
+				"type": "J"
 			},
 			"12441507": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					2,
 					8,
 					"crowdPushed",
@@ -215,7 +217,7 @@
 				],
 				"name": "Harold Hardshield",
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

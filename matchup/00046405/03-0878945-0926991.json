@@ -38,7 +38,7 @@
 			},
 			"12154896": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					2,
 					3,
 					"blocked",
@@ -184,12 +184,14 @@
 			},
 			"12591974": {
 				"name": "Robert Fastlightning",
-				"type": "R"
+				"retired": true,
+				"type": "J"
 			},
 			"12591975": {
 				"name": "Alexander Dirtyspike",
+				"retired": true,
 				"tur": 3,
-				"type": "R"
+				"type": "J"
 			},
 			"926991M1": {
 				"fou": 6,

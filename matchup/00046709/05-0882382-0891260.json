@@ -35,6 +35,7 @@
 				"cas": 1,
 				"name": "Lago",
 				"prespp": 36,
+				"retired": true,
 				"spp": 2,
 				"tur": 5,
 				"type": "R"
@@ -139,7 +140,7 @@
 				"type": "R"
 			},
 			"12023013": {
-				"died": [
+				"dead": [
 					1,
 					1,
 					"fouled",
@@ -158,7 +159,7 @@
 			},
 			"12413265": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					5,
 					"blocked",
@@ -193,7 +194,7 @@
 			"12533832": {
 				"blk": 1,
 				"cas": 1,
-				"died": [
+				"dead": [
 					2,
 					5,
 					"dodgeFail",

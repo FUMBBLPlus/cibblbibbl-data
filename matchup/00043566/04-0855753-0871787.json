@@ -15,7 +15,7 @@
 			},
 			"11455995": {
 				"blk": 5,
-				"died": [
+				"dead": [
 					2,
 					6,
 					"blocked",
@@ -28,7 +28,7 @@
 			},
 			"11455996": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					2,
 					8,
 					"crowdPushed",
@@ -121,6 +121,7 @@
 				"cas": 1,
 				"name": "Breek Argan",
 				"prespp": 7,
+				"retired": true,
 				"spp": 2,
 				"tur": 15,
 				"type": "R"
@@ -152,7 +153,7 @@
 			},
 			"11709012": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					1,
 					2,
 					"blocked",

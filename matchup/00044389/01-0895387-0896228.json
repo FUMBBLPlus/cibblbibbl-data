@@ -41,7 +41,7 @@
 			},
 			"12089490": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					8,
 					"blocked",
@@ -64,6 +64,7 @@
 				"blk": 4,
 				"name": "Nobby Lame",
 				"prespp": 3,
+				"retired": true,
 				"tur": 12,
 				"type": "R"
 			},
@@ -77,6 +78,7 @@
 			},
 			"12089502": {
 				"name": "Gobbo Arriz",
+				"retired": true,
 				"tur": 8,
 				"type": "R"
 			},
@@ -114,7 +116,7 @@
 			},
 			"12103150": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					1,
 					"fouled",
@@ -152,6 +154,7 @@
 				"blk": 4,
 				"cas": 1,
 				"name": "Artemius",
+				"retired": true,
 				"spp": 2,
 				"tur": 12,
 				"type": "R"

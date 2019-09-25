@@ -40,7 +40,7 @@
 			},
 			"11756707": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					6,
 					"blocked",
@@ -102,7 +102,7 @@
 			},
 			"874452M1": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					1,
 					5,
 					"blocked",
@@ -171,6 +171,7 @@
 				"cas": 1,
 				"name": "Fast Raol",
 				"prespp": 8,
+				"retired": true,
 				"spp": 2,
 				"tur": 8,
 				"type": "R"

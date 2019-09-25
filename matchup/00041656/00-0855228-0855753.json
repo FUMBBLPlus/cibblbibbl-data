@@ -89,8 +89,9 @@
 			"11448474": {
 				"blk": 2,
 				"name": "Albert Hardeagle",
+				"retired": true,
 				"tur": 17,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"855753": {
@@ -171,11 +172,12 @@
 			"11460856": {
 				"blk": 1,
 				"name": "Zachary Darklightning",
+				"retired": true,
 				"tur": 10,
-				"type": "R"
+				"type": "J"
 			},
 			"11460857": {
-				"died": [
+				"dead": [
 					1,
 					1,
 					"blocked",
@@ -183,7 +185,7 @@
 				],
 				"name": "Kevin Coldwing",
 				"tur": 1,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

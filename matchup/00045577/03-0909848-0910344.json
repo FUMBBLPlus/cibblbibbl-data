@@ -62,7 +62,7 @@
 			},
 			"12315770": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					2,
 					1,
 					"blocked",
@@ -88,8 +88,9 @@
 			},
 			"12424778": {
 				"name": "Martin Hotshield",
+				"retired": true,
 				"tur": 12,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"910344": {
@@ -142,6 +143,7 @@
 				"blk": 2,
 				"name": "Spike",
 				"prespp": 2,
+				"retired": true,
 				"tur": 2,
 				"type": "R"
 			},

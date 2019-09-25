@@ -73,13 +73,14 @@
 			"12632027": {
 				"blk": 3,
 				"name": "Brian Fastshield",
+				"retired": true,
 				"tur": 18,
-				"type": "R"
+				"type": "J"
 			},
 			"12632028": {
 				"name": "Billy Goldhawk",
 				"tur": 18,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"928542": {
@@ -93,7 +94,7 @@
 			},
 			"12611405": {
 				"blk": 7,
-				"died": [
+				"dead": [
 					1,
 					7,
 					"blocked",
@@ -170,7 +171,8 @@
 			"12615317": {
 				"fou": 1,
 				"name": "Ulric Clearhammer",
-				"type": "R"
+				"retired": true,
+				"type": "J"
 			}
 		}
 	},

@@ -117,7 +117,7 @@
 			"12314474": {
 				"blk": 3,
 				"cps": 1,
-				"died": [
+				"dead": [
 					2,
 					3,
 					"fouled",
@@ -152,6 +152,7 @@
 				"fou": 1,
 				"name": "Sabine",
 				"prespp": 8,
+				"retired": true,
 				"tur": 10,
 				"type": "R"
 			},
@@ -223,9 +224,10 @@
 				"blk": 1,
 				"cas": 1,
 				"name": "Harold Silentsnake",
+				"retired": true,
 				"spp": 2,
 				"tur": 7,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

@@ -45,7 +45,7 @@
 			"11589536": {
 				"blk": 4,
 				"cas": 1,
-				"died": [
+				"dead": [
 					2,
 					2,
 					"blocked",
@@ -79,13 +79,15 @@
 				"blk": 1,
 				"name": "Wipeout Xig",
 				"prespp": 13,
+				"retired": true,
 				"type": "R"
 			},
 			"11716688": {
 				"blk": 3,
 				"name": "Harold Strongorc",
+				"retired": true,
 				"tur": 17,
-				"type": "R"
+				"type": "J"
 			},
 			"864209S1": {
 				"name": "Bomber Dribblesnot",
@@ -144,7 +146,7 @@
 				"type": "R"
 			},
 			"11698450": {
-				"died": [
+				"dead": [
 					1,
 					3,
 					"blocked",

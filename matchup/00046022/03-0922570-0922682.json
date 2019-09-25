@@ -38,7 +38,7 @@
 				"type": "R"
 			},
 			"12514244": {
-				"died": [
+				"dead": [
 					1,
 					5,
 					"blocked",
@@ -150,6 +150,7 @@
 			},
 			"12516043": {
 				"name": "Galstur",
+				"retired": true,
 				"type": "R"
 			},
 			"12516045": {
@@ -172,20 +173,23 @@
 			"12529274": {
 				"blk": 2,
 				"name": "David Strongstone",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12529275": {
 				"blk": 2,
 				"name": "Yorick Strongorc",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12529276": {
 				"blk": 1,
 				"name": "Zachary Clearfist",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

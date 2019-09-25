@@ -115,7 +115,7 @@
 			"11747835": {
 				"blk": 4,
 				"cas": 1,
-				"died": [
+				"dead": [
 					2,
 					4,
 					"crowdPushed",
@@ -165,7 +165,7 @@
 			},
 			"11747846": {
 				"blk": 3,
-				"died": [
+				"dead": [
 					1,
 					4,
 					"blocked",
@@ -203,8 +203,9 @@
 			"11792774": {
 				"blk": 3,
 				"name": "Martin Blueorc",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"873945S1": {
 				"blk": 1,

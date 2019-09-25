@@ -60,7 +60,7 @@
 			},
 			"11737261": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					2,
 					7,
 					"blocked",
@@ -75,7 +75,7 @@
 			},
 			"11737262": {
 				"blk": 3,
-				"died": [
+				"dead": [
 					2,
 					6,
 					"blocked",
@@ -100,7 +100,8 @@
 			},
 			"11783218": {
 				"name": "Howard Weaklightning",
-				"type": "R"
+				"retired": true,
+				"type": "J"
 			}
 		},
 		"873369": {
@@ -177,13 +178,15 @@
 			},
 			"11783231": {
 				"name": "Albert Clearstone",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"11783232": {
 				"name": "Ian Dirtybrook",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

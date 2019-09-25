@@ -30,7 +30,7 @@
 			},
 			"11439896": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					2,
 					5,
 					"blocked",
@@ -165,7 +165,7 @@
 				"type": "R"
 			},
 			"12240547": {
-				"died": [
+				"dead": [
 					2,
 					3,
 					"blocked",
@@ -200,12 +200,14 @@
 			"12322149": {
 				"blk": 1,
 				"name": "Jack Whitetree",
+				"retired": true,
 				"tur": 9,
-				"type": "R"
+				"type": "J"
 			},
 			"12322150": {
 				"name": "Aaron Vileeagle",
-				"type": "R"
+				"retired": true,
+				"type": "J"
 			},
 			"855228S1": {
 				"blk": 4,

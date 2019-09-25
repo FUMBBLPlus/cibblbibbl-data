@@ -17,7 +17,7 @@
 			"11448238": {
 				"blk": 8,
 				"cas": 1,
-				"died": [
+				"dead": [
 					2,
 					2,
 					"blocked",
@@ -84,21 +84,24 @@
 			"11937297": {
 				"blk": 3,
 				"name": "Edward Darkspike",
+				"retired": true,
 				"tur": 10,
-				"type": "R"
+				"type": "J"
 			},
 			"11937298": {
 				"blk": 1,
 				"name": "Julius Whiteshield",
+				"retired": true,
 				"tur": 10,
-				"type": "R"
+				"type": "J"
 			},
 			"11937299": {
 				"blk": 4,
 				"fou": 1,
 				"name": "Albert Silentfire",
+				"retired": true,
 				"tur": 10,
-				"type": "R"
+				"type": "J"
 			},
 			"855228M1": {
 				"blk": 2,
@@ -123,7 +126,7 @@
 			},
 			"11582129": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					2,
 					4,
 					"blocked",

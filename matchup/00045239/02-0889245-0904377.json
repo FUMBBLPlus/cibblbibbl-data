@@ -47,7 +47,7 @@
 				"type": "R"
 			},
 			"11990261": {
-				"died": [
+				"dead": [
 					1,
 					5,
 					"blocked",
@@ -66,7 +66,7 @@
 			},
 			"12124639": {
 				"blk": 7,
-				"died": [
+				"dead": [
 					2,
 					7,
 					"blocked",
@@ -185,25 +185,28 @@
 				"name": "Billy Stronghammer",
 				"spp": 2,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12343157": {
 				"blk": 2,
 				"name": "George Clumsyfield",
+				"retired": true,
 				"tur": 12,
-				"type": "R"
+				"type": "J"
 			},
 			"12343158": {
 				"blk": 2,
 				"fou": 1,
 				"name": "Ulric Trueorc",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12343159": {
 				"name": "Alexander Weaksnake",
+				"retired": true,
 				"tur": 4,
-				"type": "R"
+				"type": "J"
 			},
 			"904377S1": {
 				"blk": 9,

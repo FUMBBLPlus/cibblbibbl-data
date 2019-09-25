@@ -61,27 +61,31 @@
 			"11884596": {
 				"blk": 1,
 				"name": "William Bluebone",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"11884597": {
 				"blk": 2,
 				"name": "David Silentbrook",
+				"retired": true,
 				"tur": 9,
-				"type": "R"
+				"type": "J"
 			},
 			"11884598": {
 				"blk": 1,
 				"name": "Martin Dirtyfield",
+				"retired": true,
 				"tur": 7,
-				"type": "R"
+				"type": "J"
 			},
 			"11884599": {
 				"blk": 2,
 				"fou": 1,
 				"name": "Ulric Whitelightning",
+				"retired": true,
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"873945S1": {
 				"blk": 7,
@@ -94,6 +98,7 @@
 			"11754120": {
 				"name": "Castelvetro",
 				"prespp": 4,
+				"retired": true,
 				"tur": 2,
 				"type": "R"
 			},
@@ -121,6 +126,7 @@
 			"11754125": {
 				"name": "Fiorano",
 				"prespp": 2,
+				"retired": true,
 				"tur": 6,
 				"type": "R"
 			},
@@ -163,7 +169,7 @@
 			},
 			"11779760": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					2,
 					2,
 					"blocked",

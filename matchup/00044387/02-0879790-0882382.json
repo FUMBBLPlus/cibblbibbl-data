@@ -77,20 +77,23 @@
 				"blk": 1,
 				"fou": 1,
 				"name": "Nicholas Palehawk",
+				"retired": true,
 				"tur": 2,
-				"type": "R"
+				"type": "J"
 			},
 			"12129164": {
 				"blk": 2,
 				"fou": 1,
 				"name": "Tristan Silentbone",
+				"retired": true,
 				"tur": 7,
-				"type": "R"
+				"type": "J"
 			},
 			"12129165": {
 				"name": "Cory Goldstone",
+				"retired": true,
 				"tur": 7,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"882382": {
@@ -110,7 +113,7 @@
 			},
 			"11881471": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					2,
 					1,
 					"blocked",
@@ -123,7 +126,7 @@
 			},
 			"11881474": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					2,
 					8,
 					"blocked",

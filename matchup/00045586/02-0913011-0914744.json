@@ -23,7 +23,7 @@
 			},
 			"12367654": {
 				"blk": 4,
-				"died": [
+				"dead": [
 					1,
 					8,
 					"blocked",
@@ -79,14 +79,16 @@
 				"blk": 2,
 				"cas": 1,
 				"name": "Kevin Truespike",
+				"retired": true,
 				"spp": 2,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12400868": {
 				"name": "Sean Truebone",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12400869": {
 				"blk": 2,
@@ -95,7 +97,7 @@
 				"spp": 3,
 				"tds": 1,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"914744": {
@@ -128,7 +130,7 @@
 			},
 			"12394299": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					6,
 					"blocked",

@@ -90,7 +90,7 @@
 			},
 			"12166792": {
 				"blk": 3,
-				"died": [
+				"dead": [
 					2,
 					7,
 					"blocked",
@@ -160,7 +160,7 @@
 			"12029111": {
 				"blk": 2,
 				"cps": 1,
-				"died": [
+				"dead": [
 					2,
 					7,
 					"dodgeFail",
@@ -205,8 +205,9 @@
 			"12157710": {
 				"fou": 1,
 				"name": "Tristan Weakhawk",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

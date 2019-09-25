@@ -101,7 +101,7 @@
 		"901773": {
 			"12188828": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					2,
 					2,
 					"blocked",
@@ -178,14 +178,16 @@
 			"12325923": {
 				"blk": 2,
 				"name": "Leroy Clearbone",
+				"retired": true,
 				"tur": 7,
-				"type": "R"
+				"type": "J"
 			},
 			"12325924": {
 				"blk": 1,
 				"name": "Julius Strongsnake",
+				"retired": true,
 				"tur": 14,
-				"type": "R"
+				"type": "J"
 			},
 			"901773S1": {
 				"blk": 6,

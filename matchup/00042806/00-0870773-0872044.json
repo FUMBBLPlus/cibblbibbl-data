@@ -63,30 +63,30 @@
 				"fou": 1,
 				"name": "Ulric Fastwing",
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"11732542": {
 				"blk": 2,
 				"name": "Xavier Palespike",
 				"tur": 14,
-				"type": "R"
+				"type": "J"
 			},
 			"11732543": {
 				"name": "Vincent Deeptree",
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"11732544": {
 				"blk": 3,
 				"name": "Sylvester Grottysnake",
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"11732545": {
 				"blk": 2,
 				"name": "George Hardsnake",
 				"tur": 12,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"872044": {
@@ -154,17 +154,19 @@
 			},
 			"11750985": {
 				"name": "Vincent Weaklightning",
+				"retired": true,
 				"tur": 5,
-				"type": "R"
+				"type": "J"
 			},
 			"11750986": {
 				"name": "Brian Vilefire",
+				"retired": true,
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"872044M1": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					2,
 					3,
 					"blocked",

@@ -14,6 +14,7 @@
 				"blk": 2,
 				"name": "Cas Shenkt",
 				"prespp": 22,
+				"retired": true,
 				"tur": 14,
 				"type": "R"
 			},
@@ -43,7 +44,7 @@
 			},
 			"12372288": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					2,
 					4,
 					"fouled",
@@ -89,11 +90,12 @@
 			"12642939": {
 				"fou": 1,
 				"name": "Martin Darkhammer",
+				"retired": true,
 				"tur": 7,
-				"type": "R"
+				"type": "J"
 			},
 			"12642940": {
-				"died": [
+				"dead": [
 					2,
 					1,
 					"blocked",
@@ -101,7 +103,7 @@
 				],
 				"name": "Vincent Goldfist",
 				"tur": 4,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"916217": {

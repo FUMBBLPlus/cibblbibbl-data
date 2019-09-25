@@ -82,7 +82,7 @@
 				"type": "R"
 			},
 			"11951211": {
-				"died": [
+				"dead": [
 					1,
 					1,
 					"blocked",
@@ -117,7 +117,7 @@
 			},
 			"11494706": {
 				"blk": 5,
-				"died": [
+				"dead": [
 					1,
 					7,
 					"crowdPushed",
@@ -140,7 +140,7 @@
 			"11869550": {
 				"blk": 3,
 				"cas": 1,
-				"died": [
+				"dead": [
 					2,
 					2,
 					"dodgeFail",
@@ -179,19 +179,22 @@
 			"12037524": {
 				"fou": 1,
 				"name": "Billy Clumsylightning",
+				"retired": true,
 				"tur": 4,
-				"type": "R"
+				"type": "J"
 			},
 			"12037525": {
 				"blk": 1,
 				"name": "William Coldspike",
+				"retired": true,
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"12037526": {
 				"name": "Vincent Darkhammer",
+				"retired": true,
 				"tur": 8,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

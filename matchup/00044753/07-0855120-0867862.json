@@ -65,27 +65,31 @@
 			},
 			"12288008": {
 				"name": "Billy Vilestream",
+				"retired": true,
 				"tur": 3,
-				"type": "R"
+				"type": "J"
 			},
 			"12288009": {
 				"name": "Richard Dirtybrook",
+				"retired": true,
 				"tur": 1,
-				"type": "R"
+				"type": "J"
 			},
 			"12288010": {
 				"blk": 2,
 				"name": "Graham Quickorc",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12288011": {
 				"blk": 1,
 				"cas": 1,
 				"name": "Paul Grottyshield",
+				"retired": true,
 				"spp": 2,
 				"tur": 6,
-				"type": "R"
+				"type": "J"
 			},
 			"855120S1": {
 				"blk": 1,
@@ -145,7 +149,7 @@
 				"type": "R"
 			},
 			"12051541": {
-				"died": [
+				"dead": [
 					1,
 					1,
 					"blocked",
@@ -156,7 +160,7 @@
 			},
 			"12065262": {
 				"blk": 10,
-				"died": [
+				"dead": [
 					2,
 					8,
 					"blocked",

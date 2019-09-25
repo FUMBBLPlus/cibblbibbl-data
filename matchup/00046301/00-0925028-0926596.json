@@ -57,7 +57,7 @@
 			},
 			"12555189": {
 				"blk": 3,
-				"died": [
+				"dead": [
 					1,
 					8,
 					"blocked",
@@ -69,7 +69,7 @@
 			},
 			"12555191": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					1,
 					"blocked",
@@ -90,15 +90,17 @@
 			"12578845": {
 				"blk": 1,
 				"name": "Fredrick Deephammer",
+				"retired": true,
 				"tur": 9,
-				"type": "R"
+				"type": "J"
 			},
 			"12578846": {
 				"blk": 5,
 				"fou": 1,
 				"name": "Robert Deeporc",
+				"retired": true,
 				"tur": 12,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"926596": {

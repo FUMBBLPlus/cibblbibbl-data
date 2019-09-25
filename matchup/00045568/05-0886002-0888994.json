@@ -5,7 +5,7 @@
 		"886002": {
 			"11938003": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					1,
 					8,
 					"blocked",
@@ -24,7 +24,7 @@
 			"11938008": {
 				"blk": 4,
 				"cas": 1,
-				"died": [
+				"dead": [
 					2,
 					5,
 					"blocked",
@@ -201,6 +201,7 @@
 			},
 			"12341063": {
 				"name": "Éanna Fasner",
+				"retired": true,
 				"tur": 1,
 				"type": "R"
 			},

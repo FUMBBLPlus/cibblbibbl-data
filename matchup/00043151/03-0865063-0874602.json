@@ -49,7 +49,7 @@
 				"type": "R"
 			},
 			"11603018": {
-				"died": [
+				"dead": [
 					1,
 					4,
 					"chainsaw",
@@ -92,8 +92,9 @@
 			"11864176": {
 				"blk": 1,
 				"name": "William Strongshield",
+				"retired": true,
 				"tur": 9,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"874602": {
@@ -101,6 +102,7 @@
 				"blk": 10,
 				"name": "Koba",
 				"prespp": 10,
+				"retired": true,
 				"tur": 16,
 				"type": "B"
 			},
@@ -191,7 +193,7 @@
 			},
 			"874602S1": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					1,
 					2,
 					"blocked",

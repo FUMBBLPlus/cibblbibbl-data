@@ -44,7 +44,7 @@
 			"12410768": {
 				"blk": 5,
 				"cas": 1,
-				"died": [
+				"dead": [
 					1,
 					5,
 					"gfiFail",
@@ -72,7 +72,7 @@
 				"type": "R"
 			},
 			"12410771": {
-				"died": [
+				"dead": [
 					2,
 					1,
 					"blocked",
@@ -132,7 +132,7 @@
 			},
 			"12416638": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					1,
 					"blocked",
@@ -198,8 +198,9 @@
 			"12498299": {
 				"blk": 1,
 				"name": "Trey Fasttree",
+				"retired": true,
 				"tur": 17,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

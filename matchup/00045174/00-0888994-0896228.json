@@ -27,6 +27,7 @@
 			"11985440": {
 				"name": "Banbha Fasner",
 				"prespp": 8,
+				"retired": true,
 				"tur": 6,
 				"type": "R"
 			},
@@ -104,6 +105,7 @@
 			"12297184": {
 				"fou": 1,
 				"name": "Grian Marney",
+				"retired": true,
 				"tur": 5,
 				"type": "R"
 			}
@@ -127,7 +129,7 @@
 			},
 			"12103156": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					1,
 					7,
 					"blocked",
@@ -195,10 +197,10 @@
 				"name": "Ulric Paletree",
 				"spp": 7,
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"12286457": {
-				"died": [
+				"dead": [
 					1,
 					3,
 					"fouled",
@@ -206,12 +208,13 @@
 				],
 				"name": "Martin Bluestone",
 				"tur": 1,
-				"type": "R"
+				"type": "J"
 			},
 			"12286458": {
 				"name": "Richard Deepsnake",
+				"retired": true,
 				"tur": 2,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

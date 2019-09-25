@@ -115,6 +115,7 @@
 				"blk": 8,
 				"name": "Roc",
 				"prespp": 15,
+				"retired": true,
 				"tur": 11,
 				"type": "R"
 			},
@@ -156,11 +157,13 @@
 			},
 			"11736882": {
 				"name": "Rakkar",
+				"retired": true,
 				"type": "R"
 			},
 			"11736883": {
 				"blk": 1,
 				"name": "Singad",
+				"retired": true,
 				"tur": 16,
 				"type": "R"
 			},
@@ -189,7 +192,7 @@
 				"type": "R"
 			},
 			"11765469": {
-				"died": [
+				"dead": [
 					2,
 					1,
 					"blocked",

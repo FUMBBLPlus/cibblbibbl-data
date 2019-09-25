@@ -5,7 +5,7 @@
 		"895929": {
 			"12098249": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					1,
 					8,
 					"secretWeaponBan",
@@ -54,6 +54,7 @@
 				"blk": 1,
 				"name": "Amberfinger",
 				"prespp": 2,
+				"retired": true,
 				"rus": 14,
 				"tur": 11,
 				"type": "R"
@@ -189,8 +190,9 @@
 			"12124732": {
 				"blk": 4,
 				"name": "Sylvester Goldrock",
+				"retired": true,
 				"tur": 12,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

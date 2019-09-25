@@ -23,7 +23,7 @@
 				"type": "R"
 			},
 			"11743262": {
-				"died": [
+				"dead": [
 					1,
 					4,
 					"blocked",
@@ -75,21 +75,24 @@
 			"11927922": {
 				"blk": 1,
 				"name": "Richard Clumsyhawk",
+				"retired": true,
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"11927923": {
 				"blk": 1,
 				"fou": 1,
 				"name": "Robert Clumsystone",
+				"retired": true,
 				"tur": 8,
-				"type": "R"
+				"type": "J"
 			},
 			"11927924": {
 				"blk": 1,
 				"name": "Nicholas Hotrock",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"874302": {
@@ -183,11 +186,12 @@
 				"blk": 2,
 				"fou": 1,
 				"name": "Nicholas Vileorc",
+				"retired": true,
 				"tur": 11,
-				"type": "R"
+				"type": "J"
 			},
 			"874302S1": {
-				"died": [
+				"dead": [
 					2,
 					3,
 					"fouled",

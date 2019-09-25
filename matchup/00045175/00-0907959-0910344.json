@@ -28,7 +28,7 @@
 			},
 			"12285943": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					1,
 					4,
 					"crowdPushed",
@@ -43,7 +43,7 @@
 			"12285944": {
 				"blk": 2,
 				"cas": 1,
-				"died": [
+				"dead": [
 					1,
 					7,
 					"dodgeFail",
@@ -102,8 +102,9 @@
 			"12321589": {
 				"fou": 1,
 				"name": "Robert Strongbrook",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"910344": {

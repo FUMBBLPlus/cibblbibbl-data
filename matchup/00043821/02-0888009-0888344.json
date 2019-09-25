@@ -152,7 +152,7 @@
 				"blk": 3,
 				"cas": 2,
 				"cps": 1,
-				"died": [
+				"dead": [
 					2,
 					6,
 					"blocked",
@@ -180,8 +180,9 @@
 			"11977934": {
 				"blk": 1,
 				"name": "Evander Coldbone",
+				"retired": true,
 				"tur": 9,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

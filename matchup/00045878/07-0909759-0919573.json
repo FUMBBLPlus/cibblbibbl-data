@@ -192,7 +192,7 @@
 				"type": "R"
 			},
 			"12539783": {
-				"died": [
+				"dead": [
 					1,
 					2,
 					"blocked",
@@ -200,13 +200,14 @@
 				],
 				"name": "Ulric Deeplightning",
 				"tur": 1,
-				"type": "R"
+				"type": "J"
 			},
 			"12539784": {
 				"blk": 1,
 				"name": "Martin Quickstream",
+				"retired": true,
 				"tur": 9,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

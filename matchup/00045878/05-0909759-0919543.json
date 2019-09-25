@@ -66,6 +66,7 @@
 				"blk": 5,
 				"name": "Monique",
 				"prespp": 3,
+				"retired": true,
 				"tur": 8,
 				"type": "R"
 			},
@@ -105,8 +106,9 @@
 			"12503585": {
 				"blk": 7,
 				"name": "David Grottybrook",
+				"retired": true,
 				"tur": 18,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"919543": {
@@ -130,7 +132,7 @@
 			},
 			"12469615": {
 				"cps": 2,
-				"died": [
+				"dead": [
 					2,
 					8,
 					"blocked",

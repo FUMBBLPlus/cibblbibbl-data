@@ -33,11 +33,12 @@
 				"blk": 4,
 				"name": "Siegfried Lindner",
 				"prespp": 32,
+				"retired": true,
 				"tur": 14,
 				"type": "R"
 			},
 			"11706068": {
-				"died": [
+				"dead": [
 					2,
 					2,
 					"blocked",
@@ -92,6 +93,7 @@
 				"blk": 2,
 				"name": "Rorec Stoutbelly",
 				"prespp": 2,
+				"retired": true,
 				"tur": 9,
 				"type": "R"
 			}
@@ -158,24 +160,28 @@
 			"12015157": {
 				"blk": 1,
 				"name": "Ulric Truehammer",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12015158": {
 				"blk": 1,
 				"cas": 1,
 				"name": "Aaron Whitestream",
+				"retired": true,
 				"spp": 2,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12015159": {
 				"name": "Xavier Deepstream",
-				"type": "R"
+				"retired": true,
+				"type": "J"
 			},
 			"12015160": {
 				"name": "Tristan Darksnake",
-				"type": "R"
+				"retired": true,
+				"type": "J"
 			},
 			"855228M1": {
 				"blk": 1,

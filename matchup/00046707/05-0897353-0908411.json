@@ -7,12 +7,14 @@
 				"blk": 1,
 				"name": "Nis Atman",
 				"prespp": 25,
+				"retired": true,
 				"tur": 5,
 				"type": "R"
 			},
 			"12139096": {
 				"name": "Mos Passat",
 				"prespp": 68,
+				"retired": true,
 				"type": "R"
 			},
 			"12139099": {
@@ -177,30 +179,33 @@
 				"type": "R"
 			},
 			"12704950": {
-				"died": [
+				"dead": [
 					1,
 					1,
 					"blocked",
 					"12536828"
 				],
 				"name": "Sylvester Grottystream",
-				"type": "R"
+				"type": "J"
 			},
 			"12704951": {
 				"name": "Sean Vilehawk",
-				"type": "R"
+				"retired": true,
+				"type": "J"
 			},
 			"12704952": {
 				"blk": 2,
 				"name": "George Dirtyeagle",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12704953": {
 				"blk": 5,
 				"name": "Xavier Darkfist",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

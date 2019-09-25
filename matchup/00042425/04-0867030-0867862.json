@@ -52,6 +52,7 @@
 			"11633511": {
 				"blk": 1,
 				"name": "Xlatli",
+				"retired": true,
 				"tur": 14,
 				"type": "R"
 			},
@@ -71,17 +72,19 @@
 			"11655450": {
 				"blk": 1,
 				"name": "Paul Coldspike",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"11655451": {
 				"name": "Duane Whiteshield",
+				"retired": true,
 				"tur": 2,
-				"type": "R"
+				"type": "J"
 			},
 			"11655452": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					2,
 					6,
 					"blocked",
@@ -89,7 +92,7 @@
 				],
 				"name": "Sean Weakhammer",
 				"tur": 14,
-				"type": "R"
+				"type": "J"
 			},
 			"867030S1": {
 				"blk": 4,

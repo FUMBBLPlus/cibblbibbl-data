@@ -34,7 +34,7 @@
 			"11835792": {
 				"blk": 2,
 				"cas": 1,
-				"died": [
+				"dead": [
 					2,
 					1,
 					"fouled",
@@ -80,6 +80,7 @@
 				"blk": 1,
 				"name": "Grain Press Trickle",
 				"prespp": 2,
+				"retired": true,
 				"tur": 5,
 				"type": "R"
 			},

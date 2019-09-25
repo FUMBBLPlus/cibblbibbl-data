@@ -21,7 +21,7 @@
 			},
 			"12598994": {
 				"blk": 6,
-				"died": [
+				"dead": [
 					2,
 					5,
 					"blocked",
@@ -33,7 +33,7 @@
 				"type": "R"
 			},
 			"12598995": {
-				"died": [
+				"dead": [
 					1,
 					5,
 					"dodgeFail",
@@ -132,6 +132,7 @@
 			"12608009": {
 				"fou": 1,
 				"name": "Hati",
+				"retired": true,
 				"tur": 3,
 				"type": "R"
 			},

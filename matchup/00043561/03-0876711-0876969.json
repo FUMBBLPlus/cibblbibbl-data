@@ -75,13 +75,14 @@
 				"fou": 1,
 				"name": "Howard Clumsystone",
 				"pas": 1,
+				"retired": true,
 				"rus": 4,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"11946383": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					2,
 					1,
 					"blocked",
@@ -89,13 +90,14 @@
 				],
 				"name": "Vincent Hideousfist",
 				"tur": 8,
-				"type": "R"
+				"type": "J"
 			},
 			"11946384": {
 				"fou": 1,
 				"name": "David Hardeagle",
+				"retired": true,
 				"tur": 1,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"876969": {
@@ -141,7 +143,7 @@
 				"type": "R"
 			},
 			"11818502": {
-				"died": [
+				"dead": [
 					2,
 					1,
 					"blocked",

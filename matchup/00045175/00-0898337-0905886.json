@@ -64,6 +64,7 @@
 				"blk": 1,
 				"name": "Sobhis",
 				"prespp": 2,
+				"retired": true,
 				"tur": 9,
 				"type": "R"
 			},
@@ -77,15 +78,16 @@
 			"12320350": {
 				"fou": 1,
 				"name": "Alexander Weakhammer",
+				"retired": true,
 				"tur": 8,
-				"type": "R"
+				"type": "J"
 			},
 			"12320351": {
 				"cas": 1,
 				"name": "Sylvester Dirtyrock",
 				"spp": 2,
 				"tur": 9,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"905886": {
@@ -167,18 +169,19 @@
 			"12325705": {
 				"fou": 1,
 				"name": "Tristan Bluebone",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12325706": {
-				"died": [
+				"dead": [
 					1,
 					0,
 					"blocked",
 					"12143074"
 				],
 				"name": "Sylvester Truefield",
-				"type": "R"
+				"type": "J"
 			},
 			"905886M1": {
 				"blk": 6,

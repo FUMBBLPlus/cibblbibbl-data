@@ -40,6 +40,7 @@
 				"fou": 3,
 				"name": "Fidget",
 				"prespp": 2,
+				"retired": true,
 				"tur": 15,
 				"type": "R"
 			},
@@ -67,7 +68,7 @@
 			},
 			"11881505": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					2,
 					5,
 					"blocked",
@@ -207,8 +208,9 @@
 				"blk": 3,
 				"fou": 1,
 				"name": "Robert Palestream",
+				"retired": true,
 				"tur": 12,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

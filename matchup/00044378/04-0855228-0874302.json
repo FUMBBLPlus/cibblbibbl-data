@@ -47,7 +47,7 @@
 			},
 			"12074916": {
 				"blk": 5,
-				"died": [
+				"dead": [
 					2,
 					1,
 					"blocked",
@@ -59,7 +59,7 @@
 				"type": "R"
 			},
 			"12126319": {
-				"died": [
+				"dead": [
 					2,
 					2,
 					"fouled",
@@ -83,20 +83,23 @@
 				"blk": 1,
 				"fou": 2,
 				"name": "Tristan Grottystream",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12158298": {
 				"blk": 2,
 				"fou": 1,
 				"name": "David Vilelightning",
+				"retired": true,
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"12158299": {
 				"name": "Ian Hideousfist",
+				"retired": true,
 				"tur": 1,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"874302": {

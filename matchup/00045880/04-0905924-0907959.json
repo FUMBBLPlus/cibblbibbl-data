@@ -31,6 +31,7 @@
 				"blk": 3,
 				"name": "Clumsy",
 				"prespp": 7,
+				"retired": true,
 				"tur": 10,
 				"type": "R"
 			},
@@ -143,7 +144,7 @@
 			},
 			"12340189": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					2,
 					8,
 					"blocked",
@@ -156,7 +157,7 @@
 			},
 			"12402099": {
 				"blk": 6,
-				"died": [
+				"dead": [
 					2,
 					6,
 					"blocked",
@@ -191,8 +192,9 @@
 			},
 			"12514179": {
 				"name": "Edward Hideouslightning",
+				"retired": true,
 				"tur": 5,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

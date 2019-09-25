@@ -36,6 +36,7 @@
 				"blk": 3,
 				"name": "Sernozem Ra",
 				"prespp": 5,
+				"retired": true,
 				"tur": 9,
 				"type": "R"
 			},
@@ -48,7 +49,7 @@
 				"type": "R"
 			},
 			"12121971": {
-				"died": [
+				"dead": [
 					2,
 					4,
 					"blocked",
@@ -156,6 +157,7 @@
 			"12143080": {
 				"name": "Amanten",
 				"prespp": 3,
+				"retired": true,
 				"tur": 5,
 				"type": "R"
 			},
@@ -185,14 +187,16 @@
 				"blk": 1,
 				"fou": 1,
 				"name": "Sylvester Palespike",
+				"retired": true,
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"12232464": {
 				"blk": 2,
 				"name": "Graham Hideoussnake",
+				"retired": true,
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

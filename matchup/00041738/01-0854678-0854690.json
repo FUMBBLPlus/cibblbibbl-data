@@ -55,7 +55,7 @@
 			},
 			"11439625": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					2,
 					2,
 					"blocked",
@@ -193,15 +193,17 @@
 			},
 			"11452027": {
 				"name": "Paul Grottystream",
+				"retired": true,
 				"tur": 10,
-				"type": "R"
+				"type": "J"
 			},
 			"11452028": {
 				"blk": 4,
 				"name": "Paul Clumsybone",
+				"retired": true,
 				"rus": -5,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

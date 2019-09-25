@@ -73,7 +73,7 @@
 			},
 			"12322147": {
 				"blk": 4,
-				"died": [
+				"dead": [
 					2,
 					4,
 					"fouled",
@@ -106,6 +106,7 @@
 				"blk": 9,
 				"name": "Skullcleaver",
 				"prespp": 2,
+				"retired": true,
 				"tur": 17,
 				"type": "R"
 			},
@@ -175,15 +176,17 @@
 				"blk": 2,
 				"fou": 1,
 				"name": "Vincent Dirtyfist",
+				"retired": true,
 				"tur": 17,
-				"type": "R"
+				"type": "J"
 			},
 			"12349856": {
 				"blk": 3,
 				"fou": 1,
 				"name": "Yorick Clumsyspike",
+				"retired": true,
 				"tur": 17,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

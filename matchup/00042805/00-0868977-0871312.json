@@ -62,7 +62,7 @@
 			},
 			"11664927": {
 				"blk": 7,
-				"died": [
+				"dead": [
 					2,
 					6,
 					"blocked",
@@ -93,8 +93,9 @@
 			"11750037": {
 				"blk": 2,
 				"name": "Jack Weakhammer",
+				"retired": true,
 				"tur": 10,
-				"type": "R"
+				"type": "J"
 			},
 			"868977M1": {
 				"blk": 3,
@@ -197,8 +198,9 @@
 			},
 			"11734616": {
 				"name": "Yorick Hardlightning",
+				"retired": true,
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

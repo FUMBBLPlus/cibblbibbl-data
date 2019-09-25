@@ -118,6 +118,7 @@
 				"blk": 4,
 				"name": "Zuznifik",
 				"prespp": 22,
+				"retired": true,
 				"tur": 4,
 				"type": "B"
 			},
@@ -146,6 +147,7 @@
 			"12103989": {
 				"name": "Grotslag",
 				"prespp": 32,
+				"retired": true,
 				"rus": 21,
 				"spp": 3,
 				"tds": 1,
@@ -162,7 +164,7 @@
 				"type": "B"
 			},
 			"12240962": {
-				"died": [
+				"dead": [
 					2,
 					4,
 					"dodgeFail",
@@ -170,18 +172,20 @@
 				],
 				"name": "Nicholas Truebrook",
 				"tur": 11,
-				"type": "R"
+				"type": "J"
 			},
 			"12240963": {
 				"name": "Ian Palehawk",
+				"retired": true,
 				"tur": 2,
-				"type": "R"
+				"type": "J"
 			},
 			"12240964": {
 				"blk": 1,
 				"name": "Albert Goldhawk",
+				"retired": true,
 				"tur": 11,
-				"type": "R"
+				"type": "J"
 			},
 			"896277M1": {
 				"blk": 8,

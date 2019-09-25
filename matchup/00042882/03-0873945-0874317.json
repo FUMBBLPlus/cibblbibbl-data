@@ -70,19 +70,20 @@
 				"blk": 3,
 				"name": "Brian Goldbrook",
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"11767823": {
 				"blk": 1,
 				"name": "Martin Truestream",
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"11767824": {
 				"blk": 4,
 				"name": "Alexander Silentbrook",
+				"retired": true,
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"874317": {
@@ -131,7 +132,7 @@
 			},
 			"11754415": {
 				"blk": 4,
-				"died": [
+				"dead": [
 					2,
 					5,
 					"blocked",

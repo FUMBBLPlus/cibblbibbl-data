@@ -80,7 +80,7 @@
 			},
 			"12074025": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					7,
 					"blocked",
@@ -88,13 +88,14 @@
 				],
 				"name": "William Dirtytree",
 				"tur": 7,
-				"type": "R"
+				"type": "J"
 			},
 			"12074026": {
 				"blk": 2,
 				"name": "Harold Cleartree",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"879790": {
@@ -165,20 +166,23 @@
 			"12071495": {
 				"blk": 2,
 				"name": "Fredrick Dirtyfield",
+				"retired": true,
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"12071496": {
 				"blk": 4,
 				"name": "David Grottyorc",
+				"retired": true,
 				"tur": 7,
-				"type": "R"
+				"type": "J"
 			},
 			"12071497": {
 				"fou": 1,
 				"name": "Sylvester Bluerock",
+				"retired": true,
 				"tur": 6,
-				"type": "R"
+				"type": "J"
 			},
 			"879790S1": {
 				"blk": 2,

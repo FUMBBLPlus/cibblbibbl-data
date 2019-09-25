@@ -50,6 +50,7 @@
 			"11933460": {
 				"name": "Spike",
 				"prespp": 1,
+				"retired": true,
 				"tur": 2,
 				"type": "R"
 			},
@@ -57,6 +58,7 @@
 				"blk": 2,
 				"name": "Patches",
 				"prespp": 7,
+				"retired": true,
 				"tur": 1,
 				"type": "R"
 			},
@@ -164,7 +166,7 @@
 			"12153113": {
 				"blk": 3,
 				"cas": 1,
-				"died": [
+				"dead": [
 					1,
 					8,
 					"fouled",

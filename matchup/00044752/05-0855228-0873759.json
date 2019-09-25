@@ -22,7 +22,7 @@
 			},
 			"11886203": {
 				"blk": 4,
-				"died": [
+				"dead": [
 					2,
 					8,
 					"fouled",
@@ -53,6 +53,7 @@
 				"blk": 2,
 				"name": "Aidan Champion",
 				"prespp": 17,
+				"retired": true,
 				"tur": 3,
 				"type": "R"
 			},
@@ -88,14 +89,16 @@
 			"12255991": {
 				"blk": 2,
 				"name": "Osmond Darkspike",
+				"retired": true,
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"12255992": {
 				"blk": 1,
 				"name": "Xavier Whitelightning",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"873759": {
@@ -146,7 +149,7 @@
 			},
 			"11819796": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					1,
 					7,
 					"fouled",
@@ -166,7 +169,7 @@
 				"type": "R"
 			},
 			"11970744": {
-				"died": [
+				"dead": [
 					1,
 					3,
 					"blocked",

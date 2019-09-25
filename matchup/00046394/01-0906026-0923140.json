@@ -30,7 +30,7 @@
 				"type": "R"
 			},
 			"12255972": {
-				"died": [
+				"dead": [
 					2,
 					3,
 					"dodgeFail",
@@ -43,7 +43,7 @@
 			},
 			"12255977": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					5,
 					"blocked",
@@ -235,6 +235,7 @@
 			"12588938": {
 				"blk": 1,
 				"name": "Phinny De Deleter",
+				"retired": true,
 				"tur": 1,
 				"type": "R"
 			}

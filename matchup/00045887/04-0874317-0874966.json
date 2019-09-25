@@ -100,7 +100,7 @@
 		"874966": {
 			"11764899": {
 				"blk": 3,
-				"died": [
+				"dead": [
 					1,
 					6,
 					"blocked",
@@ -180,6 +180,7 @@
 			"12465600": {
 				"name": "Finavar",
 				"prespp": 1,
+				"retired": true,
 				"type": "R"
 			},
 			"12509928": {
@@ -194,8 +195,9 @@
 			},
 			"12509929": {
 				"name": "Martin Dirtyeagle",
+				"retired": true,
 				"tur": 4,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

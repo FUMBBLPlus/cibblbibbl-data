@@ -76,13 +76,14 @@
 			"12528454": {
 				"blk": 1,
 				"name": "Richard Quickwing",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12528455": {
 				"blk": 1,
 				"cas": 1,
-				"died": [
+				"dead": [
 					2,
 					4,
 					"blocked",
@@ -91,12 +92,13 @@
 				"name": "Brian Darktree",
 				"spp": 2,
 				"tur": 12,
-				"type": "R"
+				"type": "J"
 			},
 			"12528456": {
 				"name": "Nicholas Quickshield",
+				"retired": true,
 				"tur": 5,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"908411": {
@@ -152,6 +154,7 @@
 			"12293169": {
 				"name": "Gobba",
 				"prespp": 18,
+				"retired": true,
 				"type": "R"
 			},
 			"12372288": {

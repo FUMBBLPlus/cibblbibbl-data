@@ -144,7 +144,7 @@
 				"type": "R"
 			},
 			"12317587": {
-				"died": [
+				"dead": [
 					2,
 					3,
 					"blocked",
@@ -157,6 +157,7 @@
 			},
 			"12317590": {
 				"name": "Vargzi the silent",
+				"retired": true,
 				"type": "R"
 			},
 			"12317593": {
@@ -196,19 +197,20 @@
 				"type": "R"
 			},
 			"12404132": {
-				"died": [
+				"dead": [
 					1,
 					1,
 					"blocked",
 					"12255960"
 				],
 				"name": "Robert Quickshield",
-				"type": "R"
+				"type": "J"
 			},
 			"12404133": {
 				"name": "William Hideousrock",
+				"retired": true,
 				"tur": 5,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

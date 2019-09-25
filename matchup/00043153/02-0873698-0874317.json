@@ -6,7 +6,7 @@
 			"11743257": {
 				"blk": 5,
 				"cas": 1,
-				"died": [
+				"dead": [
 					1,
 					8,
 					"hitByRock",
@@ -88,14 +88,16 @@
 			"11858788": {
 				"blk": 3,
 				"name": "Paul Fastshield",
+				"retired": true,
 				"tur": 14,
-				"type": "R"
+				"type": "J"
 			},
 			"11858789": {
 				"blk": 1,
 				"name": "Brian Vileeagle",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"874317": {
@@ -108,7 +110,7 @@
 			},
 			"11754395": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					2,
 					7,
 					"blocked",

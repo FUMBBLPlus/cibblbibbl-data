@@ -173,14 +173,16 @@
 			},
 			"12587036": {
 				"name": "Duane Strongsnake",
-				"type": "R"
+				"retired": true,
+				"type": "J"
 			},
 			"12587037": {
 				"name": "Richard Hotlightning",
-				"type": "R"
+				"retired": true,
+				"type": "J"
 			},
 			"12587038": {
-				"died": [
+				"dead": [
 					2,
 					4,
 					"blocked",
@@ -188,12 +190,13 @@
 				],
 				"name": "Sylvester Dirtyorc",
 				"tur": 3,
-				"type": "R"
+				"type": "J"
 			},
 			"12587039": {
 				"name": "William Fastfire",
+				"retired": true,
 				"tur": 2,
-				"type": "R"
+				"type": "J"
 			},
 			"925028M1": {
 				"blk": 4,
@@ -216,7 +219,7 @@
 			},
 			"925028S2": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					2,
 					"fouled",

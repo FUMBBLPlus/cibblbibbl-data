@@ -45,6 +45,7 @@
 				"blk": 2,
 				"name": "Brug Hom",
 				"prespp": 1,
+				"retired": true,
 				"rus": 6,
 				"tur": 14,
 				"type": "R"
@@ -147,7 +148,7 @@
 				"type": "R"
 			},
 			"12173149": {
-				"died": [
+				"dead": [
 					1,
 					6,
 					"blocked",
@@ -210,8 +211,9 @@
 			},
 			"12353279": {
 				"name": "Kevin Bluefield",
+				"retired": true,
 				"tur": 5,
-				"type": "R"
+				"type": "J"
 			},
 			"900747S1": {
 				"blk": 6,

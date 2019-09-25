@@ -108,6 +108,7 @@
 			"12597915": {
 				"blk": 1,
 				"name": "Stonefangs",
+				"retired": true,
 				"tur": 16,
 				"type": "R"
 			},
@@ -115,6 +116,7 @@
 				"blk": 1,
 				"fou": 1,
 				"name": "Slatecleaver",
+				"retired": true,
 				"tur": 8,
 				"type": "R"
 			}
@@ -169,7 +171,7 @@
 				"type": "R"
 			},
 			"12469210": {
-				"died": [
+				"dead": [
 					1,
 					2,
 					"blocked",
@@ -202,8 +204,9 @@
 			},
 			"12593385": {
 				"name": "Jack Bluewing",
+				"retired": true,
 				"tur": 4,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

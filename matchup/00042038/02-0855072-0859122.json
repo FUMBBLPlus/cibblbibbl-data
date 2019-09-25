@@ -81,6 +81,7 @@
 				"blk": 5,
 				"cas": 1,
 				"name": "King Arthur Junior",
+				"retired": true,
 				"spp": 2,
 				"tur": 13,
 				"type": "R"
@@ -88,8 +89,9 @@
 			"11577189": {
 				"blk": 1,
 				"name": "Robert Cleareagle",
+				"retired": true,
 				"tur": 3,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"859122": {
@@ -143,7 +145,7 @@
 			},
 			"11512901": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					6,
 					"blocked",

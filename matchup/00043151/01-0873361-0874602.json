@@ -54,7 +54,7 @@
 				"type": "R"
 			},
 			"11737264": {
-				"died": [
+				"dead": [
 					1,
 					3,
 					"blocked",
@@ -90,17 +90,19 @@
 			"11834981": {
 				"blk": 6,
 				"name": "George Weakfield",
+				"retired": true,
 				"tur": 14,
-				"type": "R"
+				"type": "J"
 			},
 			"11834982": {
 				"blk": 2,
 				"cas": 1,
 				"fou": 4,
 				"name": "Harold Darkeagle",
+				"retired": true,
 				"spp": 2,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"874602": {
@@ -161,7 +163,7 @@
 			},
 			"11759488": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					8,
 					"blocked",

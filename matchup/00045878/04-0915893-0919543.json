@@ -39,6 +39,7 @@
 			"12411002": {
 				"name": "Summercharge",
 				"prespp": 2,
+				"retired": true,
 				"type": "R"
 			},
 			"12411003": {
@@ -77,7 +78,7 @@
 			},
 			"12500156": {
 				"blk": 8,
-				"died": [
+				"dead": [
 					2,
 					8,
 					"blocked",
@@ -85,23 +86,25 @@
 				],
 				"name": "Martin Whitebone",
 				"tur": 15,
-				"type": "R"
+				"type": "J"
 			},
 			"12500157": {
 				"blk": 2,
 				"name": "Evander Strongshield",
+				"retired": true,
 				"rus": 7,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12500158": {
 				"blk": 1,
 				"cps": 1,
 				"name": "Albert Hothammer",
+				"retired": true,
 				"rus": 4,
 				"spp": 1,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"919543": {

@@ -57,7 +57,7 @@
 			},
 			"11874602": {
 				"blk": 4,
-				"died": [
+				"dead": [
 					1,
 					7,
 					"gfiFail",
@@ -77,6 +77,7 @@
 				"blk": 1,
 				"cas": 1,
 				"name": "Gobsci",
+				"retired": true,
 				"spp": 2,
 				"tur": 3,
 				"type": "R"

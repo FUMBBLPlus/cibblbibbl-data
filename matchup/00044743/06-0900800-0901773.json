@@ -34,7 +34,7 @@
 			},
 			"12173753": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					1,
 					5,
 					"blocked",
@@ -83,7 +83,8 @@
 			},
 			"12286794": {
 				"name": "Jack Deeplightning",
-				"type": "R"
+				"retired": true,
+				"type": "J"
 			}
 		},
 		"901773": {
@@ -163,14 +164,16 @@
 			"12264963": {
 				"blk": 2,
 				"name": "Sylvester Hardrock",
+				"retired": true,
 				"tur": 8,
-				"type": "R"
+				"type": "J"
 			},
 			"12264964": {
 				"blk": 4,
 				"name": "Duane Truesnake",
+				"retired": true,
 				"tur": 17,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

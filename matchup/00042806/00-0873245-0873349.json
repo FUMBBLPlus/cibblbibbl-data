@@ -20,7 +20,7 @@
 			},
 			"11736871": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					1,
 					5,
 					"blocked",
@@ -65,7 +65,7 @@
 				"type": "R"
 			},
 			"11736877": {
-				"died": [
+				"dead": [
 					2,
 					2,
 					"blocked",
@@ -79,6 +79,7 @@
 			"11736880": {
 				"blk": 1,
 				"name": "Tortankormen",
+				"retired": true,
 				"tur": 5,
 				"type": "R"
 			},

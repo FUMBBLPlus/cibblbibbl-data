@@ -105,7 +105,7 @@
 				"type": "R"
 			},
 			"12555076": {
-				"died": [
+				"dead": [
 					2,
 					7,
 					"blocked",
@@ -201,12 +201,14 @@
 			"12522201": {
 				"blk": 2,
 				"name": "Albert Truewing",
+				"retired": true,
 				"tur": 10,
-				"type": "R"
+				"type": "J"
 			},
 			"12522202": {
 				"name": "Zachary Silentbrook",
-				"type": "R"
+				"retired": true,
+				"type": "J"
 			}
 		}
 	},

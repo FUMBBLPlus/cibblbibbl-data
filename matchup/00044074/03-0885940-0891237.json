@@ -41,7 +41,7 @@
 			"11936947": {
 				"blk": 3,
 				"cas": 1,
-				"died": [
+				"dead": [
 					2,
 					7,
 					"blocked",
@@ -71,7 +71,7 @@
 			},
 			"11936955": {
 				"blk": 4,
-				"died": [
+				"dead": [
 					2,
 					1,
 					"blocked",
@@ -98,8 +98,9 @@
 			"12052336": {
 				"blk": 1,
 				"name": "Nicholas Clearlightning",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"891237": {
@@ -186,8 +187,9 @@
 			"12078020": {
 				"blk": 2,
 				"name": "Jack Whitelightning",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

@@ -68,7 +68,7 @@
 			},
 			"12194197": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					5,
 					"blocked",
@@ -208,6 +208,7 @@
 				"blk": 1,
 				"name": "Frimunt",
 				"prespp": 2,
+				"retired": true,
 				"tur": 2,
 				"type": "R"
 			},
@@ -221,6 +222,7 @@
 			"12319539": {
 				"name": "Max von Mord",
 				"prespp": 2,
+				"retired": true,
 				"tur": 4,
 				"type": "R"
 			}

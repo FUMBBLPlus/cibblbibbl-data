@@ -26,6 +26,7 @@
 			"11446522": {
 				"name": "Nicola Valeri",
 				"prespp": 5,
+				"retired": true,
 				"type": "R"
 			},
 			"11494637": {
@@ -57,7 +58,7 @@
 			"11618130": {
 				"blk": 4,
 				"cas": 1,
-				"died": [
+				"dead": [
 					2,
 					4,
 					"dodgeFail",
@@ -190,15 +191,17 @@
 			"11858037": {
 				"fou": 1,
 				"name": "Brian Vilehawk",
+				"retired": true,
 				"tur": 2,
-				"type": "R"
+				"type": "J"
 			},
 			"11858038": {
 				"blk": 3,
 				"fou": 3,
 				"name": "Howard Cleartree",
+				"retired": true,
 				"tur": 13,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

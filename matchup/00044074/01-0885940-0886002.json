@@ -62,7 +62,7 @@
 			},
 			"11936954": {
 				"blk": 4,
-				"died": [
+				"dead": [
 					2,
 					1,
 					"blocked",
@@ -94,14 +94,16 @@
 			"12036206": {
 				"fou": 1,
 				"name": "Leroy Vilewing",
+				"retired": true,
 				"tur": 3,
-				"type": "R"
+				"type": "J"
 			},
 			"12036207": {
 				"blk": 4,
 				"name": "Aaron Whitestone",
+				"retired": true,
 				"tur": 14,
-				"type": "R"
+				"type": "J"
 			},
 			"885940S1": {
 				"blk": 5,
@@ -194,6 +196,7 @@
 				"blk": 3,
 				"name": "Shorna Coldeyes",
 				"prespp": 13,
+				"retired": true,
 				"tur": 5,
 				"type": "R"
 			},

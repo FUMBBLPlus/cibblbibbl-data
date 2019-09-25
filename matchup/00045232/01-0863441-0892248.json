@@ -17,7 +17,7 @@
 			},
 			"11582134": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					2,
 					6,
 					"fouled",
@@ -32,6 +32,7 @@
 				"name": "Norlir",
 				"pas": -1,
 				"prespp": 44,
+				"retired": true,
 				"rus": 4,
 				"tur": 6,
 				"type": "R"
@@ -49,6 +50,7 @@
 			"11582137": {
 				"name": "Linfarnrir",
 				"prespp": 32,
+				"retired": true,
 				"tur": 3,
 				"type": "R"
 			},
@@ -104,7 +106,7 @@
 			},
 			"12345066": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					2,
 					4,
 					"blocked",

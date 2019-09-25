@@ -61,7 +61,7 @@
 			"12322144": {
 				"blk": 3,
 				"cas": 1,
-				"died": [
+				"dead": [
 					1,
 					5,
 					"fouled",
@@ -91,8 +91,9 @@
 			"12414492": {
 				"blk": 1,
 				"name": "Vincent Hardbrook",
+				"retired": true,
 				"tur": 6,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"906026": {
@@ -169,6 +170,7 @@
 			"12255984": {
 				"blk": 1,
 				"name": "Gile Rutsgear",
+				"retired": true,
 				"rus": 7,
 				"spp": 3,
 				"tds": 1,

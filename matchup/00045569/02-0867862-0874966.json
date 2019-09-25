@@ -98,7 +98,7 @@
 			},
 			"12331857": {
 				"blk": 1,
-				"died": [
+				"dead": [
 					1,
 					7,
 					"blocked",
@@ -207,13 +207,15 @@
 			"12409143": {
 				"blk": 1,
 				"name": "Yorick Fasthawk",
+				"retired": true,
 				"tur": 5,
-				"type": "R"
+				"type": "J"
 			},
 			"12409144": {
 				"name": "Robert Vilestone",
+				"retired": true,
 				"tur": 2,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

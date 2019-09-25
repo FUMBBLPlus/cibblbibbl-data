@@ -80,12 +80,13 @@
 			"12597190": {
 				"blk": 2,
 				"name": "Brian Silentwing",
+				"retired": true,
 				"tur": 2,
-				"type": "R"
+				"type": "J"
 			},
 			"12597191": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					2,
 					5,
 					"blocked",
@@ -93,13 +94,14 @@
 				],
 				"name": "Evander Weakwing",
 				"tur": 13,
-				"type": "R"
+				"type": "J"
 			},
 			"12597192": {
 				"blk": 2,
 				"name": "Sylvester Vilefist",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		},
 		"922971": {
@@ -135,7 +137,7 @@
 				"type": "R"
 			},
 			"12520686": {
-				"died": [
+				"dead": [
 					1,
 					6,
 					"blocked",

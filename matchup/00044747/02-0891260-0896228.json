@@ -94,13 +94,15 @@
 			},
 			"12219940": {
 				"name": "Edward Hardspike",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			},
 			"12219941": {
 				"name": "Sylvester Grottystream",
+				"retired": true,
 				"tur": 1,
-				"type": "R"
+				"type": "J"
 			},
 			"891260M1": {
 				"blk": 2,
@@ -156,7 +158,7 @@
 				"type": "R"
 			},
 			"12103188": {
-				"died": [
+				"dead": [
 					1,
 					3,
 					"dodgeFail",
@@ -214,7 +216,7 @@
 			},
 			"12225653": {
 				"blk": 2,
-				"died": [
+				"dead": [
 					1,
 					6,
 					"blocked",
@@ -222,7 +224,7 @@
 				],
 				"name": "Alexander Quicktree",
 				"tur": 6,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

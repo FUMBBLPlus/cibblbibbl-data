@@ -91,13 +91,15 @@
 			},
 			"12615401": {
 				"name": "Trey Bluewing",
-				"type": "R"
+				"retired": true,
+				"type": "J"
 			}
 		},
 		"922672": {
 			"12515845": {
 				"name": "Grishnak",
 				"prespp": 8,
+				"retired": true,
 				"tur": 8,
 				"type": "R"
 			},
@@ -118,7 +120,7 @@
 			},
 			"12515849": {
 				"blk": 7,
-				"died": [
+				"dead": [
 					2,
 					7,
 					"blocked",
@@ -176,8 +178,9 @@
 			"12612982": {
 				"blk": 1,
 				"name": "Edward Palestream",
+				"retired": true,
 				"tur": 16,
-				"type": "R"
+				"type": "J"
 			}
 		}
 	},

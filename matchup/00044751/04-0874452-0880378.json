@@ -91,6 +91,7 @@
 			"12217734": {
 				"blk": 2,
 				"name": "Valdemar",
+				"retired": true,
 				"tur": 14,
 				"type": "R"
 			},
@@ -170,7 +171,7 @@
 			"11943988": {
 				"blk": 2,
 				"cas": 1,
-				"died": [
+				"dead": [
 					1,
 					7,
 					"blocked",
@@ -208,11 +209,12 @@
 			},
 			"12188143": {
 				"name": "Erbil Bogiesucker",
+				"retired": true,
 				"tur": 2,
 				"type": "R"
 			},
 			"12220462": {
-				"died": [
+				"dead": [
 					2,
 					7,
 					"blocked",
