@@ -1,0 +1,69 @@
+					"modelChangeArray": [
+						{
+							"modelChangeId": "fieldModelSetPlayerState",
+							"modelChangeKey": "11759479",
+							"modelChangeValue": 8
+						},
+						{
+							"modelChangeId": "fieldModelRemovePlayer",
+							"modelChangeKey": "11759479",
+							"modelChangeValue": [
+								13,
+								5
+							]
+						},
+						{
+							"modelChangeId": "fieldModelSetPlayerCoordinate",
+							"modelChangeKey": "11759479",
+							"modelChangeValue": [
+								34,
+								0
+							]
+						},
+						{
+							"modelChangeId": "playerResultSetSeriousInjury",
+							"modelChangeKey": "11759479",
+							"modelChangeValue": "Dead (RIP)"
+						},
+						{
+							"modelChangeId": "playerResultSetSendToBoxReason",
+							"modelChangeKey": "11759479",
+							"modelChangeValue": "blocked"
+						},
+						{
+							"modelChangeId": "playerResultSetSendToBoxTurn",
+							"modelChangeKey": "11759479",
+							"modelChangeValue": 1
+						},
+						{
+							"modelChangeId": "playerResultSetSendToBoxHalf",
+							"modelChangeKey": "11759479",
+							"modelChangeValue": 1
+						},
+						{
+							"modelChangeId": "playerResultSetSendToBoxByPlayerId",
+							"modelChangeKey": "11759479",
+							"modelChangeValue": "11667457"
+						},
+						{
+							"modelChangeId": "teamResultSetRipSuffered",
+							"modelChangeKey": "away",
+							"modelChangeValue": 1
+						},
+						{
+							"modelChangeId": "playerResultSetCasualties",
+							"modelChangeKey": "11667457",
+							"modelChangeValue": 1
+						},
+						{
+							"modelChangeId": "fieldModelAddBloodSpot",
+							"modelChangeKey": null,
+							"modelChangeValue": {
+								"coordinate": [
+									13,
+									5
+								],
+								"injury": 8
+							}
+						}
+					]

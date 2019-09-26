@@ -1,0 +1,154 @@
+Missing killers handling:
+
+GENERAL SEARCH:
+================================================================
+Open the replay file and search for this
+(replace "modelChangeKey" which is the playerId):
+
+{
+	"modelChangeId": "playerResultSetSeriousInjury",
+	"modelChangeKey": "12239696",
+	"modelChangeValue": "Dead (RIP)"
+},
+
+For editors without sophisticated search features, just search for
+
+"modelChangeValue": "Dead (RIP)"
+
+until the proper one is found.
+
+If unsure, watch the replay!
+
+
+
+"ballAndChain"
+================================================================
+Best to watch the replay. The Half and turn value helps to get
+fast to the kill. You might need to change reason to "bomb"
+(if killed by a bomb like in match 4070538 H1T3) or something
+else.
+
+
+
+"bomb"
+================================================================
+Do a GENERAL SEARCH, then scroll up until you something like this:
+
+{
+	"modelChangeId": "actingPlayerSetPlayerId",
+	"modelChangeKey": null,
+	"modelChangeValue": "12255963"
+},
+{
+	"modelChangeId": "fieldModelSetPlayerState",
+	"modelChangeKey": "12255963",
+	"modelChangeValue": 258
+},
+{
+	"modelChangeId": "actingPlayerSetPlayerAction",
+	"modelChangeKey": null,
+	"modelChangeValue": "throwBomb"
+}
+
+Here "12255963" is the killer Id. We record selfkills too.
+
+Note that this is not confirmed for situations with interceptions
+so do not use it without checking the data around. 
+
+
+
+"chainsaw"
+================================================================
+This is mostly to ensure it was a selfkill.
+Do a GENERAL SEARCH, then scroll up until you something like this:
+{
+	"minimumRoll": 2,
+	"playerId": "926596S1",
+	"reRolled": false,
+	"reportId": "chainsawRoll",
+	"roll": 1,
+	"successful": false
+}
+It should be not far from the GENERAL SEARCH match. Examine the
+data in between, it might had been rerolled, and Loner failed
+but nothing else should be there.
+
+Still we record self kills, so "playerId" is the killer Id.
+
+
+"crowdPushed"
+================================================================
+Do a GENERAL SEARCH, then scroll up until you something like this:
+
+{
+	"modelChangeId": "playerResultSetBlocks",
+	"modelChangeKey": "12139597",
+	"modelChangeValue": 7
+}
+
+The "modelChangeKey" value is the killer's Id if the crowdpush 
+was done by block/blitz. 
+
+If crowdpush was done by Ball & Chain (eg. Match 4050327 H1T5),
+then there should be scatterplayer records above, and this:
+
+{
+	"actingPlayerId": "12230477",
+	"playerAction": "move",
+	"reportId": "playerAction"
+}
+
+
+
+"eaten"
+================================================================
+Do a GENERAL SEARCH, then scroll up until you something like this:
+
+{
+	"minimumRoll": 2,
+	"playerId": "12173110",
+	"reRolled": false,
+	"reportId": "alwaysHungryRoll",
+	"roll": 1,
+	"successful": false
+}
+
+The "playerId" value is the killer's Id.
+
+
+
+"secretWeaponBan"
+================================================================
+Do a GENERAL SEARCH, then replace the reason, half and turn
+values from the records around (these are the first 3 values
+of the mathup dead record):
+
+{
+	"modelChangeId": "playerResultSetSendToBoxReason",
+	"modelChangeKey": "926596S1",
+	"modelChangeValue": "chainsaw"
+},
+{
+	"modelChangeId": "playerResultSetSendToBoxTurn",
+	"modelChangeKey": "926596S1",
+	"modelChangeValue": 3
+},
+{
+	"modelChangeId": "playerResultSetSendToBoxHalf",
+	"modelChangeKey": "926596S1",
+	"modelChangeValue": 1
+}
+
+First, check if there is a record with the killer too
+like this:
+
+{
+	"modelChangeId": "playerResultSetSendToBoxByPlayerId",
+	"modelChangeKey": "926596S1",
+	"modelChangeValue": "12268727"
+},
+
+Here, "12268727" is the killer Id.
+
+If there is none or its value is none then follow the method
+of the reason.
