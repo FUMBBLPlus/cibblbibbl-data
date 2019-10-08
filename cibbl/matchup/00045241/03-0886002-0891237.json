@@ -1,50 +1,49 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4002206",
-	"player_performance": {
+	"player": {
 		"886002": {
 			"11938003": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Caphalor Darkstar",
 				"prespp": 37,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11938007": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"name": "Sinthoras Bloodflame",
 				"prespp": 78,
 				"spp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11938008": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Molostroi Demonheart",
 				"prespp": 33,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938010": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Malaguth Blackmoon",
 				"prespp": 56,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938039": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Cargavel Stormcrow",
-				"pas": 5,
+				"pass": 5,
 				"prespp": 71,
-				"rus": 8,
+				"rush": 8,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938051": {
@@ -53,24 +52,24 @@
 				"type": "R"
 			},
 			"11938060": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Telok Beastslayer",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 19,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12125346": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Raheel Swiftdeath",
 				"prespp": 38,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12154913": {
@@ -78,82 +77,82 @@
 				"name": "Micath Ghosthunter",
 				"prespp": 20,
 				"spp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12188144": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Sheila Coldeyes",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254187": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gilgash Doomblade",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12280055": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Damien Scarface",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12335501": {
 				"name": "Shorna Nightraider",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"891237": {
 			"12022003": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Barrow Gorthadon",
 				"prespp": 20,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12022005": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Swan Alphon",
 				"prespp": 26,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12022006": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Heni Hethurin",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 43,
-				"rus": 9,
+				"rush": 9,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022007": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Yoke Ianuon",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12022008": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Tety Goweston",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022010": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dew Midhon",
 				"prespp": 19,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12022014": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					1,
 					4,
@@ -162,83 +161,102 @@
 				],
 				"name": "Meretment Estoladon",
 				"prespp": 18,
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"12022022": {
-				"blk": 6,
-				"cps": 1,
+				"blocks": 6,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Mirilan Antegobon",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 28,
-				"rus": 3,
+				"rush": 3,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12104982": {
-				"blk": 9,
-				"fou": 1,
+				"blocks": 9,
+				"fouls": 1,
 				"name": "Meret Scuffedon",
 				"prespp": 35,
-				"rus": 2,
-				"tur": 11,
+				"rush": 2,
+				"turns": 11,
 				"type": "R"
 			},
 			"12162547": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Foni Piemondon",
 				"prespp": 20,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12219903": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Rebo Rebelodon",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12229237": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Coron Shottelodon",
 				"prespp": 14,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1084423",
-	"team_performance": {
+	"team": {
 		"886002": {
+			"blocks": 46,
 			"cas": 3,
-			"casdiff": 2,
+			"casdiff": 3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom Glade Demons",
-			"prestige": 3,
+			"pass": 6,
+			"prespp": 384,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 24,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 160
 		},
 		"891237": {
-			"cas": 1,
-			"casdiff": -2,
+			"blocks": 44,
+			"cas": 0,
+			"casdiff": -3,
+			"comp": 2,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
 			"name": "Dukes of Earthquake Valley",
+			"pass": 7,
+			"prespp": 247,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 27,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 145
 		}
 	}
 }

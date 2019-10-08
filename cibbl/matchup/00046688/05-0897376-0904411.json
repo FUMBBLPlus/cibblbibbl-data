@@ -1,38 +1,37 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4069863",
-	"player_performance": {
+	"player": {
 		"897376": {
 			"12122272": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Dark Shade",
 				"prespp": 60,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122273": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Deep Root",
 				"prespp": 38,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122274": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Long Branch",
 				"prespp": 35,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122276": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "White Leaf",
 				"prespp": 37,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12122280": {
@@ -41,34 +40,34 @@
 				"type": "R"
 			},
 			"12168335": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gray Timber",
 				"prespp": 39,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12171988": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Nut",
 				"prespp": 21,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12497695": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ivy",
 				"prespp": 15,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12501405": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Fruit",
 				"prespp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12515971": {
@@ -77,9 +76,9 @@
 				"type": "R"
 			},
 			"12529934": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fungus",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12529938": {
@@ -87,14 +86,14 @@
 				"name": "Slip Stream",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12559341": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Hollow",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12580870": {
@@ -102,27 +101,27 @@
 				"type": "R"
 			},
 			"12710019": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Crooked Creek",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"904411": {
 			"12231968": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "\"Smiles\" Arwyn",
 				"prespp": 52,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12231970": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Madoc Gallows-Grin",
 				"prespp": 32,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12231971": {
@@ -131,110 +130,128 @@
 				"type": "R"
 			},
 			"12231974": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Prydwen ap Blaidd",
 				"prespp": 49,
-				"rus": 2,
-				"tur": 13,
+				"rush": 2,
+				"turns": 13,
 				"type": "R"
 			},
 			"12231978": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Llewelyn Grey-Eyes",
 				"prespp": 34,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12231981": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Meredith",
 				"prespp": 9,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12259937": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Graham the Brave",
 				"prespp": 40,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12261545": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Morcanth the Melancholy",
 				"prespp": 40,
-				"rus": 9,
-				"tur": 9,
+				"rush": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12438765": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Caerwyn",
 				"prespp": 8,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12438788": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Glynn",
 				"prespp": 14,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12522725": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Evan the Heartbreaker",
 				"prespp": 28,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12587195": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Aeron",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12610016": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "\"Black Dog\" Bleddyn",
 				"prespp": 11,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12663114": {
 				"name": "Dylan",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1161444",
-	"team_performance": {
+	"team": {
 		"897376": {
+			"blocks": 52,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Darkenwood Sentinels",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 284,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 28,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 170
 		},
 		"904411": {
+			"blocks": 58,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ynys Morion Mabsantwyr",
+			"pass": 0,
+			"prespp": 375,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 11,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 168
 		}
 	}
 }

@@ -1,195 +1,212 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3958987",
-	"player_performance": {
+	"player": {
 		"895806": {
 			"12096366": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Lord Stritzak Nightmaul",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12096367": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Lord Chrikch Fierymaul",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12096369": {
-				"blk": 7,
-				"cps": 1,
+				"blocks": 7,
+				"comp": 1,
 				"mvp": 1,
 				"name": "High Priest Zrach Roughfang",
-				"pas": 1,
-				"rus": 6,
+				"pass": 1,
+				"rush": 6,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12096370": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "High Priest Icquelk Heartclaw",
-				"rus": 6,
+				"rush": 6,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12096371": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Threekch Amberchest",
 				"prespp": 10,
-				"rus": 20,
+				"rush": 20,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12096372": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sniskrul Lowmaw",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12096373": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Skruthruach Steelfury",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12096374": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Qhrotch Barbedfinger",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12096375": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Vonkalk Ashborn",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12096376": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Critch Rapidfang",
 				"type": "R"
 			},
 			"12096377": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chruch Grimlasher",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"895929": {
 			"12098249": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Fangsnapper",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12098256": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Windfury",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098257": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Clawchest",
 				"prespp": 5,
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12098258": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Silverscar",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Silverstriker",
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12098287": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Amberfinger",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12098289": {
 				"name": "Crowripper",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098290": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Heartchewer",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12098291": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ironspine",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098294": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Blackchewer",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12098296": {
 				"name": "Cragclaw",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12098297": {
 				"name": "Duskdigger",
-				"rus": -3,
-				"tur": 13,
+				"rush": -3,
+				"turns": 13,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1033278",
-	"team_performance": {
+	"team": {
 		"895806": {
+			"blocks": 58,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Black Chasm Overlords",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 14,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 32,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 152
 		},
 		"895929": {
+			"blocks": 26,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
+			"pass": 0,
+			"prespp": 7,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 133
 		}
 	}
 }

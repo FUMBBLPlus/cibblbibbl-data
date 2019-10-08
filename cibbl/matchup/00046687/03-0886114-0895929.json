@@ -1,17 +1,16 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4067823",
-	"player_performance": {
+	"player": {
 		"886114": {
 			"11939696": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Erato",
 				"prespp": 74,
-				"rus": 5,
+				"rush": 5,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11939705": {
@@ -20,36 +19,36 @@
 				"type": "R"
 			},
 			"11939715": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Aadhýa",
 				"prespp": 68,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11956884": {
 				"name": "Elpida",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 79,
-				"rus": 5,
-				"tur": 7,
+				"rush": 5,
+				"turns": 7,
 				"type": "R"
 			},
 			"12340801": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Ian Bluesnake",
 				"prespp": 56,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12441430": {
 				"name": "Kalipso",
 				"prespp": 41,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12441504": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					3,
@@ -58,24 +57,25 @@
 				],
 				"name": "Circe",
 				"prespp": 8,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"12510464": {
 				"name": "Alariella",
 				"prespp": 31,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12592844": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Andromeda",
 				"prespp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12613772": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					5,
@@ -84,93 +84,94 @@
 				],
 				"name": "Melelia",
 				"prespp": 6,
-				"tur": 12,
+				"retired": true,
+				"turns": 12,
 				"type": "R"
 			},
 			"12667721": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Nyx",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12692981": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Enyo",
-				"pas": 1,
-				"rus": 3,
+				"pass": 1,
+				"rush": 3,
 				"spp": 3,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12703294": {
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Hera",
-				"pas": -3,
-				"rus": 4,
+				"pass": -3,
+				"rush": 4,
 				"spp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"895929": {
 			"12098257": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Clawchest",
 				"prespp": 93,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098258": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Silverscar",
 				"prespp": 54,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Silverstriker",
 				"prespp": 34,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098297": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Duskdigger",
 				"prespp": 102,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12136367": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Fangsnapper Jr",
 				"prespp": 60,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12166472": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Fangsnapper Jr Jr",
 				"prespp": 44,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12265899": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					6,
@@ -179,31 +180,32 @@
 				],
 				"name": "Dustbinder",
 				"prespp": 9,
-				"tur": 14,
+				"retired": true,
+				"turns": 14,
 				"type": "R"
 			},
 			"12345051": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Crowripper",
 				"prespp": 9,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12345108": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Windfury Jr",
 				"prespp": 27,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12496226": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Crowchest",
 				"prespp": 9,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12496241": {
@@ -215,39 +217,57 @@
 				"type": "R"
 			},
 			"12576908": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Fieryblight",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1159146",
-	"team_performance": {
+	"team": {
 		"886114": {
-			"cas": 3,
-			"casdiff": 1,
+			"blocks": 39,
+			"cas": 2,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eye and Arrow",
+			"pass": 1,
+			"prespp": 471,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 18,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 144
 		},
 		"895929": {
+			"blocks": 45,
 			"cas": 2,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 457,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 28,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 166
 		}
 	}
 }

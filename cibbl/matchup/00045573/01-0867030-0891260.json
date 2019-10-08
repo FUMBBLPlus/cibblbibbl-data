@@ -1,120 +1,119 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4011905",
-	"player_performance": {
+	"player": {
 		"867030": {
 			"11633486": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sokitoomi",
 				"prespp": 52,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11633494": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Grymlog",
 				"prespp": 41,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11633500": {
 				"name": "Quaxili",
 				"prespp": 23,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11633506": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Xlanaxlot",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 11,
-				"rus": 8,
-				"tur": 11,
+				"rush": 8,
+				"turns": 11,
 				"type": "R"
 			},
 			"11633509": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zwup",
 				"prespp": 10,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11929270": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dro'ka'khanxlot",
 				"prespp": 65,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11938976": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ximnizec",
 				"prespp": 16,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12048616": {
 				"name": "Chuqbolt",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12087622": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Xili-Sotek",
 				"type": "R"
 			},
 			"12087623": {
 				"name": "Xla-Tepok",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12228718": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Gor-Rok",
 				"prespp": 25,
-				"tur": 14,
+				"turns": 14,
 				"type": "B"
 			},
 			"12282449": {
 				"mvp": 1,
 				"name": "Huaataxah",
-				"rus": 12,
+				"rush": 12,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12319311": {
 				"name": "Oxyotl",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			}
 		},
 		"891260": {
 			"12023006": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Varman",
 				"prespp": 29,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12023007": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Surya",
 				"prespp": 37,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12023008": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tambra",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12023010": {
@@ -123,67 +122,67 @@
 				"type": "R"
 			},
 			"12023011": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Kompong",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12023012": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Harsha",
 				"prespp": 23,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12023013": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Vapada",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12023014": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Dangrek",
 				"prespp": 16,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12023015": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Nokor",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173023": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Watang",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 33,
-				"rus": 12,
+				"rush": 12,
 				"spp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12254200": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Imjee",
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"12329406": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					0,
@@ -192,42 +191,61 @@
 				],
 				"name": "Lingra",
 				"prespp": 3,
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
-			"891260S1": {
-				"blk": 5,
+			"STAR-7587": {
+				"blocks": 5,
 				"name": "King Boombastic",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1095499",
-	"team_performance": {
+	"team": {
 		"867030": {
+			"blocks": 23,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sport Spawning Zlatlan",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 251,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 37,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 157
 		},
 		"891260": {
+			"blocks": 35,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Library of Indra",
+			"pass": 3,
+			"prespp": 205,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 24,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 169
 		}
 	}
 }

@@ -1,100 +1,97 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4027397",
-	"player_performance": {
+	"player": {
 		"855120": {
 			"11596541": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Innocenzo Mastrogiacomo",
 				"prespp": 48,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11596545": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Cassiopea Canova",
 				"prespp": 7,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11921959": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Valfredo Merlino",
 				"prespp": 18,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12025723": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Arnbjörn the Hound",
 				"prespp": 78,
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12244086": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Brathig Bitterchin",
 				"prespp": 10,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12261692": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Khirathe",
 				"prespp": 51,
-				"rus": 16,
-				"tur": 16,
+				"rush": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12329903": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Otto Semmelrogge",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12329904": {
 				"name": "Elia Barrasso",
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12329906": {
 				"name": "Melania Cusano",
 				"prespp": 1,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12329908": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Danilo Parlato",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12339805": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"fou": 4,
+				"fouls": 4,
 				"name": "Bartolo Massara",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12346201": {
 				"name": "Tabaldin",
 				"prespp": 31,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12415058": {
 				"name": "Gloria De Rose",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12449939": {
@@ -102,101 +99,101 @@
 				"prespp": 5,
 				"type": "R"
 			},
-			"855120S1": {
-				"blk": 2,
+			"STAR-7535": {
+				"blocks": 2,
 				"name": "Boomer Eziasson",
-				"tur": 8,
+				"turns": 8,
 				"type": "S"
 			},
-			"855120S2": {
-				"blk": 8,
+			"STAR-7660": {
+				"blocks": 8,
 				"name": "Borg'th N'throg",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		},
 		"879131": {
 			"11828950": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Calico Jack",
 				"prespp": 102,
-				"rus": 5,
+				"rush": 5,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828951": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Morag",
 				"prespp": 35,
-				"tur": 13,
+				"turns": 13,
 				"type": "B"
 			},
 			"11828952": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Greta",
 				"prespp": 31,
-				"tur": 6,
+				"turns": 6,
 				"type": "B"
 			},
 			"11828954": {
 				"name": "Ibhib Nightbreaker",
 				"prespp": 118,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11828955": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Dog Rough Drimond",
 				"prespp": 49,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828956": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Grog Swiller Finn",
 				"prespp": 54,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11956118": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Voodoo Jones",
 				"prespp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12155340": {
 				"name": "Seabiscuit Maguire",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12261823": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Scabby Flaherty",
 				"prespp": 6,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12343072": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Ol' Roy Schneider",
 				"prespp": 6,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12355104": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Larry O'Malley",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12426661": {
@@ -204,12 +201,12 @@
 				"name": "Mutiny Bryce",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12426662": {
 				"name": "Wyndham o'Vossler",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12493746": {
@@ -217,44 +214,62 @@
 				"type": "R"
 			},
 			"12493747": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chains Mullaney",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12493774": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Glug Thomson",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1112882",
-	"team_performance": {
+	"team": {
 		"855120": {
-			"cas": 3,
+			"blocks": 38,
+			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
+			"pass": 0,
+			"prespp": 257,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 142
 		},
 		"879131": {
-			"cas": 4,
+			"blocks": 37,
+			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sartosa Black Flags",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 411,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 151
 		}
 	}
 }

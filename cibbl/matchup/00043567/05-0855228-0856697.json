@@ -1,17 +1,16 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3935161",
-	"player_performance": {
+	"player": {
 		"855228": {
 			"11448229": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jessie Graff",
 				"prespp": 62,
-				"rus": 25,
+				"rush": 25,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11448253": {
@@ -20,88 +19,74 @@
 				"type": "R"
 			},
 			"11494706": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jack Caldiero",
 				"prespp": 32,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11801400": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Lei Zhang",
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11869550": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Daniel Gil",
 				"prespp": 20,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11886203": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Josh Levin",
 				"prespp": 12,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11941954": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "David Whitelightning",
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			},
 			"11941955": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Martin Fastfield",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
 			"11941956": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Albert Coldshield",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
 			"11941957": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Graham Stronghammer",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
 			"11941958": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Harold Goldbrook",
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			},
 			"11941959": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nicholas Darkrock",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			},
-			"855228S1": {
-				"blk": 7,
-				"cas": 1,
-				"name": "Mighty Zug",
-				"spp": 2,
-				"tur": 6,
-				"type": "S"
-			},
-			"855228S2": {
-				"blk": 2,
+			"STAR-7546": {
+				"blocks": 2,
 				"dead": [
 					2,
 					3,
@@ -109,88 +94,96 @@
 					null
 				],
 				"name": "Griff Oberwald",
-				"rus": 1,
-				"tur": 8,
+				"rush": 1,
+				"turns": 8,
+				"type": "S"
+			},
+			"STAR-7565": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Mighty Zug",
+				"spp": 2,
+				"turns": 6,
 				"type": "S"
 			}
 		},
 		"856697": {
 			"11472246": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Skulltaker",
 				"prespp": 25,
 				"spp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11472247": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Urifdaemonkin",
 				"prespp": 42,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472250": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Arkh'gar",
 				"prespp": 43,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11472254": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Tallomin",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472255": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Arvax the Mad",
 				"prespp": 39,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472256": {
 				"name": "Scyrak",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 10,
-				"rus": 6,
-				"tur": 4,
+				"rush": 6,
+				"turns": 4,
 				"type": "R"
 			},
 			"11472262": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Headsman of Cellebos",
 				"prespp": 23,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472270": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Drakkar",
 				"prespp": 39,
-				"rus": 27,
+				"rush": 27,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11658789": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "H'Stan",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11720018": {
@@ -198,61 +191,79 @@
 				"type": "R"
 			},
 			"11730736": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Doomsday The Everliving",
 				"prespp": 32,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11809828": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Apocolypse",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11905351": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Stiltskin",
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11971992": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Grinner",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1005852",
-	"team_performance": {
+	"team": {
 		"855228": {
+			"blocks": 31,
 			"cas": 1,
-			"casdiff": -4,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ninja Warriors",
+			"pass": 0,
+			"prespp": 138,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 26,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 127
 		},
 		"856697": {
-			"cas": 5,
-			"casdiff": 4,
+			"blocks": 53,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crimson Skull",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 279,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 44,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 167
 		}
 	}
 }

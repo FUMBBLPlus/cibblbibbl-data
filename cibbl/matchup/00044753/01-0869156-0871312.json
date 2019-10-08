@@ -1,81 +1,80 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3977459",
-	"player_performance": {
+	"player": {
 		"869156": {
 			"11667457": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Glicees",
 				"prespp": 85,
-				"rus": 39,
+				"rush": 39,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "B"
 			},
 			"11667458": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Xahr",
 				"prespp": 52,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11667459": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Keeth",
 				"prespp": 57,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11667462": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Rozatar",
 				"prespp": 60,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11667467": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hralis",
 				"prespp": 14,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11667471": {
-				"blk": 2,
-				"fou": 3,
+				"blocks": 2,
+				"fouls": 3,
 				"name": "Acurag",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11744463": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Troln",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11781773": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Quari",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11851754": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Zorq",
 				"prespp": 12,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12072199": {
@@ -84,43 +83,43 @@
 				"type": "R"
 			},
 			"12158172": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chiln",
 				"prespp": 3,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12166391": {
 				"name": "Gorom",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12196487": {
 				"name": "Kayliss",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"871312": {
 			"11700284": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Count Igor",
 				"prespp": 63,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11700285": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Count Jurij",
 				"prespp": 53,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11700318": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Seth",
 				"prespp": 38,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11700319": {
@@ -129,23 +128,23 @@
 				"type": "R"
 			},
 			"11700323": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Servant Fjodor",
 				"prespp": 11,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11812909": {
 				"name": "Count Yaroslav",
 				"prespp": 67,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11850036": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					7,
@@ -154,87 +153,105 @@
 				],
 				"name": "Paul Darktree",
 				"prespp": 7,
-				"tur": 7,
+				"retired": true,
+				"turns": 7,
 				"type": "R"
 			},
 			"11936975": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Ladislao Celano",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11986735": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Count Ludovig II.",
-				"pas": 5,
+				"pass": 5,
 				"prespp": 22,
-				"rus": 3,
+				"rush": 3,
 				"spp": 6,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12062896": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Servant Dmitri",
 				"prespp": 9,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12066122": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Servant Volodomyr",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12128421": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Servant Milo",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12159997": {
 				"name": "Servant Franko",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12219185": {
 				"name": "Servant Markos",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1054522",
-	"team_performance": {
+	"team": {
 		"869156": {
-			"cas": 5,
-			"casdiff": 4,
+			"blocks": 56,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Talsyn Tramplers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 323,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 39,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 158
 		},
 		"871312": {
+			"blocks": 33,
 			"cas": 1,
-			"casdiff": -4,
+			"casdiff": -3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tower of the Necromancer",
+			"pass": 5,
+			"prespp": 331,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 13,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 163
 		}
 	}
 }

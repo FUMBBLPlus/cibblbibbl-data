@@ -1,77 +1,76 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3929400",
-	"player_performance": {
+	"player": {
 		"883051": {
 			"11892405": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "\"Featherweight\" Gunnar",
 				"prespp": 8,
-				"rus": 19,
+				"rush": 19,
 				"spp": 9,
-				"tds": 3,
-				"tur": 17,
+				"td": 3,
+				"turns": 17,
 				"type": "R"
 			},
 			"11892407": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Hagen Halvarson",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11892408": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Harkon Halvarson",
 				"spp": 7,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11892413": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Asmund the Pious",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11892414": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Bjorn of the Hammer",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11892420": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Crosby the Stout",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11892424": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"name": "Dag of The Mire",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11892427": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Erland the Wayfarer",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11892428": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Folke Ninth-Son",
-				"pas": 1,
-				"rus": 12,
-				"tur": 17,
+				"pass": 1,
+				"rush": 12,
+				"turns": 17,
 				"type": "R"
 			},
 			"11892429": {
@@ -79,54 +78,53 @@
 				"type": "R"
 			},
 			"11892430": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Halvor the Rock",
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938582": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sylvester Grottyshield",
-				"retired": true,
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			}
 		},
 		"883064": {
 			"11892679": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Igor",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892680": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ivan",
 				"prespp": 7,
-				"rus": 12,
-				"tur": 16,
+				"rush": 12,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892684": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Valdimir",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 4,
-				"rus": 6,
+				"rush": 6,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11892685": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ursula the Bear",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11892687": {
@@ -135,78 +133,93 @@
 				"type": "R"
 			},
 			"11892688": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dmitri",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11893901": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Anton",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11893902": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Maxim",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11893904": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Boris",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11936536": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Robert Cleareagle",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			},
 			"11936537": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Albert Darkwing",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			},
 			"11936538": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Graham Fastlightning",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "999101",
-	"team_performance": {
+	"team": {
 		"883051": {
+			"blocks": 55,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vostok Iron Head ",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 12,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 31,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 180
 		},
 		"883064": {
+			"blocks": 29,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Kislev's Gryphon Legion",
+			"pass": 1,
+			"prespp": 20,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 18,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 133
 		}
 	}
 }

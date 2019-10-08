@@ -1,154 +1,153 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3997846",
-	"player_performance": {
+	"player": {
 		"896228": {
 			"12103149": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mortarion",
 				"prespp": 20,
-				"tur": 12,
+				"turns": 12,
 				"type": "B"
 			},
 			"12103152": {
-				"blk": 15,
+				"blocks": 15,
 				"cas": 1,
 				"name": "Ku'Gath",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103185": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Garalash",
 				"prespp": 9,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12114193": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Omphuross",
 				"prespp": 33,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12143379": {
 				"name": "Malarus",
 				"prespp": 21,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12179689": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Syphidemis",
 				"prespp": 31,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12225641": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Mathor",
 				"prespp": 9,
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12235165": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Svotrax",
 				"prespp": 10,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12286455": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gugarr",
 				"prespp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12325545": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Halatoth",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12325546": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Harold Grottyshield",
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			}
 		},
 		"907959": {
 			"12285927": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Richter Kless",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12285928": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Drachron Lewdshade",
 				"prespp": 2,
-				"rus": 11,
+				"rush": 11,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12285929": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Gregor Lushclaw",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12285959": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Nemeliz Ssin",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 5,
-				"rus": 8,
+				"rush": 8,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12285960": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ez'lith Fervor",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12285967": {
 				"name": "Lilith Gi'khas",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12285974": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Deedee Hezvix",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12285975": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rhiahirr Xcezz",
 				"prespp": 5,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12285977": {
@@ -157,56 +156,71 @@
 			},
 			"12325682": {
 				"name": "Brian Goldhammer",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			},
 			"12325683": {
 				"name": "Ulric Dirtyhawk",
-				"retired": true,
-				"rus": -1,
-				"tur": 16,
+				"rush": -1,
+				"turns": 16,
 				"type": "J"
 			},
 			"12325684": {
 				"name": "Cory Darkhammer",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			},
-			"907959S1": {
-				"blk": 6,
+			"STAR-7545": {
+				"blocks": 6,
 				"name": "Angus Porterhouse",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1079383",
-	"team_performance": {
+	"team": {
 		"896228": {
+			"blocks": 47,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gardeners of Nurgle",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 142,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 19,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 143
 		},
 		"907959": {
+			"blocks": 28,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "River Teufel Tricksters",
+			"pass": -1,
+			"prespp": 22,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 148
 		}
 	}
 }

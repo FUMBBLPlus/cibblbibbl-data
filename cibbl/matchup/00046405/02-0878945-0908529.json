@@ -1,31 +1,30 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4047003",
-	"player_performance": {
+	"player": {
 		"878945": {
 			"11825655": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Lashweaver Taker of Souls",
 				"prespp": 184,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"11994839": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Skylah the Desired",
 				"prespp": 79,
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12066502": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Elasta Euphoria",
 				"prespp": 107,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12154896": {
@@ -33,7 +32,7 @@
 				"name": "Kit'anra",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12255001": {
@@ -47,17 +46,17 @@
 				"type": "R"
 			},
 			"12262128": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Draygon",
 				"prespp": 7,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12309469": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ka'astellck",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12395483": {
@@ -66,67 +65,66 @@
 				"type": "R"
 			},
 			"12415282": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Lilesh Snarelust",
 				"prespp": 16,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12536932": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Skyrath",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12544604": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Queen of Temptation",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 7,
-				"rus": 6,
+				"rush": 6,
 				"spp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12555005": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Drachritus",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12583660": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Billy Stronglightning",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"908529": {
 			"12295351": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Hhash'chtoth",
 				"prespp": 41,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295353": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Bbadh'nurth",
 				"prespp": 37,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295355": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Vulpizh",
 				"prespp": 11,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12295357": {
@@ -135,56 +133,56 @@
 				"type": "R"
 			},
 			"12336337": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Shim'dre'lex'kazar",
 				"prespp": 15,
-				"tur": 12,
+				"turns": 12,
 				"type": "B"
 			},
 			"12349401": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kkrozh",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 8,
-				"rus": 4,
-				"tur": 15,
+				"rush": 4,
+				"turns": 15,
 				"type": "R"
 			},
 			"12372276": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zzak",
 				"prespp": 17,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12372278": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Tarh",
 				"prespp": 23,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12404744": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hashi'gharoboth",
 				"prespp": 52,
-				"rus": 6,
-				"tur": 12,
+				"rush": 6,
+				"turns": 12,
 				"type": "R"
 			},
 			"12456141": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Gashokh'vanderburth",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 20,
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12522880": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					1,
 					5,
@@ -192,7 +190,8 @@
 					"12415282"
 				],
 				"name": "Bboomsnizzler",
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"12547205": {
@@ -200,44 +199,62 @@
 				"type": "R"
 			},
 			"12547207": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fizlith",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12547210": {
 				"name": "Grakh",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1135653",
-	"team_performance": {
+	"team": {
 		"878945": {
+			"blocks": 35,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eternal Ecstasy",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 439,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 18,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 146
 		},
 		"908529": {
+			"blocks": 38,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "ICBM Warpspawns",
+			"pass": 0,
+			"prespp": 230,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 149
 		}
 	}
 }

@@ -1,38 +1,37 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3992988",
-	"player_performance": {
+	"player": {
 		"855120": {
 			"11596541": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Innocenzo Mastrogiacomo",
 				"prespp": 28,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11596545": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Cassiopea Canova",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11921959": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Valfredo Merlino",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12025723": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 2,
 				"name": "Arnbjörn the Hound",
 				"prespp": 38,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12126165": {
@@ -41,112 +40,108 @@
 				"type": "R"
 			},
 			"12244086": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Brathig Bitterchin",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12261692": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Khirathe",
 				"prespp": 19,
-				"rus": 27,
+				"rush": 27,
 				"spp": 8,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12288007": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Dargognud Strongdreamer",
-				"rus": 4,
-				"tur": 17,
+				"rush": 4,
+				"turns": 17,
 				"type": "R"
 			},
 			"12288008": {
 				"name": "Billy Vilestream",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			},
 			"12288009": {
 				"name": "Richard Dirtybrook",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			},
 			"12288010": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Graham Quickorc",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12288011": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Paul Grottyshield",
-				"retired": true,
 				"spp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			},
-			"855120S1": {
-				"blk": 1,
+			"STAR-7535": {
+				"blocks": 1,
 				"name": "Boomer Eziasson",
-				"tur": 2,
+				"turns": 2,
 				"type": "S"
 			},
-			"855120S2": {
-				"blk": 8,
+			"STAR-7660": {
+				"blocks": 8,
 				"cas": 2,
 				"name": "Borg'th N'throg",
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "S"
 			}
 		},
 		"867862": {
 			"11646901": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Muk",
 				"prespp": 53,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11722423": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Vur",
 				"prespp": 41,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11782667": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Vir",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11917261": {
 				"mvp": 1,
 				"name": "Irtriss",
 				"prespp": 40,
-				"rus": 41,
+				"rush": 41,
 				"spp": 11,
-				"tds": 2,
-				"tur": 10,
+				"td": 2,
+				"turns": 10,
 				"type": "R"
 			},
 			"11946085": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Tarotep of Horin 'Reth",
 				"prespp": 35,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12051541": {
@@ -154,92 +149,112 @@
 					1,
 					1,
 					"blocked",
-					"855120S2"
+					"STAR-7660"
 				],
 				"name": "Drewaq Evilgrin",
+				"retired": true,
 				"type": "R"
 			},
 			"12065262": {
-				"blk": 10,
+				"blocks": 10,
 				"dead": [
 					2,
 					8,
 					"blocked",
-					"855120S2"
+					"STAR-7660"
 				],
 				"name": "Zird",
 				"prespp": 7,
-				"tur": 17,
+				"retired": true,
+				"turns": 17,
 				"type": "R"
 			},
 			"12122939": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Treth' Kon Sharkface",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12199989": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Umir",
 				"prespp": 9,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12215612": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Kudir",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12223534": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Chitol",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12264876": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Imir' Zhan of Thorgotan",
 				"prespp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12295931": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Kirath",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1073699",
-	"team_performance": {
+	"team": {
 		"855120": {
+			"blocks": 44,
 			"cas": 5,
-			"casdiff": 2,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
+			"pass": 0,
+			"prespp": 117,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 31,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 136
 		},
 		"867862": {
-			"cas": 3,
-			"casdiff": -2,
+			"blocks": 67,
+			"cas": 2,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Everlasting Vultures of Settra",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 210,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 169
 		}
 	}
 }

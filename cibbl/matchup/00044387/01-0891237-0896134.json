@@ -1,49 +1,48 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3960666",
-	"player_performance": {
+	"player": {
 		"891237": {
 			"12022003": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Barrow Gorthadon",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022005": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Swan Alphon",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12022006": {
-				"blk": 1,
-				"cps": 2,
+				"blocks": 1,
+				"comp": 2,
 				"name": "Heni Hethurin",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 24,
-				"rus": 7,
+				"rush": 7,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12022007": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Yoke Ianuon",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022008": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tety Goweston",
 				"prespp": 8,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12022009": {
@@ -55,171 +54,190 @@
 				],
 				"name": "Kanut Nardhon",
 				"prespp": 10,
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"12022010": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Dew Midhon",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022012": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Pirin Alfirinor",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12022014": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Meretment Estoladon",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022022": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mirilan Antegobon",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12104982": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Meret Scuffedon",
 				"prespp": 5,
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"896134": {
 			"12101570": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Rotten Roller",
 				"prespp": 14,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12101571": {
 				"mvp": 1,
 				"name": "Krakshot Neek",
 				"prespp": 8,
-				"rus": 23,
+				"rush": 23,
 				"spp": 8,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12101572": {
 				"name": "Shokk-naww",
 				"prespp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12101577": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Snub-tail",
 				"prespp": 3,
-				"rus": 11,
-				"tur": 16,
+				"rush": 11,
+				"turns": 16,
 				"type": "R"
 			},
 			"12101578": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Quee-kin",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12101579": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vyrmreek",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12101580": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Virr-yekk",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12101581": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gimp-paw",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12101582": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Snivel-likk",
-				"pas": 1,
-				"tur": 16,
+				"pass": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12101583": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Nakk-Nakk",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12101584": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Kreeyik",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12101587": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Reeknose",
-				"rus": 2,
+				"rush": 2,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12101597": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Virulent Reever",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1035243",
-	"team_performance": {
+	"team": {
 		"891237": {
+			"blocks": 33,
 			"cas": 2,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Dukes of Earthquake Valley",
+			"pass": -2,
+			"prespp": 88,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 22,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 151
 		},
 		"896134": {
-			"cas": 2,
-			"casdiff": 0,
+			"blocks": 42,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rotfall Ironworks Rocketeers",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 37,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 36,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 157
 		}
 	}
 }

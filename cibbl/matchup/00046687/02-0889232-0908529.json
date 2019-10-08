@@ -1,180 +1,179 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4065659",
-	"player_performance": {
+	"player": {
 		"889232": {
 			"11989952": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Chthonic Cobaltite",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989980": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Chthonic Kaolinite",
 				"prespp": 44,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12003575": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Sylph Haze",
-				"pas": -4,
+				"pass": -4,
 				"prespp": 50,
-				"rus": 22,
+				"rush": 22,
 				"spp": 1,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12070122": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Chthonic Slade",
 				"prespp": 43,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12145447": {
-				"blk": 6,
-				"cps": 1,
+				"blocks": 6,
+				"comp": 1,
 				"name": "Magma Flow",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 49,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12187033": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Chthonic Cinnabar",
 				"prespp": 10,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12279033": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Naiad Tori",
 				"prespp": 38,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12332036": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Naiad Chloe",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12399766": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chthonic Muscovite",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12502199": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chthonic Cassiterite",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12519946": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chthonic Puddingstone",
 				"prespp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12531045": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Chthonic Microcline",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12600678": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Lucius Magma",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12685626": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chthonic Saltspar",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"908529": {
 			"12295351": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hhash'chtoth",
 				"prespp": 45,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295353": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Bbadh'nurth",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 49,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295355": {
 				"name": "Vulpizh",
 				"prespp": 11,
-				"rus": 4,
-				"tur": 12,
+				"rush": 4,
+				"turns": 12,
 				"type": "R"
 			},
 			"12295357": {
 				"name": "Aerhish",
 				"prespp": 9,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12336337": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Shim'dre'lex'kazar",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12372276": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zzak",
 				"prespp": 17,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12372278": {
 				"name": "Tarh",
 				"prespp": 29,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12404744": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hashi'gharoboth",
 				"prespp": 57,
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12547205": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Crazakh",
 				"prespp": 13,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12547207": {
@@ -185,23 +184,24 @@
 					"12187033"
 				],
 				"name": "Fizlith",
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
 			"12618205": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Blartho'Trogath",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12618231": {
 				"name": "Gashokh",
 				"prespp": 6,
-				"rus": 1,
-				"tur": 8,
+				"rush": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12618232": {
@@ -212,30 +212,48 @@
 		}
 	},
 	"replayId": "1156681",
-	"team_performance": {
+	"team": {
 		"889232": {
-			"cas": 2,
-			"casdiff": 2,
+			"blocks": 52,
+			"cas": 1,
+			"casdiff": 1,
+			"comp": 2,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lost Golems of Grungni",
+			"pass": -3,
+			"prespp": 277,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 22,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 163
 		},
 		"908529": {
+			"blocks": 30,
 			"cas": 0,
-			"casdiff": -2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "ICBM Warpspawns",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 260,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 130
 		}
 	}
 }

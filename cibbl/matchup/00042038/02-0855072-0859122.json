@@ -1,151 +1,148 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3865263",
-	"player_performance": {
+	"player": {
 		"855072": {
 			"11445733": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Jack",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11445734": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Annie",
 				"prespp": 3,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11445735": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Katheen",
 				"prespp": 11,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11445736": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Teddy",
 				"prespp": 17,
-				"rus": 29,
+				"rush": 29,
 				"spp": 6,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"11445737": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Morgan le Fay",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11445738": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Merlin",
 				"prespp": 3,
-				"rus": 3,
-				"tur": 15,
+				"rush": 3,
+				"turns": 15,
 				"type": "R"
 			},
 			"11445741": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Queen Guinevere",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11445745": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Thiebaut l'Amy",
 				"prespp": 2,
-				"rus": 2,
-				"tur": 6,
+				"rush": 2,
+				"turns": 6,
 				"type": "R"
 			},
 			"11445747": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Blanchet Poupart",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11494644": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "King Arthur Junior",
-				"retired": true,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11577189": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Robert Cleareagle",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			}
 		},
 		"859122": {
 			"11512890": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 2,
 				"name": "Olivia Dunham",
 				"prespp": 9,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11512891": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Peter Bishop",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11512892": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Walter Bishop",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11512893": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Phillip Broyles",
-				"rus": 20,
-				"tur": 10,
+				"rush": 20,
+				"turns": 10,
 				"type": "R"
 			},
 			"11512894": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "John Scott",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11512896": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Astrid Farnsworth",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11512898": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Nina Sharp",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11512901": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					6,
@@ -153,66 +150,85 @@
 					"11445733"
 				],
 				"name": "Lincoln Lee",
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"11512907": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sanford Harris",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11512909": {
-				"blk": 3,
-				"fou": 5,
+				"blocks": 3,
+				"fouls": 5,
 				"name": "William Bell",
 				"prespp": 10,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11512911": {
 				"mvp": 1,
 				"name": "Donald September",
 				"spp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11512914": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Mitchell Loeb",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "924756",
-	"team_performance": {
+	"team": {
 		"855072": {
+			"blocks": 43,
 			"cas": 3,
-			"casdiff": -3,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Carcassonne Knights",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 57,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 112
 		},
 		"859122": {
-			"cas": 6,
-			"casdiff": 3,
+			"blocks": 31,
+			"cas": 4,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Flying Drop Bears",
+			"pass": 0,
+			"prespp": 21,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 20,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 126
 		}
 	}
 }

@@ -1,56 +1,55 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4016592",
-	"player_performance": {
+	"player": {
 		"885728": {
 			"11933450": {
-				"blk": 14,
+				"blocks": 14,
 				"name": "Yarrah the Gray",
 				"prespp": 57,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11933452": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Naure Roo",
 				"prespp": 47,
-				"rus": 7,
+				"rush": 7,
 				"spp": 8,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11933454": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Rippa Roo",
 				"prespp": 44,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11933455": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Pash a Roo",
 				"prespp": 53,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11939409": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Flower",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12196374": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Darlee Roo",
 				"prespp": 22,
-				"rus": 20,
-				"tur": 16,
+				"rush": 20,
+				"turns": 16,
 				"type": "R"
 			},
 			"12196375": {
@@ -59,9 +58,9 @@
 				"type": "R"
 			},
 			"12334234": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kylie",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12403456": {
@@ -70,166 +69,179 @@
 				"type": "R"
 			},
 			"12428062": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Garru u Roo",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12428063": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Sylvester Hardspike",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
 			"12428064": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Brian Hardfist",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"12428065": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cory Weakwing",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			}
 		},
 		"900747": {
 			"12173110": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Stonemuncher the Ancient",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12173143": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Dialor the Noble",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 32,
-				"rus": 11,
-				"tur": 16,
+				"rush": 11,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173145": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Khras the Enslaved",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 32,
-				"rus": 10,
-				"tur": 11,
+				"rush": 10,
+				"turns": 11,
 				"type": "R"
 			},
 			"12173148": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Uzras Strongblade",
 				"prespp": 9,
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12173151": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hrkas Prouddeath",
 				"prespp": 7,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12173153": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ghras Paingiver",
 				"prespp": 22,
-				"rus": 13,
+				"rush": 13,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173155": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Frazsa Grimhand",
 				"prespp": 23,
 				"spp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12296160": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Krank Cracker",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12320799": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "GRaarzas",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12399357": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Orja Coldless",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12399358": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Hairy Chrizz",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12399363": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Squishy Bob",
 				"prespp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12422173": {
 				"name": "Scrim Bloodlust",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12422174": {
 				"name": "Oris Devistator",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1100728",
-	"team_performance": {
+	"team": {
 		"885728": {
+			"blocks": 48,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bear Clutchers",
+			"pass": 0,
+			"prespp": 242,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 27,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 145
 		},
 		"900747": {
+			"blocks": 42,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Black Monolith Worshippers",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 155,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 161
 		}
 	}
 }

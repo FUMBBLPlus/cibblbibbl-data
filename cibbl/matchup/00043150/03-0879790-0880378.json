@@ -1,73 +1,72 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3915415",
-	"player_performance": {
+	"player": {
 		"879790": {
 			"11839347": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Hemek Abanux",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839348": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kalrand Ahrudas",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839349": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Arstur An'gom",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839350": {
 				"name": "Mephithal  Phobus",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839351": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Festernacus  Furilock",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839352": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Halanath Skyrak",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839353": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Burro'tzor Svodred",
 				"prespp": 8,
-				"rus": 10,
+				"rush": 10,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839377": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Tusk Anon, The Horned One",
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839378": {
 				"name": "Ezrath Nemelas",
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839379": {
@@ -75,116 +74,133 @@
 				"type": "R"
 			},
 			"11839798": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ba'el, The Naked Slayer",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11860049": {
 				"name": "Fredrick Hardhammer",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"880378": {
 			"11849912": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "The Great Unclean One",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11849914": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Khandek the Foul",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11849915": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Crizhol Vomitflesh",
 				"prespp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11849916": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Zinzul the Plaguereaper",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11849917": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Erdrund the Leproushand",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11849918": {
 				"name": "Isguz Foulear",
-				"rus": 1,
-				"tur": 12,
+				"rush": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"11849919": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rhemel Crappyhand",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11849920": {
 				"name": "Strozkun Foulskin",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11849921": {
 				"name": "Gazgand Stinkhorn",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11849923": {
 				"name": "Zashren Vomitheart",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11849925": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Skurzrond Foularm",
 				"prespp": 2,
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "982910",
-	"team_performance": {
+	"team": {
 		"879790": {
+			"blocks": 43,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Unfettered Fury",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 8,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 176
 		},
 		"880378": {
+			"blocks": 38,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Nurgle Plaguebearers",
+			"pass": 0,
+			"prespp": 15,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 3,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 132
 		}
 	}
 }

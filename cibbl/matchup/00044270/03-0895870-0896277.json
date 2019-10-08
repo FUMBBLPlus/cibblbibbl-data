@@ -1,205 +1,220 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3958443",
-	"player_performance": {
+	"player": {
 		"895870": {
 			"12097319": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Nurg",
 				"prespp": 13,
 				"spp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12097320": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"cps": 2,
+				"comp": 2,
 				"name": "Durskik",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 10,
-				"rus": 40,
+				"rush": 40,
 				"spp": 7,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12097321": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kratassik",
 				"prespp": 6,
-				"rus": -1,
-				"tur": 12,
+				"rush": -1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12097322": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Azhrik",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 6,
-				"rus": 29,
+				"rush": 29,
 				"spp": 10,
-				"tds": 3,
-				"tur": 15,
+				"td": 3,
+				"turns": 15,
 				"type": "R"
 			},
 			"12097323": {
 				"name": "Rassner",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12097324": {
 				"name": "Gazdrak",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12097325": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Griskabakk",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12097326": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Arrt",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12097327": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rhattdwelk",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12097328": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Haskzell",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12097329": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Skleetaz",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"896277": {
 			"12103955": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Khul",
 				"prespp": 7,
-				"rus": 1,
-				"tur": 11,
+				"rush": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12103956": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Qu'arakk",
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12103957": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Skiril",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103958": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Zuznifik",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103985": {
 				"name": "Thraggskell",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12103986": {
 				"name": "Bodgnikk",
-				"pas": 1,
-				"rus": 14,
-				"tur": 15,
+				"pass": 1,
+				"rush": 14,
+				"turns": 15,
 				"type": "R"
 			},
 			"12103987": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hebnak-sneekl",
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12103988": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Stuntlbosh",
 				"prespp": 3,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103989": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Grotslag",
 				"prespp": 13,
-				"rus": 3,
+				"rush": 3,
 				"spp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12103990": {
 				"name": "Runty",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12108362": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Evander Paletree",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1032638",
-	"team_performance": {
+	"team": {
 		"895870": {
+			"blocks": 31,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 3,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mordkin Headtakers",
-			"prestige": 3,
+			"pass": 6,
+			"prespp": 37,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 68,
 			"score": 4,
 			"scorediff": 3,
-			"tds": 4,
-			"tdsdiff": 3
+			"td": 4,
+			"tddiff": 3,
+			"turns": 125
 		},
 		"896277": {
+			"blocks": 29,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Thirteenth Circle Abominations",
+			"pass": 1,
+			"prespp": 29,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 32,
 			"score": 1,
 			"scorediff": -3,
-			"tds": 1,
-			"tdsdiff": -3
+			"td": 1,
+			"tddiff": -3,
+			"turns": 108
 		}
 	}
 }

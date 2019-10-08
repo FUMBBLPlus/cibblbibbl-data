@@ -1,79 +1,78 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3993116",
-	"player_performance": {
+	"player": {
 		"873361": {
 			"11737245": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Zhorthix Swiftfoot",
 				"prespp": 87,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11737248": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Nirghux Stormpaw",
 				"prespp": 59,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737249": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Zheghoc Ironcrest",
 				"prespp": 56,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11737259": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Naulez Mangox",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737263": {
 				"name": "Daugdhag",
 				"prespp": 83,
-				"rus": 10,
-				"tur": 16,
+				"rush": 10,
+				"turns": 16,
 				"type": "R"
 			},
 			"11783363": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kankog",
 				"prespp": 9,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11785649": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Zukhaok Stonearm",
 				"prespp": 85,
-				"rus": 9,
+				"rush": 9,
 				"spp": 5,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11872016": {
 				"name": "Nargez",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11971445": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Decthog Taogdhaz",
 				"prespp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12087814": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					2,
@@ -82,14 +81,15 @@
 				],
 				"name": "Zecvok Kolgec",
 				"prespp": 10,
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
 			"12217319": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Thikaax Gukzaar",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12280088": {
@@ -97,66 +97,66 @@
 				"name": "Vizcook Knonok",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"873759": {
 			"11744417": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Tristan Tirasse",
 				"prespp": 55,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11744441": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Marie de l'Esclat",
 				"prespp": 83,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11744446": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Denis",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11744449": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vivian",
 				"prespp": 9,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11744453": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Thomassin de Tourraine",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11744454": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Nicolete Cyrasse",
 				"prespp": 21,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11819801": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Puck",
 				"prespp": 41,
-				"rus": 10,
-				"tur": 14,
+				"rush": 10,
+				"turns": 14,
 				"type": "R"
 			},
 			"11980250": {
@@ -164,69 +164,87 @@
 				"type": "R"
 			},
 			"12031125": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Micky",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12223082": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Josseline de Valois",
 				"prespp": 15,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12228681": {
 				"name": "Symon d'Orgremont",
 				"prespp": 15,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12262082": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sasha",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12262085": {
 				"name": "Simone",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12277681": {
 				"name": "Tobie",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1073892",
-	"team_performance": {
+	"team": {
 		"873361": {
+			"blocks": 43,
 			"cas": 2,
-			"casdiff": -2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Blood-Ground Blackhorns",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 424,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 19,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 137
 		},
 		"873759": {
-			"cas": 4,
-			"casdiff": 2,
+			"blocks": 46,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Knightly Virtues",
+			"pass": 0,
+			"prespp": 284,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 10,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 135
 		}
 	}
 }

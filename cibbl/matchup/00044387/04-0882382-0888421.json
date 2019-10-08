@@ -1,174 +1,173 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3966496",
-	"player_performance": {
+	"player": {
 		"882382": {
 			"11881468": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Dezouk",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11881470": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Gazeem",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11881482": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Jafar",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11881490": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Shan Yu",
 				"prespp": 9,
 				"type": "R"
 			},
 			"11881491": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gothel",
 				"prespp": 25,
-				"rus": 13,
+				"rush": 13,
 				"spp": 6,
-				"tds": 2,
-				"tur": 13,
+				"td": 2,
+				"turns": 13,
 				"type": "R"
 			},
 			"11881492": {
 				"name": "Te Ka",
 				"prespp": 6,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11942620": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ka Viku",
 				"prespp": 34,
-				"rus": 14,
-				"tur": 16,
+				"rush": 14,
+				"turns": 16,
 				"type": "R"
 			},
 			"11942621": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Balkaza",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11942628": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Scroop",
 				"prespp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11961337": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Alli Baba",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11977896": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gin Phur",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12138861": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Gaudi",
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "I"
 			},
 			"12138876": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Moustafa",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12146458": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mo-mo",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		},
 		"888421": {
 			"11976226": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Waziret Stunge",
 				"prespp": 8,
-				"tur": 10,
+				"turns": 10,
 				"type": "B"
 			},
 			"11976230": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Firrikeet Sharpblade",
 				"prespp": 27,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976233": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Lirrikeet Sharpblade",
 				"prespp": 46,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976237": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Skritt Swiftpaw",
 				"prespp": 34,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976241": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Turm",
 				"prespp": 15,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976246": {
 				"name": "Criz",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11981444": {
 				"name": "Yazzirit Rakeet",
 				"prespp": 6,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12039964": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zik Shadowfang",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12039966": {
@@ -179,59 +178,78 @@
 					"12138861"
 				],
 				"name": "Sozax",
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"12054568": {
 				"name": "Robble",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12063537": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Yulub",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12155834": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Klik Skitter",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12155835": {
 				"name": "Folp",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1041859",
-	"team_performance": {
+	"team": {
 		"882382": {
+			"blocks": 56,
 			"cas": 4,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ali's Anarchists",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 112,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 27,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 153
 		},
 		"888421": {
+			"blocks": 32,
 			"cas": 3,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gobskrav Alliance",
+			"pass": 0,
+			"prespp": 140,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 149
 		}
 	}
 }

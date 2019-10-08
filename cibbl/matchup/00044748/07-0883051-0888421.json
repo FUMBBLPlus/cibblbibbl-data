@@ -1,144 +1,143 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3993676",
-	"player_performance": {
+	"player": {
 		"883051": {
 			"11892405": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "\"Featherweight\" Gunnar",
 				"prespp": 61,
-				"rus": 21,
+				"rush": 21,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892408": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Harkon Halvarson",
 				"prespp": 21,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892420": {
-				"blk": 2,
-				"fou": 3,
+				"blocks": 2,
+				"fouls": 3,
 				"name": "Crosby the Stout",
 				"prespp": 8,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11892424": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dag of The Mire",
 				"prespp": 6,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11892428": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Folke Ninth-Son",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11892429": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Geir the Fisherman",
 				"prespp": 3,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11892430": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Halvor the Rock",
 				"prespp": 6,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11947871": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "\"Ambisinister\" Xander",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 38,
-				"rus": 15,
-				"tur": 13,
+				"rush": 15,
+				"turns": 13,
 				"type": "R"
 			},
 			"11950136": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "The Notorious Jerk",
 				"prespp": 42,
-				"rus": 9,
+				"rush": 9,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12130906": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Haldor Halvarson",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12139597": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"mvp": 1,
 				"name": "The Mysterious Stig",
 				"prespp": 12,
-				"rus": 6,
+				"rush": 6,
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12169214": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Igor The Surgeon",
 				"prespp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12169228": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jary The Younger",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12245045": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gertrude, Beast of the Moors",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			}
 		},
 		"888421": {
 			"11976226": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Waziret Stunge",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "B"
 			},
 			"11976230": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Firrikeet Sharpblade",
 				"prespp": 35,
-				"rus": 7,
+				"rush": 7,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976233": {
-				"blk": 6,
+				"blocks": 6,
 				"dead": [
 					2,
 					6,
@@ -147,7 +146,8 @@
 				],
 				"name": "Lirrikeet Sharpblade",
 				"prespp": 56,
-				"tur": 11,
+				"retired": null,
+				"turns": 11,
 				"type": "R"
 			},
 			"11976237": {
@@ -156,11 +156,11 @@
 				"type": "R"
 			},
 			"11976241": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Turm",
 				"prespp": 22,
-				"rus": 3,
-				"tur": 11,
+				"rush": 3,
+				"turns": 11,
 				"type": "R"
 			},
 			"11976246": {
@@ -169,12 +169,12 @@
 				"type": "R"
 			},
 			"11981444": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Yazzirit Rakeet",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 31,
-				"rus": 2,
-				"tur": 13,
+				"rush": 2,
+				"turns": 13,
 				"type": "R"
 			},
 			"12054568": {
@@ -184,80 +184,97 @@
 			"12063537": {
 				"name": "Yulub",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12155834": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Klik Skitter",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 6,
 				"spp": 1,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12155835": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Folp",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12171360": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Meets",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12260136": {
 				"name": "Lirik Felskar",
 				"prespp": 4,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12289659": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Yorick Hideoussnake",
-				"retired": true,
 				"type": "J"
 			},
-			"888421S1": {
-				"blk": 1,
+			"STAR-7579": {
+				"blocks": 1,
 				"name": "Shisk Four-Arms",
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1074570",
-	"team_performance": {
+	"team": {
 		"883051": {
-			"cas": 4,
-			"casdiff": 3,
+			"blocks": 37,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vostok Iron Head ",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 213,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 51,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 172
 		},
 		"888421": {
+			"blocks": 29,
 			"cas": 1,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gobskrav Alliance",
-			"prestige": 1,
+			"pass": 3,
+			"prespp": 228,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 25,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 117
 		}
 	}
 }

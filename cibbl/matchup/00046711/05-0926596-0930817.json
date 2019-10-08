@@ -1,106 +1,105 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4072976",
-	"player_performance": {
+	"player": {
 		"926596": {
 			"12578807": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Krilk The Black",
 				"prespp": 24,
-				"rus": 13,
+				"rush": 13,
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12578808": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Crashrin Shadowblade",
 				"prespp": 31,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12578810": {
 				"name": "Crilk One Oye",
 				"prespp": 14,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12578811": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"name": "Skruolk",
 				"prespp": 9,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12578812": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vinkrolk",
 				"prespp": 19,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12578813": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gnam",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12578815": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ghogdri",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12578816": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tinksaz",
 				"prespp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12587461": {
 				"name": "Jeegink",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12589646": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Vekuzz",
 				"prespp": 18,
-				"rus": -1,
+				"rush": -1,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12622185": {
-				"blk": 2,
-				"cps": 2,
+				"blocks": 2,
+				"comp": 2,
 				"mvp": 1,
 				"name": "Rusk Left handed",
-				"pas": 8,
+				"pass": 8,
 				"prespp": 9,
-				"rus": 23,
+				"rush": 23,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12677890": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Clemis",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12694773": {
 				"name": "Zrurk",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
@@ -108,39 +107,39 @@
 			"12651553": {
 				"name": "Uthreinseg",
 				"prespp": 17,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12651554": {
 				"name": "Cudheorneog",
 				"prespp": 3,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12651555": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Anga",
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12651556": {
-				"cps": 1,
-				"fou": 1,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Lall",
-				"pas": -2,
+				"pass": -2,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12651557": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					1,
@@ -149,7 +148,8 @@
 				],
 				"name": "Caghdi",
 				"prespp": 2,
-				"tur": 8,
+				"retired": null,
+				"turns": 8,
 				"type": "R"
 			},
 			"12651558": {
@@ -160,85 +160,104 @@
 					"12578807"
 				],
 				"name": "Anwyl Evans",
-				"tur": 1,
+				"retired": null,
+				"turns": 1,
 				"type": "R"
 			},
 			"12651559": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Hueil Blethen",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12651563": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Cadwgan Broadus",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12651564": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Dremidydd Goff",
 				"prespp": 13,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12651565": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Pawl Prichett",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12651569": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Walnutcrown Birchstub",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12698746": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Seth Greenroots",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1165063",
-	"team_performance": {
+	"team": {
 		"926596": {
+			"blocks": 39,
 			"cas": 5,
 			"casdiff": 2,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Branded and Exiled",
+			"pass": 8,
+			"prespp": 139,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 35,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 134
 		},
 		"930817": {
+			"blocks": 45,
 			"cas": 3,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ogham White Ravens",
-			"prestige": 3,
+			"pass": -2,
+			"prespp": 55,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 32,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 145
 		}
 	}
 }

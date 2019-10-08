@@ -1,52 +1,51 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3916825",
-	"player_performance": {
+	"player": {
 		"865063": {
 			"11603005": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Ouszz",
 				"prespp": 21,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11603008": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Riptorr",
 				"prespp": 7,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11603012": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Timrr",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11603015": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Twerk",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11603016": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Esqds",
 				"prespp": 16,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11603017": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Nert",
 				"prespp": 14,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11603018": {
@@ -57,7 +56,8 @@
 					"11759479"
 				],
 				"name": "Bvaerd",
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"11670597": {
@@ -66,122 +66,120 @@
 				"type": "R"
 			},
 			"11747200": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Pipa Swer",
 				"prespp": 32,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11800288": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Rbferz Shzzkich",
 				"prespp": 9,
-				"rus": 25,
+				"rush": 25,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11864164": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Argorzzz Zumbbzzee",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11864176": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "William Strongshield",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			}
 		},
 		"874602": {
 			"11759477": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Koba",
 				"prespp": 10,
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11759478": {
-				"blk": 14,
+				"blocks": 14,
 				"name": "Soso",
 				"prespp": 25,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11759479": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Grot of Steel",
 				"prespp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11759483": {
 				"name": "Sporfungus",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11759484": {
 				"name": "Freegob",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11759486": {
 				"name": "Oliver Gobwell",
 				"prespp": 8,
-				"rus": 1,
-				"tur": 4,
+				"rush": 1,
+				"turns": 4,
 				"type": "R"
 			},
 			"11759487": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Gobespierre",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11759492": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Goblington",
 				"prespp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11759493": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Goblivar",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11759494": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gobseppe",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11759495": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gobbibaldi",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11759497": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Che Gobvara",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11773725": {
 				"name": "Bomma Meinhof",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11834404": {
@@ -189,11 +187,11 @@
 				"name": "Gobiliano Fanata",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
-			"874602S1": {
-				"blk": 2,
+			"STAR-7543": {
+				"blocks": 2,
 				"dead": [
 					1,
 					2,
@@ -201,36 +199,54 @@
 					"11603005"
 				],
 				"name": "Fungus the Loon",
-				"tur": 2,
+				"turns": 2,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "984513",
-	"team_performance": {
+	"team": {
 		"865063": {
+			"blocks": 44,
 			"cas": 2,
-			"casdiff": 1,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Oyxl Great Pyramid Heroes",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 113,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 25,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 146
 		},
 		"874602": {
-			"cas": 1,
-			"casdiff": -1,
+			"blocks": 34,
+			"cas": 0,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Goblin Revolushunary Kommittee",
+			"pass": 0,
+			"prespp": 66,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 1,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 146
 		}
 	}
 }

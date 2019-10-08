@@ -1,86 +1,85 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3953500",
-	"player_performance": {
+	"player": {
 		"878945": {
 			"11825655": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"int": 1,
 				"name": "Lashweaver Taker of Souls",
 				"prespp": 79,
-				"rus": 6,
+				"rush": 6,
 				"spp": 7,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11825658": {
 				"name": "Laesydra",
 				"prespp": 20,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11825659": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Shyak",
 				"prespp": 20,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11825663": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Braskh'har",
 				"prespp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11850084": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lady Lestella",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11916781": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Heladresh Lust-Bringer",
 				"prespp": 32,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11994839": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 2,
 				"name": "Skylah the Desired",
 				"prespp": 22,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11998830": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Brog'hador",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12066502": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Elasta Euphoria",
 				"prespp": 1,
-				"rus": 4,
+				"rush": 4,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12074025": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					7,
@@ -88,29 +87,29 @@
 					"11959755"
 				],
 				"name": "William Dirtytree",
-				"tur": 7,
+				"retired": true,
+				"turns": 7,
 				"type": "J"
 			},
 			"12074026": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Harold Cleartree",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"879790": {
 			"11839347": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Hemek Abanux",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11839348": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kalrand Ahrudas",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11839349": {
@@ -119,108 +118,123 @@
 				"type": "R"
 			},
 			"11839378": {
-				"blk": 7,
-				"fou": 1,
+				"blocks": 7,
+				"fouls": 1,
 				"name": "Ezrath Nemelas",
 				"prespp": 14,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839798": {
-				"blk": 12,
+				"blocks": 12,
 				"mvp": 1,
 				"name": "Ba'el, The Naked Slayer",
 				"prespp": 23,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11865383": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Abraxis, Tooth of Death",
 				"prespp": 22,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11959755": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Malphas, The Bloody Blade",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11999803": {
 				"name": "Zakhar Takai",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12040430": {
 				"name": "Mephithal Phobus",
 				"prespp": 16,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12071495": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fredrick Dirtyfield",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"12071496": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "David Grottyorc",
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			},
 			"12071497": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Sylvester Bluerock",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			},
-			"879790S1": {
-				"blk": 2,
+			"STAR-7664": {
+				"blocks": 2,
 				"cas": 1,
 				"name": "Duke Luthor Von Hawkfire",
-				"rus": 12,
+				"rush": 12,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1027061",
-	"team_performance": {
+	"team": {
 		"878945": {
+			"blocks": 32,
 			"cas": 3,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 1,
+			"mvp": 1,
 			"name": "Eternal Ecstasy",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 184,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 31,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 130
 		},
 		"879790": {
+			"blocks": 47,
 			"cas": 3,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Unfettered Fury",
+			"pass": 0,
+			"prespp": 90,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 12,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 134
 		}
 	}
 }

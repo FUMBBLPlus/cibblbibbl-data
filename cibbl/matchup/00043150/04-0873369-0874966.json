@@ -1,92 +1,91 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3920637",
-	"player_performance": {
+	"player": {
 		"873369": {
 			"11737364": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Hybree",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737365": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Trikhuf",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 10,
-				"rus": 25,
+				"rush": 25,
 				"spp": 3,
-				"tds": 1,
-				"tur": 18,
+				"td": 1,
+				"turns": 18,
 				"type": "R"
 			},
 			"11737376": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Weyrot",
 				"prespp": 6,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"11737379": {
 				"name": "Baahru",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11737432": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Fulmayne Thrice-Crowned",
 				"prespp": 25,
 				"spp": 5,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"11737433": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Breyyar Scoredrinker",
 				"prespp": 14,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"11737434": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"name": "Stoneflagon Rhuheigh",
 				"prespp": 21,
 				"spp": 4,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"11737443": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Yronleg the Barrelbeast",
 				"prespp": 16,
 				"spp": 4,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"11765170": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Brewmaster Huhroarr",
 				"prespp": 12,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"11859881": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Heighar",
-				"rus": 12,
-				"tur": 18,
+				"rush": 12,
+				"turns": 18,
 				"type": "R"
 			},
 			"11859890": {
 				"name": "Yaahrut",
 				"prespp": 3,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"11859894": {
@@ -96,20 +95,20 @@
 		},
 		"874966": {
 			"11764899": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Benethor",
 				"prespp": 14,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11764901": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Danesthos",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11764906": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					7,
@@ -118,11 +117,12 @@
 				],
 				"name": "Polkan the Red",
 				"prespp": 4,
-				"tur": 15,
+				"retired": true,
+				"turns": 15,
 				"type": "R"
 			},
 			"11764910": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					1,
@@ -130,83 +130,102 @@
 					"11737434"
 				],
 				"name": "Wendoran",
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "R"
 			},
 			"11764915": {
 				"name": "Finavar",
 				"prespp": 1,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11764916": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jokleel",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11764917": {
 				"name": "Thuralin",
 				"prespp": 10,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11764918": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Guldir",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11764919": {
 				"name": "Lemsas",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11764921": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Morlanna",
 				"prespp": 22,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11836559": {
-				"blk": 9,
+				"blocks": 9,
 				"mvp": 1,
 				"name": "Vanhir",
 				"prespp": 14,
-				"rus": 30,
+				"rush": 30,
 				"spp": 11,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "988964",
-	"team_performance": {
+	"team": {
 		"873369": {
-			"cas": 5,
-			"casdiff": 5,
+			"blocks": 28,
+			"cas": 4,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Schattenwald Drinking Horns",
+			"pass": -1,
+			"prespp": 110,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 37,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 185
 		},
 		"874966": {
+			"blocks": 24,
 			"cas": 0,
-			"casdiff": -5,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 65,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 150
 		}
 	}
 }

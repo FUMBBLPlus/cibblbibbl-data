@@ -1,39 +1,38 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4030278",
-	"player_performance": {
+	"player": {
 		"867862": {
 			"11646901": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Muk",
 				"prespp": 55,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11722423": {
-				"blk": 15,
+				"blocks": 15,
 				"name": "Vur",
 				"prespp": 65,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11782667": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Vir",
 				"prespp": 13,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11917261": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Irtriss",
 				"prespp": 89,
-				"rus": 44,
+				"rush": 44,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11946085": {
@@ -42,36 +41,36 @@
 				"type": "R"
 			},
 			"12122939": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Treth' Kon Sharkface",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12215612": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kudir",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12223534": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Chitol",
 				"prespp": 37,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12264876": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Imir' Zhan of Thorgotan",
 				"prespp": 48,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12328835": {
 				"name": "Trizt",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12328836": {
@@ -79,7 +78,7 @@
 				"type": "R"
 			},
 			"12368122": {
-				"blk": 5,
+				"blocks": 5,
 				"dead": [
 					2,
 					1,
@@ -87,13 +86,14 @@
 					"11756582"
 				],
 				"name": "Ir' Tos",
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"12426289": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Gremir the Sphinx",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12475482": {
@@ -101,91 +101,91 @@
 				"type": "R"
 			},
 			"12502278": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ersen",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12517244": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ka 'Rin",
-				"rus": 9,
-				"tur": 11,
+				"rush": 9,
+				"turns": 11,
 				"type": "R"
 			}
 		},
 		"874452": {
 			"11756582": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Draco Dracovich",
 				"prespp": 150,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11756629": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Igor Igorivich",
 				"prespp": 153,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"11756687": {
 				"name": "Karl",
 				"prespp": 4,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11756689": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Franz",
 				"prespp": 10,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11980258": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tabbart",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11981974": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Arnold",
 				"prespp": 8,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12150966": {
 				"name": "Sigfrid",
 				"prespp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12254615": {
 				"name": "Nickolaus",
 				"prespp": 3,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12319529": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Dracul Draculesti",
 				"prespp": 44,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12368009": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Norbert von Bluten",
 				"prespp": 17,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12368012": {
@@ -195,57 +195,75 @@
 			"12415471": {
 				"name": "Werner",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12415694": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Alex Alexsandrescu",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12444792": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Peter Badblood",
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12517242": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Klara",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1116265",
-	"team_performance": {
+	"team": {
 		"867862": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 70,
+			"cas": 0,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Everlasting Vultures of Settra",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 386,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 53,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 168
 		},
 		"874452": {
+			"blocks": 45,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
+			"pass": 0,
+			"prespp": 431,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 155
 		}
 	}
 }

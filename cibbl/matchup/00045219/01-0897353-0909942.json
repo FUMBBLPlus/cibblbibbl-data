@@ -1,40 +1,39 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3997782",
-	"player_performance": {
+	"player": {
 		"897353": {
 			"12121959": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nis Atman",
 				"prespp": 8,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121960": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Sssues Ej",
 				"prespp": 10,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12121961": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Enum Ers",
 				"prespp": 10,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12121969": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Mare Oz",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 9,
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121974": {
@@ -42,7 +41,7 @@
 				"type": "R"
 			},
 			"12121975": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					6,
@@ -51,133 +50,134 @@
 				],
 				"name": "Tush Banuk",
 				"prespp": 9,
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"12139096": {
 				"name": "Mos Passat",
 				"prespp": 35,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12139099": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Blu Ash",
 				"prespp": 33,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12165569": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Adenes Fujo",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12226003": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Salla Sellel",
 				"prespp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12288426": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Clay Dip",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12318683": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Deepflow",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12319954": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ænd-E Zit",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12320632": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Beebor Tuez",
-				"rus": 4,
+				"rush": 4,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"909942": {
 			"12317242": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Vesta",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317245": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Kalama",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317247": {
 				"name": "Keahi",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12317250": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Etain",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317252": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kegan",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12317253": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fiamette",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12317275": {
 				"name": "Ermir",
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317286": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Yuki",
-				"pas": 5,
+				"pass": 5,
 				"prespp": 8,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12317290": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Calder",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317295": {
@@ -185,59 +185,77 @@
 				"type": "R"
 			},
 			"12317300": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Jet",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317301": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sage",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12322153": {
 				"name": "Vukan",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
-			"909942S1": {
-				"blk": 6,
+			"STAR-7660": {
+				"blocks": 6,
 				"name": "Borg'th N'throg",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1079313",
-	"team_performance": {
+	"team": {
 		"897353": {
+			"blocks": 36,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Court of Shu",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 136,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 44,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 171
 		},
 		"909942": {
+			"blocks": 31,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Red Mountain Flamecallers",
+			"pass": 5,
+			"prespp": 29,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 164
 		}
 	}
 }

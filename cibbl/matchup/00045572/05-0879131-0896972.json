@@ -1,7 +1,7 @@
 {
 	"!excluded": "no",
 	"matchId": "4020747",
-	"player_performance": {
+	"player": {
 		"879131": {
 			"11828950": {
 				"name": "Calico Jack",
@@ -9,23 +9,23 @@
 				"type": "R"
 			},
 			"11828951": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Morag",
 				"prespp": 35,
-				"tur": 1,
+				"turns": 1,
 				"type": "B"
 			},
 			"11828952": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Greta",
 				"prespp": 29,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"11828953": {
-				"blk": 5,
+				"blocks": 5,
 				"dead": [
 					2,
 					2,
@@ -34,63 +34,64 @@
 				],
 				"name": "Nefo Dawnripper",
 				"prespp": 58,
-				"rus": 7,
+				"retired": true,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"11828954": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Ibhib Nightbreaker",
 				"prespp": 112,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11828955": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Dog Rough Drimond",
 				"prespp": 37,
 				"spp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11828956": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Grog Swiller Finn",
 				"prespp": 50,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11956118": {
 				"name": "Voodoo Jones",
 				"prespp": 7,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12155340": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Seabiscuit Maguire",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12261823": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Scabby Flaherty",
 				"prespp": 6,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12343072": {
 				"name": "Ol' Roy Schneider",
 				"prespp": 6,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12355104": {
@@ -98,173 +99,189 @@
 				"type": "R"
 			},
 			"12426661": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mutiny Bryce",
 				"prespp": 3,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12426662": {
 				"name": "Wyndham o'Vossler",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12464381": {
 				"name": "Spit O'Leary",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
 		"896972": {
 			"12117786": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Gorbad Faceclompah",
 				"prespp": 13,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12117788": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Poppy Merribuck",
 				"prespp": 33,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12117790": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Balthasar the Youthful",
 				"prespp": 18,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12117791": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Konrad the Enchanter",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12117792": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Gottlieb Thälmann of Averland",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12117795": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ferrimora of the Waxing Moon",
 				"prespp": 20,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12117800": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Siluvaine, Traverser of the Celestial Promenade",
 				"prespp": 14,
-				"retired": true,
 				"spp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12117802": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Urkrasour the Obedient",
 				"prespp": 29,
-				"rus": 5,
-				"tur": 15,
+				"rush": 5,
+				"turns": 15,
 				"type": "R"
 			},
 			"12173327": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Draco the Ascendent",
-				"rus": 7,
+				"rush": 7,
 				"spp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12179724": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "The Xenith of Devotion",
 				"prespp": 12,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12230477": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "*Whip-crack sound effect followed by whinnying horse*",
 				"prespp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12235198": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Valanduil of House Meliane, reborn",
 				"prespp": 24,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12357064": {
 				"name": "The Painted Warlock",
 				"prespp": 3,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12402972": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lembit Opik",
 				"prespp": 3,
-				"rus": 4,
-				"tur": 12,
+				"rush": 4,
+				"turns": 12,
 				"type": "R"
 			},
 			"12451233": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Silk",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1105314",
-	"team_performance": {
+	"team": {
 		"879131": {
+			"blocks": 31,
 			"cas": 2,
 			"casdiff": -5,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sartosa Black Flags",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 441,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 25,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 117
 		},
 		"896972": {
+			"blocks": 41,
 			"cas": 7,
 			"casdiff": 5,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Seekers of Transcendence",
+			"pass": 0,
+			"prespp": 192,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 152
 		}
 	}
 }

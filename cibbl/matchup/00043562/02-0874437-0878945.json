@@ -1,58 +1,56 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3925280",
-	"player_performance": {
+	"player": {
 		"874437": {
 			"11756331": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Lumbhant Perchklea",
 				"prespp": 15,
-				"rus": 17,
+				"rush": 17,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11756333": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Erclia Limblumb",
 				"prespp": 6,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11756335": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 3,
 				"name": "Tardiproth Twikbreka",
 				"prespp": 22,
 				"spp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11756336": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Nomgulg Prattlehead",
 				"prespp": 7,
-				"rus": 15,
+				"rush": 15,
 				"spp": 6,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"11756337": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Persqka Boughclip",
 				"prespp": 14,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11756339": {
 				"name": "Murzush Polhart",
 				"prespp": 2,
-				"retired": true,
 				"type": "R"
 			},
 			"11756342": {
@@ -60,98 +58,98 @@
 				"type": "R"
 			},
 			"11756344": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Homraz Kombina",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11756348": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Scrub Scrub",
 				"prespp": 17,
-				"rus": 6,
-				"tur": 17,
+				"rush": 6,
+				"turns": 17,
 				"type": "R"
 			},
 			"11767524": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Deramuz Trodalik",
 				"prespp": 9,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11898319": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Buce'ador Espeleólody",
 				"prespp": 4,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11919173": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Arprehdy Taenaerae",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		},
 		"878945": {
 			"11825655": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 4,
 				"name": "Lashweaver Taker of Souls",
 				"prespp": 25,
-				"rus": 17,
+				"rush": 17,
 				"spp": 11,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11825656": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Mistress of Pain",
 				"prespp": 20,
-				"rus": 17,
+				"rush": 17,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11825657": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Elyssar'sirath",
 				"prespp": 4,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11825658": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Laesydra",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11825659": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Shyak",
 				"prespp": 13,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11825660": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vha'shaelhur",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11825661": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Balzropht",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11825663": {
@@ -165,49 +163,67 @@
 			"11825665": {
 				"name": "Volgarax",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11850084": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lady Lestella",
 				"prespp": 6,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11916781": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Heladresh Lust-Bringer",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "994344",
-	"team_performance": {
+	"team": {
 		"874437": {
+			"blocks": 42,
 			"cas": 5,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bigwood Tree Shmashaz",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 96,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 131
 		},
 		"878945": {
+			"blocks": 32,
 			"cas": 5,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eternal Ecstasy",
+			"pass": 0,
+			"prespp": 79,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 34,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 105
 		}
 	}
 }

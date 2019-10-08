@@ -1,20 +1,19 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3873108",
-	"player_performance": {
+	"player": {
 		"854502": {
 			"11436807": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Oblomov IV",
 				"prespp": 9,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11436813": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Lev Nikolájevitj Mýsjkin",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11436823": {
@@ -23,205 +22,223 @@
 				"type": "R"
 			},
 			"11436825": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ardalión Iván Aleksándrovitj",
 				"prespp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11436826": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gavríla Gánja Ardaliónovitj",
 				"prespp": 5,
-				"rus": 3,
-				"tur": 15,
+				"rush": 3,
+				"turns": 15,
 				"type": "R"
 			},
 			"11436827": {
 				"name": "Iván Fjódorovitj Jepantjín",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 4,
-				"rus": 1,
-				"tur": 9,
+				"rush": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"11436828": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Lukján Timoféjevitj Lébedjev",
 				"prespp": 26,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11436832": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nikoláj Andréj Pavlísjtjev",
 				"prespp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11436833": {
-				"blk": 4,
-				"fou": 2,
+				"blocks": 4,
+				"fouls": 2,
 				"name": "Iván Petróvitj Ptítsyn",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 10,
-				"rus": 1,
-				"tur": 15,
+				"rush": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11436834": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Jevgénij Pávlovitj Radómskij",
 				"prespp": 6,
-				"rus": 6,
-				"tur": 9,
+				"rush": 6,
+				"turns": 9,
 				"type": "R"
 			},
 			"11436836": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Parfjón Semjónovitj Rogózjin",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11493956": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Grigor",
 				"prespp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11502335": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Afanásij Ivánovitj Tótskij",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11592707": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ilja Petrovitj",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"859097": {
 			"11512467": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Yajna Sri Satakarni",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512469": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Vasishthiputra Pulumavi",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512471": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Ghaggar-Hakra",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512474": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ananga",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512476": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Chola",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512478": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vaishnava",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 6,
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512480": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Khwarezm Kausambi",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11512482": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Amu Darya",
 				"prespp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11512483": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Vima Taktu",
 				"prespp": 8,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11570395": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Devaraja",
-				"pas": 1,
-				"rus": 15,
+				"pass": 1,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11606524": {
 				"name": "Shri Radha",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11626528": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Nirmala Sitharaman",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "933853",
-	"team_performance": {
+	"team": {
 		"854502": {
-			"cas": 1,
-			"casdiff": 1,
+			"blocks": 43,
+			"cas": 0,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Spartak Bolgasgrad",
+			"pass": 2,
+			"prespp": 78,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 11,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 160
 		},
 		"859097": {
+			"blocks": 40,
 			"cas": 0,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bhubaneswar Rampage",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 40,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 161
 		}
 	}
 }

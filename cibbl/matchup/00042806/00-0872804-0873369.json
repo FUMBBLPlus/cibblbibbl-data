@@ -1,85 +1,84 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3894340",
-	"player_performance": {
+	"player": {
 		"872804": {
 			"11727547": {
-				"blk": 1,
-				"cps": 2,
+				"blocks": 1,
+				"comp": 2,
 				"mvp": 1,
 				"name": "Brian Zaldanaann",
-				"pas": 10,
+				"pass": 10,
 				"prespp": 2,
-				"rus": 11,
+				"rush": 11,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727548": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Iroedil Amble",
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727549": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Estllithil Greybronc",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727550": {
 				"name": "John Ryanoion",
 				"prespp": 4,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11727551": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Joraere Amble",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727553": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Eltor Kliriuvrus",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 3,
-				"rus": 21,
+				"rush": 21,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727556": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Larthulvo Redmane",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727557": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Aedus Fairbairn",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11727558": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sanyar Feathering",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727559": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Utiol Highpaddock",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11727560": {
@@ -87,48 +86,47 @@
 				"type": "R"
 			},
 			"11743672": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Kevin Whitehammer",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"873369": {
 			"11737364": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hybree",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11737365": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Trikhuf",
 				"prespp": 4,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11737376": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Weyrot",
 				"prespp": 2,
 				"type": "R"
 			},
 			"11737379": {
 				"name": "Baahru",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11737388": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Shurtehl",
-				"rus": 4,
-				"tur": 10,
+				"rush": 4,
+				"turns": 10,
 				"type": "R"
 			},
 			"11737395": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					2,
@@ -136,73 +134,92 @@
 					"11727557"
 				],
 				"name": "Fuhree",
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"11737406": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Yihreigh",
 				"prespp": 3,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11737432": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Fulmayne Thrice-Crowned",
 				"prespp": 11,
-				"rus": 3,
-				"tur": 14,
+				"rush": 3,
+				"turns": 14,
 				"type": "R"
 			},
 			"11737433": {
-				"blk": 10,
+				"blocks": 10,
 				"mvp": 1,
 				"name": "Breyyar Scoredrinker",
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737434": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Stoneflagon Rhuheigh",
 				"prespp": 7,
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737443": {
 				"name": "Yronleg the Barrelbeast",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "958624",
-	"team_performance": {
+	"team": {
 		"872804": {
-			"cas": 4,
-			"casdiff": 3,
+			"blocks": 35,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 3,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Zutzendorf Stallions",
+			"pass": 11,
+			"prespp": 17,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 32,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 140
 		},
 		"873369": {
-			"cas": 1,
-			"casdiff": -3,
+			"blocks": 29,
+			"cas": 0,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Schattenwald Drinking Horns",
+			"pass": 0,
+			"prespp": 29,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 15,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 91
 		}
 	}
 }

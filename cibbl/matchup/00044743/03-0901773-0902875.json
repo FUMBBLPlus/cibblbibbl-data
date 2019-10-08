@@ -1,49 +1,47 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3980278",
-	"player_performance": {
+	"player": {
 		"901773": {
 			"12188825": {
 				"name": "Vueech Emberrunner",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12188828": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kheetch Darkscream",
 				"prespp": 18,
-				"rus": 45,
+				"rush": 45,
 				"spp": 6,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"12188830": {
 				"name": "Skritch Highbinder",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12188831": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Qixqokch Headtaker",
 				"prespp": 9,
-				"rus": 2,
+				"rush": 2,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12188832": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Straxqenq Silentreaper",
 				"prespp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12188833": {
-				"blk": 6,
+				"blocks": 6,
 				"dead": [
 					2,
 					1,
@@ -51,154 +49,171 @@
 					"12206483"
 				],
 				"name": "Xalk Blazingclaw",
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"12188834": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Eqal Broadseeker",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12188835": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Qrokhuat Barbmaster",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12188837": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Znuol Verminsnout",
 				"prespp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12216635": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Rikek",
 				"spp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "B"
 			},
 			"12223840": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ulric Clearstone",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			}
 		},
 		"902875": {
 			"12206473": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Willie War",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12206474": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Paul Pike",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12206475": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Charles Castle",
 				"prespp": 3,
-				"rus": -4,
-				"tur": 15,
+				"rush": -4,
+				"turns": 15,
 				"type": "R"
 			},
 			"12206476": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Leroy Logistics",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12206477": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Colleen Charge",
-				"rus": 9,
-				"tur": 15,
+				"rush": 9,
+				"turns": 15,
 				"type": "R"
 			},
 			"12206478": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jack Jettison",
-				"rus": 4,
-				"tur": 15,
+				"rush": 4,
+				"turns": 15,
 				"type": "R"
 			},
 			"12206481": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Timothy Tank",
-				"pas": -1,
-				"rus": 7,
-				"tur": 9,
+				"pass": -1,
+				"rush": 7,
+				"turns": 9,
 				"type": "R"
 			},
 			"12206482": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Bernard Wolf",
 				"prespp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12206483": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Gregory Wolf",
 				"prespp": 7,
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12206484": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Blake Bunker",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "B"
 			},
 			"12226489": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Martin Hideousstream",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1057721",
-	"team_performance": {
+	"team": {
 		"901773": {
+			"blocks": 44,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rikek Revenge",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 38,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 47,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 129
 		},
 		"902875": {
+			"blocks": 31,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "T.H.H.U. Slayers",
+			"pass": -1,
+			"prespp": 17,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 129
 		}
 	}
 }

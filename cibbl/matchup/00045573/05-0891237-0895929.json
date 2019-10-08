@@ -1,25 +1,24 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4019977",
-	"player_performance": {
+	"player": {
 		"891237": {
 			"12022005": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Swan Alphon",
 				"prespp": 33,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022006": {
-				"blk": 2,
-				"cps": 2,
+				"blocks": 2,
+				"comp": 2,
 				"name": "Heni Hethurin",
-				"pas": 11,
+				"pass": 11,
 				"prespp": 56,
-				"rus": 6,
+				"rush": 6,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022008": {
@@ -28,123 +27,123 @@
 				"type": "R"
 			},
 			"12022010": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Dew Midhon",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12022022": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mirilan Antegobon",
 				"prespp": 44,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12104982": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Meret Scuffedon",
 				"prespp": 37,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12162547": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Foni Piemondon",
 				"prespp": 34,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12219903": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Rebo Rebelodon",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12229237": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Coron Shottelodon",
 				"prespp": 25,
-				"rus": 13,
+				"rush": 13,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12354844": {
 				"name": "Heni Heturin Jr.",
 				"prespp": 7,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12360754": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Melith Astenodon",
 				"prespp": 19,
 				"spp": 4,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"895929": {
 			"12098257": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Clawchest",
 				"prespp": 44,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12098258": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Silverscar",
 				"prespp": 34,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Silverstriker",
 				"prespp": 21,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12098294": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Blackchewer",
 				"prespp": 24,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12098297": {
 				"name": "Duskdigger",
 				"prespp": 54,
-				"rus": 41,
+				"rush": 41,
 				"spp": 6,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"12136367": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Fangsnapper Jr",
 				"prespp": 32,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12166472": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Fangsnapper Jr Jr",
 				"prespp": 4,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12184769": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					6,
@@ -153,22 +152,23 @@
 				],
 				"name": "Barbedbreath",
 				"prespp": 23,
-				"tur": 13,
+				"retired": true,
+				"turns": 13,
 				"type": "R"
 			},
 			"12265899": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dustbinder",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12295244": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Broadreaper",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12338228": {
@@ -176,52 +176,70 @@
 				"type": "R"
 			},
 			"12345051": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Crowripper",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12345108": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Windfury Jr",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
-			"895929M1": {
+			"MERC-7339-0842": {
 				"name": "Merc Clan Rat 1",
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1104455",
-	"team_performance": {
+	"team": {
 		"891237": {
+			"blocks": 27,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Dukes of Earthquake Valley",
+			"pass": 11,
+			"prespp": 300,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 120
 		},
 		"895929": {
+			"blocks": 31,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 255,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 142
 		}
 	}
 }

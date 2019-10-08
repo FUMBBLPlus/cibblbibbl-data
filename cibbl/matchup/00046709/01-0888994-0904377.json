@@ -1,40 +1,39 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4060651",
-	"player_performance": {
+	"player": {
 		"888994": {
 			"11985437": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Vargwursgelnd",
 				"prespp": 67,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11985438": {
-				"blk": 14,
+				"blocks": 14,
 				"cas": 1,
 				"name": "Gwoftirbnewfg",
 				"prespp": 120,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11985441": {
 				"mvp": 1,
 				"name": "Murchú Varken",
 				"prespp": 35,
-				"rus": 21,
+				"rush": 21,
 				"spp": 8,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11985462": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Jforznthrargh",
 				"prespp": 70,
-				"tur": 13,
+				"turns": 13,
 				"type": "B"
 			},
 			"12031804": {
@@ -43,23 +42,23 @@
 				"type": "R"
 			},
 			"12042228": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Aodhán Coobe",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12129508": {
 				"name": "Hanrahan Fearghail",
 				"prespp": 40,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12297183": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Olcán Cid",
 				"prespp": 15,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12341066": {
@@ -68,10 +67,10 @@
 				"type": "R"
 			},
 			"12350238": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Fwirsvognal",
 				"prespp": 53,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12413857": {
@@ -80,12 +79,12 @@
 			},
 			"12529352": {
 				"name": "Domhnall Marney",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12529367": {
 				"name": "Rúadhnait Volux",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12555077": {
@@ -96,146 +95,165 @@
 					"12231325"
 				],
 				"name": "Kjarten Fovor",
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"12585534": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Caelan Ariannona",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12664451": {
 				"name": "Neasa Rydan",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"904377": {
 			"12231317": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ruby, Fury of the Ancients",
 				"prespp": 44,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12231319": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sapphire, the Everflowing",
 				"prespp": 44,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231325": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Emerald, Keeper of Gaia",
 				"prespp": 52,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231332": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Topaz, Ray of Sun",
 				"prespp": 23,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231335": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Diamond, Light of Steadiness",
 				"prespp": 39,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12231336": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Aquamarine, Gleaming Spring",
 				"prespp": 34,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12343156": {
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Alexandrite, Second of Janus",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12405289": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Obsidian, Second Fireflow",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12449700": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tourmaline, Prism of Radiance",
 				"prespp": 20,
-				"rus": 9,
-				"tur": 8,
+				"rush": 9,
+				"turns": 8,
 				"type": "R"
 			},
 			"12458077": {
 				"name": "Spinel, Second Chasm of Light",
 				"prespp": 9,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12489390": {
 				"name": "Carnelian, the Bloodstone",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12504202": {
 				"name": "Quartz, Ice Dome",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12546080": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Jasper, Will of the Mountain",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12553526": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Pearl, Fourth Seal of Perseverance",
 				"prespp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "B"
 			}
 		}
 	},
 	"replayId": "1151022",
-	"team_performance": {
+	"team": {
 		"888994": {
+			"blocks": 40,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Beerbog Behemoths",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 559,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 157
 		},
 		"904377": {
+			"blocks": 39,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Aurons",
+			"pass": 0,
+			"prespp": 298,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 166
 		}
 	}
 }

@@ -1,93 +1,91 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4042207",
-	"player_performance": {
+	"player": {
 		"895929": {
 			"12098257": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Clawchest",
 				"prespp": 71,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12098258": {
 				"name": "Silverscar",
 				"prespp": 49,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Silverstriker",
 				"prespp": 25,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098297": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Duskdigger",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 84,
-				"rus": 24,
-				"tur": 16,
+				"rush": 24,
+				"turns": 16,
 				"type": "R"
 			},
 			"12136367": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Fangsnapper Jr",
 				"prespp": 44,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12166472": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Fangsnapper Jr Jr",
 				"prespp": 34,
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12265899": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Dustbinder",
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12295244": {
 				"name": "Broadreaper",
 				"prespp": 18,
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12345051": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Crowripper",
 				"prespp": 9,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12345108": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Windfury Jr",
 				"prespp": 18,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12496226": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Crowchest",
 				"prespp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12496241": {
@@ -95,15 +93,15 @@
 				"type": "R"
 			},
 			"12508550": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Flintbasher",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12561519": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Crowscar",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12576908": {
@@ -119,64 +117,64 @@
 				"type": "R"
 			},
 			"12122273": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Deep Root",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122274": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Long Branch",
 				"prespp": 28,
 				"spp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12122275": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "River Whip",
 				"prespp": 69,
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12122276": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "White Leaf",
 				"prespp": 24,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122280": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Lichen",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12168335": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Gray Timber",
 				"prespp": 31,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12171988": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Nut",
 				"prespp": 19,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12497695": {
@@ -185,71 +183,89 @@
 				"type": "R"
 			},
 			"12501405": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Fruit",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12515971": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Vine",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12529934": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Fungus",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12529938": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Slip Stream",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12559341": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Hollow",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
-			"897376M1": {
-				"blk": 3,
+			"MERC-7410-0678": {
+				"blocks": 3,
 				"cas": 1,
 				"name": "Merc Willow Aspect 1",
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1130231",
-	"team_performance": {
+	"team": {
 		"895929": {
+			"blocks": 41,
 			"cas": 2,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
+			"pass": 1,
+			"prespp": 361,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 30,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 138
 		},
 		"897376": {
+			"blocks": 56,
 			"cas": 5,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Darkenwood Sentinels",
+			"pass": 0,
+			"prespp": 273,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 141
 		}
 	}
 }

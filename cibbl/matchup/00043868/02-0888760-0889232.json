@@ -1,70 +1,69 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3939091",
-	"player_performance": {
+	"player": {
 		"888760": {
 			"11982012": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Gusraz The Lonebringer",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982018": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Taghoth Wrathfather",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982019": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ogbund Emberbender",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982020": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Tuzkan Nightgaze",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982021": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Cagbuth Chaosforce",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982023": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Trennel Skullstriker",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982028": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Scu'draz Ambercrest",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11982029": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Zazhrin Emberborn",
-				"rus": 20,
+				"rush": 20,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982030": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Crazgind Battleforged",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982032": {
@@ -72,130 +71,147 @@
 				"type": "R"
 			},
 			"11982034": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ciggus Rageborn",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11994718": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Xavier Grottyshield",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			}
 		},
 		"889232": {
 			"11989945": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Slade",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11989946": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Chthonic Cinnabar",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989951": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Chthonic Pitchblende",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989952": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Cobaltite",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989953": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Chthonic Granite",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11989954": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Chthonic Jet",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11989958": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Chthonic Gabbro",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11989962": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Magma Imp",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11989967": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sylph Wisp",
 				"prespp": 3,
-				"rus": -1,
-				"tur": 16,
+				"rush": -1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989973": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Naiad Nomia",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989977": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Naiad Eretria",
-				"pas": 1,
-				"rus": 2,
+				"pass": 1,
+				"rush": 2,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11989980": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chthonic Kaolinite",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1010581",
-	"team_performance": {
+	"team": {
 		"888760": {
+			"blocks": 47,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Brothers Of Malice",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 9,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 20,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 165
 		},
 		"889232": {
+			"blocks": 46,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lost Golems of Grungni",
+			"pass": 1,
+			"prespp": 10,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 1,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 149
 		}
 	}
 }

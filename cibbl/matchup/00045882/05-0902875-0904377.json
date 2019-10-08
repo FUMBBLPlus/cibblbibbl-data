@@ -1,23 +1,21 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4033747",
-	"player_performance": {
+	"player": {
 		"902875": {
 			"12206473": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Willie War",
 				"prespp": 9,
-				"rus": 4,
-				"tur": 17,
+				"rush": 4,
+				"turns": 17,
 				"type": "R"
 			},
 			"12206474": {
 				"name": "Paul Pike",
 				"prespp": 7,
-				"retired": true,
-				"rus": 3,
-				"tur": 7,
+				"rush": 3,
+				"turns": 7,
 				"type": "R"
 			},
 			"12206475": {
@@ -26,39 +24,39 @@
 				"type": "R"
 			},
 			"12206482": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bernard Wolf",
 				"prespp": 16,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12206483": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Gregory Wolf",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 54,
-				"rus": -2,
+				"rush": -2,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12232700": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Fangtooth Grayback",
 				"prespp": 26,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12277143": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Foxy Notta Wolf",
 				"prespp": 31,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12340452": {
@@ -67,64 +65,64 @@
 				"type": "R"
 			},
 			"12353602": {
-				"cps": 1,
-				"fou": 1,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Tommy Tank",
 				"prespp": 6,
-				"rus": -4,
+				"rush": -4,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12353604": {
-				"cps": 2,
+				"comp": 2,
 				"name": "Cindy Charge",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 7,
-				"rus": 11,
+				"rush": 11,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12465108": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Betty Bunker",
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12508263": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bobby Joe Bomber",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "B"
 			}
 		},
 		"904377": {
 			"12231317": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Ruby",
 				"prespp": 36,
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12231319": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sapphire",
 				"prespp": 36,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12231325": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Emerald",
 				"prespp": 36,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12231332": {
@@ -133,98 +131,116 @@
 				"type": "R"
 			},
 			"12231335": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Diamond",
 				"prespp": 36,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12231336": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Aquamarine",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12343156": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Alexandrite II",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12405289": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Obsidian II",
 				"prespp": 10,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12449700": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Tourmaline",
 				"prespp": 9,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12458077": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Spinel II",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12489390": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Carnelian",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12504202": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Quartz",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12517130": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Pearl III",
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			}
 		}
 	},
 	"replayId": "1120260",
-	"team_performance": {
+	"team": {
 		"902875": {
-			"cas": 2,
-			"casdiff": 0,
+			"blocks": 16,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 4,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "T.H.H.U. Slayers",
+			"pass": 2,
+			"prespp": 186,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 12,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 130
 		},
 		"904377": {
+			"blocks": 44,
 			"cas": 2,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Aurons",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 204,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 27,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 186
 		}
 	}
 }

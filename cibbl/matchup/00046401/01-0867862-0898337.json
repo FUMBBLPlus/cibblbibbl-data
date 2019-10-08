@@ -1,48 +1,47 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4046548",
-	"player_performance": {
+	"player": {
 		"867862": {
 			"11722423": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Vur",
 				"prespp": 65,
-				"rus": 5,
+				"rush": 5,
 				"spp": 10,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11782667": {
-				"blk": 1,
-				"fou": 6,
+				"blocks": 1,
+				"fouls": 6,
 				"name": "Vir",
 				"prespp": 13,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11917261": {
 				"name": "Irtriss",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 101,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"11946085": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Tarotep of Horin 'Reth",
 				"prespp": 83,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122939": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Treth' Kon Sharkface",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12215612": {
@@ -50,102 +49,102 @@
 				"type": "R"
 			},
 			"12223534": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Chitol",
 				"prespp": 57,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12264876": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Imir' Zhan of Thorgotan",
 				"prespp": 54,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12328835": {
-				"blk": 2,
-				"fou": 3,
+				"blocks": 2,
+				"fouls": 3,
 				"name": "Trizt",
 				"prespp": 10,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12328836": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Agres",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12426289": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gremir the Sphinx",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12475482": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Alon",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12502278": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ersen",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12517244": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ka 'Rin",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12539513": {
 				"name": "Komin 'Ra",
 				"prespp": 6,
-				"rus": 24,
+				"rush": 24,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"898337": {
 			"12143074": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sebek",
 				"prespp": 38,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12143075": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Remi",
 				"prespp": 43,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12143078": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Khoaat",
 				"prespp": 20,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12143079": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Aniath",
 				"prespp": 41,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12143081": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Heperu",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12168121": {
@@ -154,15 +153,15 @@
 				"type": "R"
 			},
 			"12319537": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kasut",
 				"prespp": 56,
-				"rus": 7,
-				"tur": 7,
+				"rush": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12320351": {
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Sebhor",
 				"prespp": 12,
@@ -170,40 +169,40 @@
 				"type": "R"
 			},
 			"12359972": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Amanten",
 				"prespp": 18,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12374625": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Sobhis",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12420586": {
 				"name": "Memher",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12464992": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Khojupet",
 				"prespp": 14,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12511014": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Iumut",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12541549": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					7,
@@ -211,7 +210,8 @@
 					null
 				],
 				"name": "Oakhit",
-				"tur": 14,
+				"retired": true,
+				"turns": 14,
 				"type": "R"
 			},
 			"12552302": {
@@ -222,41 +222,60 @@
 					"12264876"
 				],
 				"name": "Gensa",
+				"retired": true,
 				"type": "R"
 			},
-			"898337S1": {
-				"fou": 1,
+			"STAR-7548": {
+				"fouls": 1,
 				"name": "Hack Enslash",
-				"tur": 1,
+				"turns": 1,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1135127",
-	"team_performance": {
+	"team": {
 		"867862": {
-			"cas": 3,
-			"casdiff": 3,
+			"blocks": 65,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 9,
+			"int": 0,
+			"mvp": 1,
 			"name": "Everlasting Vultures of Settra",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 389,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 35,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 169
 		},
 		"898337": {
+			"blocks": 33,
 			"cas": 0,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mahrak Maulers",
+			"pass": 0,
+			"prespp": 293,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 7,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 131
 		}
 	}
 }

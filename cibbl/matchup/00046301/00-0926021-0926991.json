@@ -1,31 +1,30 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4043894",
-	"player_performance": {
+	"player": {
 		"926021": {
 			"12569456": {
-				"blk": 3,
-				"cps": 2,
+				"blocks": 3,
+				"comp": 2,
 				"mvp": 1,
 				"name": "Bronsa Gaten",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 9,
-				"rus": 8,
+				"rush": 8,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569457": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"cps": 3,
+				"comp": 3,
 				"name": "Drullora Indrndil",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 3,
-				"rus": 6,
+				"rush": 6,
 				"spp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12569459": {
@@ -34,30 +33,30 @@
 				"type": "R"
 			},
 			"12569464": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nevaramu Rivinith",
 				"prespp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12569465": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Senivene Relvdel",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569469": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Bradasu Idreothan",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569470": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Alenmisa Ratlnim",
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569472": {
@@ -68,30 +67,31 @@
 					"12585194"
 				],
 				"name": "Vedenila Giryoran",
-				"tur": 7,
+				"retired": true,
+				"turns": 7,
 				"type": "R"
 			},
 			"12569474": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ferinosu Theneno",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12569475": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gadyith Radolnith",
 				"prespp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12578383": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Roxanna Strongspike",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12588643": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"dead": [
 					2,
@@ -100,88 +100,89 @@
 					null
 				],
 				"name": "Aduvesu Damorothan",
+				"retired": true,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"926991": {
 			"12585189": {
-				"blk": 10,
+				"blocks": 10,
 				"mvp": 1,
 				"name": "Malice Itself",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12585190": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Vaztak Chaosbane",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585191": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ma'tet",
-				"rus": 13,
-				"tur": 16,
+				"rush": 13,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585192": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ma'nem",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585193": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Ma'zek",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585194": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Ma'zoth",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585195": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ma'thik",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12585196": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ma'ret",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585197": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ma'kra",
-				"rus": 25,
+				"rush": 25,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585198": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ma'nien",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585199": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					1,
@@ -189,36 +190,55 @@
 					"12588643"
 				],
 				"name": "Ma'ane",
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1132147",
-	"team_performance": {
+	"team": {
 		"926021": {
+			"blocks": 21,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 5,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sledge Sisters",
+			"pass": 7,
+			"prespp": 24,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 134
 		},
 		"926991": {
+			"blocks": 38,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malign Malignation",
+			"pass": 0,
+			"prespp": 22,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 167
 		}
 	}
 }

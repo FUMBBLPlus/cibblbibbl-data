@@ -1,17 +1,16 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3968277",
-	"player_performance": {
+	"player": {
 		"874602": {
 			"11759478": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Soso",
 				"prespp": 64,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11759486": {
@@ -20,28 +19,28 @@
 				"type": "R"
 			},
 			"11759487": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gobespierre",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11759495": {
 				"name": "Gobbibaldi",
 				"prespp": 18,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11773725": {
 				"name": "Bomma Meinhof",
 				"prespp": 8,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11834404": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gobiliano Fanata",
 				"prespp": 22,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12061902": {
@@ -51,7 +50,7 @@
 			},
 			"12088658": {
 				"name": "Waaaghcuse",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12122471": {
@@ -59,37 +58,36 @@
 				"type": "R"
 			},
 			"12135353": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Bronstein",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12135356": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Degovoir",
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12166791": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cory Hardorc",
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			},
 			"12166792": {
 				"name": "Billy Truestone",
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
 			"12166793": {
 				"name": "Osmond Goldhammer",
-				"retired": true,
-				"rus": 2,
-				"tur": 13,
+				"rush": 2,
+				"turns": 13,
 				"type": "J"
 			}
 		},
@@ -100,22 +98,22 @@
 				"type": "R"
 			},
 			"12022005": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Swan Alphon",
 				"prespp": 20,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12022006": {
-				"cps": 3,
+				"comp": 3,
 				"name": "Heni Hethurin",
-				"pas": 13,
+				"pass": 13,
 				"prespp": 30,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022007": {
@@ -123,102 +121,118 @@
 				"type": "R"
 			},
 			"12022008": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Tety Goweston",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022010": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Dew Midhon",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12022012": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Pirin Alfirinor",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022014": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Meretment Estoladon",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 9,
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022022": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Mirilan Antegobon",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12104982": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Meret Scuffedon",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 16,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12162547": {
 				"name": "Foni Piemondon",
-				"rus": 26,
+				"rush": 26,
 				"spp": 9,
-				"tds": 3,
-				"tur": 16,
+				"td": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12162548": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "David Deepbone",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12162549": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Leroy Deepfield",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1043938",
-	"team_performance": {
+	"team": {
 		"874602": {
+			"blocks": 29,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Goblin Revolushunary Kommittee",
+			"pass": 0,
+			"prespp": 163,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 127
 		},
 		"891237": {
+			"blocks": 41,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 3,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Dukes of Earthquake Valley",
-			"prestige": 3,
+			"pass": 15,
+			"prespp": 115,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 40,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 159
 		}
 	}
 }

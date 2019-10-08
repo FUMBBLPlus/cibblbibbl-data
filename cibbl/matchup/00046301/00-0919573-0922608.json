@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4041781",
-	"player_performance": {
+	"player": {
 		"919573": {
 			"12469183": {
 				"name": "Tornbull",
@@ -10,84 +9,83 @@
 				"type": "B"
 			},
 			"12469184": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Blightbasher",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469185": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Warpserker",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469186": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Toerot",
 				"prespp": 23,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469191": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Tech Toetacker",
 				"prespp": 17,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12469192": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Znukch Clothclaw",
 				"prespp": 6,
 				"type": "R"
 			},
 			"12469194": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Crenq Brightear",
-				"rus": 7,
+				"rush": 7,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12469197": {
 				"name": "Zalk Weavepaw",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12469210": {
 				"name": "Srotch Firebaster",
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 6,
+				"td": 1,
+				"turns": 6,
 				"type": "R"
 			},
 			"12539782": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Krulk Needlehand",
 				"prespp": 8,
-				"rus": 3,
-				"tur": 15,
+				"rush": 3,
+				"turns": 15,
 				"type": "R"
 			},
 			"12577931": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Tristan Hideousfire",
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "J"
 			},
 			"12577932": {
@@ -98,65 +96,64 @@
 					"12514745"
 				],
 				"name": "David Silenteagle",
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "J"
 			}
 		},
 		"922608": {
 			"12514742": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Gore-Clad",
 				"prespp": 5,
-				"rus": 20,
+				"rush": 20,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12514744": {
 				"name": "Corrupt Father of Plagues",
 				"prespp": 6,
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12514745": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Changer of Ways",
 				"prespp": 16,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12514746": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Shadow of Kurgan",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12514747": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Legend of Cormac",
 				"prespp": 11,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12514748": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Asavar the Parasite",
 				"prespp": 9,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12514751": {
 				"name": "Uggir of Dolgan",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12514754": {
@@ -165,7 +162,7 @@
 				"type": "R"
 			},
 			"12514760": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					3,
@@ -174,55 +171,74 @@
 				],
 				"name": "Srirbo of Thamak",
 				"prespp": 6,
-				"tur": 11,
+				"retired": true,
+				"turns": 11,
 				"type": "R"
 			},
 			"12576997": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Prince of Fell pleasures II",
 				"prespp": 6,
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12578183": {
-				"cps": 2,
+				"comp": 2,
 				"name": "Unbar the Reborn",
-				"pas": 1,
-				"rus": 4,
+				"pass": 1,
+				"rush": 4,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1129777",
-	"team_performance": {
+	"team": {
 		"919573": {
+			"blocks": 34,
 			"cas": 5,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ragtag Animal Training Sartors",
+			"pass": 0,
+			"prespp": 95,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 27,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 110
 		},
 		"922608": {
+			"blocks": 26,
 			"cas": 5,
 			"casdiff": 0,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Horsemen of The Great Kurgan",
+			"pass": 1,
+			"prespp": 71,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 30,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 106
 		}
 	}
 }

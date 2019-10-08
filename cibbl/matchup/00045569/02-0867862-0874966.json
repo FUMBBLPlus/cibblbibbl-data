@@ -1,46 +1,45 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4011532",
-	"player_performance": {
+	"player": {
 		"867862": {
 			"11646901": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Muk",
 				"prespp": 55,
-				"rus": 5,
-				"tur": 15,
+				"rush": 5,
+				"turns": 15,
 				"type": "R"
 			},
 			"11722423": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Vur",
 				"prespp": 57,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11782667": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Vir",
 				"prespp": 13,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11917261": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Irtriss",
 				"prespp": 73,
-				"rus": 4,
-				"tur": 13,
+				"rush": 4,
+				"turns": 13,
 				"type": "R"
 			},
 			"11946085": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Tarotep of Horin 'Reth",
 				"prespp": 58,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122939": {
@@ -48,57 +47,57 @@
 				"type": "R"
 			},
 			"12199989": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Umir",
 				"prespp": 9,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12215612": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kudir",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12223534": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chitol",
 				"prespp": 28,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12264876": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Imir' Zhan of Thorgotan",
 				"prespp": 36,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295931": {
 				"name": "Kirath",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12328835": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Trizt",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12328836": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Agres",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12331857": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					7,
@@ -107,23 +106,24 @@
 				],
 				"name": "Habir ben Hasslef",
 				"prespp": 2,
-				"tur": 7,
+				"retired": true,
+				"turns": 7,
 				"type": "R"
 			},
 			"12368122": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Ir' Tos",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		},
 		"874966": {
 			"11764899": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Benethor",
 				"prespp": 39,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11764917": {
@@ -132,55 +132,55 @@
 				"type": "R"
 			},
 			"11764921": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Morlanna",
 				"prespp": 70,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11836559": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 4,
 				"name": "Vanhir",
 				"prespp": 82,
-				"rus": 9,
+				"rush": 9,
 				"spp": 11,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938500": {
 				"name": "Mereia",
 				"prespp": 31,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11967724": {
-				"cps": 2,
+				"comp": 2,
 				"name": "Hauclir",
-				"pas": 11,
+				"pass": 11,
 				"prespp": 34,
-				"rus": 30,
+				"rush": 30,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12052561": {
 				"name": "Mereia",
 				"prespp": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12072196": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Jokleel",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122141": {
@@ -189,10 +189,10 @@
 				"type": "R"
 			},
 			"12231028": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nimrodel",
 				"prespp": 19,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12289349": {
@@ -206,45 +206,61 @@
 				"type": "B"
 			},
 			"12409143": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Yorick Fasthawk",
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "J"
 			},
 			"12409144": {
 				"name": "Robert Vilestone",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1095061",
-	"team_performance": {
+	"team": {
 		"867862": {
-			"cas": 3,
-			"casdiff": -2,
+			"blocks": 38,
+			"cas": 1,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Everlasting Vultures of Settra",
+			"pass": 0,
+			"prespp": 331,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 28,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 165
 		},
 		"874966": {
+			"blocks": 23,
 			"cas": 5,
-			"casdiff": 2,
+			"casdiff": 4,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
-			"prestige": 3,
+			"pass": 11,
+			"prespp": 339,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 39,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 111
 		}
 	}
 }

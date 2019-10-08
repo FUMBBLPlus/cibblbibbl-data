@@ -1,27 +1,26 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3988635",
-	"player_performance": {
+	"player": {
 		"896228": {
 			"12103149": {
 				"name": "Mortarion",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12103152": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ku'Gath",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103156": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Epidemius",
 				"prespp": 21,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103165": {
@@ -32,26 +31,27 @@
 					"12122314"
 				],
 				"name": "Mattius Heiron",
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"12103185": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Garalash",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12114193": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Omphuross",
 				"prespp": 31,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12124731": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					2,
@@ -60,108 +60,109 @@
 				],
 				"name": "Rabius",
 				"prespp": 23,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"12143379": {
 				"name": "Malarus",
 				"prespp": 19,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12179689": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Syphidemis",
 				"prespp": 15,
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12225641": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Mathor",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12235165": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Svotrax",
-				"rus": 11,
+				"rush": 11,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"897379": {
 			"12122311": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gotrek Gurnisson",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122312": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Snorri Nosebiter",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122314": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Malakai Makaisson",
 				"prespp": 23,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12122318": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cpt. Long Drong",
 				"prespp": 22,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12122319": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "First Mate Morgrim Dallinsson",
 				"prespp": 32,
-				"rus": 8,
+				"rush": 8,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122320": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Finn Hargrimsson",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122325": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Yadri Budriksson",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122326": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Belegar Baliksnev",
 				"prespp": 4,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12122328": {
@@ -170,10 +171,10 @@
 				"type": "R"
 			},
 			"12122331": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Fodrin Ranulfsson",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122332": {
@@ -182,52 +183,70 @@
 				"type": "R"
 			},
 			"12182659": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Rodi Balkisson",
 				"prespp": 21,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12243406": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Bjorni Bjornisson",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12279605": {
 				"name": "Kettri Flakkisson",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1067430",
-	"team_performance": {
+	"team": {
 		"896228": {
+			"blocks": 42,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gardeners of Nurgle",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 150,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 142
 		},
 		"897379": {
+			"blocks": 55,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "~Karak Kadrin Slayers~",
+			"pass": 0,
+			"prespp": 156,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 8,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 172
 		}
 	}
 }

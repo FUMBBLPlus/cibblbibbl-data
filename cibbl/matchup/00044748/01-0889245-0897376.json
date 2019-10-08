@@ -1,89 +1,88 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3977562",
-	"player_performance": {
+	"player": {
 		"889245": {
 			"11990252": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Moving Shadows",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 41,
-				"rus": 23,
+				"rush": 23,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990253": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lurking Beneath",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11990254": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sneaking Carpet",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990255": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Growling Brook",
 				"prespp": 15,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11990257": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Fuming Badger",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990260": {
 				"name": "Drunken Skunk",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11990261": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Snorting Fox",
 				"prespp": 6,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12034801": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Snickering Sausage",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12065206": {
 				"name": "Crazy Flea",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12105176": {
 				"name": "Furious Fish",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12124639": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Knee pains",
 				"prespp": 16,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12149651": {
@@ -94,18 +93,19 @@
 					"12122281"
 				],
 				"name": "Lazy Landshark",
+				"retired": true,
 				"type": "R"
 			},
 			"12187531": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Cornelius Frog",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12199879": {
 				"name": "Petty Possum",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			}
 		},
@@ -116,100 +116,100 @@
 				"type": "R"
 			},
 			"12122273": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Deep Root",
 				"prespp": 6,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12122274": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Long Branch",
 				"prespp": 14,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122275": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "River Whip",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 18,
-				"rus": 28,
+				"rush": 28,
 				"spp": 6,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122276": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "White Leaf",
 				"prespp": 4,
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122279": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Moss",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122280": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Lichen",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12122281": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Burl",
 				"prespp": 11,
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12122282": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mushroom",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12122284": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Vine",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12163493": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Swift Switch",
-				"pas": -2,
-				"rus": 3,
+				"pass": -2,
+				"rush": 3,
 				"spp": 6,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12168335": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gray Timber",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12171988": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nut",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
-			"897376S1": {
-				"blk": 6,
+			"STAR-7584": {
+				"blocks": 6,
 				"dead": [
 					2,
 					2,
@@ -217,36 +217,54 @@
 					"12124639"
 				],
 				"name": "Willow Rosebark",
-				"tur": 9,
+				"turns": 9,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1054641",
-	"team_performance": {
+	"team": {
 		"889245": {
+			"blocks": 35,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Shroomwood Attercops",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 139,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 147
 		},
 		"897376": {
+			"blocks": 59,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Darkenwood Sentinels",
+			"pass": -1,
+			"prespp": 65,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 35,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 152
 		}
 	}
 }

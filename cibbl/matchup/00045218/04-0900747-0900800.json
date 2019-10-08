@@ -1,63 +1,62 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4008032",
-	"player_performance": {
+	"player": {
 		"900747": {
 			"12173110": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Stonemuncher the Ancient",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12173143": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dialor the Noble",
 				"prespp": 27,
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173145": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Khras the Enslaved",
 				"prespp": 22,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12173148": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Uzras Strongblade",
 				"prespp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12173151": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hrkas Prouddeath",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173152": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Oklas the Devastator",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173153": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Ghras Paingiver",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12173155": {
@@ -72,10 +71,10 @@
 				"type": "B"
 			},
 			"12320799": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "GRaarzas",
 				"prespp": 7,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12329751": {
@@ -83,93 +82,93 @@
 					1,
 					8,
 					"eaten",
-					"12173110"
+					null
 				],
 				"name": "The flying Fred",
 				"prespp": 1,
-				"tur": 7,
+				"retired": true,
+				"turns": 7,
 				"type": "R"
 			},
 			"12388585": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Fredrick Coldwing",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"900800": {
 			"12173741": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Rath Koulm",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12173742": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grath Telff",
 				"prespp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12173743": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Piul Erff",
 				"prespp": 20,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12173744": {
-				"blk": 11,
+				"blocks": 11,
 				"mvp": 1,
 				"name": "Ghisel Yurgen",
 				"prespp": 15,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12173768": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Leroy Stronghaw",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12173769": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Ian Silentor",
 				"prespp": 16,
-				"rus": 11,
+				"rush": 11,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12173770": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Albert Goldfi",
 				"prespp": 7,
-				"rus": 19,
+				"rush": 19,
 				"spp": 5,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12173774": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Xavier Stpike",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12173775": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sylvester Deepfy",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12350871": {
@@ -178,42 +177,59 @@
 			},
 			"12388561": {
 				"name": "Evander Clumsyeagle",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "J"
 			},
 			"12388562": {
 				"name": "Duane Fastspike",
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1091058",
-	"team_performance": {
+	"team": {
 		"900747": {
+			"blocks": 41,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Black Monolith Worshippers",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 104,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 137
 		},
 		"900800": {
+			"blocks": 52,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Haunted Forest Sons of Chaos",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 79,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 30,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 153
 		}
 	}
 }

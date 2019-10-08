@@ -1,96 +1,95 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3969742",
-	"player_performance": {
+	"player": {
 		"874602": {
 			"11759478": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 3,
 				"name": "Soso",
 				"prespp": 71,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11759486": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Oliver Gobwell",
 				"prespp": 42,
-				"rus": 30,
+				"rush": 30,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"11759487": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gobespierre",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11759495": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gobbibaldi",
 				"prespp": 18,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11773725": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bomma Meinhof",
 				"prespp": 8,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11834404": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gobiliano Fanata",
 				"prespp": 22,
 				"type": "R"
 			},
 			"12061902": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Freddy Fungels",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12088658": {
 				"name": "Waaaghcuse",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122471": {
-				"blk": 4,
-				"fou": 2,
+				"blocks": 4,
+				"fouls": 2,
 				"name": "Che Gobvara",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12135353": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Bronstein",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12135356": {
 				"name": "Degovoir",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12166791": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Cory Hardorc",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12166792": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					7,
@@ -98,7 +97,8 @@
 					"11969193"
 				],
 				"name": "Billy Truestone",
-				"tur": 14,
+				"retired": null,
+				"turns": 14,
 				"type": "R"
 			}
 		},
@@ -109,58 +109,58 @@
 				"type": "R"
 			},
 			"11969189": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dumnorix",
 				"prespp": 19,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11969190": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Boudica's Guardian",
 				"prespp": 19,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11969192": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Antedios",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11969193": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Gaius",
 				"prespp": 27,
 				"spp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11969198": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Eolande",
 				"prespp": 5,
-				"rus": -3,
+				"rush": -3,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12029109": {
 				"name": "Cartimandua II",
 				"prespp": 7,
-				"rus": 18,
-				"tur": 9,
+				"rush": 18,
+				"turns": 9,
 				"type": "R"
 			},
 			"12029111": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"dead": [
 					2,
 					7,
@@ -168,27 +168,28 @@
 					null
 				],
 				"name": "Auspiciato",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 5,
-				"rus": -1,
+				"retired": true,
+				"rush": -1,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12058593": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Breena II",
 				"prespp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12133744": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Aeduison",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12153113": {
@@ -196,47 +197,64 @@
 				"type": "R"
 			},
 			"12153115": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Danaxae",
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12157710": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Tristan Weakhawk",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1045592",
-	"team_performance": {
+	"team": {
 		"874602": {
-			"cas": 5,
-			"casdiff": 1,
+			"blocks": 28,
+			"cas": 3,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Goblin Revolushunary Kommittee",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 173,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 30,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 142
 		},
 		"888009": {
+			"blocks": 26,
 			"cas": 4,
-			"casdiff": -1,
+			"casdiff": 1,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Londinium's Lunatics",
-			"prestige": 1,
+			"pass": -1,
+			"prespp": 132,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 14,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 134
 		}
 	}
 }

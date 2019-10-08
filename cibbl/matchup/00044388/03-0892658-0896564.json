@@ -1,155 +1,153 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3964349",
-	"player_performance": {
+	"player": {
 		"892658": {
 			"12044225": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 2,
 				"name": "Krip-tichox The Undying",
 				"prespp": 15,
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12044227": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Qruxchihcoar",
 				"prespp": 16,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12044228": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Coch-noalten",
 				"prespp": 19,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12044229": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Helxo",
 				"prespp": 27,
 				"spp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12044230": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "The Faint Body",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12044232": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Grimepest",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12044233": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Thin Presence",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12044234": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "The Ugly Miscreation",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12044235": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "The Tall Howler",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12044236": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Disfigured Wailer",
 				"prespp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12062980": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Kotal-Kiz",
 				"prespp": 20,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12143782": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Quezetle",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		},
 		"896564": {
 			"12108653": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Ra-aa-kheper",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12108654": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ounephes",
 				"prespp": 8,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12108656": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ra-men-ankh",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12108659": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Suten-rekh",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12108660": {
-				"blk": 11,
+				"blocks": 11,
 				"mvp": 1,
 				"name": "Ra-mere-nefer",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12108662": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ra-s-hotep-ab",
 				"prespp": 1,
-				"rus": 23,
+				"rush": 23,
 				"spp": 6,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"12108664": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Het-het",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12108665": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tu-en-hor",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12108666": {
@@ -157,11 +155,11 @@
 				"type": "R"
 			},
 			"12108667": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Kan-ta",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12108669": {
@@ -172,42 +170,61 @@
 					"12044229"
 				],
 				"name": "Si-sebek",
-				"tur": 16,
+				"retired": true,
+				"turns": 16,
 				"type": "R"
 			},
 			"12137186": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ten-em-haa-pthah",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1039417",
-	"team_performance": {
+	"team": {
 		"892658": {
-			"cas": 4,
-			"casdiff": 3,
+			"blocks": 58,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tomb Guardians of the Tower",
+			"pass": 0,
+			"prespp": 99,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 0,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 145
 		},
 		"896564": {
+			"blocks": 46,
 			"cas": 1,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Thoughts of Thoth",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 27,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 23,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 157
 		}
 	}
 }

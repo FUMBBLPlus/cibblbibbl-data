@@ -1,30 +1,29 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4070335",
-	"player_performance": {
+	"player": {
 		"897379": {
 			"12122311": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 3,
 				"name": "Gotrek Gurnisson",
 				"prespp": 57,
 				"spp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12122318": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cpt. Long Drong",
 				"prespp": 71,
-				"rus": 46,
+				"rush": 46,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12122319": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					4,
@@ -33,66 +32,67 @@
 				],
 				"name": "First Mate Morgrim Dallinsson",
 				"prespp": 76,
-				"tur": 4,
+				"retired": null,
+				"turns": 4,
 				"type": "R"
 			},
 			"12122320": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Finn Hargrimsson",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12122326": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Belegar Baliksnev",
 				"prespp": 20,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12182659": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Rodi Balkisson",
 				"prespp": 59,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12543798": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Bjorni Bjornisson",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12655965": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Grunni Ranulfsson",
 				"prespp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12656004": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Malakai Makaisson",
 				"prespp": 7,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12670428": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Flakki Kettrisson",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12694272": {
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Rorek Vragnifind",
 				"prespp": 2,
@@ -102,43 +102,43 @@
 		},
 		"916031": {
 			"12413275": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Head Stompa",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 57,
-				"rus": 31,
+				"rush": 31,
 				"spp": 4,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413281": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gra'Ro'Pra",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413282": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gro'Gaw'Cra",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12426039": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Nose Snippa",
 				"prespp": 28,
-				"rus": 9,
+				"rush": 9,
 				"spp": 5,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12513955": {
-				"blk": 6,
+				"blocks": 6,
 				"dead": [
 					2,
 					5,
@@ -147,80 +147,98 @@
 				],
 				"name": "Veel Skinner",
 				"prespp": 14,
-				"tur": 14,
+				"retired": null,
+				"turns": 14,
 				"type": "R"
 			},
 			"12577257": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Nail Bita",
 				"prespp": 20,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12579298": {
 				"name": "Gre'Ra'War",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12612939": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Kzerio",
 				"prespp": 18,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "B"
 			},
 			"12694017": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Heel Slappa",
 				"prespp": 16,
-				"rus": 5,
+				"rush": 5,
 				"spp": 6,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"12713754": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Epididymis Pincher",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12713755": {
 				"name": "Robert Whitespike",
-				"retired": true,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1162002",
-	"team_performance": {
+	"team": {
 		"897379": {
+			"blocks": 47,
 			"cas": 6,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Karak Kadrin Slayers",
+			"pass": 0,
+			"prespp": 317,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 46,
 			"score": 1,
 			"scorediff": -3,
-			"tds": 1,
-			"tdsdiff": -3
+			"td": 1,
+			"tddiff": -3,
+			"turns": 142
 		},
 		"916031": {
+			"blocks": 43,
 			"cas": 2,
 			"casdiff": -4,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gorthor's Prophets Of Mork",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 160,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 45,
 			"score": 4,
 			"scorediff": 3,
-			"tds": 4,
-			"tdsdiff": 3
+			"td": 4,
+			"tddiff": 3,
+			"turns": 154
 		}
 	}
 }

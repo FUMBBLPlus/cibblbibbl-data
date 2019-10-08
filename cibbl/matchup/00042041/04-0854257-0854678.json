@@ -1,32 +1,31 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3872842",
-	"player_performance": {
+	"player": {
 		"854257": {
 			"11432421": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Peach Blossom Water",
 				"prespp": 15,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11432422": {
 				"name": "Passion's Dragon Controlled",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11432424": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "After the Lotus Flowers Have Opened",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 18,
-				"rus": 35,
+				"rush": 35,
 				"spp": 8,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11432426": {
@@ -35,11 +34,10 @@
 				"type": "R"
 			},
 			"11432427": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Practice of Mirth",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11432429": {
@@ -53,7 +51,7 @@
 				"type": "R"
 			},
 			"11432433": {
-				"blk": 5,
+				"blocks": 5,
 				"dead": [
 					2,
 					1,
@@ -62,58 +60,57 @@
 				],
 				"name": "Blown Stars",
 				"prespp": 10,
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"11452680": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Overflowing Bliss",
 				"prespp": 9,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11477327": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Yellow Dusk",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11565341": {
-				"blk": 12,
-				"fou": 1,
+				"blocks": 12,
+				"fouls": 1,
 				"name": "Sorrowfully An Ape Calls",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11585952": {
-				"blk": 3,
-				"cps": 2,
+				"blocks": 3,
+				"comp": 2,
 				"name": "Mirror of the Sky",
-				"pas": 12,
+				"pass": 12,
 				"prespp": 1,
-				"rus": 17,
+				"rush": 17,
 				"spp": 5,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11604599": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Brian Darkrock",
-				"pas": -1,
-				"retired": true,
-				"tur": 17,
+				"pass": -1,
+				"turns": 17,
 				"type": "J"
 			},
 			"11604600": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "George Silenthammer",
-				"retired": true,
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			}
 		},
@@ -124,40 +121,40 @@
 				"type": "R"
 			},
 			"11439616": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Nightlord Kratskittar",
 				"prespp": 23,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11439618": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Nightmaster Gnawnagar",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 9,
-				"rus": 7,
+				"rush": 7,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11439620": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Nightmaster Nurgrin",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 12,
-				"rus": 4,
+				"rush": 4,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439623": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Crittskik the Green",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11439624": {
@@ -166,44 +163,44 @@
 				"type": "R"
 			},
 			"11439627": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Burhakk the Ghost",
 				"prespp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11439628": {
-				"blk": 10,
+				"blocks": 10,
 				"mvp": 1,
 				"name": "Sneekis the Dragon",
 				"prespp": 7,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11439629": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Vasquee the Greywhisker",
 				"prespp": 8,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11454923": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nightmaster Azhiskikk",
 				"prespp": 18,
-				"rus": 38,
+				"rush": 38,
 				"spp": 9,
-				"tds": 3,
-				"tur": 17,
+				"td": 3,
+				"turns": 17,
 				"type": "R"
 			},
 			"11482377": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Grisnagar the Brave",
 				"prespp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11494636": {
@@ -211,47 +208,64 @@
 				"type": "R"
 			},
 			"11551149": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Paskrin the Peacemaker",
 				"prespp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11607235": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Julius Weakfield",
-				"retired": true,
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "933536",
-	"team_performance": {
+	"team": {
 		"854257": {
+			"blocks": 43,
 			"cas": 1,
-			"casdiff": -2,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grand Celestial Delegate",
+			"pass": 10,
+			"prespp": 103,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 52,
 			"score": 2,
 			"scorediff": -1,
-			"tds": 2,
-			"tdsdiff": -1
+			"td": 2,
+			"tddiff": -1,
+			"turns": 137
 		},
 		"854678": {
-			"cas": 3,
-			"casdiff": 2,
+			"blocks": 31,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lords of the Silent Death",
-			"prestige": 3,
+			"pass": 4,
+			"prespp": 115,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 49,
 			"score": 3,
 			"scorediff": 1,
-			"tds": 3,
-			"tdsdiff": 1
+			"td": 3,
+			"tddiff": 1,
+			"turns": 132
 		}
 	}
 }

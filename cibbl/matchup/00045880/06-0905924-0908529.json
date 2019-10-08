@@ -1,16 +1,15 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4036548",
-	"player_performance": {
+	"player": {
 		"905924": {
 			"12254401": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Reddup",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12254402": {
@@ -19,62 +18,62 @@
 				"type": "B"
 			},
 			"12254405": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Bone",
 				"prespp": 33,
-				"rus": 7,
+				"rush": 7,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12254424": {
 				"name": "Ashur The Vile",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12254440": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "O-Dog The Trogslayer",
 				"prespp": 8,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12254445": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Scumm The Rebel",
 				"prespp": 1,
-				"rus": 2,
-				"tur": 4,
+				"rush": 2,
+				"turns": 4,
 				"type": "R"
 			},
 			"12263755": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gizmo The Gambler",
 				"prespp": 9,
-				"rus": 7,
-				"tur": 14,
+				"rush": 7,
+				"turns": 14,
 				"type": "R"
 			},
 			"12263756": {
 				"name": "Killian Glowingwater",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12268727": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Redbone",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 44,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12421873": {
-				"blk": 5,
+				"blocks": 5,
 				"dead": [
 					2,
 					4,
@@ -83,66 +82,67 @@
 				],
 				"name": "Horrus",
 				"prespp": 14,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"12523323": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Modoc The Cattleprod",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12528884": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Angron",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
-			"905924M1": {
-				"fou": 1,
+			"MERC-7367-0000": {
+				"fouls": 1,
 				"name": "Merc Squig Herder 1",
-				"tur": 6,
+				"turns": 6,
 				"type": "M"
 			},
-			"905924M2": {
+			"MERC-7367-2172": {
 				"name": "Merc Squig Herder 2",
-				"tur": 3,
+				"turns": 3,
 				"type": "M"
 			},
-			"905924S1": {
-				"blk": 6,
+			"STAR-7573": {
+				"blocks": 6,
 				"cas": 2,
 				"name": "Ripper",
 				"spp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "S"
 			}
 		},
 		"908529": {
 			"12295351": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 2,
 				"name": "Hhash'chtoth",
 				"prespp": 37,
 				"spp": 4,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12295353": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Bbadh'nurth",
 				"prespp": 29,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12295355": {
 				"cas": 1,
 				"name": "Vulpizh",
 				"prespp": 9,
-				"rus": 6,
+				"rush": 6,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12295356": {
@@ -150,10 +150,11 @@
 					1,
 					1,
 					"blocked",
-					"905924S1"
+					"STAR-7573"
 				],
 				"name": "Belakhz",
 				"prespp": 5,
+				"retired": true,
 				"type": "R"
 			},
 			"12295357": {
@@ -170,95 +171,113 @@
 				],
 				"name": "Yuhkuth",
 				"prespp": 3,
+				"retired": true,
 				"type": "R"
 			},
 			"12295364": {
 				"name": "Flizzit",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12336337": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Shim'dre'lex'kazar",
 				"prespp": 15,
-				"tur": 14,
+				"turns": 14,
 				"type": "B"
 			},
 			"12349401": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kkrozh",
-				"tur": 14,
+				"turns": 14,
 				"type": "I"
 			},
 			"12372276": {
 				"name": "Zzak",
 				"prespp": 3,
-				"tur": 6,
+				"turns": 6,
 				"type": "I"
 			},
 			"12372278": {
 				"name": "Tarh",
 				"prespp": 6,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 6,
+				"td": 1,
+				"turns": 6,
 				"type": "I"
 			},
 			"12404744": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Hashi'gharoboth",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 32,
-				"rus": 12,
+				"rush": 12,
 				"spp": 6,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12456141": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Gashokh'vanderburth",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12522880": {
 				"name": "Bboomsnizzler",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1123451",
-	"team_performance": {
+	"team": {
 		"905924": {
-			"cas": 5,
-			"casdiff": 1,
+			"blocks": 29,
+			"cas": 4,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Squill's Squig Pitt",
+			"pass": 1,
+			"prespp": 141,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 29,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 116
 		},
 		"908529": {
+			"blocks": 20,
 			"cas": 4,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "ICBM Warpspawns",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 161,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 24,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 113
 		}
 	}
 }

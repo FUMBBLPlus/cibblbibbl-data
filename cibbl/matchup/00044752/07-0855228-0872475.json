@@ -1,20 +1,19 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3992142",
-	"player_performance": {
+	"player": {
 		"855228": {
 			"11448253": {
 				"name": "Kacy Cataranzo",
 				"prespp": 14,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11801400": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lei Zhang",
 				"prespp": 22,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12015155": {
@@ -23,29 +22,29 @@
 				"type": "R"
 			},
 			"12037464": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Anika Spike",
 				"prespp": 44,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12158296": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Carson Wentz",
-				"pas": 10,
+				"pass": 10,
 				"prespp": 45,
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12217390": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chris Long",
 				"prespp": 14,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12240547": {
@@ -54,72 +53,68 @@
 				"type": "R"
 			},
 			"12271577": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Katherine Ward",
 				"spp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12271582": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Paul Fields",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12290171": {
 				"name": "Billy Quickbone",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			},
 			"12290172": {
 				"name": "Cory Fastsnake",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			},
 			"12290173": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Billy Quickwing",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			},
 			"12290174": {
 				"name": "Martin Palestone",
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			},
-			"855228S1": {
-				"blk": 5,
+			"STAR-7593": {
+				"blocks": 5,
 				"name": "Deathblow",
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "S"
 			}
 		},
 		"872475": {
 			"11721709": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Acer Steelroot",
 				"prespp": 34,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"11721710": {
-				"blk": 14,
+				"blocks": 14,
 				"cas": 1,
 				"name": "Judge Juniperus",
 				"prespp": 61,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"11721712": {
@@ -128,16 +123,16 @@
 				"type": "B"
 			},
 			"11721714": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Picea the Piercer",
 				"prespp": 56,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"11721716": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Rubus the Drinker of Blood",
 				"prespp": 10,
 				"type": "R"
@@ -148,104 +143,122 @@
 				"type": "R"
 			},
 			"11841040": {
-				"fou": 4,
+				"fouls": 4,
 				"name": "Crepis of the Deep",
 				"prespp": 10,
-				"rus": 2,
-				"tur": 14,
+				"rush": 2,
+				"turns": 14,
 				"type": "R"
 			},
 			"11863532": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"fou": 2,
+				"fouls": 2,
 				"name": "Singer of Darkest Anthems, Menyanthes",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11894817": {
 				"name": "Shadow of East, Cirsium",
 				"prespp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11935612": {
 				"name": "Swartzii the Rockfoot",
 				"prespp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11986045": {
 				"name": "Dryopteris the Pale",
 				"prespp": 32,
-				"rus": 8,
-				"tur": 5,
+				"rush": 8,
+				"turns": 5,
 				"type": "R"
 			},
 			"12152698": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "\"Broken Tooth\" Majalis",
-				"rus": 11,
-				"tur": 8,
+				"rush": 11,
+				"turns": 8,
 				"type": "R"
 			},
 			"12239711": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Pinus Ashleaf",
 				"prespp": 17,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12280078": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Fraxinus of Eternal Autumn",
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12280079": {
 				"name": "Flaming Eyes, Phegopteris",
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12286551": {
 				"name": "Half-Pointy-Eared Plagiochila",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1072525",
-	"team_performance": {
+	"team": {
 		"855228": {
+			"blocks": 29,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ninja Warriors",
-			"prestige": 1,
+			"pass": 9,
+			"prespp": 184,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 13,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 102
 		},
 		"872475": {
+			"blocks": 31,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "True Roots of Khaine",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 283,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 30,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 151
 		}
 	}
 }

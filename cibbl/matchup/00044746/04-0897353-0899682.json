@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3983590",
-	"player_performance": {
+	"player": {
 		"897353": {
 			"12121959": {
 				"mvp": 1,
@@ -13,23 +12,23 @@
 			},
 			"12121960": {
 				"name": "Sssues Ej",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12121961": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Enum Ers",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121967": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Matar Ash",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121968": {
@@ -38,66 +37,66 @@
 				"type": "R"
 			},
 			"12121969": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Mare Oz",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121971": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ummilu Imma",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121974": {
 				"name": "Pix Vamox",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12121975": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tush Banuk",
 				"prespp": 9,
-				"rus": 12,
-				"tur": 16,
+				"rush": 12,
+				"turns": 16,
 				"type": "R"
 			},
 			"12139096": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mos Passat",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 20,
-				"rus": 27,
+				"rush": 27,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12139099": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Blu Ash",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12164655": {
 				"name": "Lang Om",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12165569": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Adenes Fujo",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12205123": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					1,
@@ -106,122 +105,141 @@
 				],
 				"name": "Szell Adett",
 				"prespp": 2,
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "R"
 			},
 			"12226003": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Salla Sellel",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		},
 		"899682": {
 			"12158266": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Ch'nn'r \"Big Boa\" Qll-Crvn",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12158267": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "K'nn'th \"Strangler\" Ptnntcl",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158269": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Ph'rn \"Quick Tail\" Vzz-Sttn",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12158272": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "T'ng \"Lefty\" Clbrr",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158273": {
 				"name": "V'sn \"Midget\" Vprr",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12158276": {
 				"name": "Ch'm \"Blue One\" Ammdtss",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12158279": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dtr'vssr \"Mamba\" Vrddfls",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158282": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ph'rn \"Gent\" Kbrrcllr",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12191641": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "C'dm'qsz \"Focus\" Ntrll",
 				"prespp": 3,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12240321": {
 				"name": "R'th's'k \"Whirly\" Mssrbr",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 8,
-				"rus": 14,
-				"tur": 14,
+				"rush": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12251011": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "D'ssh-t \"Glowy\" Vprrdllcrrn",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1061534",
-	"team_performance": {
+	"team": {
 		"897353": {
+			"blocks": 47,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Court of Shu",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 90,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 39,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 170
 		},
 		"899682": {
+			"blocks": 30,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "K'r'shh Sl'ppr'ss",
+			"pass": -1,
+			"prespp": 60,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 22,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 152
 		}
 	}
 }

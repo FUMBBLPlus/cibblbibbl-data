@@ -1,57 +1,56 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3917306",
-	"player_performance": {
+	"player": {
 		"854600": {
 			"11439794": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Juan Robleduro",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439806": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Hernando Celador",
 				"prespp": 8,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11439812": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Enrico Zapador",
 				"prespp": 6,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11439814": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Manuel Grandegolpe",
 				"prespp": 24,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11439819": {
-				"blk": 1,
-				"cps": 2,
+				"blocks": 1,
+				"comp": 2,
 				"name": "Bernardo Suerte",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 71,
-				"rus": 11,
+				"rush": 11,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11440506": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Miguel Gavilan",
 				"prespp": 44,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11502188": {
@@ -60,106 +59,105 @@
 				"type": "R"
 			},
 			"11567694": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Agapito Pobre",
 				"prespp": 16,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11698849": {
-				"blk": 1,
-				"cps": 1,
-				"fou": 1,
+				"blocks": 1,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Javier Ladron",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 34,
-				"rus": 8,
+				"rush": 8,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11750105": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Baldomero Caudillo",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11780487": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Reinaldo Halcon",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11780495": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Silvio Aseado",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11797056": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vasco Malbona",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11852494": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rafael Agudo",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11876840": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Velasco Estibador",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		},
 		"867862": {
 			"11646894": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Serrek of Nathrezzar",
 				"prespp": 25,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11646895": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Xerxes of Kerzzasas",
 				"prespp": 24,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11646896": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Betekh",
 				"prespp": 21,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11646901": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Muk",
 				"prespp": 36,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11646902": {
-				"blk": 2,
-				"fou": 7,
+				"blocks": 2,
+				"fouls": 7,
 				"name": "Ner",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11646912": {
@@ -168,14 +166,14 @@
 				"type": "R"
 			},
 			"11651506": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Izz",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 33,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11722423": {
@@ -183,78 +181,96 @@
 				"type": "R"
 			},
 			"11763541": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Vute",
 				"prespp": 3,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11782638": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Zulu the Shark",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11782667": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vir",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11791082": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Sethar",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 7,
-				"rus": 6,
+				"rush": 6,
 				"spp": 1,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11848523": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Drawesh Blooddrinker",
 				"spp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11876841": {
 				"name": "Druz",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "985065",
-	"team_performance": {
+	"team": {
 		"854600": {
+			"blocks": 32,
 			"cas": 1,
-			"casdiff": -4,
+			"casdiff": -1,
+			"comp": 3,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Montetriste Noblemen",
+			"pass": -4,
+			"prespp": 226,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 141
 		},
 		"867862": {
-			"cas": 5,
-			"casdiff": 4,
+			"blocks": 52,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Everlasting Vultures of Settra",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 165,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 31,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 176
 		}
 	}
 }

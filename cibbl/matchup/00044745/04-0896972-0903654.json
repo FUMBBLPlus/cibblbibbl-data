@@ -1,34 +1,32 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3980707",
-	"player_performance": {
+	"player": {
 		"896972": {
 			"12117786": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gorbad Faceclompah",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12117787": {
 				"name": "Valanduil of House Meliane",
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12117788": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Poppy Merribuck",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12117790": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Balthasar the Youthful",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12117791": {
@@ -37,110 +35,110 @@
 				"type": "R"
 			},
 			"12117792": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gottlieb Thälmann of Averland",
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12117795": {
 				"mvp": 1,
 				"name": "Ferrimora of the Waxing Moon",
-				"rus": 18,
+				"rush": 18,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12117796": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "The Drinker of Desire and Wishes",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12117800": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Siluvaine, Traverser of the Celestial Promenade",
 				"prespp": 10,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12117802": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Urkrasour the Obedient",
 				"prespp": 15,
-				"rus": 9,
+				"rush": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173327": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Draco the Ascendent",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12179724": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "The Xenith of Devotion",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12230477": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "*Whip-crack sound effect followed by whinnying horse*",
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"903654": {
 			"12219671": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Itekuyet",
 				"prespp": 11,
-				"rus": 1,
-				"tur": 8,
+				"rush": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12219673": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Ahmose",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 8,
-				"rus": 3,
+				"rush": 3,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12219675": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Masaharta",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12219676": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Senenmut",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12219677": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Weshptah",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12219678": {
 				"name": "Merenre",
 				"prespp": 8,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12219681": {
@@ -148,9 +146,9 @@
 				"type": "R"
 			},
 			"12219683": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Intef",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12219684": {
@@ -158,63 +156,80 @@
 				"type": "R"
 			},
 			"12219686": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Thaneni",
 				"prespp": 6,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12219712": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Urhiya",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12227199": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Kentetenka",
 				"prespp": 1,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12232592": {
 				"name": "Robert Strongbrook",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1058214",
-	"team_performance": {
+	"team": {
 		"896972": {
+			"blocks": 52,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Seekers of Transcendence",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 64,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 166
 		},
 		"903654": {
+			"blocks": 21,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Scions of Neferata",
+			"pass": 1,
+			"prespp": 34,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 124
 		}
 	}
 }

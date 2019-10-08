@@ -1,31 +1,30 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3920594",
-	"player_performance": {
+	"player": {
 		"865063": {
 			"11603005": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Ouszz",
 				"prespp": 32,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11603008": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Riptorr",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11603012": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Timrr",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11603015": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					4,
@@ -34,7 +33,8 @@
 				],
 				"name": "Twerk",
 				"prespp": 5,
-				"tur": 4,
+				"retired": true,
+				"turns": 4,
 				"type": "R"
 			},
 			"11603016": {
@@ -43,112 +43,111 @@
 				"type": "R"
 			},
 			"11603017": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nert",
 				"prespp": 19,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11670597": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Trey Truestone",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11747200": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Pipa Swer",
 				"prespp": 36,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11800288": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Rbferz Shzzkich",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11864164": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Argorzzz Zumbbzzee",
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11883741": {
 				"name": "Ungarr",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11894579": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Billy Quicklightning",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			}
 		},
 		"873361": {
 			"11737245": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Zhorthix Swiftfoot",
 				"prespp": 43,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737248": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Nirghux Stormpaw",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737249": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Zheghoc Ironcrest",
 				"prespp": 8,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737258": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Dekar Girkrar",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11737259": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Naulez Mangox",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737263": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Daugdhag",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 15,
-				"rus": 24,
+				"rush": 24,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11783363": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kankog",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11783365": {
@@ -157,61 +156,78 @@
 				"type": "R"
 			},
 			"11785649": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 2,
 				"name": "Zukhaok Stonearm",
 				"prespp": 20,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11872016": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Nargez",
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"11894555": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Knoccug Zhalgaur",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11894558": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cory Deepfire",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "988922",
-	"team_performance": {
+	"team": {
 		"865063": {
+			"blocks": 43,
 			"cas": 0,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Oyxl Great Pyramid Heroes",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 147,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 19,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 125
 		},
 		"873361": {
+			"blocks": 54,
 			"cas": 2,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Blood-Ground Blackhorns",
-			"prestige": 1,
+			"pass": -1,
+			"prespp": 124,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 29,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 167
 		}
 	}
 }

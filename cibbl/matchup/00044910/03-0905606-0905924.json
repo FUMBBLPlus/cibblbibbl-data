@@ -1,91 +1,90 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3985002",
-	"player_performance": {
+	"player": {
 		"905606": {
 			"12250181": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Thaskar the Patient",
-				"rus": 3,
-				"tur": 15,
+				"rush": 3,
+				"turns": 15,
 				"type": "R"
 			},
 			"12250182": {
 				"name": "Laris the Architect",
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12250183": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Khahos the Crimson",
 				"prespp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12250187": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Itom the Visionary",
 				"prespp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12250188": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Machakh the Ancient",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12250189": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Rophkihon the Prime",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12250191": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Nestap the Brillant",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12250204": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Syiksa the Infinite",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12250205": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Aexlor the Bulwark",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12250207": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Khokhakh the Honorable",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12250209": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Erikheph the Watcher",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12250212": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kessas the White",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
@@ -95,112 +94,130 @@
 				"type": "R"
 			},
 			"12254402": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Spook",
 				"prespp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12254405": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Bone",
-				"rus": 15,
+				"rush": 15,
 				"spp": 8,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12254406": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gruber",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12254409": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Pygmy",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12254414": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Clumsy",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12254424": {
 				"name": "Ashur The Vile",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12254426": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Ghekko The Supervisor",
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12254427": {
 				"name": "Slob The Laborer",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12254440": {
 				"name": "O-Dog The Trogslayer",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12254445": {
 				"name": "Scumm The Rebel",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12254450": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Smartu The Unscarred",
 				"prespp": 3,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
-			"905924M1": {
-				"name": "Merc Squig Herder 1",
+			"MERC-7367-1955": {
+				"name": "Merc Squig Herder 2",
+				"turns": 15,
 				"type": "M"
 			},
-			"905924M2": {
-				"name": "Merc Squig Herder 2",
-				"tur": 15,
+			"MERC-7367-2079": {
+				"name": "Merc Squig Herder 1",
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1063187",
-	"team_performance": {
+	"team": {
 		"905606": {
-			"cas": 1,
-			"casdiff": 0,
+			"blocks": 29,
+			"cas": 0,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Serpent-Guards of Khalida",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 11,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 18,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 127
 		},
 		"905924": {
+			"blocks": 23,
 			"cas": 1,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Squill's Squig Pitt",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 10,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 15,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 112
 		}
 	}
 }

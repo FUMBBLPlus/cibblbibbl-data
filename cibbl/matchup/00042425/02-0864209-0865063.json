@@ -1,48 +1,47 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3880218",
-	"player_performance": {
+	"player": {
 		"864209": {
 			"11589518": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Mental Xug",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11589520": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Mack Shura",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11589531": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Whitewater Kogan",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11589534": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Cowabunga Nurbag",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11589535": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Choka Tog",
-				"rus": 19,
-				"tur": 16,
+				"rush": 19,
+				"turns": 16,
 				"type": "R"
 			},
 			"11589536": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Mullering Zurgug",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11589537": {
@@ -50,97 +49,95 @@
 				"type": "R"
 			},
 			"11589538": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Stoked Urlgan",
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11589539": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Choppy Pitgurat",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11589565": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Wipeout Xig",
-				"rus": 2,
+				"rush": 2,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11656120": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "David Hardfield",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"11656121": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Tristan Coldshield",
-				"retired": true,
 				"spp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "J"
 			}
 		},
 		"865063": {
 			"11603005": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Ouszz",
 				"spp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11603006": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Ermszz",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11603008": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Riptorr",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11603011": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Goarr",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11603012": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Timrr",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11603013": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rewr",
-				"rus": 12,
-				"tur": 15,
+				"rush": 12,
+				"turns": 15,
 				"type": "R"
 			},
 			"11603014": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Amarr",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11603015": {
 				"name": "Twerk",
 				"prespp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11603016": {
@@ -149,22 +146,22 @@
 				"type": "R"
 			},
 			"11603017": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Nert",
 				"prespp": 2,
-				"rus": 4,
+				"rush": 4,
 				"spp": 5,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11603018": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Bvaerd",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11659607": {
@@ -175,37 +172,56 @@
 					"11656121"
 				],
 				"name": "Ankorrs",
-				"rus": 12,
-				"tur": 2,
+				"retired": true,
+				"rush": 12,
+				"turns": 2,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "942052",
-	"team_performance": {
+	"team": {
 		"864209": {
+			"blocks": 46,
 			"cas": 3,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gnarly Surf Mob",
+			"pass": 0,
+			"prespp": 8,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 21,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 142
 		},
 		"865063": {
-			"cas": 3,
-			"casdiff": 0,
+			"blocks": 24,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Oyxl Great Pyramid Heroes",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 11,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 28,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 125
 		}
 	}
 }

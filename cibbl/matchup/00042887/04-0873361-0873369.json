@@ -1,17 +1,16 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3900966",
-	"player_performance": {
+	"player": {
 		"873361": {
 			"11737245": {
-				"blk": 11,
+				"blocks": 11,
 				"mvp": 1,
 				"name": "Zhorthix Swiftfoot",
 				"prespp": 17,
-				"rus": 5,
+				"rush": 5,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737247": {
@@ -20,47 +19,47 @@
 				"type": "R"
 			},
 			"11737248": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Nirghux Stormpaw",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11737249": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Zheghoc Ironcrest",
 				"prespp": 6,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11737258": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Dekar Girkrar",
-				"pas": 1,
-				"rus": 11,
-				"tur": 6,
+				"pass": 1,
+				"rush": 11,
+				"turns": 6,
 				"type": "R"
 			},
 			"11737259": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Naulez Mangox",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737260": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tenex Ghicrak",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11737261": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					7,
@@ -69,13 +68,14 @@
 				],
 				"name": "Ghugug",
 				"prespp": 8,
+				"retired": true,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737262": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					6,
@@ -84,37 +84,37 @@
 				],
 				"name": "Nektac",
 				"prespp": 3,
-				"tur": 14,
+				"retired": true,
+				"turns": 14,
 				"type": "R"
 			},
 			"11737263": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Daugdhag",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737264": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Khalac",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11783218": {
 				"name": "Howard Weaklightning",
-				"retired": true,
 				"type": "J"
 			}
 		},
 		"873369": {
 			"11737364": {
 				"name": "Hybree",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11737365": {
 				"name": "Trikhuf",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737376": {
@@ -123,99 +123,115 @@
 				"type": "R"
 			},
 			"11737379": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Baahru",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737388": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Shurtehl",
 				"prespp": 3,
-				"rus": 4,
-				"tur": 14,
+				"rush": 4,
+				"turns": 14,
 				"type": "R"
 			},
 			"11737432": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 2,
 				"name": "Fulmayne Thrice-Crowned",
 				"prespp": 16,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737433": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Breyyar Scoredrinker",
 				"prespp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737434": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Stoneflagon Rhuheigh",
 				"prespp": 9,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11737443": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Yronleg the Barrelbeast",
 				"prespp": 9,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11765170": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Brewmaster Huhroarr",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11783231": {
 				"name": "Albert Clearstone",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"11783232": {
 				"name": "Ian Dirtybrook",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "966249",
-	"team_performance": {
+	"team": {
 		"873361": {
+			"blocks": 41,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Blood-Ground Blackhorns",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 60,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 16,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 129
 		},
 		"873369": {
+			"blocks": 39,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Schattenwald Drinking Horns",
+			"pass": 0,
+			"prespp": 52,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 4,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 151
 		}
 	}
 }

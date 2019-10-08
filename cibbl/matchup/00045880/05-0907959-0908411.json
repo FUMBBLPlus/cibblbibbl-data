@@ -1,15 +1,14 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4033543",
-	"player_performance": {
+	"player": {
 		"907959": {
 			"12285928": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Drachron Lewdshade",
 				"prespp": 37,
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"12285959": {
@@ -17,7 +16,7 @@
 				"name": "Nemeliz Ssin",
 				"prespp": 30,
 				"spp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12285960": {
@@ -26,36 +25,36 @@
 				"type": "R"
 			},
 			"12285974": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Deedee Hezvix",
 				"prespp": 20,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12285975": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Rhiahirr Xcezz",
-				"pas": 7,
+				"pass": 7,
 				"prespp": 37,
-				"rus": 15,
+				"rush": 15,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12431749": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ivorygor Onyx",
 				"prespp": 7,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12459439": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Buzz Bootlicker",
 				"prespp": 10,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12497457": {
@@ -65,24 +64,23 @@
 			},
 			"12528451": {
 				"name": "Thalia Tonguetwister",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12528453": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Eerola Vivida",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12528454": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Richard Quickwing",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12528455": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"dead": [
 					2,
@@ -91,105 +89,104 @@
 					"12424758"
 				],
 				"name": "Brian Darktree",
+				"retired": true,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			},
 			"12528456": {
 				"name": "Nicholas Quickshield",
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "J"
 			}
 		},
 		"908411": {
 			"12293139": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"name": "Nicomo Cosca",
 				"prespp": 31,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12293141": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Caul Shivers",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12293148": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Cas Shenkt",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12293162": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Friendly",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12293164": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Shylo Vitari",
 				"prespp": 13,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12293166": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 2,
-				"cps": 2,
+				"comp": 2,
 				"name": "Morveer",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 20,
-				"rus": 19,
+				"rush": 19,
 				"spp": 9,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12293169": {
 				"name": "Gobba",
 				"prespp": 18,
-				"retired": true,
 				"type": "R"
 			},
 			"12372288": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Benna Murcatto",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 13,
-				"rus": 26,
+				"rush": 26,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12424758": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Jezal dan Luthar",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12458078": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Monza",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12460470": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Ario",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12460472": {
@@ -197,55 +194,73 @@
 				"type": "R"
 			},
 			"12516834": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Andiche",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12516835": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sesaria",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12524746": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Victus",
-				"pas": 3,
-				"rus": 2,
+				"pass": 3,
+				"rush": 2,
 				"spp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1120014",
-	"team_performance": {
+	"team": {
 		"907959": {
+			"blocks": 24,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "River Teufel Tricksters",
+			"pass": 7,
+			"prespp": 154,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 126
 		},
 		"908411": {
+			"blocks": 51,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 3,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Black Gulf Hippocampi",
-			"prestige": 3,
+			"pass": 10,
+			"prespp": 136,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 47,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 163
 		}
 	}
 }

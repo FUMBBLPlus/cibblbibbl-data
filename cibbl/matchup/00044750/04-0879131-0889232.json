@@ -1,85 +1,84 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3985205",
-	"player_performance": {
+	"player": {
 		"879131": {
 			"11828950": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Calico Jack",
 				"prespp": 72,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828951": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Morag",
 				"prespp": 28,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11828952": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Greta",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11828953": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Nefo Dawnripper",
 				"prespp": 38,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828954": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Ibhib Nightbreaker",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 80,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11828955": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dog Rough Drimond",
 				"prespp": 16,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11828956": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Grog Swiller Finn",
 				"prespp": 17,
 				"spp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11875955": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Two Fingers Luke",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11875956": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hook Thorne",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11956118": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Voodoo Jones",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12037304": {
@@ -88,9 +87,9 @@
 				"type": "R"
 			},
 			"12125595": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Pegleg Peet",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12155340": {
@@ -99,154 +98,172 @@
 			},
 			"12233543": {
 				"name": "One-Ear McGee",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12261823": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Scabby Flaherty",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"889232": {
 			"11989951": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Chthonic Pitchblende",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989952": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chthonic Cobaltite",
 				"prespp": 17,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11989953": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Granite",
 				"prespp": 19,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11989958": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chthonic Gabbro",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11989967": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Sylph Wisp",
 				"prespp": 31,
-				"rus": 5,
+				"rush": 5,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989980": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Chthonic Kaolinite",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12003575": {
 				"name": "Sylph Haze",
 				"prespp": 27,
-				"rus": 15,
-				"tur": 9,
+				"rush": 15,
+				"turns": 9,
 				"type": "R"
 			},
 			"12031249": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Magma Crab",
 				"prespp": 10,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12070122": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Chthonic Slade",
 				"prespp": 33,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12078649": {
-				"blk": 8,
-				"fou": 1,
+				"blocks": 8,
+				"fouls": 1,
 				"name": "Naiad Vinessa",
 				"prespp": 10,
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12112830": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Chthonic Satinspar",
 				"prespp": 1,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12145447": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Magma Flow",
 				"prespp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12187033": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
-				"fou": 2,
+				"fouls": 2,
 				"name": "Chthonic Cinnabar",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254234": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Naiad Kaiya",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1063422",
-	"team_performance": {
+	"team": {
 		"879131": {
+			"blocks": 37,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sartosa Black Flags",
-			"prestige": 1,
+			"pass": 2,
+			"prespp": 292,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 14,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 158
 		},
 		"889232": {
+			"blocks": 58,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lost Golems of Grungni",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 185,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 162
 		}
 	}
 }

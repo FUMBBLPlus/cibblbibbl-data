@@ -1,55 +1,54 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4069891",
-	"player_performance": {
+	"player": {
 		"905924": {
 			"12254401": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Reddup",
 				"prespp": 21,
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12254402": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Spook",
 				"prespp": 23,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12254405": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Bone",
 				"prespp": 49,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12263755": {
 				"name": "Gizmo The Gambler",
 				"prespp": 9,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12268727": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Redbone",
 				"prespp": 94,
-				"rus": 19,
-				"tur": 13,
+				"rush": 19,
+				"turns": 13,
 				"type": "R"
 			},
 			"12528884": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Angron",
 				"prespp": 8,
 				"spp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12547748": {
@@ -58,9 +57,9 @@
 				"type": "R"
 			},
 			"12595120": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Grub The Inedible",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12605626": {
@@ -71,22 +70,23 @@
 					"12694017"
 				],
 				"name": "Overseer Lasher",
-				"tur": 7,
+				"retired": true,
+				"turns": 7,
 				"type": "R"
 			},
 			"12622816": {
 				"name": "Oddgit",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12636263": {
 				"name": "Skweegus Da Trapper",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12691858": {
 				"name": "Glowgob",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
@@ -95,122 +95,138 @@
 				"name": "Head Stompa",
 				"prespp": 54,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413281": {
 				"name": "Gra'Ro'Pra",
 				"prespp": 4,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12413282": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gro'Gaw'Cra",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12426039": {
-				"blk": 15,
+				"blocks": 15,
 				"cas": 2,
 				"name": "Nose Snippa",
 				"prespp": 24,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12513955": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Veel Skinner",
 				"prespp": 9,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12577257": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nail Bita",
 				"prespp": 17,
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12579298": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gre'Ra'War",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12612939": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 3,
 				"name": "Kzerio",
 				"prespp": 12,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12694017": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Heel Slappa",
 				"prespp": 5,
-				"rus": 37,
+				"rush": 37,
 				"spp": 11,
-				"tds": 3,
-				"tur": 16,
+				"td": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12696449": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ian Faststone",
-				"pas": 1,
-				"retired": true,
-				"rus": 5,
-				"tur": 16,
+				"pass": 1,
+				"rush": 5,
+				"turns": 16,
 				"type": "J"
 			},
 			"12696450": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ian Bluebrook",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1161482",
-	"team_performance": {
+	"team": {
 		"905924": {
+			"blocks": 18,
 			"cas": 2,
 			"casdiff": -4,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Squill's Squig Pitt",
+			"pass": 0,
+			"prespp": 233,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 0,
 			"scorediff": -6,
-			"tds": 0,
-			"tdsdiff": -6
+			"td": 0,
+			"tddiff": -6,
+			"turns": 95
 		},
 		"916031": {
+			"blocks": 37,
 			"cas": 6,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gorthor's Prophets Of Mork",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 125,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 54,
 			"score": 6,
 			"scorediff": 6,
-			"tds": 6,
-			"tdsdiff": 6
+			"td": 6,
+			"tddiff": 6,
+			"turns": 165
 		}
 	}
 }

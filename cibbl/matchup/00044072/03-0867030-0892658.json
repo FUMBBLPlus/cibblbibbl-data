@@ -1,16 +1,15 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3949878",
-	"player_performance": {
+	"player": {
 		"867030": {
 			"11633486": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Sokitoomi",
 				"prespp": 40,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11633494": {
@@ -18,15 +17,15 @@
 				"name": "Grymlog",
 				"prespp": 28,
 				"spp": 5,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11633500": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Quaxili",
 				"prespp": 5,
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"11633506": {
@@ -35,26 +34,26 @@
 				"type": "R"
 			},
 			"11633507": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Xapati",
 				"prespp": 26,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11633509": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Zwup",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11633512": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Huamundi",
 				"prespp": 29,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11767503": {
@@ -73,38 +72,37 @@
 				"type": "R"
 			},
 			"12048616": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chuqbolt",
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12048617": {
 				"name": "Ximni Xili",
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12065116": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Trey Coldeagle",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"892658": {
 			"12044225": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Krip-tichox The Undying",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12044227": {
@@ -113,115 +111,132 @@
 				"type": "R"
 			},
 			"12044228": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Coch-noalten",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12044229": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Helxo",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12044230": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "The Faint Body",
-				"rus": 4,
-				"tur": 11,
+				"rush": 4,
+				"turns": 11,
 				"type": "R"
 			},
 			"12044231": {
 				"name": "Dawnhag",
 				"prespp": 2,
-				"retired": true,
-				"rus": 8,
-				"tur": 7,
+				"rush": 8,
+				"turns": 7,
 				"type": "R"
 			},
 			"12044232": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grimepest",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12044233": {
-				"blk": 3,
-				"fou": 2,
+				"blocks": 3,
+				"fouls": 2,
 				"name": "The Thin Presence",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12044234": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "The Ugly Miscreation",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12044235": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "The Tall Howler",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12044236": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "The Disfigured Wailer",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12062980": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Kotal-Kiz",
 				"prespp": 7,
 				"spp": 9,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
-			"892658S1": {
-				"blk": 2,
+			"STAR-7548": {
+				"blocks": 2,
 				"name": "Hack Enslash",
-				"rus": 9,
-				"tur": 8,
+				"rush": 9,
+				"turns": 8,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1022976",
-	"team_performance": {
+	"team": {
 		"867030": {
+			"blocks": 16,
 			"cas": 1,
-			"casdiff": -4,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sport Spawning Zlatlan",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 203,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 25,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 121
 		},
 		"892658": {
-			"cas": 5,
-			"casdiff": 4,
+			"blocks": 37,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tomb Guardians of the Tower",
+			"pass": 0,
+			"prespp": 49,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 21,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 138
 		}
 	}
 }

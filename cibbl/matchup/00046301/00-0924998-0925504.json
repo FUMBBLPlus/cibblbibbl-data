@@ -1,13 +1,12 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4041991",
-	"player_performance": {
+	"player": {
 		"924998": {
 			"12554695": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Jhïef",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12554696": {
@@ -15,10 +14,10 @@
 				"type": "R"
 			},
 			"12554697": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Ekhlûd ‘The Spike’",
 				"prespp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12554698": {
@@ -29,33 +28,34 @@
 					"12578583"
 				],
 				"name": "Zarrkh",
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"12554703": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Mikhlô",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 4,
-				"rus": 7,
+				"rush": 7,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12554704": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "Snôzkh",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12554706": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Mukhrët",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12554718": {
@@ -66,97 +66,97 @@
 					"12562183"
 				],
 				"name": "Kholin",
+				"retired": true,
 				"type": "R"
 			},
 			"12554722": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gitrikh",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12554725": {
 				"name": "Harâ",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12554727": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Grerdrim",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12579309": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Robert Hardfield",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			},
-			"924998M1": {
-				"blk": 8,
+			"MERC-7491-3857": {
+				"blocks": 8,
 				"name": "Merc Blitzers 1",
-				"tur": 15,
+				"turns": 15,
 				"type": "M"
 			}
 		},
 		"925504": {
 			"12562177": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Lord Ichabod of Wyldwich",
 				"prespp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12562180": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sir Danzig the Cinder",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562181": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sir Bailey the Wild",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562182": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Sir Geoffrey the Bright",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12562183": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Sir Theodore the Blazing",
 				"prespp": 2,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562184": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Fair Henry of Storms",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562185": {
 				"name": "Fair Desmond the Twister",
 				"prespp": 1,
-				"rus": 34,
+				"rush": 34,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562186": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Hardy Wilbur the Molten",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562187": {
@@ -164,52 +164,70 @@
 				"type": "R"
 			},
 			"12562188": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Calm Nolan the Current",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12562189": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Calm Xavier of Tides",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12578583": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Sir Wilfred the Scorching",
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1130004",
-	"team_performance": {
+	"team": {
 		"924998": {
-			"cas": 1,
-			"casdiff": -1,
+			"blocks": 33,
+			"cas": 0,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Khalibân Shivters",
+			"pass": -2,
+			"prespp": 9,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 7,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 104
 		},
 		"925504": {
+			"blocks": 44,
 			"cas": 2,
-			"casdiff": 1,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ichabod's Infernals",
+			"pass": 0,
+			"prespp": 24,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 154
 		}
 	}
 }

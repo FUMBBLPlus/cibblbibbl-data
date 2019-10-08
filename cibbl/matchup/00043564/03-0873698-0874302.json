@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3927793",
-	"player_performance": {
+	"player": {
 		"873698": {
 			"11743258": {
 				"name": "MIstress of Lust",
@@ -10,17 +9,17 @@
 				"type": "R"
 			},
 			"11743259": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "MIsstress of Pleasure",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743260": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Kazgar Threelegs",
 				"prespp": 18,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11743262": {
@@ -32,132 +31,130 @@
 				],
 				"name": "Ginil Lustbringer",
 				"prespp": 15,
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"11743263": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lecec Chickstalker",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743264": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Lecathoth Strapslave",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743266": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Thirvelnosh Nightbinder",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743268": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Thovho Shadowseeker",
 				"prespp": 11,
-				"rus": 11,
+				"rush": 11,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11904392": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Misstress of Pain",
 				"prespp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11927922": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Richard Clumsyhawk",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"11927923": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Robert Clumsystone",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			},
 			"11927924": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nicholas Hotrock",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"874302": {
 			"11754121": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Castelnuovo Rangone",
 				"prespp": 11,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11754122": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Castelfranco Emilia",
 				"prespp": 24,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754124": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Maranello",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754126": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Marano sul Panaro",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754141": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "San Cesario sul Panaro",
 				"prespp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11754142": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Sassuolo",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754144": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Vignola",
 				"prespp": 8,
-				"rus": 4,
+				"rush": 4,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754146": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Spilamberto",
 				"prespp": 34,
-				"rus": 43,
+				"rush": 43,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11783522": {
@@ -170,28 +167,27 @@
 				"type": "R"
 			},
 			"11895172": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Castelvetro II",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11927155": {
 				"name": "Savignano sul Panaro II",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11927164": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Nicholas Vileorc",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
-			"874302S1": {
+			"STAR-7719": {
 				"dead": [
 					2,
 					3,
@@ -199,36 +195,54 @@
 					"11927923"
 				],
 				"name": "Siggi 'The Boot' Schuster",
-				"tur": 2,
+				"turns": 2,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "997243",
-	"team_performance": {
+	"team": {
 		"873698": {
-			"cas": 1,
-			"casdiff": 0,
+			"blocks": 33,
+			"cas": 0,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Pleasure Strings",
+			"pass": 0,
+			"prespp": 131,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 11,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 145
 		},
 		"874302": {
+			"blocks": 38,
 			"cas": 1,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grasparossa B.B.C",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 109,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 47,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 159
 		}
 	}
 }

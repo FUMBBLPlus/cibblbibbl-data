@@ -1,51 +1,50 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3929881",
-	"player_performance": {
+	"player": {
 		"885940": {
 			"11936932": {
 				"name": "The Phantom Wanderer",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11936933": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "The Elegant Phantom",
 				"prespp": 5,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11936937": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Revydas 'The Dark Star' Nevar",
 				"prespp": 3,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11936939": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Bloodsign",
 				"prespp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11936944": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Rorthal Xa'zan",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11936947": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Cirerin Stillflow",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11936950": {
@@ -53,71 +52,70 @@
 				"type": "R"
 			},
 			"11936952": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Red Flow",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 3,
-				"rus": 9,
-				"tur": 16,
+				"rush": 9,
+				"turns": 16,
 				"type": "R"
 			},
 			"11936954": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Divares Tiseran",
 				"prespp": 1,
-				"rus": -6,
-				"tur": 16,
+				"rush": -6,
+				"turns": 16,
 				"type": "R"
 			},
 			"11936955": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Crimson Flash",
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11947588": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Julius Quickorc",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"886167": {
 			"11940506": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Mori Voidheart",
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11940509": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Fersi Fellbane",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940510": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Fekhavi Fireblade",
-				"pas": 4,
-				"rus": 2,
+				"pass": 4,
+				"rush": 2,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940511": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Rageshadow",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940512": {
@@ -129,93 +127,109 @@
 				"type": "R"
 			},
 			"11940514": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Vaecho Firestarter",
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"11940515": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Marrah Webmaker",
-				"pas": 6,
-				"rus": 7,
+				"pass": 6,
+				"rush": 7,
 				"spp": 6,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11940516": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 3,
 				"name": "Darkvenom",
 				"prespp": 8,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940517": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Novo Nightshade",
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940518": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Deathfury",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11947216": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ian Vilebone",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"11947217": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cory Truefire",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "999668",
-	"team_performance": {
+	"team": {
 		"885940": {
+			"blocks": 34,
 			"cas": 1,
 			"casdiff": -5,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Har Ganeth Ironspikes",
+			"pass": 1,
+			"prespp": 20,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 13,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 119
 		},
 		"886167": {
+			"blocks": 47,
 			"cas": 6,
 			"casdiff": 5,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Clar Karond Black Widows",
-			"prestige": 3,
+			"pass": 10,
+			"prespp": 17,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 20,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 144
 		}
 	}
 }

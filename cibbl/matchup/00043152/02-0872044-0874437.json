@@ -1,73 +1,72 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3911591",
-	"player_performance": {
+	"player": {
 		"872044": {
 			"11713837": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 3,
 				"name": "Carol I",
 				"prespp": 33,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713838": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Ferdinand I",
 				"prespp": 22,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11713840": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Burggraf of Nuremberg",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11713841": {
 				"name": "Reichsgraf of Hohenzollern",
 				"prespp": 29,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713845": {
 				"name": "Constantin",
 				"prespp": 7,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11713846": {
 				"name": "Dragonmir",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11713847": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grigore",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11756292": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Maria Christina",
 				"prespp": 6,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11787325": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zsuzsanna Lorántffy",
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11805853": {
@@ -75,12 +74,12 @@
 				"type": "R"
 			},
 			"11806299": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Michael I",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11835859": {
@@ -89,46 +88,45 @@
 			},
 			"11843449": {
 				"name": "Robert Dirtyfield",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "J"
 			}
 		},
 		"874437": {
 			"11756331": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Lumbhant Perchklea",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756333": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Erclia Limblumb",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756335": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Tardiproth Twikbreka",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11756336": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nomgulg Prattlehead",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11756337": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Persqka Boughclip",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756339": {
@@ -136,81 +134,99 @@
 				"type": "R"
 			},
 			"11756341": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Alrog Gnarltrim",
 				"prespp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11756342": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lahuzy Nventra",
-				"rus": 5,
-				"tur": 15,
+				"rush": 5,
+				"turns": 15,
 				"type": "R"
 			},
 			"11756344": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Homraz Kombina",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11756346": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Knizzy Knotwatscha",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756348": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Scrub Scrub",
 				"prespp": 15,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11767524": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Deramuz Trodalik",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
-			"874437S1": {
-				"fou": 1,
+			"STAR-7534": {
+				"fouls": 1,
 				"name": "Bomber Dribblesnot",
-				"rus": 3,
-				"tur": 10,
+				"rush": 3,
+				"turns": 10,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "978419",
-	"team_performance": {
+	"team": {
 		"872044": {
+			"blocks": 36,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Strigos Elită",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 106,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 28,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 126
 		},
 		"874437": {
+			"blocks": 44,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bigwood Tree Shmashaz",
+			"pass": 0,
+			"prespp": 48,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 8,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 155
 		}
 	}
 }

@@ -1,62 +1,61 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4039040",
-	"player_performance": {
+	"player": {
 		"854507": {
 			"11439080": {
 				"name": "Vol'arth the Brazen",
 				"prespp": 126,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11807607": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Palehawk, the Revenant",
 				"prespp": 49,
 				"spp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11851618": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Marius, the Forgiven",
 				"prespp": 43,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11926823": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Berethan, the Soulless",
 				"prespp": 32,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11973355": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Nyerahd, the Cunning",
 				"prespp": 39,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12072676": {
 				"name": "Good Ol' Nodens",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12158370": {
 				"name": "Chaugnar Faugn",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12239764": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Bael, the Harbinger",
 				"prespp": 52,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12243333": {
@@ -64,28 +63,28 @@
 				"type": "R"
 			},
 			"12325373": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Horok Reborn",
 				"prespp": 8,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12346703": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Arsady the Hung",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 18,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12379882": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Jyrygaax",
 				"prespp": 14,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12513563": {
@@ -94,164 +93,182 @@
 			},
 			"12526331": {
 				"name": "Father Dagon",
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 6,
+				"td": 1,
+				"turns": 6,
 				"type": "R"
 			},
 			"12526332": {
 				"name": "K'n'yan",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12539644": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Old Forktongue",
-				"rus": 14,
-				"tur": 11,
+				"rush": 14,
+				"turns": 11,
 				"type": "R"
 			},
-			"854507S1": {
-				"blk": 7,
+			"STAR-7561": {
+				"blocks": 7,
 				"cas": 1,
 				"name": "Bilerot Vomitflesh",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		},
 		"886002": {
 			"11938007": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Sinthoras Bloodflame",
 				"prespp": 93,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938010": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"name": "Malaguth Blackmoon",
 				"prespp": 72,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938039": {
-				"blk": 5,
-				"cps": 1,
+				"blocks": 5,
+				"comp": 1,
 				"name": "Cargavel Stormcrow",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 88,
-				"rus": -1,
+				"rush": -1,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938051": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Valyr Dragonrider",
 				"prespp": 35,
-				"rus": -1,
-				"tur": 16,
+				"rush": -1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938060": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Telok Beastslayer",
 				"prespp": 31,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12154913": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Micath Ghosthunter",
 				"prespp": 36,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254187": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Gilgash Doomblade",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12280055": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Damien Scarface",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12335501": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Shorna Nightraider",
 				"prespp": 22,
-				"rus": 9,
+				"rush": 9,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12413661": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nuramon Darkstar",
 				"prespp": 16,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12413667": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Vargar Demonheart",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12458452": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Shriga Coldeyes",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12458456": {
 				"name": "Cartara Swiftdeath",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1126550",
-	"team_performance": {
+	"team": {
 		"854507": {
+			"blocks": 47,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Coven of the Mirrored Hall",
-			"prestige": 1,
+			"pass": -1,
+			"prespp": 381,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 23,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 145
 		},
 		"886002": {
+			"blocks": 45,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom Glade Demons",
-			"prestige": 1,
+			"pass": -2,
+			"prespp": 413,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 25,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 172
 		}
 	}
 }

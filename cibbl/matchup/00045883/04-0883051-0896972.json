@@ -1,119 +1,119 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4031344",
-	"player_performance": {
+	"player": {
 		"883051": {
 			"11892405": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "\"Featherweight\" Gunnar",
 				"prespp": 82,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11892424": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dag of The Mire",
 				"prespp": 8,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11892428": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Folke Ninth-Son",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11947871": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "\"Ambisinister\" Xander",
 				"prespp": 68,
-				"rus": 16,
+				"rush": 16,
 				"spp": 10,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11950136": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					5,
 					"blocked",
-					"896972S1"
+					"STAR-7545"
 				],
 				"name": "The Notorious Jerk",
 				"prespp": 55,
-				"tur": 4,
+				"retired": true,
+				"turns": 4,
 				"type": "R"
 			},
 			"12130906": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Haldor Halvarson",
 				"prespp": 19,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12169214": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Igor The Surgeon",
 				"prespp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12169228": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jary The Younger",
 				"prespp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12245045": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Gertrude, Beast of the Moors",
 				"prespp": 26,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12340698": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Turpin of Vostok",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12348482": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kettil the Gourmand",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12348483": {
 				"name": "Langley the Doomed",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12402229": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "The Irreverent Sindri",
 				"prespp": 26,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12424263": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Halvdan Halvarson",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12510951": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Manning The Tanner",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
@@ -124,12 +124,12 @@
 				"type": "R"
 			},
 			"12117788": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 2,
 				"name": "Poppy Merribuck",
 				"prespp": 35,
 				"spp": 4,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12117790": {
@@ -138,75 +138,75 @@
 				"type": "R"
 			},
 			"12117791": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Konrad the Enchanter",
 				"prespp": 12,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12117792": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gottlieb Thälmann of Averland",
 				"prespp": 10,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12117795": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Ferrimora of the Waxing Moon",
 				"prespp": 20,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12117802": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Urkrasour the Obedient",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 29,
-				"rus": 19,
-				"tur": 17,
+				"rush": 19,
+				"turns": 17,
 				"type": "R"
 			},
 			"12173327": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Draco the Ascendent",
 				"prespp": 12,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12179724": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "The Xenith of Devotion",
 				"prespp": 12,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12230477": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "*Whip-crack sound effect followed by whinnying horse*",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12235198": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Valanduil of House Meliane, reborn",
 				"prespp": 24,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12357064": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "The Painted Warlock",
 				"prespp": 8,
-				"rus": 3,
+				"rush": 3,
 				"spp": 8,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12402972": {
@@ -215,58 +215,76 @@
 				"type": "R"
 			},
 			"12451233": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Silk",
 				"spp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12464407": {
-				"fou": 4,
+				"fouls": 4,
 				"name": "Bartholomew of the Northern Tower",
 				"prespp": 14,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
-			"896972S1": {
-				"blk": 7,
+			"STAR-7545": {
+				"blocks": 7,
 				"cas": 2,
 				"name": "Angus Porterhouse",
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1117468",
-	"team_performance": {
+	"team": {
 		"883051": {
+			"blocks": 34,
 			"cas": 2,
 			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vostok Iron Head",
+			"pass": 0,
+			"prespp": 293,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 124
 		},
 		"896972": {
+			"blocks": 57,
 			"cas": 6,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Seekers of Transcendence",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 231,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 36,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 178
 		}
 	}
 }

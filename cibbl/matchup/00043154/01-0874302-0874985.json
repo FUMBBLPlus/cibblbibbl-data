@@ -1,57 +1,56 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3911365",
-	"player_performance": {
+	"player": {
 		"874302": {
 			"11754120": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Castelvetro",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11754121": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Castelnuovo Rangone",
 				"prespp": 9,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11754122": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Castelfranco Emilia",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754123": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Formigine",
 				"prespp": 17,
-				"rus": 7,
-				"tur": 9,
+				"rush": 7,
+				"turns": 9,
 				"type": "R"
 			},
 			"11754124": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Maranello",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754125": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Fiorano",
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11754126": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Marano sul Panaro",
 				"prespp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11754128": {
@@ -59,67 +58,68 @@
 					1,
 					1,
 					"blocked",
-					"874985S1"
+					"STAR-7543"
 				],
 				"name": "Prignano sulla Secchia",
 				"prespp": 2,
+				"retired": true,
 				"type": "R"
 			},
 			"11754141": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "San Cesario sul Panaro",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 5,
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754142": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sassuolo",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11754144": {
 				"name": "Vignola",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11754146": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Spilamberto",
 				"prespp": 6,
-				"rus": 13,
+				"rush": 13,
 				"spp": 8,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11779760": {
 				"name": "Savignano sul Panaro",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11783522": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Modena",
-				"pas": 3,
-				"rus": 2,
+				"pass": 3,
+				"rush": 2,
 				"spp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"874985": {
 			"11765180": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Deathcap",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11765181": {
@@ -128,68 +128,68 @@
 				"type": "R"
 			},
 			"11765182": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Captain Twitchy & Fluffy",
 				"prespp": 3,
-				"rus": 10,
+				"rush": 10,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11765185": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chuckzllz",
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11765186": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Lucky Nikk",
 				"prespp": 7,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11765187": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Funjus Majors",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11765188": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lietententic Herb",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11765189": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fertzerler",
 				"prespp": 3,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11765190": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "No Shuuz",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11765191": {
 				"name": "Chunky Bobb",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11765199": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Loopy",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11765200": {
@@ -197,58 +197,76 @@
 				"type": "R"
 			},
 			"11765204": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Ge'roff",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11769209": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Snacks",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11786508": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Private Parts & Scruffy",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
-			"874985S1": {
-				"blk": 11,
+			"STAR-7543": {
+				"blocks": 11,
 				"cas": 2,
 				"name": "Fungus the Loon",
 				"spp": 4,
-				"tur": 13,
+				"turns": 13,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "978172",
-	"team_performance": {
+	"team": {
 		"874302": {
+			"blocks": 41,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grasparossa B.B.C",
-			"prestige": 1,
+			"pass": 2,
+			"prespp": 61,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 27,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 134
 		},
 		"874985": {
+			"blocks": 49,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Red Crag Redcaps",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 36,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 23,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 147
 		}
 	}
 }

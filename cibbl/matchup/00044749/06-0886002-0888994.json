@@ -1,46 +1,45 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3988182",
-	"player_performance": {
+	"player": {
 		"886002": {
 			"11938003": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Caphalor Darkstar",
 				"prespp": 29,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938007": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Sinthoras Bloodflame",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 55,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938008": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Molostroi Demonheart",
 				"prespp": 23,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11938010": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Malaguth Blackmoon",
 				"prespp": 46,
-				"rus": 7,
+				"rush": 7,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938039": {
@@ -49,99 +48,98 @@
 				"type": "R"
 			},
 			"11938045": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cirgil Elvenslaver",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11938051": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Valyr Dragonrider",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938060": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Telok Beastslayer",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12077340": {
 				"name": "Nazuc Nightraider",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12125346": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Raheel Swiftdeath",
 				"prespp": 26,
-				"rus": 18,
+				"rush": 18,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12154913": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Micath Ghosthunter",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12188144": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sheila Coldeyes",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254187": {
 				"name": "Gilgash Doomblade",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			}
 		},
 		"888994": {
 			"11985437": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Vargwursgelnd",
 				"prespp": 35,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11985438": {
-				"blk": 14,
+				"blocks": 14,
 				"name": "Gwoftirbnewfg",
 				"prespp": 65,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11985439": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Gnorfmangph",
 				"prespp": 24,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11985440": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Banbha Fasner",
 				"prespp": 8,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11985441": {
 				"name": "Murchú Varken",
 				"prespp": 9,
-				"rus": 15,
-				"tur": 9,
+				"rush": 15,
+				"turns": 9,
 				"type": "R"
 			},
 			"11985442": {
@@ -152,45 +150,44 @@
 			"11985443": {
 				"name": "Lasarina Ariannona",
 				"prespp": 16,
-				"retired": true,
-				"rus": 3,
-				"tur": 9,
+				"rush": 3,
+				"turns": 9,
 				"type": "R"
 			},
 			"11985462": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Jforznthrargh",
 				"prespp": 37,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11998010": {
 				"name": "Fachtna Cid",
 				"prespp": 11,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12031804": {
 				"name": "Báine Styrix",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 32,
-				"rus": 5,
-				"tur": 10,
+				"rush": 5,
+				"turns": 10,
 				"type": "R"
 			},
 			"12042228": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Aodhán Coobe",
 				"prespp": 9,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12042370": {
 				"name": "Ualraig Fovor",
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"12129508": {
@@ -198,48 +195,66 @@
 				"name": "Hanrahan Fearghail",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12190156": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Sionn Volux",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12277260": {
 				"name": "Brocc Rydan",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1066869",
-	"team_performance": {
+	"team": {
 		"886002": {
+			"blocks": 39,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom Glade Demons",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 299,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 39,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 156
 		},
 		"888994": {
+			"blocks": 37,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Beerbog Behemoths",
+			"pass": -1,
+			"prespp": 265,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 24,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 144
 		}
 	}
 }

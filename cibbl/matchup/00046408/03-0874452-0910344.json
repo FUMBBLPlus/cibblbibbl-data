@@ -1,112 +1,111 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4049800",
-	"player_performance": {
+	"player": {
 		"874452": {
 			"11756582": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 3,
 				"name": "Draco Dracovich",
 				"prespp": 168,
-				"rus": 12,
+				"rush": 12,
 				"spp": 9,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11756629": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Igor Igorivich",
 				"prespp": 165,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11980258": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tabbart",
 				"prespp": 20,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11981974": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Arnold",
 				"prespp": 8,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12254615": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nickolaus",
 				"prespp": 3,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12319529": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dracul Draculesti",
 				"prespp": 59,
-				"rus": -1,
-				"tur": 16,
+				"rush": -1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12368009": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Norbert von Bluten",
 				"prespp": 24,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12415471": {
 				"name": "Werner",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12415694": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Alex Alexsandrescu",
 				"prespp": 29,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12444792": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Peter Badblood",
 				"prespp": 15,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12529939": {
 				"name": "Hubert",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12550877": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Albert",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12550878": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Horst",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12550883": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					1,
@@ -114,75 +113,76 @@
 					"12323836"
 				],
 				"name": "Julia",
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"12610959": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Wilbur",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		},
 		"910344": {
 			"12323836": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Abel Sturm",
 				"prespp": 76,
-				"rus": 2,
+				"rush": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12323839": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Marquis Agulliar",
 				"prespp": 40,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12323842": {
 				"name": "Melchior",
 				"prespp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12323844": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Doru",
 				"prespp": 4,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12323847": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lucien",
 				"prespp": 4,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12325681": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Grazabire Lust'igor",
 				"prespp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12350186": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Sever Cumfeorm",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12352367": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Cyprian Drake",
 				"prespp": 65,
 				"spp": 7,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12358967": {
@@ -193,13 +193,14 @@
 					"12368009"
 				],
 				"name": "Ascelin II",
+				"retired": true,
 				"type": "R"
 			},
 			"12431641": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Janthuur",
 				"prespp": 7,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12495688": {
@@ -207,10 +208,10 @@
 				"type": "R"
 			},
 			"12519733": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Demitrius II",
 				"prespp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12520380": {
@@ -221,65 +222,84 @@
 					"11756582"
 				],
 				"name": "Damien Snr",
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
-			"12550883R1": {
-				"blk": 2,
-				"fou": 1,
-				"name": "Julia",
-				"tur": 3,
-				"type": "D"
-			},
 			"12551997": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Isaiah Gore",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 5,
-				"rus": 24,
+				"rush": 24,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12552000": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jorin",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12593624": {
 				"name": "Constantine",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
+			},
+			"RAISED-7392_12550883_12615768": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Julia",
+				"turns": 3,
+				"type": "D"
 			}
 		}
 	},
 	"replayId": "1138831",
-	"team_performance": {
+	"team": {
 		"874452": {
+			"blocks": 40,
 			"cas": 5,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 496,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 169
 		},
 		"910344": {
+			"blocks": 45,
 			"cas": 2,
 			"casdiff": -3,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vlad's Vampheroes",
+			"pass": 3,
+			"prespp": 210,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 26,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 132
 		}
 	}
 }

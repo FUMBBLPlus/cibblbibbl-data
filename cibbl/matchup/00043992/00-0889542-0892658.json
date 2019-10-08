@@ -1,20 +1,19 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3945704",
-	"player_performance": {
+	"player": {
 		"889542": {
 			"11994682": {
-				"blk": 10,
+				"blocks": 10,
 				"mvp": 1,
 				"name": "Lord Hellfire",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11994683": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"dead": [
 					2,
@@ -23,15 +22,16 @@
 					"12044228"
 				],
 				"name": "Moddy Coral",
+				"retired": true,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11994684": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mineral Casper",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11994685": {
@@ -40,40 +40,40 @@
 				"type": "R"
 			},
 			"11994690": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Flooding Caves",
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11994693": {
 				"name": "Flowing Woods",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11994694": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Burning Soul",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11994696": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Restless Igniter",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12003232": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Shimering Glow",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12003233": {
@@ -84,140 +84,160 @@
 					"12044229"
 				],
 				"name": "Starfire",
+				"retired": true,
 				"type": "R"
 			},
 			"12009380": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Underground Heat",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12036400": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Slight Tornado",
 				"prespp": 7,
-				"rus": 11,
-				"tur": 16,
+				"rush": 11,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"892658": {
 			"12044225": {
-				"blk": 9,
-				"fou": 1,
+				"blocks": 9,
+				"fouls": 1,
 				"name": "Krip-tichox The Undying",
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12044226": {
-				"blk": 7,
+				"blocks": 7,
 				"dead": [
 					1,
 					8,
 					"crowdPushed",
-					"12036400"
+					null
 				],
 				"name": "Iztlix The Unmoving",
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"12044227": {
-				"blk": 7,
-				"cps": 1,
+				"blocks": 7,
+				"comp": 1,
 				"name": "Qruxchihcoar",
-				"pas": 2,
+				"pass": 2,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12044228": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Coch-noalten",
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12044229": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Helxo",
 				"spp": 7,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12044230": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Faint Body",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12044231": {
 				"name": "Dawnhag",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12044232": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Grimepest",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12044233": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Thin Presence",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12044234": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "The Ugly Miscreation",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12044235": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "The Tall Howler",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12044236": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "The Disfigured Wailer",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1018153",
-	"team_performance": {
+	"team": {
 		"889542": {
+			"blocks": 43,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Hellbound Firebats",
+			"pass": 0,
+			"prespp": 39,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 143
 		},
 		"892658": {
+			"blocks": 55,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tomb Guardians of the Tower",
+			"pass": 2,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 3,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 139
 		}
 	}
 }

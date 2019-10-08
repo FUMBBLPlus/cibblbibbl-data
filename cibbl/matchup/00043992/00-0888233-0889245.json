@@ -1,86 +1,85 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3943811",
-	"player_performance": {
+	"player": {
 		"888233": {
 			"11972753": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Zunabar",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11972754": {
-				"blk": 12,
+				"blocks": 12,
 				"mvp": 1,
 				"name": "Smogmonster",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11972755": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Cobalt Horror",
 				"prespp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11972756": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Roct",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11972757": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Tirm",
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11972758": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Star",
 				"prespp": 6,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11972759": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Froittiok",
 				"prespp": 3,
-				"rus": 4,
-				"tur": 14,
+				"rush": 4,
+				"turns": 14,
 				"type": "R"
 			},
 			"11972760": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Curk",
 				"prespp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11972761": {
 				"name": "Aagkobs",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11972762": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Slenel",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11972763": {
 				"name": "Ilact",
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11972765": {
@@ -92,135 +91,154 @@
 					1,
 					8,
 					"eaten",
-					"11972753"
+					null
 				],
 				"name": "Stiald",
 				"prespp": 2,
-				"rus": 4,
-				"tur": 5,
+				"retired": true,
+				"rush": 4,
+				"turns": 5,
 				"type": "R"
 			}
 		},
 		"889245": {
 			"11990251": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bump in the night",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11990252": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Moving Shadows",
-				"pas": 3,
-				"rus": 11,
+				"pass": 3,
+				"rush": 11,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990253": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 3,
 				"name": "Lurking Beneath",
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990254": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Sneaking Carpet",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990255": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Growling Brook",
-				"rus": 6,
+				"rush": 6,
 				"spp": 8,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11990257": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Fuming Badger",
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11990258": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Laughing Rat",
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11990260": {
 				"name": "Drunken Skunk",
-				"pas": 1,
-				"rus": 3,
-				"tur": 13,
+				"pass": 1,
+				"rush": 3,
+				"turns": 13,
 				"type": "R"
 			},
 			"11990261": {
 				"name": "Snorting Fox",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11990262": {
 				"name": "Blind Wolf",
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"11990263": {
 				"name": "Attentive Bat",
-				"rus": 4,
-				"tur": 12,
+				"rush": 4,
+				"turns": 12,
 				"type": "R"
 			},
 			"11990268": {
 				"name": "Chauvinistic Pig",
-				"pas": 1,
-				"rus": 8,
-				"tur": 13,
+				"pass": 1,
+				"rush": 8,
+				"turns": 13,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1015951",
-	"team_performance": {
+	"team": {
 		"888233": {
-			"cas": 2,
-			"casdiff": -3,
+			"blocks": 41,
+			"cas": 1,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Da Lowdown Dirty Rats",
+			"pass": 0,
+			"prespp": 38,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 30,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 122
 		},
 		"889245": {
+			"blocks": 27,
 			"cas": 5,
-			"casdiff": 3,
+			"casdiff": 4,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Shroomwood Attercops",
+			"pass": 5,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 53,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 148
 		}
 	}
 }

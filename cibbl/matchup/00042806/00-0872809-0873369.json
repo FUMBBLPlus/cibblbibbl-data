@@ -1,69 +1,68 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3894301",
-	"player_performance": {
+	"player": {
 		"872809": {
 			"11727680": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Breedmaster Glux",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11727681": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Chief Breeder Tork",
-				"pas": 1,
+				"pass": 1,
 				"spp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727684": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Fungus Designer Vryq",
 				"prespp": 7,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11727685": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Galvanodon (E. S. A1)",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11727687": {
 				"name": "Senior Assistant Jekz",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11727688": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Senior Adjutant Stemirk",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11727689": {
 				"name": "Deputy Breeder Vekz",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11727691": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cleanup Manager Stryx",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11727692": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Junior Vice-Breeder Zesz",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11727693": {
@@ -71,23 +70,23 @@
 				"type": "R"
 			},
 			"11727694": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Provisions Clerk Plyriets",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727697": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Feeding Attache Vril",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11745029": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Vice-consultant Zrots",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		},
@@ -97,116 +96,133 @@
 				"type": "R"
 			},
 			"11737365": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Trikhuf",
 				"prespp": 1,
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737376": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Weyrot",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737379": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Baahru",
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737388": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Shurtehl",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737395": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fuhree",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11737406": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Yihreigh",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 3,
-				"rus": 13,
-				"tur": 16,
+				"rush": 13,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737432": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"name": "Fulmayne Thrice-Crowned",
 				"prespp": 7,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737433": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Breyyar Scoredrinker",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737434": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Stoneflagon Rhuheigh",
 				"spp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11737443": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Yronleg the Barrelbeast",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11744953": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Paul Darkfist",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "958570",
-	"team_performance": {
+	"team": {
 		"872809": {
-			"cas": 2,
-			"casdiff": -2,
+			"blocks": 39,
+			"cas": 1,
+			"casdiff": -3,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crookback Pit Evil Moons",
+			"pass": 1,
+			"prespp": 7,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 16,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 110
 		},
 		"873369": {
+			"blocks": 37,
 			"cas": 4,
-			"casdiff": 2,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Schattenwald Drinking Horns",
+			"pass": -1,
+			"prespp": 13,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 36,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 155
 		}
 	}
 }

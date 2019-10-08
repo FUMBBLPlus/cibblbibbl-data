@@ -1,112 +1,109 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4029886",
-	"player_performance": {
+	"player": {
 		"854507": {
 			"11439080": {
-				"blk": 3,
-				"cps": 1,
-				"fou": 1,
+				"blocks": 3,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Vol'arth the Brazen",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 125,
-				"rus": 12,
+				"rush": 12,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11681756": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Neron",
 				"prespp": 42,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11807607": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Palehawk, the Revenant",
 				"prespp": 40,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11851618": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Marius, the Forgiven",
 				"prespp": 34,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11926823": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Berethan, the Soulless",
 				"prespp": 32,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11973355": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nyerahd, the Cunning",
 				"prespp": 37,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12072676": {
 				"name": "Good Ol' Nodens",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12158370": {
 				"name": "Chaugnar Faugn",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12239764": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Bael, the Harbinger",
 				"prespp": 42,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12243333": {
 				"name": "Tulzscha",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12325373": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Horok Reborn",
 				"prespp": 8,
-				"rus": 2,
-				"tur": 6,
+				"rush": 2,
+				"turns": 6,
 				"type": "R"
 			},
 			"12346703": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Arsady the Hung",
 				"prespp": 14,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12379882": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jyrygaax",
 				"prespp": 8,
-				"rus": 5,
-				"tur": 12,
+				"rush": 5,
+				"turns": 12,
 				"type": "R"
 			},
 			"12416563": {
 				"name": "Mother Hydra",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12513562": {
 				"name": "Lobon",
-				"retired": true,
 				"type": "R"
 			},
 			"12513563": {
@@ -116,136 +113,154 @@
 		},
 		"886114": {
 			"11939696": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Erato",
 				"prespp": 56,
-				"rus": 6,
+				"rush": 6,
 				"spp": 5,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11939705": {
-				"blk": 1,
-				"cps": 3,
+				"blocks": 1,
+				"comp": 3,
 				"name": "Lydia",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 77,
-				"rus": 5,
+				"rush": 5,
 				"spp": 6,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11939715": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Aadhýa",
 				"prespp": 48,
-				"rus": 7,
+				"rush": 7,
 				"spp": 5,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11956884": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Elpida",
-				"pas": 5,
+				"pass": 5,
 				"prespp": 65,
-				"rus": 5,
+				"rush": 5,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12030024": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Shinesa",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 98,
-				"rus": 8,
-				"tur": 15,
+				"rush": 8,
+				"turns": 15,
 				"type": "R"
 			},
 			"12051225": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Silvestra Darklightning",
 				"prespp": 51,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12279032": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Iris",
 				"prespp": 20,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12340801": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Ian Bluesnake",
 				"prespp": 27,
-				"rus": 3,
+				"rush": 3,
 				"spp": 10,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12441430": {
 				"name": "Kalipso",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12441504": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Circe",
-				"pas": 3,
+				"pass": 3,
 				"spp": 1,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12465747": {
 				"name": "Pinelopi",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12510464": {
 				"name": "Alariella",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1115798",
-	"team_performance": {
+	"team": {
 		"854507": {
+			"blocks": 50,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Coven of the Mirrored Hall",
+			"pass": 2,
+			"prespp": 382,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 0,
 			"scorediff": -4,
-			"tds": 0,
-			"tdsdiff": -4
+			"td": 0,
+			"tddiff": -4,
+			"turns": 149
 		},
 		"886114": {
+			"blocks": 40,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 5,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eye and Arrow",
-			"prestige": 3,
+			"pass": 12,
+			"prespp": 448,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 4,
 			"scorediff": 4,
-			"tds": 4,
-			"tdsdiff": 4
+			"td": 4,
+			"tddiff": 4,
+			"turns": 163
 		}
 	}
 }

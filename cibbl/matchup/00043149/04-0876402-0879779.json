@@ -1,82 +1,81 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3915641",
-	"player_performance": {
+	"player": {
 		"876402": {
 			"11785917": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"name": "Haymagar Elmwind",
 				"prespp": 6,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11785920": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hagain Seedshade",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11785923": {
-				"blk": 14,
+				"blocks": 14,
 				"name": "Niolas Sagewind",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11785926": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nimpnrel Acornlake",
 				"prespp": 3,
-				"rus": 4,
-				"tur": 12,
+				"rush": 4,
+				"turns": 12,
 				"type": "R"
 			},
 			"11785927": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Geleion Sageblossom",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11785928": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Naagnan Bluemire",
 				"prespp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11785929": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Uuraorolros Duskbranch",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11785930": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Botolian Nightwing",
 				"prespp": 2,
-				"rus": 2,
-				"tur": 14,
+				"rush": 2,
+				"turns": 14,
 				"type": "R"
 			},
 			"11785931": {
 				"name": "Thrhadan Shadystone",
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"11785932": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Fauoron Rivergrove",
 				"prespp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11846486": {
@@ -87,92 +86,93 @@
 					"11839172"
 				],
 				"name": "Richard Truestone",
-				"tur": 1,
+				"retired": null,
+				"turns": 1,
 				"type": "J"
 			}
 		},
 		"879779": {
 			"11839158": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Erika Mencken",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 6,
-				"rus": 10,
-				"tur": 17,
+				"rush": 10,
+				"turns": 17,
 				"type": "R"
 			},
 			"11839171": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Anya Hoess",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11839172": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Roza Klemme",
 				"prespp": 4,
-				"rus": 7,
+				"rush": 7,
 				"spp": 5,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11839174": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Captain Jonas Renkse",
 				"prespp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11839175": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Martin Axenrot",
 				"prespp": 9,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11839176": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mikael",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11839177": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Dan",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11839178": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Per",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11839180": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Anders",
 				"spp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11839181": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Miron",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11839182": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Oliver",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11854467": {
@@ -183,35 +183,54 @@
 					"11785917"
 				],
 				"name": "Jon",
+				"retired": true,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "983150",
-	"team_performance": {
+	"team": {
 		"876402": {
+			"blocks": 50,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Hunters Of Kurnous",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 26,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 18,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 144
 		},
 		"879779": {
+			"blocks": 59,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Nightmares Made Flesh",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 36,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 17,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 169
 		}
 	}
 }

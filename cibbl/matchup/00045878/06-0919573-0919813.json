@@ -1,155 +1,152 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4035208",
-	"player_performance": {
+	"player": {
 		"919573": {
 			"12469183": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Tornbull",
 				"prespp": 11,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12469184": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Blightbasher",
 				"prespp": 6,
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "B"
 			},
 			"12469185": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 2,
 				"name": "Warpserker",
 				"prespp": 13,
 				"spp": 4,
-				"tur": 11,
+				"turns": 11,
 				"type": "B"
 			},
 			"12469186": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Toerot",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12469191": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Tech Toetacker",
 				"prespp": 9,
-				"rus": 6,
+				"rush": 6,
 				"spp": 8,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12469192": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Znukch Clothclaw",
 				"prespp": 3,
-				"rus": 23,
+				"rush": 23,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12469194": {
 				"name": "Crenq Brightear",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12469197": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zalk Weavepaw",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12469210": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Srotch Firebaster",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12496058": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Skaq Shoepaw",
-				"retired": true,
-				"rus": 1,
-				"tur": 11,
+				"rush": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12499981": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Leroy Deeprock",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			}
 		},
 		"919813": {
 			"12472612": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Theggamri Flintbringer",
 				"prespp": 9,
 				"spp": 9,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12472614": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Khoukronlir Barbedtoe",
 				"prespp": 13,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12472615": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Firher Woldarm",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12472616": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Thiznorlig Minefinger",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12472617": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Barisgroug Goldenbreaker",
-				"rus": 6,
-				"tur": 12,
+				"rush": 6,
+				"turns": 12,
 				"type": "R"
 			},
 			"12472618": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Strolgrer Opalbender",
 				"prespp": 8,
-				"rus": 7,
-				"tur": 15,
+				"rush": 7,
+				"turns": 15,
 				"type": "R"
 			},
 			"12472619": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Torerbir Barbedbasher",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12472621": {
@@ -159,7 +156,7 @@
 			"12472622": {
 				"name": "Dokkaek Chainarm",
 				"prespp": 6,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12472623": {
@@ -169,44 +166,61 @@
 			},
 			"12496431": {
 				"name": "Targamri Stonefist",
-				"retired": true,
 				"type": "R"
 			},
 			"12503584": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Cory Whiteeagle",
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1121935",
-	"team_performance": {
+	"team": {
 		"919573": {
-			"cas": 6,
-			"casdiff": 1,
+			"blocks": 35,
+			"cas": 4,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ragtag Animal Training Sartors",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 61,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 126
 		},
 		"919813": {
+			"blocks": 29,
 			"cas": 5,
-			"casdiff": -1,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gal Duur Forge Iron Anvils",
+			"pass": 0,
+			"prespp": 57,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 13,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 95
 		}
 	}
 }

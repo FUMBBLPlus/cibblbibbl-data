@@ -1,37 +1,36 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4044502",
-	"player_performance": {
+	"player": {
 		"924349": {
 			"12544392": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Thumnulim Granitehorn",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544393": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Foldrour Mithrilarmour",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544394": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Whuddod Brewchin",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12544395": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Vokug Thunderfoot",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544396": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					4,
@@ -39,172 +38,190 @@
 					"12545296"
 				],
 				"name": "Yalat Leatherbrewer",
-				"tur": 12,
+				"retired": true,
+				"turns": 12,
 				"type": "R"
 			},
 			"12544397": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Doralmul Blazingbraid",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544398": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Eltdrot Granitebelt",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544399": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Glakrumri Icehorn",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12544400": {
 				"name": "Bloltiang",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12544401": {
 				"name": "Strekasz",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12544402": {
 				"name": "Zuzdiakz",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
-			"924349S1": {
-				"blk": 3,
-				"fou": 1,
+			"STAR-7567": {
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Garbage Throttlesnot",
-				"tur": 7,
+				"turns": 7,
 				"type": "S"
 			}
 		},
 		"924405": {
 			"12545274": {
 				"name": "Krusher",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12545275": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Grimdore Chainbreaker",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545276": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Sugz Snarlof",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545277": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Urig Ironhide",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545278": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Zaghik Znarl",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545279": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Zellar Cutthroat",
 				"prespp": 3,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12545280": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gurgug Gutter",
 				"prespp": 5,
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12545282": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tukram Slitter",
 				"prespp": 14,
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545290": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Arkiek Reek",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12545293": {
 				"name": "Wranviorx Posiontooth",
 				"prespp": 4,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12545296": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Struhulk Lurker",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12576974": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Thraniorx Hidetanner",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1132848",
-	"team_performance": {
+	"team": {
 		"924349": {
+			"blocks": 25,
 			"cas": 0,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Karak Vlag Stampeders",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 0,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 129
 		},
 		"924405": {
-			"cas": 3,
-			"casdiff": 3,
+			"blocks": 57,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Wolf Lands Slavers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 47,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 169
 		}
 	}
 }

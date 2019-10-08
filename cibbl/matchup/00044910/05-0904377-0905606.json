@@ -1,75 +1,74 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3985955",
-	"player_performance": {
+	"player": {
 		"904377": {
 			"12231317": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ruby",
 				"prespp": 5,
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231319": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sapphire",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231325": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Emerald",
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12231332": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Topaz",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231335": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Diamond",
 				"prespp": 2,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12231336": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Aquamarine",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231338": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Alexandrite",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231341": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Opal",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231343": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					2,
@@ -77,146 +76,164 @@
 					"12250188"
 				],
 				"name": "Obsidian",
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "R"
 			},
 			"12231345": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hematite",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12265890": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Xavier Whitesnake",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			}
 		},
 		"905606": {
 			"12250181": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Thaskar the Patient",
-				"rus": -2,
-				"tur": 16,
+				"rush": -2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12250182": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Laris the Architect",
 				"prespp": 3,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12250183": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Khahos the Crimson",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12250187": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Itom the Visionary",
 				"prespp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12250188": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Machakh the Ancient",
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12250189": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Rophkihon the Prime",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12250191": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nestap the Brillant",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12250204": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Syiksa the Infinite",
-				"rus": 3,
+				"rush": 3,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12250205": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Aexlor the Bulwark",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12250207": {
 				"name": "Khokhakh the Honorable",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12250209": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Erikheph the Watcher",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12250212": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kessas the White",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 2,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12260629": {
-				"blk": 3,
-				"fou": 2,
+				"blocks": 3,
+				"fouls": 2,
 				"name": "Onileph The Artist",
 				"prespp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1064322",
-	"team_performance": {
+	"team": {
 		"904377": {
+			"blocks": 44,
 			"cas": 3,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Aurons",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 31,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 11,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 159
 		},
 		"905606": {
-			"cas": 3,
-			"casdiff": 0,
+			"blocks": 38,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Serpent-Guards of Khalida",
+			"pass": -1,
+			"prespp": 26,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 2,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 146
 		}
 	}
 }

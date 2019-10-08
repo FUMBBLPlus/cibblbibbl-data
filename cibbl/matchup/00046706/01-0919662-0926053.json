@@ -1,77 +1,76 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4061715",
-	"player_performance": {
+	"player": {
 		"919662": {
 			"12474062": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Urskin",
 				"prespp": 13,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12474065": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ivan Doroshenko",
 				"prespp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12474066": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Stenka Pugachev",
 				"prespp": 9,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12474068": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Yermak Razumovski",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 13,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12474069": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Alexei Razumovski",
 				"prespp": 21,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12474072": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Bela Szozak",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 21,
-				"rus": 26,
+				"rush": 26,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12474075": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Nagy Avalov",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12474081": {
 				"name": "Pavlo Razin",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12474094": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Farkas Komilov",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12512740": {
@@ -84,143 +83,161 @@
 				"type": "R"
 			},
 			"12583898": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Temudjin Hirsut",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12622761": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Zorigoo Khuleg",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12635297": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Baavgai",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			}
 		},
 		"926053": {
 			"12570037": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Huitzilopochtli Harbinger of War",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12570096": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Tezcatlipoca the Black",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570097": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Xipe-Totec the Reborn",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570099": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Tepeyollotl Breaker of Mountains",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570100": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Tlaloc Bringer of Thunder",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570103": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Nesoxochi Queen of Darkness",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570104": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ometeotl the One with the Two Faces",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570105": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Mixcoatl the Hunter",
 				"prespp": 3,
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12570106": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tecciztecatl Master of the Moon",
-				"pas": 1,
-				"rus": 7,
-				"tur": 11,
+				"pass": 1,
+				"rush": 7,
+				"turns": 11,
 				"type": "R"
 			},
 			"12570109": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Omacatl Master of Laughter",
 				"prespp": 7,
-				"rus": 12,
-				"tur": 12,
+				"rush": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12599625": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chalchiuhtlatonal The Master of the Water Dance",
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1152211",
-	"team_performance": {
+	"team": {
 		"919662": {
+			"blocks": 59,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ursun Throat Singers",
+			"pass": 5,
+			"prespp": 115,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 32,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 157
 		},
 		"926053": {
+			"blocks": 47,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Servants of Sacrifice",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 57,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 160
 		}
 	}
 }

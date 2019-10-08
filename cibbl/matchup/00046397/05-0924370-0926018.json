@@ -1,32 +1,31 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4056775",
-	"player_performance": {
+	"player": {
 		"924370": {
 			"12544646": {
 				"name": "Freddy Wender",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12544648": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Danny Baumer",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12544649": {
 				"name": "Dieter Chickenbelly",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12544650": {
 				"name": "Heinrich Foglogger",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12544651": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					4,
@@ -34,15 +33,16 @@
 					"12569396"
 				],
 				"name": "Jonas Plier",
-				"tur": 13,
+				"retired": true,
+				"turns": 13,
 				"type": "R"
 			},
 			"12544653": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Alex Redlot",
 				"prespp": 8,
-				"rus": -2,
-				"tur": 14,
+				"rush": -2,
+				"turns": 14,
 				"type": "R"
 			},
 			"12544658": {
@@ -53,118 +53,118 @@
 			"12544659": {
 				"name": "Clovis Heathland",
 				"prespp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12544666": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Grendel",
 				"prespp": 11,
 				"spp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12544667": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Tabak",
 				"prespp": 11,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12583244": {
 				"name": "Lonny Wideyes",
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12584566": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gregg Baumburger",
-				"pas": 1,
-				"rus": 3,
-				"tur": 11,
+				"pass": 1,
+				"rush": 3,
+				"turns": 11,
 				"type": "R"
 			},
 			"12584589": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Christy Long",
 				"prespp": 5,
-				"rus": 10,
+				"rush": 10,
 				"spp": 5,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12596096": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sam Button",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			}
 		},
 		"926018": {
 			"12569392": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Mager",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569393": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Stag Sgat",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569395": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "\"The Unihorn\"",
 				"prespp": 10,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569396": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Purg",
 				"prespp": 11,
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569397": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Farnegor",
 				"prespp": 11,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569406": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Pag-smer",
-				"rus": 8,
-				"tur": 4,
+				"rush": 8,
+				"turns": 4,
 				"type": "R"
 			},
 			"12569407": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Nubimer",
-				"pas": 1,
-				"rus": 26,
+				"pass": 1,
+				"rush": 26,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569408": {
@@ -173,66 +173,81 @@
 				"type": "R"
 			},
 			"12592880": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Drunker",
 				"prespp": 5,
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"12616465": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Edward Strongstone",
-				"retired": true,
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "J"
 			},
 			"12616466": {
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Edward Hideousfist",
-				"retired": true,
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			},
 			"12616467": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vincent Clumsybrook",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1146677",
-	"team_performance": {
+	"team": {
 		"924370": {
+			"blocks": 27,
 			"cas": 2,
 			"casdiff": -5,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gipfel Blueleaves",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 50,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 24,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 126
 		},
 		"926018": {
+			"blocks": 52,
 			"cas": 7,
 			"casdiff": 5,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Kordoberg's Herd",
+			"pass": 1,
+			"prespp": 54,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 42,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 132
 		}
 	}
 }

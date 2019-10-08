@@ -1,204 +1,218 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3985746",
-	"player_performance": {
+	"player": {
 		"901773": {
 			"12188828": {
 				"name": "Kheetch Darkscream",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 24,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12188830": {
 				"mvp": 1,
 				"name": "Skritch Highbinder",
-				"rus": 3,
+				"rush": 3,
 				"spp": 8,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12188831": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Qixqokch Headtaker",
 				"prespp": 12,
-				"rus": 15,
+				"rush": 15,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12188832": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Straxqenq Silentreaper",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12188834": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Eqal Broadseeker",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12188835": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Qrokhuat Barbmaster",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12188837": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Znuol Verminsnout",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12216635": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Rikek",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "B"
 			},
 			"12264590": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Evander Weakspike",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12264591": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Brian Clumsysnake",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
 			"12264592": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Brian Goldfire",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			}
 		},
 		"903276": {
 			"12212942": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Viktor Ignašov",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12212944": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Nikolai Ignašov",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12212946": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Igor",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12212958": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Yaroslaw the Mighy",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12212959": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Angry Igor",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12212960": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Vladislav",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12212961": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Pablik",
 				"prespp": 2,
-				"rus": 5,
+				"rush": 5,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12212965": {
 				"name": "Jurishlav",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12212966": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Boris",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 1,
-				"rus": 5,
+				"rush": 5,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12212967": {
-				"blk": 3,
-				"fou": 2,
+				"blocks": 3,
+				"fouls": 2,
 				"name": "Svyatopolk",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12212970": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vladimir",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1064078",
-	"team_performance": {
+	"team": {
 		"901773": {
+			"blocks": 35,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rikek Revenge",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 54,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 36,
 			"score": 4,
 			"scorediff": 4,
-			"tds": 4,
-			"tdsdiff": 4
+			"td": 4,
+			"tddiff": 4,
+			"turns": 144
 		},
 		"903276": {
+			"blocks": 41,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Kislev Last Hope",
+			"pass": 2,
+			"prespp": 25,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 10,
 			"score": 0,
 			"scorediff": -4,
-			"tds": 0,
-			"tdsdiff": -4
+			"td": 0,
+			"tddiff": -4,
+			"turns": 154
 		}
 	}
 }

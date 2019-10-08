@@ -1,66 +1,65 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3867477",
-	"player_performance": {
+	"player": {
 		"863440": {
 			"11581226": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "General Blackheart",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11581227": {
-				"blk": 10,
+				"blocks": 10,
 				"mvp": 1,
 				"name": "Nantima",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11581228": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Undine",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11581229": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Crack The Leg Crippler",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11581231": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Smark The Skull Breaker",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11581232": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Urien The Heartripper",
-				"rus": 22,
+				"rush": 22,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11581233": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Deep Sea King Rakhart",
-				"pas": 1,
-				"rus": 32,
+				"pass": 1,
+				"rush": 32,
 				"spp": 4,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11581234": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chad",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11581235": {
@@ -68,133 +67,151 @@
 				"type": "R"
 			},
 			"11581236": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Custard",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11581237": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "March",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11581238": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tony",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		},
 		"864291": {
 			"11590768": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "S. Sang",
 				"prespp": 2,
-				"rus": 1,
+				"rush": 1,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11590769": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "U. Gress",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590770": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Natasha B.",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 1,
-				"rus": 4,
+				"rush": 4,
 				"spp": 1,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11590771": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Redivor",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590772": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Redimor",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590773": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chitemor",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590774": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Stramor",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11590777": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Limortor",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590778": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dissepolor",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11590780": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Affuquator",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590781": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Dichitemor",
 				"prespp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "927383",
-	"team_performance": {
+	"team": {
 		"863440": {
+			"blocks": 40,
 			"cas": 0,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom of Athelorn",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 5,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 54,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 157
 		},
 		"864291": {
-			"cas": 3,
-			"casdiff": 3,
+			"blocks": 31,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Norscan Curse",
+			"pass": 3,
+			"prespp": 8,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 5,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 153
 		}
 	}
 }

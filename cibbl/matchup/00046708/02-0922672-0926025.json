@@ -1,21 +1,20 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4064779",
-	"player_performance": {
+	"player": {
 		"922672": {
 			"12515846": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zunker",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12515848": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Grishen",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12515856": {
@@ -25,85 +24,83 @@
 			"12515857": {
 				"name": "Bellek",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12519672": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nizic",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12520609": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Ikuz",
 				"prespp": 13,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12520610": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Azid",
 				"prespp": 9,
 				"spp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12612981": {
 				"name": "Balck",
 				"prespp": 7,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12639294": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Galzar",
-				"rus": 23,
+				"rush": 23,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12667985": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gulben",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12667986": {
 				"name": "Albert Hideousrock",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12667987": {
 				"name": "Sean Coldrock",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"926025": {
 			"12569521": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Snot Steiner",
 				"prespp": 9,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12569525": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Randy \"The Mucus Man\" Savage",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12569527": {
@@ -112,56 +109,56 @@
 				"type": "B"
 			},
 			"12569686": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Lex Looger",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12569688": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Splop",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569689": {
 				"name": "Sploop",
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569690": {
 				"name": "Skitter",
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569693": {
 				"name": "Kicky",
 				"prespp": 6,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12571803": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Booger T",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12571811": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hock Hogan",
 				"prespp": 15,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12571815": {
 				"name": "Flicky",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12676624": {
@@ -170,36 +167,54 @@
 			},
 			"12676626": {
 				"name": "Splip",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1155673",
-	"team_performance": {
+	"team": {
 		"922672": {
+			"blocks": 16,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gazbag's Hunters",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 68,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 23,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 148
 		},
 		"926025": {
+			"blocks": 34,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Deadly Sinus Attack",
+			"pass": 0,
+			"prespp": 92,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 163
 		}
 	}
 }

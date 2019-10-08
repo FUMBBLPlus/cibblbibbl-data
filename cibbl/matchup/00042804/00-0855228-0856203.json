@@ -1,52 +1,51 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3894355",
-	"player_performance": {
+	"player": {
 		"855228": {
 			"11448228": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Kevin Bull",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 42,
-				"rus": 7,
+				"rush": 7,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11448229": {
-				"blk": 1,
-				"cps": 4,
+				"blocks": 1,
+				"comp": 4,
 				"name": "Jessie Graff",
-				"pas": -3,
+				"pass": -3,
 				"prespp": 44,
-				"rus": 33,
+				"rush": 33,
 				"spp": 7,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11448236": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Joe Moravsky",
 				"prespp": 36,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11448237": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Geoff Britten",
 				"prespp": 30,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11448238": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Drew Drechsel",
 				"prespp": 40,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11448250": {
@@ -55,72 +54,70 @@
 				"type": "R"
 			},
 			"11448251": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Paul Kasemir",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11448252": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Michelle Warnky",
 				"spp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11448253": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Kacy Cataranzo",
 				"prespp": 12,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11465295": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Anika Shadow",
 				"prespp": 16,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11494706": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Jack Caldiero",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11557119": {
-				"fou": 8,
+				"fouls": 8,
 				"name": "Sam Sin",
 				"prespp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11617105": {
 				"name": "Natalie Silver",
-				"retired": true,
 				"type": "R"
 			},
 			"11665228": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Asher Shade",
 				"prespp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11720017": {
 				"name": "Jim Remmers",
-				"retired": true,
 				"type": "R"
 			},
 			"11737436": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Splinter",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			}
 		},
@@ -128,31 +125,31 @@
 			"11463872": {
 				"name": "Ghadir",
 				"prespp": 8,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11463883": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tumelo Treehopper",
 				"prespp": 8,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 6,
+				"td": 1,
+				"turns": 6,
 				"type": "R"
 			},
 			"11463885": {
 				"name": "Zuberi the lazy",
 				"prespp": 49,
-				"rus": 5,
-				"tur": 2,
+				"rush": 5,
+				"turns": 2,
 				"type": "R"
 			},
 			"11463891": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Akuchi Armbreaker",
 				"prespp": 8,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11463893": {
@@ -165,39 +162,39 @@
 				"name": "Chidike the Cruel",
 				"prespp": 7,
 				"spp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11463899": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Alon",
 				"prespp": 12,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11463901": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dara",
 				"prespp": 3,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11463902": {
 				"name": "Hadas",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11463905": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Gnash",
 				"prespp": 8,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11468550": {
 				"name": "Shaka",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11515339": {
@@ -206,60 +203,78 @@
 				"type": "R"
 			},
 			"11582321": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zull",
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11583202": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Flatnose Gutwrench",
 				"prespp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11735057": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Stool",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
-			"856203S1": {
-				"blk": 3,
+			"STAR-7573": {
+				"blocks": 3,
 				"name": "Ripper",
-				"tur": 11,
+				"turns": 11,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "958627",
-	"team_performance": {
+	"team": {
 		"855228": {
-			"cas": 7,
-			"casdiff": 7,
+			"blocks": 47,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 5,
+			"fouls": 9,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ninja Warriors",
+			"pass": -2,
+			"prespp": 254,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 40,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 170
 		},
 		"856203": {
+			"blocks": 20,
 			"cas": 0,
-			"casdiff": -7,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Southland Scuttlers",
+			"pass": 0,
+			"prespp": 136,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 23,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 104
 		}
 	}
 }

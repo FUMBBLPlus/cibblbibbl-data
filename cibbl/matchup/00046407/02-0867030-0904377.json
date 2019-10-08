@@ -1,176 +1,174 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4051267",
-	"player_performance": {
+	"player": {
 		"867030": {
 			"11633486": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Sokitoomi",
 				"prespp": 66,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11633494": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Grymlog",
 				"prespp": 65,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11633500": {
 				"name": "Quaxili",
 				"prespp": 52,
-				"retired": true,
-				"rus": 20,
-				"tur": 5,
+				"rush": 20,
+				"turns": 5,
 				"type": "R"
 			},
 			"11633506": {
 				"mvp": 1,
 				"name": "Xlanaxlot",
 				"prespp": 11,
-				"rus": 2,
+				"rush": 2,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12228718": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"name": "Gor-Rok",
 				"prespp": 50,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12282449": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Huaataxah",
 				"prespp": 38,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12456073": {
 				"name": "Inxi-Huinzi",
 				"prespp": 6,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12499173": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Nakai the Undying",
 				"prespp": 13,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12519669": {
 				"name": "Ulha-Xim",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12531564": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kimi-Muluk",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12546873": {
 				"name": "Yatl-Tlelec",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12600023": {
 				"name": "Huini-Boq",
-				"rus": 1,
-				"tur": 5,
+				"rush": 1,
+				"turns": 5,
 				"type": "R"
 			}
 		},
 		"904377": {
 			"12231317": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Ruby, Fury of the Ancients",
 				"prespp": 40,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12231319": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Sapphire, the Everflowing",
 				"prespp": 39,
-				"rus": 5,
+				"rush": 5,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12231325": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 3,
 				"name": "Emerald, Keeper of Gaia",
 				"prespp": 44,
 				"spp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12231332": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Topaz, Ray of Sun",
 				"prespp": 21,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12231335": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Diamond, Light of Steadiness",
 				"prespp": 36,
-				"tur": 7,
+				"turns": 7,
 				"type": "B"
 			},
 			"12231336": {
 				"name": "Aquamarine, Gleaming Spring",
 				"prespp": 29,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12343156": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Alexandrite, Second of Janus",
 				"prespp": 9,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12405289": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Obsidian, Second Fireflow",
 				"prespp": 20,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12449700": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tourmaline, Prism of Radiance",
 				"prespp": 20,
-				"rus": 5,
-				"tur": 10,
+				"rush": 5,
+				"turns": 10,
 				"type": "R"
 			},
 			"12458077": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Spinel, Second Chasm of Light",
 				"prespp": 9,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12489390": {
@@ -183,44 +181,62 @@
 			},
 			"12546080": {
 				"name": "Jasper, Will of the Mountain",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12553526": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Pearl, Fourth Seal of Perseverance",
 				"prespp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "B"
 			}
 		}
 	},
 	"replayId": "1140485",
-	"team_performance": {
+	"team": {
 		"867030": {
+			"blocks": 32,
 			"cas": 6,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sport Spawning Zlatlan",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 301,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 23,
 			"score": 0,
 			"scorediff": 0,
-			"tds": 0,
-			"tdsdiff": 0
+			"td": 0,
+			"tddiff": 0,
+			"turns": 114
 		},
 		"904377": {
+			"blocks": 35,
 			"cas": 4,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Aurons",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 269,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 10,
 			"score": 0,
 			"scorediff": 0,
-			"tds": 0,
-			"tdsdiff": 0
+			"td": 0,
+			"tddiff": 0,
+			"turns": 119
 		}
 	}
 }

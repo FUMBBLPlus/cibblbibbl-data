@@ -1,13 +1,12 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4041899",
-	"player_performance": {
+	"player": {
 		"925028": {
 			"12555175": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Titaron",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12555176": {
@@ -15,9 +14,9 @@
 				"type": "R"
 			},
 			"12555178": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Taint",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12555179": {
@@ -28,122 +27,122 @@
 					"12555844"
 				],
 				"name": "Waste",
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"12555180": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Kalroz",
 				"spp": 4,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12555183": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Unusual",
-				"rus": 8,
+				"rush": 8,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12555185": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Mug",
-				"rus": 21,
+				"rush": 21,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12555187": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Horrid",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12555189": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dreck",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12555191": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Slarvess",
-				"rus": 9,
+				"rush": 9,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12555192": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Støvl",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"925076": {
 			"12555820": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"name": "Ar Valgeir",
 				"prespp": 5,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12555821": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Ar Wolfmar",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12555822": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Dagobert Braunstein",
-				"pas": 2,
-				"rus": 6,
+				"pass": 2,
+				"rush": 6,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12555824": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Herbert Güldenstädt",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12555825": {
 				"name": "Guntram Grabner",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12555826": {
 				"name": "William Alt",
 				"prespp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12555827": {
 				"name": "Volkhard Wahler",
 				"prespp": 7,
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12555834": {
 				"name": "Wolfram Neuner",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12555842": {
@@ -152,21 +151,21 @@
 				"type": "B"
 			},
 			"12555844": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Ludwig",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "B"
 			},
 			"12576662": {
 				"name": "Leroy Deepfire",
 				"prespp": 3,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12578582": {
@@ -177,36 +176,55 @@
 					null
 				],
 				"name": "Ulric Goldstone",
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1129890",
-	"team_performance": {
+	"team": {
 		"925028": {
+			"blocks": 44,
 			"cas": 4,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Pleasure Killers",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 131
 		},
 		"925076": {
+			"blocks": 15,
 			"cas": 3,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Children of Ulric",
+			"pass": 2,
+			"prespp": 28,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 26,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 113
 		}
 	}
 }

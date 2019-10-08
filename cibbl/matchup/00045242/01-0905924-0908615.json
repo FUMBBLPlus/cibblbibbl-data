@@ -1,52 +1,51 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3999372",
-	"player_performance": {
+	"player": {
 		"905924": {
 			"12254401": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Reddup",
 				"prespp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12254402": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Spook",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12254405": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Bone",
 				"prespp": 8,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12254406": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gruber",
 				"prespp": 10,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12254409": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Pygmy",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254414": {
 				"name": "Clumsy",
 				"prespp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12254424": {
@@ -55,13 +54,13 @@
 			},
 			"12254427": {
 				"name": "Slob The Laborer",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12254440": {
 				"name": "O-Dog The Trogslayer",
 				"prespp": 8,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12254445": {
@@ -69,16 +68,16 @@
 				"type": "R"
 			},
 			"12254450": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Smartu The Unscarred",
 				"prespp": 3,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12263755": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gizmo The Gambler",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12263756": {
@@ -86,123 +85,141 @@
 				"type": "R"
 			},
 			"12268727": {
-				"blk": 10,
+				"blocks": 10,
 				"mvp": 1,
 				"name": "Redbone",
 				"prespp": 6,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"908615": {
 			"12296806": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Dinrac Firemight",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12296807": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dobruc Flintbreaker",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12296808": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Soren Copperfire",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12296810": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Soarbad Leadfist",
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12296811": {
 				"mvp": 1,
 				"name": "Krothregg Lightbearer",
-				"rus": 20,
+				"rush": 20,
 				"spp": 8,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"12296812": {
 				"name": "Itrin Forgehank",
-				"rus": 19,
-				"tur": 7,
+				"rush": 19,
+				"turns": 7,
 				"type": "R"
 			},
 			"12296813": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Thegram Silvershield",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12296814": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Thirmdrim Stormdigger",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12296815": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Elaoc Ingotward",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12296816": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dothum Rockbelt",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12296818": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kragugg Regalfire",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
-			"908615M1": {
-				"fou": 2,
+			"MERC-7110-1022": {
+				"fouls": 2,
 				"name": "Merc Blocker 1",
-				"tur": 6,
+				"turns": 6,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1081117",
-	"team_performance": {
+	"team": {
 		"905924": {
+			"blocks": 29,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Squill's Squig Pitt",
+			"pass": 0,
+			"prespp": 46,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 115
 		},
 		"908615": {
+			"blocks": 29,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Barak Varr Voyagers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 40,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 138
 		}
 	}
 }

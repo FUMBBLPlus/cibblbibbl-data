@@ -1,66 +1,65 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3933429",
-	"player_performance": {
+	"player": {
 		"862033": {
 			"11558599": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Delvarus",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11558605": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Porphyricus",
 				"prespp": 34,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11558611": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hadrabulus Vioss",
 				"prespp": 16,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11558616": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Phosis T'Kar",
-				"pas": 8,
+				"pass": 8,
 				"prespp": 42,
-				"rus": 34,
+				"rush": 34,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11558617": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 4,
 				"name": "Skane",
 				"prespp": 21,
 				"spp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11567423": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Kargos",
 				"prespp": 39,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11681785": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Lucius",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11699147": {
@@ -69,95 +68,94 @@
 				"type": "R"
 			},
 			"11850112": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Ignatius Grulgor III",
-				"pas": -1,
+				"pass": -1,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11927160": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Calas Typhon III",
 				"prespp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11966746": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Kharn the Betrayer",
-				"rus": 8,
+				"rush": 8,
 				"spp": 8,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11971872": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Albert Strongstream",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			}
 		},
 		"873698": {
 			"11743258": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "MIstress of Lust",
 				"prespp": 51,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743260": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Kazgar Threelegs",
 				"prespp": 22,
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"11743263": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lecec Chickstalker",
 				"prespp": 22,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11743264": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lecathoth Strapslave",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743266": {
 				"name": "Thirvelnosh Nightbinder",
 				"prespp": 12,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11743268": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Thovho Shadowseeker",
 				"prespp": 19,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11904392": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Misstress of Pain",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11937467": {
@@ -169,7 +167,8 @@
 				],
 				"name": "Mistress of Agony",
 				"prespp": 9,
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"11941179": {
@@ -181,16 +180,17 @@
 				],
 				"name": "Mistress of Pleasure",
 				"prespp": 5,
+				"retired": true,
 				"type": "R"
 			},
 			"11967644": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Mokzook Thicktail",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11967645": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"dead": [
 					1,
@@ -199,37 +199,56 @@
 					"11558617"
 				],
 				"name": "Sylvester Clumsytree",
+				"retired": true,
 				"spp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1003878",
-	"team_performance": {
+	"team": {
 		"862033": {
+			"blocks": 43,
 			"cas": 6,
 			"casdiff": 5,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Forsaken of the Pantheon",
+			"pass": 7,
+			"prespp": 208,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 42,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 161
 		},
 		"873698": {
+			"blocks": 35,
 			"cas": 1,
 			"casdiff": -5,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Pleasure Strings",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 161,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 102
 		}
 	}
 }

@@ -1,65 +1,64 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3889884",
-	"player_performance": {
+	"player": {
 		"871172": {
 			"11698445": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Jerek von Carstein",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11698446": {
-				"blk": 12,
-				"cps": 1,
+				"blocks": 12,
+				"comp": 1,
 				"name": "Elize von Carstein",
-				"pas": 2,
-				"rus": 1,
+				"pass": 2,
+				"rush": 1,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11698447": {
-				"blk": 10,
-				"cps": 1,
+				"blocks": 10,
+				"comp": 1,
 				"name": "Pieter von Carstein",
-				"pas": 1,
-				"rus": 17,
+				"pass": 1,
+				"rush": 17,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11698448": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Markos von Carstein",
 				"prespp": 8,
 				"spp": 7,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11698449": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Hans Schäfer",
-				"pas": 1,
-				"tur": 16,
+				"pass": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11698450": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lars Hoffman",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11698451": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Johan Schulz",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11698453": {
@@ -67,137 +66,155 @@
 				"type": "R"
 			},
 			"11698473": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Frank Fischer",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11698474": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Schatten aus der Toten",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11704837": {
 				"name": "Gerhart Müller",
-				"pas": -1,
-				"rus": 6,
-				"tur": 10,
+				"pass": -1,
+				"rush": 6,
+				"turns": 10,
 				"type": "R"
 			}
 		},
 		"871312": {
 			"11700282": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"cps": 2,
+				"comp": 2,
 				"name": "Count Ludovig",
-				"pas": 9,
-				"rus": 19,
+				"pass": 9,
+				"rush": 19,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700283": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Count Iwan",
 				"prespp": 6,
-				"rus": 15,
+				"rush": 15,
 				"spp": 11,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700284": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Count Igor",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 6,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700285": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Count Jurij",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700318": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Seth",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11700319": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Anubis",
 				"prespp": 9,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11700320": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Servant Milan",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11700321": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Servant Alexej",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700322": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Servant Pavel",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700323": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Servant Fjodor",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11700324": {
 				"name": "Servant Vlad",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "953444",
-	"team_performance": {
+	"team": {
 		"871172": {
+			"blocks": 42,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Nachthafen Nightlords",
+			"pass": 3,
+			"prespp": 15,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 24,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 120
 		},
 		"871312": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 35,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tower of the Necromancer",
-			"prestige": 3,
+			"pass": 8,
+			"prespp": 25,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 44,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 166
 		}
 	}
 }

@@ -1,94 +1,93 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4067475",
-	"player_performance": {
+	"player": {
 		"898507": {
 			"12140161": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Terror of Wurtbad",
 				"prespp": 53,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140162": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Hanskarl Denk",
 				"prespp": 28,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140169": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Frederick van Hal",
 				"prespp": 35,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12140175": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Vigo",
 				"prespp": 33,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140181": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Carcass",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140184": {
 				"name": "Rot",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12149573": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Beast of Black-Run",
 				"prespp": 31,
-				"rus": 7,
-				"tur": 6,
+				"rush": 7,
+				"turns": 6,
 				"type": "R"
 			},
 			"12227552": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Baronetess Odile von Stolpe",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 16,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231366": {
 				"name": "Putrid",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12231367": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Floater",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12254199": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Maggot",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12289388": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Solice",
 				"prespp": 24,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12349964": {
@@ -97,7 +96,7 @@
 			},
 			"12605730": {
 				"name": "Fetid",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12666672": {
@@ -109,69 +108,70 @@
 				],
 				"name": "Kristoff Biller",
 				"prespp": 3,
-				"rus": 13,
-				"tur": 3,
+				"retired": null,
+				"rush": 13,
+				"turns": 3,
 				"type": "R"
 			}
 		},
 		"922672": {
 			"12515846": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Zunker",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 8,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12515848": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Grishen",
 				"prespp": 11,
-				"rus": 13,
-				"tur": 16,
+				"rush": 13,
+				"turns": 16,
 				"type": "R"
 			},
 			"12515856": {
 				"name": "Goverk",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12515857": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Bellek",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12519672": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Nizic",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12520609": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Ikuz",
 				"prespp": 15,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12520610": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Azid",
 				"prespp": 14,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12612981": {
@@ -180,71 +180,87 @@
 				"type": "R"
 			},
 			"12639294": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Galzar",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12667985": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gulben",
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12687773": {
 				"name": "Kevin Coldfire",
-				"retired": true,
 				"type": "J"
 			},
 			"12687774": {
 				"name": "Sylvester Grottyeagle",
-				"retired": true,
 				"type": "J"
 			},
-			"922672S1": {
+			"STAR-7534": {
 				"name": "Bomber Dribblesnot",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			},
-			"922672S2": {
-				"blk": 5,
+			"STAR-7573": {
+				"blocks": 5,
 				"name": "Ripper",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1158741",
-	"team_performance": {
+	"team": {
 		"898507": {
+			"blocks": 49,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Leicheberg Lycans",
+			"pass": -1,
+			"prespp": 234,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 21,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 147
 		},
 		"922672": {
+			"blocks": 47,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gazbag's Hunters",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 78,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 35,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 166
 		}
 	}
 }

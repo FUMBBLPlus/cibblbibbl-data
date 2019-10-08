@@ -1,70 +1,69 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4062712",
-	"player_performance": {
+	"player": {
 		"926025": {
 			"12569521": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Snot Steiner",
 				"prespp": 9,
-				"tur": 12,
+				"turns": 12,
 				"type": "B"
 			},
 			"12569525": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Randy \"The Mucus Man\" Savage",
 				"prespp": 9,
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12569527": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Arnold Snotszenegger",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12569686": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Lex Looger",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "B"
 			},
 			"12569688": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Splop",
 				"prespp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12569689": {
 				"name": "Sploop",
-				"pas": 1,
-				"rus": 8,
-				"tur": 9,
+				"pass": 1,
+				"rush": 8,
+				"turns": 9,
 				"type": "R"
 			},
 			"12569690": {
 				"name": "Skitter",
-				"pas": 1,
-				"rus": 14,
-				"tur": 5,
+				"pass": 1,
+				"rush": 14,
+				"turns": 5,
 				"type": "R"
 			},
 			"12569693": {
 				"name": "Kicky",
 				"prespp": 3,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569696": {
@@ -76,24 +75,25 @@
 				],
 				"name": "Icky",
 				"prespp": 9,
+				"retired": true,
 				"type": "R"
 			},
 			"12571803": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Booger T",
 				"prespp": 13,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12571811": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Hock Hogan",
 				"prespp": 13,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12571815": {
@@ -102,26 +102,26 @@
 			},
 			"12676624": {
 				"name": "Picky",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12676626": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Splip",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		},
 		"931901": {
 			"12669783": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dodomeki",
-				"tur": 6,
+				"turns": 6,
 				"type": "B"
 			},
 			"12669786": {
 				"name": "Kaneko Ietada",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12669787": {
@@ -130,89 +130,107 @@
 			},
 			"12669789": {
 				"name": "Toki Yorinari",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12669790": {
 				"name": "Ii Naotora",
-				"rus": 34,
+				"rush": 34,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12669791": {
 				"name": "Baba Nobufusa",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12669792": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Amago Haruhisa",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12669793": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Arai Hakuseki",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12669794": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Akebono Taro",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12669796": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Hakuho Sho",
-				"rus": 1,
+				"rush": 1,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12669799": {
 				"name": "Gamo Ujisato",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
-			"931901M1": {
-				"blk": 3,
+			"MERC-7310-2623": {
+				"blocks": 3,
 				"cas": 1,
 				"name": "Merc Samurai 1",
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1153348",
-	"team_performance": {
+	"team": {
 		"926025": {
+			"blocks": 31,
 			"cas": 6,
 			"casdiff": 5,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Deadly Sinus Attack",
+			"pass": 2,
+			"prespp": 81,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 28,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 143
 		},
 		"931901": {
+			"blocks": 14,
 			"cas": 1,
 			"casdiff": -5,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mount Fuji Ronin",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 35,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 123
 		}
 	}
 }

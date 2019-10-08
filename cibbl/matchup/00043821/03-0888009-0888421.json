@@ -1,64 +1,63 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3935253",
-	"player_performance": {
+	"player": {
 		"888009": {
 			"11969188": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Diviciacus",
 				"prespp": 5,
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11969189": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Dumnorix",
-				"pas": 6,
+				"pass": 6,
 				"spp": 3,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11969190": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Boudica's Guardian",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11969191": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Prasutagus",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11969192": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Antedios",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11969193": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gaius",
 				"prespp": 9,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11969194": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Delamarre",
-				"rus": 4,
+				"rush": 4,
 				"spp": 8,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11969195": {
@@ -69,7 +68,8 @@
 					"11976241"
 				],
 				"name": "Cartimandua",
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
 			"11969196": {
@@ -81,140 +81,158 @@
 				],
 				"name": "Boudica",
 				"prespp": 3,
-				"rus": 11,
+				"retired": true,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"11969197": {
 				"name": "Voadicia",
 				"prespp": 2,
-				"rus": 4,
-				"tur": 5,
+				"rush": 4,
+				"turns": 5,
 				"type": "R"
 			},
 			"11969198": {
 				"name": "Eolande",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11969199": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Breena",
 				"prespp": 6,
-				"rus": 4,
-				"tur": 14,
+				"rush": 4,
+				"turns": 14,
 				"type": "R"
 			}
 		},
 		"888421": {
 			"11976226": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Waziret Stunge",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"11976230": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Firrikeet Sharpblade",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11976233": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Lirrikeet Sharpblade",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976237": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Skritt Swiftpaw",
 				"prespp": 10,
-				"rus": 1,
-				"tur": 15,
+				"rush": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11976240": {
 				"name": "Vebs",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11976241": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Turm",
 				"spp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11976244": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Blogz",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11976245": {
 				"name": "Slilx",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976246": {
 				"name": "Criz",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11976248": {
 				"name": "Groteld",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11979517": {
 				"name": "Cory Hothammer",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			},
-			"888421S1": {
-				"blk": 2,
+			"STAR-7541": {
+				"blocks": 2,
 				"name": "Fezglitch",
-				"tur": 2,
+				"turns": 2,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1005951",
-	"team_performance": {
+	"team": {
 		"888009": {
+			"blocks": 52,
 			"cas": 4,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Londinium's Lunatics",
-			"prestige": 3,
+			"pass": 6,
+			"prespp": 29,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 23,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 131
 		},
 		"888421": {
+			"blocks": 22,
 			"cas": 3,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gobskrav Alliance",
+			"pass": 0,
+			"prespp": 12,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 1,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 120
 		}
 	}
 }

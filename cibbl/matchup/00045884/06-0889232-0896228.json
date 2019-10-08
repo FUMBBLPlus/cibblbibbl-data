@@ -1,82 +1,81 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4036480",
-	"player_performance": {
+	"player": {
 		"889232": {
 			"11989952": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chthonic Cobaltite",
 				"prespp": 19,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11989967": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sylph Wisp",
 				"prespp": 47,
-				"rus": 4,
-				"tur": 11,
+				"rush": 4,
+				"turns": 11,
 				"type": "R"
 			},
 			"11989980": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Kaolinite",
 				"prespp": 35,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12003575": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sylph Haze",
 				"prespp": 44,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12070122": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Chthonic Slade",
 				"prespp": 41,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12145447": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Magma Flow",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 31,
-				"rus": 10,
-				"tur": 16,
+				"rush": 10,
+				"turns": 16,
 				"type": "R"
 			},
 			"12187033": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Chthonic Cinnabar",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12279033": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Naiad Tori",
 				"prespp": 29,
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12332036": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Naiad Chloe",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12399766": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Chthonic Muscovite",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12414498": {
@@ -88,11 +87,11 @@
 				"type": "R"
 			},
 			"12519946": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Chthonic Puddingstone",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12531045": {
@@ -100,87 +99,87 @@
 				"type": "R"
 			},
 			"12536762": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Hematite",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"896228": {
 			"12103149": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mortarion",
 				"prespp": 24,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12103152": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Ku'Gath",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12114193": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Omphuross",
 				"prespp": 54,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12143379": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Malarus",
 				"prespp": 41,
-				"rus": 6,
-				"tur": 9,
+				"rush": 6,
+				"turns": 9,
 				"type": "R"
 			},
 			"12179689": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Syphidemis",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 61,
-				"rus": 6,
+				"rush": 6,
 				"spp": 1,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12325545": {
-				"blk": 12,
+				"blocks": 12,
 				"mvp": 1,
 				"name": "Halatoth",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12407510": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Kraarak",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12448326": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gugarr",
 				"prespp": 6,
-				"rus": 5,
-				"tur": 13,
+				"rush": 5,
+				"turns": 13,
 				"type": "R"
 			},
 			"12465025": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Pligis",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12494315": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Goulbar",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12503457": {
@@ -190,7 +189,7 @@
 			"12512512": {
 				"name": "Makos",
 				"prespp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12533831": {
@@ -200,30 +199,48 @@
 		}
 	},
 	"replayId": "1123351",
-	"team_performance": {
+	"team": {
 		"889232": {
+			"blocks": 53,
 			"cas": 0,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lost Golems of Grungni",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 256,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 167
 		},
 		"896228": {
+			"blocks": 52,
 			"cas": 0,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gardeners of Nurgle",
+			"pass": 6,
+			"prespp": 233,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 17,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 144
 		}
 	}
 }

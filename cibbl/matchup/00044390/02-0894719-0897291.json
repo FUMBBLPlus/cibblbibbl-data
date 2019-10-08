@@ -1,22 +1,21 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3963130",
-	"player_performance": {
+	"player": {
 		"894719": {
 			"12077976": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Aemon Esmetieth",
 				"type": "R"
 			},
 			"12077979": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "T'iella Miedris",
 				"prespp": 8,
 				"spp": 8,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12077980": {
@@ -24,17 +23,17 @@
 				"type": "R"
 			},
 			"12077981": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Salladan The Grey Earl",
 				"prespp": 3,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12077982": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ximeon of the Hidden Circus",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12077985": {
@@ -43,13 +42,13 @@
 				"type": "R"
 			},
 			"12077986": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Cyrdaniel Khafaar",
-				"pas": -2,
+				"pass": -2,
 				"spp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12077987": {
@@ -57,162 +56,177 @@
 				"type": "R"
 			},
 			"12077988": {
-				"blk": 2,
-				"cps": 2,
+				"blocks": 2,
+				"comp": 2,
 				"name": "Uzdana of The Silver Flower",
-				"pas": 4,
-				"rus": 4,
+				"pass": 4,
+				"rush": 4,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12077989": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dureniel Va'kaar of the Shadow Blades",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12077990": {
-				"blk": 6,
-				"fou": 2,
+				"blocks": 6,
+				"fouls": 2,
 				"name": "Jurrion K'heiros of the Third Circle",
-				"pas": 1,
-				"rus": 12,
-				"tur": 16,
+				"pass": 1,
+				"rush": 12,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140101": {
 				"name": "Vincent Goldfist",
-				"retired": true,
 				"type": "J"
 			},
 			"12140102": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ulric Hottree",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			},
 			"12140103": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Nicholas Weakspike",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"897291": {
 			"12120800": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Durisoul Hammerheart",
 				"spp": 7,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12120803": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Derhaeth Trolldigger",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120807": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Darernomli Ironcloak",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120809": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Khumnael Grumblefeet",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120811": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jassor Chaosbraid",
 				"prespp": 2,
-				"rus": 41,
+				"rush": 41,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120812": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Figrael Largefall",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120814": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gardam Battlefinger",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120815": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Thadmaen Shadowbreaker",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12120816": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Forfael Coalsword",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12120821": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Brougratum Boneforged",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120822": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Oritmeg Chaosblade",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1038047",
-	"team_performance": {
+	"team": {
 		"894719": {
-			"cas": 2,
-			"casdiff": -1,
+			"blocks": 27,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 3,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ahn Sye Zelax",
+			"pass": 3,
+			"prespp": 12,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 107
 		},
 		"897291": {
+			"blocks": 47,
 			"cas": 3,
-			"casdiff": 1,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Edge of the World Climbers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 16,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 158
 		}
 	}
 }

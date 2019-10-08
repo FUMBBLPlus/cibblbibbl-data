@@ -1,53 +1,52 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3841702",
-	"player_performance": {
+	"player": {
 		"854257": {
 			"11432421": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Peach Blossom Water",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11432422": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Passion's Dragon Controlled",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11432423": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Clamour of Bees",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11432424": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "After the Lotus Flowers Have Opened",
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11432425": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Scraps of Cloud",
-				"rus": 12,
+				"rush": 12,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11432426": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gathering Water-Chestnuts",
 				"prespp": 4,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11432427": {
@@ -55,147 +54,164 @@
 				"type": "R"
 			},
 			"11432428": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lonely Cloud",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11432429": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Silk Worm Spins",
 				"spp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11432431": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Once Forever",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11432433": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Blown Stars",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11447914": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Trey Palebrook",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"854502": {
 			"11436807": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Oblomov IV",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11436813": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Lev Nikolájevitj Mýsjkin",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11436823": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Antíp Lev Burdóvskij",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11436825": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Ardalión Iván Aleksándrovitj",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11436826": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Gavríla Gánja Ardaliónovitj",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 3,
-				"rus": -2,
-				"tur": 17,
+				"rush": -2,
+				"turns": 17,
 				"type": "R"
 			},
 			"11436827": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Iván Fjódorovitj Jepantjín",
 				"prespp": 3,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11436828": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lukján Timoféjevitj Lébedjev",
 				"prespp": 5,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11436832": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nikoláj Andréj Pavlísjtjev",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11436833": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Iván Petróvitj Ptítsyn",
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11436834": {
 				"cas": 1,
 				"name": "Jevgénij Pávlovitj Radómskij",
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11436836": {
 				"name": "Parfjón Semjónovitj Rogózjin",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "897993",
-	"team_performance": {
+	"team": {
 		"854257": {
+			"blocks": 38,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grand Celestial Delegate",
+			"pass": 0,
+			"prespp": 9,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 25,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 136
 		},
 		"854502": {
+			"blocks": 29,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Spartak Bolgasgrad",
+			"pass": 4,
+			"prespp": 13,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 18,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 129
 		}
 	}
 }

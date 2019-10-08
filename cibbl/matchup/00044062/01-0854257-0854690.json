@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3951024",
-	"player_performance": {
+	"player": {
 		"854257": {
 			"11432421": {
 				"name": "Peach Blossom Water",
@@ -10,112 +9,112 @@
 				"type": "R"
 			},
 			"11432424": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 3,
 				"name": "After the Lotus Flowers Have Opened",
 				"prespp": 89,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11432429": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Silk Worm Spins",
 				"prespp": 25,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11452680": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Overflowing Bliss",
 				"prespp": 25,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11477327": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Yellow Dusk",
 				"prespp": 25,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11565341": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sorrowfully An Ape Calls",
 				"prespp": 19,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11585952": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mirror of the Sky",
 				"prespp": 17,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11625098": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "I Am Lucky",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11665424": {
 				"name": "Jade Arms Cold",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11835792": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ten Thousand Paths",
 				"prespp": 24,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11934133": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Years Flow On",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11959633": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gnaw the Books",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11977229": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Perching in the Mist",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11978331": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Apricot Blossom",
 				"prespp": 5,
-				"rus": 7,
-				"tur": 14,
+				"rush": 7,
+				"turns": 14,
 				"type": "R"
 			}
 		},
 		"854690": {
 			"11439891": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Shiamoto The Undying",
 				"prespp": 32,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439893": {
@@ -124,72 +123,72 @@
 				"type": "R"
 			},
 			"11439894": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Ronin Four Finger Death Punch",
 				"prespp": 59,
-				"rus": 11,
+				"rush": 11,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439896": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Meiko",
 				"prespp": 18,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11439904": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hiro",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11474441": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Ronin Headchopper",
 				"prespp": 56,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11624586": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Saku",
 				"prespp": 6,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11694784": {
 				"name": "Su Ha",
 				"prespp": 16,
-				"rus": 3,
-				"tur": 4,
+				"rush": 3,
+				"turns": 4,
 				"type": "R"
 			},
 			"11775641": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Taizo",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11873914": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Toshi",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11895977": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ro Hoi",
-				"pas": 1,
-				"rus": 3,
-				"tur": 12,
+				"pass": 1,
+				"rush": 3,
+				"turns": 12,
 				"type": "R"
 			},
 			"11975101": {
@@ -202,45 +201,63 @@
 				"type": "R"
 			},
 			"11979086": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Temple Guard A'Rsch Auff",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12072779": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Temple Guard Fuku-Shimo",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1024275",
-	"team_performance": {
+	"team": {
 		"854257": {
+			"blocks": 50,
 			"cas": 5,
-			"casdiff": 1,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grand Celestial Delegate",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 294,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 23,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 158
 		},
 		"854690": {
-			"cas": 4,
-			"casdiff": -1,
+			"blocks": 42,
+			"cas": 2,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Secret Cult Of Shiamoto",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 281,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 17,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 129
 		}
 	}
 }

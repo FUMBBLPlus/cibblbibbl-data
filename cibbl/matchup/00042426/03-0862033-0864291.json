@@ -1,83 +1,82 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3886191",
-	"player_performance": {
+	"player": {
 		"862033": {
 			"11558593": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Kharn",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11558599": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Delvarus",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11558603": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ignatius Grulgor",
 				"prespp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11558605": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Porphyricus",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 6,
-				"rus": 41,
+				"rush": 41,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11558607": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Calas Typhon",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11558611": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Hadrabulus Vioss",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11558613": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Marius Vairosean",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11558616": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Phosis T'Kar",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11558617": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Skane",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11567423": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Kargos",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11580299": {
@@ -85,143 +84,160 @@
 				"type": "R"
 			},
 			"11681780": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Hathor Maat",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 5,
-				"rus": 3,
+				"rush": 3,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11681785": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Lucius",
 				"prespp": 3,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"864291": {
 			"11590768": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "S. Sang",
 				"prespp": 10,
-				"rus": 11,
+				"rush": 11,
 				"spp": 5,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11590769": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "U. Gress",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11590771": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Redivor",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11590772": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Redimor",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11590773": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chitemor",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11590777": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Limortor",
 				"prespp": 12,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11590778": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Dissepolor",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11590780": {
 				"name": "Affuquator",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590781": {
 				"name": "Dichitemor",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11681513": {
 				"mvp": 1,
 				"name": "L.A. Biond",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 3,
-				"rus": 9,
+				"rush": 9,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11697281": {
 				"name": "Leroy Fasteagle",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			},
-			"864291S1": {
+			"STAR-7578": {
 				"name": "Sinnedbad",
-				"tur": 1,
+				"turns": 1,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "949152",
-	"team_performance": {
+	"team": {
 		"862033": {
-			"cas": 1,
-			"casdiff": -2,
+			"blocks": 48,
+			"cas": 0,
+			"casdiff": -3,
+			"comp": 2,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Forsaken of the Pantheon",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 36,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 44,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 165
 		},
 		"864291": {
+			"blocks": 22,
 			"cas": 3,
-			"casdiff": 2,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Norscan Curse",
+			"pass": 1,
+			"prespp": 52,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 20,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 170
 		}
 	}
 }

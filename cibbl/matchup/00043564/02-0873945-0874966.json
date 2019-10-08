@@ -1,119 +1,116 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3927958",
-	"player_performance": {
+	"player": {
 		"873945": {
 			"11747836": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Bersi Thometillsson",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11747837": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Firthgest Thiodolfsson",
 				"prespp": 20,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11747839": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kol Styrsson",
 				"prespp": 34,
-				"rus": 24,
+				"rush": 24,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11747841": {
 				"name": "Hall Solvisson",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11767823": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Martin Truestream",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11792772": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Horolf Hengerson",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11850057": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Iri Iricsson",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11895166": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Ulric Whitelightning",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11895168": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "David Vilerock",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11923380": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Jack Darkhammer",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"11923381": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Xavier Fastwing",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"874966": {
 			"11764899": {
-				"cps": 2,
+				"comp": 2,
 				"name": "Benethor",
-				"pas": 8,
+				"pass": 8,
 				"prespp": 19,
-				"rus": 13,
+				"rush": 13,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11764901": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Danesthos",
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11764915": {
 				"name": "Finavar",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11764916": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Jokleel",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11764917": {
@@ -122,15 +119,15 @@
 				"type": "R"
 			},
 			"11764918": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Guldir",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11764919": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lemsas",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11764921": {
@@ -139,67 +136,82 @@
 				"type": "R"
 			},
 			"11836559": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Vanhir",
 				"prespp": 30,
-				"rus": 23,
+				"rush": 23,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11900737": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Beliath the Grimm",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11922005": {
 				"name": "Martin Clumsysnake",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"11922006": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Cory Deepstream",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"11922007": {
 				"name": "Billy Silentorc",
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "997425",
-	"team_performance": {
+	"team": {
 		"873945": {
+			"blocks": 33,
 			"cas": 0,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Warhird Huscarls",
+			"pass": 0,
+			"prespp": 84,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 24,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 163
 		},
 		"874966": {
+			"blocks": 39,
 			"cas": 0,
 			"casdiff": 0,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
-			"prestige": 3,
+			"pass": 8,
+			"prespp": 93,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 36,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 151
 		}
 	}
 }

@@ -1,114 +1,112 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4014249",
-	"player_performance": {
+	"player": {
 		"898574": {
 			"12140313": {
-				"blk": 9,
+				"blocks": 9,
 				"mvp": 1,
 				"name": "Arsenic William",
 				"prespp": 33,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140318": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Dimefox Winston",
 				"prespp": 22,
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140327": {
-				"cps": 2,
+				"comp": 2,
 				"name": "Lactonitrile Bernice",
 				"prespp": 12,
-				"rus": 11,
+				"rush": 11,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140330": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lindane Salvatore",
 				"prespp": 4,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12140364": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Methomyl Samuel",
 				"prespp": 6,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12140428": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Phenol Sinclair",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140430": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Piperidine Scarlett",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12146724": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Anchorman",
 				"prespp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12180127": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Botulinum Bo",
 				"prespp": 13,
-				"rus": 12,
+				"rush": 12,
 				"spp": 4,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12234728": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nightshade Simi",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
-			"12285927R1": {
-				"name": "Richter Kless",
-				"tur": 9,
-				"type": "D"
-			},
 			"12345407": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Digoxin Willard",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12353469": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fredrick Silentrock",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12406059": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Chlorpyrifos Wallace",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
+			},
+			"RAISED-7478_12285927_12424765": {
+				"name": "Richter Kless",
+				"turns": 9,
+				"type": "D"
 			}
 		},
 		"907959": {
 			"12285927": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					1,
 					7,
@@ -117,117 +115,135 @@
 				],
 				"name": "Richter Kless",
 				"prespp": 5,
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"12285928": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Drachron Lewdshade",
 				"prespp": 30,
-				"rus": 10,
-				"tur": 10,
+				"rush": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12285959": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nemeliz Ssin",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12285960": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Ez'lith Fervor",
 				"spp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12285967": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lilith Gi'khas",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12285974": {
-				"blk": 1,
-				"cps": 2,
+				"blocks": 1,
+				"comp": 2,
 				"name": "Deedee Hezvix",
-				"pas": -3,
+				"pass": -3,
 				"prespp": 4,
-				"rus": -2,
+				"rush": -2,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12285975": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Rhiahirr Xcezz",
 				"prespp": 17,
-				"rus": 5,
-				"tur": 15,
+				"rush": 5,
+				"turns": 15,
 				"type": "R"
 			},
 			"12285977": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mordethia Sinestro",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12340189": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Bhrutuz Kinslayer",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12402099": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "'Rivet' Helloggs",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12402152": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "William Weaksnake",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			},
-			"907959S1": {
-				"blk": 1,
+			"STAR-7664": {
+				"blocks": 1,
 				"name": "Duke Luthor Von Hawkfire",
-				"tur": 15,
+				"turns": 15,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1098127",
-	"team_performance": {
+	"team": {
 		"898574": {
-			"cas": 1,
-			"casdiff": 0,
+			"blocks": 50,
+			"cas": 0,
+			"casdiff": -1,
+			"comp": 3,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Revenge Street Reapers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 120,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 23,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 172
 		},
 		"907959": {
+			"blocks": 34,
 			"cas": 1,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "River Teufel Tricksters",
+			"pass": -3,
+			"prespp": 76,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 13,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 143
 		}
 	}
 }

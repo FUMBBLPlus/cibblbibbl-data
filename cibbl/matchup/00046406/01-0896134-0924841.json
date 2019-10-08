@@ -1,63 +1,62 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4044800",
-	"player_performance": {
+	"player": {
 		"896134": {
 			"12101571": {
 				"name": "Krakshot Neek",
 				"prespp": 76,
-				"rus": 8,
-				"tur": 4,
+				"rush": 8,
+				"turns": 4,
 				"type": "R"
 			},
 			"12101577": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Snub-tail",
 				"prespp": 23,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12101578": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Quee-kin",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12101587": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Reeknose",
 				"prespp": 8,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12125540": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Rabid Rocket",
 				"prespp": 65,
-				"tur": 7,
+				"turns": 7,
 				"type": "B"
 			},
 			"12135507": {
-				"blk": 5,
-				"cps": 1,
+				"blocks": 5,
+				"comp": 1,
 				"name": "Flitty Spleent",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 63,
-				"rus": 11,
+				"rush": 11,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12299553": {
 				"name": "Rikkik",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12338282": {
@@ -65,109 +64,109 @@
 				"name": "Yikk-kin",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12406982": {
-				"blk": 7,
-				"cps": 1,
+				"blocks": 7,
+				"comp": 1,
 				"name": "Itch-yitch",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 30,
-				"rus": -1,
+				"rush": -1,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12462493": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Pestilent Yerk",
 				"prespp": 10,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12489638": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "The Iron Rat",
 				"prespp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12528041": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "\"Mark Three\"",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12528043": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Noxxus Blyte",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12561659": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lyk-spit",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		},
 		"924841": {
 			"12552091": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Quonq Sharpfangs",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12552093": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tren Bitterhusk",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 20,
-				"rus": 34,
+				"rush": 34,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12552094": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Znol Verminscar",
 				"prespp": 6,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12552095": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Skruch Duskwalker",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12552096": {
 				"name": "Kranq Deadfingers",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12552098": {
 				"name": "Zaqrat",
 				"prespp": 7,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12552099": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Khrokch",
 				"prespp": 3,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12552100": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					8,
@@ -175,74 +174,93 @@
 					"12101578"
 				],
 				"name": "Sronzt",
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "R"
 			},
 			"12552101": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Trietch",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12552116": {
 				"name": "Snuktlich",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12585407": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Squarx Deadreaver",
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12592997": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ronnt",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12592998": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sqreet",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
-			"924841M1": {
-				"fou": 2,
+			"MERC-7166-1975": {
+				"fouls": 2,
 				"name": "Merc Lineman 1",
-				"tur": 5,
+				"turns": 5,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1133166",
-	"team_performance": {
+	"team": {
 		"896134": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 43,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rotfall Ironworks Rocketeers",
+			"pass": 7,
+			"prespp": 294,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 26,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 163
 		},
 		"924841": {
+			"blocks": 34,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Under-Nuln Bells",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 46,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 55,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 161
 		}
 	}
 }

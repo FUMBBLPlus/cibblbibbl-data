@@ -1,77 +1,76 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3961237",
-	"player_performance": {
+	"player": {
 		"871312": {
 			"11700284": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Count Igor",
 				"prespp": 52,
-				"rus": 10,
-				"tur": 7,
+				"rush": 10,
+				"turns": 7,
 				"type": "R"
 			},
 			"11700285": {
-				"blk": 8,
-				"cps": 1,
+				"blocks": 8,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Count Jurij",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 43,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700318": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Seth",
 				"prespp": 36,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700319": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"name": "Anubis",
 				"prespp": 48,
 				"spp": 4,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11700323": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Servant Fjodor",
 				"prespp": 11,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11812909": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Count Yaroslav",
 				"prespp": 48,
-				"rus": 26,
+				"rush": 26,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11850036": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Paul Darktree",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11933869": {
 				"name": "Abu",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11936975": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Ladislao Celano",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11986735": {
@@ -80,82 +79,82 @@
 				"type": "R"
 			},
 			"12062896": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Servant Dmitri",
 				"prespp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12066122": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Servant Volodomyr",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12128419": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Servant Bogdan",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12128421": {
 				"name": "Servant Milo",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"878945": {
 			"11825655": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Lashweaver Taker of Souls",
 				"prespp": 86,
-				"rus": 6,
-				"tur": 13,
+				"rush": 6,
+				"turns": 13,
 				"type": "R"
 			},
 			"11825658": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Laesydra",
 				"prespp": 20,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11825659": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Shyak",
 				"prespp": 20,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11825663": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Braskh'har",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11850084": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lady Lestella",
 				"prespp": 8,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11916781": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Heladresh Lust-Bringer",
 				"prespp": 35,
-				"rus": 10,
-				"tur": 10,
+				"rush": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11994839": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Skylah the Desired",
 				"prespp": 26,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11998830": {
@@ -163,62 +162,79 @@
 				"type": "R"
 			},
 			"12066502": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Elasta Euphoria",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12124776": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "T'lyargor",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12124777": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Osmond Silenthammer",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12124778": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Duane Grottyshield",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1035913",
-	"team_performance": {
+	"team": {
 		"871312": {
+			"blocks": 47,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tower of the Necromancer",
-			"prestige": 3,
+			"pass": 4,
+			"prespp": 253,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 36,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 164
 		},
 		"878945": {
+			"blocks": 52,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eternal Ecstasy",
+			"pass": 0,
+			"prespp": 203,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 133
 		}
 	}
 }

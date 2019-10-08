@@ -1,44 +1,43 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3982435",
-	"player_performance": {
+	"player": {
 		"883051": {
 			"11892405": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "\"Featherweight\" Gunnar",
 				"prespp": 55,
-				"rus": 3,
-				"tur": 14,
+				"rush": 3,
+				"turns": 14,
 				"type": "R"
 			},
 			"11892408": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Harkon Halvarson",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892413": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Asmund the Pious",
 				"prespp": 10,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11892420": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Crosby the Stout",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892424": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dag of The Mire",
 				"prespp": 6,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11892428": {
@@ -47,113 +46,113 @@
 			},
 			"11892429": {
 				"name": "Geir the Fisherman",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11892430": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Halvor the Rock",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11947871": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "\"Ambisinister\" Xander",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 33,
-				"rus": 3,
+				"rush": 3,
 				"spp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11950136": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "The Notorious Jerk",
 				"prespp": 42,
-				"rus": 2,
-				"tur": 10,
+				"rush": 2,
+				"turns": 10,
 				"type": "R"
 			},
 			"12130906": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Haldor Halvarson",
 				"prespp": 4,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12139597": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "The Mysterious Stig",
 				"prespp": 7,
-				"rus": 1,
-				"tur": 14,
+				"rush": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12169214": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Igor The Surgeon",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12169228": {
 				"name": "Jary The Younger",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		},
 		"897376": {
 			"12122272": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Dark Shade",
 				"prespp": 17,
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12122273": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Deep Root",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12122274": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Long Branch",
 				"prespp": 16,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12122275": {
 				"name": "River Whip",
 				"prespp": 28,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12122276": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "White Leaf",
 				"prespp": 7,
-				"rus": 1,
-				"tur": 17,
+				"rush": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12122279": {
-				"blk": 3,
-				"fou": 2,
+				"blocks": 3,
+				"fouls": 2,
 				"name": "Moss",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12122280": {
@@ -162,10 +161,10 @@
 				"type": "R"
 			},
 			"12122281": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Burl",
 				"prespp": 13,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12122282": {
@@ -175,64 +174,82 @@
 			},
 			"12122284": {
 				"name": "Vine",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12163493": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Swift Switch",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12168335": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Gray Timber",
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12171988": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nut",
 				"prespp": 3,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
-			"897376S1": {
-				"blk": 10,
+			"STAR-7538": {
+				"blocks": 10,
 				"name": "Deeproot Strongbranch",
-				"tur": 17,
+				"turns": 17,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1060193",
-	"team_performance": {
+	"team": {
 		"883051": {
+			"blocks": 37,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vostok Iron Head ",
+			"pass": 6,
+			"prespp": 188,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 127
 		},
 		"897376": {
+			"blocks": 67,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Darkenwood Sentinels",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 102,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 19,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 187
 		}
 	}
 }

@@ -1,19 +1,18 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3970965",
-	"player_performance": {
+	"player": {
 		"897963": {
 			"12131133": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Truthsayer",
 				"prespp": 6,
-				"rus": 6,
-				"tur": 14,
+				"rush": 6,
+				"turns": 14,
 				"type": "R"
 			},
 			"12131135": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"dead": [
 					2,
@@ -23,203 +22,221 @@
 				],
 				"name": "Ser Brian",
 				"prespp": 8,
-				"rus": 7,
+				"retired": null,
+				"rush": 7,
 				"spp": 7,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12131136": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Ser Brett",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 6,
-				"rus": 7,
+				"rush": 7,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12131137": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Ser Chad",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12131138": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ser Conchobar",
 				"prespp": 8,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12131139": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ser Donnally",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12131140": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Ser Eghan",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12131142": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ser Llyr",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12131143": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ser Malvyn",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12155155": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Ser Bradley",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12163627": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ser Vulcan",
-				"pas": 1,
-				"rus": 7,
-				"tur": 12,
+				"pass": 1,
+				"rush": 7,
+				"turns": 12,
 				"type": "R"
 			}
 		},
 		"898506": {
-			"12131135R1": {
-				"name": "Ser Brian",
-				"type": "D"
-			},
 			"12139026": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Anubisath",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12139027": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Shekrem",
 				"prespp": 6,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12139031": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Othmar Lightbane",
 				"prespp": 11,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12139032": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Taavi Fleshgorger",
 				"prespp": 6,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12139033": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Brenno the Stalker",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 5,
-				"rus": 3,
+				"rush": 3,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12139034": {
-				"blk": 1,
+				"blocks": 1,
 				"int": 1,
 				"name": "Holge the Forsworn",
 				"prespp": 16,
-				"rus": 41,
+				"rush": 41,
 				"spp": 8,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12139035": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Uther the Exiled",
 				"prespp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12139038": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "Kornel Crompton",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12139039": {
 				"name": "Osborn Rudges",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12139041": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mertin Middlestone",
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12149401": {
-				"blk": 4,
-				"fou": 2,
+				"blocks": 4,
+				"fouls": 2,
 				"name": "Aeson Highclimb",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
-			"898506S1": {
-				"blk": 1,
+			"RAISED-7172_12131135_12185402": {
+				"name": "Ser Brian",
+				"type": "D"
+			},
+			"STAR-7548": {
+				"blocks": 1,
 				"name": "Hack Enslash",
-				"tur": 1,
+				"turns": 1,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1046991",
-	"team_performance": {
+	"team": {
 		"897963": {
+			"blocks": 36,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Albion Four Colour Knights",
+			"pass": 4,
+			"prespp": 48,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 27,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 143
 		},
 		"898506": {
+			"blocks": 41,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 5,
+			"int": 1,
+			"mvp": 1,
 			"name": "Shambling Revenants",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 53,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 44,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 151
 		}
 	}
 }

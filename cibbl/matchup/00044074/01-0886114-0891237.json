@@ -1,49 +1,48 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3946742",
-	"player_performance": {
+	"player": {
 		"886114": {
 			"11939696": {
-				"blk": 15,
+				"blocks": 15,
 				"name": "Erato",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 16,
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939705": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Lydia",
 				"prespp": 13,
-				"rus": 5,
+				"rush": 5,
 				"spp": 5,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11939711": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ariel",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939712": {
 				"cas": 1,
 				"name": "Arya",
 				"prespp": 12,
-				"rus": 12,
+				"rush": 12,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939715": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Aadhýa",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11939716": {
@@ -51,50 +50,48 @@
 				"type": "R"
 			},
 			"11939717": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Delilah",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939720": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Elidhith",
 				"prespp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11956884": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Elpida",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12030024": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Shinesa",
 				"prespp": 6,
-				"rus": 32,
+				"rush": 32,
 				"spp": 11,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12031757": {
 				"name": "David Clearbone",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12031758": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Trey Silentstone",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
@@ -105,61 +102,61 @@
 				"type": "R"
 			},
 			"12022005": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Swan Alphon",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12022006": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Heni Hethurin",
 				"prespp": 8,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12022007": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Yoke Ianuon",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022008": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Tety Goweston",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022009": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Kanut Nardhon",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022010": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dew Midhon",
 				"prespp": 1,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12022012": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Pirin Alfirinor",
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022014": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Meretment Estoladon",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12022015": {
@@ -171,50 +168,68 @@
 				],
 				"name": "Porren Cennan",
 				"prespp": 2,
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"12022022": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mirilan Antegobon",
 				"prespp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12051057": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "David Quickbone",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1019355",
-	"team_performance": {
+	"team": {
 		"886114": {
+			"blocks": 45,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eye and Arrow",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 78,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 57,
 			"score": 4,
 			"scorediff": 4,
-			"tds": 4,
-			"tdsdiff": 4
+			"td": 4,
+			"tddiff": 4,
+			"turns": 165
 		},
 		"891237": {
+			"blocks": 33,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Dukes of Earthquake Valley",
+			"pass": 0,
+			"prespp": 38,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 2,
 			"score": 0,
 			"scorediff": -4,
-			"tds": 0,
-			"tdsdiff": -4
+			"td": 0,
+			"tddiff": -4,
+			"turns": 129
 		}
 	}
 }

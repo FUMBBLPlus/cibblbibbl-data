@@ -1,134 +1,133 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3868046",
-	"player_performance": {
+	"player": {
 		"863441": {
 			"11582128": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Baraskan",
 				"prespp": 6,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11582129": {
-				"blk": 7,
-				"cps": 1,
+				"blocks": 7,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Ansodhil",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 4,
-				"rus": 10,
+				"rush": 10,
 				"spp": 9,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11582131": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Aerian",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11582132": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Firithas",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11582133": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Falandar",
 				"prespp": 3,
-				"rus": 10,
-				"tur": 11,
+				"rush": 10,
+				"turns": 11,
 				"type": "R"
 			},
 			"11582134": {
-				"blk": 2,
-				"cps": 3,
+				"blocks": 2,
+				"comp": 3,
 				"name": "Lonlaithilon",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 4,
-				"rus": 3,
+				"rush": 3,
 				"spp": 3,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11582135": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Norlir",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 3,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11582136": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Gethonil",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582137": {
-				"blk": 6,
-				"cps": 1,
+				"blocks": 6,
+				"comp": 1,
 				"name": "Linfarnrir",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 5,
-				"rus": 4,
+				"rush": 4,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11582138": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Rynnil",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11582139": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Arathion",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"864588": {
 			"11595377": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Black Bart",
 				"prespp": 4,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11595379": {
 				"name": "Thunder",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11595380": {
 				"name": "Cannons",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11595383": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Silver Eye",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11595384": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Crusty",
-				"rus": -3,
-				"tur": 16,
+				"rush": -3,
+				"turns": 16,
 				"type": "R"
 			},
 			"11595385": {
@@ -136,20 +135,20 @@
 				"type": "R"
 			},
 			"11595386": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mad Eye",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11595387": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Barnacle",
-				"pas": 3,
-				"rus": 23,
+				"pass": 3,
+				"rush": 23,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11595388": {
@@ -157,10 +156,10 @@
 				"type": "R"
 			},
 			"11595390": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "One-Eared",
 				"prespp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11595391": {
@@ -169,56 +168,71 @@
 			},
 			"11597125": {
 				"name": "Kevin Dirtywing",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"11597126": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ian Hotstream",
-				"pas": 1,
-				"retired": true,
-				"rus": 5,
-				"tur": 16,
+				"pass": 1,
+				"rush": 5,
+				"turns": 16,
 				"type": "J"
 			},
 			"11597127": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Richard Vilespike",
-				"retired": true,
 				"spp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "928015",
-	"team_performance": {
+	"team": {
 		"863441": {
+			"blocks": 54,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 6,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tor Anroc Anglers",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 25,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 178
 		},
 		"864588": {
+			"blocks": 21,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Blackmud Tridents",
+			"pass": 4,
+			"prespp": 9,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 25,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 143
 		}
 	}
 }

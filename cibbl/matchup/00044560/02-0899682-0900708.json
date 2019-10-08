@@ -1,20 +1,19 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3970239",
-	"player_performance": {
+	"player": {
 		"899682": {
 			"12158266": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Ch'nn'r \"Big Boa\" Qll-Crvn",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12158267": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "K'nn'th \"Strangler\" Ptnntcl",
 				"prespp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12158268": {
@@ -22,38 +21,37 @@
 				"type": "R"
 			},
 			"12158269": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ph'rn \"Quick Tail\" Vzz-Sttn",
 				"prespp": 5,
-				"rus": 36,
+				"rush": 36,
 				"spp": 6,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"12158271": {
 				"name": "R'th's'k \"Breeze\" Mssrbr",
-				"retired": true,
 				"type": "R"
 			},
 			"12158272": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "T'ng \"Lefty\" Clbrr",
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12158273": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "V'sn \"Midget\" Vprr",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12158274": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "C'dm'qsz \"Longtongue\" Ntrll",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158276": {
@@ -61,148 +59,163 @@
 				"type": "R"
 			},
 			"12158279": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dtr'vssr \"Mamba\" Vrddfls",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12158282": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ph'rn \"Gent\" Kbrrcllr",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12174257": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Ian Dirtyfist",
-				"retired": true,
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			},
 			"12174258": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Brian Grottyspike",
-				"retired": true,
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			},
 			"12174259": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Leroy Quickeagle",
-				"retired": true,
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			}
 		},
 		"900708": {
 			"12172309": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Grunzum Bogalooméo",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12172311": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Bugum Grozunatonku",
 				"prespp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12172312": {
-				"blk": 10,
+				"blocks": 10,
 				"mvp": 1,
 				"name": "Brugo Molo",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12172313": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Kazto Dlaaa",
 				"prespp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12172314": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Chapopintu",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12172315": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Grofainéan",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12172316": {
 				"name": "Brug Hom",
-				"rus": 3,
-				"tur": 11,
+				"rush": 3,
+				"turns": 11,
 				"type": "R"
 			},
 			"12172318": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Brikolo",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12172320": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Nanmésav Apanontatte",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12172321": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Litta Pintku",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12172323": {
 				"name": "Polo Pila",
-				"rus": 5,
-				"tur": 2,
+				"rush": 5,
+				"turns": 2,
 				"type": "R"
 			},
 			"12172324": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Trakmalo Boufmoasa",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1046166",
-	"team_performance": {
+	"team": {
 		"899682": {
+			"blocks": 52,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "K'r'shh Sl'ppr'ss",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 10,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 36,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 185
 		},
 		"900708": {
+			"blocks": 50,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tartarik Kowaz",
+			"pass": 0,
+			"prespp": 14,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 8,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 145
 		}
 	}
 }

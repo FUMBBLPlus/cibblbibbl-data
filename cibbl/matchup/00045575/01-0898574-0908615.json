@@ -1,38 +1,37 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4010718",
-	"player_performance": {
+	"player": {
 		"898574": {
 			"12140313": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Arsenic William",
 				"prespp": 33,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140318": {
 				"name": "Dimefox Winston",
 				"prespp": 22,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12140327": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Lactonitrile Bernice",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 8,
-				"rus": 20,
+				"rush": 20,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140330": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lindane Salvatore",
 				"prespp": 4,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12140331": {
@@ -43,14 +42,15 @@
 					"12296806"
 				],
 				"name": "Malononitrile Sebastian",
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"12140364": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Methomyl Samuel",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12140428": {
@@ -58,165 +58,183 @@
 				"name": "Phenol Sinclair",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12140430": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Piperidine Scarlett",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12146724": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Anchorman",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12180127": {
 				"name": "Botulinum Bo",
 				"prespp": 13,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12234728": {
 				"name": "Nightshade Simi",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12345407": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Digoxin Willard",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12353469": {
 				"name": "Fredrick Silentrock",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"908615": {
 			"12296806": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Dinrac Firemight",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12296807": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dobruc Flintbreaker",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12296808": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Soren Copperfire",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12296810": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Soarbad Leadfist",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12296811": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Krothregg Lightbearer",
 				"prespp": 8,
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12296812": {
 				"name": "Itrin Forgehank",
 				"prespp": 5,
-				"rus": 12,
-				"tur": 8,
+				"rush": 12,
+				"turns": 8,
 				"type": "R"
 			},
 			"12296813": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Thegram Silvershield",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12296814": {
 				"name": "Thirmdrim Stormdigger",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12296815": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Elaoc Ingotward",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12296816": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Dothum Rockbelt",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12296818": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kragugg Regalfire",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12358186": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Thogim Goldshield",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
-			"908615S1": {
-				"blk": 4,
+			"STAR-7547": {
+				"blocks": 4,
 				"cas": 1,
 				"name": "Grim Ironjaw",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1094142",
-	"team_performance": {
+	"team": {
 		"898574": {
+			"blocks": 20,
 			"cas": 0,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Revenge Street Reapers",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 111,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 143
 		},
 		"908615": {
+			"blocks": 31,
 			"cas": 2,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Barak Varr Voyagers",
+			"pass": 0,
+			"prespp": 39,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 15,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 174
 		}
 	}
 }

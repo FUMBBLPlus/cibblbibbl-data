@@ -1,24 +1,23 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3966578",
-	"player_performance": {
+	"player": {
 		"873759": {
 			"11744417": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Tristan Tirasse",
 				"prespp": 51,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11744440": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Katherine de Vienne",
 				"prespp": 83,
-				"rus": 25,
+				"rush": 25,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11744441": {
@@ -27,91 +26,91 @@
 				"type": "R"
 			},
 			"11744446": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Denis",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11744449": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Vivian",
 				"prespp": 9,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11744453": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Thomassin de Tourraine",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11744454": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Nicolete Cyrasse",
 				"prespp": 14,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11819796": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Albert",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 19,
-				"rus": 11,
-				"tur": 16,
+				"rush": 11,
+				"turns": 16,
 				"type": "R"
 			},
 			"11819801": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Puck",
 				"prespp": 29,
-				"rus": 9,
-				"tur": 16,
+				"rush": 9,
+				"turns": 16,
 				"type": "R"
 			},
 			"11860937": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 2,
 				"name": "Remon de Vry",
 				"prespp": 34,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11900739": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Franc",
 				"prespp": 9,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11970743": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Harald",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11970744": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Sue",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11980248": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Danny",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11980250": {
@@ -125,135 +124,153 @@
 		},
 		"883064": {
 			"11892679": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Igor",
 				"prespp": 23,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11892680": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ivan",
 				"prespp": 26,
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11892684": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Valdimir",
 				"prespp": 22,
-				"rus": -1,
-				"tur": 11,
+				"rush": -1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11892687": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Grigory",
 				"prespp": 22,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11892688": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Dmitri",
 				"prespp": 9,
 				"spp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11893901": {
 				"name": "Anton",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11893902": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Maxim",
 				"prespp": 4,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11893904": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Boris",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11989734": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Yurly Jr",
 				"prespp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12029730": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Evgeni",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12045579": {
 				"name": "Vladislav",
 				"prespp": 18,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12091045": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ursula II",
 				"prespp": 9,
-				"tur": 3,
+				"turns": 3,
 				"type": "B"
 			},
 			"12139595": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Sabina",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12140765": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sasha II",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1041957",
-	"team_performance": {
+	"team": {
 		"873759": {
-			"cas": 4,
-			"casdiff": 2,
+			"blocks": 56,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Knightly Virtues",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 330,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 45,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 161
 		},
 		"883064": {
+			"blocks": 30,
 			"cas": 2,
-			"casdiff": -2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Kislev's Gryphon Legion",
+			"pass": 0,
+			"prespp": 148,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 4,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 123
 		}
 	}
 }

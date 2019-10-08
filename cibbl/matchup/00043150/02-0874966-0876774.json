@@ -1,57 +1,56 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3914397",
-	"player_performance": {
+	"player": {
 		"874966": {
 			"11764899": {
 				"name": "Benethor",
 				"prespp": 9,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11764901": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Danesthos",
-				"rus": 3,
-				"tur": 13,
+				"rush": 3,
+				"turns": 13,
 				"type": "R"
 			},
 			"11764906": {
 				"name": "Polkan the Red",
 				"prespp": 4,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11764910": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Wendoran",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11764915": {
 				"name": "Finavar",
 				"prespp": 1,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11764916": {
 				"name": "Jokleel",
-				"pas": 1,
-				"rus": 14,
-				"tur": 11,
+				"pass": 1,
+				"rush": 14,
+				"turns": 11,
 				"type": "R"
 			},
 			"11764917": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Thuralin",
 				"prespp": 8,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11764918": {
 				"name": "Guldir",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11764919": {
@@ -59,136 +58,154 @@
 				"type": "R"
 			},
 			"11764921": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Morlanna",
 				"prespp": 19,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11836559": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Vanhir",
-				"rus": 3,
+				"rush": 3,
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"876774": {
 			"11791176": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Mather Teresa of Diesdolf",
 				"prespp": 2,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11791177": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Saint Agnes \"The Comet\"",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 3,
-				"rus": 1,
-				"tur": 8,
+				"rush": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11791210": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Saint Helga \"The Hammer\"",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 8,
-				"rus": 20,
+				"rush": 20,
 				"spp": 4,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11791215": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Ludmilla \"The Redeemed\"",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11791216": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Carol \"Divine Punishment\"",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11791220": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Berta \"The Humble Daughter\"",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11791224": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ingrid \"Blind Faith\"",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11791226": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Luisa \"The Martyr\"",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11791229": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Johanna \"Silent Devotion\"",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11791238": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tilda \"The Penitent\"",
-				"pas": 1,
-				"tur": 10,
+				"pass": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"11791244": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Grisolda \"Last Pilgrimage\"",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "981688",
-	"team_performance": {
+	"team": {
 		"874966": {
+			"blocks": 18,
 			"cas": 1,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
+			"pass": 1,
+			"prespp": 41,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 20,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 78
 		},
 		"876774": {
-			"cas": 4,
-			"casdiff": 3,
+			"blocks": 36,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Congregation of Holy Touchdown",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 15,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 132
 		}
 	}
 }

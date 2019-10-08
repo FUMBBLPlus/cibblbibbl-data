@@ -1,52 +1,51 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3971340",
-	"player_performance": {
+	"player": {
 		"885728": {
 			"11933450": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 2,
 				"name": "Yarrah the Gray",
 				"prespp": 25,
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"11933451": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Sookie Roo",
 				"prespp": 2,
-				"rus": 15,
+				"rush": 15,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11933452": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Naure Roo",
 				"prespp": 21,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11933454": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Rippa Roo",
 				"prespp": 23,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11933455": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Pash a Roo",
 				"prespp": 23,
-				"rus": 7,
-				"tur": 14,
+				"rush": 7,
+				"turns": 14,
 				"type": "R"
 			},
 			"11933456": {
@@ -57,171 +56,188 @@
 			"11933457": {
 				"name": "Cuddles",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11933460": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Spike",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11933461": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Patches",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11933462": {
-				"fou": 4,
+				"fouls": 4,
 				"name": "Blu'Bogan",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11939409": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Flower",
 				"prespp": 9,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12129142": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Niera Roo",
-				"rus": 4,
+				"rush": 4,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12144707": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Snookums",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"889245": {
 			"11990252": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Moving Shadows",
 				"prespp": 33,
-				"rus": 19,
+				"rush": 19,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990253": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lurking Beneath",
 				"prespp": 20,
-				"tur": 11,
+				"turns": 11,
 				"type": "B"
 			},
 			"11990254": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Sneaking Carpet",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990255": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Growling Brook",
 				"prespp": 8,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990257": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Fuming Badger",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990258": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Laughing Rat",
 				"prespp": 2,
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11990260": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Drunken Skunk",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11990261": {
 				"name": "Snorting Fox",
 				"prespp": 6,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12034801": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Snickering Sausage",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12065206": {
 				"name": "Crazy Flea",
-				"rus": 3,
-				"tur": 10,
+				"rush": 3,
+				"turns": 10,
 				"type": "R"
 			},
 			"12105176": {
 				"name": "Furious Fish",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12124639": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Knee pains",
 				"prespp": 11,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12149651": {
 				"name": "Lazy Landshark",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1047413",
-	"team_performance": {
+	"team": {
 		"885728": {
+			"blocks": 49,
 			"cas": 5,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bear Clutchers",
+			"pass": 0,
+			"prespp": 160,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 26,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 160
 		},
 		"889245": {
+			"blocks": 40,
 			"cas": 2,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Shroomwood Attercops",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 117,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 144
 		}
 	}
 }

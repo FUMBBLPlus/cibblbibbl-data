@@ -1,38 +1,37 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3971599",
-	"player_performance": {
+	"player": {
 		"855120": {
 			"11446518": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Odorico De Leo",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11494637": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ghezioc",
 				"prespp": 65,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11596541": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Innocenzo Mastrogiacomo",
 				"prespp": 26,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11596545": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Cassiopea Canova",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11787823": {
@@ -41,41 +40,41 @@
 				"type": "R"
 			},
 			"11921959": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Valfredo Merlino",
 				"prespp": 14,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11921960": {
 				"name": "Rossana Toro",
-				"rus": 1,
-				"tur": 8,
+				"rush": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12025723": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Arnbjörn the Hound",
 				"prespp": 16,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12126165": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Landolf Grau",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12152809": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Raondir Goldchin",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12165992": {
@@ -83,70 +82,69 @@
 				"type": "R"
 			},
 			"12178154": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Telemaco Di Domenico",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12188824": {
 				"name": "Sean Deephammer",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			},
-			"855120S1": {
-				"blk": 8,
-				"name": "Borg'th N'throg",
-				"tur": 15,
+			"STAR-7557": {
+				"blocks": 5,
+				"name": "Icepelt Hammerblow",
+				"turns": 13,
 				"type": "S"
 			},
-			"855120S2": {
-				"blk": 5,
-				"name": "Icepelt Hammerblow",
-				"tur": 13,
+			"STAR-7660": {
+				"blocks": 8,
+				"name": "Borg'th N'throg",
+				"turns": 15,
 				"type": "S"
 			}
 		},
 		"873349": {
 			"11737076": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Harbert Kallath",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 53,
-				"rus": 3,
+				"rush": 3,
 				"spp": 1,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11737077": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 2,
 				"name": "Arnold \"waists-breaker\" Thacocroth",
 				"prespp": 67,
 				"spp": 4,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11737078": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Sigmund \"silent\" Thacocroth",
 				"prespp": 61,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11737079": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Landolf \"pickpocketer\" Thacocroth",
 				"prespp": 73,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737080": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hademar \"cradle robber\" Thacocroth",
 				"prespp": 58,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11737085": {
@@ -155,90 +153,108 @@
 				"type": "R"
 			},
 			"11737086": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Ilya Storm",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11746799": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Adri Kallath",
 				"prespp": 56,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11835133": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Adolf Freshbreeze",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11948498": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Rico kallath",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 15,
-				"rus": 19,
+				"rush": 19,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12095341": {
 				"name": "Rudolf Moranion",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12095342": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jürg Schweizer",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12148016": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Karl Klassen",
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12187816": {
 				"mvp": 1,
 				"name": "Ander Kallath",
-				"rus": 9,
+				"rush": 9,
 				"spp": 8,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1047707",
-	"team_performance": {
+	"team": {
 		"855120": {
+			"blocks": 39,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 249,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 140
 		},
 		"873349": {
+			"blocks": 39,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Reik River Kicking Mules",
-			"prestige": 1,
+			"pass": 6,
+			"prespp": 406,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 31,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 144
 		}
 	}
 }

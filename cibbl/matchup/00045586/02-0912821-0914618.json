@@ -1,32 +1,31 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4012982",
-	"player_performance": {
+	"player": {
 		"912821": {
 			"12364845": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Forest Fire",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12364846": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Obsidian",
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12364847": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Granite",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12364848": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"dead": [
 					2,
 					8,
@@ -34,55 +33,55 @@
 					"12392478"
 				],
 				"name": "Smoke",
-				"pas": -2,
-				"rus": 6,
+				"pass": -2,
+				"retired": true,
+				"rush": 6,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12364849": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Soot",
 				"prespp": 8,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12364851": {
 				"name": "Vapour",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12364853": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Steam",
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12364854": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Bonfire",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12364855": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Spark",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12364856": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ember",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12364857": {
@@ -90,46 +89,46 @@
 				"type": "R"
 			},
 			"12365521": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cinder",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		},
 		"914618": {
 			"12392478": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 3,
 				"name": "Ruk Stonebender",
 				"prespp": 2,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12392479": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Sgrod Goldmuncher",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12392480": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Adelbrand Pfisterer",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12392481": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Landolf Vieweg",
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12392484": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					5,
@@ -137,82 +136,101 @@
 					"12364846"
 				],
 				"name": "Hartwin Trauth",
-				"tur": 12,
+				"retired": true,
+				"turns": 12,
 				"type": "R"
 			},
 			"12392485": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Knungoz",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12392486": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zocthug",
 				"prespp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12392487": {
 				"mvp": 1,
 				"name": "Zargerud",
 				"prespp": 3,
-				"rus": 7,
+				"rush": 7,
 				"spp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12392488": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mephiroth",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12392489": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Onaibire",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12392490": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Festerrhaz",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12402737": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Knungoz",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1096730",
-	"team_performance": {
+	"team": {
 		"912821": {
+			"blocks": 38,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Flashfires",
-			"prestige": 1,
+			"pass": -2,
+			"prespp": 10,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 146
 		},
 		"914618": {
+			"blocks": 47,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Kundun Soulbutchers",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 12,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 17,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 166
 		}
 	}
 }

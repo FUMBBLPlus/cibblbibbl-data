@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3890844",
-	"player_performance": {
+	"player": {
 		"863441": {
 			"11582128": {
 				"name": "Baraskan",
@@ -10,71 +9,71 @@
 				"type": "R"
 			},
 			"11582129": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Ansodhil",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582131": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Aerian",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582132": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Firithas",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582133": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Falandar",
 				"prespp": 9,
-				"rus": 13,
+				"rush": 13,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582134": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lonlaithilon",
 				"prespp": 12,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11582135": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Norlir",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 12,
-				"rus": 3,
+				"rush": 3,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582136": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gethonil",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582137": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Linfarnrir",
 				"prespp": 12,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11582138": {
 				"name": "Rynnil",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11582139": {
@@ -82,74 +81,74 @@
 				"type": "R"
 			},
 			"11657983": {
-				"blk": 1,
-				"cps": 3,
+				"blocks": 1,
+				"comp": 3,
 				"name": "Nuirlan",
-				"pas": 11,
+				"pass": 11,
 				"prespp": 8,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11699452": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zyanor",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"864291": {
 			"11590768": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "S. Sang",
 				"prespp": 20,
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590769": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "U. Gress",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590771": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Redivor",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590772": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Redimor",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590773": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Chitemor",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11590777": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Limortor",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590778": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Dissepolor",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590780": {
@@ -158,60 +157,78 @@
 				"type": "R"
 			},
 			"11590781": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Dichitemor",
 				"prespp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11681513": {
 				"name": "L.A. Biond",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 8,
-				"rus": 5,
-				"tur": 11,
+				"rush": 5,
+				"turns": 11,
 				"type": "R"
 			},
 			"11708391": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Eraclio",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
-			"864291S1": {
-				"blk": 3,
+			"STAR-7578": {
+				"blocks": 3,
 				"name": "Sinnedbad",
-				"tur": 6,
+				"turns": 6,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "954546",
-	"team_performance": {
+	"team": {
 		"863441": {
+			"blocks": 30,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 4,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tor Anroc Anglers",
-			"prestige": 3,
+			"pass": 12,
+			"prespp": 108,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 25,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 160
 		},
 		"864291": {
+			"blocks": 47,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Norscan Curse",
+			"pass": -1,
+			"prespp": 75,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 7,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 143
 		}
 	}
 }

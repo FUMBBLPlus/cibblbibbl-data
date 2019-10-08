@@ -1,27 +1,26 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4043444",
-	"player_performance": {
+	"player": {
 		"915879": {
 			"12410762": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Go mbristear do chnámha",
 				"prespp": 17,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12410763": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Go mbristear gach cnámh id' chorp",
 				"prespp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12410765": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					7,
@@ -30,124 +29,125 @@
 				],
 				"name": "500 Mallacht ort",
 				"prespp": 11,
-				"tur": 14,
+				"retired": null,
+				"turns": 14,
 				"type": "R"
 			},
 			"12410766": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mallacht Déi ort",
 				"prespp": 6,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12410767": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Biodh an diabhal agat",
 				"prespp": 6,
 				"spp": 4,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12410769": {
 				"name": "Mo sheacht mallacht ort",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 2,
-				"rus": 3,
-				"tur": 14,
+				"rush": 3,
+				"turns": 14,
 				"type": "R"
 			},
 			"12410770": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Go dtachta Sé thú",
 				"prespp": 12,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12410773": {
 				"name": "Ithe an diabhal an chat",
 				"prespp": 20,
-				"rus": 34,
+				"rush": 34,
 				"spp": 12,
-				"tds": 4,
-				"tur": 15,
+				"td": 4,
+				"turns": 15,
 				"type": "R"
 			},
 			"12456693": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Galer an bháis ort",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12463464": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Mullach do chinn fút",
 				"prespp": 1,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12499013": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Loscadh is dó ort",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12499015": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Droch chrích ort",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12581845": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Léan Ort",
-				"pas": 1,
-				"rus": 2,
-				"tur": 8,
+				"pass": 1,
+				"rush": 2,
+				"turns": 8,
 				"type": "R"
 			},
 			"12581849": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Brisdeadh agus brú ort",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"919573": {
 			"12469183": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Tornbull",
 				"prespp": 13,
 				"spp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "B"
 			},
 			"12469184": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 4,
 				"name": "Blightbasher",
 				"prespp": 11,
 				"spp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469185": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Warpserker",
 				"prespp": 23,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469186": {
@@ -156,93 +156,109 @@
 				"type": "B"
 			},
 			"12469191": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tech Toetacker",
 				"prespp": 20,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12469192": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Znukch Clothclaw",
 				"prespp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12469194": {
 				"name": "Crenq Brightear",
 				"prespp": 10,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12469210": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Srotch Firebaster",
 				"prespp": 3,
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12539782": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Krulk Needlehand",
 				"prespp": 16,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12577931": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Tristan Hideousfur",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 2,
-				"retired": true,
 				"spp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12585236": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Znich Ashenhat",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12585238": {
 				"name": "Richard Bluefist",
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1131634",
-	"team_performance": {
+	"team": {
 		"915879": {
+			"blocks": 29,
 			"cas": 5,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Brehon's Lament",
+			"pass": 2,
+			"prespp": 107,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 39,
 			"score": 4,
 			"scorediff": 3,
-			"tds": 4,
-			"tdsdiff": 3
+			"td": 4,
+			"tddiff": 3,
+			"turns": 146
 		},
 		"919573": {
+			"blocks": 33,
 			"cas": 5,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ragtag Animal Training Sartors",
+			"pass": -1,
+			"prespp": 129,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 15,
 			"score": 1,
 			"scorediff": -3,
-			"tds": 1,
-			"tdsdiff": -3
+			"td": 1,
+			"tddiff": -3,
+			"turns": 102
 		}
 	}
 }

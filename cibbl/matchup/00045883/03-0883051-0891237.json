@@ -1,35 +1,34 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4029542",
-	"player_performance": {
+	"player": {
 		"883051": {
 			"11892405": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "\"Featherweight\" Gunnar",
 				"prespp": 82,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892424": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Dag of The Mire",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892428": {
 				"name": "Folke Ninth-Son",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11947871": {
 				"name": "\"Ambisinister\" Xander",
 				"prespp": 62,
-				"rus": 27,
+				"rush": 27,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11950136": {
@@ -38,10 +37,10 @@
 				"type": "R"
 			},
 			"12130906": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Haldor Halvarson",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12169214": {
@@ -50,55 +49,55 @@
 				"type": "R"
 			},
 			"12169228": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jary The Younger",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12245045": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Gertrude, Beast of the Moors",
 				"prespp": 24,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12340698": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Turpin of Vostok",
-				"pas": -1,
-				"rus": 14,
-				"tur": 15,
+				"pass": -1,
+				"rush": 14,
+				"turns": 15,
 				"type": "R"
 			},
 			"12348482": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kettil the Gourmand",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12348483": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Langley the Doomed",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12402229": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "The Irreverent Sindri",
 				"prespp": 21,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12424263": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Halvdan Halvarson",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12510951": {
@@ -108,34 +107,34 @@
 		},
 		"891237": {
 			"12022005": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Swan Alphon",
 				"prespp": 33,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022006": {
-				"cps": 1,
-				"fou": 1,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Heni Hethurin",
 				"prespp": 61,
-				"rus": 5,
+				"rush": 5,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022008": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Tety Goweston",
 				"prespp": 20,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12022022": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Mirilan Antegobon",
 				"prespp": 44,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12104982": {
@@ -144,84 +143,101 @@
 				"type": "R"
 			},
 			"12162547": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Foni Piemondon",
 				"prespp": 42,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12229237": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Coron Shottelodon",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 39,
-				"rus": 12,
+				"rush": 12,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12354844": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Heni Heturin Jr.",
 				"prespp": 7,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12360754": {
-				"blk": 9,
+				"blocks": 9,
 				"mvp": 1,
 				"name": "Melith Astenodon",
 				"prespp": 23,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12492950": {
 				"name": "Minth Lippidon",
 				"prespp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12497858": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mevian Whistedon",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12513608": {
 				"name": "Evander Hotshield",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1115421",
-	"team_performance": {
+	"team": {
 		"883051": {
+			"blocks": 33,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vostok Iron Head",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 280,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 176
 		},
 		"891237": {
+			"blocks": 30,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Dukes of Earthquake Valley",
+			"pass": 1,
+			"prespp": 312,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 17,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 143
 		}
 	}
 }

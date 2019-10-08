@@ -1,87 +1,86 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4014076",
-	"player_performance": {
+	"player": {
 		"916031": {
 			"12413272": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Teef Smasha",
-				"pas": 1,
-				"rus": 21,
-				"tur": 17,
+				"pass": 1,
+				"rush": 21,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413273": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Eyez Poka",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413274": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Throat Rippa",
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413275": {
-				"blk": 7,
-				"cps": 1,
+				"blocks": 7,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Head Stompa",
-				"pas": -1,
-				"rus": 6,
+				"pass": -1,
+				"rush": 6,
 				"spp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12413277": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Toes Gouger",
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413278": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Spleen Eater",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413279": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nose Smasher",
-				"rus": 14,
+				"rush": 14,
 				"spp": 6,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413280": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Gar'Og'Graw",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12413281": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Gra'Ro'Pra",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413282": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gro'Gaw'Cra",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413283": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					8,
@@ -89,112 +88,131 @@
 					"12416226"
 				],
 				"name": "Gor'Raw'Dra",
-				"tur": 17,
+				"retired": true,
+				"turns": 17,
 				"type": "R"
 			}
 		},
 		"916217": {
 			"12416220": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Bestgor \"The Vicious\"",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12416222": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Strongor \"The Mighty\"",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12416224": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Powergor \"The Relentless\"",
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12416226": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Mustgor \"The Decided\"",
 				"spp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12416227": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"name": "Gogor \"The Brutal\"",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12416228": {
 				"name": "Fastgor \"The Lightning\"",
-				"rus": 17,
-				"tur": 9,
+				"rush": 17,
+				"turns": 9,
 				"type": "R"
 			},
 			"12416229": {
 				"name": "Quickgor \"The Legged\"",
-				"rus": 9,
-				"tur": 17,
+				"rush": 9,
+				"turns": 17,
 				"type": "R"
 			},
 			"12416233": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hollowgor \"The Hungry\"",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12416234": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tallgor \"The Landscapist\"",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12416236": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Brutegor \"The Doubtless\"",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12416238": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Roughgor \"The Thoughtless\"",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1097931",
-	"team_performance": {
+	"team": {
 		"916031": {
-			"cas": 3,
-			"casdiff": 0,
+			"blocks": 48,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gorthor's Prophets Of Mork",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 51,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 171
 		},
 		"916217": {
+			"blocks": 41,
 			"cas": 3,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cloven Clan",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 26,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 119
 		}
 	}
 }

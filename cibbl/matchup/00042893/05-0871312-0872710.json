@@ -1,116 +1,115 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3907019",
-	"player_performance": {
+	"player": {
 		"871312": {
 			"11700282": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Count Ludovig",
 				"prespp": 9,
-				"rus": 27,
+				"rush": 27,
 				"spp": 9,
-				"tds": 3,
-				"tur": 17,
+				"td": 3,
+				"turns": 17,
 				"type": "R"
 			},
 			"11700284": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Count Igor",
 				"prespp": 23,
-				"rus": 1,
-				"tur": 17,
+				"rush": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11700285": {
-				"blk": 5,
-				"cps": 1,
+				"blocks": 5,
+				"comp": 1,
 				"name": "Count Jurij",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 11,
-				"rus": 10,
+				"rush": 10,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11700318": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Seth",
 				"prespp": 13,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11700319": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Anubis",
 				"prespp": 24,
 				"spp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11700320": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Servant Milan",
 				"prespp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11700321": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Servant Alexej",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11700322": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Servant Pavel",
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11700323": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Servant Fjodor",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11700324": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Servant Vlad",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11734615": {
 				"name": "Servant Alexander",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11775889": {
 				"name": "Servant Slavko",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11812909": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Count Yaroslav",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		},
 		"872710": {
 			"11726387": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Count Leopold Von Drak",
 				"prespp": 34,
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11726390": {
@@ -119,22 +118,22 @@
 				"type": "R"
 			},
 			"11726419": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Serf Diedric",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11726432": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Serf Jurgen",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11726438": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Serf Raynard",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11726439": {
@@ -142,95 +141,108 @@
 				"type": "R"
 			},
 			"11726441": {
-				"blk": 4,
-				"cps": 2,
+				"blocks": 4,
+				"comp": 2,
 				"mvp": 1,
 				"name": "Serf Klaus",
-				"pas": 5,
+				"pass": 5,
 				"prespp": 17,
-				"rus": 4,
+				"rush": 4,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11774729": {
-				"blk": 2,
-				"cps": 2,
+				"blocks": 2,
+				"comp": 2,
 				"name": "Marquis de Said",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 6,
-				"rus": 14,
+				"rush": 14,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11806047": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Richard Hothammer",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			},
 			"11806048": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Xavier Clearbrook",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			},
 			"11806049": {
 				"name": "Yorick Dirtyorc",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "J"
 			},
 			"11806050": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cory Coldstream",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			},
 			"11806051": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Brian Weaktree",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			},
-			"872710S1": {
-				"blk": 11,
+			"STAR-7583": {
+				"blocks": 11,
 				"name": "Wilhelm Chaney",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "973314",
-	"team_performance": {
+	"team": {
 		"871312": {
+			"blocks": 42,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tower of the Necromancer",
-			"prestige": 3,
+			"pass": 4,
+			"prespp": 90,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 187
 		},
 		"872710": {
+			"blocks": 43,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 4,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Drakenhof Dance Macabre",
+			"pass": 3,
+			"prespp": 73,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 20,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 141
 		}
 	}
 }

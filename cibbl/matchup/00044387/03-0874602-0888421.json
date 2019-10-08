@@ -1,67 +1,65 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3965839",
-	"player_performance": {
+	"player": {
 		"874602": {
 			"11759478": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Soso",
 				"prespp": 62,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11759486": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Oliver Gobwell",
 				"prespp": 34,
-				"rus": 23,
+				"rush": 23,
 				"spp": 8,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"11759487": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gobespierre",
-				"rus": 10,
-				"tur": 16,
+				"rush": 10,
+				"turns": 16,
 				"type": "R"
 			},
 			"11759494": {
 				"name": "Gobseppe",
 				"prespp": 12,
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11759495": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gobbibaldi",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 18,
-				"rus": 5,
-				"tur": 15,
+				"rush": 5,
+				"turns": 15,
 				"type": "R"
 			},
 			"11773725": {
 				"name": "Bomma Meinhof",
 				"prespp": 8,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11834404": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Gobiliano Fanata",
 				"prespp": 22,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11893279": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					6,
@@ -69,91 +67,92 @@
 					"12143916"
 				],
 				"name": "Sporfungus",
-				"tur": 13,
+				"retired": true,
+				"turns": 13,
 				"type": "R"
 			},
 			"12061902": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Freddy Fungels",
 				"prespp": 7,
-				"rus": 5,
-				"tur": 9,
+				"rush": 5,
+				"turns": 9,
 				"type": "R"
 			},
 			"12088658": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Waaaghcuse",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12122471": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Che Gobvara",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12135353": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Bronstein",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12135356": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Degovoir",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"888421": {
 			"11976226": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Waziret Stunge",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11976230": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Firrikeet Sharpblade",
 				"prespp": 27,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976233": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 5,
 				"name": "Lirrikeet Sharpblade",
 				"prespp": 33,
-				"rus": 7,
+				"rush": 7,
 				"spp": 13,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976237": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Skritt Swiftpaw",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 30,
-				"rus": 22,
+				"rush": 22,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976241": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Turm",
 				"prespp": 10,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11976246": {
@@ -168,7 +167,7 @@
 			},
 			"12039964": {
 				"name": "Zik Shadowfang",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12039966": {
@@ -176,14 +175,14 @@
 				"type": "R"
 			},
 			"12054568": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Robble",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12060305": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					6,
@@ -191,7 +190,8 @@
 					"12088658"
 				],
 				"name": "Blight Darktail",
-				"tur": 14,
+				"retired": true,
+				"turns": 14,
 				"type": "R"
 			},
 			"12063537": {
@@ -200,55 +200,71 @@
 				"type": "R"
 			},
 			"12143916": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Albert Silentwing",
-				"retired": true,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12143917": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Sylvester Quickfist",
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			},
-			"888421S1": {
-				"blk": 3,
+			"STAR-7579": {
+				"blocks": 3,
 				"name": "Skitter Stab-Stab",
-				"tur": 15,
+				"turns": 15,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1041118",
-	"team_performance": {
+	"team": {
 		"874602": {
-			"cas": 3,
-			"casdiff": -5,
+			"blocks": 35,
+			"cas": 2,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Goblin Revolushunary Kommittee",
+			"pass": 1,
+			"prespp": 163,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 43,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 134
 		},
 		"888421": {
-			"cas": 8,
-			"casdiff": 5,
+			"blocks": 31,
+			"cas": 6,
+			"casdiff": 4,
+			"comp": 1,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gobskrav Alliance",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 118,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 29,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 155
 		}
 	}
 }

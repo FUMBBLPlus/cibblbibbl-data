@@ -1,57 +1,56 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4070929",
-	"player_performance": {
+	"player": {
 		"886114": {
 			"11939696": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Erato",
 				"prespp": 76,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939705": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lydia",
 				"prespp": 101,
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939715": {
-				"blk": 6,
+				"blocks": 6,
 				"int": 1,
 				"name": "Aadhýa",
 				"prespp": 68,
-				"rus": 16,
+				"rush": 16,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11956884": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Elpida",
 				"prespp": 79,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12340801": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Ian Bluesnake",
 				"prespp": 56,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12441430": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Kalipso",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 42,
-				"rus": 3,
+				"rush": 3,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12510464": {
@@ -64,90 +63,91 @@
 					1,
 					4,
 					"crowdPushed",
-					"12718451"
+					null
 				],
 				"name": "Andromeda",
 				"prespp": 7,
-				"tur": 3,
+				"retired": null,
+				"turns": 3,
 				"type": "R"
 			},
 			"12667721": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nyx",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12692981": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Enyo",
 				"prespp": 6,
-				"rus": 2,
+				"rush": 2,
 				"spp": 10,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12703294": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hera",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12716505": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tychi",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"889232": {
 			"11989952": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Cobaltite",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989980": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chthonic Kaolinite",
 				"prespp": 49,
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12145447": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Magma Flow",
 				"prespp": 53,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12187033": {
 				"name": "Chthonic Cinnabar",
 				"prespp": 10,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12279033": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Naiad Tori",
 				"prespp": 41,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12332036": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Naiad Chloe",
 				"prespp": 21,
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"12399766": {
@@ -156,31 +156,31 @@
 			},
 			"12502199": {
 				"name": "Chthonic Cassiterite",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12519946": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Chthonic Puddingstone",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12531045": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Chthonic Microcline",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12600678": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Lucius Magma",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12685626": {
@@ -188,54 +188,72 @@
 				"type": "R"
 			},
 			"12694204": {
-				"blk": 2,
+				"blocks": 2,
 				"int": 1,
 				"name": "Hieronymous Sylph",
 				"prespp": 1,
-				"rus": 5,
+				"rush": 5,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12701391": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "?Masterwork? Slade Warhammer",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12718451": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Katerina Sylph",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1162666",
-	"team_performance": {
+	"team": {
 		"886114": {
+			"blocks": 39,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 1,
+			"mvp": 1,
 			"name": "Eye and Arrow",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 478,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 25,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 140
 		},
 		"889232": {
+			"blocks": 38,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 1,
+			"mvp": 1,
 			"name": "Lost Golems of Grungni",
+			"pass": 0,
+			"prespp": 210,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 12,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 170
 		}
 	}
 }

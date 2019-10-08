@@ -1,158 +1,156 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3934198",
-	"player_performance": {
+	"player": {
 		"883278": {
 			"11895930": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Big Ben Rottingsburger",
 				"prespp": 11,
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"11895933": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "'Mean' Joe the Green",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11895934": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "L. C. Grubwood",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11895935": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 2,
 				"name": "Dwight Spite",
 				"prespp": 16,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11895937": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Mel Bile",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11895939": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Franco Hellish",
 				"prespp": 1,
-				"rus": 2,
-				"tur": 15,
+				"rush": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"11895940": {
 				"name": "Larry Boil",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11895941": {
 				"name": "Rocky Blaaargh-ber",
-				"retired": true,
 				"type": "R"
 			},
 			"11895945": {
 				"name": "Troy Pestamalu",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11895946": {
 				"name": "Terry Badshaw",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11895948": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Jerome Bugiss",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11947846": {
 				"name": "Le'Virus Bile",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		},
 		"887763": {
 			"11964981": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Deinonychus",
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11964995": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lambeosaurus",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11965000": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Gallimimus",
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11965001": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Gideonmentellia",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11965003": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Aahotepre",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11965004": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Amenemhat",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11965005": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Amasis",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11965006": {
 				"name": "Hornakht",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11965007": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hotepsekhemwy",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11965008": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kiya",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11965009": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Lysandra",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11965010": {
@@ -163,42 +161,61 @@
 					"11895935"
 				],
 				"name": "Maathorneferure",
-				"tur": 4,
+				"retired": true,
+				"turns": 4,
 				"type": "R"
 			},
-			"887763S1": {
-				"blk": 5,
+			"STAR-7548": {
+				"blocks": 5,
 				"name": "Hack Enslash",
-				"tur": 14,
+				"turns": 14,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1004734",
-	"team_performance": {
+	"team": {
 		"883278": {
+			"blocks": 36,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Pittsburgh Scabbers",
+			"pass": 0,
+			"prespp": 35,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 2,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 151
 		},
 		"887763": {
+			"blocks": 40,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Extinction Event",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 18,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 151
 		}
 	}
 }

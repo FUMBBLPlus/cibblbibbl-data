@@ -1,106 +1,105 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3990833",
-	"player_performance": {
+	"player": {
 		"867030": {
 			"11633486": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Sokitoomi",
 				"prespp": 50,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"11633494": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Grymlog",
 				"prespp": 39,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"11633500": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Quaxili",
 				"prespp": 20,
-				"rus": 24,
+				"rush": 24,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11633506": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Xlanaxlot",
 				"prespp": 11,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11633509": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zwup",
 				"prespp": 10,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11929270": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Dro'ka'khanxlot",
 				"prespp": 65,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"11938976": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Ximnizec",
 				"prespp": 16,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12048616": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Chuqbolt",
 				"prespp": 8,
-				"rus": 8,
-				"tur": 17,
+				"rush": 8,
+				"turns": 17,
 				"type": "R"
 			},
 			"12087622": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Xili-Sotek",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12087623": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Xla-Tepok",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12228718": {
-				"blk": 9,
+				"blocks": 9,
 				"mvp": 1,
 				"name": "Gor-Rok",
 				"prespp": 20,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12282449": {
 				"name": "Huaataxah",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"895015": {
 			"12083002": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					1,
 					4,
@@ -109,21 +108,22 @@
 				],
 				"name": "Shanka",
 				"prespp": 20,
-				"tur": 4,
+				"retired": true,
+				"turns": 4,
 				"type": "R"
 			},
 			"12083010": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Thrano",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083011": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Urano",
 				"prespp": 8,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12083013": {
@@ -135,94 +135,113 @@
 				],
 				"name": "Pluro",
 				"prespp": 32,
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"12083015": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Mared",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 23,
-				"rus": 5,
+				"rush": 5,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12083372": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Roundril",
 				"prespp": 28,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083373": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Edfrei",
 				"prespp": 32,
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083374": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bakeon",
 				"prespp": 37,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12158704": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Carcosa",
 				"prespp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "B"
 			},
 			"12237075": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Stelra",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12275331": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lycos",
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
-			"895015S1": {
+			"STAR-7540": {
 				"name": "Eldril Sidewinder",
-				"tur": 7,
+				"turns": 7,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1070660",
-	"team_performance": {
+	"team": {
 		"867030": {
-			"cas": 5,
-			"casdiff": 5,
+			"blocks": 40,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sport Spawning Zlatlan",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 239,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 32,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 184
 		},
 		"895015": {
+			"blocks": 27,
 			"cas": 0,
-			"casdiff": -5,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Springbok Sprites",
+			"pass": 1,
+			"prespp": 199,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 130
 		}
 	}
 }

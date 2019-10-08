@@ -1,99 +1,98 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3937790",
-	"player_performance": {
+	"player": {
 		"874602": {
 			"11759478": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Soso",
 				"prespp": 41,
-				"tur": 10,
+				"turns": 10,
 				"type": "B"
 			},
 			"11759486": {
 				"name": "Oliver Gobwell",
 				"prespp": 16,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"11759487": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gobespierre",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11759492": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Goblington",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11759493": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Goblivar",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11759494": {
 				"name": "Gobseppe",
 				"prespp": 8,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11759495": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gobbibaldi",
 				"prespp": 8,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11773725": {
 				"name": "Bomma Meinhof",
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"11834404": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gobiliano Fanata",
 				"prespp": 20,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11874602": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Uli",
 				"prespp": 19,
-				"tur": 12,
+				"turns": 12,
 				"type": "B"
 			},
 			"11893279": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sporfungus",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11940562": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Grot of Steel",
 				"spp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11967705": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					3,
@@ -101,15 +100,16 @@
 					"11839377"
 				],
 				"name": "Gobpoleon",
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			}
 		},
 		"879790": {
 			"11839347": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hemek Abanux",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11839348": {
@@ -117,9 +117,9 @@
 				"type": "R"
 			},
 			"11839349": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Arstur An'gom",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11839350": {
@@ -130,105 +130,123 @@
 					"11759492"
 				],
 				"name": "Mephithal  Phobus",
-				"tur": 13,
+				"retired": true,
+				"turns": 13,
 				"type": "R"
 			},
 			"11839352": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Halanath Skyrak",
 				"prespp": 7,
-				"rus": 12,
+				"rush": 12,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11839377": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Tusk Anon, The Horned One",
 				"prespp": 24,
 				"spp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11839378": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ezrath Nemelas",
 				"prespp": 5,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"11839379": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zakhar Takai",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11839798": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Ba'el, The Naked Slayer",
 				"prespp": 16,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11865383": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Abraxis, Tooth of Death",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11936995": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Festernacus Furilock",
-				"pas": 3,
-				"rus": 1,
+				"pass": 3,
+				"rush": 1,
 				"spp": 6,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11959755": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Malphas, The Bloody Blade",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1009026",
-	"team_performance": {
+	"team": {
 		"874602": {
+			"blocks": 21,
 			"cas": 2,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Goblin Revolushunary Kommittee",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 124,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 28,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 127
 		},
 		"879790": {
+			"blocks": 38,
 			"cas": 4,
 			"casdiff": 2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Unfettered Fury",
+			"pass": 3,
+			"prespp": 64,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 27,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 107
 		}
 	}
 }

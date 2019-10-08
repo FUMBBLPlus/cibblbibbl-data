@@ -1,31 +1,30 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4026696",
-	"player_performance": {
+	"player": {
 		"915879": {
 			"12410762": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Go mbristear do chnámha",
 				"prespp": 10,
-				"tur": 18,
+				"turns": 18,
 				"type": "B"
 			},
 			"12410763": {
-				"blk": 11,
+				"blocks": 11,
 				"mvp": 1,
 				"name": "Go mbristear gach cnámh id' chorp",
 				"spp": 5,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12410765": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "500 Mallacht ort",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12410766": {
@@ -34,16 +33,16 @@
 				"type": "R"
 			},
 			"12410767": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Biodh an diabhal agat",
 				"prespp": 2,
 				"spp": 4,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12410768": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"dead": [
 					1,
@@ -53,23 +52,24 @@
 				],
 				"name": "Póg mo thóin",
 				"prespp": 13,
+				"retired": true,
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12410769": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Mo sheacht mallacht ort",
-				"rus": 1,
+				"rush": 1,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12410770": {
 				"name": "Go dtachta Sé thú",
 				"prespp": 4,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12410771": {
@@ -80,34 +80,35 @@
 					"12423760"
 				],
 				"name": "Go n-ithe an chat",
-				"rus": 2,
-				"tur": 10,
+				"retired": true,
+				"rush": 2,
+				"turns": 10,
 				"type": "R"
 			},
 			"12410773": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Ithe an diabhal an chat",
 				"prespp": 2,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 18,
+				"td": 1,
+				"turns": 18,
 				"type": "R"
 			},
 			"12456693": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Galer an bháis ort",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12463464": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Mullach do chinn fút",
-				"pas": 3,
-				"rus": 5,
+				"pass": 3,
+				"rush": 5,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		},
@@ -118,21 +119,21 @@
 				"type": "R"
 			},
 			"12416620": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Moarte",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12416633": {
 				"name": "Apostol Vântu",
 				"prespp": 6,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12416638": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					1,
@@ -141,23 +142,24 @@
 				],
 				"name": "Horea Belododia",
 				"prespp": 8,
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"12416640": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Nelu Szilágyi",
-				"rus": 17,
+				"rush": 17,
 				"spp": 6,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"12416642": {
 				"name": "Radu Constantin",
 				"prespp": 6,
-				"rus": 13,
-				"tur": 3,
+				"rush": 13,
+				"turns": 3,
 				"type": "R"
 			},
 			"12416645": {
@@ -166,17 +168,17 @@
 			},
 			"12416646": {
 				"name": "Beryx Albu",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12416647": {
 				"name": "Cosmin Boroi",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12416649": {
 				"name": "Petar Mitu",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12416651": {
@@ -184,52 +186,69 @@
 				"name": "Claudiu Poénaru",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12423760": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Ovidiu Gheorghiu",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12498299": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Trey Fasttree",
-				"retired": true,
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1112072",
-	"team_performance": {
+	"team": {
 		"915879": {
+			"blocks": 55,
 			"cas": 5,
 			"casdiff": 3,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Brehon's Lament",
+			"pass": 3,
+			"prespp": 42,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 22,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 142
 		},
 		"916230": {
+			"blocks": 18,
 			"cas": 2,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mourkain Kings",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 46,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 133
 		}
 	}
 }

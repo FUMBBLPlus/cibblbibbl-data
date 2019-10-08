@@ -1,30 +1,29 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4050651",
-	"player_performance": {
+	"player": {
 		"854678": {
 			"11439624": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Grisnik the Blacktail",
 				"prespp": 23,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439628": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Sneekis the Dragon",
 				"prespp": 67,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11482377": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Grisnagar the Brave",
 				"prespp": 31,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11696956": {
@@ -40,153 +39,153 @@
 			"11934134": {
 				"name": "Nightmaster Vasquee",
 				"prespp": 53,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11948519": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Thanflem the Splinter",
 				"prespp": 4,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11951210": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Nightlord Nurgrin",
 				"prespp": 77,
-				"rus": 15,
+				"rush": 15,
 				"spp": 6,
-				"tds": 2,
-				"tur": 11,
+				"td": 2,
+				"turns": 11,
 				"type": "R"
 			},
 			"12217971": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Nightmaster Crittskik",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 39,
-				"rus": 12,
+				"rush": 12,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12246149": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Raslik the Yellow",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 5,
-				"rus": -5,
-				"tur": 14,
+				"rush": -5,
+				"turns": 14,
 				"type": "R"
 			},
 			"12345916": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Vazhakk the Skywatcher",
 				"prespp": 23,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12528392": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Nightmaster Skre",
 				"prespp": 15,
-				"rus": -2,
+				"rush": -2,
 				"spp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12528405": {
 				"name": "Khrat the Nightfury",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12540527": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Skik the Weaver",
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12616877": {
 				"name": "Thueet the Crow",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12616878": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Crilk the Eager",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"922682": {
 			"12516037": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Goul'tiro",
 				"prespp": 11,
-				"rus": 5,
+				"rush": 5,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12516038": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Balta'tiro",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12516039": {
 				"name": "Elakos",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 20,
-				"rus": 20,
-				"tur": 16,
+				"rush": 20,
+				"turns": 16,
 				"type": "R"
 			},
 			"12516040": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Azughast",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 5,
-				"rus": -1,
+				"rush": -1,
 				"spp": 1,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12516041": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Rhy'sax",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12516042": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Crulock",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12516045": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Siduk",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12516046": {
 				"name": "Gurarax",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12516049": {
@@ -194,14 +193,13 @@
 				"type": "R"
 			},
 			"12529292": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sekdon",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12529295": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					4,
@@ -209,57 +207,75 @@
 					"11439624"
 				],
 				"name": "Garalax",
-				"tur": 4,
+				"retired": true,
+				"turns": 4,
 				"type": "R"
 			},
 			"12619216": {
 				"name": "Brian Hotstream",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "J"
 			},
-			"922682M1": {
-				"blk": 2,
+			"MERC-16025-0758": {
+				"blocks": 2,
 				"cas": 1,
-				"fou": 3,
+				"fouls": 3,
 				"name": "Merc Lineman 1",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "M"
 			},
-			"922682S1": {
-				"blk": 10,
+			"STAR-7660": {
+				"blocks": 10,
 				"name": "Schworg'n'Borg",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1139789",
-	"team_performance": {
+	"team": {
 		"854678": {
+			"blocks": 42,
 			"cas": 3,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lords of the Silent Death",
-			"prestige": 3,
+			"pass": -2,
+			"prespp": 528,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 20,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 129
 		},
 		"922682": {
+			"blocks": 35,
 			"cas": 3,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Northern Blood Fiends",
+			"pass": 0,
+			"prespp": 45,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 24,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 137
 		}
 	}
 }

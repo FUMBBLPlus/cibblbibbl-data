@@ -1,141 +1,140 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4035530",
-	"player_performance": {
+	"player": {
 		"922672": {
 			"12515845": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Grishnak",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12515846": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Zunker",
-				"rus": 6,
+				"rush": 6,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12515848": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Grishen",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12515849": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Valek",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12515854": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Daverb",
 				"prespp": 1,
-				"rus": 13,
-				"tur": 14,
+				"rush": 13,
+				"turns": 14,
 				"type": "R"
 			},
 			"12515856": {
 				"name": "Goverk",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12515857": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Bellek",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12519672": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nizic",
 				"prespp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12520608": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Otic",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12520609": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Ikuz",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12520610": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Azid",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"923094": {
 			"12524800": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Bered",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12524801": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Dylon",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12524802": {
-				"blk": 14,
+				"blocks": 14,
 				"name": "Kaerio",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12524803": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Laekces",
 				"type": "R"
 			},
 			"12524804": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nereus",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12524805": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Dover",
 				"prespp": 3,
-				"rus": 19,
+				"rush": 19,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12524806": {
 				"name": "Bay",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12524807": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Reif",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12524808": {
@@ -145,11 +144,11 @@
 			"12524809": {
 				"name": "Earendil",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12524810": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					1,
@@ -158,43 +157,61 @@
 				],
 				"name": "Leuconoe",
 				"prespp": 2,
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"12528440": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sean Strongfist",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1122302",
-	"team_performance": {
+	"team": {
 		"922672": {
+			"blocks": 43,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gazbag's Hunters",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 12,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 19,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 156
 		},
 		"923094": {
+			"blocks": 38,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rising Tsunami",
+			"pass": 0,
+			"prespp": 14,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 122
 		}
 	}
 }

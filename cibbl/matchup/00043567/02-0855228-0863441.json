@@ -1,22 +1,21 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3927769",
-	"player_performance": {
+	"player": {
 		"855228": {
 			"11448229": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jessie Graff",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 58,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11448238": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"dead": [
 					2,
@@ -26,29 +25,30 @@
 				],
 				"name": "Drew Drechsel",
 				"prespp": 42,
+				"retired": true,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11448253": {
-				"blk": 1,
-				"fou": 5,
+				"blocks": 1,
+				"fouls": 5,
 				"name": "Kacy Cataranzo",
 				"prespp": 12,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11494706": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jack Caldiero",
 				"prespp": 32,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11801400": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Lei Zhang",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11853135": {
@@ -57,76 +57,73 @@
 				"type": "R"
 			},
 			"11869550": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Daniel Gil",
 				"prespp": 6,
-				"rus": 9,
+				"rush": 9,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11886203": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Josh Levin",
 				"prespp": 7,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11937296": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Truck",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11937297": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Edward Darkspike",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
 			"11937298": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Julius Whiteshield",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
 			"11937299": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Albert Silentfire",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
-			"855228M1": {
-				"blk": 2,
+			"MERC-7305-3082": {
+				"blocks": 2,
 				"name": "Merc Ashigaru 1",
-				"tur": 16,
+				"turns": 16,
 				"type": "M"
 			},
-			"855228S1": {
-				"blk": 10,
+			"STAR-7565": {
+				"blocks": 10,
 				"name": "Mighty Zug",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		},
 		"863441": {
 			"11582128": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Baraskan",
 				"prespp": 34,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582129": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					4,
@@ -135,65 +132,66 @@
 				],
 				"name": "Ansodhil",
 				"prespp": 35,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"11582131": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Aerian",
 				"prespp": 33,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11582132": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Firithas",
 				"prespp": 43,
 				"spp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11582133": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Falandar",
 				"prespp": 37,
-				"rus": 14,
+				"rush": 14,
 				"spp": 5,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11582134": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Lonlaithilon",
 				"prespp": 25,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582135": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Norlir",
 				"prespp": 24,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582136": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gethonil",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582137": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Linfarnrir",
 				"prespp": 18,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11582139": {
@@ -202,48 +200,66 @@
 				"type": "R"
 			},
 			"11657983": {
-				"blk": 5,
-				"cps": 1,
+				"blocks": 5,
+				"comp": 1,
 				"name": "Nuirlan",
 				"prespp": 21,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11777457": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lurol",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "997220",
-	"team_performance": {
+	"team": {
 		"855228": {
-			"cas": 4,
-			"casdiff": 2,
+			"blocks": 54,
+			"cas": 2,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ninja Warriors",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 180,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 164
 		},
 		"863441": {
+			"blocks": 38,
 			"cas": 2,
-			"casdiff": -2,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tor Anroc Anglers",
+			"pass": 0,
+			"prespp": 314,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 137
 		}
 	}
 }

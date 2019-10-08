@@ -1,69 +1,68 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3984928",
-	"player_performance": {
+	"player": {
 		"904377": {
 			"12231317": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Ruby",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231319": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Sapphire",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 8,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12231325": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Emerald",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231332": {
-				"blk": 14,
+				"blocks": 14,
 				"cas": 1,
 				"name": "Topaz",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231335": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Diamond",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "B"
 			},
 			"12231336": {
-				"blk": 9,
-				"fou": 1,
+				"blocks": 9,
+				"fouls": 1,
 				"name": "Aquamarine",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231338": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Alexandrite",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231341": {
-				"blk": 3,
+				"blocks": 3,
 				"int": 1,
 				"name": "Opal",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231342": {
@@ -73,86 +72,87 @@
 					"blocked",
 					"12259937"
 				],
-				"fou": 1,
+				"fouls": 1,
 				"name": "Spinel",
-				"tur": 7,
+				"retired": true,
+				"turns": 7,
 				"type": "R"
 			},
 			"12231343": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Obsidian",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231345": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hematite",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"904411": {
 			"12231956": {
-				"blk": 11,
-				"cps": 1,
+				"blocks": 11,
+				"comp": 1,
 				"name": "Cadwgan Bleak",
 				"prespp": 8,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231968": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "\"Smiles\" Arwyn",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231969": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Idris Fast-Friend",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231970": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Madoc Gallows-Grin",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231971": {
-				"blk": 3,
-				"cps": 2,
+				"blocks": 3,
+				"comp": 2,
 				"name": "Owain ap Bran",
-				"pas": -1,
-				"rus": 3,
+				"pass": -1,
+				"rush": 3,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231974": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Prydwen ap Blaidd",
 				"prespp": 8,
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12231978": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Llewelyn Grey-Eyes",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231979": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Heilyn the Drunkard",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12231981": {
@@ -160,53 +160,71 @@
 				"type": "R"
 			},
 			"12231982": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Eirian",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231983": {
 				"name": "Rhys",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12259937": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Graham Vileshield",
-				"rus": 7,
+				"rush": 7,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1063107",
-	"team_performance": {
+	"team": {
 		"904377": {
+			"blocks": 60,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 4,
+			"int": 1,
+			"mvp": 1,
 			"name": "Aurons",
+			"pass": -1,
+			"prespp": 21,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 0,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 153
 		},
 		"904411": {
+			"blocks": 37,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 3,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ynys Morion Mabsantwyr",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 18,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 21,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 148
 		}
 	}
 }

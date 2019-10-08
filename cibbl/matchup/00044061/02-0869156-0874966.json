@@ -1,90 +1,89 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3950867",
-	"player_performance": {
+	"player": {
 		"869156": {
 			"11667457": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Glicees",
 				"prespp": 73,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11667458": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Xahr",
 				"prespp": 40,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11667459": {
-				"blk": 15,
+				"blocks": 15,
 				"name": "Keeth",
 				"prespp": 48,
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11667462": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Rozatar",
 				"prespp": 52,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11667465": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mebas",
 				"prespp": 21,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11667467": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Hralis",
 				"prespp": 14,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11667468": {
 				"name": "Nal",
 				"prespp": 7,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11667471": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Acurag",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11744463": {
 				"name": "Troln",
 				"prespp": 9,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11781773": {
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Quari",
 				"prespp": 4,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11851751": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					6,
@@ -92,19 +91,20 @@
 					"11836559"
 				],
 				"name": "Axperti",
-				"tur": 13,
+				"retired": true,
+				"turns": 13,
 				"type": "R"
 			},
 			"11851754": {
 				"name": "Zorq",
 				"prespp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11983863": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kalsir",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
@@ -112,7 +112,7 @@
 			"11764899": {
 				"name": "Benethor",
 				"prespp": 21,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11764901": {
@@ -121,71 +121,71 @@
 				"type": "R"
 			},
 			"11764915": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Finavar",
 				"prespp": 6,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11764917": {
 				"name": "Thuralin",
 				"prespp": 11,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11764919": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Lemsas",
 				"prespp": 9,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11764921": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Morlanna",
 				"prespp": 42,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11836559": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"name": "Vanhir",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 50,
-				"rus": -1,
+				"rush": -1,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11900737": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Beliath the Grimm",
 				"prespp": 9,
 				"spp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "B"
 			},
 			"11938500": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mereia",
 				"prespp": 9,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11967724": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Hauclir",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 8,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12034410": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					6,
@@ -193,46 +193,65 @@
 					"11667458"
 				],
 				"name": "Timaris",
-				"tur": 12,
+				"retired": true,
+				"turns": 12,
 				"type": "R"
 			},
 			"12052561": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Mereia",
-				"pas": 1,
-				"rus": 10,
+				"pass": 1,
+				"rush": 10,
 				"spp": 4,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1024091",
-	"team_performance": {
+	"team": {
 		"869156": {
+			"blocks": 34,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Talsyn Tramplers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 282,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 142
 		},
 		"874966": {
+			"blocks": 25,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
+			"pass": 1,
+			"prespp": 171,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 10,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 130
 		}
 	}
 }

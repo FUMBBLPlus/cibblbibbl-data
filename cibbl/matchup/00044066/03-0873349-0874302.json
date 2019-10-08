@@ -1,88 +1,87 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3951023",
-	"player_performance": {
+	"player": {
 		"873349": {
 			"11737076": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Harbert Kallath",
 				"prespp": 39,
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737077": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Arnold \"waists-breaker\" Thacocroth",
 				"prespp": 57,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11737078": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Sigmund \"silent\" Thacocroth",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 40,
-				"rus": 7,
+				"rush": 7,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737079": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Landolf \"pickpocketer\" Thacocroth",
 				"prespp": 56,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737080": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hademar \"cradle robber\" Thacocroth",
 				"prespp": 46,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737081": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Aimar Kallath",
 				"prespp": 41,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11737085": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Falko Licht",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737086": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ilya Storm",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11746799": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Adri Kallath",
 				"prespp": 47,
-				"rus": 19,
+				"rush": 19,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11835133": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Adolf Freshbreeze",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11948498": {
@@ -91,9 +90,9 @@
 				"type": "R"
 			},
 			"12039700": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Karl Klassen",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
@@ -104,60 +103,60 @@
 				"type": "R"
 			},
 			"11754124": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Maranello",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754141": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"name": "San Cesario sul Panaro",
 				"prespp": 6,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11754142": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Sassuolo",
 				"prespp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11754144": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vignola",
 				"prespp": 9,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11754146": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Spilamberto",
 				"prespp": 46,
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"11783522": {
-				"blk": 1,
-				"cps": 3,
+				"blocks": 1,
+				"comp": 3,
 				"mvp": 1,
 				"name": "Modena",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 17,
-				"rus": 21,
+				"rush": 21,
 				"spp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11895172": {
-				"blk": 15,
+				"blocks": 15,
 				"name": "Castelvetro II",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11937470": {
@@ -165,66 +164,82 @@
 				"type": "R"
 			},
 			"11967732": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Formigine III",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12062178": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Castelfranco Emilia II",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12062183": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Xavier Fastwing",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
 			"12062184": {
 				"name": "Aaron Bluewing",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "J"
 			},
-			"874302S1": {
-				"blk": 13,
+			"STAR-7565": {
+				"blocks": 13,
 				"name": "Mighty Zug",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1024272",
-	"team_performance": {
+	"team": {
 		"873349": {
+			"blocks": 45,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Reik River Kicking Mules",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 338,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 46,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 166
 		},
 		"874302": {
+			"blocks": 66,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 3,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grasparossa B.B.C",
+			"pass": 6,
+			"prespp": 127,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 29,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 166
 		}
 	}
 }

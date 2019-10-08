@@ -1,50 +1,49 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3956608",
-	"player_performance": {
+	"player": {
 		"854507": {
 			"11439080": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Vol'arth the Brazen",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 63,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439088": {
 				"name": "Yibb-Tstll",
 				"prespp": 45,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"11439090": {
-				"blk": 15,
+				"blocks": 15,
 				"cas": 1,
 				"name": "Do Galaad, the Herald",
 				"prespp": 75,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582112": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Horok",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11681756": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Neron",
 				"prespp": 20,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11766988": {
@@ -53,76 +52,76 @@
 				"type": "R"
 			},
 			"11807607": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Palehawk, the Revenant",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11851618": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Marius, the Forgiven",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11926823": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Berethan, the Soulless",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11973355": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nyerahd, the Cunning",
 				"prespp": 11,
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12055102": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Hagar-Ryon",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12072566": {
 				"name": "Ubbo-Tsathla",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12072676": {
 				"name": "Good Ol' Nodens",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		},
 		"862033": {
 			"11558599": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 2,
 				"name": "Delvarus",
 				"prespp": 20,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11558605": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Porphyricus",
 				"prespp": 36,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11558611": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hadrabulus Vioss",
 				"prespp": 16,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11558616": {
@@ -131,94 +130,111 @@
 				"type": "R"
 			},
 			"11567423": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kargos",
 				"prespp": 39,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11699147": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Khalophis",
 				"prespp": 33,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11850112": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ignatius Grulgor III",
 				"prespp": 6,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11927160": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Calas Typhon III",
 				"prespp": 1,
-				"rus": 10,
-				"tur": 15,
+				"rush": 10,
+				"turns": 15,
 				"type": "R"
 			},
 			"11966746": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Kharn the Betrayer",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12051813": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ahriman",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12102117": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Zachary Palestream",
-				"pas": 1,
-				"rus": 4,
+				"pass": 1,
+				"rush": 4,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12102118": {
 				"name": "Trey Cleareagle",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1030518",
-	"team_performance": {
+	"team": {
 		"854507": {
+			"blocks": 39,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Coven of the Mirrored Hall",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 287,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 140
 		},
 		"862033": {
+			"blocks": 33,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Forsaken of the Pantheon",
+			"pass": 1,
+			"prespp": 213,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 112
 		}
 	}
 }

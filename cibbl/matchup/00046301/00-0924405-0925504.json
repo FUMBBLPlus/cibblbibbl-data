@@ -1,46 +1,45 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4041546",
-	"player_performance": {
+	"player": {
 		"924405": {
 			"12545274": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Krusher",
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12545275": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Grimdore Chainbreaker",
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12545276": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Sugz Snarlof",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12545277": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Urig Ironhide",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12545278": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Zaghik Znarl",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12545279": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Zellar Cutthroat",
-				"rus": 15,
-				"tur": 14,
+				"rush": 15,
+				"turns": 14,
 				"type": "R"
 			},
 			"12545280": {
@@ -49,143 +48,160 @@
 				"type": "R"
 			},
 			"12545282": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Tukram Slitter",
 				"prespp": 6,
-				"rus": 23,
+				"rush": 23,
 				"spp": 6,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"12545290": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Arkiek Reek",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12545293": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Wranviorx Posiontooth",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12545296": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Struhulk Lurker",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12576762": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Yorick Vilehawk",
-				"retired": true,
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			}
 		},
 		"925504": {
 			"12562177": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Lord Ichabod of Wyldwich",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12562180": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sir Danzig the Cinder",
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12562181": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sir Bailey the Wild",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562182": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sir Geoffrey the Bright",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12562183": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sir Theodore the Blazing",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12562184": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fair Henry of Storms",
-				"rus": 14,
-				"tur": 16,
+				"rush": 14,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562185": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fair Desmond the Twister",
-				"rus": 14,
-				"tur": 17,
+				"rush": 14,
+				"turns": 17,
 				"type": "R"
 			},
 			"12562186": {
 				"mvp": 1,
 				"name": "Hardy Wilbur the Molten",
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12562187": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hardy Frederick of Iron",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12562188": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Calm Nolan the Current",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12562189": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Calm Xavier of Tides",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1129495",
-	"team_performance": {
+	"team": {
 		"924405": {
+			"blocks": 67,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Wolf Lands Slavers",
+			"pass": 0,
+			"prespp": 11,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 178
 		},
 		"925504": {
+			"blocks": 28,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ichabod's Infernals",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 29,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 183
 		}
 	}
 }

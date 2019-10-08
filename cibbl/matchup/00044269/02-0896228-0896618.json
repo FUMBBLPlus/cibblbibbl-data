@@ -1,86 +1,84 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3958719",
-	"player_performance": {
+	"player": {
 		"896228": {
 			"12103149": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Mortarion",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12103150": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Scabeiathrax",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103152": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Ku'Gath",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103156": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Epidemius",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103159": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Typhus",
 				"prespp": 3,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12103164": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Artemius",
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103165": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Mattius Heiron",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103183": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Burroroz",
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103185": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Garalash",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103188": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Ygadekai",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12108896": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kevin Weakstream",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			}
 		},
@@ -90,21 +88,21 @@
 				"type": "R"
 			},
 			"12109601": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Buraniel",
 				"prespp": 3,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12109602": {
-				"blk": 6,
-				"cps": 1,
-				"fou": 1,
+				"blocks": 6,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Bilenduin",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 5,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12109604": {
@@ -112,11 +110,11 @@
 				"type": "R"
 			},
 			"12109605": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Neminor",
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12109606": {
@@ -124,77 +122,93 @@
 				"type": "R"
 			},
 			"12109607": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Luendil",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12109608": {
-				"blk": 4,
-				"fou": 2,
+				"blocks": 4,
+				"fouls": 2,
 				"name": "Oliveil",
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"12109609": {
 				"name": "Primoriel",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12109610": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Clairion",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12109611": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hurindiel",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12109663": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Fredrick Strongbrook",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			},
 			"12109664": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Julius Dirtytree",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1032955",
-	"team_performance": {
+	"team": {
 		"896228": {
+			"blocks": 48,
 			"cas": 1,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gardeners of Nurgle",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 12,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 18,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 155
 		},
 		"896618": {
-			"cas": 1,
-			"casdiff": 0,
+			"blocks": 30,
+			"cas": 0,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Charace Charioteers",
+			"pass": -1,
+			"prespp": 8,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 7,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 132
 		}
 	}
 }

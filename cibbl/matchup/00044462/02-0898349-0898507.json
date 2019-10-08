@@ -1,56 +1,55 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3964759",
-	"player_performance": {
+	"player": {
 		"898349": {
 			"12137854": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Skittle Turpentine",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12137855": {
 				"name": "Scuttle Turpentine",
 				"prespp": 8,
-				"rus": 9,
-				"tur": 11,
+				"rush": 9,
+				"turns": 11,
 				"type": "R"
 			},
 			"12137856": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Ol' Split Claw",
 				"prespp": 4,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12137857": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "\"Bubbles\" Thundertamer",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12137861": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Barnacle Bunch",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12137864": {
 				"name": "\"Bait 'n Tackle\" Robinson",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12137866": {
 				"name": "\"Sinker\" Smith",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12137867": {
 				"name": "\"Netting\" Walker",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12137868": {
@@ -58,10 +57,11 @@
 					1,
 					6,
 					"crowdPushed",
-					"12140161"
+					null
 				],
 				"name": "\"Hook\" Chapman",
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"12137869": {
@@ -69,139 +69,155 @@
 				"type": "R"
 			},
 			"12146611": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Xavier Clearwing",
-				"retired": true,
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "J"
 			},
 			"12146612": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Martin Hideousstone",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"898507": {
 			"12140161": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Terror of Wurtbad",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12140162": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Hanskarl Denk",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140169": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Frederick van Hal",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12140173": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Artem",
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12140175": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Vigo",
 				"spp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12140180": {
 				"name": "Count Petr von Stolpe",
 				"prespp": 3,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12140181": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Carcass",
 				"prespp": 7,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12140182": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Bloat",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12140183": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Corpse",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12140184": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Rot",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12140185": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Decay",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
-			"898507M1": {
-				"fou": 1,
+			"MERC-7143-2497": {
+				"fouls": 1,
 				"name": "Merc Zombie 1",
-				"tur": 1,
+				"turns": 1,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1039887",
-	"team_performance": {
+	"team": {
 		"898349": {
+			"blocks": 14,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Riptide Runners",
+			"pass": 0,
+			"prespp": 12,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 129
 		},
 		"898507": {
+			"blocks": 45,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Leicheberg Lycans",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 10,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 28,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 171
 		}
 	}
 }

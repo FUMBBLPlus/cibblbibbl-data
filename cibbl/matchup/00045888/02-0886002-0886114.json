@@ -1,26 +1,25 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4028921",
-	"player_performance": {
+	"player": {
 		"886002": {
 			"11938007": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Sinthoras Bloodflame",
 				"prespp": 88,
-				"rus": -2,
+				"rush": -2,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938010": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Malaguth Blackmoon",
 				"prespp": 70,
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11938039": {
@@ -29,105 +28,105 @@
 				"type": "R"
 			},
 			"11938051": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Valyr Dragonrider",
 				"prespp": 35,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938060": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Telok Beastslayer",
 				"prespp": 31,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12154913": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Micath Ghosthunter",
 				"prespp": 33,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12254187": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gilgash Doomblade",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12280055": {
 				"name": "Damien Scarface",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12335501": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Shorna Nightraider",
 				"prespp": 16,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12412821": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cirgil Darksoul",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12413661": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nuramon Darkstar",
 				"prespp": 6,
-				"rus": 14,
-				"tur": 16,
+				"rush": 14,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413667": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vargar Demonheart",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12458452": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Shriga Coldeyes",
-				"rus": 3,
+				"rush": 3,
 				"spp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12458456": {
-				"blk": 8,
-				"cps": 1,
+				"blocks": 8,
+				"comp": 1,
 				"name": "Cartara Swiftdeath",
-				"pas": -2,
-				"rus": 3,
+				"pass": -2,
+				"rush": 3,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		},
 		"886114": {
 			"11939696": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Erato",
 				"prespp": 56,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11939705": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Lydia",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 74,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11939715": {
@@ -136,58 +135,58 @@
 				"type": "R"
 			},
 			"11956884": {
-				"blk": 5,
-				"cps": 1,
+				"blocks": 5,
+				"comp": 1,
 				"name": "Elpida",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 64,
-				"rus": 9,
+				"rush": 9,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12030024": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Shinesa",
 				"prespp": 92,
-				"rus": 11,
+				"rush": 11,
 				"spp": 6,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"12051225": {
-				"blk": 10,
-				"cps": 1,
+				"blocks": 10,
+				"comp": 1,
 				"name": "Silvestra Darklightning",
 				"prespp": 50,
-				"rus": -1,
+				"rush": -1,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12279032": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Iris",
 				"prespp": 12,
-				"rus": 7,
+				"rush": 7,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12340801": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Ian Bluesnake",
 				"prespp": 27,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12441430": {
 				"name": "Kalipso",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12441504": {
@@ -196,7 +195,7 @@
 			},
 			"12465747": {
 				"name": "Pinelopi",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12492201": {
@@ -207,43 +206,61 @@
 					"11938007"
 				],
 				"name": "Elesiya",
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"12492202": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jack Deepfist",
-				"retired": true,
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1114593",
-	"team_performance": {
+	"team": {
 		"886002": {
+			"blocks": 51,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom Glade Demons",
+			"pass": -2,
+			"prespp": 368,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 18,
 			"score": 0,
 			"scorediff": -4,
-			"tds": 0,
-			"tdsdiff": -4
+			"td": 0,
+			"tddiff": -4,
+			"turns": 175
 		},
 		"886114": {
+			"blocks": 39,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eye and Arrow",
-			"prestige": 3,
+			"pass": -2,
+			"prespp": 429,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 44,
 			"score": 4,
 			"scorediff": 4,
-			"tds": 4,
-			"tdsdiff": 4
+			"td": 4,
+			"tddiff": 4,
+			"turns": 170
 		}
 	}
 }

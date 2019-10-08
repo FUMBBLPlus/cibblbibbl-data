@@ -1,104 +1,103 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3962437",
-	"player_performance": {
+	"player": {
 		"895387": {
 			"12089484": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Troll Pollymaalu",
 				"prespp": 11,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12089486": {
-				"blk": 1,
-				"fou": 6,
+				"blocks": 1,
+				"fouls": 6,
 				"name": "\"Mean\" Gobbo Green",
 				"prespp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12089487": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "\"Big\" Gren Eetzaburga",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12089488": {
 				"name": "Gobby \"Blud\" Mucknally",
-				"pas": 1,
-				"rus": 3,
-				"tur": 16,
+				"pass": 1,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12089489": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Chukka Noll",
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12089495": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Airy Badsure",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12089499": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Gob Wudsun",
-				"rus": 6,
+				"rush": 6,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12089504": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Kleavin Green",
 				"prespp": 6,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12115472": {
 				"name": "Grin Swanny",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12115473": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Grakk Buttla",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12124729": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Painz Arrysun",
-				"rus": 8,
-				"tur": 13,
+				"rush": 8,
+				"turns": 13,
 				"type": "R"
 			},
 			"12124730": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grakk Buttla",
-				"pas": 1,
-				"rus": 6,
-				"tur": 16,
+				"pass": 1,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"896972": {
 			"12117786": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Gorbad Faceclompah",
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"12117787": {
@@ -106,48 +105,48 @@
 				"type": "R"
 			},
 			"12117788": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Poppy Merribuck",
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12117789": {
 				"name": "Heinrich the Corpulent",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12117790": {
 				"name": "Balthasar the Youthful",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12117791": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Konrad the Enchanter",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12117792": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gottlieb Thälmann of Averland",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12117795": {
 				"name": "Ferrimora of the Waxing Moon",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12117796": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "The Drinker of Desire and Wishes",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12117798": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					3,
@@ -156,52 +155,71 @@
 				],
 				"name": "Sammael the Meticulous",
 				"prespp": 4,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"12117800": {
 				"name": "Siluvaine, Traverser of the Celestial Promenade",
 				"prespp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12117802": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Urkrasour the Obedient",
 				"prespp": 3,
-				"rus": 22,
+				"rush": 22,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1037273",
-	"team_performance": {
+	"team": {
 		"895387": {
-			"cas": 3,
-			"casdiff": 3,
+			"blocks": 31,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 10,
+			"int": 0,
+			"mvp": 1,
 			"name": "Der Peaksblight Stealers",
+			"pass": 2,
+			"prespp": 24,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 156
 		},
 		"896972": {
+			"blocks": 34,
 			"cas": 0,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Seekers of Transcendence",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 12,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 29,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 123
 		}
 	}
 }

@@ -1,28 +1,27 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3946296",
-	"player_performance": {
+	"player": {
 		"885940": {
 			"11936932": {
 				"name": "The Phantom Wanderer",
 				"type": "R"
 			},
 			"11936933": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "The Elegant Phantom",
 				"prespp": 8,
-				"rus": 7,
-				"tur": 11,
+				"rush": 7,
+				"turns": 11,
 				"type": "R"
 			},
 			"11936937": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Revydas 'The Dark Star' Nevar",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11936939": {
@@ -31,38 +30,38 @@
 				"type": "R"
 			},
 			"11936944": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Rorthal Xa'zan",
-				"pas": 7,
-				"rus": 2,
+				"pass": 7,
+				"rush": 2,
 				"spp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11936947": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cirerin Stillflow",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11936950": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Slyndis Fendethyl",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11936952": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Red Flow",
 				"prespp": 3,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11936954": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					1,
@@ -71,112 +70,111 @@
 				],
 				"name": "Divares Tiseran",
 				"prespp": 1,
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"11936955": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Crimson Flash",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 2,
-				"rus": 16,
+				"rush": 16,
 				"spp": 4,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"11950923": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Harzun 'The Silent Stalker' Krivan",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12036206": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Leroy Vilewing",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			},
 			"12036207": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Aaron Whitestone",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			},
-			"885940S1": {
-				"blk": 5,
+			"STAR-7555": {
+				"blocks": 5,
 				"cas": 1,
 				"name": "Hubris Rakarth",
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "S"
 			}
 		},
 		"886002": {
 			"11938003": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Caphalor Darkstar",
 				"prespp": 16,
-				"rus": 13,
+				"rush": 13,
 				"spp": 5,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11938007": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Sinthoras Bloodflame",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938008": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Molostroi Demonheart",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 18,
-				"rus": 12,
-				"tur": 17,
+				"rush": 12,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938010": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Malaguth Blackmoon",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938039": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Cargavel Stormcrow",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 21,
-				"rus": 18,
+				"rush": 18,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938045": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Cirgil Elvenslaver",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11938051": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Valyr Dragonrider",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938060": {
@@ -185,59 +183,76 @@
 				"type": "R"
 			},
 			"11938068": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Moreth Ghosthunter",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11964772": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Shorna Coldeyes",
 				"prespp": 13,
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12031251": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Shila Swiftdeath",
 				"prespp": 4,
-				"rus": 12,
+				"rush": 12,
 				"spp": 6,
-				"tds": 2,
-				"tur": 12,
+				"td": 2,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1018850",
-	"team_performance": {
+	"team": {
 		"885940": {
-			"cas": 3,
-			"casdiff": -1,
+			"blocks": 39,
+			"cas": 1,
+			"casdiff": -3,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Har Ganeth Ironspikes",
+			"pass": 9,
+			"prespp": 30,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 25,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 112
 		},
 		"886002": {
+			"blocks": 39,
 			"cas": 4,
-			"casdiff": 1,
+			"casdiff": 3,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom Glade Demons",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 115,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 55,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 147
 		}
 	}
 }

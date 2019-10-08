@@ -1,44 +1,43 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4033962",
-	"player_performance": {
+	"player": {
 		"898574": {
 			"12140313": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Arsenic William",
 				"prespp": 55,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12140327": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lactonitrile Bernice",
 				"prespp": 21,
-				"rus": 24,
+				"rush": 24,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140330": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Lindane Salvatore",
 				"prespp": 4,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12140364": {
 				"name": "Methomyl Samuel",
 				"prespp": 6,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12140428": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Phenol Sinclair",
 				"prespp": 22,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12140430": {
@@ -47,85 +46,85 @@
 				"type": "R"
 			},
 			"12146724": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Anchorman",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12180127": {
 				"name": "Botulinum Bo",
 				"prespp": 25,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12345407": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Digoxin Willard",
 				"prespp": 10,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12353469": {
 				"name": "Fredrick Silentrock",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12406059": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Chlorpyrifos Wallace",
 				"prespp": 8,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12424765": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Richter Kless",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12440839": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Esbestos Willy",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12503193": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Polonium Simon",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		},
 		"907600": {
 			"12281777": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Qunq Madripper",
 				"prespp": 10,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12281778": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Qhutch Pinefingers",
 				"prespp": 24,
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12281780": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tritch Crowlasher",
 				"prespp": 21,
-				"rus": 23,
+				"rush": 23,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12281783": {
@@ -134,10 +133,10 @@
 				"type": "R"
 			},
 			"12281784": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Big-large Xelk Prideborn",
 				"prespp": 26,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12281786": {
@@ -146,93 +145,108 @@
 				"type": "R"
 			},
 			"12323282": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Large-Big Cresh Windcutter",
 				"prespp": 22,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12349766": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Snulk Dustlayer",
-				"rus": 1,
-				"tur": 12,
+				"rush": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12491279": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mung Heartbender",
 				"prespp": 6,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12516991": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Skoch Shadowbreath",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12517162": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "Billy Strongeagle",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
 			"12517163": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cory Clumsyhawk",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			},
 			"12517164": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Martin Viletree",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			},
-			"907600S1": {
-				"blk": 8,
+			"STAR-18884": {
+				"blocks": 8,
 				"cas": 1,
 				"name": "Friar Yuck",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1120489",
-	"team_performance": {
+	"team": {
 		"898574": {
+			"blocks": 33,
 			"cas": 0,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Revenge Street Reapers",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 173,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 24,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 153
 		},
 		"907600": {
-			"cas": 3,
-			"casdiff": 3,
+			"blocks": 47,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Deluge-Bearers",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 150,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 26,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 144
 		}
 	}
 }

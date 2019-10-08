@@ -1,202 +1,217 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3995309",
-	"player_performance": {
+	"player": {
 		"855120": {
 			"11596541": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Innocenzo Mastrogiacomo",
 				"prespp": 41,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11596545": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Cassiopea Canova",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11921959": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Valfredo Merlino",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12025723": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Arnbjörn the Hound",
 				"prespp": 46,
 				"spp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12126165": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Landolf Grau",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12244086": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Brathig Bitterchin",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12261692": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Khirathe",
 				"prespp": 28,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12288007": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Dargognud Strongdreamer",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12307636": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gonol",
 				"prespp": 6,
-				"rus": 24,
+				"rush": 24,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12320291": {
 				"name": "Billy Grottyshield",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			},
 			"12320292": {
 				"name": "Julius Bluebrook",
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "J"
 			}
 		},
 		"900747": {
 			"12173110": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Stonemuncher the Ancient",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12173143": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Dialor the Noble",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 20,
-				"rus": 30,
+				"rush": 30,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173145": {
-				"blk": 14,
+				"blocks": 14,
 				"cas": 1,
 				"name": "Khras the Enslaved",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173148": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Uzras Strongblade",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173149": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Hunsra Blackpain",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173150": {
 				"name": "Thras the Cruncher",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173151": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Hrkas Prouddeath",
 				"prespp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12173152": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Oklas the Devastator",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 5,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173153": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Ghras Paingiver",
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173155": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Frazsa Grimhand",
 				"prespp": 8,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12296160": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Krank Cracker",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			}
 		}
 	},
 	"replayId": "1076468",
-	"team_performance": {
+	"team": {
 		"855120": {
+			"blocks": 49,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
+			"pass": 0,
+			"prespp": 153,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 24,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 147
 		},
 		"900747": {
+			"blocks": 49,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Black Monolith Worshippers",
+			"pass": 1,
+			"prespp": 60,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 32,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 160
 		}
 	}
 }

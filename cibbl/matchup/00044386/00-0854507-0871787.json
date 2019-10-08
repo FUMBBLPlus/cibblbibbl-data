@@ -1,82 +1,81 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3974580",
-	"player_performance": {
+	"player": {
 		"854507": {
 			"11439080": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vol'arth the Brazen",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 68,
-				"rus": 14,
-				"tur": 16,
+				"rush": 14,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439090": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Do Galaad, the Herald",
 				"prespp": 86,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11681756": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Neron",
 				"prespp": 24,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11807607": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Palehawk, the Revenant",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11851618": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Marius, the Forgiven",
 				"prespp": 21,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11926823": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Berethan, the Soulless",
 				"prespp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11973355": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nyerahd, the Cunning",
 				"prespp": 22,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12055102": {
 				"name": "Hagar-Ryon",
 				"prespp": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12072566": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Ubbo-Tsathla",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12072676": {
-				"fou": 4,
+				"fouls": 4,
 				"name": "Good Ol' Nodens",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12102190": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Bokrug",
 				"type": "R"
 			},
@@ -85,38 +84,38 @@
 				"type": "R"
 			},
 			"12158371": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Nyoghta",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12158517": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Vassago, the Harbinger",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12181096": {
 				"name": "Gahr-Gahr",
 				"prespp": 1,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			}
 		},
 		"871787": {
 			"11709004": {
-				"fou": 6,
+				"fouls": 6,
 				"name": "Idun Hands",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709008": {
 				"name": "Emyys Doceon",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11709009": {
@@ -125,31 +124,31 @@
 				"type": "R"
 			},
 			"11709010": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Dando Enda",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 8,
-				"rus": 4,
-				"tur": 10,
+				"rush": 4,
+				"turns": 10,
 				"type": "R"
 			},
 			"11709011": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Raus Juit",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 69,
-				"rus": 19,
+				"rush": 19,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709013": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kael Desini",
 				"prespp": 25,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709016": {
@@ -158,90 +157,108 @@
 				"type": "R"
 			},
 			"11709018": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Font Eiridan",
 				"prespp": 50,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11747061": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gutterfingers",
 				"prespp": 21,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11791157": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Calas Typhon",
 				"prespp": 29,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "I"
 			},
 			"11814852": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Pantheon Bane",
 				"prespp": 53,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11956674": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Abd Allah Bousaid",
 				"prespp": 2,
-				"rus": 13,
+				"rush": 13,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12051832": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Amon",
 				"prespp": 7,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12159733": {
 				"name": "Gert Stein",
 				"prespp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1051136",
-	"team_performance": {
+	"team": {
 		"854507": {
+			"blocks": 28,
 			"cas": 0,
-			"casdiff": -6,
+			"casdiff": -5,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Coven of the Mirrored Hall",
+			"pass": 1,
+			"prespp": 264,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 127
 		},
 		"871787": {
-			"cas": 6,
-			"casdiff": 6,
+			"blocks": 39,
+			"cas": 5,
+			"casdiff": 5,
+			"comp": 0,
+			"fouls": 9,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malignant Curators",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 304,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 36,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 156
 		}
 	}
 }

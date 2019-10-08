@@ -1,216 +1,233 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3967983",
-	"player_performance": {
+	"player": {
 		"897291": {
 			"12120800": {
-				"blk": 5,
+				"blocks": 5,
 				"dead": [
 					2,
 					2,
 					"crowdPushed",
-					"12163493"
+					null
 				],
 				"name": "Durisoul Hammerheart",
 				"prespp": 7,
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"12120803": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Derhaeth Trolldigger",
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120807": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Darernomli Ironcloak",
 				"prespp": 7,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120809": {
-				"blk": 5,
-				"cps": 1,
+				"blocks": 5,
+				"comp": 1,
 				"name": "Khumnael Grumblefeet",
 				"prespp": 10,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120811": {
 				"name": "Jassor Chaosbraid",
 				"prespp": 10,
-				"rus": 12,
-				"tur": 3,
+				"rush": 12,
+				"turns": 3,
 				"type": "R"
 			},
 			"12120812": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Figrael Largefall",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120814": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Gardam Battlefinger",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120815": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Thadmaen Shadowbreaker",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12120816": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Forfael Coalsword",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120821": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Brougratum Boneforged",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12120822": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Oritmeg Chaosblade",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"897376": {
 			"12122271": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Black Canopy",
-				"retired": true,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12122272": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 2,
 				"name": "Dark Shade",
 				"prespp": 5,
-				"rus": 19,
+				"rush": 19,
 				"spp": 7,
-				"tds": 1,
-				"tur": 18,
+				"td": 1,
+				"turns": 18,
 				"type": "R"
 			},
 			"12122273": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Deep Root",
 				"prespp": 6,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12122274": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Long Branch",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12122275": {
-				"cps": 1,
+				"comp": 1,
 				"name": "River Whip",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 6,
-				"rus": 15,
+				"rush": 15,
 				"spp": 4,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12122276": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "White Leaf",
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 18,
+				"td": 1,
+				"turns": 18,
 				"type": "R"
 			},
 			"12122279": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Moss",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12122280": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lichen",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12122281": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Burl",
 				"prespp": 11,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12122282": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mushroom",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12122284": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vine",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12163493": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Swift Switch",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1043588",
-	"team_performance": {
+	"team": {
 		"897291": {
+			"blocks": 64,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Edge of the World Climbers",
+			"pass": 0,
+			"prespp": 44,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 13,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 150
 		},
 		"897376": {
+			"blocks": 54,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Darkenwood Sentinels",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 30,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 42,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 178
 		}
 	}
 }

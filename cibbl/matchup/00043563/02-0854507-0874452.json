@@ -1,146 +1,142 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3926103",
-	"player_performance": {
+	"player": {
 		"854507": {
 			"11439080": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vol'arth the Brazen",
 				"prespp": 41,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11439088": {
 				"name": "Yibb-Tstll",
 				"prespp": 34,
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439090": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Do Galaad, the Herald",
 				"prespp": 48,
 				"spp": 4,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11582112": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Horok",
 				"prespp": 17,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11681756": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Neron",
 				"prespp": 18,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11766988": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Malphas, the Harbinger",
 				"prespp": 17,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11807607": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Palehawk, the Revenant",
 				"prespp": 6,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11851618": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Marius, the Forgiven",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11920784": {
 				"name": "Sylvester Truewing",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "J"
 			},
 			"11920785": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Jack Fastlightning",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			},
 			"11920786": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Howard Fastwing",
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			}
 		},
 		"874452": {
 			"11756582": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Draco Dracovich",
 				"prespp": 46,
-				"rus": 5,
+				"rush": 5,
 				"spp": 7,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11756629": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Igor Igorivich",
 				"prespp": 31,
-				"rus": 14,
+				"rush": 14,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11756687": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Karl",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11756689": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Franz",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11756708": {
 				"name": "Sigwald",
 				"prespp": 3,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11756720": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gustav von Darkwald",
 				"prespp": 18,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11756722": {
 				"name": "Otto",
 				"prespp": 3,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11756723": {
@@ -149,74 +145,92 @@
 				"type": "R"
 			},
 			"11756725": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rupert",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11869690": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vlad Vladovich",
 				"prespp": 14,
-				"rus": 24,
+				"rush": 24,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"11875043": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Mathilde",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11875044": {
 				"name": "Laura",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11903019": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dietrich",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
-			"874452S1": {
-				"blk": 5,
+			"STAR-7537": {
+				"blocks": 5,
 				"name": "Crazy Igor",
-				"tur": 17,
+				"turns": 17,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "995271",
-	"team_performance": {
+	"team": {
 		"854507": {
+			"blocks": 36,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Coven of the Mirrored Hall",
+			"pass": 0,
+			"prespp": 183,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 28,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 132
 		},
 		"874452": {
+			"blocks": 38,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 124,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 43,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 174
 		}
 	}
 }

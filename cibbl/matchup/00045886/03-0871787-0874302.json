@@ -1,88 +1,87 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4032469",
-	"player_performance": {
+	"player": {
 		"871787": {
 			"11709008": {
 				"name": "Emyys Doceon",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 3,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11709010": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Dando Enda",
 				"prespp": 16,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11709011": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Raus Juit",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 127,
-				"rus": 8,
+				"rush": 8,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709013": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Kael Desini",
 				"prespp": 29,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709018": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Font Eiridan",
 				"prespp": 55,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11747061": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gutterfingers",
 				"prespp": 37,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11814852": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 2,
 				"name": "Pantheon Bane",
 				"prespp": 84,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11956674": {
 				"name": "Abd Allah Bousaid",
 				"prespp": 22,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "I"
 			},
 			"12051832": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Amon",
 				"prespp": 31,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12159733": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Gert Stein",
 				"prespp": 6,
 				"type": "R"
@@ -92,15 +91,15 @@
 				"type": "R"
 			},
 			"12423015": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Harkon Halvarson",
 				"prespp": 14,
-				"tur": 16,
+				"turns": 16,
 				"type": "I"
 			},
 			"12467315": {
 				"name": "Garalash",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12484122": {
@@ -112,135 +111,153 @@
 			"11754146": {
 				"name": "Spilamberto",
 				"prespp": 89,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11783522": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Modena",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 65,
-				"rus": 17,
+				"rush": 17,
 				"spp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11967732": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Formigine III",
 				"prespp": 30,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12062178": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Castelfranco Emilia II",
 				"prespp": 31,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12143724": {
 				"name": "Prignano sulla Secchia IV",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12171654": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Castelnuovo Rangone II",
 				"prespp": 55,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12223648": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Savignano sul Panaro III",
 				"prespp": 10,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12255081": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sassuolo II",
 				"prespp": 9,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12374516": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Marano sul Panaro V",
 				"prespp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12374520": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Maranello III",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12402224": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Castelvetro III",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12496458": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "San Cesario sul Panaro IV",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12514876": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Fiorano VII",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12514881": {
-				"cps": 1,
-				"fou": 1,
+				"comp": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Vignola II",
-				"pas": 2,
-				"rus": 7,
+				"pass": 2,
+				"rush": 7,
 				"spp": 6,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1118789",
-	"team_performance": {
+	"team": {
 		"871787": {
+			"blocks": 37,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malignant Curators",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 424,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 165
 		},
 		"874302": {
+			"blocks": 28,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 2,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grasparossa B.B.C",
+			"pass": 8,
+			"prespp": 316,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 31,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 151
 		}
 	}
 }

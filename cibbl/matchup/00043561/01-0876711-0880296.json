@@ -1,46 +1,45 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3928599",
-	"player_performance": {
+	"player": {
 		"876711": {
 			"11790126": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Oake",
 				"prespp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11790127": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Nettala",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11790128": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Geranara",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11790129": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hellobora",
 				"prespp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11790130": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Decumaria",
 				"prespp": 8,
-				"rus": 30,
+				"rush": 30,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11790131": {
@@ -49,21 +48,21 @@
 				"type": "R"
 			},
 			"11790133": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Mahoganaea",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11790136": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Anisatum",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11790137": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					3,
@@ -71,135 +70,152 @@
 					"11848677"
 				],
 				"name": "Kalise",
-				"tur": 11,
+				"retired": true,
+				"turns": 11,
 				"type": "R"
 			},
 			"11790138": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Telodice",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11790140": {
 				"name": "Ensata",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11942310": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Tristan Coldbrook",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"880296": {
 			"11848677": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Pa-kamsi the Merciless",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848678": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Salih the Griefer",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848679": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Djoser the Festerer",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848680": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Taf-nekht the Shambler",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11848681": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Set-en-et the Goader",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848682": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Ra-tmeto the Biter",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848683": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Khsathsovairyo the Butcher",
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848685": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Nakht-ankh",
 				"type": "R"
 			},
 			"11848686": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ra-nefer-ab",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848689": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Utet",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11857540": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Robert Clumsystone",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "998192",
-	"team_performance": {
+	"team": {
 		"876711": {
+			"blocks": 50,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cythral Old Oaks",
+			"pass": 0,
+			"prespp": 27,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 30,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 157
 		},
 		"880296": {
+			"blocks": 52,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lamentations of Mahrak",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 33,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 19,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 151
 		}
 	}
 }

@@ -1,98 +1,94 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3979358",
-	"player_performance": {
+	"player": {
 		"855228": {
 			"11448253": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Kacy Cataranzo",
 				"prespp": 12,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11801400": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Lei Zhang",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11886203": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Josh Levin",
 				"prespp": 19,
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"12015155": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Asher Manbeck",
 				"prespp": 25,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12037464": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Anika Spike",
 				"prespp": 29,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12058309": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Aidan Champion",
 				"prespp": 15,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12158296": {
 				"name": "Carson Wentz",
 				"prespp": 25,
-				"rus": 25,
+				"rush": 25,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12217390": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Chris Long",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12217391": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Trey Clumsysnake",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
 			"12217392": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Evander Hideoussnake",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
 			"12217393": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ulric Blueeagle",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			},
-			"855228S1": {
-				"blk": 6,
+			"STAR-7660": {
+				"blocks": 6,
 				"cas": 1,
 				"name": "Borg'th N'throg",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		},
@@ -103,133 +99,151 @@
 				"type": "R"
 			},
 			"11754142": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sassuolo",
 				"prespp": 11,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11754144": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vignola",
 				"prespp": 20,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11754146": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Spilamberto",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 61,
-				"rus": 14,
+				"rush": 14,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11783522": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Modena",
-				"pas": 5,
+				"pass": 5,
 				"prespp": 47,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11895172": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"name": "Castelvetro II",
 				"prespp": 39,
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11967732": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Formigine III",
 				"prespp": 16,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12062178": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Castelfranco Emilia II",
 				"prespp": 22,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12075700": {
 				"name": "Marano sul Panaro II",
 				"prespp": 9,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12138874": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "San Cesario sul Panaro II",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12143724": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Prignano sulla Secchia IV",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12171654": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Castelnuovo Rangone II",
 				"prespp": 7,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12197869": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Fiorano III",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12223648": {
 				"name": "Savignano sul Panaro III",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1056698",
-	"team_performance": {
+	"team": {
 		"855228": {
-			"cas": 2,
-			"casdiff": 0,
+			"blocks": 40,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ninja Warriors",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 143,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 32,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 150
 		},
 		"874302": {
+			"blocks": 34,
 			"cas": 2,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grasparossa B.B.C",
+			"pass": 4,
+			"prespp": 243,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 24,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 164
 		}
 	}
 }

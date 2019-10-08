@@ -1,38 +1,37 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4041968",
-	"player_performance": {
+	"player": {
 		"924998": {
 			"12554695": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Jhïef",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12554696": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Môekh ‘Mayhem’",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12554697": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Ekhlûd ‘The Spike’",
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12554698": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Zarrkh",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12554700": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					5,
@@ -40,174 +39,192 @@
 					"12564799"
 				],
 				"name": "Tarnakh",
-				"tur": 11,
+				"retired": true,
+				"turns": 11,
 				"type": "R"
 			},
 			"12554703": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Mikhlô",
-				"pas": 1,
-				"rus": 20,
+				"pass": 1,
+				"rush": 20,
 				"spp": 4,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12554704": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Snôzkh",
 				"type": "R"
 			},
 			"12554706": {
-				"blk": 2,
-				"fou": 3,
+				"blocks": 2,
+				"fouls": 3,
 				"name": "Mukhrët",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12554707": {
 				"name": "Gâthr",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12554718": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kholin",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12554722": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gitrikh",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12554725": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Harâ",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12554727": {
 				"name": "Grerdrim",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
-			"924998M1": {
-				"blk": 1,
-				"fou": 1,
+			"MERC-7489-0845": {
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Merc Dirty Git 1",
-				"tur": 6,
+				"turns": 6,
 				"type": "M"
 			}
 		},
 		"925668": {
 			"12564799": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 2,
 				"name": "Frenzy Mckenzie",
 				"prespp": 2,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12564801": {
 				"name": "Scott Rantalot",
-				"rus": 40,
+				"rush": 40,
 				"spp": 6,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"12564802": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Angry Langley",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12564804": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Azad Is'mad",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12564806": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Mercurios Iz'Furious",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12564817": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Hagen Outragen",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12564824": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gable Irritable",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12564826": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Brant Petulant",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12564832": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lex Gurion Vexation",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12564834": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Dan Truman Haza Tantrum",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12564839": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Gaile Iz'Hostile",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1129965",
-	"team_performance": {
+	"team": {
 		"924998": {
+			"blocks": 29,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 1,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Khalibân Shivters",
+			"pass": 1,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 20,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 120
 		},
 		"925668": {
+			"blocks": 52,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Anger Management",
+			"pass": 0,
+			"prespp": 13,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 40,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 165
 		}
 	}
 }

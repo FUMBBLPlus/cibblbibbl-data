@@ -1,125 +1,124 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3970910",
-	"player_performance": {
+	"player": {
 		"895015": {
 			"12083002": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Shanka",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083010": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Thrano",
 				"prespp": 6,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083011": {
 				"name": "Urano",
 				"prespp": 3,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12083013": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Pluro",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083015": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Mared",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 16,
-				"rus": 15,
+				"rush": 15,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083017": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Japuto",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083372": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Roundril",
 				"prespp": 17,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12083373": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Edfrei",
 				"prespp": 19,
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12083374": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Bakeon",
 				"prespp": 26,
-				"rus": 13,
+				"rush": 13,
 				"spp": 6,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158697": {
 				"name": "Stelra",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12158704": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Carcosa",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			}
 		},
 		"895929": {
 			"12098256": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Windfury",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098257": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Clawchest",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098258": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Silverscar",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Silverstriker",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098289": {
@@ -130,10 +129,10 @@
 				"type": "R"
 			},
 			"12098290": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Heartchewer",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12098294": {
@@ -142,66 +141,84 @@
 				"type": "R"
 			},
 			"12098296": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Cragclaw",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098297": {
 				"name": "Duskdigger",
 				"prespp": 7,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12136367": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fangsnapper Jr",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12166472": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Fangsnapper Jr Jr",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12184769": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Barbedbreath",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1046929",
-	"team_performance": {
+	"team": {
 		"895015": {
+			"blocks": 27,
 			"cas": 2,
-			"casdiff": 0,
+			"casdiff": 2,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Springbok Sprites",
-			"prestige": 3,
+			"pass": 4,
+			"prespp": 107,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 43,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 145
 		},
 		"895929": {
-			"cas": 2,
-			"casdiff": 0,
+			"blocks": 35,
+			"cas": 0,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
+			"pass": 0,
+			"prespp": 71,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 131
 		}
 	}
 }

@@ -1,27 +1,26 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3900154",
-	"player_performance": {
+	"player": {
 		"874508": {
 			"11757796": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Gumn",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11757800": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tikkid Facegouger",
 				"prespp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11757804": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Quisa Bloodgusher",
 				"prespp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11757805": {
@@ -34,84 +33,83 @@
 				"type": "R"
 			},
 			"11757810": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Soko Clawsplit",
-				"pas": 1,
+				"pass": 1,
 				"spp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11757811": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Skots",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11757813": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Zotpa",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11757814": {
 				"name": "Scimk",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11757815": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Trakso",
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"11757822": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Plungkem",
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"11771724": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Alexander Quicktree",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"11771725": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Yorick Strongtree",
-				"pas": 2,
-				"rus": 2,
+				"pass": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			}
 		},
 		"874985": {
 			"11765180": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Deathcap",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11765181": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Chef Snikz & Pickles",
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11765182": {
@@ -119,41 +117,41 @@
 				"type": "R"
 			},
 			"11765185": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chuckzllz",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11765186": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lucky Nikk",
 				"prespp": 2,
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"11765187": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Funjus Majors",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11765188": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Lietententic Herb",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11765189": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Fertzerler",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11765190": {
@@ -161,63 +159,81 @@
 				"type": "R"
 			},
 			"11765191": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chunky Bobb",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11765199": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Loopy",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11765200": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Minqyk",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11765204": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Ge'roff",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11769209": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Snacks",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "965314",
-	"team_performance": {
+	"team": {
 		"874508": {
+			"blocks": 37,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Greyback Outkasts",
-			"prestige": 1,
+			"pass": 3,
+			"prespp": 9,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 14,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 124
 		},
 		"874985": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 42,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Red Crag Redcaps",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 14,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 142
 		}
 	}
 }

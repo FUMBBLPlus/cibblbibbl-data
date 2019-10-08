@@ -1,53 +1,52 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3891593",
-	"player_performance": {
+	"player": {
 		"870410": {
 			"11686464": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zizou Zannanza",
 				"prespp": 3,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11686465": {
 				"int": 1,
 				"name": "King Pepi",
 				"prespp": 3,
-				"rus": 15,
+				"rush": 15,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11686466": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"name": "Wazza Rudamun",
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11686468": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Ruud Devil Neserkauhor",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11686470": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "De Zulk Analmaye",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11686471": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Zapah Manio Bebiankh",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11686472": {
@@ -55,95 +54,95 @@
 				"type": "R"
 			},
 			"11686475": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Guard of the Devils",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11686476": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Guard of the Arsenal",
 				"prespp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11686477": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Guard of the Reds",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11686481": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Protector of the Toffees",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11705502": {
-				"blk": 3,
-				"fou": 2,
+				"blocks": 3,
+				"fouls": 2,
 				"name": "Lirah Meni",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11714360": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Eratosthenes",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		},
 		"870773": {
 			"11692623": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Cor'Malatril Cyredeplith",
 				"prespp": 1,
-				"rus": 8,
-				"tur": 10,
+				"rush": 8,
+				"turns": 10,
 				"type": "R"
 			},
 			"11692625": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fera'Malatril Dryear'eplith",
 				"prespp": 16,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11692909": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Elavar Hal'us",
 				"prespp": 1,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11692952": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Spar'Py Sanith",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11692955": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Re Fel",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11692961": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Aerenerl Kennyrmitore Arabirretyn",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11692964": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Baelahel Hlaemitore",
 				"prespp": 3,
-				"rus": 1,
-				"tur": 15,
+				"rush": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11692971": {
@@ -151,54 +150,69 @@
 				"name": "Ferati Afrailoth Valsa'Cyredtylar",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11708398": {
 				"name": "William Coldstone",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
 			"11708399": {
 				"name": "Tristan Darkbrook",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"11708400": {
 				"name": "Nicholas Silentrock",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "955421",
-	"team_performance": {
+	"team": {
 		"870410": {
+			"blocks": 43,
 			"cas": 2,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 5,
+			"int": 1,
+			"mvp": 1,
 			"name": "Settra's Goats",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 16,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 32,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 162
 		},
 		"870773": {
+			"blocks": 13,
 			"cas": 0,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Coeth-Mara Warhawks",
+			"pass": 0,
+			"prespp": 22,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 125
 		}
 	}
 }

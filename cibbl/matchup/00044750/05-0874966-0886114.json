@@ -1,23 +1,21 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3984926",
-	"player_performance": {
+	"player": {
 		"874966": {
 			"11764899": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Benethor",
 				"prespp": 24,
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11764901": {
 				"name": "Danesthos",
 				"prespp": 6,
-				"retired": true,
 				"type": "R"
 			},
 			"11764915": {
@@ -26,213 +24,229 @@
 				"type": "R"
 			},
 			"11764917": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Thuralin",
 				"prespp": 16,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11764919": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lemsas",
 				"prespp": 16,
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"11764921": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Morlanna",
 				"prespp": 54,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11836559": {
-				"blk": 14,
+				"blocks": 14,
 				"name": "Vanhir",
 				"prespp": 78,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938500": {
 				"name": "Mereia",
 				"prespp": 28,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11967724": {
 				"name": "Hauclir",
 				"prespp": 18,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12052561": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mereia",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12072196": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Jokleel",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122141": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Maglor",
-				"rus": 5,
-				"tur": 15,
+				"rush": 5,
+				"turns": 15,
 				"type": "R"
 			},
 			"12231028": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nimrodel",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12256454": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Darthyr Birchfire",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			}
 		},
 		"886114": {
 			"11939696": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 3,
 				"name": "Erato",
 				"prespp": 42,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939705": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Lydia",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 41,
-				"rus": -4,
+				"rush": -4,
 				"spp": 1,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11939712": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Arya",
 				"prespp": 19,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11939715": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Aadhýa",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 15,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11956884": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Elpida",
 				"prespp": 53,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12030024": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Shinesa",
 				"prespp": 59,
-				"rus": 9,
+				"rush": 9,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12051225": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Silvestra Darklightning",
 				"prespp": 18,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12075526": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Apolla",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12131987": {
-				"blk": 4,
-				"cps": 3,
+				"blocks": 4,
+				"comp": 3,
 				"name": "Puridriel",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 24,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12215710": {
 				"name": "Hellina",
-				"retired": true,
 				"type": "R"
 			},
 			"12238327": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Ithline",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254923": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Kaethia",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1063074",
-	"team_performance": {
+	"team": {
 		"874966": {
+			"blocks": 42,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
+			"pass": 0,
+			"prespp": 281,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 12,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 160
 		},
 		"886114": {
+			"blocks": 53,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 5,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eye and Arrow",
-			"prestige": 3,
+			"pass": 4,
+			"prespp": 271,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 164
 		}
 	}
 }

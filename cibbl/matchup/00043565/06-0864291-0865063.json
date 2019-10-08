@@ -1,39 +1,38 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3937119",
-	"player_performance": {
+	"player": {
 		"864291": {
 			"11590768": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "S. Sang",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 31,
-				"rus": 5,
+				"rush": 5,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11590769": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "U. Gress",
 				"prespp": 14,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11590771": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Redivor",
 				"prespp": 13,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11590772": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Redimor",
 				"prespp": 13,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11590773": {
@@ -42,134 +41,133 @@
 				"type": "R"
 			},
 			"11590777": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Limortor",
 				"prespp": 16,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11590780": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Affuquator",
 				"prespp": 11,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11590781": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dichitemor",
 				"prespp": 14,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11681513": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "L.A. Biond",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11708391": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Eraclio",
 				"prespp": 16,
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11737428": {
-				"blk": 6,
-				"cps": 1,
+				"blocks": 6,
+				"comp": 1,
 				"name": "L.A. Gnora",
 				"prespp": 12,
-				"rus": 11,
+				"rush": 11,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11853366": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Stukitemor",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		},
 		"865063": {
 			"11603005": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Ouszz",
 				"prespp": 37,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11603008": {
 				"name": "Riptorr",
 				"prespp": 13,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11603012": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Timrr",
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11603016": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Esqds",
 				"prespp": 16,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11603017": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nert",
 				"prespp": 23,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11670597": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Trey Truestone",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11747200": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Pipa Swer",
 				"prespp": 39,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11864164": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Argorzzz Zumbbzzee",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11883741": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Ungarr",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11941137": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Armagget",
 				"prespp": 11,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11941139": {
@@ -177,38 +175,56 @@
 				"type": "R"
 			},
 			"11971397": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vincent Weaklightning",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1008211",
-	"team_performance": {
+	"team": {
 		"864291": {
+			"blocks": 60,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Norscan Curse",
+			"pass": -1,
+			"prespp": 168,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 176
 		},
 		"865063": {
+			"blocks": 37,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Oyxl Great Pyramid Heroes",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 162,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 18,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 143
 		}
 	}
 }

@@ -1,14 +1,13 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3992836",
-	"player_performance": {
+	"player": {
 		"900800": {
 			"12173741": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Rath Koulm",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173742": {
@@ -16,47 +15,47 @@
 				"type": "R"
 			},
 			"12173743": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Piul Erff",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173744": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Ghisel Yurgen",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173768": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Leroy Stronghaw",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 4,
-				"rus": 4,
+				"rush": 4,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173769": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Ian Silentor",
 				"prespp": 11,
-				"rus": 5,
+				"rush": 5,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12173770": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Albert Goldfi",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173774": {
@@ -66,72 +65,69 @@
 			},
 			"12173775": {
 				"name": "Sylvester Deepfy",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12304787": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Julius Vileeagle",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12304788": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Brian Deepfist",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
 			"12304789": {
 				"name": "Aaron Fastsnake",
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "J"
 			},
 			"12304790": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Martin Grottysnake",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"903276": {
 			"12212942": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Viktor Ignašov",
 				"prespp": 9,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12212944": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Nikolai Ignašov",
 				"prespp": 6,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12212946": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Igor",
 				"prespp": 8,
-				"rus": 6,
+				"rush": 6,
 				"spp": 8,
-				"tds": 1,
-				"tur": 18,
+				"td": 1,
+				"turns": 18,
 				"type": "R"
 			},
 			"12212958": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Yaroslaw the Mighy",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 18,
+				"turns": 18,
 				"type": "B"
 			},
 			"12212959": {
@@ -140,86 +136,103 @@
 				"type": "B"
 			},
 			"12212960": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vladislav",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12212961": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Pablik",
 				"prespp": 6,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12212965": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Jurishlav",
 				"prespp": 8,
-				"rus": 7,
-				"tur": 18,
+				"rush": 7,
+				"turns": 18,
 				"type": "R"
 			},
 			"12212966": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Boris",
 				"prespp": 2,
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 18,
+				"td": 1,
+				"turns": 18,
 				"type": "R"
 			},
 			"12212967": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Svyatopolk",
 				"prespp": 10,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12212970": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"fou": 2,
+				"fouls": 2,
 				"name": "Vladimir",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12291948": {
 				"name": "Howard Strongstone",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1073493",
-	"team_performance": {
+	"team": {
 		"900800": {
+			"blocks": 46,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Haunted Forest Sons of Chaos",
+			"pass": 1,
+			"prespp": 44,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 139
 		},
 		"903276": {
+			"blocks": 43,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Kislev Last Hope",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 60,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 24,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 160
 		}
 	}
 }

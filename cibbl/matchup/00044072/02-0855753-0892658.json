@@ -1,41 +1,40 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3949486",
-	"player_performance": {
+	"player": {
 		"855753": {
 			"11455994": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Saqr bin Zayed Al Nahyan",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 108,
-				"rus": 32,
+				"rush": 32,
 				"spp": 15,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"11455997": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tamid Boulos",
 				"prespp": 60,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11455999": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Harith Ajam",
 				"prespp": 45,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11456000": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Hayder Ali",
 				"prespp": 17,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11456001": {
@@ -44,21 +43,21 @@
 				"type": "R"
 			},
 			"11456002": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Yasser Zaahir Abdullah",
 				"prespp": 12,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11456009": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Gamil Karim",
 				"prespp": 11,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11761776": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					3,
@@ -66,7 +65,8 @@
 					"12044229"
 				],
 				"name": "Safi al-Din",
-				"tur": 4,
+				"retired": true,
+				"turns": 4,
 				"type": "R"
 			},
 			"11777924": {
@@ -74,167 +74,186 @@
 				"type": "R"
 			},
 			"11888461": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hashishin",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11944881": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Abdul Mobot",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11973220": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Brian Cleartree",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 2,
-				"rus": 14,
+				"rush": 14,
 				"spp": 5,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12036826": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					1,
 					6,
 					"fouled",
-					"892658S1"
+					"STAR-7548"
 				],
 				"name": "Fedoud Mustafa",
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			}
 		},
 		"892658": {
 			"12044225": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Krip-tichox The Undying",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12044227": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Qruxchihcoar",
 				"prespp": 9,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12044228": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Coch-noalten",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12044229": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Helxo",
 				"prespp": 16,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12044230": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Faint Body",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12044231": {
 				"name": "Dawnhag",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12044232": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Grimepest",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12044233": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "The Thin Presence",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12044234": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Ugly Miscreation",
 				"type": "R"
 			},
 			"12044235": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Tall Howler",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12044236": {
 				"name": "The Disfigured Wailer",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12062980": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Kotal-Kiz",
-				"rus": 5,
+				"rush": 5,
 				"spp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
-			"892658S1": {
-				"blk": 1,
-				"fou": 1,
+			"STAR-7548": {
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Hack Enslash",
-				"tur": 5,
+				"turns": 5,
 				"type": "S"
 			},
-			"892658S2": {
-				"blk": 7,
+			"STAR-7576": {
+				"blocks": 7,
 				"name": "Setekh",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1022545",
-	"team_performance": {
+	"team": {
 		"855753": {
+			"blocks": 55,
 			"cas": 3,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Nejaz Djinn",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 297,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 46,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 132
 		},
 		"892658": {
-			"cas": 4,
-			"casdiff": 1,
+			"blocks": 40,
+			"cas": 3,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tomb Guardians of the Tower",
+			"pass": 0,
+			"prespp": 38,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 5,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 153
 		}
 	}
 }

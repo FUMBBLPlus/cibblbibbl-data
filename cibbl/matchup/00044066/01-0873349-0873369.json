@@ -1,99 +1,98 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3946775",
-	"player_performance": {
+	"player": {
 		"873349": {
 			"11737076": {
-				"blk": 2,
-				"cps": 2,
+				"blocks": 2,
+				"comp": 2,
 				"name": "Harbert Kallath",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 37,
-				"rus": 7,
+				"rush": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737077": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Arnold \"waists-breaker\" Thacocroth",
 				"prespp": 54,
-				"rus": 4,
+				"rush": 4,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737078": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Sigmund \"silent\" Thacocroth",
 				"prespp": 40,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737079": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Landolf \"pickpocketer\" Thacocroth",
 				"prespp": 54,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737080": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Hademar \"cradle robber\" Thacocroth",
 				"prespp": 41,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737081": {
 				"name": "Aimar Kallath",
 				"prespp": 41,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11737085": {
 				"name": "Falko Licht",
 				"prespp": 11,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11737086": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ilya Storm",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11746799": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Adri Kallath",
 				"prespp": 38,
-				"rus": 31,
+				"rush": 31,
 				"spp": 9,
-				"tds": 3,
-				"tur": 16,
+				"td": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"11835133": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Adolf Freshbreeze",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11948498": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rico kallath",
 				"prespp": 1,
-				"rus": 8,
-				"tur": 4,
+				"rush": 8,
+				"turns": 4,
 				"type": "R"
 			},
 			"12029735": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					7,
@@ -101,12 +100,13 @@
 					"11737443"
 				],
 				"name": "Cam Campbell",
-				"tur": 11,
+				"retired": true,
+				"turns": 11,
 				"type": "R"
 			},
 			"12039700": {
 				"name": "Karl Klassen",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		},
@@ -114,14 +114,14 @@
 			"11737365": {
 				"name": "Trikhuf",
 				"prespp": 19,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11737432": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Fulmayne Thrice-Crowned",
 				"prespp": 37,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737433": {
@@ -130,96 +130,112 @@
 				"type": "R"
 			},
 			"11737434": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Stoneflagon Rhuheigh",
 				"prespp": 35,
-				"rus": 10,
-				"tur": 14,
+				"rush": 10,
+				"turns": 14,
 				"type": "R"
 			},
 			"11737443": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Yronleg the Barrelbeast",
 				"prespp": 24,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11765170": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Brewmaster Huhroarr",
 				"prespp": 25,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11859881": {
 				"name": "Heighar",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11859894": {
 				"name": "Wytehide",
 				"prespp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11902855": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "R'hoghn Hollowhorn",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11992892": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Gild-eye Ghorush",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12031271": {
 				"name": "Fredrick Dirtystream",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			},
 			"12031272": {
 				"name": "Yorick Hideousstream",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1019393",
-	"team_performance": {
+	"team": {
 		"873349": {
+			"blocks": 38,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Reik River Kicking Mules",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 317,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 50,
 			"score": 4,
 			"scorediff": 4,
-			"tds": 4,
-			"tdsdiff": 4
+			"td": 4,
+			"tddiff": 4,
+			"turns": 158
 		},
 		"873369": {
+			"blocks": 42,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Schattenwald Drinking Horns",
+			"pass": 0,
+			"prespp": 185,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 10,
 			"score": 0,
 			"scorediff": -4,
-			"tds": 0,
-			"tdsdiff": -4
+			"td": 0,
+			"tddiff": -4,
+			"turns": 120
 		}
 	}
 }

@@ -1,139 +1,133 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3979698",
-	"player_performance": {
+	"player": {
 		"879790": {
 			"11839349": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Arstur An'gom",
 				"prespp": 27,
-				"rus": 10,
+				"rush": 10,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839798": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 2,
 				"name": "Ba'el, The Naked Slayer",
 				"prespp": 47,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11865383": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 4,
 				"name": "Abraxis, Tooth of Death",
 				"prespp": 34,
 				"spp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11959755": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Malphas, The Bloody Blade",
 				"prespp": 35,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12158454": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Tusk Anon, The Horned One",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12223042": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Ezrath Nemelas",
-				"rus": 23,
+				"rush": 23,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12229926": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Alexander Grottyorc",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			},
 			"12229927": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Robert Coldwing",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			},
 			"12229928": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Martin Grottyeagle",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"12229929": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zachary Weakeagle",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			},
 			"12229930": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sylvester Dirtyfire",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"889245": {
 			"11990252": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Moving Shadows",
 				"prespp": 49,
-				"rus": 30,
+				"rush": 30,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11990253": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lurking Beneath",
 				"prespp": 20,
-				"tur": 10,
+				"turns": 10,
 				"type": "B"
 			},
 			"11990254": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sneaking Carpet",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990255": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Growling Brook",
 				"prespp": 17,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11990257": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Fuming Badger",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990260": {
@@ -142,85 +136,102 @@
 			},
 			"11990261": {
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Snorting Fox",
 				"prespp": 9,
-				"rus": 9,
+				"rush": 9,
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12034801": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Snickering Sausage",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12065206": {
 				"name": "Crazy Flea",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12105176": {
 				"name": "Furious Fish",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12124639": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Knee pains",
 				"prespp": 18,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12187531": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Cornelius Frog",
 				"prespp": 2,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12199879": {
 				"name": "Petty Possum",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12219714": {
 				"name": "Gordon Gekko",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1057070",
-	"team_performance": {
+	"team": {
 		"879790": {
+			"blocks": 45,
 			"cas": 9,
 			"casdiff": 7,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Unfettered Fury",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 152,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 33,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 152
 		},
 		"889245": {
+			"blocks": 19,
 			"cas": 2,
 			"casdiff": -7,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Shroomwood Attercops",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 154,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 39,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 122
 		}
 	}
 }

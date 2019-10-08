@@ -1,95 +1,94 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4071675",
-	"player_performance": {
+	"player": {
 		"903654": {
 			"12219673": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Ahmose",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 89,
-				"rus": 28,
+				"rush": 28,
 				"spp": 4,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12219676": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Senenmut",
 				"prespp": 59,
 				"spp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12219678": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Merenre",
 				"prespp": 49,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12219681": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Haremhab",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12219683": {
 				"name": "Intef",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12219684": {
 				"name": "Sihathor",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12227199": {
 				"name": "Kentetenka",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 82,
-				"rus": 37,
+				"rush": 37,
 				"spp": 9,
-				"tds": 3,
-				"tur": 16,
+				"td": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12318457": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Setka",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12319538": {
 				"name": "Re'hotpe",
 				"prespp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12367633": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Masaharta",
 				"prespp": 41,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12443530": {
 				"name": "Nofret",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12500720": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Bunefer",
 				"prespp": 20,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12537131": {
@@ -101,109 +100,109 @@
 				],
 				"name": "Aahotepre",
 				"prespp": 2,
-				"rus": 1,
-				"tur": 3,
+				"retired": null,
+				"rush": 1,
+				"turns": 3,
 				"type": "R"
 			},
 			"12603969": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tetisheri",
 				"prespp": 24,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"908529": {
 			"12295351": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hhash'chtoth",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 45,
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295353": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Bbadh'nurth",
 				"prespp": 51,
-				"rus": 1,
+				"rush": 1,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12295355": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vulpizh",
 				"prespp": 11,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12336337": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Shim'dre'lex'kazar",
 				"prespp": 17,
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "B"
 			},
 			"12372276": {
 				"name": "Zzak",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 20,
-				"rus": 5,
-				"tur": 9,
+				"rush": 5,
+				"turns": 9,
 				"type": "R"
 			},
 			"12372278": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tarh",
 				"prespp": 38,
-				"rus": 12,
+				"rush": 12,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12404744": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Hashi'gharoboth",
 				"prespp": 57,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12547205": {
 				"name": "Crazakh",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 13,
-				"rus": -2,
-				"tur": 16,
+				"rush": -2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12618205": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Blartho'Trogath",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 9,
-				"rus": 10,
-				"tur": 16,
+				"rush": 10,
+				"turns": 16,
 				"type": "R"
 			},
 			"12618231": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gashokh",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12618232": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Vanderburth",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12703010": {
@@ -220,41 +219,59 @@
 			},
 			"12709481": {
 				"name": "Ddoomsnazler",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
-			"908529M1": {
-				"fou": 1,
+			"MERC-7313-3151": {
+				"fouls": 1,
 				"name": "Merc Blue Horror 1",
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1163487",
-	"team_performance": {
+	"team": {
 		"903654": {
+			"blocks": 24,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Scions of Neferata",
-			"prestige": 3,
+			"pass": 4,
+			"prespp": 374,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 66,
 			"score": 4,
 			"scorediff": 2,
-			"tds": 4,
-			"tdsdiff": 2
+			"td": 4,
+			"tddiff": 2,
+			"turns": 158
 		},
 		"908529": {
+			"blocks": 36,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "ICBM Warpspawns",
+			"pass": 2,
+			"prespp": 285,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 31,
 			"score": 2,
 			"scorediff": -2,
-			"tds": 2,
-			"tdsdiff": -2
+			"td": 2,
+			"tddiff": -2,
+			"turns": 162
 		}
 	}
 }

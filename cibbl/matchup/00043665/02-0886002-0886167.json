@@ -1,64 +1,63 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3929306",
-	"player_performance": {
+	"player": {
 		"886002": {
 			"11938003": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Caphalor Darkstar",
-				"rus": 10,
+				"rush": 10,
 				"spp": 5,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938007": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Sinthoras Bloodflame",
 				"spp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938008": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Molostroi Demonheart",
 				"prespp": 10,
-				"rus": 13,
+				"rush": 13,
 				"spp": 6,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938010": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Malaguth Blackmoon",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 2,
-				"rus": 10,
-				"tur": 17,
+				"rush": 10,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938024": {
 				"name": "Lokhir Nightraider",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938030": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Nazuc Doomblade",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938039": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Cargavel Stormcrow",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938045": {
@@ -66,137 +65,154 @@
 				"type": "R"
 			},
 			"11938051": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Valyr Dragonrider",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 2,
-				"rus": 14,
-				"tur": 17,
+				"rush": 14,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938060": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Telok Beastslayer",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938068": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Moreth Ghosthunter",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11940750": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Yorick Dirtyhammer",
-				"retired": true,
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			}
 		},
 		"886167": {
 			"11940506": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mori Voidheart",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11940509": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fersi Fellbane",
 				"prespp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11940510": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Fekhavi Fireblade",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11940511": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Rageshadow",
-				"pas": 1,
-				"rus": 4,
+				"pass": 1,
+				"rush": 4,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11940512": {
 				"name": "Verbil Amberweb",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11940513": {
 				"name": "Rasith Duskchill",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11940514": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vaecho Firestarter",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11940515": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Marrah Webmaker",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11940516": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Darkvenom",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11940517": {
 				"name": "Novo Nightshade",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11940518": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Deathfury",
 				"prespp": 6,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "998980",
-	"team_performance": {
+	"team": {
 		"886002": {
+			"blocks": 33,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom Glade Demons",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 14,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 47,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 187
 		},
 		"886167": {
+			"blocks": 21,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Clar Karond Black Widows",
+			"pass": 1,
+			"prespp": 11,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 4,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 121
 		}
 	}
 }

@@ -1,31 +1,30 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4010018",
-	"player_performance": {
+	"player": {
 		"907600": {
 			"12281777": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Qunq Madripper",
 				"prespp": 6,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12281778": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Qhutch Pinefingers",
 				"prespp": 22,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12281780": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tritch Crowlasher",
 				"prespp": 13,
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12281782": {
@@ -34,35 +33,35 @@
 				"type": "R"
 			},
 			"12281783": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Khal Cravengrip",
 				"prespp": 11,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12281784": {
-				"blk": 9,
+				"blocks": 9,
 				"mvp": 1,
 				"name": "Big-large Xelk Prideborn",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12281786": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vutch Elfkicker",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12281788": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Skakch Silentstalker",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12323282": {
@@ -71,77 +70,74 @@
 				"type": "R"
 			},
 			"12349763": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Alexander Bluehawk",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"12349764": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Graham Paletree",
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "J"
 			},
 			"12349765": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "David Bluebone",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"12349766": {
 				"name": "David Deepspike",
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			}
 		},
 		"910344": {
 			"12323836": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Abel Sturm",
 				"prespp": 23,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12323837": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Draco Gore",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12323839": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Marquis Agulliar",
 				"prespp": 13,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12323842": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Melchior",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12323844": {
 				"name": "Doru",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12323845": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cassius",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12323846": {
@@ -150,77 +146,95 @@
 			},
 			"12323847": {
 				"name": "Lucien",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12325681": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grazabire Lust'igor",
 				"prespp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12339037": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Damien Jr.",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12350186": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Sever Cumfeorm",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12352367": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Cyprian Drake",
 				"prespp": 15,
-				"rus": 2,
+				"rush": 2,
 				"spp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12352368": {
 				"name": "Seskal",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12358967": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ascelin II",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1093319",
-	"team_performance": {
+	"team": {
 		"907600": {
+			"blocks": 41,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Deluge-Bearers",
+			"pass": 0,
+			"prespp": 77,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 22,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 143
 		},
 		"910344": {
+			"blocks": 28,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vlad's Vampheroes",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 75,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 136
 		}
 	}
 }

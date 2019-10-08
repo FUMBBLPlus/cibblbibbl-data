@@ -1,217 +1,234 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3909994",
-	"player_performance": {
+	"player": {
 		"873349": {
 			"11737076": {
 				"name": "Harbert Kallath",
 				"prespp": 10,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11737077": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Arnold \"waists-breaker\" Thacocroth",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 10,
-				"rus": 13,
+				"rush": 13,
 				"spp": 4,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11737078": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Sigmund \"silent\" Thacocroth",
 				"prespp": 15,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11737079": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Landolf \"pickpocketer\" Thacocroth",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737080": {
-				"blk": 6,
-				"cps": 1,
+				"blocks": 6,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Hademar \"cradle robber\" Thacocroth",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 16,
-				"rus": 3,
+				"rush": 3,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737081": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Aimar Kallath",
 				"prespp": 23,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11737083": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					6,
 					"blocked",
-					"874545M1"
+					"MERC-9822-0194"
 				],
-				"fou": 1,
+				"fouls": 1,
 				"name": "Clodomiro Brahms",
 				"prespp": 4,
-				"tur": 14,
+				"retired": true,
+				"turns": 14,
 				"type": "R"
 			},
 			"11737085": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Falko Licht",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737086": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ilya Storm",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11746799": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Adri Kallath",
 				"prespp": 3,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11794554": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Flunko Kaiserflunken",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"874545": {
 			"11758476": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Old Stone",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11758477": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Jared \"the Prince\"",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11758478": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Chron \"dear Brother\"",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11758481": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Uncle Thran",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11758486": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Hera \"Big Sister\"",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11758492": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Counselar Jherein",
 				"prespp": 2,
-				"rus": 13,
+				"rush": 13,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11758494": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fast Raol",
 				"prespp": 3,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11758496": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Speedy Gonza",
 				"prespp": 5,
-				"rus": 9,
-				"tur": 16,
+				"rush": 9,
+				"turns": 16,
 				"type": "R"
 			},
 			"11758505": {
 				"name": "Fanko",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11758507": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Kachem",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11811874": {
 				"name": "Richard Grottyfield",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			},
-			"874545M1": {
-				"blk": 7,
+			"MERC-9822-0194": {
+				"blocks": 7,
 				"cas": 2,
 				"name": "Merc Lineman 1",
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "976640",
-	"team_performance": {
+	"team": {
 		"873349": {
+			"blocks": 40,
 			"cas": 0,
 			"casdiff": -2,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Reik River Kicking Mules",
+			"pass": -2,
+			"prespp": 107,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 148
 		},
 		"874545": {
+			"blocks": 47,
 			"cas": 2,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Stone Prince's Men",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 31,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 173
 		}
 	}
 }

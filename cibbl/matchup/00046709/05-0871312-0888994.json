@@ -1,17 +1,16 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4072591",
-	"player_performance": {
+	"player": {
 		"871312": {
 			"11700284": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Count Igor",
 				"prespp": 99,
-				"rus": 9,
+				"rush": 9,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12066122": {
@@ -19,239 +18,257 @@
 				"type": "R"
 			},
 			"12219185": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Servant Markos",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12239687": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Baldomero Caudillo",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12261685": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Osiris",
 				"prespp": 55,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12294148": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Anubis II.",
 				"prespp": 37,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12348193": {
 				"name": "Servant Mirolsav",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12371479": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Count Ludovig III.",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 30,
-				"rus": 41,
+				"rush": 41,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12371480": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Servant Ondrej",
 				"prespp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12456867": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Servant Iwan II.",
 				"prespp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12465599": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Galdarin",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12611780": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Count Yaroslav II.",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 17,
-				"rus": 5,
+				"rush": 5,
 				"spp": 4,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12646986": {
 				"name": "Constantine",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12667609": {
 				"name": "Reine",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12726955": {
 				"mvp": 1,
 				"name": "Count Jurij II.",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"888994": {
 			"11985437": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Vargwursgelnd",
 				"prespp": 72,
 				"spp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"11985438": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 2,
 				"name": "Gwoftirbnewfg",
 				"prespp": 129,
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"11985441": {
 				"name": "Murchú Varken",
 				"prespp": 54,
-				"rus": 6,
-				"tur": 10,
+				"rush": 6,
+				"turns": 10,
 				"type": "R"
 			},
 			"12031804": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Báine Styrix",
 				"prespp": 140,
-				"rus": 28,
+				"rush": 28,
 				"spp": 6,
-				"tds": 2,
-				"tur": 13,
+				"td": 2,
+				"turns": 13,
 				"type": "R"
 			},
 			"12129508": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hanrahan Fearghail",
 				"prespp": 40,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12297183": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Olcán Cid",
 				"prespp": 20,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12341066": {
 				"name": "Baoth Foghladh",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12350238": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Fwirsvognal",
 				"prespp": 55,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12413857": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Dunfhlaith Fasner",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12529352": {
 				"name": "Domhnall Marney",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12585534": {
 				"name": "Caelan Ariannona",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12664451": {
 				"name": "Neasa Rydan",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12682050": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Sláine Fovor",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12682360": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Brunghfhal",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12726915": {
 				"name": "Daimhín Coobe",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12726916": {
 				"name": "Saorla Volux",
-				"rus": -1,
-				"tur": 12,
+				"rush": -1,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1164587",
-	"team_performance": {
+	"team": {
 		"871312": {
+			"blocks": 26,
 			"cas": 2,
-			"casdiff": -4,
+			"casdiff": -2,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tower of the Necromancer",
-			"prestige": 3,
+			"pass": 5,
+			"prespp": 260,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 55,
 			"score": 3,
 			"scorediff": 1,
-			"tds": 3,
-			"tdsdiff": 1
+			"td": 3,
+			"tddiff": 1,
+			"turns": 175
 		},
 		"888994": {
-			"cas": 6,
-			"casdiff": 4,
+			"blocks": 38,
+			"cas": 4,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Beerbog Behemoths",
+			"pass": 0,
+			"prespp": 519,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 33,
 			"score": 2,
 			"scorediff": -1,
-			"tds": 2,
-			"tdsdiff": -1
+			"td": 2,
+			"tddiff": -1,
+			"turns": 173
 		}
 	}
 }

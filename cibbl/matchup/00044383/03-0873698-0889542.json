@@ -1,94 +1,93 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3967163",
-	"player_performance": {
+	"player": {
 		"873698": {
 			"11743258": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "MIstress of Lust",
 				"prespp": 80,
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743260": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Kazgar Threelegs",
 				"prespp": 41,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11743263": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lecec Chickstalker",
 				"prespp": 36,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743266": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"name": "Thirvelnosh Nightbinder",
 				"prespp": 13,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743268": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Thovho Shadowseeker",
 				"prespp": 22,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11904392": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Misstress of Pain",
 				"prespp": 35,
-				"rus": 6,
+				"rush": 6,
 				"spp": 10,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11967644": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Mokzook Thicktail",
 				"prespp": 19,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12031704": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Mistress of Pleasure",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12060846": {
-				"blk": 6,
-				"cps": 2,
+				"blocks": 6,
+				"comp": 2,
 				"name": "Mistress of Agony",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12071744": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Throvo Publicer",
 				"prespp": 1,
-				"rus": 15,
+				"rush": 15,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12080488": {
@@ -97,9 +96,9 @@
 				"type": "R"
 			},
 			"12126403": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Duskosh Muted",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
@@ -107,134 +106,152 @@
 			"11994684": {
 				"name": "Mineral Casper",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11994685": {
 				"name": "Vortex",
 				"prespp": 15,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11994690": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Flooding Caves",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 8,
-				"rus": -3,
+				"rush": -3,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11994693": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Flowing Woods",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11994694": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Burning Soul",
 				"prespp": 8,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11994696": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Restless Igniter",
 				"prespp": 6,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12003232": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Shimering Glow",
 				"prespp": 20,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12009380": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Underground Heat",
 				"prespp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12036400": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Slight Tornado",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12045054": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Solid Ground",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12050725": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Flametongues",
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12078854": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Burning Flowers",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12146398": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Fire and Pain",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
-			"889542S1": {
-				"name": "Big'Gunn Shonn",
-				"rus": 8,
-				"tur": 17,
+			"STAR-7546": {
+				"name": "Hoshi Komi",
+				"turns": 12,
 				"type": "S"
 			},
-			"889542S2": {
-				"name": "Hoshi Komi",
-				"tur": 12,
+			"STAR-7719": {
+				"name": "Big'Gunn Shonn",
+				"rush": 8,
+				"turns": 17,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1042648",
-	"team_performance": {
+	"team": {
 		"873698": {
+			"blocks": 52,
 			"cas": 4,
 			"casdiff": 2,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Pleasure Strings",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 273,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 35,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 161
 		},
 		"889542": {
+			"blocks": 36,
 			"cas": 2,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Hellbound Firebats",
+			"pass": 1,
+			"prespp": 83,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 5,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 159
 		}
 	}
 }

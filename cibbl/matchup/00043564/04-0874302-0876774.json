@@ -1,156 +1,155 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3929511",
-	"player_performance": {
+	"player": {
 		"874302": {
 			"11754121": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Castelnuovo Rangone",
 				"prespp": 11,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754122": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Castelfranco Emilia",
 				"prespp": 26,
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754124": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Maranello",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754126": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Marano sul Panaro",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11754141": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "San Cesario sul Panaro",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754142": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sassuolo",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11754144": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vignola",
 				"prespp": 9,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11754146": {
 				"name": "Spilamberto",
 				"prespp": 40,
-				"rus": 10,
-				"tur": 8,
+				"rush": 10,
+				"turns": 8,
 				"type": "R"
 			},
 			"11783522": {
-				"blk": 3,
-				"cps": 2,
+				"blocks": 3,
+				"comp": 2,
 				"name": "Modena",
-				"pas": 11,
+				"pass": 11,
 				"prespp": 10,
-				"rus": 10,
+				"rush": 10,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11863513": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Formigine II",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11895172": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Castelvetro II",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11927155": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Savignano sul Panaro II",
-				"rus": 2,
-				"tur": 7,
+				"rush": 2,
+				"turns": 7,
 				"type": "R"
 			},
 			"11937470": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Fiorano II",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			}
 		},
 		"876774": {
 			"11791176": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Mather Teresa of Diesdolf",
 				"prespp": 15,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11791177": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Saint Agnes \"The Comet\"",
 				"prespp": 8,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11791215": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Ludmilla \"The Redeemed\"",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791216": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Carol \"Divine Punishment\"",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11791220": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Berta \"The Humble Daughter\"",
 				"prespp": 10,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791224": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Ingrid \"Blind Faith\"",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791226": {
@@ -158,71 +157,89 @@
 				"type": "R"
 			},
 			"11791229": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Johanna \"Silent Devotion\"",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791244": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grisolda \"Last Pilgrimage\"",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11890580": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gretha \"Innocent Heart\"",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11898482": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Caterina \"Righteous Judgement\"",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11928024": {
 				"name": "Rosetta \"Rose Thorn\"",
-				"rus": 40,
+				"rush": 40,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11928026": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Olga \"Iron Cilice\"",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "999224",
-	"team_performance": {
+	"team": {
 		"874302": {
+			"blocks": 57,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grasparossa B.B.C",
-			"prestige": 3,
+			"pass": 11,
+			"prespp": 123,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 35,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 154
 		},
 		"876774": {
+			"blocks": 54,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Congregation of Holy Touchdown",
+			"pass": 0,
+			"prespp": 60,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 40,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 164
 		}
 	}
 }

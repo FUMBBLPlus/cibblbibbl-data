@@ -1,66 +1,65 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3995581",
-	"player_performance": {
+	"player": {
 		"908411": {
 			"12293138": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Monzarro Murcatto",
 				"prespp": 14,
-				"rus": 18,
-				"tur": 16,
+				"rush": 18,
+				"turns": 16,
 				"type": "R"
 			},
 			"12293139": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Nicomo Cosca",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12293140": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Duke Orzo",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12293141": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Caul Shivers",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12293148": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Cas Shenkt",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12293162": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Friendly",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12293164": {
-				"blk": 3,
-				"fou": 2,
+				"blocks": 3,
+				"fouls": 2,
 				"name": "Shylo Vitari",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12293166": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Morveer",
 				"prespp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12293168": {
@@ -71,6 +70,7 @@
 					"12317301"
 				],
 				"name": "Carlot dan Eider",
+				"retired": true,
 				"type": "R"
 			},
 			"12293169": {
@@ -79,17 +79,17 @@
 				"type": "R"
 			},
 			"12293175": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Mauthis",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"909942": {
 			"12317242": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Vesta",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317245": {
@@ -97,104 +97,122 @@
 				"type": "R"
 			},
 			"12317247": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Keahi",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317250": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Etain",
-				"rus": 9,
+				"rush": 9,
 				"spp": 10,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317252": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Kegan",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317253": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Fiamette",
-				"pas": 1,
-				"rus": 6,
-				"tur": 12,
+				"pass": 1,
+				"rush": 6,
+				"turns": 12,
 				"type": "R"
 			},
 			"12317275": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ermir",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12317286": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Yuki",
-				"rus": 16,
-				"tur": 16,
+				"rush": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317290": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Calder",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317295": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Hurley",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317300": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Jet",
-				"pas": -1,
-				"tur": 16,
+				"pass": -1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317301": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Sage",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1076767",
-	"team_performance": {
+	"team": {
 		"908411": {
+			"blocks": 43,
 			"cas": 0,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Black Gulf Hippocampi",
+			"pass": 0,
+			"prespp": 38,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 18,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 131
 		},
 		"909942": {
+			"blocks": 42,
 			"cas": 2,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Red Mountain Flamecallers",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 31,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 166
 		}
 	}
 }

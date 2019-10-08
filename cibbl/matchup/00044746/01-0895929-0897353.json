@@ -1,77 +1,76 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3976987",
-	"player_performance": {
+	"player": {
 		"895929": {
 			"12098256": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Windfury",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098257": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Clawchest",
 				"prespp": 16,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098258": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Silverscar",
 				"prespp": 7,
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Silverstriker",
 				"prespp": 12,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12098289": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Crowripper",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098290": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Heartchewer",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098294": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Blackchewer",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098296": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Cragclaw",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098297": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Duskdigger",
 				"prespp": 10,
-				"rus": 7,
+				"rush": 7,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12136367": {
@@ -79,14 +78,14 @@
 				"type": "R"
 			},
 			"12166472": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Fangsnapper Jr Jr",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12184769": {
 				"name": "Barbedbreath",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
@@ -97,23 +96,23 @@
 				"type": "R"
 			},
 			"12121960": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sssues Ej",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12121961": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Enum Ers",
 				"prespp": 8,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12121967": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Matar Ash",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121968": {
@@ -123,95 +122,113 @@
 				"type": "R"
 			},
 			"12121969": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Mare Oz",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121971": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ummilu Imma",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121974": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Pix Vamox",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12121975": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Tush Banuk",
 				"prespp": 4,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12139096": {
 				"name": "Mos Passat",
 				"prespp": 11,
-				"rus": 39,
+				"rush": 39,
 				"spp": 6,
-				"tds": 2,
-				"tur": 14,
+				"td": 2,
+				"turns": 14,
 				"type": "R"
 			},
 			"12139099": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Blu Ash",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12164655": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lang Om",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12165569": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Adenes Fujo",
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12205123": {
 				"name": "Szell Adett",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1053977",
-	"team_performance": {
+	"team": {
 		"895929": {
+			"blocks": 51,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
+			"pass": 0,
+			"prespp": 79,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 24,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 142
 		},
 		"897353": {
+			"blocks": 42,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Court of Shu",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 52,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 45,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 154
 		}
 	}
 }

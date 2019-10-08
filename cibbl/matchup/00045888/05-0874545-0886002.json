@@ -1,41 +1,40 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4035876",
-	"player_performance": {
+	"player": {
 		"874545": {
 			"11758477": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Jared \"the Prince\"",
 				"prespp": 80,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11758492": {
 				"name": "Counselar Jherein",
 				"prespp": 37,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11906271": {
 				"name": "Syna",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 15,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11981990": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Barda, the secret Sister",
 				"prespp": 51,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12143809": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Advisor Yhale",
 				"prespp": 32,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12165224": {
@@ -43,54 +42,53 @@
 				"type": "R"
 			},
 			"12224204": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Old Stone",
 				"prespp": 31,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12262130": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Blaster Barouk",
 				"prespp": 52,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12339400": {
 				"name": "Kaleg",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12346169": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Speedy Shara",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12405282": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Auntie Rhasha",
 				"prespp": 6,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12415578": {
 				"name": "Svante",
-				"retired": true,
 				"type": "R"
 			},
 			"12497910": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Rhaol",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12497911": {
@@ -99,18 +97,18 @@
 				"type": "R"
 			},
 			"12517628": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Athyom, adopted Brother",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"886002": {
 			"11938007": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Sinthoras Bloodflame",
 				"prespp": 93,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938010": {
@@ -119,55 +117,55 @@
 				"type": "R"
 			},
 			"11938039": {
-				"blk": 1,
-				"cps": 2,
+				"blocks": 1,
+				"comp": 2,
 				"name": "Cargavel Stormcrow",
-				"pas": 10,
+				"pass": 10,
 				"prespp": 83,
-				"rus": 1,
+				"rush": 1,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938051": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Valyr Dragonrider",
 				"prespp": 35,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938060": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Telok Beastslayer",
 				"prespp": 31,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12154913": {
 				"name": "Micath Ghosthunter",
 				"prespp": 36,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12254187": {
 				"name": "Gilgash Doomblade",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12280055": {
 				"name": "Damien Scarface",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12335501": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Shorna Nightraider",
 				"prespp": 21,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12412821": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					3,
@@ -175,68 +173,87 @@
 					"12224204"
 				],
 				"name": "Cirgil Darksoul",
-				"tur": 12,
+				"retired": true,
+				"turns": 12,
 				"type": "R"
 			},
 			"12413661": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Nuramon Darkstar",
 				"prespp": 6,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12413667": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Vargar Demonheart",
 				"prespp": 11,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12458452": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Shriga Coldeyes",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12458456": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Cartara Swiftdeath",
 				"prespp": 1,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1122664",
-	"team_performance": {
+	"team": {
 		"874545": {
+			"blocks": 33,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Stone Prince's Men",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 317,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 16,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 165
 		},
 		"886002": {
+			"blocks": 42,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom Glade Demons",
+			"pass": 10,
+			"prespp": 395,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 1,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 166
 		}
 	}
 }

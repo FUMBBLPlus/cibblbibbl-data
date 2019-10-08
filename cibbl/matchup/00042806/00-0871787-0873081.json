@@ -1,99 +1,98 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3894614",
-	"player_performance": {
+	"player": {
 		"871787": {
 			"11709004": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Idun Hands",
 				"prespp": 2,
-				"rus": 19,
-				"tur": 17,
+				"rush": 19,
+				"turns": 17,
 				"type": "R"
 			},
 			"11709005": {
-				"blk": 2,
-				"fou": 5,
+				"blocks": 2,
+				"fouls": 5,
 				"name": "Breek Argan",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11709006": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Gaer Nettina",
-				"rus": 1,
-				"tur": 17,
+				"rush": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11709008": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Emyys Doceon",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11709009": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Burk Silpal",
 				"prespp": 9,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11709010": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Dando Enda",
 				"prespp": 3,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11709011": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Raus Juit",
 				"prespp": 8,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11709012": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Hengest Hirn",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11709013": {
 				"name": "Kael Desini",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 2,
-				"rus": 25,
+				"rush": 25,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11709015": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Vigoth Nony",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11709016": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Strean Buren",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11709018": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Font Eiridan",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11727803": {
@@ -103,12 +102,12 @@
 		},
 		"873081": {
 			"11732193": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Corron Cottonmouth",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11732194": {
@@ -119,23 +118,24 @@
 					"11709006"
 				],
 				"name": "Gutterfingers",
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
 			"11732195": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Syckler Spidergrin",
 				"prespp": 10,
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11732196": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Phantom Frickla",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11732197": {
@@ -144,25 +144,25 @@
 			},
 			"11732199": {
 				"name": "Kweex Thinarm",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11732200": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kazin Damppocket",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11732201": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Somax Hardfingers",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11732202": {
 				"name": "Kwarax Twinspirit",
-				"rus": 2,
-				"tur": 12,
+				"rush": 2,
+				"turns": 12,
 				"type": "R"
 			},
 			"11732203": {
@@ -175,58 +175,76 @@
 				"type": "R"
 			},
 			"11732205": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lylinee Moist-Tongue",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11744455": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sticky Ride",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11746593": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "William Vileshield",
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			},
-			"873081M1": {
-				"blk": 5,
+			"MERC-9785-2857": {
+				"blocks": 5,
 				"name": "Merc Skaven Lineman 1",
-				"tur": 16,
+				"turns": 16,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "958925",
-	"team_performance": {
+	"team": {
 		"871787": {
-			"cas": 2,
-			"casdiff": 2,
+			"blocks": 46,
+			"cas": 1,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 9,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malignant Curators",
+			"pass": 1,
+			"prespp": 34,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 45,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 173
 		},
 		"873081": {
+			"blocks": 28,
 			"cas": 0,
-			"casdiff": -2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cavernous Crystalbreakers",
+			"pass": 0,
+			"prespp": 25,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 14,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 140
 		}
 	}
 }

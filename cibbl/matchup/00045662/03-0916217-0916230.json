@@ -1,37 +1,36 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4014539",
-	"player_performance": {
+	"player": {
 		"916217": {
 			"12416220": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Bestgor \"The Vicious\"",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416222": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Strongor \"The Mighty\"",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416224": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Powergor \"The Relentless\"",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416226": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Mustgor \"The Decided\"",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416227": {
@@ -40,164 +39,181 @@
 			},
 			"12416228": {
 				"name": "Fastgor \"The Lightning\"",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12416229": {
 				"name": "Quickgor \"The Legged\"",
 				"prespp": 4,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416233": {
 				"name": "Hollowgor \"The Hungry\"",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12416234": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tallgor \"The Landscapist\"",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416236": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Brutegor \"The Doubtless\"",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12416238": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Roughgor \"The Thoughtless\"",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12425888": {
 				"name": "Trey Silentspike",
-				"retired": true,
 				"type": "J"
 			}
 		},
 		"916230": {
 			"12416612": {
-				"blk": 12,
+				"blocks": 12,
 				"mvp": 1,
 				"name": "Vârcolac",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416620": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Moarte",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12416633": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Apostol Vântu",
 				"prespp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12416638": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Horea Belododia",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416640": {
 				"name": "Nelu Szilágyi",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12416642": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Radu Constantin",
 				"prespp": 3,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12416645": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ionut Pârvulescu",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416646": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Beryx Albu",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416647": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cosmin Boroi",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12416649": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Petar Mitu",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12416651": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Claudiu Poénaru",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12423760": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Ovidiu Gheorghiu",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1098470",
-	"team_performance": {
+	"team": {
 		"916217": {
+			"blocks": 43,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cloven Clan",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 25,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 19,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 141
 		},
 		"916230": {
+			"blocks": 45,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mourkain Kings",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 23,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 17,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 163
 		}
 	}
 }

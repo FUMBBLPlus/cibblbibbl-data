@@ -1,64 +1,63 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4067418",
-	"player_performance": {
+	"player": {
 		"874317": {
 			"11754410": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Odracon The Procreator",
 				"prespp": 92,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11754414": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Lug",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11754417": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Cethlenn",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11754418": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Tethra",
 				"prespp": 32,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11904321": {
 				"name": "Dilek",
 				"prespp": 80,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12047952": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Slough Feg",
 				"prespp": 79,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12126092": {
 				"name": "Hadiz",
 				"prespp": 60,
-				"rus": 14,
-				"tur": 11,
+				"rush": 14,
+				"turns": 11,
 				"type": "R"
 			},
 			"12239695": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Moloch the 3rd",
 				"prespp": 60,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12340697": {
@@ -66,7 +65,7 @@
 				"type": "R"
 			},
 			"12537775": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					3,
@@ -75,21 +74,22 @@
 				],
 				"name": "Balor The Everdying",
 				"prespp": 15,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"12537776": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Cromcraug",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12537777": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Kakt",
 				"prespp": 11,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12618155": {
@@ -106,97 +106,97 @@
 		},
 		"876774": {
 			"11791176": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Mather Teresa of Diesdolf",
 				"prespp": 88,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791215": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Ludmilla \"The Redeemed\"",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 36,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11791216": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Carol \"Divine Punishment\"",
 				"prespp": 73,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791220": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Berta \"The Humble Daughter\"",
 				"prespp": 75,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791226": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Luisa \"The Martyr\"",
 				"prespp": 9,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11791229": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Johanna \"Silent Devotion\"",
 				"prespp": 23,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11898482": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Caterina \"Righteous Judgement\"",
 				"prespp": 21,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11928024": {
 				"name": "Rosetta \"Rose Thorn\"",
 				"prespp": 141,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12131132": {
-				"fou": 6,
+				"fouls": 6,
 				"name": "Lucy \"Joyful Advent\"",
 				"prespp": 10,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12279329": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Matilda \"Repetita Iuvant\"",
 				"prespp": 59,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12512122": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Jessica \"Due Obedience\"",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12542037": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Jennifer \"Reveled Word\"",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12592889": {
@@ -207,10 +207,10 @@
 				"type": "R"
 			},
 			"12598657": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Gertrud \"Warding Light\"",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12634057": {
@@ -219,37 +219,54 @@
 			},
 			"12701192": {
 				"name": "Leonora \"The Right Hand\"",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1158679",
-	"team_performance": {
+	"team": {
 		"874317": {
+			"blocks": 43,
 			"cas": 1,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Misty Isle Gators",
+			"pass": 0,
+			"prespp": 455,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 103
 		},
 		"876774": {
-			"cas": 4,
-			"casdiff": 3,
+			"blocks": 43,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 11,
+			"int": 0,
+			"mvp": 1,
 			"name": "Congregation of Holy Touchdown",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 553,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 169
 		}
 	}
 }

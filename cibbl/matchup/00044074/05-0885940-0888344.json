@@ -1,44 +1,43 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3959967",
-	"player_performance": {
+	"player": {
 		"885940": {
 			"11936932": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "The Phantom Wanderer",
-				"pas": 1,
-				"rus": 8,
-				"tur": 16,
+				"pass": 1,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"11936933": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"cps": 2,
+				"comp": 2,
 				"name": "The Elegant Phantom",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 15,
-				"rus": 6,
+				"rush": 6,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11936937": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Revydas 'The Dark Star' Nevar",
 				"prespp": 12,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11936939": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Bloodsign",
 				"prespp": 8,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11936944": {
@@ -47,204 +46,220 @@
 				"type": "R"
 			},
 			"11936950": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Slyndis Fendethyl",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11936952": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Red Flow",
 				"prespp": 8,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11950923": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Harzun 'The Silent Stalker' Krivan",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12052334": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"mvp": 1,
 				"name": "Lord Sawtooth",
 				"spp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12121173": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Cory Dirtyspike",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			},
 			"12121174": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cory Fasthammer",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			},
 			"12121175": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Edward Silenttree",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
-			"885940S1": {
-				"blk": 13,
+			"STAR-7553": {
+				"blocks": 13,
 				"name": "Horkon Heartripper",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		},
 		"888344": {
 			"11974838": {
-				"blk": 9,
-				"cps": 1,
+				"blocks": 9,
+				"comp": 1,
 				"name": "Finubar",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 16,
-				"rus": 6,
+				"rush": 6,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11974839": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					5,
 					"stabbed",
 					"11950923"
 				],
-				"fou": 1,
+				"fouls": 1,
 				"name": "Tyrielle",
-				"tur": 11,
+				"retired": null,
+				"turns": 11,
 				"type": "R"
 			},
 			"11974841": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Yreene",
 				"prespp": 8,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11974844": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ailmar",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11974846": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Phærael",
 				"prespp": 15,
-				"rus": 3,
+				"rush": 3,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"11974850": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Hathor",
 				"prespp": 15,
 				"spp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11975460": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Evilonah Fellblade",
 				"prespp": 24,
-				"rus": 5,
+				"rush": 5,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11975493": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Morvael Lightningstrider",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 24,
-				"rus": 15,
+				"rush": 15,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11980511": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Valahuir Morningstar",
 				"prespp": 19,
-				"rus": 7,
-				"tur": 12,
+				"rush": 7,
+				"turns": 12,
 				"type": "R"
 			},
 			"12043532": {
 				"name": "Ornthalas Eaglesflight",
 				"prespp": 16,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12043865": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bel-Ithlirel Swiftstrider",
 				"prespp": 4,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12076860": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Virberos Fairchild",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 2,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1034447",
-	"team_performance": {
+	"team": {
 		"885940": {
-			"cas": 5,
-			"casdiff": 4,
+			"blocks": 57,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Har Ganeth Ironspikes",
-			"prestige": 1,
+			"pass": 2,
+			"prespp": 54,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 36,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 155
 		},
 		"888344": {
+			"blocks": 47,
 			"cas": 1,
-			"casdiff": -4,
+			"casdiff": 0,
+			"comp": 3,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Masqueraded Magnificence",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 152,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 37,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 129
 		}
 	}
 }

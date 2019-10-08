@@ -1,26 +1,25 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3926758",
-	"player_performance": {
+	"player": {
 		"873369": {
 			"11737364": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Hybree",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11737365": {
 				"name": "Trikhuf",
 				"prespp": 16,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11737376": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Weyrot",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737379": {
@@ -32,49 +31,50 @@
 				],
 				"name": "Baahru",
 				"prespp": 3,
-				"rus": 11,
-				"tur": 8,
+				"retired": true,
+				"rush": 11,
+				"turns": 8,
 				"type": "R"
 			},
 			"11737432": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Fulmayne Thrice-Crowned",
 				"prespp": 35,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737433": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Breyyar Scoredrinker",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737434": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Stoneflagon Rhuheigh",
 				"prespp": 25,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737443": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Yronleg the Barrelbeast",
 				"prespp": 24,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11765170": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Brewmaster Huhroarr",
 				"prespp": 21,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11859881": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Heighar",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11859890": {
@@ -86,76 +86,77 @@
 				],
 				"name": "Yaahrut",
 				"prespp": 5,
+				"retired": true,
 				"type": "R"
 			},
 			"11859894": {
 				"name": "Wytehide",
 				"prespp": 5,
-				"rus": 3,
-				"tur": 11,
+				"rush": 3,
+				"turns": 11,
 				"type": "R"
 			},
 			"11902855": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "R'hoghn Hollowhorn",
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"874452": {
 			"11756582": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 2,
 				"name": "Draco Dracovich",
 				"prespp": 53,
-				"rus": 8,
+				"rush": 8,
 				"spp": 7,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756629": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Igor Igorivich",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 33,
-				"rus": 23,
+				"rush": 23,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756687": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Karl",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756689": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Franz",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756708": {
 				"name": "Sigwald",
 				"prespp": 3,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11756720": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"name": "Gustav von Darkwald",
 				"prespp": 18,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756722": {
@@ -173,67 +174,85 @@
 				"type": "R"
 			},
 			"11869690": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Vlad Vladovich",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11875043": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mathilde",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11875044": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Laura",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11903019": {
 				"name": "Dietrich",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11926830": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Reinhart von Teufeldorf",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "996030",
-	"team_performance": {
+	"team": {
 		"873369": {
+			"blocks": 41,
 			"cas": 0,
 			"casdiff": -5,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Schattenwald Drinking Horns",
+			"pass": 0,
+			"prespp": 156,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 156
 		},
 		"874452": {
+			"blocks": 39,
 			"cas": 5,
 			"casdiff": 5,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 141,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 31,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 174
 		}
 	}
 }

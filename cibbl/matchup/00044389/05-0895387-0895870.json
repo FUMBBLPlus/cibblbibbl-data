@@ -1,49 +1,48 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3971076",
-	"player_performance": {
+	"player": {
 		"895387": {
 			"12089484": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Troll Pollymaalu",
 				"prespp": 24,
-				"rus": 3,
-				"tur": 4,
+				"rush": 3,
+				"turns": 4,
 				"type": "B"
 			},
 			"12089486": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "\"Mean\" Gobbo Green",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12089487": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "\"Big\" Gren Eetzaburga",
 				"prespp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12089488": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gobby \"Blud\" Mucknally",
 				"prespp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12089489": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Chukka Noll",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12089495": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					4,
@@ -51,35 +50,36 @@
 					null
 				],
 				"name": "Airy Badsure",
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"12089499": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Gob Wudsun",
 				"prespp": 8,
-				"rus": 6,
-				"tur": 13,
+				"rush": 6,
+				"turns": 13,
 				"type": "R"
 			},
 			"12089504": {
-				"blk": 1,
-				"fou": 9,
+				"blocks": 1,
+				"fouls": 9,
 				"name": "Kleavin Green",
 				"prespp": 6,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12115472": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Grin Swanny",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12115473": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Grakk Buttla",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12124729": {
@@ -87,145 +87,163 @@
 				"type": "R"
 			},
 			"12124730": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Grakk Buttla",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12158696": {
 				"mvp": 1,
 				"name": "Nobby Lame",
 				"spp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		},
 		"895870": {
 			"12097319": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Nurg",
 				"prespp": 24,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12097320": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Durskik",
-				"pas": -3,
+				"pass": -3,
 				"prespp": 21,
-				"rus": 27,
+				"rush": 27,
 				"spp": 7,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12097321": {
 				"name": "Kratassik",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 7,
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"12097322": {
 				"mvp": 1,
 				"name": "Azhrik",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 20,
-				"rus": 22,
+				"rush": 22,
 				"spp": 11,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12097323": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rassner",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12097325": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Griskabakk",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12097326": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Arrt",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12097327": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Rhattdwelk",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12097328": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Haskzell",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12097329": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Skleetaz",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12113768": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Prinkeez",
 				"prespp": 13,
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12167492": {
 				"name": "Garsnuk",
 				"prespp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1047117",
-	"team_performance": {
+	"team": {
 		"895387": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 38,
+			"cas": 0,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 11,
+			"int": 0,
+			"mvp": 1,
 			"name": "Der Peaksblight Stealers",
+			"pass": 0,
+			"prespp": 59,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -6,
-			"tds": 0,
-			"tdsdiff": -6
+			"td": 0,
+			"tddiff": -6,
+			"turns": 111
 		},
 		"895870": {
+			"blocks": 40,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mordkin Headtakers",
-			"prestige": 3,
+			"pass": -3,
+			"prespp": 101,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 76,
 			"score": 6,
 			"scorediff": 6,
-			"tds": 6,
-			"tdsdiff": 6
+			"td": 6,
+			"tddiff": 6,
+			"turns": 164
 		}
 	}
 }

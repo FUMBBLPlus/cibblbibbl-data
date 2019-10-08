@@ -1,39 +1,38 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4062989",
-	"player_performance": {
+	"player": {
 		"874545": {
 			"11758477": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Jared \"the Prince\"",
 				"prespp": 94,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11758492": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Counselar Jherein",
 				"prespp": 45,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11906271": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Syna",
 				"prespp": 15,
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12143809": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Advisor Yhale",
 				"prespp": 36,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12165224": {
@@ -45,7 +44,8 @@
 				],
 				"name": "Ghro",
 				"prespp": 2,
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"12224204": {
@@ -59,7 +59,7 @@
 				"type": "R"
 			},
 			"12517628": {
-				"blk": 6,
+				"blocks": 6,
 				"dead": [
 					2,
 					4,
@@ -68,75 +68,76 @@
 				],
 				"name": "Athyom, adopted Brother",
 				"prespp": 18,
-				"tur": 11,
+				"retired": true,
+				"turns": 11,
 				"type": "R"
 			},
 			"12543387": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Sware",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12555028": {
 				"name": "Small Barda",
 				"prespp": 12,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12559751": {
 				"name": "Flashy Fiona",
 				"prespp": 16,
-				"rus": 26,
+				"rush": 26,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12624314": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Bordiun, just a friend",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12631950": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kheg",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12639819": {
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Faster Fenya",
-				"pas": 3,
-				"rus": 1,
+				"pass": 3,
+				"rush": 1,
 				"spp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12666491": {
 				"name": "Ahron",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"889232": {
 			"11989952": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chthonic Cobaltite",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989980": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Chthonic Kaolinite",
 				"prespp": 42,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12003575": {
@@ -145,53 +146,53 @@
 				"type": "R"
 			},
 			"12070122": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Chthonic Slade",
 				"prespp": 43,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12145447": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Magma Flow",
-				"pas": 9,
+				"pass": 9,
 				"prespp": 46,
-				"rus": -1,
+				"rush": -1,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12187033": {
-				"fou": 7,
+				"fouls": 7,
 				"name": "Chthonic Cinnabar",
 				"prespp": 10,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12279033": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Naiad Tori",
 				"prespp": 38,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12332036": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Naiad Chloe",
 				"prespp": 10,
-				"rus": 6,
+				"rush": 6,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12399766": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Muscovite",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12414498": {
@@ -202,30 +203,31 @@
 					"11906271"
 				],
 				"name": "Chthonic Granite",
+				"retired": true,
 				"type": "R"
 			},
 			"12502199": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Cassiterite",
-				"rus": 4,
-				"tur": 10,
+				"rush": 4,
+				"turns": 10,
 				"type": "R"
 			},
 			"12519946": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Chthonic Puddingstone",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12531045": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Chthonic Microcline",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12587170": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					5,
@@ -234,46 +236,65 @@
 				],
 				"name": "Sylph Breeze",
 				"prespp": 6,
-				"tur": 4,
+				"retired": true,
+				"turns": 4,
 				"type": "R"
 			},
 			"12600678": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Lucius Magma",
-				"pas": 6,
-				"rus": 21,
+				"pass": 6,
+				"rush": 21,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1153650",
-	"team_performance": {
+	"team": {
 		"874545": {
+			"blocks": 31,
 			"cas": 2,
-			"casdiff": -4,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Stone Prince's Men",
-			"prestige": 1,
+			"pass": 3,
+			"prespp": 287,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 27,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 132
 		},
 		"889232": {
-			"cas": 6,
-			"casdiff": 4,
+			"blocks": 46,
+			"cas": 2,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lost Golems of Grungni",
-			"prestige": 1,
+			"pass": 15,
+			"prespp": 269,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 30,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 168
 		}
 	}
 }

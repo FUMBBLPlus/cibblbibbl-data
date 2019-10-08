@@ -1,63 +1,62 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3936106",
-	"player_performance": {
+	"player": {
 		"876711": {
 			"11790127": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Nettala",
 				"prespp": 7,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11790128": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Geranara",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11790129": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Hellobora",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11790130": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Decumaria",
 				"prespp": 18,
-				"rus": 21,
+				"rush": 21,
 				"spp": 5,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"11790133": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Mahoganaea",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11790136": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Anisatum",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11790138": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Telodice",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11790140": {
@@ -68,112 +67,106 @@
 					"11849916"
 				],
 				"name": "Ensata",
-				"tur": 4,
+				"retired": true,
+				"turns": 4,
 				"type": "R"
 			},
 			"11942326": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ilex",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11970988": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Willos",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11985830": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Billy Whitespike",
-				"retired": true,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			}
 		},
 		"880378": {
-			"11790140R1": {
-				"blk": 1,
-				"name": "Ensata",
-				"tur": 3,
-				"type": "D"
-			},
 			"11849912": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"mvp": 1,
 				"name": "The Great Unclean One",
 				"prespp": 9,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11849914": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Khandek the Foul",
 				"prespp": 8,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11849916": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Zinzul the Plaguereaper",
 				"prespp": 26,
-				"rus": 3,
+				"rush": 3,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11849917": {
-				"blk": 14,
+				"blocks": 14,
 				"name": "Erdrund the Leproushand",
 				"prespp": 18,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11849919": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rhemel Crappyhand",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11849920": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "Strozkun Foulskin",
 				"prespp": 7,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11849921": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gazgand Stinkhorn",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11849923": {
 				"name": "Zashren Vomitheart",
 				"prespp": 3,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11849925": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Skurzrond Foularm",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 2,
-				"rus": 13,
-				"tur": 10,
+				"rush": 13,
+				"turns": 10,
 				"type": "R"
 			},
 			"11865381": {
@@ -185,54 +178,79 @@
 				],
 				"name": "Aaron Hardshield",
 				"prespp": 2,
-				"tur": 7,
+				"retired": true,
+				"turns": 7,
 				"type": "R"
 			},
 			"11898269": {
 				"name": "Arzund Foulleap",
-				"rus": 2,
-				"tur": 15,
+				"rush": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"11943988": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Gul'Zar Pestbringer",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11967902": {
 				"name": "Orguz Foularm",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
+			},
+			"RAISED-7240_11790140_11985903": {
+				"blocks": 1,
+				"name": "Ensata",
+				"turns": 3,
+				"type": "D"
 			}
 		}
 	},
 	"replayId": "1006968",
-	"team_performance": {
+	"team": {
 		"876711": {
+			"blocks": 43,
 			"cas": 4,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cythral Old Oaks",
+			"pass": 0,
+			"prespp": 41,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 21,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 139
 		},
 		"880378": {
+			"blocks": 62,
 			"cas": 2,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Nurgle Plaguebearers",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 91,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 24,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 154
 		}
 	}
 }

@@ -1,103 +1,102 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3965159",
-	"player_performance": {
+	"player": {
 		"854690": {
 			"11439891": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Shiamoto The Undying",
 				"prespp": 52,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11439893": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ronin Swift Wind",
 				"prespp": 52,
-				"rus": 9,
-				"tur": 13,
+				"rush": 9,
+				"turns": 13,
 				"type": "R"
 			},
 			"11439894": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Ronin Four Finger Death Punch",
 				"prespp": 69,
-				"rus": 13,
+				"rush": 13,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439896": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Meiko",
 				"prespp": 18,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11474441": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Ronin Headchopper",
 				"prespp": 70,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11624586": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Saku",
 				"prespp": 6,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11694784": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Su Ha",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 16,
-				"rus": 4,
+				"rush": 4,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11775641": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Taizo",
 				"prespp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11873914": {
-				"blk": 3,
-				"fou": 5,
+				"blocks": 3,
+				"fouls": 5,
 				"name": "Toshi",
 				"prespp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11895977": {
 				"name": "Ro Hoi",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11979086": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Temple Guard A'Rsch Auff",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12072779": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Temple Guard Fuku-Shimo",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12135204": {
@@ -105,36 +104,36 @@
 				"type": "R"
 			},
 			"12135210": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Chi Ma",
 				"prespp": 7,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12151464": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ha To Ri",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"874437": {
 			"11756336": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nomgulg Prattlehead",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 37,
-				"rus": 5,
-				"tur": 17,
+				"rush": 5,
+				"turns": 17,
 				"type": "R"
 			},
 			"11756337": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Persqka Boughclip",
 				"prespp": 31,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11756348": {
@@ -143,32 +142,32 @@
 				"type": "R"
 			},
 			"11898319": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Buce'ador Espeleólody",
 				"prespp": 24,
 				"spp": 9,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"11919173": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Arprehdy Taenaerae",
 				"prespp": 17,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11922070": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "T?ne Mahuta",
 				"prespp": 18,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11966937": {
 				"name": "Radix Radex",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11975662": {
@@ -180,78 +179,96 @@
 				],
 				"name": "Crispy Woods",
 				"prespp": 5,
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
 			"12047631": {
 				"name": "Brawl Punya",
 				"prespp": 10,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12101922": {
 				"name": "Chankiri Crighac",
 				"prespp": 1,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12135896": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Komuna Kijidoma",
-				"pas": 1,
+				"pass": 1,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12135901": {
 				"name": "Xavier Strongbone",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			},
-			"874437S1": {
-				"blk": 2,
-				"fou": 1,
-				"name": "Ugroth Bolgrot",
-				"tur": 5,
+			"STAR-7573": {
+				"blocks": 9,
+				"name": "Ripper",
+				"turns": 13,
 				"type": "S"
 			},
-			"874437S2": {
-				"blk": 9,
-				"name": "Ripper",
-				"tur": 13,
+			"STAR-7581": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Ugroth Bolgrot",
+				"turns": 5,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1040321",
-	"team_performance": {
+	"team": {
 		"854690": {
-			"cas": 4,
-			"casdiff": 2,
+			"blocks": 47,
+			"cas": 2,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Secret Cult Of Shiamoto",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 317,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 156
 		},
 		"874437": {
+			"blocks": 30,
 			"cas": 2,
-			"casdiff": -2,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bigwood Tree Shmashaz",
+			"pass": 2,
+			"prespp": 166,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 18,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 147
 		}
 	}
 }

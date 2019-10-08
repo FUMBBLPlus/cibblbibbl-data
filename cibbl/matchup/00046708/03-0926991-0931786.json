@@ -1,31 +1,26 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
-	"player_performance": {},
-	"team_performance": {
+	"player": {},
+	"team": {
 		"926991": {
-			"cas": 0,
 			"casdiff": 0,
 			"name": "Malign Malignation",
-			"prestige": 3,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "B",
+			"r": "B",
 			"score": 2,
 			"scorediff": 2,
-			"tds": 0,
-			"tdsdiff": 0
+			"tddiff": 0
 		},
 		"931786": {
-			"cas": 0,
 			"casdiff": 0,
 			"name": "Thurak Termites",
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "F",
+			"r": "F",
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": 0
+			"tddiff": 0
 		}
 	}
 }

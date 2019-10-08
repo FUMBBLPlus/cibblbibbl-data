@@ -1,106 +1,105 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3952117",
-	"player_performance": {
+	"player": {
 		"889206": {
 			"11989525": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Frisky Winds",
 				"prespp": 12,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11989533": {
-				"blk": 7,
-				"cps": 1,
-				"fou": 2,
+				"blocks": 7,
+				"comp": 1,
+				"fouls": 2,
 				"name": "Black Fire",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 16,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11989534": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Eternal Flame",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11989541": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Deep Blue",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11990235": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "River Wild",
 				"prespp": 10,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11990236": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Jack Ironfist",
 				"prespp": 9,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11990237": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ben the Golden",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11990238": {
 				"name": "Franky Waterfalls",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11990239": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Unbar the Wet",
 				"prespp": 3,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11997944": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Dripping Darkness",
 				"prespp": 3,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12032521": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Jelly Floodings",
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12032523": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Running Water",
-				"rus": 7,
-				"tur": 3,
+				"rush": 7,
+				"turns": 3,
 				"type": "R"
 			},
 			"12050724": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Typhoon",
-				"rus": 19,
+				"rush": 19,
 				"spp": 8,
-				"tds": 1,
-				"tur": 5,
+				"td": 1,
+				"turns": 5,
 				"type": "R"
 			}
 		},
@@ -114,117 +113,136 @@
 				],
 				"name": "Chthonic Cinnabar",
 				"prespp": 8,
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"11989951": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chthonic Pitchblende",
 				"prespp": 16,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11989952": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Chthonic Cobaltite",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989953": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Chthonic Granite",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989954": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Chthonic Jet",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11989958": {
 				"name": "Chthonic Gabbro",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989967": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sylph Wisp",
 				"prespp": 14,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"11989973": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Naiad Nomia",
 				"prespp": 20,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989980": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chthonic Kaolinite",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12003575": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Sylph Haze",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12031249": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Magma Crab",
-				"pas": 1,
-				"rus": 15,
-				"tur": 14,
+				"pass": 1,
+				"rush": 15,
+				"turns": 14,
 				"type": "R"
 			},
 			"12070122": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Chthonic Slade",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1025468",
-	"team_performance": {
+	"team": {
 		"889206": {
+			"blocks": 46,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tsunami Terrors",
-			"prestige": 1,
+			"pass": 3,
+			"prespp": 57,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 28,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 144
 		},
 		"889232": {
+			"blocks": 46,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lost Golems of Grungni",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 72,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 36,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 156
 		}
 	}
 }

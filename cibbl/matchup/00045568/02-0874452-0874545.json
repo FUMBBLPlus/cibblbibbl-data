@@ -1,46 +1,45 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4012418",
-	"player_performance": {
+	"player": {
 		"874452": {
 			"11756582": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Draco Dracovich",
 				"prespp": 144,
-				"rus": 3,
+				"rush": 3,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11756629": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Igor Igorivich",
 				"prespp": 138,
-				"rus": 14,
-				"tur": 16,
+				"rush": 14,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756687": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Karl",
 				"prespp": 4,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11756689": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Franz",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11926830": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Reinhart von Teufeldorf",
 				"prespp": 54,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11980258": {
@@ -49,108 +48,108 @@
 				"type": "R"
 			},
 			"11981974": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Arnold",
 				"prespp": 8,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12150966": {
 				"name": "Sigfrid",
 				"prespp": 1,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12178898": {
 				"name": "Conrad",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12233799": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Oda",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 30,
-				"rus": 6,
+				"rush": 6,
 				"spp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12254615": {
 				"name": "Nickolaus",
 				"prespp": 3,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12319529": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Dracul Draculesti",
 				"prespp": 17,
 				"spp": 9,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12368009": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Norbert von Bluten",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12368012": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ulz",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12415471": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Werner",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"874545": {
 			"11758477": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Jared \"the Prince\"",
 				"prespp": 59,
-				"rus": 4,
+				"rush": 4,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11758481": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Uncle Thran",
 				"prespp": 75,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11758492": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Counselar Jherein",
 				"prespp": 33,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11906271": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Syna",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 15,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11981990": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Barda, the secret Sister",
 				"prespp": 29,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12033397": {
@@ -162,51 +161,52 @@
 				],
 				"name": "Faruk",
 				"prespp": 1,
+				"retired": true,
 				"type": "R"
 			},
 			"12143809": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Advisor Yhale",
 				"prespp": 25,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12165224": {
 				"name": "Ghro",
-				"rus": 8,
-				"tur": 5,
+				"rush": 8,
+				"turns": 5,
 				"type": "R"
 			},
 			"12224204": {
 				"name": "Old Stone",
 				"prespp": 15,
-				"tur": 8,
+				"turns": 8,
 				"type": "B"
 			},
 			"12262130": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Blaster Barouk",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 32,
-				"rus": 16,
-				"tur": 16,
+				"rush": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12339400": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kaleg",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12346169": {
 				"mvp": 1,
 				"name": "Speedy Shara",
-				"rus": 9,
+				"rush": 9,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12346179": {
@@ -216,36 +216,54 @@
 			},
 			"12405282": {
 				"name": "Auntie Rhasha",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1096083",
-	"team_performance": {
+	"team": {
 		"874452": {
-			"cas": 4,
-			"casdiff": 3,
+			"blocks": 40,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
+			"pass": -2,
+			"prespp": 434,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 141
 		},
 		"874545": {
+			"blocks": 42,
 			"cas": 1,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Stone Prince's Men",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 286,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 37,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 158
 		}
 	}
 }

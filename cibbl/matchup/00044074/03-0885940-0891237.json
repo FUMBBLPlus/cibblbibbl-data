@@ -1,30 +1,29 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3956129",
-	"player_performance": {
+	"player": {
 		"885940": {
 			"11936932": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Phantom Wanderer",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11936933": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "The Elegant Phantom",
 				"prespp": 8,
-				"rus": 24,
+				"rush": 24,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11936937": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Revydas 'The Dark Star' Nevar",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11936939": {
@@ -33,14 +32,14 @@
 				"type": "R"
 			},
 			"11936944": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Rorthal Xa'zan",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11936947": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"dead": [
 					2,
@@ -50,28 +49,29 @@
 				],
 				"name": "Cirerin Stillflow",
 				"prespp": 6,
-				"rus": 1,
+				"retired": true,
+				"rush": 1,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11936950": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Slyndis Fendethyl",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11936952": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Red Flow",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11936955": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					1,
@@ -80,96 +80,96 @@
 				],
 				"name": "Crimson Flash",
 				"prespp": 6,
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"11950923": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Harzun 'The Silent Stalker' Krivan",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12052334": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Lord Sawtooth",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12052336": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nicholas Clearlightning",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"891237": {
 			"12022003": {
-				"blk": 9,
-				"cps": 1,
+				"blocks": 9,
+				"comp": 1,
 				"name": "Barrow Gorthadon",
 				"prespp": 6,
-				"rus": -2,
+				"rush": -2,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12022005": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Swan Alphon",
 				"prespp": 9,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022006": {
-				"blk": 3,
-				"cps": 2,
+				"blocks": 3,
+				"comp": 2,
 				"name": "Heni Hethurin",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 18,
-				"rus": 12,
+				"rush": 12,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022007": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Yoke Ianuon",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12022008": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Tety Goweston",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022009": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Kanut Nardhon",
 				"prespp": 2,
-				"rus": 6,
+				"rush": 6,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12022010": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dew Midhon",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022012": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Pirin Alfirinor",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022014": {
@@ -177,48 +177,65 @@
 				"type": "R"
 			},
 			"12022022": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"name": "Mirilan Antegobon",
 				"prespp": 6,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12078020": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jack Whitelightning",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1029934",
-	"team_performance": {
+	"team": {
 		"885940": {
-			"cas": 3,
-			"casdiff": 1,
+			"blocks": 38,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Har Ganeth Ironspikes",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 47,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 25,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 137
 		},
 		"891237": {
+			"blocks": 40,
 			"cas": 2,
-			"casdiff": -1,
+			"casdiff": 1,
+			"comp": 3,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Dukes of Earthquake Valley",
+			"pass": -1,
+			"prespp": 48,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 146
 		}
 	}
 }

@@ -1,140 +1,139 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3962721",
-	"player_performance": {
+	"player": {
 		"895015": {
 			"12083002": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Shanka",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12083010": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Thrano",
-				"pas": 9,
+				"pass": 9,
 				"prespp": 2,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12083011": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Urano",
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12083013": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Pluro",
 				"prespp": 8,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12083014": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Stelra",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12083015": {
 				"name": "Mared",
 				"prespp": 3,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12083017": {
 				"name": "Japuto",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12083372": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Roundril",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12083373": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Edfrei",
 				"prespp": 12,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12083374": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Bakeon",
 				"prespp": 6,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12103501": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mercqui",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"896618": {
 			"12109600": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Alumar",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12109601": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Buraniel",
 				"prespp": 7,
-				"rus": 3,
+				"rush": 3,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12109602": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Bilenduin",
 				"prespp": 9,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12109604": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Morniun",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12109605": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Neminor",
 				"prespp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12109606": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Quinluin",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12109607": {
@@ -142,74 +141,92 @@
 				"name": "Luendil",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12109608": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Oliveil",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12109609": {
 				"name": "Primoriel",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12109610": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Clairion",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12109611": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hurindiel",
 				"prespp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12118098": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Milendir",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 5,
-				"rus": 16,
+				"rush": 16,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1037583",
-	"team_performance": {
+	"team": {
 		"895015": {
+			"blocks": 23,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Springbok Sprites",
-			"prestige": 3,
+			"pass": 9,
+			"prespp": 48,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 29,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 135
 		},
 		"896618": {
+			"blocks": 31,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Charace Charioteers",
+			"pass": 3,
+			"prespp": 41,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 134
 		}
 	}
 }

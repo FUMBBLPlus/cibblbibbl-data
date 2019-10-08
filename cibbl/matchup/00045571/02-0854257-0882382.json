@@ -1,75 +1,74 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4013930",
-	"player_performance": {
+	"player": {
 		"854257": {
 			"11432421": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Peach Blossom Water",
 				"prespp": 58,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11432424": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "After the Lotus Flowers Have Opened",
 				"prespp": 122,
-				"rus": 20,
+				"rush": 20,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11452680": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Overflowing Bliss",
 				"prespp": 44,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11565341": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Sorrowfully An Ape Calls",
 				"prespp": 50,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11625098": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "I Am Lucky",
 				"prespp": 38,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11835792": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Ten Thousand Paths",
 				"prespp": 49,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11959633": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Gnaw the Books",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12099992": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Monkey Fox Flow",
 				"prespp": 46,
-				"rus": 14,
+				"rush": 14,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12134740": {
@@ -77,25 +76,25 @@
 				"type": "R"
 			},
 			"12169211": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Non-Being",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12204485": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Startles the Deer",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12248635": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Wild Herbs",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12273496": {
@@ -105,7 +104,7 @@
 			"12342991": {
 				"name": "Boundless Grass",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12363947": {
@@ -115,16 +114,16 @@
 		},
 		"882382": {
 			"11881490": {
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Shan Yu",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11881491": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					5,
@@ -133,30 +132,31 @@
 				],
 				"name": "Gothel",
 				"prespp": 36,
-				"tur": 4,
+				"retired": true,
+				"turns": 4,
 				"type": "R"
 			},
 			"11881492": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Te Ka",
 				"prespp": 6,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11942620": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ka Viku",
 				"prespp": 91,
-				"rus": 28,
-				"tur": 16,
+				"rush": 28,
+				"turns": 16,
 				"type": "R"
 			},
 			"11942621": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Balkaza",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11942628": {
@@ -168,93 +168,112 @@
 				],
 				"name": "Scroop",
 				"prespp": 10,
+				"retired": true,
 				"type": "R"
 			},
 			"11977896": {
 				"name": "Gin Phur",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12138861": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gaudi",
 				"prespp": 36,
-				"tur": 16,
+				"turns": 16,
 				"type": "I"
 			},
 			"12146458": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Mo-mo",
 				"prespp": 14,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12220671": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Aladain",
 				"prespp": 20,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12243172": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Mustapha",
 				"prespp": 9,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12248744": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Lago",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12325284": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Genie",
 				"prespp": 21,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12368897": {
 				"name": "El Tarif",
 				"type": "R"
 			},
-			"882382S1": {
-				"blk": 5,
-				"fou": 3,
+			"STAR-7548": {
+				"blocks": 5,
+				"fouls": 3,
 				"name": "Hack Enslash",
-				"tur": 13,
+				"turns": 13,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1097779",
-	"team_performance": {
+	"team": {
 		"854257": {
+			"blocks": 40,
 			"cas": 4,
-			"casdiff": 3,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grand Celestial Delegate",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 446,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 149
 		},
 		"882382": {
-			"cas": 1,
-			"casdiff": -3,
+			"blocks": 39,
+			"cas": 0,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ali's Anarchists",
+			"pass": 0,
+			"prespp": 281,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 28,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 150
 		}
 	}
 }

@@ -1,87 +1,82 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3916026",
-	"player_performance": {
+	"player": {
 		"855228": {
 			"11448229": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jessie Graff",
 				"prespp": 57,
-				"rus": 19,
-				"tur": 11,
+				"rush": 19,
+				"turns": 11,
 				"type": "R"
 			},
 			"11448236": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Joe Moravsky",
 				"prespp": 42,
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11448237": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Geoff Britten",
 				"prespp": 38,
 				"spp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11448238": {
 				"name": "Drew Drechsel",
 				"prespp": 42,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11448250": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Brian Arnold",
 				"prespp": 12,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11448252": {
 				"name": "Michelle Warnky",
 				"prespp": 9,
-				"retired": true,
 				"type": "R"
 			},
 			"11448253": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kacy Cataranzo",
 				"prespp": 12,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11465295": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Anika Shadow",
 				"prespp": 23,
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11494706": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jack Caldiero",
 				"prespp": 21,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11557119": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Sam Sin",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11665228": {
 				"name": "Asher Shade",
 				"prespp": 12,
-				"retired": true,
 				"type": "R"
 			},
 			"11737436": {
@@ -89,14 +84,14 @@
 					1,
 					1,
 					"blocked",
-					"859097S1"
+					"STAR-7565"
 				],
 				"name": "Splinter",
+				"retired": true,
 				"type": "R"
 			},
 			"11746433": {
 				"name": "Trevor Storm",
-				"retired": true,
 				"type": "R"
 			},
 			"11801400": {
@@ -104,92 +99,92 @@
 				"type": "R"
 			},
 			"11853135": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Kacy Catanzaro",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 14,
-				"rus": 6,
+				"rush": 6,
 				"spp": 1,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		},
 		"859097": {
 			"11512471": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Ghaggar-Hakra",
 				"prespp": 35,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512476": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chola",
 				"prespp": 35,
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512478": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vaishnava",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 19,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512482": {
 				"name": "Amu Darya",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11512483": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Vima Taktu",
 				"prespp": 11,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11570395": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Devaraja",
 				"prespp": 11,
-				"rus": 30,
+				"rush": 30,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11671350": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Arun Jaitley",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11703410": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "Yogi Adityanath",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11703411": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Shashi Tharoor",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11706486": {
 				"name": "Aki Mehta",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11770088": {
@@ -198,55 +193,73 @@
 				"type": "R"
 			},
 			"11844958": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Raja Raja Chola",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
-			"859097M1": {
-				"blk": 1,
-				"fou": 1,
+			"MERC-7498-0096": {
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Merc Rakshaka 1",
-				"tur": 13,
+				"turns": 13,
 				"type": "M"
 			},
-			"859097S1": {
-				"blk": 5,
+			"STAR-7565": {
+				"blocks": 5,
 				"cas": 1,
 				"name": "Mighty Zug",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "983607",
-	"team_performance": {
+	"team": {
 		"855228": {
+			"blocks": 13,
 			"cas": 0,
-			"casdiff": -6,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ninja Warriors",
+			"pass": 2,
+			"prespp": 288,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 25,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 82
 		},
 		"859097": {
-			"cas": 6,
-			"casdiff": 6,
+			"blocks": 28,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bhubaneswar Rampage",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 140,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 171
 		}
 	}
 }

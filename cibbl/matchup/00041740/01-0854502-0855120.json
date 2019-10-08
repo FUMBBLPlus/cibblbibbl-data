@@ -1,159 +1,158 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3847876",
-	"player_performance": {
+	"player": {
 		"854502": {
 			"11436807": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Oblomov IV",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11436813": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Lev Nikolájevitj Mýsjkin",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11436823": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Antíp Lev Burdóvskij",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11436825": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ardalión Iván Aleksándrovitj",
 				"prespp": 4,
-				"rus": 7,
-				"tur": 11,
+				"rush": 7,
+				"turns": 11,
 				"type": "R"
 			},
 			"11436826": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gavríla Gánja Ardaliónovitj",
 				"prespp": 3,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11436827": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Iván Fjódorovitj Jepantjín",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 3,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11436828": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Lukján Timoféjevitj Lébedjev",
 				"prespp": 8,
-				"rus": 6,
+				"rush": 6,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11436832": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Nikoláj Andréj Pavlísjtjev",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11436833": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Iván Petróvitj Ptítsyn",
 				"prespp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11436834": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jevgénij Pávlovitj Radómskij",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 2,
-				"rus": 8,
-				"tur": 9,
+				"rush": 8,
+				"turns": 9,
 				"type": "R"
 			},
 			"11436836": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Parfjón Semjónovitj Rogózjin",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		},
 		"855120": {
 			"11446495": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Bel-Verar",
 				"prespp": 7,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11446496": {
 				"name": "Aethedi",
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11446497": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Zunrec Greatbone",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11446499": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Oedia",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11446516": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Manslicer the Vile",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11446518": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Odorico De Leo",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11446519": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Verano Ragazzo",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11446521": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ladislao Celano",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11446522": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Nicola Valeri",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11446525": {
@@ -161,47 +160,63 @@
 				"type": "R"
 			},
 			"11485646": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Cory Clearrock",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
 			"11485647": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Duane Bluehammer",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "905132",
-	"team_performance": {
+	"team": {
 		"854502": {
+			"blocks": 30,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Spartak Bolgasgrad",
+			"pass": 5,
+			"prespp": 25,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 152
 		},
 		"855120": {
+			"blocks": 47,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 26,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 160
 		}
 	}
 }

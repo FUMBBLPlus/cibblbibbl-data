@@ -1,53 +1,52 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3979167",
-	"player_performance": {
+	"player": {
 		"886002": {
 			"11938003": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Caphalor Darkstar",
 				"prespp": 25,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11938007": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Sinthoras Bloodflame",
 				"prespp": 40,
-				"rus": 15,
+				"rush": 15,
 				"spp": 7,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11938008": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Molostroi Demonheart",
 				"prespp": 20,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11938010": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Malaguth Blackmoon",
 				"prespp": 33,
-				"rus": 3,
+				"rush": 3,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11938039": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cargavel Stormcrow",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 60,
-				"rus": 4,
-				"tur": 15,
+				"rush": 4,
+				"turns": 15,
 				"type": "R"
 			},
 			"11938045": {
@@ -57,16 +56,16 @@
 			"11938051": {
 				"name": "Valyr Dragonrider",
 				"prespp": 14,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11938060": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Telok Beastslayer",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12060967": {
@@ -76,104 +75,104 @@
 			},
 			"12077340": {
 				"name": "Nazuc Nightraider",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12125346": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Raheel Swiftdeath",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12154913": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Micath Ghosthunter",
 				"prespp": 11,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12188144": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sheila Coldeyes",
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"895015": {
 			"12083002": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Shanka",
 				"prespp": 15,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12083010": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Thrano",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 15,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12083011": {
 				"name": "Urano",
 				"prespp": 6,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12083013": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Pluro",
 				"prespp": 20,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12083015": {
-				"cps": 2,
+				"comp": 2,
 				"name": "Mared",
-				"pas": 12,
+				"pass": 12,
 				"prespp": 19,
-				"rus": 1,
+				"rush": 1,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12083372": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Roundril",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12083373": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Edfrei",
 				"prespp": 22,
-				"rus": 1,
-				"tur": 15,
+				"rush": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12083374": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bakeon",
 				"prespp": 32,
-				"rus": 4,
-				"tur": 5,
+				"rush": 4,
+				"turns": 5,
 				"type": "R"
 			},
 			"12158697": {
@@ -185,18 +184,19 @@
 				],
 				"name": "Stelra",
 				"prespp": 2,
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
 			"12158704": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Carcosa",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12218048": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					3,
@@ -204,41 +204,60 @@
 					"11938060"
 				],
 				"name": "Mercqui",
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"12218053": {
 				"name": "Japuto",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1056472",
-	"team_performance": {
+	"team": {
 		"886002": {
+			"blocks": 33,
 			"cas": 6,
 			"casdiff": 5,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom Glade Demons",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 230,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 39,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 146
 		},
 		"895015": {
+			"blocks": 29,
 			"cas": 1,
 			"casdiff": -5,
+			"comp": 3,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Springbok Sprites",
+			"pass": 15,
+			"prespp": 150,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 7,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 134
 		}
 	}
 }

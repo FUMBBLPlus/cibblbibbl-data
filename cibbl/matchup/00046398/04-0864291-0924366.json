@@ -1,46 +1,45 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4055144",
-	"player_performance": {
+	"player": {
 		"864291": {
 			"11590768": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "S. Sang",
 				"prespp": 102,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11590771": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Redivor",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590777": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Limortor",
 				"prespp": 24,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590780": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Affuquator",
 				"prespp": 24,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11681513": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "L.A. Biond",
 				"prespp": 87,
-				"rus": 12,
-				"tur": 16,
+				"rush": 12,
+				"turns": 16,
 				"type": "R"
 			},
 			"12163198": {
@@ -49,127 +48,127 @@
 				"type": "R"
 			},
 			"12178122": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Balord",
 				"prespp": 21,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12447130": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Borgan Nightbreath",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12455584": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Freddie 'n Petto",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12470187": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Stukas",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12552111": {
 				"name": "L. Lavermicocca",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12617195": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "L.A: Gnora III",
-				"rus": 25,
-				"tur": 16,
+				"rush": 25,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"924366": {
 			"12544595": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Dion Grimwater",
 				"prespp": 8,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544596": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Cario Mastclimber",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544597": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Feredor Milegaze",
 				"prespp": 3,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12544598": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Angelior Deathdealer",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544599": {
-				"cps": 1,
-				"fou": 1,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Flior Fishmonger",
 				"prespp": 7,
 				"spp": 1,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12544600": {
-				"blk": 1,
-				"cps": 2,
+				"blocks": 1,
+				"comp": 2,
 				"name": "Rozil Runningwater",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 7,
-				"rus": 5,
+				"rush": 5,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544601": {
 				"name": "Runar Silvercoral",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544602": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Donna Darkwater",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544603": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ruby Brightwave",
 				"prespp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12544606": {
-				"cps": 2,
+				"comp": 2,
 				"int": 1,
 				"name": "Maruel Moonwave",
-				"pas": 8,
+				"pass": 8,
 				"prespp": 13,
-				"rus": 22,
+				"rush": 22,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544607": {
@@ -178,48 +177,66 @@
 				"type": "R"
 			},
 			"12603149": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Warren Moonwave",
 				"prespp": 7,
-				"rus": 9,
+				"rush": 9,
 				"spp": 4,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
-			"924366S1": {
-				"blk": 9,
+			"STAR-7568": {
+				"blocks": 9,
 				"name": "Prince Moranion",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1144839",
-	"team_performance": {
+	"team": {
 		"864291": {
+			"blocks": 35,
 			"cas": 0,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Norscan Curse",
+			"pass": 0,
+			"prespp": 320,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 46,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 175
 		},
 		"924366": {
+			"blocks": 26,
 			"cas": 0,
 			"casdiff": 0,
+			"comp": 6,
+			"fouls": 1,
+			"int": 1,
+			"mvp": 1,
 			"name": "Cothique Wanderers",
-			"prestige": 3,
+			"pass": 11,
+			"prespp": 56,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 36,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 171
 		}
 	}
 }

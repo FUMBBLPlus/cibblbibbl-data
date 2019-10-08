@@ -1,95 +1,94 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3921740",
-	"player_performance": {
+	"player": {
 		"873369": {
 			"11737364": {
 				"name": "Hybree",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11737365": {
 				"name": "Trikhuf",
 				"prespp": 13,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737376": {
 				"name": "Weyrot",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737379": {
 				"name": "Baahru",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11737432": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Fulmayne Thrice-Crowned",
 				"prespp": 30,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11737433": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Breyyar Scoredrinker",
 				"prespp": 14,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11737434": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Stoneflagon Rhuheigh",
 				"prespp": 25,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737443": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Yronleg the Barrelbeast",
 				"prespp": 20,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11765170": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Brewmaster Huhroarr",
 				"prespp": 12,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11859881": {
 				"name": "Heighar",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11859890": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Yaahrut",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11859894": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Wytehide",
-				"rus": 17,
+				"rush": 17,
 				"spp": 5,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			}
 		},
@@ -105,47 +104,47 @@
 				"type": "R"
 			},
 			"11790128": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Geranara",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11790129": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Hellobora",
 				"prespp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11790130": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Decumaria",
 				"prespp": 8,
-				"rus": 9,
-				"tur": 12,
+				"rush": 9,
+				"turns": 12,
 				"type": "R"
 			},
 			"11790131": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Geranoris",
 				"spp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11790133": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "Mahoganaea",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11790136": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Anisatum",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11790137": {
@@ -153,66 +152,82 @@
 				"type": "R"
 			},
 			"11790138": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Telodice",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11790140": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Ensata",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11860684": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "David Fastorc",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
 			"11860685": {
 				"name": "Fredrick Bluesnake",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
-			"876711S1": {
-				"blk": 11,
+			"STAR-7660": {
+				"blocks": 11,
 				"cas": 1,
 				"name": "M'Gorg'Gn'Throg",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "990229",
-	"team_performance": {
+	"team": {
 		"873369": {
+			"blocks": 38,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Schattenwald Drinking Horns",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 126,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 156
 		},
 		"876711": {
+			"blocks": 31,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cythral Old Oaks",
+			"pass": 0,
+			"prespp": 20,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 147
 		}
 	}
 }

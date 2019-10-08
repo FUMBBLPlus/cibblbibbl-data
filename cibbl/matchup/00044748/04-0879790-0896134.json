@@ -1,93 +1,88 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3986350",
-	"player_performance": {
+	"player": {
 		"879790": {
 			"11839349": {
 				"name": "Arstur An'gom",
 				"prespp": 35,
-				"rus": 43,
+				"rush": 43,
 				"spp": 9,
-				"tds": 3,
-				"tur": 16,
+				"td": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839798": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Ba'el, The Naked Slayer",
 				"prespp": 53,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11865383": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"name": "Abraxis, Tooth of Death",
 				"prespp": 44,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11959755": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Malphas, The Bloody Blade",
 				"prespp": 39,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158454": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Tusk Anon, The Horned One",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12223042": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ezrath Nemelas",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12236881": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Halanath Skyrak",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12265559": {
 				"name": "Sean Deepwing",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12265560": {
 				"name": "George Hoteagle",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12265561": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Julius Clearshield",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12265562": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Duane Deepshield",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			}
 		},
@@ -95,48 +90,48 @@
 			"12101571": {
 				"name": "Krakshot Neek",
 				"prespp": 26,
-				"rus": 4,
-				"tur": 8,
+				"rush": 4,
+				"turns": 8,
 				"type": "R"
 			},
 			"12101572": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Shokk-naww",
 				"prespp": 10,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12101577": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Snub-tail",
 				"prespp": 16,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12101578": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Quee-kin",
 				"prespp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12101579": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Vyrmreek",
 				"prespp": 6,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12101580": {
 				"name": "Virr-yekk",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12101581": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gimp-paw",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12101582": {
@@ -145,16 +140,16 @@
 				"type": "R"
 			},
 			"12101583": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nakk-Nakk",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12101584": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kreeyik",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12101587": {
@@ -163,65 +158,83 @@
 				"type": "R"
 			},
 			"12101597": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Virulent Reever",
-				"rus": -1,
-				"tur": 8,
+				"rush": -1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12125540": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Rabid Rocket",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "B"
 			},
 			"12135507": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Flitty Spleent",
 				"prespp": 8,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12242930": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Rotten Roller Mk.2",
 				"prespp": 7,
-				"tur": 3,
+				"turns": 3,
 				"type": "B"
 			}
 		}
 	},
 	"replayId": "1064763",
-	"team_performance": {
+	"team": {
 		"879790": {
+			"blocks": 35,
 			"cas": 5,
 			"casdiff": 5,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Unfettered Fury",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 194,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 43,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 165
 		},
 		"896134": {
+			"blocks": 21,
 			"cas": 0,
 			"casdiff": -5,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rotfall Ironworks Rocketeers",
+			"pass": 0,
+			"prespp": 112,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 10,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 118
 		}
 	}
 }

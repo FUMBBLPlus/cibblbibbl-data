@@ -1,40 +1,39 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3985702",
-	"player_performance": {
+	"player": {
 		"863441": {
 			"11582132": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Firithas",
 				"prespp": 69,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582133": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Falandar",
 				"prespp": 86,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11582134": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Lonlaithilon",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 52,
-				"rus": 10,
+				"rush": 10,
 				"spp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11582135": {
 				"name": "Norlir",
 				"prespp": 37,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11582136": {
@@ -43,62 +42,62 @@
 				"type": "R"
 			},
 			"11582137": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Linfarnrir",
 				"prespp": 25,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11582139": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Arathion",
 				"prespp": 32,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11657983": {
-				"blk": 2,
-				"cps": 3,
-				"fou": 1,
+				"blocks": 2,
+				"comp": 3,
+				"fouls": 1,
 				"name": "Nuirlan",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 45,
-				"rus": 4,
+				"rush": 4,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11937388": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Saeldovel",
 				"prespp": 31,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12004052": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Gaezen",
 				"prespp": 36,
-				"rus": 5,
+				"rush": 5,
 				"spp": 7,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12031273": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Maerurhel",
 				"prespp": 19,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12055204": {
@@ -108,31 +107,30 @@
 			},
 			"12055992": {
 				"name": "Aiuzirvel",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12255344": {
-				"blk": 2,
-				"fou": 3,
+				"blocks": 2,
+				"fouls": 3,
 				"name": "Tharal",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		},
 		"867862": {
 			"11646894": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Serrek of Nathrezzar",
 				"prespp": 64,
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11646901": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Muk",
 				"prespp": 53,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11646902": {
@@ -144,115 +142,133 @@
 				],
 				"name": "Ner",
 				"prespp": 7,
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"11646912": {
 				"name": "Che",
 				"prespp": 8,
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11722423": {
-				"blk": 13,
+				"blocks": 13,
 				"mvp": 1,
 				"name": "Vur",
 				"prespp": 34,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11782667": {
-				"blk": 2,
-				"fou": 6,
+				"blocks": 2,
+				"fouls": 6,
 				"name": "Vir",
 				"prespp": 9,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11917261": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Irtriss",
 				"prespp": 31,
-				"rus": 23,
-				"tur": 17,
+				"rush": 23,
+				"turns": 17,
 				"type": "R"
 			},
 			"11946085": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Tarotep of Horin 'Reth",
 				"prespp": 33,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12051541": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Drewaq Evilgrin",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12065262": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Zird",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122939": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Treth' Kon Sharkface",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12199989": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Umir",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12215612": {
 				"name": "Kudir",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12223534": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chitol",
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1064029",
-	"team_performance": {
+	"team": {
 		"863441": {
-			"cas": 6,
-			"casdiff": 6,
+			"blocks": 37,
+			"cas": 5,
+			"casdiff": 5,
+			"comp": 4,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tor Anroc Anglers",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 458,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 150
 		},
 		"867862": {
+			"blocks": 53,
 			"cas": 0,
-			"casdiff": -6,
+			"casdiff": -5,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Everlasting Vultures of Settra",
+			"pass": 0,
+			"prespp": 248,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 24,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 161
 		}
 	}
 }

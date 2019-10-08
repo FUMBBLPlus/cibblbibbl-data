@@ -1,20 +1,19 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3987046",
-	"player_performance": {
+	"player": {
 		"885728": {
 			"11933450": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Yarrah the Gray",
 				"prespp": 31,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "B"
 			},
 			"11933451": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					4,
@@ -23,44 +22,45 @@
 				],
 				"name": "Sookie Roo",
 				"prespp": 9,
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"11933452": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Naure Roo",
 				"prespp": 33,
-				"rus": 13,
-				"tur": 13,
+				"rush": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11933454": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Rippa Roo",
 				"prespp": 30,
-				"rus": 4,
+				"rush": 4,
 				"spp": 8,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11933455": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Pash a Roo",
 				"prespp": 36,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939409": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Flower",
 				"prespp": 9,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12129142": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					1,
 					6,
@@ -69,24 +69,25 @@
 				],
 				"name": "Niera Roo",
 				"prespp": 13,
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"12196374": {
 				"name": "Darlee Roo",
 				"prespp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12196375": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cuetee",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12221424": {
 				"name": "Felicity",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12253372": {
@@ -94,144 +95,163 @@
 					1,
 					3,
 					"crowdPushed",
-					"12182659"
+					null
 				],
 				"name": "Dirklee",
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
-			"885728S1": {
+			"STAR-7534": {
 				"name": "Bomber Dribblesnot",
-				"tur": 8,
+				"turns": 8,
 				"type": "S"
 			}
 		},
 		"897379": {
 			"12122311": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Gotrek Gurnisson",
 				"prespp": 13,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122312": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Snorri Nosebiter",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122314": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Malakai Makaisson",
 				"prespp": 21,
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12122318": {
 				"name": "Cpt. Long Drong",
 				"prespp": 22,
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122319": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "First Mate Morgrim Dallinsson",
 				"prespp": 32,
-				"rus": 10,
-				"tur": 16,
+				"rush": 10,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122320": {
 				"name": "Finn Hargrimsson",
-				"rus": 3,
-				"tur": 13,
+				"rush": 3,
+				"turns": 13,
 				"type": "R"
 			},
 			"12122325": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Yadri Budriksson",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122326": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Belegar Baliksnev",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12122328": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Borri Largsfind",
 				"prespp": 7,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12122331": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Fodrin Ranulfsson",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122332": {
 				"name": "Vragni Rorekfind",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12182659": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Rodi Balkisson",
 				"prespp": 17,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12243406": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bjorni Bjornisson",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1065585",
-	"team_performance": {
+	"team": {
 		"885728": {
+			"blocks": 34,
 			"cas": 1,
 			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bear Clutchers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 166,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 17,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 104
 		},
 		"897379": {
+			"blocks": 41,
 			"cas": 5,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "~Karak Kadrin Slayers~",
+			"pass": 0,
+			"prespp": 141,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 21,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 162
 		}
 	}
 }

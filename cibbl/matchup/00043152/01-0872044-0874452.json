@@ -1,68 +1,67 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3910180",
-	"player_performance": {
+	"player": {
 		"872044": {
 			"11713837": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Carol I",
 				"prespp": 33,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713838": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Ferdinand I",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713840": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Burggraf of Nuremberg",
 				"spp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11713841": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Reichsgraf of Hohenzollern",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 25,
-				"rus": 25,
+				"rush": 25,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713845": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Constantin",
 				"prespp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11713846": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Dragonmir",
 				"type": "R"
 			},
 			"11713847": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Grigore",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11756292": {
 				"name": "Maria Christina",
 				"prespp": 6,
-				"rus": 8,
-				"tur": 9,
+				"rush": 8,
+				"turns": 9,
 				"type": "R"
 			},
 			"11787325": {
@@ -71,25 +70,25 @@
 			},
 			"11805853": {
 				"name": "Florin",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11806299": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Michael I",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11835859": {
 				"name": "Maria Anna",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		},
 		"874452": {
 			"11756581": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					4,
@@ -98,74 +97,75 @@
 				],
 				"name": "Gregor Gregorivich",
 				"prespp": 21,
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"11756582": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Draco Dracovich",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11756629": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Igor Igorivich",
 				"prespp": 10,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"11756687": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Karl",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11756689": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Franz",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11756707": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Stefan",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11756708": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sigwald",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11756715": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Henrich von Blotenburg",
 				"prespp": 14,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756720": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"name": "Gustav von Darkwald",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756722": {
@@ -173,10 +173,10 @@
 				"type": "R"
 			},
 			"11756723": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Giselle",
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756725": {
@@ -185,7 +185,7 @@
 			},
 			"11775815": {
 				"name": "Gunter",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11823209": {
@@ -196,36 +196,55 @@
 					"11713847"
 				],
 				"name": "Hans",
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "976849",
-	"team_performance": {
+	"team": {
 		"872044": {
-			"cas": 3,
-			"casdiff": 0,
+			"blocks": 34,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Strigos Elită",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 95,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 33,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 96
 		},
 		"874452": {
-			"cas": 3,
-			"casdiff": 0,
+			"blocks": 38,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 74,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 105
 		}
 	}
 }

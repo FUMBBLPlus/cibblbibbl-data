@@ -1,71 +1,69 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4018923",
-	"player_performance": {
+	"player": {
 		"864291": {
 			"11590768": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "S. Sang",
 				"prespp": 81,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"11590769": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "U. Gress",
 				"prespp": 37,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "B"
 			},
 			"11590771": {
 				"name": "Redivor",
 				"prespp": 17,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11590777": {
 				"name": "Limortor",
 				"prespp": 22,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11590780": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Affuquator",
 				"prespp": 24,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11590781": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dichitemor",
 				"prespp": 21,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11681513": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "L.A. Biond",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 63,
-				"rus": 6,
+				"rush": 6,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11853366": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Stukitemor",
 				"prespp": 13,
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12163198": {
@@ -74,68 +72,68 @@
 				"type": "R"
 			},
 			"12178122": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Balord",
 				"prespp": 19,
-				"tur": 14,
+				"turns": 14,
 				"type": "B"
 			},
 			"12218841": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"mvp": 1,
 				"name": "L.A. Gnora II",
-				"pas": 5,
+				"pass": 5,
 				"prespp": 24,
-				"rus": 8,
+				"rush": 8,
 				"spp": 6,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12447130": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Borgan Nightbreath",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12455584": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Freddie 'n Petto",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		},
 		"905924": {
 			"12254401": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Reddup",
 				"prespp": 9,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12254402": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Spook",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12254405": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Bone",
 				"prespp": 17,
-				"rus": 4,
-				"tur": 15,
+				"rush": 4,
+				"turns": 15,
 				"type": "R"
 			},
 			"12254414": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Clumsy",
 				"prespp": 7,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12254424": {
@@ -144,31 +142,31 @@
 			},
 			"12254440": {
 				"name": "O-Dog The Trogslayer",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 8,
-				"rus": 8,
-				"tur": 9,
+				"rush": 8,
+				"turns": 9,
 				"type": "R"
 			},
 			"12254445": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Scumm The Rebel",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12254450": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Smartu The Unscarred",
 				"prespp": 3,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12263755": {
 				"name": "Gizmo The Gambler",
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12263756": {
@@ -176,63 +174,80 @@
 				"type": "R"
 			},
 			"12268727": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Redbone",
 				"prespp": 20,
-				"rus": 9,
+				"rush": 9,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12421873": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Horrus",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12455583": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "David Deepwing",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
-			"905924S1": {
-				"blk": 10,
+			"STAR-7543": {
+				"blocks": 10,
 				"cas": 1,
 				"name": "Swingin' Willy",
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1103277",
-	"team_performance": {
+	"team": {
 		"864291": {
+			"blocks": 27,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Norscan Curse",
-			"prestige": 1,
+			"pass": 11,
+			"prespp": 328,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 123
 		},
 		"905924": {
+			"blocks": 41,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Squill's Squig Pitt",
-			"prestige": 1,
+			"pass": -1,
+			"prespp": 76,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 26,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 144
 		}
 	}
 }

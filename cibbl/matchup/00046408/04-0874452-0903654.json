@@ -1,108 +1,106 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4049855",
-	"player_performance": {
+	"player": {
 		"874452": {
 			"11756582": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Draco Dracovich",
 				"prespp": 177,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756629": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Igor Igorivich",
 				"prespp": 168,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11980258": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tabbart",
 				"prespp": 20,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11981974": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Arnold",
 				"prespp": 8,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12254615": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nickolaus",
 				"prespp": 3,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12319529": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Dracul Draculesti",
-				"pas": 10,
+				"pass": 10,
 				"prespp": 59,
-				"rus": 17,
+				"rush": 17,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12368009": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Norbert von Bluten",
 				"prespp": 26,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12415471": {
 				"name": "Werner",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 3,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12415694": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Alex Alexsandrescu",
 				"prespp": 29,
-				"retired": true,
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12444792": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Peter Badblood",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12529939": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hubert",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12550877": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Albert",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12550878": {
 				"name": "Horst",
 				"prespp": 4,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12610959": {
@@ -113,43 +111,44 @@
 					"12219676"
 				],
 				"name": "Wilbur",
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			}
 		},
 		"903654": {
 			"12219673": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Ahmose",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 80,
-				"rus": 26,
+				"rush": 26,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12219676": {
-				"blk": 14,
+				"blocks": 14,
 				"cas": 3,
 				"name": "Senenmut",
 				"prespp": 45,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12219678": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Merenre",
 				"prespp": 37,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12219681": {
 				"name": "Haremhab",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12219683": {
@@ -160,16 +159,16 @@
 			"12219684": {
 				"name": "Sihathor",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12227199": {
 				"name": "Kentetenka",
 				"prespp": 76,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12318457": {
@@ -179,74 +178,92 @@
 			"12319538": {
 				"name": "Re'hotpe",
 				"prespp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12367633": {
 				"name": "Masaharta",
 				"prespp": 38,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12443530": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nofret",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12500720": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Bunefer",
 				"prespp": 15,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12537131": {
 				"name": "Aahotepre",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12537132": {
 				"name": "Heqanakht",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12603969": {
 				"mvp": 1,
 				"name": "Tetisheri",
-				"rus": 8,
+				"rush": 8,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1138884",
-	"team_performance": {
+	"team": {
 		"874452": {
+			"blocks": 49,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
+			"pass": 9,
+			"prespp": 517,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 36,
 			"score": 2,
 			"scorediff": -1,
-			"tds": 2,
-			"tdsdiff": -1
+			"td": 2,
+			"tddiff": -1,
+			"turns": 143
 		},
 		"903654": {
+			"blocks": 25,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Scions of Neferata",
-			"prestige": 3,
+			"pass": 4,
+			"prespp": 297,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 40,
 			"score": 3,
 			"scorediff": 1,
-			"tds": 3,
-			"tdsdiff": 1
+			"td": 3,
+			"tddiff": 1,
+			"turns": 143
 		}
 	}
 }

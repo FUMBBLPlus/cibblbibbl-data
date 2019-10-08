@@ -1,44 +1,43 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3967647",
-	"player_performance": {
+	"player": {
 		"869156": {
 			"11667457": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Glicees",
 				"prespp": 82,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "B"
 			},
 			"11667458": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Xahr",
 				"prespp": 47,
 				"spp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "B"
 			},
 			"11667459": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Keeth",
 				"prespp": 55,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "B"
 			},
 			"11667462": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Rozatar",
 				"prespp": 58,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "B"
 			},
 			"11667465": {
@@ -50,7 +49,8 @@
 				],
 				"name": "Mebas",
 				"prespp": 28,
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"11667467": {
@@ -61,14 +61,14 @@
 			"11667468": {
 				"name": "Nal",
 				"prespp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11667471": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Acurag",
 				"prespp": 7,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11744463": {
@@ -82,160 +82,178 @@
 				"type": "R"
 			},
 			"11851754": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zorq",
 				"prespp": 12,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12072199": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Plizin",
 				"prespp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12158172": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Chiln",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12166391": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gorom",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"874317": {
 			"11754392": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Balor Evil-eye",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11754410": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Odracon The Procreator",
 				"prespp": 47,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11754411": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bres",
 				"prespp": 18,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11754412": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Cian",
 				"prespp": 8,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11754414": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Lug",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11754417": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cethlenn",
 				"prespp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11754418": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Tethra",
 				"prespp": 16,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11859103": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Moloch the Respawned",
 				"prespp": 16,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11904321": {
 				"name": "Dilek",
 				"prespp": 34,
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"11966718": {
 				"name": "The Fog",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12047952": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Slough Feg",
 				"prespp": 7,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12125990": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cihol",
 				"prespp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12126092": {
 				"name": "Hadiz",
-				"rus": 11,
-				"tur": 8,
+				"rush": 11,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1043199",
-	"team_performance": {
+	"team": {
 		"869156": {
+			"blocks": 39,
 			"cas": 2,
-			"casdiff": -4,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Talsyn Tramplers",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 333,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 93
 		},
 		"874317": {
-			"cas": 6,
-			"casdiff": 4,
+			"blocks": 42,
+			"cas": 5,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Misty Isle Gators",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 161,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 138
 		}
 	}
 }

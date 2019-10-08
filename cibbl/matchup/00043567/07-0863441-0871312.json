@@ -1,60 +1,59 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3940994",
-	"player_performance": {
+	"player": {
 		"863441": {
 			"11582131": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Aerian",
 				"prespp": 33,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11582132": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Firithas",
 				"prespp": 49,
-				"rus": 9,
-				"tur": 16,
+				"rush": 9,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582133": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Falandar",
 				"prespp": 49,
 				"spp": 3,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11582134": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Lonlaithilon",
 				"prespp": 28,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582135": {
-				"blk": 3,
-				"cps": 2,
+				"blocks": 3,
+				"comp": 2,
 				"name": "Norlir",
-				"pas": 8,
+				"pass": 8,
 				"prespp": 29,
-				"rus": 3,
+				"rush": 3,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11582136": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Gethonil",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582137": {
@@ -67,40 +66,39 @@
 				"name": "Arathion",
 				"prespp": 27,
 				"spp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11657983": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Nuirlan",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 24,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11937388": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Saeldovel",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12004052": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Gaezen",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12004053": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Xavier Strongsnake",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
@@ -111,49 +109,49 @@
 				"type": "R"
 			},
 			"11700285": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Count Jurij",
 				"prespp": 37,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11700318": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Seth",
 				"prespp": 34,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700319": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Anubis",
 				"prespp": 43,
 				"spp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11700323": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Servant Fjodor",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11812909": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Count Yaroslav",
 				"prespp": 32,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11850036": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Paul Darktree",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11933869": {
@@ -161,73 +159,87 @@
 				"type": "R"
 			},
 			"11936975": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ladislao Celano",
 				"prespp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11941952": {
 				"name": "Kacy Catanzaro",
-				"retired": true,
 				"type": "R"
 			},
 			"11986735": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Count Ludovig II.",
-				"pas": 1,
-				"rus": 15,
-				"tur": 16,
+				"pass": 1,
+				"rush": 15,
+				"turns": 16,
 				"type": "R"
 			},
 			"12011733": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ian Blueeagle",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			},
 			"12011734": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zachary Hideousorc",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			},
 			"12011735": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Brian Whitefire",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1012767",
-	"team_performance": {
+	"team": {
 		"863441": {
+			"blocks": 66,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 4,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tor Anroc Anglers",
-			"prestige": 1,
+			"pass": 10,
+			"prespp": 276,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 156
 		},
 		"871312": {
+			"blocks": 44,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tower of the Necromancer",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 206,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 153
 		}
 	}
 }

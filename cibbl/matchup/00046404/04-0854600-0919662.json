@@ -1,43 +1,42 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4054268",
-	"player_performance": {
+	"player": {
 		"854600": {
 			"11439806": {
 				"name": "Hernando Celador",
 				"prespp": 14,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11439812": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Enrico Zapador",
 				"prespp": 22,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11439814": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 2,
 				"name": "Manuel Grandegolpe",
 				"prespp": 74,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11698849": {
 				"name": "Javier Ladron",
 				"prespp": 84,
-				"rus": 1,
-				"tur": 5,
+				"rush": 1,
+				"turns": 5,
 				"type": "R"
 			},
 			"11780487": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Reinaldo Halcon",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11876840": {
@@ -46,30 +45,30 @@
 				"type": "R"
 			},
 			"11884680": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Basilio Mortalmente",
 				"prespp": 85,
-				"rus": 12,
+				"rush": 12,
 				"spp": 5,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11944052": {
 				"name": "Francisco Portero",
 				"prespp": 44,
-				"rus": -1,
-				"tur": 8,
+				"rush": -1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12154538": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Vicente Hierromano",
 				"prespp": 88,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12362443": {
@@ -78,22 +77,22 @@
 				"type": "R"
 			},
 			"12437610": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Thiago Ermitano",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12503392": {
 				"name": "Jacobo Adusto",
 				"prespp": 13,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12528251": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Jorge Chaquetear",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12528711": {
@@ -101,73 +100,73 @@
 				"type": "R"
 			},
 			"12624234": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Pablo Ciego",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12635208": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Jorge Agotado",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"919662": {
 			"12474062": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Urskin",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12474065": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ivan Doroshenko",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12474066": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Stenka Pugachev",
 				"prespp": 9,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12474068": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Yermak Razumovski",
 				"prespp": 13,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12474069": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Alexei Razumovski",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 19,
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"12474072": {
 				"name": "Bela Szozak",
 				"prespp": 21,
-				"rus": 8,
-				"tur": 3,
+				"rush": 8,
+				"turns": 3,
 				"type": "R"
 			},
 			"12474075": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Nagy Avalov",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12474081": {
@@ -175,13 +174,13 @@
 				"type": "R"
 			},
 			"12474094": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Farkas Komilov",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12496563": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"dead": [
 					1,
@@ -191,71 +190,90 @@
 				],
 				"name": "Nesti",
 				"prespp": 6,
+				"retired": true,
 				"spp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "B"
 			},
 			"12512740": {
 				"name": "Besutei",
 				"prespp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12512794": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jebeioyan",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12583898": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Temudjin Hirsut",
-				"rus": 4,
+				"rush": 4,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12622761": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Zorigoo Khuleg",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
-			"919662M1": {
+			"MERC-7294-0404": {
 				"name": "Merc Lineman 1",
-				"tur": 2,
+				"turns": 2,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1143853",
-	"team_performance": {
+	"team": {
 		"854600": {
+			"blocks": 44,
 			"cas": 4,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Montetriste Noblemen",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 523,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 12,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 144
 		},
 		"919662": {
+			"blocks": 41,
 			"cas": 2,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ursun Throat Singers",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 102,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 139
 		}
 	}
 }

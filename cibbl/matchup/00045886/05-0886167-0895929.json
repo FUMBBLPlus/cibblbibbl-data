@@ -1,11 +1,10 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4035347",
-	"player_performance": {
+	"player": {
 		"886167": {
 			"11940509": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					6,
@@ -14,95 +13,96 @@
 				],
 				"name": "Fersi Fellbane",
 				"prespp": 17,
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"11940511": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Rageshadow",
 				"prespp": 45,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940513": {
-				"blk": 1,
-				"cps": 2,
+				"blocks": 1,
+				"comp": 2,
 				"name": "Rasith Duskchill",
-				"pas": 10,
+				"pass": 10,
 				"prespp": 55,
-				"rus": 16,
+				"rush": 16,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940517": {
 				"name": "Novo Nightshade",
 				"prespp": 35,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12029207": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Verlin Ravencaller",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083299": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Cale Duskcaller",
 				"prespp": 8,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12192695": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Bloodstorm",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 47,
-				"rus": 3,
+				"rush": 3,
 				"spp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12277958": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Alma Capgrinder",
 				"prespp": 17,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12353475": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Doombringer",
 				"prespp": 23,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12399327": {
 				"name": "Meleth Fellbleeder",
 				"prespp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12422791": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Mirlahlesh Rainheart",
 				"prespp": 8,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12426480": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Venomchill",
 				"prespp": 14,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12458668": {
@@ -110,65 +110,65 @@
 				"name": "Shallikhash Skullhacker",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12519903": {
 				"name": "Vocore Emberstalker",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		},
 		"895929": {
 			"12098257": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Clawchest",
 				"prespp": 54,
 				"spp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12098258": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Silverscar",
 				"prespp": 38,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Silverstriker",
 				"prespp": 23,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098297": {
 				"mvp": 1,
 				"name": "Duskdigger",
 				"prespp": 69,
-				"rus": 40,
+				"rush": 40,
 				"spp": 11,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12136367": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Fangsnapper Jr",
 				"prespp": 36,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12166472": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Fangsnapper Jr Jr",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12265899": {
@@ -176,31 +176,31 @@
 				"type": "R"
 			},
 			"12295244": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Broadreaper",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12345051": {
-				"fou": 4,
+				"fouls": 4,
 				"name": "Crowripper",
 				"prespp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12345108": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Windfury Jr",
 				"prespp": 15,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12496226": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Crowchest",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12496241": {
@@ -209,43 +209,60 @@
 			},
 			"12508550": {
 				"name": "Flintbasher",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12533931": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Shadowreaper",
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1122082",
-	"team_performance": {
+	"team": {
 		"886167": {
+			"blocks": 32,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 3,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Clar Karond Black Widows",
+			"pass": 13,
+			"prespp": 296,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 146
 		},
 		"895929": {
+			"blocks": 36,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 279,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 40,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 164
 		}
 	}
 }

@@ -1,19 +1,18 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4030043",
-	"player_performance": {
+	"player": {
 		"902875": {
 			"12206473": {
 				"name": "Willie War",
 				"prespp": 9,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12206474": {
 				"name": "Paul Pike",
 				"prespp": 7,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12206475": {
@@ -22,34 +21,34 @@
 				"type": "R"
 			},
 			"12206482": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bernard Wolf",
 				"prespp": 16,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12206483": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gregory Wolf",
 				"prespp": 49,
-				"rus": 7,
-				"tur": 14,
+				"rush": 7,
+				"turns": 14,
 				"type": "R"
 			},
 			"12232700": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Fangtooth Grayback",
 				"prespp": 24,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12277143": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Foxy Notta Wolf",
 				"prespp": 31,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12340452": {
@@ -65,125 +64,123 @@
 			"12353604": {
 				"name": "Cindy Charge",
 				"prespp": 6,
-				"rus": -1,
-				"tur": 10,
+				"rush": -1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12465108": {
 				"name": "Betty Bunker",
-				"tur": 10,
+				"turns": 10,
 				"type": "B"
 			},
 			"12508263": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Bobby Joe Bomber",
 				"spp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "B"
 			},
 			"12508266": {
 				"name": "Tristan Whitehawk",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			},
 			"12508267": {
 				"name": "Duane Deephammer",
-				"retired": true,
 				"type": "J"
 			}
 		},
 		"906259": {
 			"12259672": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Skin to bone Delson",
 				"prespp": 18,
-				"rus": 14,
-				"tur": 15,
+				"rush": 14,
+				"turns": 15,
 				"type": "R"
 			},
 			"12259676": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Powerless Farrel",
 				"prespp": 8,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12259678": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Confusion Kaminsky",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12259679": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Rob One thousend Bones",
 				"prespp": 7,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12266336": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Bev the black phoenix",
 				"prespp": 30,
-				"rus": 5,
+				"rush": 5,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12271318": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Mr Road Untraveled",
 				"prespp": 29,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12271319": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Balance of Power",
 				"prespp": 16,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12271321": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Bloody Tandy",
 				"prespp": 23,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12271323": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Roy Nellsson",
 				"prespp": 16,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12319951": {
 				"name": "Matar Ash",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12349974": {
-				"blk": 9,
+				"blocks": 9,
 				"mvp": 1,
 				"name": "Loat in the Echo",
 				"prespp": 16,
-				"rus": 4,
+				"rush": 4,
 				"spp": 8,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12455662": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Cattle of glass",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12455668": {
@@ -194,30 +191,48 @@
 		}
 	},
 	"replayId": "1115989",
-	"team_performance": {
+	"team": {
 		"902875": {
+			"blocks": 11,
 			"cas": 2,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "T.H.H.U. Slayers",
+			"pass": 0,
+			"prespp": 168,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 6,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 109
 		},
 		"906259": {
-			"cas": 2,
-			"casdiff": 0,
+			"blocks": 53,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Livin' Thing",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 173,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 23,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 142
 		}
 	}
 }

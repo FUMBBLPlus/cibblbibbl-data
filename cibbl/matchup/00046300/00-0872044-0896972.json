@@ -1,103 +1,101 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4041592",
-	"player_performance": {
+	"player": {
 		"872044": {
 			"11713837": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Carol I",
 				"prespp": 179,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713838": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ferdinand I",
 				"prespp": 80,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756292": {
 				"name": "Maria Christina",
 				"prespp": 14,
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11787325": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Zsuzsanna Lorántffy",
 				"prespp": 19,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11946731": {
 				"name": "Eleonore-Magdalena",
 				"prespp": 3,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11953214": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Wilhelmina Amalia",
 				"prespp": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"11953217": {
 				"name": "Andrei",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11985989": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Stefon",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12060391": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dumitru",
 				"prespp": 6,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12245376": {
 				"name": "Katalin Bethlen",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12277433": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Caroline Augusta",
 				"prespp": 6,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12291482": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Stanislav I",
 				"prespp": 17,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12352369": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Viktor I",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12353757": {
@@ -105,32 +103,32 @@
 				"type": "R"
 			},
 			"12572671": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Anna Jo Jagiellon",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		},
 		"896972": {
 			"12117788": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Poppy Merribuck",
 				"prespp": 39,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12117790": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Balthasar the Youthful",
 				"prespp": 31,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12117791": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Konrad the Enchanter",
 				"prespp": 14,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12117792": {
@@ -141,118 +139,136 @@
 			"12117802": {
 				"name": "Urkrasour the Obedient",
 				"prespp": 29,
-				"rus": 7,
-				"tur": 5,
+				"rush": 7,
+				"turns": 5,
 				"type": "R"
 			},
 			"12173327": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Draco the Ascendent",
 				"prespp": 14,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12179724": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "The Xenith of Devotion",
 				"prespp": 15,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12230477": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "*Whip-crack sound effect followed by whinnying horse*",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12235198": {
-				"blk": 10,
+				"blocks": 10,
 				"mvp": 1,
 				"name": "Valanduil of House Meliane, reborn",
 				"prespp": 30,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12357064": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "The Painted Warlock",
 				"prespp": 16,
-				"rus": 7,
-				"tur": 15,
+				"rush": 7,
+				"turns": 15,
 				"type": "R"
 			},
 			"12402972": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lembit Opik",
 				"prespp": 6,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12451233": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Silk",
 				"prespp": 7,
-				"rus": 7,
+				"rush": 7,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12464407": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Bartholomew of the Northern Tower",
 				"prespp": 24,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12536886": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Jeff",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12536887": {
 				"name": "Ferrimora of the Waning Moon",
 				"type": "R"
 			},
-			"896972M1": {
-				"blk": 2,
+			"MERC-13543-1183": {
+				"blocks": 2,
 				"name": "Merc Forsaken Journey 1",
-				"tur": 6,
+				"turns": 6,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1129551",
-	"team_performance": {
+	"team": {
 		"872044": {
+			"blocks": 27,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Strigos Elită",
+			"pass": 0,
+			"prespp": 353,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 21,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 141
 		},
 		"896972": {
+			"blocks": 54,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Seekers of Transcendence",
+			"pass": 0,
+			"prespp": 248,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 21,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 152
 		}
 	}
 }

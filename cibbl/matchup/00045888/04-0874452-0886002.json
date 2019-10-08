@@ -1,101 +1,99 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4033032",
-	"player_performance": {
+	"player": {
 		"874452": {
 			"11756582": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Draco Dracovich",
 				"prespp": 152,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756629": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Igor Igorivich",
 				"prespp": 156,
-				"rus": 27,
+				"rush": 27,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11756687": {
 				"name": "Karl",
 				"prespp": 4,
-				"retired": true,
 				"type": "R"
 			},
 			"11756689": {
 				"name": "Franz",
 				"prespp": 10,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11980258": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Tabbart",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11981974": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Arnold",
 				"prespp": 8,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12150966": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sigfrid",
 				"prespp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12254615": {
 				"name": "Nickolaus",
 				"prespp": 3,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12319529": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dracul Draculesti",
 				"prespp": 44,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12368009": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Norbert von Bluten",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12368012": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ulz",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12415471": {
 				"name": "Werner",
 				"prespp": 3,
-				"rus": 4,
-				"tur": 15,
+				"rush": 4,
+				"turns": 15,
 				"type": "R"
 			},
 			"12415694": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Alex Alexsandrescu",
 				"prespp": 19,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12444792": {
@@ -104,159 +102,177 @@
 				"type": "R"
 			},
 			"12517242": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Klara",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
-			"874452S1": {
-				"blk": 4,
+			"STAR-16481": {
+				"blocks": 4,
 				"name": "Veaceslav the Envious",
-				"tur": 9,
+				"turns": 9,
 				"type": "S"
 			}
 		},
 		"886002": {
 			"11938007": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Sinthoras Bloodflame",
 				"prespp": 90,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938010": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Malaguth Blackmoon",
 				"prespp": 72,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938039": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Cargavel Stormcrow",
 				"prespp": 83,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938051": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Valyr Dragonrider",
 				"prespp": 35,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938060": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Telok Beastslayer",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 31,
-				"rus": 5,
-				"tur": 17,
+				"rush": 5,
+				"turns": 17,
 				"type": "R"
 			},
 			"12154913": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Micath Ghosthunter",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 33,
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12254187": {
 				"name": "Gilgash Doomblade",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12280055": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Damien Scarface",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12335501": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Shorna Nightraider",
 				"prespp": 18,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12412821": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cirgil Darksoul",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12413661": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Nuramon Darkstar",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 6,
-				"rus": 10,
-				"tur": 17,
+				"rush": 10,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413667": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Vargar Demonheart",
 				"prespp": 6,
-				"rus": 12,
+				"rush": 12,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12458452": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Shriga Coldeyes",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 5,
 				"spp": 1,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12458456": {
 				"name": "Cartara Swiftdeath",
 				"prespp": 1,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1119402",
-	"team_performance": {
+	"team": {
 		"874452": {
+			"blocks": 39,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
+			"pass": 0,
+			"prespp": 441,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 31,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 154
 		},
 		"886002": {
+			"blocks": 61,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom Glade Demons",
-			"prestige": 3,
+			"pass": 4,
+			"prespp": 380,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 53,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 184
 		}
 	}
 }

@@ -1,30 +1,28 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3984706",
-	"player_performance": {
+	"player": {
 		"855120": {
 			"11494637": {
 				"name": "Ghezioc",
 				"prespp": 68,
-				"retired": true,
 				"type": "R"
 			},
 			"11596541": {
 				"name": "Innocenzo Mastrogiacomo",
 				"prespp": 28,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11596545": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cassiopea Canova",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11787823": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"dead": [
 					1,
@@ -34,19 +32,20 @@
 				],
 				"name": "Nisadei",
 				"prespp": 100,
+				"retired": true,
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11921959": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Valfredo Merlino",
 				"prespp": 14,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11921960": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					3,
@@ -54,7 +53,8 @@
 					"11667459"
 				],
 				"name": "Rossana Toro",
-				"tur": 4,
+				"retired": true,
+				"turns": 4,
 				"type": "R"
 			},
 			"12025723": {
@@ -62,62 +62,61 @@
 				"name": "Arnbjörn the Hound",
 				"prespp": 26,
 				"spp": 5,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12126165": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Landolf Grau",
 				"prespp": 9,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12152809": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Raondir Goldchin",
 				"prespp": 17,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12178154": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Telemaco Di Domenico",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12244086": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Brathig Bitterchin",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12258993": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tristan Fastbone",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			},
-			"855120M1": {
-				"blk": 1,
-				"fou": 5,
+			"MERC-7500-3375": {
+				"blocks": 1,
+				"fouls": 5,
 				"name": "Merc Tilean Lineman 1",
-				"tur": 11,
+				"turns": 11,
 				"type": "M"
 			},
-			"855120M2": {
-				"blk": 1,
+			"MERC-7515-4053": {
+				"blocks": 1,
 				"name": "Merc Amazon Linewoman 1",
-				"tur": 16,
+				"turns": 16,
 				"type": "M"
 			},
-			"855120S1": {
+			"STAR-7535": {
 				"name": "Boomer Eziasson",
-				"tur": 7,
+				"turns": 7,
 				"type": "S"
 			}
 		},
@@ -125,49 +124,49 @@
 			"11667457": {
 				"name": "Glicees",
 				"prespp": 94,
-				"rus": 34,
+				"rush": 34,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "B"
 			},
 			"11667458": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Xahr",
 				"prespp": 59,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11667459": {
-				"blk": 15,
+				"blocks": 15,
 				"cas": 3,
 				"name": "Keeth",
 				"prespp": 62,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11667462": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Rozatar",
 				"prespp": 62,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11667467": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hralis",
 				"prespp": 14,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11667471": {
-				"fou": 8,
+				"fouls": 8,
 				"name": "Acurag",
 				"prespp": 9,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11744463": {
@@ -176,72 +175,90 @@
 				"type": "R"
 			},
 			"11781773": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Quari",
 				"prespp": 13,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11851754": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Zorq",
 				"prespp": 16,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12072199": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Plizin",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12158172": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chiln",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12166391": {
 				"name": "Gorom",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12226216": {
 				"name": "Fediss",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1062861",
-	"team_performance": {
+	"team": {
 		"855120": {
+			"blocks": 32,
 			"cas": 2,
-			"casdiff": -4,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
+			"pass": 0,
+			"prespp": 271,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 6,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 120
 		},
 		"869156": {
-			"cas": 6,
-			"casdiff": 4,
+			"blocks": 33,
+			"cas": 4,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Talsyn Tramplers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 354,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 132
 		}
 	}
 }

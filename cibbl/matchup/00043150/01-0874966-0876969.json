@@ -1,15 +1,14 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3910293",
-	"player_performance": {
+	"player": {
 		"874966": {
 			"11764899": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Benethor",
 				"prespp": 9,
-				"rus": 20,
-				"tur": 16,
+				"rush": 20,
+				"turns": 16,
 				"type": "R"
 			},
 			"11764901": {
@@ -17,11 +16,11 @@
 				"type": "R"
 			},
 			"11764906": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 2,
 				"name": "Polkan the Red",
 				"spp": 4,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11764910": {
@@ -29,10 +28,10 @@
 				"type": "R"
 			},
 			"11764915": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Finavar",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11764916": {
@@ -40,166 +39,180 @@
 				"type": "R"
 			},
 			"11764917": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Thuralin",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11764918": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Guldir",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11764919": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Lemsas",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11764921": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Morlanna",
 				"prespp": 13,
-				"rus": 16,
+				"rush": 16,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11807601": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sylvester Weakstream",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"11807602": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fredrick Weakfield",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
 			"11807603": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Robert Hardshield",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			},
 			"11807604": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Alexander Goldstone",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"876969": {
 			"11818427": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "The Flame of Progress",
-				"rus": 4,
-				"tur": 17,
+				"rush": 4,
+				"turns": 17,
 				"type": "R"
 			},
 			"11818434": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "The Way Forward",
-				"rus": 3,
-				"tur": 10,
+				"rush": 3,
+				"turns": 10,
 				"type": "R"
 			},
 			"11818436": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "The Transformation of Minds",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11818495": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Worm that Gnaws",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11818499": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "The Water that Burns",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11818501": {
 				"name": "The Snake that Entwines",
-				"pas": 1,
-				"rus": 8,
-				"tur": 17,
+				"pass": 1,
+				"rush": 8,
+				"turns": 17,
 				"type": "R"
 			},
 			"11818502": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "The Shadow's Face",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11818503": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Star that Blinds",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11818504": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Cracked Voice",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11818505": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "The Unfolding Awareness",
 				"spp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11818506": {
 				"mvp": 1,
 				"name": "The Fracturing Consciousness",
 				"spp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "976962",
-	"team_performance": {
+	"team": {
 		"874966": {
+			"blocks": 37,
 			"cas": 2,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 26,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 36,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 155
 		},
 		"876969": {
+			"blocks": 28,
 			"cas": 0,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bringers of Knowledge",
+			"pass": 1,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 15,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 131
 		}
 	}
 }

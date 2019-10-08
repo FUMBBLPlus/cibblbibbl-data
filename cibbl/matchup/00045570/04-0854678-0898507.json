@@ -1,37 +1,36 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4017949",
-	"player_performance": {
+	"player": {
 		"854678": {
 			"11439618": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nightmaster Gnawnagar",
 				"prespp": 41,
-				"rus": 1,
-				"tur": 5,
+				"rush": 1,
+				"turns": 5,
 				"type": "R"
 			},
 			"11439624": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"name": "Grisnik the Blacktail",
 				"prespp": 21,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439628": {
-				"blk": 14,
+				"blocks": 14,
 				"name": "Sneekis the Dragon",
 				"prespp": 59,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11482377": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grisnagar the Brave",
 				"prespp": 25,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11696956": {
@@ -40,33 +39,33 @@
 				"type": "R"
 			},
 			"11850585": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Nightlord Azhiskikk",
 				"prespp": 41,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11934134": {
 				"name": "Nightmaster Vasquee",
 				"prespp": 36,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11948519": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Thanflem the Splinter",
 				"prespp": 4,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11951210": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nightlord Nurgrin",
 				"prespp": 63,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12217971": {
@@ -75,171 +74,189 @@
 				"type": "R"
 			},
 			"12246149": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Raslik the Yellow",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12345916": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"fou": 3,
+				"fouls": 3,
 				"name": "Vazhakk the Skywatcher",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12414555": {
 				"name": "Qhranq Foepaw",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12431914": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Thuekhakch the Flintsnout",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12451213": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Zrukenq the Blighter",
 				"spp": 7,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		},
 		"898507": {
 			"12140161": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Terror of Wurtbad",
 				"prespp": 44,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12140162": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Hanskarl Denk",
 				"prespp": 21,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12140169": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Frederick van Hal",
 				"prespp": 30,
 				"spp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12140175": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Vigo",
 				"prespp": 31,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12140180": {
 				"name": "Count Petr von Stolpe",
 				"prespp": 38,
-				"rus": 1,
-				"tur": 1,
+				"rush": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12140181": {
-				"blk": 2,
-				"fou": 4,
+				"blocks": 2,
+				"fouls": 4,
 				"name": "Carcass",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140184": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rot",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12149573": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Beast of Black-Run",
 				"prespp": 31,
-				"rus": 13,
-				"tur": 16,
+				"rush": 13,
+				"turns": 16,
 				"type": "R"
 			},
 			"12227552": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Baronetess Odile von Stolpe",
 				"prespp": 16,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12231366": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Putrid",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12231367": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Floater",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12254199": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Maggot",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12289388": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Solice",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12349964": {
 				"name": "Bubos",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1102202",
-	"team_performance": {
+	"team": {
 		"854678": {
-			"cas": 4,
-			"casdiff": 4,
+			"blocks": 44,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lords of the Silent Death",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 426,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 15,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 136
 		},
 		"898507": {
+			"blocks": 48,
 			"cas": 0,
-			"casdiff": -4,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Leicheberg Lycans",
+			"pass": 0,
+			"prespp": 241,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 141
 		}
 	}
 }

@@ -1,89 +1,88 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4042216",
-	"player_performance": {
+	"player": {
 		"907600": {
 			"12281777": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Qunq Madripper",
 				"prespp": 37,
 				"spp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12281778": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Qhutch Pinefingers",
 				"prespp": 24,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12281780": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tritch Crowlasher",
 				"prespp": 34,
-				"rus": 28,
+				"rush": 28,
 				"spp": 6,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"12281783": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Khal Cravengrip",
 				"prespp": 36,
-				"rus": 26,
+				"rush": 26,
 				"spp": 14,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"12281784": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Big-large Xelk Prideborn",
 				"prespp": 37,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12281786": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vutch Elfkicker",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12323282": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Large-Big Cresh Windcutter",
 				"prespp": 28,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12349766": {
 				"name": "Snulk Dustlayer",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12491279": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Mung Heartbender",
 				"prespp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12516991": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Skoch Shadowbreath",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12545221": {
@@ -91,42 +90,42 @@
 				"type": "R"
 			},
 			"12565095": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Rotach Firemaw",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"913011": {
 			"12367640": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Boss Klawcrumpa",
 				"prespp": 20,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12367646": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Killskorcha",
 				"prespp": 17,
-				"rus": 8,
-				"tur": 9,
+				"rush": 8,
+				"turns": 9,
 				"type": "R"
 			},
 			"12367651": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Jowlrippah",
 				"prespp": 10,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12367656": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Hellkrumpah",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12367657": {
@@ -134,7 +133,7 @@
 				"name": "Varkug",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12367658": {
@@ -144,75 +143,92 @@
 			"12367660": {
 				"name": "Argurk",
 				"prespp": 7,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12367662": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mutznud",
-				"retired": true,
-				"rus": -1,
-				"tur": 13,
+				"rush": -1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12367663": {
 				"name": "Icewakkah",
-				"pas": 2,
-				"rus": 11,
-				"tur": 12,
+				"pass": 2,
+				"rush": 11,
+				"turns": 12,
 				"type": "R"
 			},
 			"12367664": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Krooksnaggah",
 				"prespp": 22,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12400869": {
 				"name": "Skrorgirk",
 				"prespp": 8,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12525272": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Goresnappah",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
-			"913011S1": {
+			"STAR-7582": {
 				"name": "Varag Ghoul-Chewer",
-				"tur": 2,
+				"turns": 2,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1130233",
-	"team_performance": {
+	"team": {
 		"907600": {
+			"blocks": 54,
 			"cas": 5,
 			"casdiff": 4,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Deluge-Bearers",
+			"pass": 0,
+			"prespp": 216,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 54,
 			"score": 4,
 			"scorediff": 4,
-			"tds": 4,
-			"tdsdiff": 4
+			"td": 4,
+			"tddiff": 4,
+			"turns": 146
 		},
 		"913011": {
+			"blocks": 28,
 			"cas": 1,
 			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "'Ed Chompaz of Deff Gorge",
+			"pass": 2,
+			"prespp": 87,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 18,
 			"score": 0,
 			"scorediff": -4,
-			"tds": 0,
-			"tdsdiff": -4
+			"td": 0,
+			"tddiff": -4,
+			"turns": 106
 		}
 	}
 }

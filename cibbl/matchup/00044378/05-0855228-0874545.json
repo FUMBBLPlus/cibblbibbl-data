@@ -1,45 +1,44 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3971607",
-	"player_performance": {
+	"player": {
 		"855228": {
 			"11448253": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Kacy Cataranzo",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11801400": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Lei Zhang",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11886203": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Josh Levin",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12015155": {
 				"name": "Asher Manbeck",
 				"prespp": 25,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12037464": {
-				"blk": 14,
+				"blocks": 14,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Anika Spike",
 				"prespp": 18,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12058309": {
@@ -50,65 +49,60 @@
 			"12158296": {
 				"name": "Carson Wentz",
 				"prespp": 5,
-				"rus": 56,
+				"rush": 56,
 				"spp": 9,
-				"tds": 3,
-				"tur": 16,
+				"td": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12172038": {
 				"name": "Osmond Weaktree",
-				"retired": true,
 				"type": "J"
 			},
 			"12172039": {
 				"name": "Julius Weakshield",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			},
 			"12172040": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Richard Weakhawk",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12172041": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sean Hardsnake",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12172042": {
 				"name": "Brian Clearfire",
-				"pas": -1,
-				"retired": true,
-				"rus": -5,
-				"tur": 16,
+				"pass": -1,
+				"rush": -5,
+				"turns": 16,
 				"type": "J"
 			},
-			"855228M1": {
-				"fou": 10,
+			"MERC-7305-1578": {
+				"fouls": 10,
 				"name": "Merc Ashigaru 1",
-				"tur": 11,
+				"turns": 11,
 				"type": "M"
 			},
-			"855228S1": {
-				"blk": 1,
+			"STAR-7719": {
+				"blocks": 1,
 				"name": "Big'Gunn Shonn",
-				"tur": 13,
+				"turns": 13,
 				"type": "S"
 			}
 		},
 		"874545": {
 			"11758477": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Jared \"the Prince\"",
 				"prespp": 37,
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"11758478": {
@@ -117,115 +111,133 @@
 				"type": "R"
 			},
 			"11758481": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Uncle Thran",
 				"prespp": 33,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11758492": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Counselar Jherein",
 				"prespp": 28,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11758496": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Speedy Gonza",
 				"prespp": 36,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11906271": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Syna",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11942173": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Graham Darktree",
 				"prespp": 13,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11981990": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Barda, the secret Sister",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12033397": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Faruk",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12069306": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Flashy Fyra",
 				"prespp": 3,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12103676": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Machhel",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12143809": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Advisor Yhale",
 				"prespp": 6,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12165224": {
 				"name": "Ghro",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1047715",
-	"team_performance": {
+	"team": {
 		"855228": {
+			"blocks": 43,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 11,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ninja Warriors",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 112,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 51,
 			"score": 3,
 			"scorediff": 1,
-			"tds": 3,
-			"tdsdiff": 1
+			"td": 3,
+			"tddiff": 1,
+			"turns": 167
 		},
 		"874545": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 34,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Stone Prince's Men",
+			"pass": 0,
+			"prespp": 205,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 35,
 			"score": 2,
 			"scorediff": -1,
-			"tds": 2,
-			"tdsdiff": -1
+			"td": 2,
+			"tddiff": -1,
+			"turns": 159
 		}
 	}
 }

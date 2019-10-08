@@ -1,58 +1,57 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4042177",
-	"player_performance": {
+	"player": {
 		"922869": {
 			"12518941": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Tempestus",
 				"prespp": 9,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12518942": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Claye",
 				"spp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12518943": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Avalan",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12518944": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Aeria",
 				"prespp": 3,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12518945": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ramman",
 				"prespp": 16,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12518946": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Ragnis",
 				"prespp": 9,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12518948": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					3,
@@ -61,28 +60,29 @@
 				],
 				"name": "Neptis",
 				"prespp": 10,
-				"rus": 16,
+				"retired": true,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12518950": {
 				"name": "Monsoo",
 				"prespp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12518951": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Liquire",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12518952": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Typhos",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12524292": {
@@ -91,113 +91,131 @@
 				"type": "R"
 			},
 			"12576738": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Flo",
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"926053": {
 			"12570037": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Huitzilopochtli Harbinger of War",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12570096": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Tezcatlipoca the Black",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570097": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Xipe-Totec the Reborn",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570098": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Quetzalcoatl the White",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12570099": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Tepeyollotl Breaker of Mountains",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570100": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Tlaloc Bringer of Thunder",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570103": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Nesoxochi Queen of Darkness",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570104": {
 				"name": "Ometeotl the One with the Two Faces",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12570105": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mixcoatl the Hunter",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570106": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tecciztecatl Master of the Moon",
-				"rus": 16,
-				"tur": 16,
+				"rush": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570109": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Omacatl Master of Laughter",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1130195",
-	"team_performance": {
+	"team": {
 		"922869": {
+			"blocks": 31,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Still Waters Run Deep",
+			"pass": 0,
+			"prespp": 60,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 49,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 144
 		},
 		"926053": {
+			"blocks": 60,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Servants of Sacrifice",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 156
 		}
 	}
 }

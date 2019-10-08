@@ -1,108 +1,107 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3948514",
-	"player_performance": {
+	"player": {
 		"888233": {
 			"11972753": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Zunabar",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11972754": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 2,
 				"name": "Smogmonster",
 				"prespp": 19,
 				"spp": 4,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11972755": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Cobalt Horror",
 				"prespp": 16,
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"11972756": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Roct",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11972757": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Tirm",
 				"prespp": 9,
 				"spp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11972758": {
 				"name": "Star",
 				"prespp": 8,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11972759": {
 				"name": "Froittiok",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11972760": {
 				"name": "Curk",
 				"prespp": 7,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11972761": {
 				"name": "Aagkobs",
-				"rus": 5,
-				"tur": 7,
+				"rush": 5,
+				"turns": 7,
 				"type": "R"
 			},
 			"11972762": {
 				"name": "Slenel",
 				"prespp": 3,
-				"rus": 5,
-				"tur": 4,
+				"rush": 5,
+				"turns": 4,
 				"type": "R"
 			},
 			"11972763": {
 				"name": "Ilact",
 				"prespp": 9,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11972765": {
 				"name": "Odlurk",
 				"prespp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
-			"888233S1": {
-				"blk": 6,
+			"STAR-7543": {
+				"blocks": 6,
 				"cas": 1,
 				"name": "Swingin' Willy",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		},
 		"888421": {
 			"11976226": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Waziret Stunge",
 				"prespp": 6,
-				"tur": 11,
+				"turns": 11,
 				"type": "B"
 			},
 			"11976230": {
@@ -110,42 +109,42 @@
 				"name": "Firrikeet Sharpblade",
 				"prespp": 6,
 				"spp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11976233": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 3,
 				"name": "Lirrikeet Sharpblade",
 				"prespp": 18,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976237": {
 				"name": "Skritt Swiftpaw",
 				"prespp": 18,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976241": {
 				"name": "Turm",
 				"prespp": 10,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11976244": {
 				"name": "Blogz",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11976246": {
 				"name": "Criz",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11976248": {
@@ -153,13 +152,13 @@
 				"type": "R"
 			},
 			"11981444": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Yazzirit Rakeet",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12032798": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					1,
@@ -167,13 +166,14 @@
 					"11972754"
 				],
 				"name": "Dundas Paleclaw",
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "R"
 			},
 			"12039964": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zik Shadowfang",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12039966": {
@@ -181,38 +181,56 @@
 				"type": "R"
 			},
 			"12054568": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Robble",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1021415",
-	"team_performance": {
+	"team": {
 		"888233": {
+			"blocks": 35,
 			"cas": 4,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Da Lowdown Dirty Rats",
+			"pass": 0,
+			"prespp": 88,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 18,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 121
 		},
 		"888421": {
+			"blocks": 19,
 			"cas": 3,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gobskrav Alliance",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 60,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 82
 		}
 	}
 }

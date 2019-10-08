@@ -1,43 +1,42 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3901702",
-	"player_performance": {
+	"player": {
 		"871172": {
 			"11698445": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Jerek von Carstein",
 				"prespp": 25,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11698446": {
-				"blk": 9,
-				"cps": 1,
+				"blocks": 9,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Elize von Carstein",
-				"pas": 8,
+				"pass": 8,
 				"prespp": 26,
-				"rus": 3,
+				"rush": 3,
 				"spp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11698447": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Pieter von Carstein",
 				"prespp": 22,
-				"rus": 11,
-				"tur": 16,
+				"rush": 11,
+				"turns": 16,
 				"type": "R"
 			},
 			"11698448": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Markos von Carstein",
 				"prespp": 43,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11698449": {
@@ -45,57 +44,57 @@
 				"type": "R"
 			},
 			"11698451": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Johan Schulz",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11698453": {
 				"name": "Fritz Schneider",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11698473": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Frank Fischer",
 				"prespp": 2,
-				"rus": 3,
+				"rush": 3,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11698474": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Schatten aus der Toten",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11704837": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gerhart Müller",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11720718": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Olav Schmidt",
 				"prespp": 4,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11766468": {
 				"name": "Lasse Hoffmann",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11766469": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Karsten Weber",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11766703": {
@@ -105,35 +104,35 @@
 		},
 		"872044": {
 			"11713837": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Carol I",
 				"prespp": 23,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11713838": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 2,
 				"name": "Ferdinand I",
 				"prespp": 18,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713840": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Burggraf of Nuremberg",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11713841": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Reichsgraf of Hohenzollern",
 				"prespp": 20,
-				"rus": -1,
+				"rush": -1,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713842": {
@@ -144,79 +143,97 @@
 					"11698445"
 				],
 				"name": "Graf of Sigmaringen",
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"11713845": {
-				"blk": 3,
-				"fou": 2,
+				"blocks": 3,
+				"fouls": 2,
 				"name": "Constantin",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11713846": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Dragonmir",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11713847": {
 				"name": "Grigore",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11734005": {
 				"mvp": 1,
 				"name": "Anna Jagiellon",
 				"prespp": 6,
-				"rus": 10,
+				"rush": 10,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756292": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Maria Christina",
-				"rus": 2,
-				"tur": 10,
+				"rush": 2,
+				"turns": 10,
 				"type": "R"
 			},
 			"11786564": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Kevin Truebrook",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "967084",
-	"team_performance": {
+	"team": {
 		"871172": {
+			"blocks": 39,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Nachthafen Nightlords",
-			"prestige": 3,
+			"pass": 8,
+			"prespp": 131,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 17,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 138
 		},
 		"872044": {
+			"blocks": 34,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Strigos Elită",
+			"pass": 0,
+			"prespp": 67,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 11,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 133
 		}
 	}
 }

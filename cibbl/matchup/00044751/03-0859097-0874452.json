@@ -1,92 +1,91 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3980461",
-	"player_performance": {
+	"player": {
 		"859097": {
 			"11512471": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ghaggar-Hakra",
 				"prespp": 68,
-				"tur": 10,
+				"turns": 10,
 				"type": "B"
 			},
 			"11512476": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chola",
 				"prespp": 77,
-				"rus": 21,
-				"tur": 12,
+				"rush": 21,
+				"turns": 12,
 				"type": "R"
 			},
 			"11512478": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Vaishnava",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512482": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Amu Darya",
 				"prespp": 18,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11512483": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Vima Taktu",
 				"prespp": 16,
-				"rus": 3,
+				"rush": 3,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"11570395": {
 				"name": "Devaraja",
 				"prespp": 22,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11671350": {
 				"name": "Arun Jaitley",
 				"prespp": 16,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11844958": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Raja Raja Chola",
 				"prespp": 61,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11869549": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Chhatrapati Shivaji",
 				"prespp": 39,
-				"rus": 1,
+				"rush": 1,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11978579": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lakshmi",
 				"prespp": 16,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12002820": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Kamal Nath",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12069676": {
@@ -96,127 +95,127 @@
 			},
 			"12153572": {
 				"name": "Jagjivan Ram",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12156064": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Morarji Desai",
-				"pas": 1,
-				"rus": -3,
+				"pass": 1,
+				"rush": -3,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12233097": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Shastri Bhawan",
-				"pas": 1,
+				"pass": 1,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"874452": {
 			"11756582": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Draco Dracovich",
 				"prespp": 100,
-				"rus": 14,
+				"rush": 14,
 				"spp": 10,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756629": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Igor Igorivich",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 89,
-				"rus": 13,
-				"tur": 16,
+				"rush": 13,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756687": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Karl",
 				"prespp": 4,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11756689": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Franz",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11869690": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Vlad Vladovich",
 				"prespp": 57,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11926830": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Reinhart von Teufeldorf",
 				"prespp": 42,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11978034": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fritz",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11980258": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tabbart",
 				"prespp": 8,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11981974": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Arnold",
 				"prespp": 8,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12066347": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Gregoiriana Gregorivich",
 				"prespp": 15,
-				"rus": 2,
+				"rush": 2,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12150966": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sigfrid",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12178898": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Conrad",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12217733": {
@@ -227,48 +226,67 @@
 					null
 				],
 				"name": "Luther von Totburg",
+				"retired": true,
 				"type": "R"
 			},
 			"12217734": {
 				"name": "Valdemar",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12233799": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Oda",
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1057932",
-	"team_performance": {
+	"team": {
 		"859097": {
-			"cas": 4,
-			"casdiff": -1,
+			"blocks": 46,
+			"cas": 3,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bhubaneswar Rampage",
-			"prestige": 1,
+			"pass": 2,
+			"prespp": 357,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 155
 		},
 		"874452": {
+			"blocks": 50,
 			"cas": 5,
-			"casdiff": 1,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 328,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 29,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 140
 		}
 	}
 }

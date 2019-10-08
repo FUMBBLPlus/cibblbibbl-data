@@ -1,168 +1,166 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4000123",
-	"player_performance": {
+	"player": {
 		"863441": {
 			"11582132": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Firithas",
 				"prespp": 76,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582133": {
 				"name": "Falandar",
 				"prespp": 89,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11582134": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lonlaithilon",
 				"prespp": 56,
-				"rus": 10,
-				"tur": 12,
+				"rush": 10,
+				"turns": 12,
 				"type": "R"
 			},
 			"11582135": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Norlir",
 				"prespp": 44,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11582136": {
 				"name": "Gethonil",
 				"prespp": 23,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11582137": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Linfarnrir",
 				"prespp": 32,
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582139": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Arathion",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 34,
-				"rus": -2,
+				"rush": -2,
 				"spp": 1,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11657983": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nuirlan",
 				"prespp": 51,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12004052": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Gaezen",
 				"prespp": 52,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12031273": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Maerurhel",
 				"prespp": 29,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12055204": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Bhaiotlulon",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12255344": {
 				"name": "Tharal",
 				"prespp": 1,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12341108": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Yramar",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"879131": {
 			"11828950": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Calico Jack",
 				"prespp": 90,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11828951": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Morag",
 				"prespp": 33,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"11828952": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Greta",
 				"prespp": 24,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"11828953": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nefo Dawnripper",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 41,
-				"rus": 9,
-				"tur": 17,
+				"rush": 9,
+				"turns": 17,
 				"type": "R"
 			},
 			"11828954": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ibhib Nightbreaker",
 				"prespp": 94,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11828955": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Dog Rough Drimond",
 				"prespp": 30,
-				"rus": 9,
+				"rush": 9,
 				"spp": 5,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11828956": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Grog Swiller Finn",
 				"prespp": 34,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11875956": {
@@ -172,34 +170,35 @@
 					"blocked",
 					"12004052"
 				],
-				"fou": 3,
+				"fouls": 3,
 				"name": "Hook Thorne",
 				"prespp": 7,
-				"tur": 7,
+				"retired": true,
+				"turns": 7,
 				"type": "R"
 			},
 			"11956118": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Voodoo Jones",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12037304": {
 				"name": "Ale Barrel Grey",
 				"prespp": 7,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12155340": {
 				"name": "Seabiscuit Maguire",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12261823": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Scabby Flaherty",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12321107": {
@@ -207,50 +206,68 @@
 				"type": "R"
 			},
 			"12343072": {
-				"cps": 1,
-				"fou": 2,
+				"comp": 1,
+				"fouls": 2,
 				"mvp": 1,
 				"name": "Ol' Roy Schneider",
-				"pas": 1,
-				"rus": 2,
+				"pass": 1,
+				"rush": 2,
 				"spp": 6,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
-			"879131S1": {
-				"blk": 1,
-				"fou": 1,
+			"STAR-7535": {
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Boomer Eziasson",
-				"tur": 7,
+				"turns": 7,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1081997",
-	"team_performance": {
+	"team": {
 		"863441": {
+			"blocks": 35,
 			"cas": 3,
-			"casdiff": -2,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tor Anroc Anglers",
-			"prestige": 1,
+			"pass": -1,
+			"prespp": 499,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 132
 		},
 		"879131": {
-			"cas": 5,
-			"casdiff": 2,
+			"blocks": 29,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sartosa Black Flags",
-			"prestige": 1,
+			"pass": 2,
+			"prespp": 360,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 148
 		}
 	}
 }

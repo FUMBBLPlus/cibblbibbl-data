@@ -1,25 +1,24 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3936289",
-	"player_performance": {
+	"player": {
 		"856697": {
 			"11472246": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Skulltaker",
 				"prespp": 32,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472247": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 4,
 				"name": "Urifdaemonkin",
 				"prespp": 44,
 				"spp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472250": {
@@ -28,105 +27,105 @@
 				"type": "R"
 			},
 			"11472254": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Tallomin",
 				"prespp": 11,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11472255": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Arvax the Mad",
 				"prespp": 39,
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472256": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Scyrak",
 				"prespp": 10,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11472262": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Headsman of Cellebos",
 				"prespp": 26,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472270": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Drakkar",
 				"prespp": 42,
-				"rus": 26,
+				"rush": 26,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11658789": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "H'Stan",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11720018": {
 				"name": "Bane",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11730736": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Doomsday The Everliving",
 				"prespp": 34,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11809828": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Apocolypse",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11905351": {
 				"name": "Stiltskin",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11971992": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Grinner",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"871312": {
 			"11700284": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Count Igor",
 				"prespp": 41,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11700285": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Count Jurij",
 				"prespp": 34,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11700318": {
@@ -135,102 +134,118 @@
 				"type": "R"
 			},
 			"11700319": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Anubis",
 				"prespp": 41,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11700323": {
 				"name": "Servant Fjodor",
 				"prespp": 9,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11812909": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Count Yaroslav",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 31,
-				"rus": 24,
+				"rush": 24,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11850036": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Paul Darktree",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11874342": {
 				"name": "Servant Miro",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11933869": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Abu",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11936975": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Ladislao Celano",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11941952": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kacy Catanzaro",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11986716": {
 				"name": "Cory Truespike",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			},
-			"871312S1": {
-				"blk": 12,
+			"STAR-7571": {
+				"blocks": 12,
 				"name": "Ramtut III",
-				"tur": 15,
+				"turns": 15,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1007175",
-	"team_performance": {
+	"team": {
 		"856697": {
-			"cas": 6,
-			"casdiff": 5,
+			"blocks": 56,
+			"cas": 5,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crimson Skull",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 298,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 173
 		},
 		"871312": {
+			"blocks": 33,
 			"cas": 1,
-			"casdiff": -5,
+			"casdiff": -4,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tower of the Necromancer",
-			"prestige": 1,
+			"pass": 4,
+			"prespp": 192,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 32,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 148
 		}
 	}
 }

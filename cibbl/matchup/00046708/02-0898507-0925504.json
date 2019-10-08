@@ -1,97 +1,96 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4065285",
-	"player_performance": {
+	"player": {
 		"898507": {
 			"12140161": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Terror of Wurtbad",
 				"prespp": 48,
 				"spp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12140162": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"name": "Hanskarl Denk",
 				"prespp": 24,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140169": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Frederick van Hal",
 				"prespp": 35,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140175": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Vigo",
 				"prespp": 31,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140181": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Carcass",
 				"prespp": 7,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12140184": {
 				"name": "Rot",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12149573": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Beast of Black-Run",
 				"prespp": 31,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12227552": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Baronetess Odile von Stolpe",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231366": {
 				"name": "Putrid",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12231367": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Floater",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12254199": {
 				"name": "Maggot",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12289388": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Solice",
 				"prespp": 24,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12349964": {
 				"name": "Bubos",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12605730": {
@@ -100,16 +99,16 @@
 			},
 			"12666672": {
 				"name": "Kristoff Biller",
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"925504": {
 			"12562177": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"dead": [
 					1,
@@ -119,29 +118,30 @@
 				],
 				"name": "Lord Ichabod of Wyldwich",
 				"prespp": 16,
+				"retired": true,
 				"spp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12562180": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Sir Danzig the Cinder",
 				"prespp": 12,
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12562182": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sir Geoffrey the Bright",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562183": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					7,
@@ -150,13 +150,14 @@
 				],
 				"name": "Sir Theodore the Blazing",
 				"prespp": 11,
-				"tur": 12,
+				"retired": true,
+				"turns": 12,
 				"type": "R"
 			},
 			"12562184": {
 				"name": "Fair Henry of Storms",
 				"prespp": 10,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12562185": {
@@ -168,83 +169,102 @@
 				],
 				"name": "Fair Desmond the Twister",
 				"prespp": 19,
-				"rus": 18,
-				"tur": 6,
+				"retired": true,
+				"rush": 18,
+				"turns": 6,
 				"type": "R"
 			},
 			"12562186": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hardy Wilbur the Molten",
 				"prespp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12562187": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hardy Frederick of Iron",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562188": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Calm Nolan the Current",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12562189": {
 				"name": "Calm Xavier of Tides",
 				"prespp": 3,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12578583": {
 				"name": "Sir Wilfred the Scorching",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12685248": {
 				"name": "Sir Mercury the Inferno",
-				"rus": 5,
-				"tur": 4,
+				"rush": 5,
+				"turns": 4,
 				"type": "R"
 			},
-			"925504S1": {
-				"blk": 8,
+			"STAR-7565": {
+				"blocks": 8,
 				"cas": 1,
 				"name": "Big Gregg",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1156261",
-	"team_performance": {
+	"team": {
 		"898507": {
-			"cas": 4,
-			"casdiff": 1,
+			"blocks": 53,
+			"cas": 3,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Leicheberg Lycans",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 220,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 19,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 149
 		},
 		"925504": {
+			"blocks": 20,
 			"cas": 3,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ichabod's Infernals",
+			"pass": 0,
+			"prespp": 88,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 110
 		}
 	}
 }

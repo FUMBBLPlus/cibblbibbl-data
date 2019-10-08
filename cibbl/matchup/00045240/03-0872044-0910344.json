@@ -1,54 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4001623",
-	"player_performance": {
+	"player": {
 		"872044": {
 			"11713837": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Carol I",
 				"prespp": 166,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11713838": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Ferdinand I",
 				"prespp": 70,
-				"rus": 30,
+				"rush": 30,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756292": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Maria Christina",
 				"prespp": 14,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11787325": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Zsuzsanna Lorántffy",
 				"prespp": 19,
-				"rus": -1,
-				"tur": 16,
+				"rush": -1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11946731": {
 				"name": "Eleonore-Magdalena",
 				"prespp": 3,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11953214": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Wilhelmina Amalia",
 				"prespp": 16,
-				"rus": 7,
-				"tur": 14,
+				"rush": 7,
+				"turns": 14,
 				"type": "R"
 			},
 			"11953217": {
@@ -56,34 +55,34 @@
 				"type": "R"
 			},
 			"11985989": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Stefon",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12060391": {
-				"fou": 4,
+				"fouls": 4,
 				"name": "Dumitru",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12194197": {
 				"name": "Helena Christiana",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12245376": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Katalin Bethlen",
-				"rus": 1,
+				"rush": 1,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12277433": {
@@ -92,62 +91,62 @@
 				"type": "R"
 			},
 			"12291482": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Stanislav I",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12352369": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Viktor I",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"910344": {
 			"12323836": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Abel Sturm",
 				"prespp": 16,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12323837": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Draco Gore",
 				"prespp": 14,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12323839": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Marquis Agulliar",
 				"prespp": 11,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12323842": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Melchior",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12323843": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Demetrius",
 				"prespp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12323844": {
-				"blk": 2,
-				"fou": 4,
+				"blocks": 2,
+				"fouls": 4,
 				"name": "Doru",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12323845": {
@@ -155,9 +154,9 @@
 				"type": "R"
 			},
 			"12323846": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Spike",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12323847": {
@@ -165,71 +164,89 @@
 				"type": "R"
 			},
 			"12323849": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ascelin",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12325681": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grazabire Lust'igor",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12339037": {
 				"name": "Damien Jr.",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12350186": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sever Cumfeorm",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12352367": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Cyprian Drake",
-				"rus": 20,
+				"rush": 20,
 				"spp": 10,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12352368": {
 				"name": "Seskal",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1083758",
-	"team_performance": {
+	"team": {
 		"872044": {
-			"cas": 3,
+			"blocks": 45,
+			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Strigos Elită",
+			"pass": 0,
+			"prespp": 313,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 37,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 160
 		},
 		"910344": {
-			"cas": 2,
+			"blocks": 40,
+			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vlad's Vampheroes",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 43,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 36,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 148
 		}
 	}
 }

@@ -1,44 +1,43 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3872967",
-	"player_performance": {
+	"player": {
 		"854690": {
 			"11439891": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Shiamoto The Undying",
 				"prespp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11439893": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Ronin Swift Wind",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 16,
-				"rus": 4,
+				"rush": 4,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11439894": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Ronin Four Finger Death Punch",
 				"prespp": 11,
-				"rus": 13,
+				"rush": 13,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439896": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Meiko",
 				"prespp": 16,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11439897": {
@@ -52,60 +51,60 @@
 				"type": "R"
 			},
 			"11439902": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Lu Tze",
 				"prespp": 6,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11439904": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Hiro",
 				"prespp": 15,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11448588": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Ronin Lethal Strike",
 				"prespp": 31,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11474441": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 3,
 				"mvp": 1,
 				"name": "Ronin Headchopper",
 				"prespp": 19,
 				"spp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11474454": {
 				"name": "Su Ha",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11506400": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Temple Guard Hatori",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11598286": {
 				"name": "Temple Guard Hanzo",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11624586": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Saku",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11624587": {
@@ -115,50 +114,50 @@
 		},
 		"855072": {
 			"11445733": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Jack",
 				"prespp": 11,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11445734": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Annie",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11445735": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Katheen",
 				"prespp": 13,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11445736": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"fou": 2,
+				"fouls": 2,
 				"name": "Teddy",
 				"prespp": 28,
-				"rus": 41,
+				"rush": 41,
 				"spp": 8,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11445737": {
 				"name": "Morgan le Fay",
 				"prespp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11445738": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					4,
@@ -167,50 +166,51 @@
 				],
 				"name": "Merlin",
 				"prespp": 5,
-				"tur": 12,
+				"retired": null,
+				"turns": 12,
 				"type": "R"
 			},
 			"11445741": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Queen Guinevere",
 				"prespp": 12,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11445745": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Thiebaut l'Amy",
 				"prespp": 4,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11445747": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Blanchet Poupart",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11580235": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "King Arthur III",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11580236": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Marguerite l'Empereur",
 				"prespp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11625215": {
-				"blk": 5,
-				"fou": 2,
+				"blocks": 5,
+				"fouls": 2,
 				"mvp": 1,
 				"name": "Ysabel Cyrasse",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11625217": {
@@ -220,30 +220,48 @@
 		}
 	},
 	"replayId": "933675",
-	"team_performance": {
+	"team": {
 		"854690": {
-			"cas": 6,
+			"blocks": 50,
+			"cas": 5,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Secret Cult Of Shiamoto",
+			"pass": 2,
+			"prespp": 123,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 17,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 133
 		},
 		"855072": {
-			"cas": 5,
+			"blocks": 48,
+			"cas": 4,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Carcassonne Knights",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 95,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 147
 		}
 	}
 }

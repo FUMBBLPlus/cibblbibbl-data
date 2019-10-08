@@ -1,23 +1,22 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3961454",
-	"player_performance": {
+	"player": {
 		"891260": {
 			"12023006": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Varman",
 				"prespp": 14,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12023007": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Surya",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12023008": {
@@ -25,193 +24,210 @@
 				"type": "R"
 			},
 			"12023009": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Linga",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12023010": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Svay",
 				"prespp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12023011": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Kompong",
 				"prespp": 4,
 				"spp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12023012": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Harsha",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 1,
-				"rus": -2,
+				"rush": -2,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12023013": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vapada",
 				"prespp": 6,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12023014": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Dangrek",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12023015": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Nokor",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 5,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12053070": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jobo",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12077271": {
 				"name": "Martin Hardwing",
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			}
 		},
 		"896564": {
 			"12108653": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Ra-aa-kheper",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12108654": {
 				"name": "Ounephes",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12108656": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Ra-men-ankh",
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12108659": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Suten-rekh",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12108660": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Ra-mere-nefer",
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12108662": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ra-s-hotep-ab",
-				"rus": 26,
-				"tur": 14,
+				"rush": 26,
+				"turns": 14,
 				"type": "R"
 			},
 			"12108664": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Het-het",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12108665": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tu-en-hor",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12108666": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Achoris",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12108667": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kan-ta",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12108669": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Si-sebek",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
-			"896564S1": {
-				"blk": 3,
+			"STAR-7548": {
+				"blocks": 3,
 				"name": "Hack Enslash",
-				"tur": 4,
+				"turns": 4,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1036143",
-	"team_performance": {
+	"team": {
 		"891260": {
+			"blocks": 35,
 			"cas": 4,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Library of Indra",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 53,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 14,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 117
 		},
 		"896564": {
-			"cas": 4,
-			"casdiff": 0,
+			"blocks": 45,
+			"cas": 3,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Thoughts of Thoth",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 34,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 150
 		}
 	}
 }

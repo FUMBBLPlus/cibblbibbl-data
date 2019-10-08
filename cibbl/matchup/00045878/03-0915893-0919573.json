@@ -1,44 +1,43 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4026959",
-	"player_performance": {
+	"player": {
 		"915893": {
 			"12410997": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "White Fangs",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12410998": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Thick Hide",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12410999": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Sharpclaws",
 				"prespp": 7,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12411000": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Swiftslash",
 				"prespp": 13,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12411001": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					4,
@@ -47,36 +46,37 @@
 				],
 				"name": "Chargtooth",
 				"prespp": 10,
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"12411002": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Summercharge",
 				"prespp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12411003": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Danel",
 				"prespp": 6,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12411004": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Isnagard",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12411005": {
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Landerous",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12411006": {
@@ -92,54 +92,55 @@
 				],
 				"name": "Madrigard",
 				"prespp": 2,
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"12491057": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Orion The Untamable",
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "B"
 			}
 		},
 		"919573": {
 			"12469183": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"name": "Tornbull",
 				"prespp": 7,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469184": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Blightbasher",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469185": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Warpserker",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469186": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Toerot",
 				"prespp": 8,
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469188": {
@@ -151,23 +152,24 @@
 				],
 				"name": "Qhun Spinesewer",
 				"prespp": 3,
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
 			"12469191": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tech Toetacker",
 				"prespp": 6,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12469192": {
 				"name": "Znukch Clothclaw",
-				"rus": 6,
-				"tur": 9,
+				"rush": 6,
+				"turns": 9,
 				"type": "R"
 			},
 			"12469194": {
@@ -179,64 +181,80 @@
 				"type": "R"
 			},
 			"12469210": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Srotch Firebaster",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12496058": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Skaq Shoepaw",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12496059": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Jack Deepstone",
-				"retired": true,
-				"rus": 6,
-				"tur": 15,
+				"rush": 6,
+				"turns": 15,
 				"type": "J"
 			},
 			"12496060": {
 				"name": "Jack Goldorc",
-				"retired": true,
 				"type": "J"
 			},
-			"919573S1": {
-				"blk": 4,
+			"STAR-7541": {
+				"blocks": 4,
 				"name": "Fezglitch",
-				"tur": 4,
+				"turns": 4,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1112356",
-	"team_performance": {
+	"team": {
 		"915893": {
+			"blocks": 29,
 			"cas": 1,
 			"casdiff": -5,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Loren's Rebuke",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 49,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 21,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 112
 		},
 		"919573": {
+			"blocks": 37,
 			"cas": 6,
 			"casdiff": 5,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ragtag Animal Training Sartors",
+			"pass": 0,
+			"prespp": 32,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 25,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 134
 		}
 	}
 }

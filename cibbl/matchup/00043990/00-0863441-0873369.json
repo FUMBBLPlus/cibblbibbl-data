@@ -1,211 +1,226 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3943634",
-	"player_performance": {
+	"player": {
 		"863441": {
 			"11582131": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Aerian",
 				"prespp": 33,
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582132": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Firithas",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 49,
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582133": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Falandar",
 				"prespp": 52,
-				"rus": 9,
+				"rush": 9,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582134": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Lonlaithilon",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 31,
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582135": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Norlir",
 				"prespp": 31,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11582136": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gethonil",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582137": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Linfarnrir",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582139": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Arathion",
 				"prespp": 32,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11657983": {
 				"name": "Nuirlan",
 				"prespp": 27,
-				"rus": 2,
-				"tur": 7,
+				"rush": 2,
+				"turns": 7,
 				"type": "R"
 			},
 			"11937388": {
-				"blk": 4,
-				"cps": 4,
+				"blocks": 4,
+				"comp": 4,
 				"name": "Saeldovel",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 9,
-				"rus": 9,
+				"rush": 9,
 				"spp": 7,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12004052": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Gaezen",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"873369": {
 			"11737365": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Trikhuf",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737432": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Fulmayne Thrice-Crowned",
 				"prespp": 37,
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737433": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Breyyar Scoredrinker",
 				"prespp": 18,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11737434": {
-				"blk": 10,
+				"blocks": 10,
 				"mvp": 1,
 				"name": "Stoneflagon Rhuheigh",
 				"prespp": 30,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737443": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Yronleg the Barrelbeast",
 				"prespp": 24,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11765170": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Brewmaster Huhroarr",
 				"prespp": 25,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11859881": {
 				"name": "Heighar",
-				"pas": 1,
-				"rus": 9,
-				"tur": 16,
+				"pass": 1,
+				"rush": 9,
+				"turns": 16,
 				"type": "R"
 			},
 			"11859894": {
 				"name": "Wytehide",
 				"prespp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11902855": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "R'hoghn Hollowhorn",
 				"prespp": 20,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11992892": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Gild-eye Ghorush",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12029915": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Richard Hardspike",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1015741",
-	"team_performance": {
+	"team": {
 		"863441": {
+			"blocks": 54,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 4,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tor Anroc Anglers",
+			"pass": 1,
+			"prespp": 294,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 28,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 164
 		},
 		"873369": {
+			"blocks": 44,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Schattenwald Drinking Horns",
+			"pass": 1,
+			"prespp": 178,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 11,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 153
 		}
 	}
 }

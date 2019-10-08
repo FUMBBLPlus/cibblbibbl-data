@@ -1,14 +1,13 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4043476",
-	"player_performance": {
+	"player": {
 		"904377": {
 			"12231317": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ruby, Fury of the Ancients",
 				"prespp": 40,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12231319": {
@@ -17,75 +16,75 @@
 				"type": "R"
 			},
 			"12231325": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Emerald, Keeper of Gaia",
 				"prespp": 40,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12231332": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Topaz, Ray of Sun",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12231335": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Diamond, Light of Steadiness",
 				"prespp": 36,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12231336": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Aquamarine, Gleaming Spring",
 				"prespp": 29,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12343156": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Alexandrite, Second of Janus",
 				"prespp": 9,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12405289": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Obsidian, Second Fireflow",
 				"prespp": 15,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12449700": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Tourmaline, Prism of Radiance",
 				"prespp": 20,
-				"rus": 10,
-				"tur": 17,
+				"rush": 10,
+				"turns": 17,
 				"type": "R"
 			},
 			"12458077": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Spinel, Second Chasm of Light",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12489390": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Carnelian, the Bloodstone",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12504202": {
@@ -93,99 +92,99 @@
 				"type": "R"
 			},
 			"12546080": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Jasper, Will of the Mountain",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12553526": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Pearl, Fourth Seal of Perseverance",
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			}
 		},
 		"906026": {
 			"12255960": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Hungry",
 				"prespp": 29,
-				"tur": 13,
+				"turns": 13,
 				"type": "B"
 			},
 			"12255961": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Mani Mad Cap",
 				"prespp": 20,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12255962": {
 				"name": "Dizgot Boomfeet",
 				"prespp": 66,
-				"rus": 38,
+				"rush": 38,
 				"spp": 6,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"12255972": {
 				"name": "Yralme Megaslice",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12255977": {
 				"name": "Imixis Coggob",
 				"prespp": 3,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12255981": {
 				"name": "Zyngle Cogbrass",
 				"prespp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12255982": {
 				"name": "Nondert Lazyjolt",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12411917": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Angry",
 				"prespp": 33,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12492986": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kurdan Sparkvolt",
 				"prespp": 3,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12492987": {
 				"name": "Urdin",
 				"prespp": 3,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12504901": {
 				"name": "Tristan Hotwing",
 				"prespp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12504902": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "William Goldstream",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545355": {
@@ -193,42 +192,60 @@
 				"name": "Golk Le sourd",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12586084": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ash Onehanded",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1131671",
-	"team_performance": {
+	"team": {
 		"904377": {
-			"cas": 4,
+			"blocks": 42,
+			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Aurons",
+			"pass": 0,
+			"prespp": 249,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 10,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 182
 		},
 		"906026": {
-			"cas": 3,
+			"blocks": 20,
+			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Karak Azog Outlaws",
+			"pass": 0,
+			"prespp": 171,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 124
 		}
 	}
 }

@@ -1,31 +1,26 @@
 {
 	"!excluded": "yes",
-	"!locked": "yes",
-	"player_performance": {},
-	"team_performance": {
+	"player": {},
+	"team": {
 		"873667": {
-			"cas": 0,
 			"casdiff": 0,
 			"name": "CIBBL Filler 1",
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "F",
+			"r": "F",
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": 0
+			"tddiff": 0
 		},
 		"882382": {
-			"cas": 0,
 			"casdiff": 0,
 			"name": "Ali's Anarchists",
-			"prestige": 3,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "B",
+			"r": "B",
 			"score": 2,
 			"scorediff": 2,
-			"tds": 0,
-			"tdsdiff": 0
+			"tddiff": 0
 		}
 	}
 }

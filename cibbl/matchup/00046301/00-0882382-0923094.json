@@ -1,15 +1,14 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4042461",
-	"player_performance": {
+	"player": {
 		"882382": {
 			"11881490": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"name": "Shan Yu",
 				"prespp": 18,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11942620": {
@@ -18,38 +17,38 @@
 				"type": "R"
 			},
 			"11977896": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Gin Phur",
-				"pas": 8,
+				"pass": 8,
 				"prespp": 13,
-				"rus": 37,
+				"rush": 37,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12220671": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Aladain",
 				"prespp": 41,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12248744": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lago",
 				"prespp": 32,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12325284": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Genie",
 				"prespp": 32,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12368897": {
@@ -57,113 +56,113 @@
 				"type": "R"
 			},
 			"12450728": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mustapha Shah",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12489867": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Sheikh Yabooti",
 				"prespp": 5,
-				"rus": 13,
+				"rush": 13,
 				"spp": 14,
-				"tds": 3,
-				"tur": 17,
+				"td": 3,
+				"turns": 17,
 				"type": "R"
 			},
 			"12529795": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "Ali",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12529796": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 2,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Gud",
 				"spp": 4,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12538345": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ak El Zahir",
-				"pas": -1,
-				"rus": 6,
-				"tur": 17,
+				"pass": -1,
+				"rush": 6,
+				"turns": 17,
 				"type": "R"
 			},
 			"12547681": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "El Maeiz",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12547682": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Grak el Claah",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12547684": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"fou": 2,
+				"fouls": 2,
 				"name": "Abdul",
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"923094": {
 			"12524800": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Bered",
-				"tur": 12,
+				"turns": 12,
 				"type": "B"
 			},
 			"12524801": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Dylon",
 				"prespp": 9,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12524802": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Kaerio",
 				"prespp": 20,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12524803": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Laekces",
 				"prespp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12524804": {
 				"name": "Nereus",
 				"prespp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12524805": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dover",
 				"prespp": 14,
-				"rus": 27,
+				"rush": 27,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12524806": {
@@ -171,7 +170,7 @@
 				"name": "Bay",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12524807": {
@@ -180,11 +179,11 @@
 			},
 			"12524808": {
 				"name": "Morcant",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12524809": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					1,
 					7,
@@ -193,44 +192,63 @@
 				],
 				"name": "Earendil",
 				"prespp": 5,
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"12581824": {
 				"name": "Graham Bluebone",
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 3,
+				"td": 1,
+				"turns": 3,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1130527",
-	"team_performance": {
+	"team": {
 		"882382": {
+			"blocks": 48,
 			"cas": 5,
 			"casdiff": 4,
+			"comp": 1,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ali's Anarchists",
+			"pass": 7,
+			"prespp": 259,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 56,
 			"score": 3,
 			"scorediff": 1,
-			"tds": 3,
-			"tdsdiff": 1
+			"td": 3,
+			"tddiff": 1,
+			"turns": 174
 		},
 		"923094": {
+			"blocks": 34,
 			"cas": 1,
 			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rising Tsunami",
+			"pass": 0,
+			"prespp": 60,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 35,
 			"score": 2,
 			"scorediff": -1,
-			"tds": 2,
-			"tdsdiff": -1
+			"td": 2,
+			"tddiff": -1,
+			"turns": 102
 		}
 	}
 }

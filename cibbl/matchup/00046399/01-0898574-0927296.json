@@ -1,64 +1,63 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4044486",
-	"player_performance": {
+	"player": {
 		"898574": {
 			"12140313": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Arsenic William",
 				"prespp": 59,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140327": {
 				"name": "Lactonitrile Bernice",
 				"prespp": 37,
-				"rus": 30,
+				"rush": 30,
 				"spp": 6,
-				"tds": 2,
-				"tur": 14,
+				"td": 2,
+				"turns": 14,
 				"type": "R"
 			},
 			"12140330": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lindane Salvatore",
 				"prespp": 4,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12140364": {
 				"name": "Methomyl Samuel",
 				"prespp": 6,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12140428": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Phenol Sinclair",
 				"prespp": 26,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12146724": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Anchorman",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12345407": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Digoxin Willard",
 				"prespp": 13,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12406059": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Chlorpyrifos Wallace",
 				"prespp": 32,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12424765": {
@@ -66,22 +65,22 @@
 				"type": "R"
 			},
 			"12440839": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Esbestos Willy",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12503193": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Polonium Simon",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12546614": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Aconite Sabrina",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12554480": {
@@ -89,13 +88,13 @@
 				"name": "Belladonna Britta",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12590744": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Curare Sandra",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
@@ -104,114 +103,132 @@
 				"mvp": 1,
 				"name": "Vistold",
 				"spp": 5,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12589326": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Iruk",
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12589327": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Horror of Kaledan",
-				"pas": 3,
-				"rus": 8,
+				"pass": 3,
+				"rush": 8,
 				"spp": 1,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12589328": {
 				"name": "Beast of Reikwald",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12589333": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Herman the Patchwerk",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12589335": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Meathook",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12589336": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Friedrich Steiner",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12589337": {
 				"name": "Arnold Schwarzeholz",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12589338": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zacharias",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12589339": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Melkhior",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12589340": {
 				"name": "Frederick Gaube",
 				"type": "R"
 			},
-			"927296S1": {
-				"blk": 2,
-				"name": "Hack Enslash",
-				"tur": 2,
+			"STAR-7536": {
+				"blocks": 7,
+				"name": "Count Luthor Von Drakenborg",
+				"rush": 12,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
 				"type": "S"
 			},
-			"927296S2": {
-				"blk": 7,
-				"name": "Count Luthor Von Drakenborg",
-				"rus": 12,
-				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+			"STAR-7548": {
+				"blocks": 2,
+				"name": "Hack Enslash",
+				"turns": 2,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1132815",
-	"team_performance": {
+	"team": {
 		"898574": {
-			"cas": 1,
-			"casdiff": 0,
+			"blocks": 52,
+			"cas": 0,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Revenge Street Reapers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 195,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 163
 		},
 		"927296": {
+			"blocks": 32,
 			"cas": 1,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Chosen of the Lichemaster",
+			"pass": 3,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 22,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 130
 		}
 	}
 }

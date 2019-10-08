@@ -1,106 +1,105 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3964915",
-	"player_performance": {
+	"player": {
 		"871312": {
 			"11700284": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Count Igor",
 				"prespp": 52,
-				"rus": 5,
-				"tur": 12,
+				"rush": 5,
+				"turns": 12,
 				"type": "R"
 			},
 			"11700285": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Count Jurij",
 				"prespp": 49,
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700318": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Seth",
 				"prespp": 36,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700319": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Anubis",
 				"prespp": 52,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11700323": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Servant Fjodor",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11812909": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Count Yaroslav",
 				"prespp": 54,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11850036": {
 				"cas": 1,
 				"name": "Paul Darktree",
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11933869": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Abu",
 				"spp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11936975": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ladislao Celano",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11986735": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Count Ludovig II.",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 6,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12062896": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Servant Dmitri",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12066122": {
 				"name": "Servant Volodomyr",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12128419": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					4,
@@ -108,71 +107,72 @@
 					"12074027"
 				],
 				"name": "Servant Bogdan",
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"12128421": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Servant Milo",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"888760": {
 			"11982012": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Gusraz The Lonebringer",
 				"prespp": 13,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982018": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Taghoth Wrathfather",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982019": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ogbund Emberbender",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11982020": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tuzkan Nightgaze",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982021": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Cagbuth Chaosforce",
 				"prespp": 12,
-				"rus": 8,
+				"rush": 8,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982028": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Scu'draz Ambercrest",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982029": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Zazhrin Emberborn",
 				"prespp": 18,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11982030": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Crazgind Battleforged",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982032": {
@@ -180,64 +180,82 @@
 				"type": "R"
 			},
 			"11982034": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ciggus Rageborn",
 				"prespp": 25,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12001245": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Drughath Naverbone",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12074027": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Frungrah Flogdonal",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
-			"888760M1": {
-				"blk": 1,
-				"fou": 1,
+			"MERC-7401-0433": {
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Merc Drone 1",
-				"tur": 9,
+				"turns": 9,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1040049",
-	"team_performance": {
+	"team": {
 		"871312": {
+			"blocks": 42,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tower of the Necromancer",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 269,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 52,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 157
 		},
 		"888760": {
+			"blocks": 49,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Brothers Of Malice",
+			"pass": 0,
+			"prespp": 87,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 165
 		}
 	}
 }

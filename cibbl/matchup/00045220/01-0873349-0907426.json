@@ -1,133 +1,132 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3998270",
-	"player_performance": {
+	"player": {
 		"873349": {
 			"11737076": {
-				"blk": 2,
-				"cps": 2,
+				"blocks": 2,
+				"comp": 2,
 				"name": "Harbert Kallath",
-				"pas": 9,
+				"pass": 9,
 				"prespp": 65,
-				"rus": 13,
+				"rush": 13,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737078": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Sigmund \"silent\" Thacocroth",
 				"prespp": 68,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737079": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Landolf \"pickpocketer\" Thacocroth",
 				"prespp": 90,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737080": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Hademar \"cradle robber\" Thacocroth",
 				"prespp": 80,
-				"rus": 12,
+				"rush": 12,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737085": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Falko Licht",
 				"prespp": 20,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11746799": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Adri Kallath",
 				"prespp": 64,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11835133": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Adolf Freshbreeze",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11948498": {
 				"mvp": 1,
 				"name": "Rico kallath",
 				"prespp": 22,
-				"rus": 10,
+				"rush": 10,
 				"spp": 8,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12095341": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Rudolf Moranion",
 				"prespp": 9,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12148016": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Karl Klassen",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12187816": {
 				"name": "Ander Kallath",
 				"prespp": 32,
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12286445": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ilya Storm Jr",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12325429": {
 				"name": "Bruce Jamieson",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			}
 		},
 		"907426": {
 			"12278037": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hrafn Blackhoof",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12278038": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Uzhog Eight-Legs",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12278040": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Urgogh Red-Eye",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12278042": {
@@ -137,104 +136,122 @@
 			"12278043": {
 				"name": "Valug",
 				"prespp": 9,
-				"rus": 13,
-				"tur": 9,
+				"rush": 13,
+				"turns": 9,
 				"type": "R"
 			},
 			"12278044": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Urlan",
 				"prespp": 6,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12278045": {
 				"name": "Mak",
 				"prespp": 3,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12278046": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Bundig",
 				"prespp": 1,
-				"rus": -3,
+				"rush": -3,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12278047": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Bitterfoot",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12278048": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Borgan Nightbreath",
 				"spp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12328815": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Orgfan the Walking Wineskin",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12331217": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gorthaur Three-Quarters-Wit",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
-			"907426S1": {
-				"blk": 10,
+			"STAR-16005": {
+				"blocks": 10,
 				"cas": 1,
 				"name": "Goatruk",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "S"
 			},
-			"907426S2": {
-				"blk": 10,
+			"STAR-7545": {
+				"blocks": 10,
 				"name": "Angus Porterhouse",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1079839",
-	"team_performance": {
+	"team": {
 		"873349": {
+			"blocks": 51,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Reik River Kicking Mules",
-			"prestige": 3,
+			"pass": 9,
+			"prespp": 466,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 40,
 			"score": 5,
 			"scorediff": 5,
-			"tds": 5,
-			"tdsdiff": 5
+			"td": 5,
+			"tddiff": 5,
+			"turns": 160
 		},
 		"907426": {
+			"blocks": 52,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Hrafn's Herd",
+			"pass": 0,
+			"prespp": 43,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -5,
-			"tds": 0,
-			"tdsdiff": -5
+			"td": 0,
+			"tddiff": -5,
+			"turns": 162
 		}
 	}
 }

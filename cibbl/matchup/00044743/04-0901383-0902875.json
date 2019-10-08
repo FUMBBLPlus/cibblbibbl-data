@@ -1,145 +1,144 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3986216",
-	"player_performance": {
+	"player": {
 		"901383": {
 			"12182713": {
 				"name": "Vrekal Emberforce",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12182720": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Zhothor Stormchaser",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12182731": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vardred Netherbane",
 				"prespp": 3,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12182734": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Czerzrath Hellwatcher",
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12182735": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Vordraind the Nightskimmer",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12182739": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vrogos Hellshaper",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12182743": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Andrax Starstrider",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 1,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12182754": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Vorngoth Shaleripper",
-				"pas": 1,
-				"rus": 3,
-				"tur": 16,
+				"pass": 1,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12182756": {
 				"name": "Khirzal Hellchaser",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12182760": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Skedron Voidborn",
 				"prespp": 2,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12182765": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tragbak Nightrider",
 				"prespp": 6,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12182768": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Tadzand Voidsworn",
-				"pas": -3,
-				"rus": 7,
+				"pass": -3,
+				"rush": 7,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"902875": {
 			"12206473": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Willie War",
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12206474": {
 				"name": "Paul Pike",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12206475": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Charles Castle",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 3,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12206476": {
 				"mvp": 1,
 				"name": "Leroy Logistics",
-				"rus": 15,
+				"rush": 15,
 				"spp": 8,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12206477": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Colleen Charge",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12206478": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					7,
@@ -147,32 +146,33 @@
 					"12182735"
 				],
 				"name": "Jack Jettison",
-				"rus": 2,
+				"retired": true,
+				"rush": 2,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12206481": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Timothy Tank",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12206482": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bernard Wolf",
 				"prespp": 5,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12206483": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 3,
 				"name": "Gregory Wolf",
 				"prespp": 14,
 				"spp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12206484": {
@@ -181,11 +181,11 @@
 				"type": "B"
 			},
 			"12232700": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Fangtooth Grayback",
-				"pas": 1,
-				"rus": 13,
-				"tur": 16,
+				"pass": 1,
+				"rush": 13,
+				"turns": 16,
 				"type": "R"
 			},
 			"12232701": {
@@ -196,36 +196,55 @@
 					null
 				],
 				"name": "Alexander Goldhawk",
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1064372",
-	"team_performance": {
+	"team": {
 		"901383": {
-			"cas": 3,
-			"casdiff": 0,
+			"blocks": 31,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Andromeda Voidstriders",
+			"pass": -1,
+			"prespp": 19,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 37,
 			"score": 2,
 			"scorediff": -1,
-			"tds": 2,
-			"tdsdiff": -1
+			"td": 2,
+			"tddiff": -1,
+			"turns": 136
 		},
 		"902875": {
+			"blocks": 26,
 			"cas": 3,
-			"casdiff": 0,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "T.H.H.U. Slayers",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 24,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 54,
 			"score": 3,
 			"scorediff": 1,
-			"tds": 3,
-			"tdsdiff": 1
+			"td": 3,
+			"tddiff": 1,
+			"turns": 143
 		}
 	}
 }

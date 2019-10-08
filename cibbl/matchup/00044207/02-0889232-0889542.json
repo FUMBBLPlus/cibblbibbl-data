@@ -1,103 +1,102 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3957977",
-	"player_performance": {
+	"player": {
 		"889232": {
 			"11989951": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Chthonic Pitchblende",
 				"prespp": 16,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11989952": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Chthonic Cobaltite",
 				"prespp": 5,
-				"rus": 4,
+				"rush": 4,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"11989953": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Chthonic Granite",
 				"prespp": 10,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11989954": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Jet",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11989958": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chthonic Gabbro",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11989967": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sylph Wisp",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 17,
-				"rus": 31,
+				"rush": 31,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11989973": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"name": "Naiad Nomia",
 				"prespp": 22,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11989980": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Chthonic Kaolinite",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12003575": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Sylph Haze",
 				"prespp": 4,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12031249": {
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Magma Crab",
 				"spp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12070122": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Chthonic Slade",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12078649": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Naiad Vinessa",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"889542": {
 			"11994682": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					1,
 					6,
@@ -106,29 +105,30 @@
 				],
 				"name": "Lord Hellfire",
 				"prespp": 17,
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"11994684": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mineral Casper",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11994685": {
 				"name": "Vortex",
 				"prespp": 10,
-				"rus": -3,
-				"tur": 5,
+				"rush": -3,
+				"turns": 5,
 				"type": "R"
 			},
 			"11994690": {
 				"name": "Flooding Caves",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 8,
-				"rus": 2,
-				"tur": 5,
+				"rush": 2,
+				"turns": 5,
 				"type": "R"
 			},
 			"11994693": {
@@ -136,86 +136,104 @@
 				"type": "R"
 			},
 			"11994694": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Burning Soul",
 				"prespp": 8,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11994696": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Restless Igniter",
 				"prespp": 6,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12003232": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Shimering Glow",
 				"prespp": 13,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12009380": {
 				"name": "Underground Heat",
 				"prespp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12036400": {
 				"mvp": 1,
 				"name": "Slight Tornado",
 				"prespp": 12,
-				"rus": 17,
+				"rush": 17,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12045054": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Solid Ground",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12050725": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Flametongues",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12078854": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Burning Flowers",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1031918",
-	"team_performance": {
+	"team": {
 		"889232": {
+			"blocks": 38,
 			"cas": 2,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lost Golems of Grungni",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 74,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 35,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 148
 		},
 		"889542": {
+			"blocks": 19,
 			"cas": 0,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Hellbound Firebats",
+			"pass": -1,
+			"prespp": 83,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 106
 		}
 	}
 }

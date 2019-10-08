@@ -1,20 +1,19 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4037855",
-	"player_performance": {
+	"player": {
 		"878945": {
 			"11825655": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Lashweaver Taker of Souls",
 				"prespp": 182,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11825658": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					8,
@@ -23,169 +22,169 @@
 				],
 				"name": "Laesydra",
 				"prespp": 23,
-				"tur": 12,
+				"retired": true,
+				"turns": 12,
 				"type": "R"
 			},
 			"11994839": {
-				"blk": 2,
-				"cps": 2,
+				"blocks": 2,
+				"comp": 2,
 				"name": "Skylah the Desired",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 74,
-				"rus": 5,
+				"rush": 5,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12066502": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 5,
 				"name": "Elasta Euphoria",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 95,
-				"rus": -3,
+				"rush": -3,
 				"spp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12154896": {
 				"name": "Kit'anra",
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 3,
+				"td": 1,
+				"turns": 3,
 				"type": "R"
 			},
 			"12255001": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Harg'Tor",
 				"prespp": 10,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12255005": {
 				"name": "Jallhaef",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12262128": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Draygon",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12309469": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Ka'astellck",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12395483": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Devrax",
 				"prespp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12415282": {
 				"name": "Lilesh Snarelust",
 				"prespp": 13,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12536932": {
 				"name": "Skyrath",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12544604": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Queen of Temptation",
-				"pas": 6,
-				"rus": 26,
+				"pass": 6,
+				"rush": 26,
 				"spp": 7,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"888994": {
 			"11985437": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Vargwursgelnd",
 				"prespp": 53,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11985438": {
-				"blk": 14,
+				"blocks": 14,
 				"cas": 3,
 				"name": "Gwoftirbnewfg",
 				"prespp": 101,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11985441": {
 				"name": "Murchú Varken",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 32,
-				"rus": 6,
-				"tur": 5,
+				"rush": 6,
+				"turns": 5,
 				"type": "R"
 			},
 			"11985462": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Jforznthrargh",
 				"prespp": 64,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12031804": {
 				"name": "Báine Styrix",
 				"prespp": 115,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12042228": {
 				"name": "Aodhán Coobe",
 				"prespp": 17,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12042370": {
 				"name": "Ualraig Fovor",
 				"prespp": 10,
-				"retired": true,
 				"type": "R"
 			},
 			"12129508": {
 				"mvp": 1,
 				"name": "Hanrahan Fearghail",
 				"prespp": 32,
-				"rus": 1,
+				"rush": 1,
 				"spp": 8,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"12277260": {
 				"name": "Brocc Rydan",
 				"prespp": 10,
-				"rus": 9,
-				"tur": 14,
+				"rush": 9,
+				"turns": 14,
 				"type": "R"
 			},
 			"12277426": {
@@ -196,72 +195,91 @@
 					"12262128"
 				],
 				"name": "Muirne Ariannona",
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"12297183": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Olcán Cid",
 				"prespp": 7,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12341066": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Baoth Foghladh",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12350238": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Fwirsvognal",
 				"prespp": 39,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12413857": {
 				"name": "Dunfhlaith Fasner",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12529352": {
 				"name": "Domhnall Marney",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12529367": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Rúadhnait Volux",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1125112",
-	"team_performance": {
+	"team": {
 		"878945": {
-			"cas": 8,
-			"casdiff": 2,
+			"blocks": 24,
+			"cas": 6,
+			"casdiff": 0,
+			"comp": 3,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eternal Ecstasy",
-			"prestige": 3,
+			"pass": 4,
+			"prespp": 420,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 4,
 			"scorediff": 3,
-			"tds": 4,
-			"tdsdiff": 3
+			"td": 4,
+			"tddiff": 3,
+			"turns": 149
 		},
 		"888994": {
+			"blocks": 39,
 			"cas": 6,
-			"casdiff": -2,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Beerbog Behemoths",
+			"pass": -1,
+			"prespp": 480,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 1,
 			"scorediff": -3,
-			"tds": 1,
-			"tdsdiff": -3
+			"td": 1,
+			"tddiff": -3,
+			"turns": 119
 		}
 	}
 }

@@ -1,40 +1,39 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3943355",
-	"player_performance": {
+	"player": {
 		"854600": {
 			"11439794": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Juan Robleduro",
 				"prespp": 20,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439806": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Hernando Celador",
 				"prespp": 8,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11439812": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Enrico Zapador",
 				"prespp": 15,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439814": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Manuel Grandegolpe",
 				"prespp": 31,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11440506": {
@@ -43,41 +42,41 @@
 				"type": "R"
 			},
 			"11502188": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Paolo Pajaro",
 				"prespp": 9,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11567694": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Agapito Pobre",
 				"prespp": 18,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11698849": {
-				"blk": 1,
-				"cps": 1,
-				"fou": 1,
+				"blocks": 1,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Javier Ladron",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 51,
-				"rus": 12,
+				"rush": 12,
 				"spp": 1,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11750105": {
 				"name": "Baldomero Caudillo",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11780487": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Reinaldo Halcon",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11797056": {
@@ -88,91 +87,92 @@
 					"11699147"
 				],
 				"name": "Vasco Malbona",
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"11876840": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Velasco Estibador",
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11884680": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 3,
 				"mvp": 1,
 				"name": "Basilio Mortalmente",
 				"prespp": 17,
 				"spp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11944052": {
-				"cps": 2,
+				"comp": 2,
 				"name": "Francisco Portero",
 				"prespp": 9,
-				"rus": 29,
+				"rush": 29,
 				"spp": 8,
-				"tds": 2,
-				"tur": 13,
+				"td": 2,
+				"turns": 13,
 				"type": "R"
 			},
 			"12023438": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Alberto Ventana",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"862033": {
 			"11558599": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Delvarus",
 				"prespp": 20,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11558605": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Porphyricus",
 				"prespp": 36,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11558611": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hadrabulus Vioss",
 				"prespp": 16,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11558616": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Phosis T'Kar",
 				"prespp": 43,
-				"rus": 23,
+				"rush": 23,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11558617": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Skane",
 				"prespp": 29,
 				"spp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11567423": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Kargos",
 				"prespp": 39,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11681785": {
@@ -184,65 +184,84 @@
 				],
 				"name": "Lucius",
 				"prespp": 6,
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"11699147": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Khalophis",
 				"prespp": 31,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11850112": {
 				"name": "Ignatius Grulgor III",
 				"prespp": 1,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11927160": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Calas Typhon III",
 				"prespp": 1,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11966746": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Kharn the Betrayer",
 				"prespp": 8,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1015443",
-	"team_performance": {
+	"team": {
 		"854600": {
-			"cas": 6,
-			"casdiff": 5,
+			"blocks": 32,
+			"cas": 5,
+			"casdiff": 4,
+			"comp": 3,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Montetriste Noblemen",
+			"pass": 2,
+			"prespp": 255,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 53,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 160
 		},
 		"862033": {
+			"blocks": 30,
 			"cas": 1,
-			"casdiff": -5,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Forsaken of the Pantheon",
+			"pass": 0,
+			"prespp": 230,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 81
 		}
 	}
 }

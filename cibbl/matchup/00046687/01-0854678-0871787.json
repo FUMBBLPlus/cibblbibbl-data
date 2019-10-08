@@ -1,23 +1,22 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4063473",
-	"player_performance": {
+	"player": {
 		"854678": {
 			"11439624": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Grisnik the Blacktail",
 				"prespp": 25,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11439628": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Sneekis the Dragon",
 				"prespp": 67,
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11482377": {
@@ -28,46 +27,45 @@
 			"11696956": {
 				"name": "Nightmaster Skirshakk",
 				"prespp": 139,
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11850585": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Nightlord Azhiskikk",
 				"prespp": 52,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11934134": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nightmaster Vasquee",
 				"prespp": 53,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11948519": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Thanflem the Splinter",
 				"prespp": 4,
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11951210": {
-				"blk": 6,
-				"cps": 1,
+				"blocks": 6,
+				"comp": 1,
 				"name": "Nightlord Nurgrin",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 83,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12217971": {
@@ -75,43 +73,43 @@
 				"name": "Nightmaster Crittskik",
 				"prespp": 41,
 				"spp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12246149": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Raslik the Yellow",
 				"prespp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12345916": {
-				"blk": 1,
-				"fou": 7,
+				"blocks": 1,
+				"fouls": 7,
 				"name": "Vazhakk the Skywatcher",
 				"prespp": 23,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12528392": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nightmaster Skre",
 				"prespp": 20,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12528405": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Khrat the Nightfury",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12540527": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Skik the Weaver",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12616877": {
@@ -119,9 +117,9 @@
 				"type": "R"
 			},
 			"12616878": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Crilk the Eager",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		},
@@ -129,36 +127,36 @@
 			"11709010": {
 				"name": "Dando Enda",
 				"prespp": 16,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11709011": {
 				"name": "Raus Juit",
 				"prespp": 149,
-				"rus": 2,
-				"tur": 5,
+				"rush": 2,
+				"turns": 5,
 				"type": "R"
 			},
 			"11709013": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Kael Desini",
 				"prespp": 38,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11709018": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Font Eiridan",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 57,
-				"rus": 5,
+				"rush": 5,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11747061": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					2,
@@ -167,35 +165,36 @@
 				],
 				"name": "Gutterfingers",
 				"prespp": 43,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"11814852": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Pantheon Bane",
 				"prespp": 110,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12051832": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Amon",
 				"prespp": 43,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12159733": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Gert Stein",
 				"prespp": 6,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12423015": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Harkon Halvarson",
 				"prespp": 21,
-				"tur": 1,
+				"turns": 1,
 				"type": "I"
 			},
 			"12467315": {
@@ -208,25 +207,25 @@
 				"type": "R"
 			},
 			"12534057": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Bau Lang",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12615329": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Arsady the Hung",
 				"prespp": 38,
-				"rus": 26,
+				"rush": 26,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12615340": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Axeman",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12616231": {
@@ -234,38 +233,56 @@
 				"type": "R"
 			},
 			"12664544": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Herrn Alignsterne",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1154206",
-	"team_performance": {
+	"team": {
 		"854678": {
-			"cas": 4,
-			"casdiff": 3,
+			"blocks": 31,
+			"cas": 1,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lords of the Silent Death",
-			"prestige": 3,
+			"pass": 6,
+			"prespp": 545,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 31,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 137
 		},
 		"871787": {
-			"cas": 1,
-			"casdiff": -3,
+			"blocks": 27,
+			"cas": 0,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malignant Curators",
+			"pass": 3,
+			"prespp": 546,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 33,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 142
 		}
 	}
 }

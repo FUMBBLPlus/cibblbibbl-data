@@ -1,53 +1,52 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3972126",
-	"player_performance": {
+	"player": {
 		"899682": {
 			"12158266": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Ch'nn'r \"Big Boa\" Qll-Crvn",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12158267": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "K'nn'th \"Strangler\" Ptnntcl",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12158268": {
 				"name": "M'-Kh'nh \"Smart Eye\" Vrrwlss",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12158269": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ph'rn \"Quick Tail\" Vzz-Sttn",
 				"prespp": 11,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158272": {
 				"name": "T'ng \"Lefty\" Clbrr",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158273": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "V'sn \"Midget\" Vprr",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12158274": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					5,
@@ -55,95 +54,91 @@
 					"12170268"
 				],
 				"name": "C'dm'qsz \"Longtongue\" Ntrll",
-				"tur": 12,
+				"retired": true,
+				"turns": 12,
 				"type": "R"
 			},
 			"12158276": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ch'm \"Blue One\" Ammdtss",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12158279": {
 				"name": "Dtr'vssr \"Mamba\" Vrddfls",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158282": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ph'rn \"Gent\" Kbrrcllr",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12180927": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Robert Quickstone",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			}
 		},
 		"900578": {
-			"12158274R1": {
-				"name": "C'dm'qsz \"Longtongue\" Ntrll",
-				"type": "D"
-			},
 			"12170264": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Afanas, the Immortal",
-				"rus": 7,
-				"tur": 12,
+				"rush": 7,
+				"turns": 12,
 				"type": "R"
 			},
 			"12170268": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Nicholas Ladislav",
-				"pas": 1,
-				"rus": 11,
+				"pass": 1,
+				"rush": 11,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12170269": {
-				"blk": 13,
+				"blocks": 13,
 				"mvp": 1,
 				"name": "Ludok Harker",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12170278": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Alexander",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12170280": {
 				"name": "Anton",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12170281": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Constantine",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12170285": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Demitri Markoff",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12170340": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Boris",
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"12170341": {
@@ -151,62 +146,84 @@
 				"type": "R"
 			},
 			"12170342": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Ivan",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12170343": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Kazimir",
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12180472": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Ivar",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12191516": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gregorovitch",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
+			},
+			"RAISED-7392_12158274_12191636": {
+				"name": "C'dm'qsz \"Longtongue\" Ntrll",
+				"type": "D"
 			}
 		}
 	},
 	"replayId": "1048302",
-	"team_performance": {
+	"team": {
 		"899682": {
+			"blocks": 21,
 			"cas": 0,
-			"casdiff": -4,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "K'r'shh Sl'ppr'ss",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 21,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 133
 		},
 		"900578": {
-			"cas": 4,
-			"casdiff": 4,
+			"blocks": 55,
+			"cas": 3,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Followers of the First Count",
+			"pass": 1,
+			"prespp": 17,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 22,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 149
 		}
 	}
 }

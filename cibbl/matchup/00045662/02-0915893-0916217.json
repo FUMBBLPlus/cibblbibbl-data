@@ -1,149 +1,148 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4014409",
-	"player_performance": {
+	"player": {
 		"915893": {
 			"12410997": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "White Fangs",
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"12410998": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Thick Hide",
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12410999": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Sharpclaws",
-				"rus": 7,
-				"tur": 13,
+				"rush": 7,
+				"turns": 13,
 				"type": "R"
 			},
 			"12411000": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Swiftslash",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12411001": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Chargtooth",
-				"pas": -4,
+				"pass": -4,
 				"prespp": 6,
-				"rus": 8,
+				"rush": 8,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12411002": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Summercharge",
-				"rus": 6,
-				"tur": 10,
+				"rush": 6,
+				"turns": 10,
 				"type": "R"
 			},
 			"12411003": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Danel",
-				"pas": 1,
-				"rus": 15,
+				"pass": 1,
+				"rush": 15,
 				"spp": 6,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12411004": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Isnagard",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12411005": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Landerous",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12411006": {
 				"name": "Vladimoff",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12411007": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Madrigard",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"916217": {
 			"12416220": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Bestgor \"The Vicious\"",
-				"rus": 8,
+				"rush": 8,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416222": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Strongor \"The Mighty\"",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416224": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Powergor \"The Relentless\"",
 				"prespp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12416226": {
-				"blk": 14,
+				"blocks": 14,
 				"name": "Mustgor \"The Decided\"",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12416227": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gogor \"The Brutal\"",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12416228": {
 				"name": "Fastgor \"The Lightning\"",
-				"rus": 16,
-				"tur": 16,
+				"rush": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416229": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Quickgor \"The Legged\"",
-				"pas": 8,
-				"rus": 10,
+				"pass": 8,
+				"rush": 10,
 				"spp": 4,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12416233": {
@@ -151,58 +150,75 @@
 				"type": "R"
 			},
 			"12416234": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tallgor \"The Landscapist\"",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12416236": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Brutegor \"The Doubtless\"",
 				"prespp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12416238": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Roughgor \"The Thoughtless\"",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12423705": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Xavier Faststone",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1098260",
-	"team_performance": {
+	"team": {
 		"915893": {
+			"blocks": 39,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Loren's Rebuke",
+			"pass": -3,
+			"prespp": 6,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 43,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 156
 		},
 		"916217": {
+			"blocks": 49,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cloven Clan",
-			"prestige": 3,
+			"pass": 8,
+			"prespp": 11,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 157
 		}
 	}
 }

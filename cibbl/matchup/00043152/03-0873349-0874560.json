@@ -1,234 +1,251 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3913438",
-	"player_performance": {
+	"player": {
 		"873349": {
 			"11737076": {
-				"blk": 1,
-				"cps": 3,
+				"blocks": 1,
+				"comp": 3,
 				"name": "Harbert Kallath",
-				"pas": 11,
+				"pass": 11,
 				"prespp": 12,
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737077": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Arnold \"waists-breaker\" Thacocroth",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 19,
-				"rus": 4,
+				"rush": 4,
 				"spp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737078": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Sigmund \"silent\" Thacocroth",
 				"prespp": 17,
 				"spp": 4,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11737079": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Landolf \"pickpocketer\" Thacocroth",
 				"prespp": 24,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737080": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Hademar \"cradle robber\" Thacocroth",
 				"prespp": 22,
-				"rus": 5,
+				"rush": 5,
 				"spp": 5,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737081": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Aimar Kallath",
 				"prespp": 29,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737085": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Falko Licht",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11737086": {
 				"name": "Ilya Storm",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11746799": {
 				"name": "Adri Kallath",
 				"prespp": 6,
-				"rus": 29,
+				"rush": 29,
 				"spp": 12,
-				"tds": 4,
-				"tur": 15,
+				"td": 4,
+				"turns": 15,
 				"type": "R"
 			},
 			"11794554": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Flunko Kaiserflunken",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11835133": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Adolf Freshbreeze",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"874560": {
 			"11758676": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "The Fast But Bashy Wun",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11758678": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "The Bashy But Fast Wun",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11758679": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Glog the Mighty",
 				"prespp": 8,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11758680": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Hurg the Brave",
 				"prespp": 9,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11758681": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kruk the Sensitive",
 				"prespp": 9,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11758683": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Flurg",
 				"prespp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11758687": {
 				"name": "Fleabag",
 				"prespp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11758688": {
 				"name": "Teabag",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11758690": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Twitch",
 				"prespp": 3,
 				"type": "R"
 			},
 			"11758691": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Flinch",
 				"prespp": 6,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11758692": {
 				"name": "Pooflake",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11758693": {
 				"name": "Smee",
 				"prespp": 3,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11769205": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tickle",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11769206": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Squeal",
 				"prespp": 2,
-				"rus": 18,
-				"tur": 11,
+				"rush": 18,
+				"turns": 11,
 				"type": "R"
 			},
 			"11769207": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lunchbox",
-				"rus": 7,
-				"tur": 13,
+				"rush": 7,
+				"turns": 13,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "980565",
-	"team_performance": {
+	"team": {
 		"873349": {
+			"blocks": 27,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 4,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Reik River Kicking Mules",
-			"prestige": 3,
+			"pass": 10,
+			"prespp": 136,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 49,
 			"score": 5,
 			"scorediff": 5,
-			"tds": 5,
-			"tdsdiff": 5
+			"td": 5,
+			"tddiff": 5,
+			"turns": 138
 		},
 		"874560": {
+			"blocks": 29,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Poshgit's Daredevils",
+			"pass": 0,
+			"prespp": 78,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 25,
 			"score": 0,
 			"scorediff": -5,
-			"tds": 0,
-			"tdsdiff": -5
+			"td": 0,
+			"tddiff": -5,
+			"turns": 124
 		}
 	}
 }

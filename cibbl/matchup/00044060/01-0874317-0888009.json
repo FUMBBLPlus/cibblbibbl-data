@@ -1,107 +1,105 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3946157",
-	"player_performance": {
+	"player": {
 		"874317": {
 			"11754392": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Balor Evil-eye",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754410": {
-				"blk": 11,
+				"blocks": 11,
 				"mvp": 1,
 				"name": "Odracon The Procreator",
 				"prespp": 24,
-				"rus": 7,
+				"rush": 7,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754411": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Bres",
 				"prespp": 13,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754412": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Cian",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754414": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Lug",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11754416": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Cichol Grichencos",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754417": {
 				"name": "Cethlenn",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11754418": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Tethra",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754422": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Biròq",
 				"prespp": 45,
-				"rus": 13,
-				"tur": 5,
+				"rush": 13,
+				"turns": 5,
 				"type": "R"
 			},
 			"11768708": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Slough Feg",
 				"prespp": 2,
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11859103": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Moloch the Respawned",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11904321": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Dilek",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 17,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11966718": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "The Fog",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
@@ -112,56 +110,56 @@
 				"type": "R"
 			},
 			"11969189": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Dumnorix",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11969190": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Boudica's Guardian",
 				"prespp": 9,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11969191": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Prasutagus",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 10,
-				"rus": 5,
-				"tur": 17,
+				"rush": 5,
+				"turns": 17,
 				"type": "R"
 			},
 			"11969192": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Antedios",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11969193": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Gaius",
 				"prespp": 13,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11969194": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Delamarre",
 				"prespp": 14,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11969197": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Voadicia",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11969198": {
@@ -172,62 +170,80 @@
 			"11969199": {
 				"name": "Breena",
 				"prespp": 6,
-				"rus": -4,
-				"tur": 6,
+				"rush": -4,
+				"turns": 6,
 				"type": "R"
 			},
 			"12029109": {
 				"name": "Cartimandua II",
 				"prespp": 1,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12029111": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Auspiciato",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12036399": {
 				"name": "Ghost of Boudica",
-				"pas": -2,
-				"rus": 7,
-				"tur": 7,
+				"pass": -2,
+				"rush": 7,
+				"turns": 7,
 				"type": "R"
 			},
-			"888009S1": {
-				"blk": 8,
+			"STAR-7531": {
+				"blocks": 8,
 				"name": "Bertha Bigfist",
-				"tur": 17,
+				"turns": 17,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1018683",
-	"team_performance": {
+	"team": {
 		"874317": {
+			"blocks": 49,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Misty Isle Gators",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 137,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 163
 		},
 		"888009": {
+			"blocks": 48,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Londinium's Lunatics",
+			"pass": -1,
+			"prespp": 80,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 8,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 150
 		}
 	}
 }

@@ -1,176 +1,174 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4009896",
-	"player_performance": {
+	"player": {
 		"895929": {
 			"12098257": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Clawchest",
 				"prespp": 39,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12098258": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Silverscar",
 				"prespp": 20,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Silverstriker",
 				"prespp": 17,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12098294": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Blackchewer",
 				"prespp": 24,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12098297": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Duskdigger",
 				"prespp": 40,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12136367": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 3,
 				"name": "Fangsnapper Jr",
 				"prespp": 17,
 				"spp": 6,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12166472": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Fangsnapper Jr Jr",
 				"prespp": 4,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12184769": {
 				"name": "Barbedbreath",
 				"prespp": 17,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"12265899": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dustbinder",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12295244": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Broadreaper",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12338228": {
 				"name": "Shadowreaper",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12345051": {
 				"name": "Crowripper",
 				"prespp": 7,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12345108": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Windfury Jr",
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		},
 		"902875": {
 			"12206473": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Willie War",
 				"prespp": 7,
 				"spp": 1,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12206474": {
 				"name": "Paul Pike",
 				"prespp": 6,
-				"rus": 5,
-				"tur": 4,
+				"rush": 5,
+				"turns": 4,
 				"type": "R"
 			},
 			"12206475": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Charles Castle",
 				"prespp": 10,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12206482": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bernard Wolf",
 				"prespp": 11,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12206483": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Gregory Wolf",
 				"prespp": 36,
-				"rus": 8,
+				"rush": 8,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12206484": {
 				"name": "Blake Bunker",
 				"prespp": 8,
-				"retired": true,
 				"type": "B"
 			},
 			"12232700": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Fangtooth Grayback",
 				"prespp": 8,
-				"rus": 4,
+				"rush": 4,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12277143": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Foxy Notta Wolf",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 15,
-				"rus": -8,
+				"rush": -8,
 				"spp": 6,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12296729": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					6,
@@ -179,66 +177,85 @@
 				],
 				"name": "Bruno Bomber",
 				"prespp": 4,
-				"tur": 11,
+				"retired": true,
+				"turns": 11,
 				"type": "B"
 			},
 			"12340451": {
 				"name": "Larry Logistics",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12340452": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "James Jettison",
 				"prespp": 1,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12353602": {
 				"name": "Tommy Tank",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12353603": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Leroy Luger",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12353604": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Cindy Charge",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1093195",
-	"team_performance": {
+	"team": {
 		"895929": {
+			"blocks": 47,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 187,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 137
 		},
 		"902875": {
+			"blocks": 26,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "T.H.H.U. Slayers",
+			"pass": 1,
+			"prespp": 106,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 125
 		}
 	}
 }

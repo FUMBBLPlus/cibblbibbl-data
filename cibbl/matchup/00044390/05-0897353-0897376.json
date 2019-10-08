@@ -1,83 +1,82 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3968773",
-	"player_performance": {
+	"player": {
 		"897353": {
 			"12121959": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nis Atman",
 				"prespp": 1,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12121960": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sssues Ej",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12121961": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Enum Ers",
 				"prespp": 8,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12121967": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Matar Ash",
 				"prespp": 10,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12121968": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sernozem Ra",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121969": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Mare Oz",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 7,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121971": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ummilu Imma",
 				"prespp": 3,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12121974": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Pix Vamox",
-				"rus": 2,
-				"tur": 9,
+				"rush": 2,
+				"turns": 9,
 				"type": "R"
 			},
 			"12121975": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Tush Banuk",
 				"prespp": 2,
-				"rus": -1,
+				"rush": -1,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12139096": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mos Passat",
 				"prespp": 8,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12139099": {
@@ -85,141 +84,159 @@
 				"name": "Blu Ash",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12164655": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Lang Om",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12165569": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Adenes Fujo",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		},
 		"897376": {
 			"12122272": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dark Shade",
 				"prespp": 12,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12122273": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Deep Root",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122274": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Long Branch",
 				"prespp": 7,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122275": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "River Whip",
 				"prespp": 10,
-				"rus": 27,
+				"rush": 27,
 				"spp": 8,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122276": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "White Leaf",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 3,
-				"rus": 10,
+				"rush": 10,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122279": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Moss",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12122280": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Lichen",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122281": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Burl",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122282": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Mushroom",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122284": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vine",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12163493": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Swift Switch",
-				"rus": 8,
-				"tur": 14,
+				"rush": 8,
+				"turns": 14,
 				"type": "R"
 			},
 			"12168335": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Gray Timber",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1044494",
-	"team_performance": {
+	"team": {
 		"897353": {
+			"blocks": 36,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Court of Shu",
+			"pass": 1,
+			"prespp": 42,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 15,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 153
 		},
 		"897376": {
+			"blocks": 57,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Darkenwood Sentinels",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 49,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 45,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 173
 		}
 	}
 }

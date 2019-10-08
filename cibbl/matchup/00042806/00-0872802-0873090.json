@@ -1,164 +1,162 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3894986",
-	"player_performance": {
+	"player": {
 		"872802": {
 			"11727531": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 3,
 				"name": "Stomm",
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727532": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Gnumm",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727533": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Smasz",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11727534": {
 				"mvp": 1,
 				"name": "Smosk",
 				"spp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11727535": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Krirsek",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11727536": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Zraggok",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727537": {
-				"blk": 3,
-				"fou": 2,
+				"blocks": 3,
+				"fouls": 2,
 				"name": "Cigsix",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11727538": {
 				"name": "Gnuktesk",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11727539": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Skegdo",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727540": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Troskrak",
-				"rus": 8,
+				"rush": 8,
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11727541": {
 				"name": "Krikzar",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11727542": {
 				"name": "Snaszor",
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"11727543": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Knogrosk",
 				"type": "R"
 			},
 			"11727544": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Snegik",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11727545": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Snurta",
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
-			"872802S1": {
+			"STAR-7534": {
 				"name": "Bomber Dribblesnot",
-				"tur": 8,
+				"turns": 8,
 				"type": "S"
 			}
 		},
 		"873090": {
 			"11732404": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Kraz Mighty-Horn",
 				"prespp": 3,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11732405": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gnaz Thunder-Charge",
 				"prespp": 5,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11732406": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Urgoz Beast-Killer",
 				"prespp": 6,
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11732407": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Toz Bone-Shatter",
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11732408": {
-				"blk": 2,
-				"cps": 1,
-				"fou": 1,
+				"blocks": 2,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Kribba Krunosch",
-				"pas": 6,
-				"rus": 5,
+				"pass": 6,
+				"rush": 5,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11732409": {
@@ -169,78 +167,95 @@
 					"11727532"
 				],
 				"name": "Bagga Sluscho",
-				"pas": 1,
-				"rus": 8,
+				"pass": 1,
+				"retired": true,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11732410": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Braknaz",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11732411": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Miraz",
-				"pas": 1,
-				"rus": 2,
-				"tur": 15,
+				"pass": 1,
+				"rush": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"11732419": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Wirtok",
 				"prespp": 2,
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11732420": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sibba Slongo",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11732421": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Snotta Burgo",
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "959383",
-	"team_performance": {
+	"team": {
 		"872802": {
-			"cas": 7,
-			"casdiff": 6,
+			"blocks": 30,
+			"cas": 5,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grey Hag Hazzadurrs",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 30,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 149
 		},
 		"873090": {
+			"blocks": 34,
 			"cas": 1,
-			"casdiff": -6,
+			"casdiff": -4,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Clan MacCraddle",
+			"pass": 8,
+			"prespp": 16,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 45,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 116
 		}
 	}
 }

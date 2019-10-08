@@ -1,224 +1,241 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3956652",
-	"player_performance": {
+	"player": {
 		"893181": {
 			"12058325": {
-				"blk": 10,
-				"fou": 1,
+				"blocks": 10,
+				"fouls": 1,
 				"name": "BigJaws",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12058326": {
-				"blk": 9,
+				"blocks": 9,
 				"mvp": 1,
 				"name": "Rouki the Red",
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12058327": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Gog Sticht",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12058328": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Fungus",
-				"rus": 10,
-				"tur": 17,
+				"rush": 10,
+				"turns": 17,
 				"type": "R"
 			},
 			"12058330": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hungry Stritcher",
-				"rus": 10,
-				"tur": 13,
+				"rush": 10,
+				"turns": 13,
 				"type": "R"
 			},
 			"12058331": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Krisfinch",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12058332": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Greshtich",
-				"pas": 1,
-				"tur": 13,
+				"pass": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12058333": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Zentzei",
-				"rus": -1,
-				"tur": 17,
+				"rush": -1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12058334": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ghostrick",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12058335": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Pongo",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12058336": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zhristok",
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12059366": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dresdetk",
 				"prespp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12059367": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Klestzio",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"893818": {
 			"12062797": {
-				"blk": 6,
-				"cps": 1,
+				"blocks": 6,
+				"comp": 1,
 				"name": "Victoria",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 15,
-				"rus": 20,
+				"rush": 20,
 				"spp": 1,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12062798": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Mala Von Vraf",
 				"prespp": 8,
-				"rus": 23,
+				"rush": 23,
 				"spp": 9,
-				"tds": 3,
-				"tur": 18,
+				"td": 3,
+				"turns": 18,
 				"type": "R"
 			},
 			"12062801": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Uri Weller",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12062803": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Mol Rokitir",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12062804": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rikour",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12062805": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Morian",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12062806": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Vetusta",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12062807": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Morla",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12062808": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Norlian",
 				"prespp": 2,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12062809": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ayum",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12062810": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Eriadk",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12062811": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Renoir",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12100503": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Cadenas Pit",
-				"pas": 1,
-				"rus": 3,
-				"tur": 16,
+				"pass": 1,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1030547",
-	"team_performance": {
+	"team": {
 		"893181": {
+			"blocks": 47,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Red Hard Biters",
+			"pass": 1,
+			"prespp": 7,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 27,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 169
 		},
 		"893818": {
+			"blocks": 56,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grim Queens",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 27,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 46,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 178
 		}
 	}
 }

@@ -1,143 +1,142 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4046174",
-	"player_performance": {
+	"player": {
 		"926053": {
 			"12570037": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Huitzilopochtli Harbinger of War",
 				"prespp": 9,
-				"tur": 11,
+				"turns": 11,
 				"type": "B"
 			},
 			"12570096": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Tezcatlipoca the Black",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570097": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Xipe-Totec the Reborn",
 				"prespp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12570098": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Quetzalcoatl the White",
 				"prespp": 2,
 				"spp": 4,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12570099": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Tepeyollotl Breaker of Mountains",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570100": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Tlaloc Bringer of Thunder",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570103": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"int": 1,
 				"mvp": 1,
 				"name": "Nesoxochi Queen of Darkness",
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12570104": {
 				"name": "Ometeotl the One with the Two Faces",
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12570105": {
 				"name": "Mixcoatl the Hunter",
 				"prespp": 3,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12570106": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Tecciztecatl Master of the Moon",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12570109": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Omacatl Master of Laughter",
 				"prespp": 4,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"926717": {
 			"12580801": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Sister Annakonda",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12580802": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sister Vyper",
 				"prespp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12580803": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sister Tygress",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12580804": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sister Jaguarella",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12580809": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ellyfant",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12580818": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Krokodyle",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12580820": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Panthra",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12580822": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Spydrella",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12580823": {
@@ -145,66 +144,84 @@
 				"type": "R"
 			},
 			"12580824": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Frawg",
-				"pas": 2,
-				"rus": 7,
+				"pass": 2,
+				"rush": 7,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12580825": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Pyrranha",
 				"prespp": 3,
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12580826": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Grylla",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12593814": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Rattlsnayk",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1134729",
-	"team_performance": {
+	"team": {
 		"926053": {
+			"blocks": 45,
 			"cas": 3,
-			"casdiff": 2,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 1,
+			"mvp": 1,
 			"name": "Servants of Sacrifice",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 34,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 144
 		},
 		"926717": {
-			"cas": 1,
-			"casdiff": -2,
+			"blocks": 31,
+			"cas": 0,
+			"casdiff": -3,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Handmaids of the Gods",
+			"pass": 2,
+			"prespp": 14,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 138
 		}
 	}
 }

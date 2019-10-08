@@ -1,146 +1,146 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3931160",
-	"player_performance": {
+	"player": {
 		"870410": {
 			"11686464": {
 				"name": "Zizou Zannanza",
 				"prespp": 16,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11686465": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "King Pepi",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11686466": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Wazza Rudamun",
 				"prespp": 34,
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"11686468": {
-				"fou": 3,
+				"fouls": 3,
 				"mvp": 1,
 				"name": "Ruud Devil Neserkauhor",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11686470": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "De Zulk Analmaye",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11686477": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Guard of the Reds",
 				"prespp": 11,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"11686481": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Protector of the Toffees",
 				"prespp": 36,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11705502": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					2,
 					"blocked",
 					"11713837"
 				],
-				"fou": 1,
+				"fouls": 1,
 				"name": "Lirah Meni",
 				"prespp": 7,
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"11714360": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Eratosthenes",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11733652": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Rocket Ramesses II",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11779706": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 2,
 				"name": "Guard of the trophies",
 				"prespp": 17,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11874662": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nebu Masaharta",
 				"prespp": 4,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11925294": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Guard of the Daggers",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11937608": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sparky Hui",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"872044": {
 			"11713837": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Carol I",
 				"prespp": 72,
 				"spp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11713838": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ferdinand I",
 				"prespp": 32,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11713840": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Burggraf of Nuremberg",
 				"prespp": 26,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11713845": {
@@ -152,43 +152,44 @@
 				],
 				"name": "Constantin",
 				"prespp": 7,
+				"retired": true,
 				"type": "R"
 			},
 			"11713847": {
 				"name": "Grigore",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11756292": {
 				"name": "Maria Christina",
 				"prespp": 10,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11787325": {
 				"name": "Zsuzsanna Lorántffy",
 				"prespp": 13,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11806299": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Michael I",
 				"prespp": 21,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11859010": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Jelena Zrinska",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 9,
-				"rus": 25,
+				"rush": 25,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11900745": {
@@ -197,46 +198,64 @@
 			},
 			"11946731": {
 				"name": "Eleonore-Magdalena",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11953214": {
 				"name": "Wilhelmina Amalia",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11953217": {
 				"name": "Andrei",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1001189",
-	"team_performance": {
+	"team": {
 		"870410": {
+			"blocks": 49,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
 			"name": "Settra's Goats",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 166,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 166
 		},
 		"872044": {
+			"blocks": 13,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Strigos Elită",
+			"pass": 1,
+			"prespp": 190,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 25,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 94
 		}
 	}
 }

@@ -1,76 +1,75 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4040311",
-	"player_performance": {
+	"player": {
 		"900800": {
 			"12173741": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Rath Koulm",
 				"prespp": 21,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173742": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grath Telff",
 				"prespp": 17,
-				"rus": 15,
-				"tur": 16,
+				"rush": 15,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173743": {
-				"blk": 14,
+				"blocks": 14,
 				"mvp": 1,
 				"name": "Piul Erff",
 				"prespp": 27,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173768": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Leroy Stronghaw",
 				"prespp": 12,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12173769": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"name": "Ian Silentor",
 				"prespp": 36,
 				"spp": 4,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12173770": {
-				"blk": 9,
-				"fou": 1,
+				"blocks": 9,
+				"fouls": 1,
 				"name": "Albert Goldfi",
 				"prespp": 38,
-				"rus": 2,
-				"tur": 15,
+				"rush": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"12173774": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Xavier Stpike",
 				"prespp": 4,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12173775": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sylvester Deepfy",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12350871": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					5,
@@ -79,50 +78,51 @@
 				],
 				"name": "Duane Strongstone",
 				"prespp": 3,
-				"tur": 13,
+				"retired": true,
+				"turns": 13,
 				"type": "R"
 			},
 			"12388562": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Duane Fastspike",
 				"prespp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12440756": {
 				"name": "Mega Minion I",
 				"prespp": 11,
-				"tur": 1,
+				"turns": 1,
 				"type": "B"
 			},
 			"12569359": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Ray Perkins",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"905606": {
 			"12250181": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Thaskar the Patient",
 				"prespp": 19,
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12250182": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Laris the Architect",
 				"prespp": 37,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12250183": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Khahos the Crimson",
 				"prespp": 10,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12250187": {
@@ -131,66 +131,66 @@
 				"type": "R"
 			},
 			"12250188": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Machakh the Ancient",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12250189": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Rophkihon the Prime",
 				"prespp": 4,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12250191": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Nestap the Brillant",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12250204": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Syiksa the Infinite",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 45,
-				"rus": 19,
+				"rush": 19,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12250205": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Aexlor the Bulwark",
 				"prespp": 31,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12250207": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Khokhakh the Honorable",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12250209": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Erikheph the Watcher",
 				"type": "R"
 			},
 			"12332893": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ikkite the Idealist",
 				"prespp": 9,
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"12359397": {
@@ -199,48 +199,66 @@
 				"type": "R"
 			},
 			"12406485": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Oyis The Conjurer",
 				"spp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12538738": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nekphos the Grateful",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1128060",
-	"team_performance": {
+	"team": {
 		"900800": {
+			"blocks": 52,
 			"cas": 3,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Haunted Forest Sons of Chaos",
+			"pass": 0,
+			"prespp": 170,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 17,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 132
 		},
 		"905606": {
-			"cas": 3,
-			"casdiff": 0,
+			"blocks": 41,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Serpent-Guards of Khalida",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 193,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 149
 		}
 	}
 }

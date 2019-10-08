@@ -1,57 +1,57 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3998808",
-	"player_performance": {
+	"player": {
 		"854690": {
 			"11439891": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Shiamoto The Undying",
 				"prespp": 77,
-				"tur": 14,
+				"turns": 14,
 				"type": "B"
 			},
 			"11439893": {
 				"name": "Ronin Swift Wind",
 				"prespp": 59,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11439894": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"name": "Ronin Four Finger Death Punch",
 				"prespp": 87,
 				"spp": 4,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11439896": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					5,
 					"blocked",
 					"12271577"
 				],
-				"fou": 1,
+				"fouls": 1,
 				"name": "Meiko",
 				"prespp": 18,
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"11474441": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Ronin Headchopper",
 				"prespp": 85,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11624586": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Saku",
 				"prespp": 8,
 				"type": "R"
@@ -59,51 +59,51 @@
 			"11694784": {
 				"name": "Su Ha",
 				"prespp": 19,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11895977": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Ro Hoi",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12135204": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 2,
 				"name": "Ronin Killing Strike",
 				"prespp": 32,
-				"rus": 3,
+				"rush": 3,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12151464": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Ha To Ri",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12170372": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "To Raz",
 				"type": "R"
 			},
 			"12180128": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Temple Guard Marble Water",
 				"prespp": 7,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12244850": {
 				"name": "Ma'The",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12268224": {
@@ -112,52 +112,52 @@
 				"type": "R"
 			},
 			"12275438": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Temple Guard Silken Storm",
 				"prespp": 10,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"855228": {
 			"11448253": {
-				"fou": 4,
+				"fouls": 4,
 				"name": "Kacy Cataranzo",
 				"prespp": 14,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11801400": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Lei Zhang",
 				"prespp": 26,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12015155": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Asher Manbeck",
 				"prespp": 35,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12037464": {
-				"blk": 11,
+				"blocks": 11,
 				"mvp": 1,
 				"name": "Anika Spike",
 				"prespp": 48,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158296": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Carson Wentz",
 				"prespp": 48,
-				"rus": 44,
+				"rush": 44,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12217390": {
@@ -174,81 +174,98 @@
 				],
 				"name": "Luke Cage",
 				"prespp": 10,
-				"tur": 11,
+				"retired": true,
+				"turns": 11,
 				"type": "R"
 			},
 			"12271577": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Katherine Ward",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12271582": {
 				"name": "Paul Fields",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12303410": {
 				"name": "Tim Nesbit",
 				"prespp": 6,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12322149": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jack Whitetree",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			},
 			"12322150": {
 				"name": "Aaron Vileeagle",
-				"retired": true,
 				"type": "J"
 			},
-			"855228S1": {
-				"blk": 4,
+			"STAR-7565": {
+				"blocks": 4,
 				"name": "Big Gregg",
-				"tur": 5,
+				"turns": 5,
 				"type": "S"
 			},
-			"855228S2": {
-				"blk": 4,
+			"STAR-7593": {
+				"blocks": 4,
 				"name": "Deathblow",
-				"tur": 8,
+				"turns": 8,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1080478",
-	"team_performance": {
+	"team": {
 		"854690": {
+			"blocks": 37,
 			"cas": 5,
-			"casdiff": 3,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Secret Cult Of Shiamoto",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 411,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 16,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 145
 		},
 		"855228": {
-			"cas": 2,
-			"casdiff": -3,
+			"blocks": 38,
+			"cas": 1,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ninja Warriors",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 222,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 44,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 134
 		}
 	}
 }

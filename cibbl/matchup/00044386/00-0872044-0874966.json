@@ -1,256 +1,273 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3972666",
-	"player_performance": {
+	"player": {
 		"872044": {
 			"11713837": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Carol I",
 				"prespp": 121,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713838": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ferdinand I",
 				"prespp": 37,
-				"rus": 12,
-				"tur": 16,
+				"rush": 12,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756292": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Maria Christina",
 				"prespp": 13,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11787325": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zsuzsanna Lorántffy",
 				"prespp": 15,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11859010": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jelena Zrinska",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 18,
-				"rus": 10,
-				"tur": 16,
+				"rush": 10,
+				"turns": 16,
 				"type": "R"
 			},
 			"11946731": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Eleonore-Magdalena",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11953214": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Wilhelmina Amalia",
 				"prespp": 9,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11953217": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Andrei",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11985989": {
 				"name": "Stefon",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12060385": {
-				"blk": 7,
-				"cps": 1,
+				"blocks": 7,
+				"comp": 1,
 				"name": "Nicholas I",
-				"pas": -1,
-				"rus": -4,
+				"pass": -1,
+				"rush": -4,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12060391": {
 				"name": "Dumitru",
 				"prespp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12141683": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Augustus I",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12194197": {
 				"name": "Helena Christiana",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
-			"872044M1": {
+			"MERC-7388-1728": {
 				"name": "Merc Zombie 1",
 				"type": "M"
 			},
-			"872044S1": {
-				"blk": 2,
-				"fou": 1,
+			"STAR-12112": {
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Quasimordor",
-				"tur": 7,
+				"turns": 7,
 				"type": "S"
 			},
-			"872044S2": {
+			"STAR-7537": {
 				"name": "Crazy Igor",
-				"tur": 9,
+				"turns": 9,
 				"type": "S"
 			}
 		},
 		"874966": {
 			"11764899": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Benethor",
 				"prespp": 24,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11764901": {
 				"name": "Danesthos",
 				"prespp": 6,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11764915": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Finavar",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11764917": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Thuralin",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11764919": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lemsas",
 				"prespp": 11,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11764921": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Morlanna",
 				"prespp": 54,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11836559": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Vanhir",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 63,
-				"rus": -1,
+				"rush": -1,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11900737": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Beliath the Grimm",
 				"prespp": 19,
 				"spp": 4,
-				"tur": 12,
+				"turns": 12,
 				"type": "B"
 			},
 			"11938500": {
 				"name": "Mereia",
 				"prespp": 14,
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11967724": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Hauclir",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 12,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12052561": {
 				"name": "Mereia",
 				"prespp": 7,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12072196": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jokleel",
 				"prespp": 8,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12122141": {
 				"name": "Maglor",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1048900",
-	"team_performance": {
+	"team": {
 		"872044": {
+			"blocks": 37,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Strigos Elită",
+			"pass": -2,
+			"prespp": 219,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 165
 		},
 		"874966": {
+			"blocks": 29,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 235,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 158
 		}
 	}
 }

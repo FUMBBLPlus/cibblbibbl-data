@@ -1,14 +1,13 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3928115",
-	"player_performance": {
+	"player": {
 		"864291": {
 			"11590768": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "S. Sang",
 				"prespp": 31,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11590769": {
@@ -17,140 +16,140 @@
 				"type": "R"
 			},
 			"11590771": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Redivor",
 				"prespp": 11,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590772": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Redimor",
 				"prespp": 11,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11590773": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chitemor",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11590777": {
 				"name": "Limortor",
 				"prespp": 16,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11590778": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Dissepolor",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590780": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Affuquator",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590781": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Dichitemor",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11681513": {
 				"name": "L.A. Biond",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 11,
-				"rus": 23,
+				"rush": 23,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11708391": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Eraclio",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737428": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "L.A. Gnora",
 				"prespp": 7,
-				"rus": 7,
-				"tur": 6,
+				"rush": 7,
+				"turns": 6,
 				"type": "R"
 			},
 			"11853366": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Stukitemor",
 				"spp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		},
 		"872044": {
 			"11713837": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 3,
 				"name": "Carol I",
 				"prespp": 63,
-				"rus": 4,
+				"rush": 4,
 				"spp": 9,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11713838": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Ferdinand I",
 				"prespp": 30,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713840": {
-				"blk": 1,
-				"cps": 2,
+				"blocks": 1,
+				"comp": 2,
 				"name": "Burggraf of Nuremberg",
-				"pas": 8,
+				"pass": 8,
 				"prespp": 19,
-				"rus": 20,
+				"rush": 20,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713845": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Constantin",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11713847": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Grigore",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11756292": {
@@ -159,83 +158,100 @@
 				"type": "R"
 			},
 			"11787325": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Zsuzsanna Lorántffy",
 				"prespp": 8,
-				"rus": 8,
+				"rush": 8,
 				"spp": 5,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"11805853": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Florin",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11806299": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Michael I",
 				"prespp": 9,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11835859": {
 				"name": "Maria Anna",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11859010": {
 				"name": "Jelena Zrinska",
 				"prespp": 6,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11878688": {
 				"name": "Elisabeth Bocskay",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11900745": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dragomir",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "997618",
-	"team_performance": {
+	"team": {
 		"864291": {
+			"blocks": 42,
 			"cas": 5,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Norscan Curse",
+			"pass": 1,
+			"prespp": 142,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 30,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 163
 		},
 		"872044": {
+			"blocks": 29,
 			"cas": 6,
 			"casdiff": 1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Strigos Elită",
-			"prestige": 3,
+			"pass": 8,
+			"prespp": 154,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 32,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 107
 		}
 	}
 }

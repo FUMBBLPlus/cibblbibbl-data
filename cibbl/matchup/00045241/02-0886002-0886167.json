@@ -1,24 +1,23 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4001683",
-	"player_performance": {
+	"player": {
 		"886002": {
 			"11938003": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Caphalor Darkstar",
 				"prespp": 37,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938007": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Sinthoras Bloodflame",
 				"prespp": 74,
-				"rus": 10,
+				"rush": 10,
 				"spp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11938008": {
@@ -26,172 +25,172 @@
 				"name": "Molostroi Demonheart",
 				"prespp": 28,
 				"spp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11938010": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Malaguth Blackmoon",
 				"prespp": 56,
-				"rus": 2,
-				"tur": 10,
+				"rush": 2,
+				"turns": 10,
 				"type": "R"
 			},
 			"11938039": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Cargavel Stormcrow",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 70,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11938051": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Valyr Dragonrider",
 				"prespp": 24,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11938060": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Telok Beastslayer",
 				"prespp": 16,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12125346": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Raheel Swiftdeath",
 				"prespp": 38,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12154913": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Micath Ghosthunter",
 				"prespp": 20,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12188144": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Sheila Coldeyes",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12254187": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gilgash Doomblade",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12280055": {
 				"name": "Damien Scarface",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12335501": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Shorna Nightraider",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"886167": {
 			"11940509": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fersi Fellbane",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940511": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Rageshadow",
 				"prespp": 37,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940513": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rasith Duskchill",
 				"prespp": 34,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11940514": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Vaecho Firestarter",
 				"prespp": 16,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940516": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 3,
 				"name": "Darkvenom",
 				"prespp": 57,
-				"rus": 7,
+				"rush": 7,
 				"spp": 9,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"11940517": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Novo Nightshade",
 				"prespp": 25,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12029207": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Verlin Ravencaller",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12045982": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Iva Silentstab",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12073163": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Vorte Bloodbringer",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 21,
-				"rus": 11,
-				"tur": 16,
+				"rush": 11,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083299": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cale Duskcaller",
 				"prespp": 8,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12192695": {
 				"name": "Bloodstorm",
 				"prespp": 22,
-				"rus": 5,
-				"tur": 10,
+				"rush": 5,
+				"turns": 10,
 				"type": "R"
 			},
 			"12277958": {
@@ -199,54 +198,72 @@
 				"name": "Alma Capgrinder",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12277959": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cersei Wrathbringer",
 				"prespp": 1,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12330366": {
 				"name": "Litta Stormclaw",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12330373": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Varva Skullblade",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1083618",
-	"team_performance": {
+	"team": {
 		"886002": {
+			"blocks": 37,
 			"cas": 3,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom Glade Demons",
-			"prestige": 1,
+			"pass": 6,
+			"prespp": 369,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 27,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 135
 		},
 		"886167": {
+			"blocks": 50,
 			"cas": 4,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Clar Karond Black Widows",
-			"prestige": 1,
+			"pass": -1,
+			"prespp": 269,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 23,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 152
 		}
 	}
 }

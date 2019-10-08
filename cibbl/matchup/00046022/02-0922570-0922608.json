@@ -1,98 +1,97 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4031747",
-	"player_performance": {
+	"player": {
 		"922570": {
 			"12514240": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Vrukrund Bitterblaze",
 				"prespp": 7,
 				"spp": 9,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12514241": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Zhundoc Furybinder",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12514242": {
 				"name": "Qurgrath The Nightmight",
-				"rus": 27,
+				"rush": 27,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12514243": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Grudzac Firereaver",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12514244": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Khaingol The Bladeforce",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12514245": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Strighoc Deadhunter",
-				"pas": -1,
-				"rus": 1,
+				"pass": -1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12514246": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Zegril Grimsworn",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12514247": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tirgran Bladebrand",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12514248": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Krozgen Nightbane",
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12514249": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grudral Clawblight",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12514250": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Visraic The Flamesworn",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"922608": {
 			"12514742": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Gore-Clad",
 				"prespp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12514743": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"dead": [
 					2,
@@ -101,23 +100,24 @@
 					"12514240"
 				],
 				"name": "Prince of Fell pleasures",
+				"retired": true,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12514744": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Corrupt Father of Plagues",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12514745": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Changer of Ways",
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12514746": {
@@ -125,82 +125,98 @@
 				"type": "R"
 			},
 			"12514747": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Legend of Cormac",
 				"prespp": 7,
 				"spp": 4,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12514748": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Asavar the Parasite",
-				"rus": 28,
+				"rush": 28,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12514751": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Uggir of Dolgan",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12514754": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Khomarr of Hastling",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12514760": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Srirbo of Thamak",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12523152": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Harold Bluestone",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12523153": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vincent Deepfield",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1117978",
-	"team_performance": {
+	"team": {
 		"922570": {
+			"blocks": 53,
 			"cas": 3,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bane of the Otherworld",
-			"prestige": 1,
+			"pass": -1,
+			"prespp": 7,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 28,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 143
 		},
 		"922608": {
+			"blocks": 34,
 			"cas": 5,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Horsemen of The Great Kurgan",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 9,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 28,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 144
 		}
 	}
 }

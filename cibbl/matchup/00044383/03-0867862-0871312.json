@@ -1,209 +1,208 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3966599",
-	"player_performance": {
+	"player": {
 		"867862": {
 			"11646894": {
-				"blk": 14,
+				"blocks": 14,
 				"cas": 1,
 				"name": "Serrek of Nathrezzar",
 				"prespp": 48,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11646901": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Muk",
 				"prespp": 45,
-				"rus": 5,
-				"tur": 17,
+				"rush": 5,
+				"turns": 17,
 				"type": "R"
 			},
 			"11646902": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ner",
 				"prespp": 7,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11646912": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Che",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11722423": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Vur",
 				"prespp": 25,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11763541": {
-				"blk": 4,
-				"fou": 2,
+				"blocks": 4,
+				"fouls": 2,
 				"name": "Vute",
 				"prespp": 10,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11782667": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vir",
 				"prespp": 4,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11791082": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Sethar",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 54,
-				"rus": 5,
-				"tur": 14,
+				"rush": 5,
+				"turns": 14,
 				"type": "R"
 			},
 			"11917261": {
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Irtriss",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 7,
-				"rus": -1,
+				"rush": -1,
 				"spp": 9,
-				"tds": 1,
-				"tur": 6,
+				"td": 1,
+				"turns": 6,
 				"type": "R"
 			},
 			"11946085": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Tarotep of Horin 'Reth",
 				"prespp": 25,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12051541": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Drewaq Evilgrin",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12065262": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Zird",
 				"spp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12065369": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Chyh 'Tan",
-				"pas": 12,
+				"pass": 12,
 				"prespp": 8,
-				"rus": 14,
+				"rush": 14,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12122939": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Treth' Kon Sharkface",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		},
 		"871312": {
 			"11700284": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Count Igor",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 52,
-				"rus": 22,
+				"rush": 22,
 				"spp": 9,
-				"tds": 2,
-				"tur": 18,
+				"td": 2,
+				"turns": 18,
 				"type": "R"
 			},
 			"11700285": {
-				"blk": 8,
-				"cps": 1,
+				"blocks": 8,
+				"comp": 1,
 				"name": "Count Jurij",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 52,
-				"rus": 12,
+				"rush": 12,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11700318": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Seth",
 				"prespp": 36,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"11700319": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Anubis",
 				"prespp": 52,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11700323": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Servant Fjodor",
 				"prespp": 11,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11812909": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Count Yaroslav",
 				"prespp": 57,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 18,
+				"td": 1,
+				"turns": 18,
 				"type": "R"
 			},
 			"11850036": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Paul Darktree",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11933869": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Abu",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11936975": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ladislao Celano",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11986735": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Count Ludovig II.",
 				"prespp": 9,
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 18,
+				"td": 1,
+				"turns": 18,
 				"type": "R"
 			},
 			"12062896": {
@@ -211,52 +210,70 @@
 				"name": "Servant Dmitri",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12066122": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Servant Volodomyr",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12128421": {
 				"name": "Servant Milo",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12159997": {
 				"name": "Servant Franko",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1041979",
-	"team_performance": {
+	"team": {
 		"867862": {
-			"cas": 4,
-			"casdiff": 3,
+			"blocks": 87,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Everlasting Vultures of Settra",
+			"pass": 16,
+			"prespp": 239,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 1,
 			"scorediff": -3,
-			"tds": 1,
-			"tdsdiff": -3
+			"td": 1,
+			"tddiff": -3,
+			"turns": 172
 		},
 		"871312": {
+			"blocks": 31,
 			"cas": 1,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tower of the Necromancer",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 287,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 51,
 			"score": 4,
 			"scorediff": 3,
-			"tds": 4,
-			"tdsdiff": 3
+			"td": 4,
+			"tddiff": 3,
+			"turns": 181
 		}
 	}
 }

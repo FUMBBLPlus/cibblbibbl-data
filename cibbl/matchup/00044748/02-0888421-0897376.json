@@ -1,63 +1,62 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3980558",
-	"player_performance": {
+	"player": {
 		"888421": {
 			"11976226": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Waziret Stunge",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"11976230": {
 				"name": "Firrikeet Sharpblade",
 				"prespp": 34,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11976233": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Lirrikeet Sharpblade",
 				"prespp": 50,
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11976237": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Skritt Swiftpaw",
 				"prespp": 37,
-				"rus": 14,
-				"tur": 15,
+				"rush": 14,
+				"turns": 15,
 				"type": "R"
 			},
 			"11976241": {
 				"name": "Turm",
 				"prespp": 16,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11976246": {
 				"name": "Criz",
 				"prespp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11981444": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Yazzirit Rakeet",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 18,
-				"rus": 5,
+				"rush": 5,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12039964": {
@@ -71,7 +70,7 @@
 			"12063537": {
 				"name": "Yulub",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12155834": {
@@ -79,92 +78,91 @@
 				"type": "R"
 			},
 			"12155835": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Folp",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12171360": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Meets",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12223033": {
 				"name": "Tristan Dirtyorc",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
-			"888421S1": {
+			"STAR-7534": {
 				"name": "Bomber Dribblesnot",
-				"tur": 4,
+				"turns": 4,
 				"type": "S"
 			}
 		},
 		"897376": {
 			"12122272": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Dark Shade",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122273": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Deep Root",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122274": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Long Branch",
 				"prespp": 14,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122275": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "River Whip",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 24,
-				"rus": 16,
+				"rush": 16,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122276": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "White Leaf",
 				"prespp": 4,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122279": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Moss",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12122280": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
-				"fou": 2,
+				"fouls": 2,
 				"name": "Lichen",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122281": {
@@ -173,69 +171,87 @@
 				"type": "R"
 			},
 			"12122282": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Mushroom",
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12122284": {
 				"name": "Vine",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12163493": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Swift Switch",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 6,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12168335": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gray Timber",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12171988": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nut",
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1058043",
-	"team_performance": {
+	"team": {
 		"888421": {
-			"cas": 3,
-			"casdiff": 0,
+			"blocks": 12,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gobskrav Alliance",
+			"pass": 1,
+			"prespp": 172,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 111
 		},
 		"897376": {
+			"blocks": 38,
 			"cas": 3,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Darkenwood Sentinels",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 81,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 42,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 164
 		}
 	}
 }

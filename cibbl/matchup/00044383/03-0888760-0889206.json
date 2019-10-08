@@ -1,228 +1,245 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3965619",
-	"player_performance": {
+	"player": {
 		"888760": {
 			"11982012": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Gusraz The Lonebringer",
 				"prespp": 13,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11982018": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Taghoth Wrathfather",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11982019": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ogbund Emberbender",
-				"rus": 1,
-				"tur": 15,
+				"rush": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11982020": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Tuzkan Nightgaze",
-				"pas": -2,
-				"rus": -5,
+				"pass": -2,
+				"rush": -5,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11982021": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Cagbuth Chaosforce",
 				"prespp": 17,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11982028": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Scu'draz Ambercrest",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11982029": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Zazhrin Emberborn",
 				"prespp": 18,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11982030": {
 				"name": "Crazgind Battleforged",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11982032": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Emis Nightgazer",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11982034": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ciggus Rageborn",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 25,
-				"rus": 12,
-				"tur": 15,
+				"rush": 12,
+				"turns": 15,
 				"type": "R"
 			},
 			"12001245": {
-				"blk": 11,
+				"blocks": 11,
 				"mvp": 1,
 				"name": "Drughath Naverbone",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12074027": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Frungrah Flogdonal",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			}
 		},
 		"889206": {
 			"11989533": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Black Fire",
 				"prespp": 18,
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989534": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Eternal Flame",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989541": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Deep Blue",
 				"prespp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11990235": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "River Wild",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990236": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Jack Ironfist",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990237": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ben the Golden",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990238": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Franky Waterfalls",
 				"prespp": 3,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11990239": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Unbar the Wet",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11997944": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Dripping Darkness",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12032521": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jelly Floodings",
 				"prespp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12032523": {
 				"name": "Running Water",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12050724": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Typhoon",
 				"prespp": 19,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12078651": {
 				"name": "René Diff",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12129820": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Red Baron",
 				"prespp": 5,
-				"rus": 9,
+				"rush": 9,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1040847",
-	"team_performance": {
+	"team": {
 		"888760": {
+			"blocks": 48,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Brothers Of Malice",
+			"pass": -1,
+			"prespp": 96,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 8,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 152
 		},
 		"889206": {
+			"blocks": 46,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tsunami Terrors",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 95,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 25,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 168
 		}
 	}
 }

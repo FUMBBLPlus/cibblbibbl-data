@@ -1,81 +1,80 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4048739",
-	"player_performance": {
+	"player": {
 		"886114": {
 			"11939696": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Erato",
 				"prespp": 61,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11939705": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Lydia",
 				"prespp": 90,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"11939715": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Aadhýa",
 				"prespp": 61,
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"11956884": {
-				"blk": 5,
-				"cps": 2,
+				"blocks": 5,
+				"comp": 2,
 				"name": "Elpida",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 71,
-				"rus": 9,
+				"rush": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12030024": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Shinesa",
 				"prespp": 105,
-				"rus": 31,
+				"rush": 31,
 				"spp": 6,
-				"tds": 2,
-				"tur": 14,
+				"td": 2,
+				"turns": 14,
 				"type": "R"
 			},
 			"12279032": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Iris",
 				"prespp": 28,
-				"rus": 1,
-				"tur": 10,
+				"rush": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12340801": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Ian Bluesnake",
 				"prespp": 56,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12441430": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kalipso",
 				"prespp": 28,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12441504": {
 				"name": "Circe",
 				"prespp": 8,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12510464": {
@@ -83,7 +82,7 @@
 				"name": "Alariella",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12592840": {
@@ -91,110 +90,110 @@
 				"type": "R"
 			},
 			"12592844": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Andromeda",
 				"prespp": 1,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		},
 		"909759": {
 			"12314474": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Helewise",
 				"prespp": 33,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12314475": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Aimee",
 				"prespp": 56,
-				"rus": 23,
-				"tur": 16,
+				"rush": 23,
+				"turns": 16,
 				"type": "R"
 			},
 			"12314476": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Naeva",
 				"prespp": 53,
-				"rus": 3,
-				"tur": 1,
+				"rush": 3,
+				"turns": 1,
 				"type": "R"
 			},
 			"12314477": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Roesia",
 				"prespp": 31,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12314479": {
 				"name": "Odlette",
 				"prespp": 3,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12314480": {
-				"fou": 7,
+				"fouls": 7,
 				"name": "Sabine",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12314482": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Antionette",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12314483": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Chantal",
 				"prespp": 14,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12353445": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Edmee",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12491058": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Dominique",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12512891": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Monique",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12512893": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Colette",
 				"prespp": 10,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12577744": {
@@ -202,41 +201,59 @@
 				"type": "R"
 			},
 			"12591682": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Zephyrine",
-				"pas": 1,
+				"pass": 1,
 				"spp": 1,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1137599",
-	"team_performance": {
+	"team": {
 		"886114": {
+			"blocks": 38,
 			"cas": 0,
-			"casdiff": -5,
+			"casdiff": -3,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eye and Arrow",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 523,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 54,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 119
 		},
 		"909759": {
-			"cas": 5,
-			"casdiff": 5,
+			"blocks": 49,
+			"cas": 3,
+			"casdiff": 3,
+			"comp": 2,
+			"fouls": 9,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malefic Mimes",
+			"pass": 1,
+			"prespp": 262,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 27,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 163
 		}
 	}
 }

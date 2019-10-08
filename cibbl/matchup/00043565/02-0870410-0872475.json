@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3927498",
-	"player_performance": {
+	"player": {
 		"870410": {
 			"11686464": {
 				"name": "Zizou Zannanza",
@@ -10,27 +9,27 @@
 				"type": "R"
 			},
 			"11686465": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "King Pepi",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11686466": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Wazza Rudamun",
 				"prespp": 26,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11686468": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Ruud Devil Neserkauhor",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11686470": {
@@ -47,128 +46,129 @@
 				],
 				"name": "Zapah Manio Bebiankh",
 				"prespp": 2,
+				"retired": true,
 				"type": "R"
 			},
 			"11686477": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Guard of the Reds",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11686481": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Protector of the Toffees",
 				"prespp": 32,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11705502": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lirah Meni",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11714360": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Eratosthenes",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11733652": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Rocket Ramesses II",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11779706": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Guard of the trophies",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11874662": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nebu Masaharta",
 				"prespp": 4,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11925294": {
 				"name": "Guard of the Daggers",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
-			"870410S1": {
-				"blk": 3,
+			"STAR-7548": {
+				"blocks": 3,
 				"name": "Hack Enslash",
-				"tur": 8,
+				"turns": 8,
 				"type": "S"
 			}
 		},
 		"872475": {
 			"11721709": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Acer Steelroot",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11721710": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 2,
 				"name": "Judge Juniperus",
 				"prespp": 34,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11721711": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Sylvestris Pikebranch",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11721712": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Larix Darkbark",
 				"prespp": 24,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11721713": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Betula the Last Pendulum",
 				"prespp": 20,
 				"spp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11721714": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Picea the Piercer",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11721716": {
-				"fou": 4,
+				"fouls": 4,
 				"name": "Rubus the Drinker of Blood",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11763905": {
@@ -177,7 +177,7 @@
 			},
 			"11763906": {
 				"name": "Rutabulum the Eater of Twice Dead Bones",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11763908": {
@@ -187,8 +187,8 @@
 			"11781775": {
 				"name": "Matteuccia the Red Trampler",
 				"prespp": 3,
-				"rus": 11,
-				"tur": 16,
+				"rush": 11,
+				"turns": 16,
 				"type": "R"
 			},
 			"11841040": {
@@ -197,56 +197,74 @@
 				"type": "R"
 			},
 			"11863532": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Singer of Darkest Anthems, Menyanthes",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11894816": {
 				"name": "Expansa the Conqueror",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11894817": {
 				"name": "Shadow of East, Cirsium",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11935612": {
 				"name": "Swartzii the Rockfoot",
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "996910",
-	"team_performance": {
+	"team": {
 		"870410": {
-			"cas": 2,
-			"casdiff": -1,
+			"blocks": 33,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Settra's Goats",
+			"pass": 0,
+			"prespp": 142,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 0,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 139
 		},
 		"872475": {
+			"blocks": 35,
 			"cas": 3,
-			"casdiff": 1,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "True Roots of Khaine",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 141,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 23,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 166
 		}
 	}
 }

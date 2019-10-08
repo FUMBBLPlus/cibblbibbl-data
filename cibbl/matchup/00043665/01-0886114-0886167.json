@@ -1,191 +1,208 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3929078",
-	"player_performance": {
+	"player": {
 		"886114": {
 			"11939687": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Aluna",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11939696": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Erato",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11939705": {
-				"blk": 3,
-				"cps": 2,
+				"blocks": 3,
+				"comp": 2,
 				"name": "Lydia",
-				"pas": 2,
-				"rus": 21,
+				"pass": 2,
+				"rush": 21,
 				"spp": 5,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11939711": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ariel",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11939712": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Arya",
-				"pas": 1,
-				"tur": 15,
+				"pass": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11939713": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dharma",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11939714": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ashila",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11939715": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Aadhýa",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11939716": {
 				"name": "Coleshá",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11939717": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Delilah",
-				"rus": 10,
+				"rush": 10,
 				"spp": 8,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11939720": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Elidhith",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"886167": {
 			"11940506": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mori Voidheart",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11940509": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Fersi Fellbane",
-				"rus": 4,
+				"rush": 4,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11940510": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Fekhavi Fireblade",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11940511": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Rageshadow",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11940512": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Verbil Amberweb",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11940513": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Rasith Duskchill",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11940514": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vaecho Firestarter",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11940515": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Marrah Webmaker",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11940516": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Darkvenom",
-				"rus": 2,
+				"rush": 2,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11940517": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Novo Nightshade",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11940518": {
-				"blk": 6,
-				"cps": 1,
+				"blocks": 6,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Deathfury",
-				"pas": 4,
-				"rus": 9,
+				"pass": 4,
+				"rush": 9,
 				"spp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "998727",
-	"team_performance": {
+	"team": {
 		"886114": {
+			"blocks": 25,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eye and Arrow",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 31,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 141
 		},
 		"886167": {
+			"blocks": 42,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Clar Karond Black Widows",
+			"pass": 4,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 15,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 160
 		}
 	}
 }

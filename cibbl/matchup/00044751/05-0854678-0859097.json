@@ -1,28 +1,27 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3982614",
-	"player_performance": {
+	"player": {
 		"854678": {
 			"11439618": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nightmaster Gnawnagar",
 				"prespp": 36,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11439624": {
-				"fou": 4,
+				"fouls": 4,
 				"name": "Grisnik the Blacktail",
 				"prespp": 21,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11439628": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Sneekis the Dragon",
 				"prespp": 53,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11482377": {
@@ -31,13 +30,13 @@
 				"type": "R"
 			},
 			"11696956": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nightmaster Skirshakk",
 				"prespp": 76,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11696958": {
@@ -50,94 +49,93 @@
 				"type": "R"
 			},
 			"11934134": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Nightmaster Vasquee",
 				"prespp": 25,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11948519": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Thanflem the Splinter",
 				"prespp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11951210": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Nightlord Nurgrin",
 				"prespp": 32,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12099993": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vasrik the Darter",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12217971": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Nightmaster Crittskik",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 5,
-				"rus": 6,
+				"rush": 6,
 				"spp": 1,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12236342": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Crakch the Duskhunter",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12244625": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "George Hardfire",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"859097": {
 			"11512471": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Ghaggar-Hakra",
 				"prespp": 68,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11512476": {
 				"name": "Chola",
 				"prespp": 80,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11512478": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vaishnava",
 				"prespp": 19,
-				"rus": 18,
-				"tur": 16,
+				"rush": 18,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512482": {
-				"blk": 6,
+				"blocks": 6,
 				"int": 1,
 				"name": "Amu Darya",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512483": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Vima Taktu",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11570395": {
@@ -148,14 +146,14 @@
 			"11671350": {
 				"name": "Arun Jaitley",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11844958": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Raja Raja Chola",
 				"prespp": 65,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11869549": {
@@ -164,24 +162,24 @@
 				"type": "R"
 			},
 			"11978579": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Lakshmi",
 				"prespp": 16,
-				"rus": 8,
+				"rush": 8,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12002820": {
-				"blk": 1,
-				"cps": 1,
-				"fou": 1,
+				"blocks": 1,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Kamal Nath",
-				"rus": 5,
+				"rush": 5,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12069676": {
@@ -190,56 +188,74 @@
 				"type": "R"
 			},
 			"12153572": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Jagjivan Ram",
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12156064": {
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Morarji Desai",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12233097": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Shastri Bhawan",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1060415",
-	"team_performance": {
+	"team": {
 		"854678": {
-			"cas": 2,
-			"casdiff": 0,
+			"blocks": 39,
+			"cas": 0,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lords of the Silent Death",
-			"prestige": 1,
+			"pass": 2,
+			"prespp": 313,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 15,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 134
 		},
 		"859097": {
+			"blocks": 41,
 			"cas": 2,
-			"casdiff": 0,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 2,
+			"int": 1,
+			"mvp": 1,
 			"name": "Bhubaneswar Rampage",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 382,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 31,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 154
 		}
 	}
 }

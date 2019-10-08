@@ -1,29 +1,28 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4053260",
-	"player_performance": {
+	"player": {
 		"927990": {
 			"12601187": {
 				"name": "Grufydd Spanglehelm",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12601188": {
 				"name": "Rhys Spanglehlem",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12601189": {
 				"name": "Glyndwr Copperfist",
 				"prespp": 7,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12601190": {
 				"name": "Meibion Copperfist",
 				"prespp": 8,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12601191": {
@@ -34,7 +33,8 @@
 					"12608671"
 				],
 				"name": "Aneurin The Fat",
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
 			"12601193": {
@@ -43,16 +43,16 @@
 				"type": "R"
 			},
 			"12601195": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rhodri The Red",
 				"prespp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12601196": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Drewfus Darknose",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12601199": {
@@ -62,89 +62,87 @@
 			"12601200": {
 				"name": "Yohan Bluntnose",
 				"prespp": 3,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12624315": {
 				"name": "Ian Truestream",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			},
 			"12624316": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Alexander Deeptree",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "J"
 			}
 		},
 		"928392": {
 			"12608663": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Nobok Lizardslayer",
 				"spp": 7,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12608664": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Tabu Carnoheart",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12608665": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tikbuk Giantbane",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12608666": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Suki Sharktooth",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12608667": {
 				"name": "Kofu Skinkfoot",
 				"prespp": 8,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12608668": {
 				"name": "Shaka RIverstrider",
 				"prespp": 6,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12608669": {
 				"name": "Kalali Eaglesight",
 				"prespp": 1,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12608670": {
 				"mvp": 1,
 				"name": "Wala Orcarm",
 				"prespp": 1,
-				"rus": 7,
+				"rush": 7,
 				"spp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12608671": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Falai Toadhunter",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12608672": {
@@ -154,42 +152,60 @@
 			},
 			"12608673": {
 				"name": "As'ali Poison Sharma",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12608674": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Daai Konali",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1142755",
-	"team_performance": {
+	"team": {
 		"927990": {
+			"blocks": 3,
 			"cas": 0,
-			"casdiff": -4,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 0,
 			"name": "Kazad-Dum Tinplate Company",
-			"prestige": -10,
+			"pass": 0,
+			"prespp": 22,
+			"prestige": 0,
 			"pts": 0,
-			"rsym": "C",
+			"r": "C",
+			"rush": 0,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": 0
+			"td": 0,
+			"tddiff": 0,
+			"turns": 18
 		},
 		"928392": {
-			"cas": 4,
-			"casdiff": 4,
+			"blocks": 9,
+			"cas": 3,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 2,
 			"name": "Piranha Swamp Warriors",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 26,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 7,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 0,
-			"tdsdiff": 0
+			"td": 0,
+			"tddiff": 0,
+			"turns": 32
 		}
 	}
 }

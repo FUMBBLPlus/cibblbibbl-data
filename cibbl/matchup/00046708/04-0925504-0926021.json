@@ -1,208 +1,218 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4069218",
-	"player_performance": {
+	"player": {
 		"925504": {
 			"12562180": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Sir Danzig the Cinder",
 				"prespp": 19,
-				"rus": 2,
+				"rush": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562182": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sir Geoffrey the Bright",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562184": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Fair Henry of Storms",
 				"prespp": 17,
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12562186": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hardy Wilbur the Molten",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562188": {
 				"name": "Calm Nolan the Current",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562189": {
 				"name": "Calm Xavier of Tides",
 				"prespp": 3,
-				"rus": 11,
-				"tur": 16,
+				"rush": 11,
+				"turns": 16,
 				"type": "R"
 			},
 			"12578583": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sir Wilfred the Scorching",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12685248": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sir Mercury the Inferno",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12698931": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Duke Grough of Wyldwich",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12705306": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Jack Vilewing",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12705307": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cory Vilebone",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"926021": {
 			"12569456": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Bronsa Gaten",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 25,
-				"rus": 6,
+				"rush": 6,
 				"spp": 6,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12569457": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Drullora Indrndil",
 				"prespp": 28,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12569474": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ferinosu Theneno",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569475": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gadyith Radolnith",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12601449": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Sherlasa Arahrimo #2",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 17,
-				"rus": 17,
+				"rush": 17,
 				"spp": 9,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12644022": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Shara Dreadbringer",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12699161": {
 				"name": "Sean Hardhammer",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12699162": {
 				"name": "Harold Vilerock",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			},
 			"12699163": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "David Truestream",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			},
 			"12699164": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Yorick Darkfield",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12699165": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "George Darkhammer",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1160733",
-	"team_performance": {
+	"team": {
 		"925504": {
+			"blocks": 31,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ichabod's Infernals",
+			"pass": 0,
+			"prespp": 66,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 28,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 173
 		},
 		"926021": {
+			"blocks": 22,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sledge Sisters",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 104,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 23,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 146
 		}
 	}
 }

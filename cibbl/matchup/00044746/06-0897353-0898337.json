@@ -1,52 +1,50 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3989742",
-	"player_performance": {
+	"player": {
 		"897353": {
 			"12121959": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nis Atman",
 				"prespp": 6,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12121960": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Sssues Ej",
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12121961": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Enum Ers",
 				"prespp": 10,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12121967": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Matar Ash",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121968": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sernozem Ra",
 				"prespp": 5,
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12121969": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mare Oz",
 				"prespp": 7,
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121971": {
@@ -58,174 +56,190 @@
 				],
 				"name": "Ummilu Imma",
 				"prespp": 5,
-				"tur": 11,
+				"retired": true,
+				"turns": 11,
 				"type": "R"
 			},
 			"12121974": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Pix Vamox",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12121975": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tush Banuk",
 				"prespp": 9,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12139096": {
 				"name": "Mos Passat",
 				"prespp": 26,
-				"rus": 23,
+				"rush": 23,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12139099": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Blu Ash",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12164655": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Lang Om",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12165569": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Adenes Fujo",
 				"prespp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12226003": {
 				"name": "Salla Sellel",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
 		"898337": {
 			"12143074": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 2,
 				"name": "Sebek",
 				"prespp": 16,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12143075": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Remi",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12143076": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Oakhit",
 				"prespp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12143078": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Khoaat",
 				"prespp": 10,
-				"rus": -1,
+				"rush": -1,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12143079": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Aniath",
 				"prespp": 11,
-				"rus": 10,
-				"tur": 13,
+				"rush": 10,
+				"turns": 13,
 				"type": "R"
 			},
 			"12143080": {
 				"name": "Amanten",
 				"prespp": 3,
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12143081": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Heperu",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12143083": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Khoaat",
 				"prespp": 3,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12168121": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Mahe",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12232463": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Sylvester Palespike",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"12232464": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Graham Hideoussnake",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1068964",
-	"team_performance": {
+	"team": {
 		"897353": {
+			"blocks": 40,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Court of Shu",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 103,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 160
 		},
 		"898337": {
+			"blocks": 51,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mahrak Maulers",
+			"pass": 0,
+			"prespp": 68,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 146
 		}
 	}
 }

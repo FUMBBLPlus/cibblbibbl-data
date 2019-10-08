@@ -1,11 +1,10 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4019266",
-	"player_performance": {
+	"player": {
 		"854690": {
 			"11439891": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					1,
 					2,
@@ -14,143 +13,144 @@
 				],
 				"name": "Shiamoto The Undying",
 				"prespp": 87,
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "B"
 			},
 			"11439893": {
 				"name": "Ronin Swift Wind",
 				"prespp": 70,
-				"rus": 7,
-				"tur": 5,
+				"rush": 7,
+				"turns": 5,
 				"type": "R"
 			},
 			"11439894": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Ronin Four Finger Death Punch",
 				"prespp": 105,
-				"rus": 6,
+				"rush": 6,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11474441": {
-				"blk": 14,
+				"blocks": 14,
 				"name": "Ronin Headchopper",
 				"prespp": 89,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11624586": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "Saku",
 				"prespp": 8,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11694784": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Su Ha",
 				"prespp": 22,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12135204": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ronin Killing Strike",
 				"prespp": 43,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12151464": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Ha To Ri",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12180128": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Temple Guard Marble Water",
 				"prespp": 28,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12268224": {
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Uz Gal",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12275438": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Temple Guard Silken Storm",
 				"prespp": 25,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12355208": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ak'Baz",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12365490": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Ta Ruz",
-				"pas": 8,
+				"pass": 8,
 				"prespp": 2,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12426090": {
-				"blk": 2,
-				"cps": 1,
-				"fou": 2,
+				"blocks": 2,
+				"comp": 1,
+				"fouls": 2,
 				"name": "Ak'Bar",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 5,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12426093": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Wushu",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12457209": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Unlucky Hiro",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"889232": {
 			"11989951": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Chthonic Pitchblende",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989952": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Chthonic Cobaltite",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11989967": {
@@ -159,77 +159,77 @@
 				"type": "R"
 			},
 			"11989980": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Kaolinite",
 				"prespp": 21,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12003575": {
 				"name": "Sylph Haze",
 				"prespp": 44,
-				"rus": 3,
-				"tur": 4,
+				"rush": 3,
+				"turns": 4,
 				"type": "R"
 			},
 			"12031249": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Magma Crab",
 				"prespp": 28,
-				"rus": 9,
-				"tur": 7,
+				"rush": 9,
+				"turns": 7,
 				"type": "R"
 			},
 			"12070122": {
 				"name": "Chthonic Slade",
 				"prespp": 39,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12112830": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Chthonic Satinspar",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12145447": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Magma Flow",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 16,
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"12187033": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Cinnabar",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12279033": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Naiad Tori",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12332036": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Naiad Chloe",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12399766": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Chthonic Muscovite",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12414498": {
@@ -237,53 +237,71 @@
 				"type": "R"
 			},
 			"12414499": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Chthonic Quartz",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
-			"889232S1": {
-				"blk": 6,
+			"STAR-7565": {
+				"blocks": 6,
+				"name": "Big Gregg",
+				"turns": 8,
+				"type": "S"
+			},
+			"STAR-7660": {
+				"blocks": 6,
 				"cas": 1,
 				"name": "Borg'th N'throg",
 				"spp": 2,
-				"tur": 16,
-				"type": "S"
-			},
-			"889232S2": {
-				"blk": 6,
-				"name": "Big Gregg",
-				"tur": 8,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1103670",
-	"team_performance": {
+	"team": {
 		"854690": {
-			"cas": 3,
-			"casdiff": 1,
+			"blocks": 47,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 2,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Secret Cult Of Shiamoto",
-			"prestige": 3,
+			"pass": 6,
+			"prespp": 486,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 16,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 147
 		},
 		"889232": {
+			"blocks": 46,
 			"cas": 2,
-			"casdiff": -1,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lost Golems of Grungni",
+			"pass": -1,
+			"prespp": 250,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 17,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 146
 		}
 	}
 }

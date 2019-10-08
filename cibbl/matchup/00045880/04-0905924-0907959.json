@@ -1,150 +1,148 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4032730",
-	"player_performance": {
+	"player": {
 		"905924": {
 			"12254401": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Reddup",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254402": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Spook",
 				"prespp": 21,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12254405": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Bone",
 				"prespp": 30,
-				"rus": 5,
-				"tur": 15,
+				"rush": 5,
+				"turns": 15,
 				"type": "R"
 			},
 			"12254414": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Clumsy",
 				"prespp": 7,
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12254424": {
 				"name": "Ashur The Vile",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254440": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "O-Dog The Trogslayer",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254445": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Scumm The Rebel",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12263755": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gizmo The Gambler",
 				"prespp": 3,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12263756": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Killian Glowingwater",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12268727": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 3,
-				"cps": 2,
+				"comp": 2,
 				"name": "Redbone",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 34,
-				"rus": 12,
+				"rush": 12,
 				"spp": 8,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12421873": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Horrus",
 				"spp": 9,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12523323": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Modoc The Cattleprod",
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"907959": {
 			"12285928": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Drachron Lewdshade",
 				"prespp": 35,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12285959": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nemeliz Ssin",
 				"prespp": 27,
-				"rus": 2,
+				"rush": 2,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12285960": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ez'lith Fervor",
 				"prespp": 11,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12285974": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Deedee Hezvix",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12285975": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rhiahirr Xcezz",
 				"prespp": 34,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12340189": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					8,
@@ -153,11 +151,12 @@
 				],
 				"name": "Bhrutuz Kinslayer",
 				"prespp": 1,
-				"tur": 15,
+				"retired": true,
+				"turns": 15,
 				"type": "R"
 			},
 			"12402099": {
-				"blk": 6,
+				"blocks": 6,
 				"dead": [
 					2,
 					6,
@@ -165,65 +164,83 @@
 					"12421873"
 				],
 				"name": "'Rivet' Helloggs",
-				"tur": 13,
+				"retired": true,
+				"turns": 13,
 				"type": "R"
 			},
 			"12431749": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ivorygor Onyx",
 				"prespp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12459439": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Buzz Bootlicker",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12497457": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lubrigor Salivia",
 				"prespp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12514179": {
 				"name": "Edward Hideouslightning",
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1119068",
-	"team_performance": {
+	"team": {
 		"905924": {
+			"blocks": 36,
 			"cas": 6,
 			"casdiff": 5,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Squill's Squig Pitt",
+			"pass": 6,
+			"prespp": 113,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 168
 		},
 		"907959": {
+			"blocks": 36,
 			"cas": 1,
 			"casdiff": -5,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "River Teufel Tricksters",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 142,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 21,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 137
 		}
 	}
 }

@@ -1,104 +1,103 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3977604",
-	"player_performance": {
+	"player": {
 		"891260": {
 			"12023006": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Varman",
 				"prespp": 16,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12023007": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Surya",
 				"prespp": 11,
-				"rus": 13,
+				"rush": 13,
 				"spp": 8,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12023008": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tambra",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12023009": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Linga",
 				"prespp": 11,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12023010": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Svay",
 				"prespp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12023011": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Kompong",
 				"prespp": 9,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12023012": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Harsha",
 				"prespp": 12,
-				"rus": -1,
-				"tur": 15,
+				"rush": -1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12023013": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vapada",
 				"prespp": 9,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12023014": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dangrek",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12023015": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nokor",
 				"prespp": 6,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12053070": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Jobo",
-				"pas": -3,
+				"pass": -3,
 				"prespp": 15,
 				"spp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12129840": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Mekong",
 				"prespp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "B"
 			},
 			"12173023": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Watang",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
@@ -109,79 +108,79 @@
 				"type": "R"
 			},
 			"12122312": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Snorri Nosebiter",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122314": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Malakai Makaisson",
 				"prespp": 10,
 				"spp": 4,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12122318": {
 				"name": "Cpt. Long Drong",
 				"prespp": 9,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12122319": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "First Mate Morgrim Dallinsson",
 				"prespp": 21,
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122320": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Finn Hargrimsson",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12122325": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Yadri Budriksson",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122326": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Belegar Baliksnev",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122328": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Borri Largsfind",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122331": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Fodrin Ranulfsson",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12122332": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"name": "Vragni Rorekfind",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12148101": {
@@ -189,41 +188,59 @@
 				"type": "R"
 			},
 			"12182659": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 3,
 				"name": "Rodi Balkisson",
 				"prespp": 7,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1054692",
-	"team_performance": {
+	"team": {
 		"891260": {
+			"blocks": 43,
 			"cas": 0,
 			"casdiff": -6,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Library of Indra",
-			"prestige": 1,
+			"pass": -3,
+			"prespp": 108,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 12,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 124
 		},
 		"897379": {
+			"blocks": 62,
 			"cas": 6,
 			"casdiff": 6,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "~Karak Kadrin Slayers~",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 73,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 146
 		}
 	}
 }

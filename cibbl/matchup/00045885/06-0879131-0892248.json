@@ -1,70 +1,69 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4037256",
-	"player_performance": {
+	"player": {
 		"879131": {
 			"11828950": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Calico Jack",
 				"prespp": 118,
-				"rus": 4,
+				"rush": 4,
 				"spp": 7,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11828951": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Morag",
 				"prespp": 39,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11828952": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Greta",
 				"prespp": 33,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11828954": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ibhib Nightbreaker",
 				"prespp": 138,
-				"rus": 37,
+				"rush": 37,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828955": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dog Rough Drimond",
 				"prespp": 51,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11828956": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Grog Swiller Finn",
 				"prespp": 58,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11956118": {
 				"name": "Voodoo Jones",
 				"prespp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12155340": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Seabiscuit Maguire",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12261823": {
@@ -73,144 +72,143 @@
 				"type": "R"
 			},
 			"12343072": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Ol' Roy Schneider",
 				"prespp": 6,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12355104": {
 				"name": "Larry O'Malley",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12426661": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Mutiny Bryce",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12426662": {
 				"name": "Wyndham o'Vossler",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12493747": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chains Mullaney",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12493774": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Glug Thomson",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12517082": {
 				"name": "Dounnoth Stormarrow",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"892248": {
 			"12037796": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Threasher",
 				"prespp": 67,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12037798": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Sharpnose",
 				"prespp": 30,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12037800": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Blackfin",
 				"prespp": 48,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12037810": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Mutineer Morin",
 				"prespp": 35,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12037816": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Sharktooth",
 				"prespp": 8,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12037818": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Morgan the Crow",
 				"prespp": 37,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12138034": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Banjo Billy",
 				"prespp": 21,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12235834": {
 				"name": "Bosun Codswallap",
 				"prespp": 8,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12235835": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hooktooth",
 				"prespp": 39,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12293105": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cap'n Dirk Bloodlust",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12342419": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jaws",
 				"prespp": 20,
-				"rus": 33,
+				"rush": 33,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12445884": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Stumpy McTerror",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12456349": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Abraham ‘Sharkbait’ Evans",
 				"prespp": 4,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12501512": {
@@ -218,38 +216,56 @@
 				"type": "R"
 			},
 			"12501526": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Barnaby ‘Nutjob’ Yorke",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1124363",
-	"team_performance": {
+	"team": {
 		"879131": {
+			"blocks": 23,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sartosa Black Flags",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 469,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 41,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 141
 		},
 		"892248": {
+			"blocks": 34,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crimson Fins",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 317,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 33,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 150
 		}
 	}
 }

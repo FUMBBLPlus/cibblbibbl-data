@@ -1,76 +1,75 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4018744",
-	"player_performance": {
+	"player": {
 		"892248": {
 			"12037796": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Threasher",
 				"prespp": 40,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12037798": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Sharpnose",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12037800": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Blackfin",
 				"prespp": 39,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12037810": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mutineer Morin",
 				"prespp": 26,
-				"rus": 13,
-				"tur": 10,
+				"rush": 13,
+				"turns": 10,
 				"type": "R"
 			},
 			"12037811": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Balthasar Shipwright",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12037816": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Sharktooth",
 				"prespp": 8,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12037817": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "One-armed Jack",
 				"prespp": 16,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12037818": {
 				"name": "Morgan the Crow",
 				"prespp": 15,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12138034": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Banjo Billy",
 				"prespp": 21,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12235834": {
@@ -79,10 +78,10 @@
 				"type": "R"
 			},
 			"12235835": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Hooktooth",
 				"prespp": 27,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12293105": {
@@ -91,90 +90,89 @@
 			},
 			"12342400": {
 				"name": "Count Horatio Sweepington III",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12342419": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Jaws",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 18,
-				"rus": 12,
+				"rush": 12,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12445884": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Stumpy McTerror",
-				"rus": 1,
-				"tur": 10,
+				"rush": 1,
+				"turns": 10,
 				"type": "R"
 			}
 		},
 		"909966": {
 			"12317570": {
-				"blk": 1,
-				"cps": 2,
+				"blocks": 1,
+				"comp": 2,
 				"mvp": 1,
 				"name": "Vlaedi MirTaltos",
-				"pas": 11,
+				"pass": 11,
 				"prespp": 22,
-				"rus": 35,
+				"rush": 35,
 				"spp": 10,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12317571": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Sword of Khaine",
 				"prespp": 17,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12317572": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Dagger of Khaine",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12317575": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Kraegaer the unseen",
 				"prespp": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12317582": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mel Estav",
 				"prespp": 9,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12317593": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Ishtavan the depraved",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12334820": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Sticks \"no future in it\" Stronzon",
 				"prespp": 20,
-				"rus": 7,
+				"rush": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12347824": {
@@ -187,58 +185,73 @@
 				"type": "R"
 			},
 			"12404130": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Quinion T.",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12429321": {
 				"name": "Sylvester Clumsyfield",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
 			"12429322": {
 				"name": "Brian Dirtywing",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			},
 			"12429323": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tristan Clumsyeagle",
-				"retired": true,
-				"rus": 6,
-				"tur": 14,
+				"rush": 6,
+				"turns": 14,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1103086",
-	"team_performance": {
+	"team": {
 		"892248": {
+			"blocks": 33,
 			"cas": 0,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crimson Fins",
+			"pass": 2,
+			"prespp": 237,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 33,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 143
 		},
 		"909966": {
-			"cas": 3,
-			"casdiff": 3,
+			"blocks": 38,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Spite Reach Corsairs",
-			"prestige": 3,
+			"pass": 11,
+			"prespp": 117,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 48,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 146
 		}
 	}
 }

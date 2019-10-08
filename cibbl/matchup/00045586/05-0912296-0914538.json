@@ -1,33 +1,32 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4019586",
-	"player_performance": {
+	"player": {
 		"912296": {
 			"12357732": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Azar Quol",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12357733": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Morshakk",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12357734": {
 				"name": "Kratis",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 14,
-				"rus": 23,
+				"rush": 23,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12357735": {
@@ -36,168 +35,168 @@
 				"type": "R"
 			},
 			"12357736": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Nurgnagar",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12357739": {
 				"name": "Malkis",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12357747": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Vulzal Dorkuraz",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "B"
 			},
 			"12357750": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tril",
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 4,
+				"td": 1,
+				"turns": 4,
 				"type": "R"
 			},
 			"12357752": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Strakt",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12357753": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Wrovigs",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12357754": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zolrets",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12357755": {
 				"name": "Vrehnelk",
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12402746": {
 				"name": "Vish keteck",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12426462": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Glar'Shtik",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
-			"912296S1": {
-				"blk": 4,
+			"STAR-7544": {
+				"blocks": 4,
 				"name": "Skreet",
-				"tur": 12,
+				"turns": 12,
 				"type": "S"
 			}
 		},
 		"914538": {
 			"12390731": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "O'rdra The Deathmaker",
 				"prespp": 27,
-				"tur": 12,
+				"turns": 12,
 				"type": "B"
 			},
 			"12390732": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Filthy Anruman",
 				"prespp": 4,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12390733": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Aunt Fesnesh",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12390734": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Legendary Honnon",
 				"prespp": 2,
-				"rus": 4,
+				"rush": 4,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12390735": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Big Galroq",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12390736": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hepho The Maniac",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12390737": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Bloody Divbhox",
-				"rus": -1,
-				"tur": 8,
+				"rush": -1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12390738": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Judge Haladred",
 				"prespp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12390739": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Terrible Tulas",
 				"prespp": 13,
-				"rus": 11,
-				"tur": 6,
+				"rush": 11,
+				"turns": 6,
 				"type": "R"
 			},
 			"12390740": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Zarus Pitt",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 5,
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12390742": {
 				"name": "Unborn Davgore",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12419653": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					1,
@@ -205,42 +204,61 @@
 					"12357747"
 				],
 				"name": "Qoras Ragegaze",
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"12453186": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Erath The Clawdancer",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1104019",
-	"team_performance": {
+	"team": {
 		"912296": {
-			"cas": 3,
-			"casdiff": 2,
+			"blocks": 29,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grutnik Scavengers",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 64,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 45,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 159
 		},
 		"914538": {
+			"blocks": 44,
 			"cas": 1,
-			"casdiff": -2,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "BloodForce",
+			"pass": 3,
+			"prespp": 63,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 113
 		}
 	}
 }

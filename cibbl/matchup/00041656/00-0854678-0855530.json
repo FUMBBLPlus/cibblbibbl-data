@@ -1,48 +1,47 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3842113",
-	"player_performance": {
+	"player": {
 		"854678": {
 			"11439615": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Nightlord Throiskikkcin",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11439616": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Nightlord Kratskittar",
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439618": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Nightmaster Gnawnagar",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 4,
-				"rus": 14,
+				"rush": 14,
 				"spp": 4,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11439620": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nightmaster Nurgrin",
 				"prespp": 5,
-				"rus": 10,
-				"tur": 15,
+				"rush": 10,
+				"turns": 15,
 				"type": "R"
 			},
 			"11439622": {
-				"blk": 5,
-				"cps": 1,
+				"blocks": 5,
+				"comp": 1,
 				"dead": [
 					2,
 					2,
@@ -50,11 +49,12 @@
 					"11453272"
 				],
 				"name": "Nightmaster Arrdrak",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 6,
-				"rus": 2,
+				"retired": true,
+				"rush": 2,
 				"spp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11439623": {
@@ -63,158 +63,176 @@
 				"type": "R"
 			},
 			"11439624": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grisnik the Blacktail",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11439625": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sneeneth the Awful",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439626": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Paskskabak the Padfoot",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11439627": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Burhakk the Ghost",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439628": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sneekis the Dragon",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11439629": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vasquee the Greywhisker",
 				"prespp": 3,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11449906": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gnawth the Reckless",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		},
 		"855530": {
 			"11453258": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Krotep the Silent",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11453259": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Ximtra the Everlasting",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11453261": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Tutencal the Harvester",
 				"prespp": 3,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11453266": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ramsezuma Bonescale",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11453268": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Nephalanque Crushjaw",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11453272": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Chakhamen Blood River",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11453281": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Offering of Blood",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11453282": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Offering of Bone",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11453284": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Offering of Flesh",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11453285": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Offering of Claws",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11453289": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Offering of Fangs",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "898477",
-	"team_performance": {
+	"team": {
 		"854678": {
+			"blocks": 48,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lords of the Silent Death",
+			"pass": 4,
+			"prespp": 27,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 152
 		},
 		"855530": {
+			"blocks": 45,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Guardians of the Lurking God",
+			"pass": 0,
+			"prespp": 7,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 163
 		}
 	}
 }

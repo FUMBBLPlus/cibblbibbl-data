@@ -1,74 +1,73 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3897769",
-	"player_performance": {
+	"player": {
 		"873361": {
 			"11737245": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Zhorthix Swiftfoot",
 				"prespp": 14,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737247": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Vultruc Ambergrip",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737248": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Nirghux Stormpaw",
 				"prespp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11737249": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Zheghoc Ironcrest",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 5,
-				"rus": 5,
+				"rush": 5,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737258": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Dekar Girkrar",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11737259": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Naulez Mangox",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737260": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Tenex Ghicrak",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737261": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Ghugug",
-				"rus": 20,
+				"rush": 20,
 				"spp": 8,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11737262": {
 				"name": "Nektac",
-				"rus": 6,
-				"tur": 15,
+				"rush": 6,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737263": {
@@ -76,112 +75,111 @@
 				"type": "R"
 			},
 			"11737264": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Khalac",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11763654": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Graham Weaksnake",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			}
 		},
 		"874302": {
 			"11754120": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Castelvetro",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754121": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Castelnuovo Rangone",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754122": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Castelfranco Emilia",
-				"rus": 12,
+				"rush": 12,
 				"spp": 7,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754123": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Formigine",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754124": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Maranello",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754125": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fiorano",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11754126": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Marano sul Panaro",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754128": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Prignano sulla Secchia",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754141": {
-				"blk": 2,
-				"cps": 2,
+				"blocks": 2,
+				"comp": 2,
 				"name": "San Cesario sul Panaro",
-				"pas": 5,
-				"rus": 3,
+				"pass": 5,
+				"rush": 3,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11754142": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Sassuolo",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754144": {
 				"name": "Vignola",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11754146": {
 				"name": "Spilamberto",
-				"rus": 8,
-				"tur": 9,
+				"rush": 8,
+				"turns": 9,
 				"type": "R"
 			},
-			"874302M1": {
-				"blk": 3,
+			"MERC-9829-3915": {
+				"blocks": 3,
 				"name": "Merc Lineman 1",
-				"tur": 7,
+				"turns": 7,
 				"type": "M"
 			},
-			"874302S1": {
+			"STAR-7714": {
 				"dead": [
 					1,
 					2,
@@ -189,36 +187,54 @@
 					null
 				],
 				"name": "Ritter Von Baum",
-				"tur": 1,
+				"turns": 1,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "962556",
-	"team_performance": {
+	"team": {
 		"873361": {
+			"blocks": 55,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Blood-Ground Blackhorns",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 40,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 31,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 161
 		},
 		"874302": {
+			"blocks": 45,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grasparossa B.B.C",
-			"prestige": 1,
+			"pass": 5,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 23,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 166
 		}
 	}
 }

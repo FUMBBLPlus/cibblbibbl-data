@@ -1,41 +1,40 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3897421",
-	"player_performance": {
+	"player": {
 		"872927": {
 			"11729664": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Trokch Silentstriker",
 				"spp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11729665": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Skak Clawreaver",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11729666": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Qril Pridewalker",
 				"prespp": 9,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11729667": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Vulk Shadowspire",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11729668": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Trutch Lowfingers",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11729669": {
@@ -46,47 +45,48 @@
 					null
 				],
 				"name": "Zhan Shadowfingers",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 9,
-				"rus": 19,
+				"retired": true,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11729670": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Stonqukch Duskborn",
-				"pas": -1,
-				"rus": 2,
+				"pass": -1,
+				"rush": 2,
 				"spp": 3,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11729671": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Qieshqin Bristlescream",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11729673": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zricnik Bitterchest",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11729674": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Qhun Caskspine",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11729675": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kruoch Ashentail",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11752304": {
@@ -96,110 +96,128 @@
 		},
 		"873478": {
 			"11739167": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Alaric Ironfist",
 				"prespp": 6,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11739172": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Valag Stormhammer",
 				"spp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11739173": {
 				"name": "Brummiir Grondsson",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11739174": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Yorri Thorinsson",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11739175": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Ulrik Kurgansson",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11739176": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Thorgrim Drongsson",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11739177": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Gloin the Glum",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11739181": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Baldrick the Cunning",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11739185": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dorin Falgrimsson",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11739187": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Krudd Lokisson",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11739189": {
 				"name": "Godrun Longlegs",
 				"prespp": 6,
-				"rus": 28,
+				"rush": 28,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "962163",
-	"team_performance": {
+	"team": {
 		"872927": {
+			"blocks": 41,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Notorious BIBBL.Inc.Brawlers",
+			"pass": -2,
+			"prespp": 24,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 141
 		},
 		"873478": {
+			"blocks": 57,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Barak Varr Ironbreakers",
+			"pass": 0,
+			"prespp": 20,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 28,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 163
 		}
 	}
 }

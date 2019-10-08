@@ -1,97 +1,96 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3997760",
-	"player_performance": {
+	"player": {
 		"867862": {
 			"11646901": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Muk",
 				"prespp": 53,
-				"rus": 7,
-				"tur": 15,
+				"rush": 7,
+				"turns": 15,
 				"type": "R"
 			},
 			"11722423": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vur",
 				"prespp": 46,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11782667": {
-				"blk": 3,
-				"fou": 2,
+				"blocks": 3,
+				"fouls": 2,
 				"name": "Vir",
 				"prespp": 11,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11917261": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Irtriss",
 				"prespp": 54,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"11946085": {
-				"blk": 14,
+				"blocks": 14,
 				"cas": 3,
 				"mvp": 1,
 				"name": "Tarotep of Horin 'Reth",
 				"prespp": 39,
 				"spp": 11,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12122939": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Treth' Kon Sharkface",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12199989": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Umir",
 				"prespp": 9,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12215612": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Kudir",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12223534": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chitol",
 				"prespp": 18,
-				"rus": 9,
-				"tur": 15,
+				"rush": 9,
+				"turns": 15,
 				"type": "R"
 			},
 			"12264876": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Imir' Zhan of Thorgotan",
 				"prespp": 13,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12295931": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kirath",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12328835": {
 				"name": "Trizt",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12328836": {
@@ -99,140 +98,158 @@
 				"type": "R"
 			},
 			"12331857": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Habir ben Hasslef",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		},
 		"905606": {
 			"12250181": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Thaskar the Patient",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12250182": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Laris the Architect",
 				"prespp": 11,
-				"rus": 8,
-				"tur": 15,
+				"rush": 8,
+				"turns": 15,
 				"type": "R"
 			},
 			"12250183": {
 				"name": "Khahos the Crimson",
 				"prespp": 10,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12250187": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Itom the Visionary",
 				"prespp": 4,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12250188": {
 				"name": "Machakh the Ancient",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12250189": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Rophkihon the Prime",
 				"prespp": 4,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12250191": {
 				"name": "Nestap the Brillant",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12250204": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Syiksa the Infinite",
 				"prespp": 7,
-				"rus": 11,
-				"tur": 15,
+				"rush": 11,
+				"turns": 15,
 				"type": "R"
 			},
 			"12250205": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Aexlor the Bulwark",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12250207": {
 				"name": "Khokhakh the Honorable",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12250209": {
 				"name": "Erikheph the Watcher",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12250212": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Kessas the White",
 				"prespp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12260629": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Onileph The Artist",
 				"prespp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12318765": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Tepthetho the Graceful",
 				"prespp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
-			"905606S1": {
-				"blk": 5,
+			"STAR-7576": {
+				"blocks": 5,
 				"name": "Setekh",
-				"tur": 7,
+				"turns": 7,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1079279",
-	"team_performance": {
+	"team": {
 		"867862": {
-			"cas": 4,
-			"casdiff": 2,
+			"blocks": 54,
+			"cas": 3,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Everlasting Vultures of Settra",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 243,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 25,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 149
 		},
 		"905606": {
-			"cas": 2,
-			"casdiff": -2,
+			"blocks": 34,
+			"cas": 0,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Serpent-Guards of Khalida",
+			"pass": 0,
+			"prespp": 60,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 131
 		}
 	}
 }

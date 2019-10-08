@@ -1,80 +1,79 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3911440",
-	"player_performance": {
+	"player": {
 		"867862": {
 			"11646894": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Serrek of Nathrezzar",
 				"prespp": 23,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11646895": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Xerxes of Kerzzasas",
 				"prespp": 16,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11646896": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Betekh",
 				"prespp": 21,
-				"rus": 2,
-				"tur": 12,
+				"rush": 2,
+				"turns": 12,
 				"type": "R"
 			},
 			"11646901": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Muk",
 				"prespp": 33,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11646902": {
 				"name": "Ner",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11646907": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Aki",
 				"prespp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11646910": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Hil",
 				"prespp": 18,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11646912": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Che",
 				"prespp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11651506": {
-				"blk": 9,
+				"blocks": 9,
 				"mvp": 1,
 				"name": "Izz",
 				"prespp": 24,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11722423": {
@@ -82,76 +81,77 @@
 				"type": "R"
 			},
 			"11763541": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Vute",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11782638": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Zulu the Shark",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11782667": {
 				"name": "Vir",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11791082": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Sethar",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 6,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		},
 		"873945": {
 			"11747835": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"dead": [
 					2,
 					4,
 					"crowdPushed",
-					"11763541"
+					null
 				],
 				"name": "Modolf Dagsson",
 				"prespp": 13,
+				"retired": true,
 				"spp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11747836": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Bersi Thometillsson",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11747837": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Firthgest Thiodolfsson",
 				"prespp": 3,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11747839": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Kol Styrsson",
 				"prespp": 8,
-				"rus": 27,
+				"rush": 27,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11747841": {
@@ -159,13 +159,13 @@
 				"type": "R"
 			},
 			"11747844": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sturla Suitsson",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11747846": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					1,
 					4,
@@ -174,79 +174,97 @@
 				],
 				"name": "Modolf Svæinsson",
 				"prespp": 15,
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"11747847": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Iri Brodirsson",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11767822": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Brian Goldbrook",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11767823": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Martin Truestream",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11792772": {
 				"name": "Horolf Hengerson",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11792774": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Martin Blueorc",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
-			"873945S1": {
-				"blk": 1,
+			"STAR-7542": {
+				"blocks": 1,
 				"name": "Flint Churnblade",
-				"tur": 15,
+				"turns": 15,
 				"type": "S"
 			},
-			"873945S2": {
-				"blk": 3,
+			"STAR-7547": {
+				"blocks": 3,
 				"name": "Grim Ironjaw",
-				"tur": 12,
+				"turns": 12,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "978251",
-	"team_performance": {
+	"team": {
 		"867862": {
+			"blocks": 70,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Everlasting Vultures of Settra",
+			"pass": 3,
+			"prespp": 152,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 22,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 144
 		},
 		"873945": {
+			"blocks": 36,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Warhird Huscarls",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 45,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 27,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 150
 		}
 	}
 }

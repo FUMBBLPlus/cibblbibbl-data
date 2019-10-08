@@ -1,134 +1,132 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4014082",
-	"player_performance": {
+	"player": {
 		"916031": {
 			"12413272": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Teef Smasha",
-				"rus": 8,
+				"rush": 8,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413273": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Eyez Poka",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413274": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Throat Rippa",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413275": {
 				"name": "Head Stompa",
 				"prespp": 6,
-				"rus": 33,
+				"rush": 33,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413277": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Toes Gouger",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413278": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Spleen Eater",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413279": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Nose Smasher",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413280": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gar'Og'Graw",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413281": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gra'Ro'Pra",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12413282": {
 				"name": "Gro'Gaw'Cra",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12423704": {
 				"name": "Jack Dirtytree",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"916230": {
 			"12416612": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Vârcolac",
 				"prespp": 7,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416620": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Moarte",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416633": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Apostol Vântu",
 				"prespp": 3,
-				"rus": 23,
+				"rush": 23,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416638": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Horea Belododia",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12416640": {
 				"name": "Nelu Szilágyi",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12416642": {
 				"name": "Radu Constantin",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12416644": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					6,
@@ -136,65 +134,84 @@
 					"12413272"
 				],
 				"name": "Tiberiu Dragan",
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"12416645": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ionut Pârvulescu",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12416646": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Beryx Albu",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416647": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cosmin Boroi",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416649": {
 				"name": "Petar Mitu",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416651": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Claudiu Poénaru",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1097947",
-	"team_performance": {
+	"team": {
 		"916031": {
+			"blocks": 47,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gorthor's Prophets Of Mork",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 19,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 165
 		},
 		"916230": {
+			"blocks": 28,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mourkain Kings",
+			"pass": 0,
+			"prespp": 13,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 134
 		}
 	}
 }

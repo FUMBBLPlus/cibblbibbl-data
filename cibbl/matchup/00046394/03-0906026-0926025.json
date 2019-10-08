@@ -1,25 +1,24 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4049731",
-	"player_performance": {
+	"player": {
 		"906026": {
 			"12255960": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 3,
 				"name": "Hungry",
 				"prespp": 31,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12255961": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Mani Mad Cap",
 				"prespp": 20,
 				"spp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12255962": {
@@ -30,8 +29,7 @@
 			"12255981": {
 				"name": "Zyngle Cogbrass",
 				"prespp": 5,
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12255982": {
@@ -42,121 +40,121 @@
 			"12411917": {
 				"name": "Angry",
 				"prespp": 37,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12492986": {
 				"name": "Kurdan Sparkvolt",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12492987": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Urdin",
 				"prespp": 3,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12504901": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Tristan Hotwing",
 				"prespp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12504902": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "William Goldstream",
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545355": {
 				"name": "Golk Le sourd",
 				"prespp": 15,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12586084": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ash Onehanded",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12586694": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zerdack Handspin",
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12586695": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Zouk Machine",
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12597729": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Hocus Boggle",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12597730": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "GolG Ginger",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			}
 		},
 		"926025": {
 			"12569521": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Snot Steiner",
 				"prespp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12569525": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Randy \"The Mucus Man\" Savage",
 				"prespp": 9,
-				"tur": 10,
+				"turns": 10,
 				"type": "B"
 			},
 			"12569527": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"name": "Arnold Snotszenegger",
 				"prespp": 7,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12569686": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Lex Looger",
 				"prespp": 4,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "B"
 			},
 			"12569688": {
 				"name": "Splop",
 				"prespp": 5,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12569689": {
@@ -168,7 +166,7 @@
 				"type": "R"
 			},
 			"12569691": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					6,
@@ -177,34 +175,35 @@
 				],
 				"name": "Scatter",
 				"prespp": 2,
-				"tur": 11,
+				"retired": true,
+				"turns": 11,
 				"type": "R"
 			},
 			"12569693": {
 				"name": "Kicky",
 				"prespp": 3,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12569696": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Icky",
 				"prespp": 9,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12571803": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Booger T",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12571811": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hock Hogan",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12571815": {
@@ -214,30 +213,48 @@
 		}
 	},
 	"replayId": "1138744",
-	"team_performance": {
+	"team": {
 		"906026": {
-			"cas": 6,
-			"casdiff": 4,
+			"blocks": 21,
+			"cas": 4,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Karak Azog Outlaws",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 193,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 22,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 141
 		},
 		"926025": {
+			"blocks": 27,
 			"cas": 2,
-			"casdiff": -4,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Deadly Sinus Attack",
+			"pass": 0,
+			"prespp": 61,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 0,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 106
 		}
 	}
 }

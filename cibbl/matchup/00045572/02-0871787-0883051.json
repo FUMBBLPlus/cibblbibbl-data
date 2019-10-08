@@ -1,70 +1,69 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4013907",
-	"player_performance": {
+	"player": {
 		"871787": {
 			"11709008": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Emyys Doceon",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709009": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Burk Silpal",
 				"prespp": 24,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709010": {
-				"blk": 1,
-				"fou": 7,
+				"blocks": 1,
+				"fouls": 7,
 				"name": "Dando Enda",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709011": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Raus Juit",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 99,
-				"rus": 27,
+				"rush": 27,
 				"spp": 9,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709013": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Kael Desini",
 				"prespp": 25,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709018": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Font Eiridan",
 				"prespp": 55,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11747061": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Gutterfingers",
 				"prespp": 31,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11814852": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Pantheon Bane",
 				"prespp": 67,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11956674": {
@@ -73,52 +72,52 @@
 				"type": "I"
 			},
 			"12051832": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Amon",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12159733": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Gert Stein",
 				"prespp": 6,
 				"type": "R"
 			},
 			"12241610": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gorrin Kral",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12241611": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Swin Zaero",
 				"prespp": 13,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12363942": {
 				"name": "Radix Radex",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		},
 		"883051": {
 			"11892405": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "\"Featherweight\" Gunnar",
 				"prespp": 79,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892408": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					1,
 					4,
@@ -127,84 +126,85 @@
 				],
 				"name": "Harkon Halvarson",
 				"prespp": 33,
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"11892424": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Dag of The Mire",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892428": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Folke Ninth-Son",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11892429": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Geir the Fisherman",
 				"prespp": 3,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11947871": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "\"Ambisinister\" Xander",
 				"prespp": 50,
-				"rus": 3,
-				"tur": 12,
+				"rush": 3,
+				"turns": 12,
 				"type": "R"
 			},
 			"11950136": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "The Notorious Jerk",
 				"prespp": 44,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12130906": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Haldor Halvarson",
 				"prespp": 9,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12169214": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Igor The Surgeon",
 				"prespp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12169228": {
 				"name": "Jary The Younger",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12245045": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gertrude, Beast of the Moors",
 				"prespp": 22,
-				"tur": 3,
+				"turns": 3,
 				"type": "B"
 			},
 			"12340698": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Turpin of Vostok",
-				"pas": 2,
-				"rus": 8,
-				"tur": 9,
+				"pass": 2,
+				"rush": 8,
+				"turns": 9,
 				"type": "R"
 			},
 			"12348482": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kettil the Gourmand",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12348483": {
@@ -212,41 +212,59 @@
 				"type": "R"
 			},
 			"12402229": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "The Irreverent Sindri",
 				"spp": 7,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1097757",
-	"team_performance": {
+	"team": {
 		"871787": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 42,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malignant Curators",
-			"prestige": 1,
+			"pass": 2,
+			"prespp": 374,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 27,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 166
 		},
 		"883051": {
+			"blocks": 39,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vostok Iron Head ",
-			"prestige": 1,
+			"pass": 2,
+			"prespp": 253,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 119
 		}
 	}
 }

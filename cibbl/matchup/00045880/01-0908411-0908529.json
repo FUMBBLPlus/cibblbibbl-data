@@ -1,57 +1,56 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4026307",
-	"player_performance": {
+	"player": {
 		"908411": {
 			"12293139": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Nicomo Cosca",
 				"prespp": 21,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12293140": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Duke Orzo",
 				"prespp": 15,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12293141": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Caul Shivers",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12293148": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Cas Shenkt",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12293162": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Friendly",
 				"prespp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12293164": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Shylo Vitari",
 				"prespp": 11,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12293166": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Morveer",
 				"prespp": 18,
-				"rus": 8,
-				"tur": 14,
+				"rush": 8,
+				"turns": 14,
 				"type": "R"
 			},
 			"12293169": {
@@ -60,20 +59,20 @@
 				"type": "R"
 			},
 			"12372288": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Benna Murcatto",
 				"prespp": 8,
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"12424758": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Jezal dan Luthar",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12458078": {
@@ -81,156 +80,174 @@
 				"type": "R"
 			},
 			"12460470": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Ario",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12460472": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Day",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"908529": {
 			"12295351": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Hhash'chtoth",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 22,
-				"rus": 4,
+				"rush": 4,
 				"spp": 3,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12295353": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Bbadh'nurth",
 				"prespp": 22,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295355": {
 				"name": "Vulpizh",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295356": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Belakhz",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295357": {
 				"name": "Aerhish",
 				"prespp": 4,
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295358": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Yuhkuth",
 				"prespp": 3,
-				"rus": 1,
-				"tur": 15,
+				"rush": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12295360": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Splishj",
 				"prespp": 8,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12295364": {
 				"name": "Flizzit",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12336337": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Shim'dre'lex'kazar",
 				"prespp": 11,
-				"tur": 10,
+				"turns": 10,
 				"type": "B"
 			},
 			"12349401": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Kkrozh",
-				"tur": 7,
+				"turns": 7,
 				"type": "I"
 			},
 			"12372276": {
 				"name": "Zzak",
 				"prespp": 3,
-				"tur": 1,
+				"turns": 1,
 				"type": "I"
 			},
 			"12372278": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tarh",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 3,
-				"rus": 4,
-				"tur": 15,
+				"rush": 4,
+				"turns": 15,
 				"type": "I"
 			},
 			"12404744": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hashi'gharoboth",
 				"prespp": 19,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12456141": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Gashokh'vanderburth",
 				"prespp": 1,
-				"rus": 6,
+				"rush": 6,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1111605",
-	"team_performance": {
+	"team": {
 		"908411": {
+			"blocks": 40,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Black Gulf Hippocampi",
+			"pass": 0,
+			"prespp": 105,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 141
 		},
 		"908529": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 28,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "ICBM Warpspawns",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 107,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 24,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 153
 		}
 	}
 }

@@ -1,221 +1,237 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3972541",
-	"player_performance": {
+	"player": {
 		"896618": {
 			"12109600": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Alumar",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12109601": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Buraniel",
 				"prespp": 12,
-				"rus": 6,
+				"rush": 6,
 				"spp": 5,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12109602": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Bilenduin",
 				"prespp": 9,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12109604": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Morniun",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12109605": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Neminor",
 				"prespp": 6,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12109607": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Luendil",
 				"prespp": 9,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12109608": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Oliveil",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 5,
-				"rus": 2,
+				"rush": 2,
 				"spp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12109609": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Primoriel",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12109610": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Clairion",
 				"prespp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12109611": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Hurindiel",
 				"prespp": 5,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12118098": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Milendir",
 				"prespp": 8,
-				"rus": -1,
-				"tur": 9,
+				"rush": -1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12164432": {
 				"name": "Huronir",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"896972": {
 			"12117786": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Gorbad Faceclompah",
 				"prespp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12117787": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Valanduil of House Meliane",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12117788": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Poppy Merribuck",
 				"prespp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12117790": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Balthasar the Youthful",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12117791": {
 				"name": "Konrad the Enchanter",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12117792": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gottlieb Thälmann of Averland",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12117795": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ferrimora of the Waxing Moon",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12117796": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "The Drinker of Desire and Wishes",
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12117800": {
-				"blk": 8,
-				"fou": 1,
+				"blocks": 8,
+				"fouls": 1,
 				"name": "Siluvaine, Traverser of the Celestial Promenade",
 				"prespp": 10,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12117802": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Urkrasour the Obedient",
 				"prespp": 12,
-				"rus": 24,
+				"rush": 24,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12173327": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Draco the Ascendent",
-				"pas": 1,
-				"tur": 15,
+				"pass": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12179724": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "The Xenith of Devotion",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1048771",
-	"team_performance": {
+	"team": {
 		"896618": {
+			"blocks": 33,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Charace Charioteers",
-			"prestige": 1,
+			"pass": 2,
+			"prespp": 70,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 9,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 151
 		},
 		"896972": {
+			"blocks": 47,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Seekers of Transcendence",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 32,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 24,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 158
 		}
 	}
 }

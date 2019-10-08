@@ -1,63 +1,62 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3997356",
-	"player_performance": {
+	"player": {
 		"905886": {
 			"12253779": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Charles Umpherston Aitchison",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12253780": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Gyles Mackrell",
 				"prespp": 16,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12253781": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Samuel White Baker",
 				"prespp": 15,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12253782": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Basil Eddis",
 				"prespp": 12,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12253784": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Eldred Pottinger",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12253785": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "E. W. Middlemast",
 				"prespp": 4,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12254721": {
 				"name": "Grottleblagh",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 9,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12254722": {
@@ -70,142 +69,157 @@
 				"type": "R"
 			},
 			"12261642": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "William Cotton Oswell",
 				"prespp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12329581": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Martin Bluestone",
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "J"
 			},
 			"12329582": {
 				"name": "Tristan Hideouswing",
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			},
 			"12329583": {
 				"name": "Harold Coldbone",
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			}
 		},
 		"907426": {
 			"12278037": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Hrafn Blackhoof",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12278038": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Uzhog Eight-Legs",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12278040": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Urgogh Red-Eye",
 				"prespp": 4,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12278042": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Gulghur",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12278043": {
 				"name": "Valug",
 				"prespp": 6,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12278044": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Urlan",
 				"prespp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12278045": {
 				"name": "Mak",
 				"prespp": 3,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12278046": {
-				"cps": 1,
-				"fou": 1,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Bundig",
-				"pas": 5,
+				"pass": 5,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12278047": {
 				"name": "Bitterfoot",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12278048": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Borgan Nightbreath",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12328815": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Orgfan the Walking Wineskin",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1078818",
-	"team_performance": {
+	"team": {
 		"905886": {
+			"blocks": 45,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sabre Mountain Rattlers",
+			"pass": -1,
+			"prespp": 76,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 20,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 155
 		},
 		"907426": {
+			"blocks": 27,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Hrafn's Herd",
+			"pass": 5,
+			"prespp": 29,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 145
 		}
 	}
 }

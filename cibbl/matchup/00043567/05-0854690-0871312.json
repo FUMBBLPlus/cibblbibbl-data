@@ -1,138 +1,137 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3934992",
-	"player_performance": {
+	"player": {
 		"854690": {
 			"11439891": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Shiamoto The Undying",
 				"prespp": 28,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439893": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ronin Swift Wind",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 49,
-				"rus": 26,
+				"rush": 26,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439894": {
-				"blk": 6,
-				"cps": 1,
+				"blocks": 6,
+				"comp": 1,
 				"name": "Ronin Four Finger Death Punch",
 				"prespp": 50,
-				"rus": 5,
+				"rush": 5,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439896": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Meiko",
 				"prespp": 18,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11439904": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
-				"cps": 1,
+				"comp": 1,
 				"name": "Hiro",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 15,
-				"rus": 4,
+				"rush": 4,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11474441": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Ronin Headchopper",
 				"prespp": 54,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11624586": {
-				"blk": 3,
-				"fou": 2,
+				"blocks": 3,
+				"fouls": 2,
 				"name": "Saku",
 				"prespp": 6,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11694784": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Su Ha",
 				"prespp": 16,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11775641": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Taizo",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11859092": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Temple Guard Hawazaki",
 				"prespp": 24,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11873914": {
 				"name": "Toshi",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11895977": {
 				"name": "Ro Hoi",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11975101": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Ronin Death Stroke",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 2,
-				"rus": 9,
+				"rush": 9,
 				"spp": 6,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11975476": {
 				"name": "Ha Zu",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11979086": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Temple Guard A'Rsch Auff",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"871312": {
 			"11700282": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					1,
 					8,
@@ -141,34 +140,35 @@
 				],
 				"name": "Count Ludovig",
 				"prespp": 69,
-				"tur": 7,
+				"retired": true,
+				"turns": 7,
 				"type": "R"
 			},
 			"11700284": {
 				"name": "Count Igor",
 				"prespp": 41,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11700285": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Count Jurij",
 				"prespp": 34,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11700318": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Seth",
 				"prespp": 34,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11700319": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Anubis",
 				"prespp": 41,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11700323": {
@@ -176,7 +176,7 @@
 				"name": "Servant Fjodor",
 				"prespp": 4,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11734615": {
@@ -188,34 +188,35 @@
 				],
 				"name": "Servant Alexander",
 				"prespp": 6,
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"11812909": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Count Yaroslav",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 30,
-				"rus": 5,
+				"rush": 5,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11850036": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Paul Darktree",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11874342": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Servant Miro",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11930893": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					7,
@@ -223,55 +224,74 @@
 					"11439891"
 				],
 				"name": "Servant Mirko",
-				"tur": 15,
+				"retired": true,
+				"turns": 15,
 				"type": "R"
 			},
 			"11933869": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Abu",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11936975": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ladislao Celano",
 				"prespp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11941952": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kacy Catanzaro",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1005648",
-	"team_performance": {
+	"team": {
 		"854690": {
+			"blocks": 68,
 			"cas": 7,
 			"casdiff": 7,
+			"comp": 3,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Secret Cult Of Shiamoto",
-			"prestige": 3,
+			"pass": -4,
+			"prespp": 269,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 44,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 170
 		},
 		"871312": {
+			"blocks": 25,
 			"cas": 0,
 			"casdiff": -7,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tower of the Necromancer",
+			"pass": -1,
+			"prespp": 261,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 5,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 134
 		}
 	}
 }

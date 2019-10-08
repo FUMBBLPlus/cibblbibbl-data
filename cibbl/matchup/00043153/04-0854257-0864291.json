@@ -1,169 +1,169 @@
 {
 	"!excluded": "no",
 	"matchId": "3920110",
-	"player_performance": {
+	"player": {
 		"854257": {
 			"11432421": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Peach Blossom Water",
 				"prespp": 37,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11432424": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "After the Lotus Flowers Have Opened",
 				"prespp": 67,
-				"rus": 25,
+				"rush": 25,
 				"spp": 6,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"11432426": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gathering Water-Chestnuts",
 				"prespp": 20,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11432429": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Silk Worm Spins",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11452680": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Overflowing Bliss",
 				"prespp": 22,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11477327": {
 				"name": "Yellow Dusk",
 				"prespp": 12,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11565341": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sorrowfully An Ape Calls",
 				"prespp": 16,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11585952": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Mirror of the Sky",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 10,
-				"rus": -1,
-				"tur": 17,
+				"rush": -1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11625098": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "I Am Lucky",
 				"prespp": 17,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11665424": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jade Arms Cold",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11691937": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "The Pleasure Plain",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11771592": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Emerald Water",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11835792": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Ten Thousand Paths",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		},
 		"864291": {
 			"11590768": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "S. Sang",
 				"prespp": 23,
-				"rus": 7,
+				"rush": 7,
 				"spp": 8,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11590769": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "U. Gress",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11590771": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Redivor",
 				"prespp": 11,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11590772": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Redimor",
 				"prespp": 11,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11590773": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chitemor",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11590777": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Limortor",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 16,
-				"rus": 3,
-				"tur": 9,
+				"rush": 3,
+				"turns": 9,
 				"type": "R"
 			},
 			"11590778": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Dissepolor",
 				"prespp": 9,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11590780": {
@@ -172,82 +172,100 @@
 				"type": "R"
 			},
 			"11590781": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Dichitemor",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11681513": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "L.A. Biond",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 10,
-				"rus": 4,
+				"rush": 4,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11708391": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Eraclio",
 				"prespp": 9,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11737428": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "L.A. Gnora",
-				"pas": 8,
+				"pass": 8,
 				"prespp": 6,
-				"rus": 9,
+				"rush": 9,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11853366": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Stukitemor",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
-			"864291S1": {
-				"blk": 8,
+			"STAR-7576": {
+				"blocks": 8,
 				"name": "Setekh",
-				"tur": 17,
+				"turns": 17,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "988342",
-	"team_performance": {
+	"team": {
 		"854257": {
+			"blocks": 48,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grand Celestial Delegate",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 229,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 45,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 178
 		},
 		"864291": {
+			"blocks": 45,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Norscan Curse",
+			"pass": 8,
+			"prespp": 128,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 173
 		}
 	}
 }

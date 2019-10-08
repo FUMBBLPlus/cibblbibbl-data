@@ -1,119 +1,118 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3960801",
-	"player_performance": {
+	"player": {
 		"867030": {
 			"11633486": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Sokitoomi",
 				"prespp": 42,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11633494": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Grymlog",
 				"prespp": 33,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11633500": {
 				"name": "Quaxili",
 				"prespp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11633506": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Xlanaxlot",
 				"prespp": 11,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11633507": {
 				"name": "Xapati",
 				"prespp": 26,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11633509": {
 				"name": "Zwup",
 				"prespp": 10,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11633512": {
 				"name": "Huamundi",
 				"prespp": 32,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11767503": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Carnivore",
 				"prespp": 25,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11929270": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Dro'ka'khanxlot",
 				"prespp": 26,
 				"spp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11938976": {
 				"name": "Ximnizec",
 				"prespp": 8,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12048616": {
 				"name": "Chuqbolt",
 				"prespp": 3,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12048617": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Ximni Xili",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12087622": {
 				"name": "Xili-Sotek",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12087623": {
 				"name": "Xla-Tepok",
-				"rus": 8,
-				"tur": 7,
+				"rush": 8,
+				"turns": 7,
 				"type": "R"
 			}
 		},
 		"874317": {
 			"11754392": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Balor Evil-eye",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754410": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"name": "Odracon The Procreator",
 				"prespp": 34,
 				"spp": 4,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11754411": {
@@ -121,33 +120,33 @@
 				"name": "Bres",
 				"prespp": 13,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754412": {
 				"name": "Cian",
 				"prespp": 8,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11754414": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lug",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11754417": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Cethlenn",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754418": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tethra",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754422": {
@@ -159,76 +158,95 @@
 				],
 				"name": "Biròq",
 				"prespp": 52,
-				"rus": 15,
-				"tur": 8,
+				"retired": true,
+				"rush": 15,
+				"turns": 8,
 				"type": "R"
 			},
 			"11859103": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Moloch the Respawned",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11904321": {
 				"name": "Dilek",
 				"prespp": 31,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11966718": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Fog",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12047952": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Slough Feg",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12125990": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Cihol",
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1035412",
-	"team_performance": {
+	"team": {
 		"867030": {
-			"cas": 4,
-			"casdiff": 0,
+			"blocks": 34,
+			"cas": 2,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sport Spawning Zlatlan",
+			"pass": 0,
+			"prespp": 224,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 8,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 121
 		},
 		"874317": {
+			"blocks": 35,
 			"cas": 4,
-			"casdiff": 0,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Misty Isle Gators",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 179,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 29,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 162
 		}
 	}
 }

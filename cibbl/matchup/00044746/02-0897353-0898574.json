@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3979194",
-	"player_performance": {
+	"player": {
 		"897353": {
 			"12121959": {
 				"name": "Nis Atman",
@@ -10,77 +9,77 @@
 				"type": "R"
 			},
 			"12121960": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sssues Ej",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12121961": {
 				"name": "Enum Ers",
 				"prespp": 8,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12121967": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Matar Ash",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121968": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Sernozem Ra",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121969": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Mare Oz",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121971": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Ummilu Imma",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12121974": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Pix Vamox",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12121975": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tush Banuk",
 				"prespp": 4,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12139096": {
 				"name": "Mos Passat",
 				"prespp": 17,
-				"rus": 24,
+				"rush": 24,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12139099": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Blu Ash",
 				"prespp": 8,
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12164655": {
@@ -88,117 +87,117 @@
 				"type": "R"
 			},
 			"12165569": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Adenes Fujo",
 				"prespp": 3,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12205123": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Szell Adett",
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12226003": {
 				"name": "Salla Sellel",
-				"rus": 2,
-				"tur": 4,
+				"rush": 2,
+				"turns": 4,
 				"type": "R"
 			},
-			"897353S1": {
-				"blk": 11,
+			"STAR-7565": {
+				"blocks": 11,
 				"name": "Big Gregg",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		},
 		"898574": {
 			"12140311": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Hemlock Wyatt",
 				"prespp": 6,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12140313": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Arsenic William",
 				"prespp": 9,
 				"spp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12140318": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Dimefox Winston",
 				"prespp": 20,
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140321": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Hydrazine Wendall",
 				"prespp": 12,
-				"rus": 5,
-				"tur": 12,
+				"rush": 5,
+				"turns": 12,
 				"type": "R"
 			},
 			"12140327": {
 				"name": "Lactonitrile Bernice",
 				"prespp": 8,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12140330": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lindane Salvatore",
 				"prespp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12140331": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Malononitrile Sebastian",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12140364": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Methomyl Samuel",
 				"prespp": 4,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12140428": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Phenol Sinclair",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12140430": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Piperidine Scarlett",
 				"prespp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12146724": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Anchorman",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12165388": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					1,
@@ -206,45 +205,64 @@
 					"12139099"
 				],
 				"name": "Vuduin Nighteyes",
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"12180127": {
 				"name": "Botulinum Bo",
 				"prespp": 3,
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1056484",
-	"team_performance": {
+	"team": {
 		"897353": {
+			"blocks": 54,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Court of Shu",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 66,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 26,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 167
 		},
 		"898574": {
+			"blocks": 32,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Revenge Street Reapers",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 70,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 13,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 156
 		}
 	}
 }

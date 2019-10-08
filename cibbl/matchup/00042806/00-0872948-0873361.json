@@ -1,40 +1,39 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3893923",
-	"player_performance": {
+	"player": {
 		"872948": {
 			"11731116": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Tien Embertail",
-				"pas": 2,
-				"rus": 5,
+				"pass": 2,
+				"rush": 5,
 				"spp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11731117": {
 				"mvp": 1,
 				"name": "Khitzuk Darkblade",
 				"spp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11731118": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Struk Flamefinger",
-				"rus": 20,
-				"tur": 12,
+				"rush": 20,
+				"turns": 12,
 				"type": "R"
 			},
 			"11731119": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Qhrit Ashenclaw",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11731120": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					1,
 					5,
@@ -42,22 +41,23 @@
 					"11737248"
 				],
 				"name": "Qrach Flamecleaver",
-				"tur": 4,
+				"retired": null,
+				"turns": 4,
 				"type": "R"
 			},
 			"11731121": {
 				"name": "Stiek Ashjaw",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11731122": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Qrut Emberchaser",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11731123": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					1,
@@ -65,23 +65,24 @@
 					"11737245"
 				],
 				"name": "Zhonq Deathflare",
-				"tur": 5,
+				"retired": null,
+				"turns": 5,
 				"type": "R"
 			},
 			"11731124": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Krek Ashjaw",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11731125": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Zian Cindergaze",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11731127": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					1,
 					8,
@@ -89,121 +90,140 @@
 					"11737245"
 				],
 				"name": "Firefang",
-				"tur": 7,
+				"retired": null,
+				"turns": 7,
 				"type": "R"
 			}
 		},
 		"873361": {
 			"11737245": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Zhorthix Swiftfoot",
 				"prespp": 5,
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737247": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Vultruc Ambergrip",
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737248": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"name": "Nirghux Stormpaw",
-				"rus": 14,
+				"rush": 14,
 				"spp": 7,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737249": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Zheghoc Ironcrest",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737258": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dekar Girkrar",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737259": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Naulez Mangox",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 2,
-				"rus": 28,
+				"rush": 28,
 				"spp": 4,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11737260": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Tenex Ghicrak",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737261": {
 				"name": "Ghugug",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737262": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nektac",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737263": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Daugdhag",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737264": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Khalac",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "958137",
-	"team_performance": {
+	"team": {
 		"872948": {
+			"blocks": 29,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Volkn Firetails",
+			"pass": 2,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 25,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 95
 		},
 		"873361": {
+			"blocks": 42,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Blood-Ground Blackhorns",
+			"pass": 1,
+			"prespp": 12,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 48,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 171
 		}
 	}
 }

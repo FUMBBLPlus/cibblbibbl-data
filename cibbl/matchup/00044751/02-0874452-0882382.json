@@ -1,188 +1,186 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3977752",
-	"player_performance": {
+	"player": {
 		"874452": {
 			"11756582": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Draco Dracovich",
 				"prespp": 98,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11756629": {
-				"blk": 7,
-				"cps": 1,
+				"blocks": 7,
+				"comp": 1,
 				"name": "Igor Igorivich",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 85,
-				"rus": 22,
+				"rush": 22,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756687": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Karl",
 				"prespp": 4,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11756689": {
 				"name": "Franz",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11869690": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Vlad Vladovich",
 				"prespp": 55,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11926830": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Reinhart von Teufeldorf",
 				"prespp": 37,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11978034": {
 				"name": "Fritz",
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11980258": {
 				"name": "Tabbart",
 				"prespp": 8,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11981974": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "Arnold",
 				"prespp": 8,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12066347": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gregoiriana Gregorivich",
 				"prespp": 15,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12150966": {
 				"name": "Sigfrid",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12150969": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Brunhilde",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12178898": {
 				"name": "Conrad",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12217733": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Luther von Totburg",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12217734": {
 				"name": "Valdemar",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
 		"882382": {
 			"11881468": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Dezouk",
 				"prespp": 13,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11881470": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Gazeem",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11881482": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Jafar",
 				"prespp": 10,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11881490": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Shan Yu",
 				"prespp": 9,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11881491": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Gothel",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 31,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11881492": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Te Ka",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11942620": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ka Viku",
 				"prespp": 52,
-				"rus": 15,
-				"tur": 16,
+				"rush": 15,
+				"turns": 16,
 				"type": "R"
 			},
 			"11942621": {
 				"name": "Balkaza",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11942628": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Scroop",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11961337": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"dead": [
 					1,
@@ -192,22 +190,23 @@
 				],
 				"name": "Alli Baba",
 				"prespp": 6,
+				"retired": true,
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11977896": {
 				"name": "Gin Phur",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12138861": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Gaudi",
 				"prespp": 8,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "I"
 			},
 			"12138876": {
@@ -215,46 +214,64 @@
 				"type": "R"
 			},
 			"12146458": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mo-mo",
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
-			"882382S1": {
-				"blk": 2,
+			"STAR-7548": {
+				"blocks": 2,
 				"name": "Hack Enslash",
-				"tur": 4,
+				"turns": 4,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1054852",
-	"team_performance": {
+	"team": {
 		"874452": {
+			"blocks": 39,
 			"cas": 2,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
-			"prestige": 3,
+			"pass": 6,
+			"prespp": 312,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 35,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 143
 		},
 		"882382": {
-			"cas": 2,
-			"casdiff": 0,
+			"blocks": 39,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ali's Anarchists",
+			"pass": 6,
+			"prespp": 158,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 163
 		}
 	}
 }

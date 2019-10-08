@@ -1,23 +1,22 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3982436",
-	"player_performance": {
+	"player": {
 		"867030": {
 			"11633486": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Sokitoomi",
 				"prespp": 44,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"11633494": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Grymlog",
 				"prespp": 33,
-				"tur": 14,
+				"turns": 14,
 				"type": "B"
 			},
 			"11633500": {
@@ -26,11 +25,11 @@
 				"type": "R"
 			},
 			"11633506": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Xlanaxlot",
 				"prespp": 11,
-				"rus": 2,
-				"tur": 10,
+				"rush": 2,
+				"turns": 10,
 				"type": "R"
 			},
 			"11633507": {
@@ -42,14 +41,15 @@
 				],
 				"name": "Xapati",
 				"prespp": 28,
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
 			"11633509": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zwup",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11633512": {
@@ -60,203 +60,222 @@
 					"11938003"
 				],
 				"name": "Huamundi",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 38,
-				"rus": 5,
-				"tur": 9,
+				"retired": true,
+				"rush": 5,
+				"turns": 9,
 				"type": "R"
 			},
 			"11929270": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Dro'ka'khanxlot",
 				"prespp": 56,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"11938976": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ximnizec",
 				"prespp": 10,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12048616": {
 				"name": "Chuqbolt",
 				"prespp": 8,
-				"rus": 3,
-				"tur": 5,
+				"rush": 3,
+				"turns": 5,
 				"type": "R"
 			},
 			"12087622": {
 				"name": "Xili-Sotek",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12087623": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Xla-Tepok",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12228718": {
-				"blk": 11,
+				"blocks": 11,
 				"mvp": 1,
 				"name": "Gor-Rok",
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
-			"867030S1": {
-				"blk": 1,
+			"STAR-7668": {
+				"blocks": 1,
 				"name": "Diegi Maratona",
-				"rus": 2,
-				"tur": 8,
+				"rush": 2,
+				"turns": 8,
 				"type": "S"
 			}
 		},
 		"886002": {
 			"11938003": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Caphalor Darkstar",
 				"prespp": 27,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11938007": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Sinthoras Bloodflame",
 				"prespp": 47,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11938008": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Molostroi Demonheart",
 				"prespp": 20,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11938010": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Malaguth Blackmoon",
 				"prespp": 35,
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11938039": {
-				"cps": 3,
+				"comp": 3,
 				"name": "Cargavel Stormcrow",
-				"pas": 9,
+				"pass": 9,
 				"prespp": 60,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11938045": {
 				"name": "Cirgil Elvenslaver",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11938051": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Valyr Dragonrider",
 				"prespp": 14,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"11938060": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Telok Beastslayer",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12060967": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Nurcuc Ravenclaw",
-				"pas": 7,
+				"pass": 7,
 				"prespp": 6,
-				"rus": 5,
+				"rush": 5,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12077340": {
 				"name": "Nazuc Nightraider",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12125346": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Raheel Swiftdeath",
 				"prespp": 19,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12154913": {
 				"name": "Micath Ghosthunter",
 				"prespp": 13,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12188144": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sheila Coldeyes",
 				"prespp": 3,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1060163",
-	"team_performance": {
+	"team": {
 		"867030": {
+			"blocks": 38,
 			"cas": 2,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sport Spawning Zlatlan",
+			"pass": 1,
+			"prespp": 255,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 22,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 141
 		},
 		"886002": {
+			"blocks": 35,
 			"cas": 5,
 			"casdiff": 3,
+			"comp": 4,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom Glade Demons",
-			"prestige": 3,
+			"pass": 16,
+			"prespp": 253,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 27,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 160
 		}
 	}
 }

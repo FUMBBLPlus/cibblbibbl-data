@@ -1,96 +1,95 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3934598",
-	"player_performance": {
+	"player": {
 		"882382": {
 			"11881468": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Dezouk",
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11881470": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Gazeem",
 				"prespp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11881471": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Gaudi",
 				"prespp": 7,
-				"rus": 27,
+				"rush": 27,
 				"spp": 8,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"11881474": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Halzoun",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11881482": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Jafar",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11881490": {
-				"blk": 2,
-				"fou": 9,
+				"blocks": 2,
+				"fouls": 9,
 				"name": "Shan Yu",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11881491": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Gothel",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11881492": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Te Ka",
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11942620": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Ka Viku",
 				"prespp": 11,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11942621": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Balkaza",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11942628": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Scroop",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11961337": {
 				"name": "Alli Baba",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11977896": {
@@ -98,75 +97,74 @@
 				"type": "R"
 			},
 			"11978228": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Oogie Boogie",
-				"tur": 17,
+				"turns": 17,
 				"type": "I"
 			}
 		},
 		"887763": {
 			"11964981": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Deinonychus",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11964995": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Lambeosaurus",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11965000": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Gallimimus",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11965001": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gideonmentellia",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11965003": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Aahotepre",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11965004": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Amenemhat",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11965005": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Amasis",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11965006": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hornakht",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11965007": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Hotepsekhemwy",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11965008": {
@@ -184,50 +182,69 @@
 					"11881491"
 				],
 				"name": "Lysandra",
+				"retired": null,
 				"type": "R"
 			},
 			"11976933": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Jinfengopteryx",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
-			"887763S1": {
-				"blk": 1,
+			"STAR-7556": {
+				"blocks": 1,
 				"name": "Humerus Carpal",
-				"rus": 26,
+				"rush": 26,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1005207",
-	"team_performance": {
+	"team": {
 		"882382": {
-			"cas": 4,
-			"casdiff": 2,
+			"blocks": 49,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 9,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ali's Anarchists",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 46,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 27,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 176
 		},
 		"887763": {
+			"blocks": 50,
 			"cas": 2,
-			"casdiff": -2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Extinction Event",
+			"pass": 0,
+			"prespp": 23,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 26,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 135
 		}
 	}
 }

@@ -1,60 +1,59 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3840950",
-	"player_performance": {
+	"player": {
 		"854507": {
 			"11439074": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "M'zart, the Unbound Flame",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11439075": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Eltrith, the Silent",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439076": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Maximilian Windhelm, the Fallen",
-				"rus": 5,
+				"rush": 5,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439078": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Emminoth",
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439079": {
-				"blk": 2,
+				"blocks": 2,
 				"int": 1,
 				"name": "Turakal",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11439080": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Vol'arth the Brazen",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 5,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439087": {
 				"name": "Zathogghua",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11439088": {
@@ -62,12 +61,12 @@
 				"type": "R"
 			},
 			"11439090": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Do Galaad, the Herald",
-				"pas": -1,
+				"pass": -1,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439091": {
@@ -80,121 +79,138 @@
 			},
 			"11448291": {
 				"name": "Sean Hardbone",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			}
 		},
 		"854678": {
 			"11439615": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Nightlord Throiskikkcin",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11439616": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nightlord Kratskittar",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11439618": {
 				"name": "Nightmaster Gnawnagar",
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"11439620": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nightmaster Nurgrin",
-				"rus": 11,
-				"tur": 16,
+				"rush": 11,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439622": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nightmaster Arrdrak",
-				"rus": 16,
+				"rush": 16,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439623": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Crittskik the Green",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439624": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Grisnik the Blacktail",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439625": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sneeneth the Awful",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439626": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Paskskabak the Padfoot",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439627": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Burhakk the Ghost",
 				"type": "R"
 			},
 			"11439628": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sneekis the Dragon",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11439629": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Vasquee the Greywhisker",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "897109",
-	"team_performance": {
+	"team": {
 		"854507": {
+			"blocks": 37,
 			"cas": 1,
-			"casdiff": -2,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 1,
+			"mvp": 1,
 			"name": "Coven of the Mirrored Hall",
+			"pass": 0,
+			"prespp": 7,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 12,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 128
 		},
 		"854678": {
-			"cas": 3,
-			"casdiff": 2,
+			"blocks": 41,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lords of the Silent Death",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 40,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 153
 		}
 	}
 }

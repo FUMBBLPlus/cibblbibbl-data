@@ -1,147 +1,145 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3967813",
-	"player_performance": {
+	"player": {
 		"895870": {
 			"12097319": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nurg",
 				"prespp": 24,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12097320": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Durskik",
 				"prespp": 20,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12097321": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Kratassik",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 6,
-				"rus": 9,
+				"rush": 9,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12097322": {
 				"name": "Azhrik",
 				"prespp": 16,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12097323": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Rassner",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12097324": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Gazdrak",
-				"retired": true,
 				"spp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12097325": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Griskabakk",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12097326": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Arrt",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12097327": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Rhattdwelk",
-				"pas": 2,
-				"rus": 3,
+				"pass": 2,
+				"rush": 3,
 				"spp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12097328": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Haskzell",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12097329": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Skleetaz",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12113768": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Prinkeez",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"895929": {
 			"12098256": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Windfury",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098257": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Clawchest",
 				"prespp": 8,
-				"rus": 5,
+				"rush": 5,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098258": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Silverscar",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Silverstriker",
 				"prespp": 12,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12098289": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Crowripper",
 				"prespp": 2,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098290": {
@@ -154,73 +152,89 @@
 				"type": "R"
 			},
 			"12098296": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Cragclaw",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098297": {
 				"name": "Duskdigger",
 				"prespp": 4,
-				"rus": 27,
-				"tur": 16,
+				"rush": 27,
+				"turns": 16,
 				"type": "R"
 			},
 			"12136367": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Fangsnapper Jr",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12166472": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Fangsnapper Jr Jr",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12166473": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "David Weakorc",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			},
 			"12166474": {
 				"name": "William Darkshield",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1043386",
-	"team_performance": {
+	"team": {
 		"895870": {
+			"blocks": 35,
 			"cas": 1,
-			"casdiff": -2,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mordkin Headtakers",
+			"pass": 5,
+			"prespp": 77,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 26,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 133
 		},
 		"895929": {
-			"cas": 3,
-			"casdiff": 2,
+			"blocks": 45,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 45,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 45,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 149
 		}
 	}
 }

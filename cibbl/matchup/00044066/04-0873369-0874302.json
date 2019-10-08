@@ -1,114 +1,113 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3951563",
-	"player_performance": {
+	"player": {
 		"873369": {
 			"11737365": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Trikhuf",
 				"prespp": 22,
-				"rus": 4,
-				"tur": 11,
+				"rush": 4,
+				"turns": 11,
 				"type": "R"
 			},
 			"11737432": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Fulmayne Thrice-Crowned",
 				"prespp": 37,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11737433": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Breyyar Scoredrinker",
 				"prespp": 23,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11737434": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Stoneflagon Rhuheigh",
 				"prespp": 35,
-				"rus": 10,
-				"tur": 17,
+				"rush": 10,
+				"turns": 17,
 				"type": "R"
 			},
 			"11765170": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Brewmaster Huhroarr",
 				"prespp": 29,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11859881": {
 				"name": "Heighar",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11859894": {
 				"name": "Wytehide",
 				"prespp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11902855": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "R'hoghn Hollowhorn",
 				"prespp": 22,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11992892": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Gild-eye Ghorush",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12073546": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lowbray the Wild",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12073560": {
 				"name": "George Viletree",
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			}
 		},
 		"874302": {
 			"11754121": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Castelnuovo Rangone",
 				"prespp": 21,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754124": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Maranello",
 				"prespp": 9,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11754141": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "San Cesario sul Panaro",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754142": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sassuolo",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754144": {
@@ -119,88 +118,105 @@
 			"11754146": {
 				"name": "Spilamberto",
 				"prespp": 46,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11783522": {
 				"name": "Modena",
 				"prespp": 25,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11895172": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Castelvetro II",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11937470": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Fiorano II",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11967732": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Formigine III",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12062178": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Castelfranco Emilia II",
 				"prespp": 2,
 				"spp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12072907": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Trey Weakwing",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			},
-			"874302S1": {
-				"blk": 7,
+			"STAR-7565": {
+				"blocks": 7,
 				"name": "Mighty Zug",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1024870",
-	"team_performance": {
+	"team": {
 		"873369": {
+			"blocks": 30,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Schattenwald Drinking Horns",
+			"pass": 0,
+			"prespp": 178,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 160
 		},
 		"874302": {
+			"blocks": 51,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grasparossa B.B.C",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 137,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 16,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 164
 		}
 	}
 }

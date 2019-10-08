@@ -1,216 +1,233 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3895539",
-	"player_performance": {
+	"player": {
 		"859111": {
 			"11512661": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Asura",
 				"prespp": 11,
-				"rus": 5,
+				"rush": 5,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512662": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gandharva",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512667": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Yaksha",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512668": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Rakshasa",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512672": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sun Eater",
 				"prespp": 25,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11512674": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Markata",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512677": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Bandar",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11515143": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ulric Weakhammer",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11594138": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Guru",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 13,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"11630133": {
-				"blk": 1,
-				"cps": 2,
+				"blocks": 1,
+				"comp": 2,
 				"name": "Ka",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 6,
-				"rus": 7,
+				"rush": 7,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11710872": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mountain Lifter",
 				"prespp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		},
 		"871172": {
 			"11698445": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Jerek von Carstein",
 				"prespp": 11,
-				"rus": 31,
+				"rush": 31,
 				"spp": 14,
-				"tds": 3,
-				"tur": 16,
+				"td": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"11698446": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Elize von Carstein",
 				"prespp": 18,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11698447": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Pieter von Carstein",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11698448": {
-				"blk": 7,
-				"cps": 2,
+				"blocks": 7,
+				"comp": 2,
 				"int": 1,
 				"name": "Markos von Carstein",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 28,
-				"rus": 25,
+				"rush": 25,
 				"spp": 7,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11698449": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hans Schäfer",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11698451": {
 				"name": "Johan Schulz",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11698453": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Fritz Schneider",
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11698473": {
 				"name": "Frank Fischer",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11698474": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Schatten aus der Toten",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11704837": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gerhart Müller",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11720718": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Olav Schmidt",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11729846": {
 				"name": "Karl Weber",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "959999",
-	"team_performance": {
+	"team": {
 		"859111": {
+			"blocks": 43,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Dandaka Devas",
+			"pass": 3,
+			"prespp": 108,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 18,
 			"score": 0,
 			"scorediff": -4,
-			"tds": 0,
-			"tdsdiff": -4
+			"td": 0,
+			"tddiff": -4,
+			"turns": 160
 		},
 		"871172": {
+			"blocks": 47,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 1,
+			"mvp": 1,
 			"name": "Nachthafen Nightlords",
+			"pass": 3,
+			"prespp": 95,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 56,
 			"score": 4,
 			"scorediff": 4,
-			"tds": 4,
-			"tdsdiff": 4
+			"td": 4,
+			"tddiff": 4,
+			"turns": 160
 		}
 	}
 }

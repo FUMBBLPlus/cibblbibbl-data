@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4061426",
-	"player_performance": {
+	"player": {
 		"896134": {
 			"12101571": {
 				"name": "Krakshot Neek",
@@ -10,41 +9,41 @@
 				"type": "R"
 			},
 			"12101577": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Snub-tail",
 				"prespp": 23,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12101587": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Reeknose",
 				"prespp": 11,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12125540": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Rabid Rocket",
 				"prespp": 65,
-				"tur": 4,
+				"turns": 4,
 				"type": "B"
 			},
 			"12135507": {
-				"blk": 2,
-				"cps": 3,
+				"blocks": 2,
+				"comp": 3,
 				"name": "Flitty Spleent",
-				"pas": 16,
+				"pass": 16,
 				"prespp": 78,
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12299553": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Rikkik",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12338282": {
@@ -53,47 +52,47 @@
 				"type": "R"
 			},
 			"12406982": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Itch-yitch",
 				"prespp": 35,
-				"rus": 13,
+				"rush": 13,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12462493": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Pestilent Yerk",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12489638": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "The Iron Rat",
 				"prespp": 14,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12528041": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "\"Mark Three\"",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12528043": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Noxxus Blyte",
 				"prespp": 8,
 				"spp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12561659": {
 				"name": "Lyk-spit",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12602506": {
@@ -101,71 +100,71 @@
 				"type": "R"
 			},
 			"12602507": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vermlikk",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"897379": {
 			"12122311": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"name": "Gotrek Gurnisson",
 				"prespp": 44,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122312": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Snorri Nosebiter",
 				"prespp": 36,
-				"rus": 11,
+				"rush": 11,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122318": {
 				"name": "Cpt. Long Drong",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 67,
-				"rus": 25,
-				"tur": 16,
+				"rush": 25,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122319": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "First Mate Morgrim Dallinsson",
 				"prespp": 67,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122320": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Finn Hargrimsson",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122326": {
-				"blk": 8,
-				"fou": 1,
+				"blocks": 8,
+				"fouls": 1,
 				"name": "Belegar Baliksnev",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122332": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vragni Rorekfind",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12182659": {
@@ -174,60 +173,78 @@
 				"type": "R"
 			},
 			"12543798": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Bjorni Bjornisson",
 				"prespp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12655965": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Grunni Ranulfsson",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12656004": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Malakai Makaisson",
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12670428": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Flakki Kettrisson",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1151895",
-	"team_performance": {
+	"team": {
 		"896134": {
+			"blocks": 31,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 3,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rotfall Ironworks Rocketeers",
-			"prestige": 1,
+			"pass": 16,
+			"prespp": 330,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 14,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 132
 		},
 		"897379": {
+			"blocks": 47,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Karak Kadrin Slayers",
-			"prestige": 1,
+			"pass": 2,
+			"prespp": 310,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 49,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 165
 		}
 	}
 }

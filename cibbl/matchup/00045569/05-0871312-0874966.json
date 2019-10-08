@@ -1,54 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4021090",
-	"player_performance": {
+	"player": {
 		"871312": {
 			"11700284": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Count Igor",
 				"prespp": 84,
-				"rus": 4,
-				"tur": 12,
+				"rush": 4,
+				"turns": 12,
 				"type": "R"
 			},
 			"11700285": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Count Jurij",
 				"prespp": 62,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11812909": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Count Yaroslav",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 121,
-				"rus": 13,
-				"tur": 15,
+				"rush": 13,
+				"turns": 15,
 				"type": "R"
 			},
 			"11936975": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ladislao Celano",
 				"prespp": 13,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12066122": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Servant Volodomyr",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12219185": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Servant Markos",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12239687": {
@@ -56,156 +55,154 @@
 				"type": "R"
 			},
 			"12261685": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 2,
 				"name": "Osiris",
 				"prespp": 33,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12261744": {
 				"name": "Raondir Goldchin",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12294148": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Anubis II.",
 				"prespp": 20,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12348193": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Servant Mirolsav",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12371479": {
 				"name": "Count Ludovig III.",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 7,
-				"rus": -1,
-				"tur": 6,
+				"rush": -1,
+				"turns": 6,
 				"type": "R"
 			},
 			"12371480": {
 				"name": "Servant Ondrej",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
-			},
-			"12426851R1": {
-				"name": "Galdarin",
-				"type": "D"
 			},
 			"12456867": {
 				"name": "Servant Iwan II.",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
-			"871312S1": {
-				"blk": 1,
-				"fou": 1,
+			"RAISED-7385_12426851_12465599": {
+				"name": "Galdarin",
+				"type": "D"
+			},
+			"STAR-7548": {
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Hack Enslash",
-				"tur": 4,
+				"turns": 4,
 				"type": "S"
 			}
 		},
 		"874966": {
 			"11764899": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Benethor",
 				"prespp": 41,
-				"rus": 8,
-				"tur": 15,
+				"rush": 8,
+				"turns": 15,
 				"type": "R"
 			},
 			"11764917": {
 				"name": "Thuralin",
 				"prespp": 18,
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11764921": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Morlanna",
 				"prespp": 77,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11836559": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Vanhir",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 101,
-				"rus": 1,
+				"rush": 1,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11938500": {
 				"name": "Mereia",
 				"prespp": 31,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11967724": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Hauclir",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 37,
-				"rus": 7,
+				"rush": 7,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12052561": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Mereia",
 				"prespp": 22,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12072196": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Jokleel",
 				"prespp": 17,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12231028": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Nimrodel",
 				"prespp": 19,
 				"spp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12289349": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Caoran",
 				"prespp": 8,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12351587": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Beldroth Boombark",
 				"prespp": 11,
-				"tur": 9,
+				"turns": 9,
 				"type": "B"
 			},
 			"12426851": {
@@ -215,49 +212,68 @@
 					"blocked",
 					"12261685"
 				],
-				"fou": 1,
+				"fouls": 1,
 				"name": "Galdarin",
 				"prespp": 1,
-				"tur": 4,
+				"retired": true,
+				"turns": 4,
 				"type": "R"
 			},
 			"12462256": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Isilvar",
-				"pas": 2,
-				"rus": -1,
+				"pass": 2,
+				"rush": -1,
 				"spp": 1,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1105683",
-	"team_performance": {
+	"team": {
 		"871312": {
-			"cas": 3,
+			"blocks": 25,
+			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tower of the Necromancer",
+			"pass": 2,
+			"prespp": 342,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 151
 		},
 		"874966": {
-			"cas": 4,
+			"blocks": 38,
+			"cas": 3,
 			"casdiff": 1,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
-			"prestige": 3,
+			"pass": 4,
+			"prespp": 383,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 23,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 146
 		}
 	}
 }

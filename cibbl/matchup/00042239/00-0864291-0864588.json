@@ -1,29 +1,28 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3869090",
-	"player_performance": {
+	"player": {
 		"864291": {
 			"11590768": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "S. Sang",
 				"prespp": 4,
-				"rus": 15,
+				"rush": 15,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11590769": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "U. Gress",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11590770": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					2,
@@ -32,169 +31,187 @@
 				],
 				"name": "Natasha B.",
 				"prespp": 2,
-				"rus": 13,
+				"retired": true,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11590771": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Redivor",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11590772": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Redimor",
 				"prespp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11590773": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Chitemor",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11590774": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Stramor",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11590777": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Limortor",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11590778": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Dissepolor",
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11590780": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Affuquator",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11590781": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dichitemor",
 				"prespp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"864588": {
 			"11595377": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Black Bart",
 				"prespp": 4,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11595379": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Thunder",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11595380": {
 				"name": "Cannons",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11595383": {
 				"mvp": 1,
 				"name": "Silver Eye",
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11595384": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Crusty",
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11595385": {
 				"name": "Howler",
-				"retired": true,
 				"type": "R"
 			},
 			"11595386": {
 				"name": "Mad Eye",
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11595387": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Barnacle",
 				"prespp": 4,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11595388": {
 				"name": "Scar Face",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11595390": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "One-Eared",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 5,
-				"rus": 7,
+				"rush": 7,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11595391": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fishlips",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "929218",
-	"team_performance": {
+	"team": {
 		"864291": {
+			"blocks": 42,
 			"cas": 2,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Norscan Curse",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 18,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 28,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 158
 		},
 		"864588": {
+			"blocks": 11,
 			"cas": 0,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Blackmud Tridents",
-			"prestige": 1,
+			"pass": 3,
+			"prespp": 13,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 108
 		}
 	}
 }

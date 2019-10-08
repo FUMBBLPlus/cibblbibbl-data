@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3943630",
-	"player_performance": {
+	"player": {
 		"886002": {
 			"11938003": {
 				"name": "Caphalor Darkstar",
@@ -10,218 +9,234 @@
 				"type": "R"
 			},
 			"11938007": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Sinthoras Bloodflame",
 				"prespp": 11,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11938008": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Molostroi Demonheart",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938010": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Malaguth Blackmoon",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938030": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Nazuc Doomblade",
-				"pas": 1,
-				"retired": true,
-				"rus": 6,
+				"pass": 1,
+				"rush": 6,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11938039": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Cargavel Stormcrow",
-				"pas": 5,
+				"pass": 5,
 				"prespp": 10,
-				"rus": 10,
+				"rush": 10,
 				"spp": 6,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11938045": {
 				"name": "Cirgil Elvenslaver",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11938051": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Valyr Dragonrider",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 2,
-				"rus": 5,
+				"rush": 5,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938060": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Telok Beastslayer",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938068": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Moreth Ghosthunter",
 				"prespp": 3,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"11964772": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Shorna Coldeyes",
 				"prespp": 5,
-				"rus": 10,
+				"rush": 10,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12029106": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Harold Vilestream",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"889232": {
 			"11989945": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Chthonic Slade",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989946": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chthonic Cinnabar",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11989951": {
-				"blk": 14,
+				"blocks": 14,
 				"name": "Chthonic Pitchblende",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989952": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Chthonic Cobaltite",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989953": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Granite",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11989954": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Chthonic Jet",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11989958": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chthonic Gabbro",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11989962": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Magma Imp",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11989967": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sylph Wisp",
 				"prespp": 6,
-				"rus": 15,
-				"tur": 11,
+				"rush": 15,
+				"turns": 11,
 				"type": "R"
 			},
 			"11989973": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Naiad Nomia",
 				"prespp": 14,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989977": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Naiad Eretria",
 				"prespp": 4,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989980": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chthonic Kaolinite",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12003575": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Sylph Haze",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1015732",
-	"team_performance": {
+	"team": {
 		"886002": {
+			"blocks": 35,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 3,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom Glade Demons",
+			"pass": 5,
+			"prespp": 73,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 156
 		},
 		"889232": {
+			"blocks": 58,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lost Golems of Grungni",
+			"pass": 0,
+			"prespp": 31,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 15,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 141
 		}
 	}
 }

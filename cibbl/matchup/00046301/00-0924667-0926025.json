@@ -1,52 +1,51 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4042449",
-	"player_performance": {
+	"player": {
 		"924667": {
 			"12549871": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Karl-Heinz Von Broken",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12549872": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Izabella the Beautiful",
-				"rus": 20,
+				"rush": 20,
 				"spp": 8,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12549874": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Jorgan Schmerzhausen",
-				"rus": 11,
-				"tur": 16,
+				"rush": 11,
+				"turns": 16,
 				"type": "R"
 			},
 			"12549879": {
 				"name": "Anaton Lekowski",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12549880": {
 				"name": "Tristan Bergen",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12549881": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Regina Schoenmaker",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12549882": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Magnus Kaufling",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12549883": {
@@ -55,54 +54,54 @@
 			},
 			"12549884": {
 				"name": "Lubmila Gorbunov",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12549885": {
 				"name": "Richter Hergiger",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12549886": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Arnold Denkhmann",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12549887": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kirstin Kaunitzer",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			}
 		},
 		"926025": {
 			"12569521": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Snot Steiner",
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12569525": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Randy \"The Mucus Man\" Savage",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12569527": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Arnold Snotszenegger",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "B"
 			},
 			"12569686": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Lex Looger",
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12569687": {
@@ -110,109 +109,127 @@
 				"type": "R"
 			},
 			"12569688": {
-				"fou": 1,
+				"fouls": 1,
 				"int": 1,
 				"name": "Splop",
-				"rus": 5,
+				"rush": 5,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12569689": {
 				"name": "Sploop",
-				"pas": 1,
-				"rus": 10,
-				"tur": 11,
+				"pass": 1,
+				"rush": 10,
+				"turns": 11,
 				"type": "R"
 			},
 			"12569690": {
 				"name": "Skitter",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12569691": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Scatter",
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12569693": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Kicky",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12569695": {
 				"name": "Sticky",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12569696": {
 				"name": "Icky",
 				"prespp": 3,
-				"rus": 4,
+				"rush": 4,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12569702": {
 				"name": "Picky",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12571803": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Booger T",
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12571811": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Hock Hogan",
 				"spp": 9,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12571815": {
 				"name": "Flicky",
-				"rus": 5,
-				"tur": 12,
+				"rush": 5,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1130489",
-	"team_performance": {
+	"team": {
 		"924667": {
+			"blocks": 15,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Drakenhof Red Dukes",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 31,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 98
 		},
 		"926025": {
+			"blocks": 29,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 3,
+			"int": 1,
+			"mvp": 1,
 			"name": "Deadly Sinus Attack",
+			"pass": 1,
+			"prespp": 12,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 24,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 179
 		}
 	}
 }

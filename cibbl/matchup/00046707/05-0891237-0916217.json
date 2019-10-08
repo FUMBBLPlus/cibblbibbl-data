@@ -1,38 +1,37 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4070753",
-	"player_performance": {
+	"player": {
 		"891237": {
 			"12022005": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Swan Alphon",
 				"prespp": 40,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12022006": {
-				"blk": 2,
-				"cps": 2,
+				"blocks": 2,
+				"comp": 2,
 				"name": "Heni Hethurin",
-				"pas": 8,
+				"pass": 8,
 				"prespp": 85,
-				"rus": 8,
+				"rush": 8,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12022008": {
 				"name": "Tety Goweston",
 				"prespp": 24,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12022022": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mirilan Antegobon",
 				"prespp": 52,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12104982": {
@@ -43,59 +42,59 @@
 			"12229237": {
 				"name": "Coron Shottelodon",
 				"prespp": 60,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 5,
+				"td": 1,
+				"turns": 5,
 				"type": "R"
 			},
 			"12360754": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Melith Astenodon",
 				"prespp": 51,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12492950": {
-				"blk": 2,
-				"cps": 1,
-				"fou": 1,
+				"blocks": 2,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Minth Lippidon",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 15,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12513768": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Retho Tungsodon",
 				"prespp": 16,
-				"rus": -6,
-				"tur": 16,
+				"rush": -6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12521602": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Reto Heturin I",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12595516": {
 				"name": "Reino Donodon",
 				"prespp": 11,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12622257": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"dead": [
 					1,
@@ -105,55 +104,56 @@
 				],
 				"name": "Viol Quartzodon",
 				"prespp": 16,
+				"retired": null,
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			}
 		},
 		"916217": {
 			"12416220": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 2,
 				"name": "Bestgor \"The Vicious\"",
 				"prespp": 39,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416224": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Powergor \"The Relentless\"",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416226": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Mustgor \"The Decided\"",
 				"prespp": 32,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416228": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Fastgor \"The Lightning\"",
 				"prespp": 12,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12416229": {
 				"name": "Quickgor \"The Legged\"",
 				"prespp": 54,
-				"rus": 44,
+				"rush": 44,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416236": {
 				"name": "Brutegor \"The Doubtless\"",
 				"prespp": 11,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12416238": {
@@ -162,76 +162,94 @@
 				"type": "R"
 			},
 			"12426803": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Brogor \"The Violent\"",
 				"prespp": 30,
 				"spp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12520848": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gogor \"The Brutal\"",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12578865": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Fury the Meanotaur",
 				"prespp": 24,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12596091": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Tallgor Jr, Son of the Landscapist",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12609551": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Strongor Jr \"Papa Mourner\"",
 				"prespp": 20,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12687845": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Wrath Jr. the Vengefull Madnotaur",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			}
 		}
 	},
 	"replayId": "1162455",
-	"team_performance": {
+	"team": {
 		"891237": {
+			"blocks": 24,
 			"cas": 2,
-			"casdiff": -2,
+			"casdiff": -1,
+			"comp": 3,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Dukes of Earthquake Valley",
+			"pass": 9,
+			"prespp": 445,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 13,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 130
 		},
 		"916217": {
-			"cas": 4,
-			"casdiff": 2,
+			"blocks": 37,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cloven Clan",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 250,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 44,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 147
 		}
 	}
 }

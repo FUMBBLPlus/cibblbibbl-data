@@ -1,37 +1,36 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4024740",
-	"player_performance": {
+	"player": {
 		"903654": {
 			"12219671": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 3,
 				"name": "Itekuyet",
 				"prespp": 51,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12219673": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ahmose",
 				"prespp": 47,
-				"rus": 27,
+				"rush": 27,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12219676": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Senenmut",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 9,
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12219677": {
@@ -39,47 +38,47 @@
 				"type": "R"
 			},
 			"12219678": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Merenre",
 				"prespp": 33,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12219681": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Haremhab",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12219683": {
 				"name": "Intef",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12219684": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sihathor",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12227199": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kentetenka",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 30,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12318457": {
 				"name": "Setka",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12319538": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Re'hotpe",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12346893": {
@@ -87,157 +86,174 @@
 				"type": "R"
 			},
 			"12367633": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Masaharta",
 				"prespp": 19,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12443530": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nofret",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		},
 		"910344": {
 			"12323836": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Abel Sturm",
 				"prespp": 46,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12323837": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Draco Gore",
 				"prespp": 31,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12323839": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Marquis Agulliar",
 				"prespp": 26,
-				"rus": 10,
-				"tur": 17,
+				"rush": 10,
+				"turns": 17,
 				"type": "R"
 			},
 			"12323842": {
-				"blk": 1,
+				"blocks": 1,
 				"int": 1,
 				"name": "Melchior",
-				"rus": 2,
+				"rush": 2,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12323844": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Doru",
 				"prespp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12323845": {
 				"name": "Cassius",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12323847": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lucien",
 				"prespp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12325681": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Grazabire Lust'igor",
 				"prespp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12339037": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Damien Jr.",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12350186": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sever Cumfeorm",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12352367": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Cyprian Drake",
 				"prespp": 42,
 				"spp": 9,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12352368": {
 				"name": "Seskal",
 				"prespp": 2,
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12358967": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ascelin II",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12431641": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Janthuur",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12458539": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mauthis",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1109837",
-	"team_performance": {
+	"team": {
 		"903654": {
+			"blocks": 30,
 			"cas": 4,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Scions of Neferata",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 191,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 28,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 165
 		},
 		"910344": {
+			"blocks": 55,
 			"cas": 2,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 1,
+			"mvp": 1,
 			"name": "Vlad's Vampheroes",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 158,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 30,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 162
 		}
 	}
 }

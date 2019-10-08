@@ -1,40 +1,39 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4013674",
-	"player_performance": {
+	"player": {
 		"899682": {
 			"12158266": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ch'nn'r \"Big Boa\" Qll-Crvn",
 				"prespp": 19,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12158267": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "K'nn'th \"Strangler\" Ptnntcl",
 				"prespp": 19,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12158269": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ph'rn \"Quick Tail\" Vzz-Sttn",
 				"prespp": 35,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12158272": {
 				"name": "T'ng \"Lefty\" Clbrr",
 				"prespp": 10,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12158273": {
 				"name": "V'sn \"Midget\" Vprr",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12158279": {
@@ -42,36 +41,36 @@
 				"name": "Dtr'vssr \"Mamba\" Vrddfls",
 				"prespp": 8,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12191641": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "C'dm'qsz \"Focus\" Ntrll",
 				"prespp": 16,
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12240321": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "R'th's'k \"Whirly\" Mssrbr",
 				"prespp": 23,
-				"rus": 9,
+				"rush": 9,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12251011": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 3,
 				"name": "D'ssh-t \"Glowy\" Vprrdllcrrn",
 				"prespp": 16,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12282912": {
@@ -80,73 +79,73 @@
 				"type": "R"
 			},
 			"12320309": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "V'rr-nv'rry \"Sunny\" Ss'rpnt'r-gg'dd'ss-l",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12320310": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Prr'n \"Sparkly\" Clbrrdrrccl",
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12407802": {
 				"name": "M-nngk'tt \"Redskin\" N'tr'c-tssll't",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"905886": {
 			"12253779": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Charles Umpherston Aitchison",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "B"
 			},
 			"12253780": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Gyles Mackrell",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12253781": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Samuel White Baker",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12253782": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Basil Eddis",
 				"prespp": 21,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12253784": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Eldred Pottinger",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12253785": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "E. W. Middlemast",
 				"prespp": 20,
-				"tur": 3,
+				"turns": 3,
 				"type": "B"
 			},
 			"12254723": {
@@ -156,68 +155,85 @@
 					"blocked",
 					"12251011"
 				],
-				"fou": 1,
+				"fouls": 1,
 				"name": "Scrubbalick",
-				"rus": 3,
-				"tur": 6,
+				"retired": true,
+				"rush": 3,
+				"turns": 6,
 				"type": "R"
 			},
 			"12261642": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "William Cotton Oswell",
 				"prespp": 13,
-				"tur": 3,
+				"turns": 3,
 				"type": "B"
 			},
 			"12331221": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "John Laird Mair Lawrence",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12403929": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Leroy Paletree",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			},
 			"12403930": {
 				"name": "Vincent Clearfield",
-				"retired": true,
-				"rus": 3,
-				"tur": 11,
+				"rush": 3,
+				"turns": 11,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1097488",
-	"team_performance": {
+	"team": {
 		"899682": {
+			"blocks": 23,
 			"cas": 5,
 			"casdiff": 3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "K'r'shh Sl'ppr'ss",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 166,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 9,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 146
 		},
 		"905886": {
+			"blocks": 57,
 			"cas": 2,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sabre Mountain Rattlers",
+			"pass": 0,
+			"prespp": 127,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 6,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 120
 		}
 	}
 }

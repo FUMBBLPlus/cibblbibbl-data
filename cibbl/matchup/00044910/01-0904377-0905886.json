@@ -1,181 +1,198 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3984638",
-	"player_performance": {
+	"player": {
 		"904377": {
 			"12231317": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Ruby",
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231319": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Sapphire",
-				"rus": 2,
+				"rush": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231325": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Emerald",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231332": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Topaz",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231335": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Diamond",
-				"tur": 10,
+				"turns": 10,
 				"type": "B"
 			},
 			"12231336": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Aquamarine",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12231338": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Alexandrite",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231341": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Opal",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231342": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Spinel",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231343": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Obsidian",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231345": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Hematite",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"905886": {
 			"12253779": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Charles Umpherston Aitchison",
 				"spp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "B"
 			},
 			"12253780": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gyles Mackrell",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12253781": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Samuel White Baker",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12253782": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Basil Eddis",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12253784": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Eldred Pottinger",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12253785": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "E. W. Middlemast",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12254721": {
 				"name": "Grottleblagh",
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254722": {
 				"name": "Spitshine",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12254723": {
 				"name": "Scrubbalick",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254724": {
 				"name": "Wibblebit",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12254725": {
 				"name": "Flibbitygiblet",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1062794",
-	"team_performance": {
+	"team": {
 		"904377": {
+			"blocks": 53,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Aurons",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 5,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 166
 		},
 		"905886": {
+			"blocks": 34,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sabre Mountain Rattlers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 6,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 153
 		}
 	}
 }

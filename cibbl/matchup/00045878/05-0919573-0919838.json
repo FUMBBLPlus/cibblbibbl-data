@@ -1,144 +1,142 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4026983",
-	"player_performance": {
+	"player": {
 		"919573": {
 			"12469183": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Tornbull",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469184": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Blightbasher",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469185": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Warpserker",
 				"prespp": 8,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469186": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Toerot",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469191": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tech Toetacker",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12469192": {
 				"name": "Znukch Clothclaw",
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12469194": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Crenq Brightear",
-				"rus": -1,
-				"tur": 16,
+				"rush": -1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12469197": {
 				"name": "Zalk Weavepaw",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12469210": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Srotch Firebaster",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12496058": {
 				"name": "Skaq Shoepaw",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12499867": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Brian Vilespike",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			}
 		},
 		"919838": {
 			"12473300": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Scarloc",
-				"tur": 9,
+				"turns": 9,
 				"type": "B"
 			},
 			"12473305": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Hollow Silence",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12473308": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Widow Maker",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12473310": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Pledge of the World",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12473315": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Storm",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12473316": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Ballista",
-				"rus": 5,
-				"tur": 15,
+				"rush": 5,
+				"turns": 15,
 				"type": "R"
 			},
 			"12473317": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Umbra",
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12473318": {
 				"name": "Rustle",
 				"prespp": 20,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12473319": {
@@ -146,54 +144,72 @@
 				"type": "R"
 			},
 			"12473320": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Scratch",
 				"prespp": 2,
-				"rus": 2,
-				"tur": 9,
+				"rush": 2,
+				"turns": 9,
 				"type": "R"
 			},
 			"12473321": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Whisper",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12499878": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Xavier Blueeagle",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1112397",
-	"team_performance": {
+	"team": {
 		"919573": {
+			"blocks": 30,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ragtag Animal Training Sartors",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 49,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 154
 		},
 		"919838": {
+			"blocks": 36,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Wisdom of Athel Woods",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 25,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 14,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 140
 		}
 	}
 }

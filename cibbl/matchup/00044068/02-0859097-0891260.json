@@ -1,23 +1,22 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3947596",
-	"player_performance": {
+	"player": {
 		"859097": {
 			"11512471": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Ghaggar-Hakra",
 				"prespp": 53,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512476": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chola",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 56,
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512478": {
@@ -26,135 +25,134 @@
 				"type": "R"
 			},
 			"11512482": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Amu Darya",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512483": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Vima Taktu",
 				"prespp": 16,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11570395": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Devaraja",
 				"prespp": 22,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"11671350": {
 				"name": "Arun Jaitley",
 				"prespp": 8,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11844958": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Raja Raja Chola",
 				"prespp": 23,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11869549": {
-				"blk": 13,
+				"blocks": 13,
 				"mvp": 1,
 				"name": "Chhatrapati Shivaji",
 				"prespp": 17,
-				"rus": 8,
+				"rush": 8,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11978579": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lakshmi",
 				"prespp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12002820": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Kamal Nath",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12051124": {
 				"name": "Duane Hotsnake",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			}
 		},
 		"891260": {
 			"12023006": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Varman",
 				"prespp": 14,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12023007": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Surya",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12023008": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tambra",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12023009": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Linga",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12023010": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Svay",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12023011": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Kompong",
 				"prespp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12023012": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Harsha",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12023013": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Vapada",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12023014": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Dangrek",
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12023015": {
@@ -163,54 +161,71 @@
 				"type": "R"
 			},
 			"12053070": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Jobo",
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"12053080": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cory Strongsnake",
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "J"
 			},
-			"891260S1": {
-				"blk": 7,
+			"STAR-7587": {
+				"blocks": 7,
 				"cas": 1,
 				"name": "King Boombastic",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1020316",
-	"team_performance": {
+	"team": {
 		"859097": {
+			"blocks": 44,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bhubaneswar Rampage",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 230,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 24,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 136
 		},
 		"891260": {
+			"blocks": 52,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Library of Indra",
+			"pass": 0,
+			"prespp": 38,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 5,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 150
 		}
 	}
 }

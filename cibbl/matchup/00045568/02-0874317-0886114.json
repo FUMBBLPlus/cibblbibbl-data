@@ -1,11 +1,10 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4014157",
-	"player_performance": {
+	"player": {
 		"874317": {
 			"11754392": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					1,
@@ -14,161 +13,162 @@
 				],
 				"name": "Balor Evil-eye",
 				"prespp": 29,
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"11754410": {
-				"blk": 14,
+				"blocks": 14,
 				"name": "Odracon The Procreator",
 				"prespp": 67,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754412": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 3,
 				"name": "Cian",
 				"prespp": 32,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754414": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Lug",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11754417": {
 				"name": "Cethlenn",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11754418": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Tethra",
 				"prespp": 24,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11904321": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dilek",
 				"prespp": 58,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11966718": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "The Fog",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12047952": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Slough Feg",
 				"prespp": 41,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12126092": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hadiz",
 				"prespp": 18,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12239695": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Moloch the 3rd",
 				"prespp": 26,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12340697": {
 				"name": "Foulloch",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12400164": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Kurgan",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
-			"874317S1": {
-				"fou": 1,
+			"STAR-7561": {
+				"fouls": 1,
 				"name": "Lewdgrip Whiparm",
-				"rus": 2,
-				"tur": 9,
+				"rush": 2,
+				"turns": 9,
 				"type": "S"
 			}
 		},
 		"886114": {
 			"11939696": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Erato",
 				"prespp": 53,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11939705": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lydia",
 				"prespp": 61,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"11939715": {
-				"blk": 9,
-				"cps": 1,
+				"blocks": 9,
+				"comp": 1,
 				"name": "Aadhýa",
-				"pas": 5,
+				"pass": 5,
 				"prespp": 36,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11956884": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Elpida",
 				"prespp": 63,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12030024": {
 				"name": "Shinesa",
 				"prespp": 80,
-				"rus": 25,
+				"rush": 25,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12051225": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Silvestra Darklightning",
 				"prespp": 36,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12238327": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					4,
@@ -177,7 +177,8 @@
 				],
 				"name": "Ithline",
 				"prespp": 6,
-				"tur": 11,
+				"retired": true,
+				"turns": 11,
 				"type": "R"
 			},
 			"12279032": {
@@ -190,23 +191,22 @@
 			"12340701": {
 				"name": "Gaia",
 				"prespp": 1,
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12340801": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Ian Bluesnake",
 				"prespp": 17,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12357659": {
-				"blk": 5,
-				"cps": 1,
+				"blocks": 5,
+				"comp": 1,
 				"dead": [
 					2,
 					6,
@@ -214,44 +214,63 @@
 					null
 				],
 				"name": "Arapi",
-				"pas": -3,
+				"pass": -3,
 				"prespp": 8,
+				"retired": true,
 				"spp": 1,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12407022": {
 				"name": "Elesia",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1098018",
-	"team_performance": {
+	"team": {
 		"874317": {
+			"blocks": 51,
 			"cas": 6,
 			"casdiff": 5,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Misty Isle Gators",
+			"pass": 0,
+			"prespp": 306,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 2,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 147
 		},
 		"886114": {
+			"blocks": 40,
 			"cas": 1,
 			"casdiff": -5,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eye and Arrow",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 368,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 42,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 123
 		}
 	}
 }

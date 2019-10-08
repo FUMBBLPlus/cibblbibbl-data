@@ -1,169 +1,167 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4046968",
-	"player_performance": {
+	"player": {
 		"923094": {
 			"12524800": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Bered",
 				"prespp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "B"
 			},
 			"12524801": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Dylon",
 				"prespp": 9,
 				"spp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12524802": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Kaerio",
 				"prespp": 26,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12524803": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Laekces",
 				"prespp": 9,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12524804": {
 				"name": "Nereus",
 				"prespp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12524805": {
 				"name": "Dover",
 				"prespp": 22,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"12524806": {
 				"name": "Bay",
 				"prespp": 8,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12524807": {
 				"name": "Reif",
-				"rus": 7,
-				"tur": 8,
+				"rush": 7,
+				"turns": 8,
 				"type": "R"
 			},
 			"12524808": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Morcant",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12600217": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tristan Whiteeagle",
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			},
 			"12600218": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Paul Weaklightning",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			}
 		},
 		"924366": {
 			"12544595": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Dion Grimwater",
 				"prespp": 6,
-				"rus": 6,
+				"rush": 6,
 				"spp": 2,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12544596": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Cario Mastclimber",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544597": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Feredor Milegaze",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12544598": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Angelior Deathdealer",
 				"prespp": 2,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12544599": {
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Flior Fishmonger",
-				"pas": 5,
+				"pass": 5,
 				"prespp": 1,
 				"spp": 6,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12544600": {
-				"cps": 4,
+				"comp": 4,
 				"name": "Rozil Runningwater",
-				"pas": 18,
+				"pass": 18,
 				"prespp": 2,
-				"rus": 14,
+				"rush": 14,
 				"spp": 4,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12544601": {
 				"name": "Runar Silvercoral",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12544602": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Donna Darkwater",
 				"prespp": 3,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12544603": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Ruby Brightwave",
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12544606": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Maruel Moonwave",
 				"prespp": 6,
-				"rus": 17,
+				"rush": 17,
 				"spp": 6,
-				"tds": 2,
-				"tur": 18,
+				"td": 2,
+				"turns": 18,
 				"type": "R"
 			},
 			"12544607": {
@@ -172,40 +170,57 @@
 				"type": "R"
 			},
 			"12594148": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Harold Clearstream",
-				"retired": true,
-				"tur": 18,
+				"turns": 18,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1135620",
-	"team_performance": {
+	"team": {
 		"923094": {
+			"blocks": 28,
 			"cas": 1,
-			"casdiff": -2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rising Tsunami",
+			"pass": 0,
+			"prespp": 83,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 75
 		},
 		"924366": {
-			"cas": 3,
-			"casdiff": 2,
+			"blocks": 20,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 5,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cothique Wanderers",
-			"prestige": 3,
+			"pass": 23,
+			"prespp": 21,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 47,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 181
 		}
 	}
 }

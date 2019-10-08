@@ -1,41 +1,40 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3967451",
-	"player_performance": {
+	"player": {
 		"898504": {
 			"12139338": {
 				"name": "Artos",
 				"type": "B"
 			},
 			"12139340": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Deitrich Wulfkind",
 				"prespp": 11,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12139343": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Karl Eisenblut",
 				"prespp": 12,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12139357": {
 				"name": "Neldor Quickfoot",
 				"prespp": 7,
-				"rus": 4,
-				"tur": 5,
+				"rush": 4,
+				"turns": 5,
 				"type": "R"
 			},
 			"12139358": {
 				"name": "Thenan Sharpclaw",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12139360": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					1,
@@ -43,34 +42,35 @@
 					"12146724"
 				],
 				"name": "Vuduin Nighteyes",
+				"retired": null,
 				"type": "R"
 			},
 			"12139368": {
 				"name": "Rennyn Longtooth",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12139373": {
 				"name": "Kailu Dreadpaw",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12139374": {
 				"name": "Vartan Shadowstrike",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12139394": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Franz Stehlklau",
 				"prespp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12154028": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Otto Langzahn",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12154030": {
@@ -81,52 +81,49 @@
 					"12140430"
 				],
 				"name": "Paul Whiteorc",
-				"tur": 1,
+				"retired": null,
+				"turns": 1,
 				"type": "J"
 			}
 		},
 		"898574": {
-			"12139360R1": {
-				"name": "Vuduin Nighteyes",
-				"type": "D"
-			},
 			"12140311": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hemlock Wyatt",
 				"prespp": 1,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12140313": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Arsenic William",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12140318": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Dimefox Winston",
 				"prespp": 10,
 				"spp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12140321": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hydrazine Wendall",
 				"prespp": 7,
-				"rus": 1,
-				"tur": 5,
+				"rush": 1,
+				"turns": 5,
 				"type": "R"
 			},
 			"12140327": {
 				"name": "Lactonitrile Bernice",
 				"prespp": 8,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12140330": {
@@ -135,72 +132,94 @@
 				"type": "R"
 			},
 			"12140331": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Malononitrile Sebastian",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12140364": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Methomyl Samuel",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12140428": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Phenol Sinclair",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12140430": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Piperidine Scarlett",
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12140438": {
 				"name": "Terbufos Sonia",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12146724": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Anchorman",
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
+			},
+			"RAISED-7478_12139360_12165388": {
+				"name": "Vuduin Nighteyes",
+				"type": "D"
 			}
 		}
 	},
 	"replayId": "1042982",
-	"team_performance": {
+	"team": {
 		"898504": {
+			"blocks": 7,
 			"cas": 0,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 0,
 			"name": "[L] Ravensloft Ravers",
-			"prestige": -10,
+			"pass": 0,
+			"prespp": 35,
+			"prestige": 0,
 			"pts": 0,
-			"rsym": "C",
+			"r": "C",
+			"rush": 4,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": 0
+			"td": 0,
+			"tddiff": 0,
+			"turns": 40
 		},
 		"898574": {
-			"cas": 3,
-			"casdiff": 3,
+			"blocks": 20,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 2,
 			"name": "Revenge Street Reapers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 32,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 1,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 0,
-			"tdsdiff": 0
+			"td": 0,
+			"tddiff": 0,
+			"turns": 55
 		}
 	}
 }

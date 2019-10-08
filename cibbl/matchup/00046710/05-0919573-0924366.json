@@ -1,10 +1,10 @@
 {
 	"!excluded": "no",
 	"matchId": "4074904",
-	"player_performance": {
+	"player": {
 		"919573": {
 			"12469183": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"dead": [
 					2,
@@ -14,33 +14,34 @@
 				],
 				"name": "Tornbull",
 				"prespp": 32,
+				"retired": null,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "B"
 			},
 			"12469184": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Blightbasher",
 				"prespp": 36,
-				"tur": 11,
+				"turns": 11,
 				"type": "B"
 			},
 			"12469185": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Warpserker",
 				"prespp": 46,
-				"rus": 6,
+				"rush": 6,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "B"
 			},
 			"12469186": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Toerot",
 				"prespp": 34,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12469192": {
@@ -51,181 +52,199 @@
 			"12469194": {
 				"name": "Crenq Brightear",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12539782": {
 				"name": "Krulk Needlehand",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 32,
-				"rus": 12,
-				"tur": 15,
+				"rush": 12,
+				"turns": 15,
 				"type": "R"
 			},
 			"12585236": {
 				"name": "Znich Ashenhat",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12593383": {
 				"name": "Cret Blackshorts",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12602556": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Strik Shinyfur",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12602557": {
 				"name": "Trecnuach Tailring",
 				"prespp": 11,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12670287": {
 				"name": "Threlk Weavepaw",
 				"prespp": 3,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12677863": {
 				"name": "Qut Clothwrap",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"924366": {
 			"12544595": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dion Grimwater",
 				"prespp": 18,
-				"rus": 6,
-				"tur": 1,
+				"rush": 6,
+				"turns": 1,
 				"type": "R"
 			},
 			"12544596": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Cario Mastclimber",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12544597": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"fou": 2,
+				"fouls": 2,
 				"name": "Feredor Milegaze",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544598": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Angelior Deathdealer",
 				"prespp": 13,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544599": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Flior Fishmonger",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 16,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544600": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Rozil Runningwater",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 20,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544601": {
 				"name": "Runar Silvercoral",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12544602": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Donna Darkwater",
 				"prespp": 10,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12544606": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Maruel Moonwave",
 				"prespp": 22,
-				"rus": 4,
+				"rush": 4,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544607": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Sandy Silverpearl",
 				"prespp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12603149": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Warren Moonwave",
-				"pas": 5,
+				"pass": 5,
 				"prespp": 19,
-				"rus": 5,
+				"rush": 5,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
-			"924366S1": {
+			"STAR-7540": {
 				"name": "Eldril Sidewinder",
-				"tur": 11,
+				"turns": 11,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1167330",
-	"team_performance": {
+	"team": {
 		"919573": {
+			"blocks": 29,
 			"cas": 1,
-			"casdiff": -2,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ragtag Animal Training Sartors",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 220,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 36,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 159
 		},
 		"924366": {
-			"cas": 3,
-			"casdiff": 2,
+			"blocks": 26,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cothique Wanderers",
+			"pass": 7,
+			"prespp": 122,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 22,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 145
 		}
 	}
 }

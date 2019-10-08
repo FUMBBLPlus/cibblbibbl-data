@@ -1,34 +1,33 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4029625",
-	"player_performance": {
+	"player": {
 		"907959": {
 			"12285928": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Drachron Lewdshade",
 				"prespp": 35,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12285959": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Nemeliz Ssin",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 26,
-				"rus": 3,
+				"rush": 3,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12285960": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ez'lith Fervor",
 				"prespp": 8,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12285974": {
@@ -37,182 +36,198 @@
 				"type": "R"
 			},
 			"12285975": {
-				"cps": 3,
+				"comp": 3,
 				"name": "Rhiahirr Xcezz",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 31,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12340189": {
-				"blk": 5,
-				"cps": 1,
+				"blocks": 5,
+				"comp": 1,
 				"name": "Bhrutuz Kinslayer",
-				"pas": -2,
-				"rus": 2,
+				"pass": -2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12402099": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "'Rivet' Helloggs",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12431749": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ivorygor Onyx",
 				"prespp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12459439": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Buzz Bootlicker",
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12497457": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Lubrigor Salivia",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12497465": {
 				"name": "Martin Clumsyorc",
-				"retired": true,
 				"type": "J"
 			},
 			"12497466": {
 				"name": "Fredrick Deepfist",
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "J"
 			}
 		},
 		"909848": {
 			"12315757": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Lythk the Merciless",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12315759": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Fleshrender",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12315760": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Xu'eem, Fury Unleashed",
 				"prespp": 35,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12315761": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Kelriz the Unforgiving",
 				"prespp": 22,
-				"rus": 24,
+				"rush": 24,
 				"spp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12315762": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Spinebreaker",
 				"prespp": 15,
-				"rus": 8,
-				"tur": 15,
+				"rush": 8,
+				"turns": 15,
 				"type": "R"
 			},
 			"12315763": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Oxhaar the Breaker",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12315764": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Ar'anyq",
 				"prespp": 11,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12315782": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Crehyg the Maddening",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12424767": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Tailslasher the Unbroken",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12431645": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Rythaal the Malevolent",
-				"rus": 17,
+				"rush": 17,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12492739": {
 				"name": "Abraxasz",
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1115516",
-	"team_performance": {
+	"team": {
 		"907959": {
+			"blocks": 22,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 5,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "River Teufel Tricksters",
+			"pass": 4,
+			"prespp": 127,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 28,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 124
 		},
 		"909848": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 44,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Black Hearted Bloodseekers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 131,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 56,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 167
 		}
 	}
 }

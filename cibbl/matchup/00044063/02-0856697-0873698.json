@@ -1,91 +1,90 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3950737",
-	"player_performance": {
+	"player": {
 		"856697": {
 			"11472246": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Skulltaker",
 				"prespp": 34,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472250": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Arkh'gar",
 				"prespp": 47,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11472254": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"mvp": 1,
 				"name": "Tallomin",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472255": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Arvax the Mad",
 				"prespp": 44,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472256": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Scyrak",
 				"prespp": 10,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11472262": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Headsman of Cellebos",
 				"prespp": 26,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472270": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Drakkar",
 				"prespp": 48,
-				"rus": 23,
+				"rush": 23,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11658789": {
 				"name": "H'Stan",
 				"prespp": 12,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11730736": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Doomsday The Everliving",
 				"prespp": 38,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11809828": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Apocolypse",
 				"prespp": 15,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11905351": {
@@ -100,52 +99,53 @@
 					"12060850"
 				],
 				"name": "Grinner",
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"12029068": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Doom of Pajaro",
 				"prespp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12029069": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "K'Han",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		},
 		"873698": {
 			"11743258": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "MIstress of Lust",
 				"prespp": 62,
-				"rus": 15,
-				"tur": 15,
+				"rush": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11743260": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Kazgar Threelegs",
 				"prespp": 36,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11743263": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lecec Chickstalker",
 				"prespp": 31,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11743266": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Thirvelnosh Nightbinder",
 				"prespp": 12,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11743268": {
@@ -154,84 +154,99 @@
 				"type": "R"
 			},
 			"11904392": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Misstress of Pain",
 				"prespp": 22,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11967644": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Mokzook Thicktail",
 				"prespp": 8,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12031704": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mistress of Pleasure",
 				"prespp": 11,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12060846": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mistress of Agony",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12060848": {
 				"name": "George Dirtystone",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
 			"12060849": {
 				"name": "Vincent Bluesnake",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			},
 			"12060850": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Julius Hotbrook",
-				"retired": true,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1023957",
-	"team_performance": {
+	"team": {
 		"856697": {
+			"blocks": 37,
 			"cas": 4,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crimson Skull",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 290,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 37,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 160
 		},
 		"873698": {
+			"blocks": 32,
 			"cas": 2,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Pleasure Strings",
+			"pass": 0,
+			"prespp": 204,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 15,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 113
 		}
 	}
 }

@@ -1,101 +1,100 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3982363",
-	"player_performance": {
+	"player": {
 		"854507": {
 			"11439080": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vol'arth the Brazen",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 77,
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439090": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Do Galaad, the Herald",
 				"prespp": 95,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11681756": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Neron",
 				"prespp": 35,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11807607": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Palehawk, the Revenant",
 				"prespp": 23,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11851618": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Marius, the Forgiven",
 				"prespp": 23,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11926823": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Berethan, the Soulless",
 				"prespp": 18,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11973355": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Nyerahd, the Cunning",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 22,
-				"rus": 12,
+				"rush": 12,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12055102": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Hagar-Ryon",
 				"prespp": 16,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12072566": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Ubbo-Tsathla",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12072676": {
 				"name": "Good Ol' Nodens",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12102190": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Bokrug",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12158370": {
 				"name": "Chaugnar Faugn",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12158371": {
@@ -105,33 +104,33 @@
 			"12181096": {
 				"name": "Gahr-Gahr",
 				"prespp": 2,
-				"rus": 8,
-				"tur": 8,
+				"rush": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12239764": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Bael, the Harbinger",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12243333": {
 				"name": "Tulzscha",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
 		"854678": {
 			"11439618": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Nightmaster Gnawnagar",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 35,
-				"rus": 13,
+				"rush": 13,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439624": {
@@ -140,44 +139,44 @@
 				"type": "R"
 			},
 			"11439628": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Sneekis the Dragon",
 				"prespp": 53,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11482377": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Grisnagar the Brave",
 				"prespp": 23,
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11696956": {
 				"name": "Nightmaster Skirshakk",
 				"prespp": 73,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 3,
+				"td": 1,
+				"turns": 3,
 				"type": "R"
 			},
 			"11696958": {
 				"name": "Thanaz the Darkflame",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11850585": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Nightlord Azhiskikk",
 				"prespp": 34,
-				"rus": 18,
+				"rush": 18,
 				"spp": 4,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"11934134": {
@@ -186,11 +185,11 @@
 				"type": "R"
 			},
 			"11948519": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Thanflem the Splinter",
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11951210": {
@@ -199,9 +198,9 @@
 				"type": "R"
 			},
 			"12099993": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vasrik the Darter",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12217971": {
@@ -211,19 +210,18 @@
 				"type": "R"
 			},
 			"12236342": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Crakch the Duskhunter",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12236343": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Edward Clumsysnake",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
-			"854678S1": {
+			"STAR-7544": {
 				"dead": [
 					1,
 					8,
@@ -231,44 +229,62 @@
 					"12072566"
 				],
 				"name": "Skreet",
-				"tur": 7,
+				"turns": 7,
 				"type": "S"
 			},
-			"854678S2": {
-				"blk": 6,
+			"STAR-7660": {
+				"blocks": 6,
 				"cas": 1,
 				"name": "Borg'th N'throg",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1060107",
-	"team_performance": {
+	"team": {
 		"854507": {
-			"cas": 5,
-			"casdiff": 1,
+			"blocks": 40,
+			"cas": 3,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Coven of the Mirrored Hall",
+			"pass": 5,
+			"prespp": 318,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 33,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 152
 		},
 		"854678": {
-			"cas": 4,
-			"casdiff": -1,
+			"blocks": 33,
+			"cas": 3,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lords of the Silent Death",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 296,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 52,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 122
 		}
 	}
 }

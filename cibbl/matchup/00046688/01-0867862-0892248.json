@@ -1,80 +1,79 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4061028",
-	"player_performance": {
+	"player": {
 		"867862": {
 			"11722423": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Vur",
 				"prespp": 78,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11782667": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "Vir",
 				"prespp": 13,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11917261": {
 				"name": "Irtriss",
 				"prespp": 104,
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11946085": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Tarotep of Horin 'Reth",
 				"prespp": 89,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122939": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Treth' Kon Sharkface",
 				"prespp": 4,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12215612": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kudir",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12223534": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Chitol",
 				"prespp": 74,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12264876": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Imir' Zhan of Thorgotan",
 				"prespp": 60,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12328835": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Trizt",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12328836": {
@@ -82,39 +81,39 @@
 				"type": "R"
 			},
 			"12426289": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gremir the Sphinx",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12502278": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ersen",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12517244": {
 				"name": "Ka 'Rin",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12539513": {
 				"name": "Komin 'Ra",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 23,
-				"rus": 27,
-				"tur": 8,
+				"rush": 27,
+				"turns": 8,
 				"type": "R"
 			},
 			"12623601": {
 				"name": "Ydi 'Tan",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
 		"892248": {
 			"12037796": {
-				"blk": 5,
+				"blocks": 5,
 				"dead": [
 					2,
 					2,
@@ -123,30 +122,31 @@
 				],
 				"name": "Threasher",
 				"prespp": 84,
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"12037798": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sharpnose",
 				"prespp": 35,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12037800": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Blackfin",
 				"prespp": 57,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12037810": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mutineer Morin",
 				"prespp": 38,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12037816": {
@@ -157,28 +157,28 @@
 			"12037818": {
 				"name": "Morgan the Crow",
 				"prespp": 37,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12138034": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Banjo Billy",
 				"prespp": 26,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12235834": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Bosun Codswallap",
 				"prespp": 8,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12235835": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hooktooth",
 				"prespp": 51,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12293105": {
@@ -186,84 +186,102 @@
 				"type": "R"
 			},
 			"12342419": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Jaws",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 47,
-				"rus": 11,
+				"rush": 11,
 				"spp": 1,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12445884": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Stumpy McTerror",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12456349": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Abraham ‘Sharkbait’ Evans",
 				"prespp": 9,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12501512": {
-				"fou": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Christina False-Angel",
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12501526": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Barnaby ‘Nutjob’ Yorke",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 8,
-				"rus": 13,
+				"rush": 13,
 				"spp": 4,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"12629499": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "‘YW’",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1151432",
-	"team_performance": {
+	"team": {
 		"867862": {
-			"cas": 4,
-			"casdiff": 2,
+			"blocks": 53,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Everlasting Vultures of Settra",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 455,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 49,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 168
 		},
 		"892248": {
-			"cas": 2,
-			"casdiff": -2,
+			"blocks": 26,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crimson Fins",
+			"pass": 6,
+			"prespp": 418,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 24,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 121
 		}
 	}
 }

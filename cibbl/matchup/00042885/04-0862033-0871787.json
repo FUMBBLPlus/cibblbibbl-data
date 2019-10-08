@@ -1,34 +1,33 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3902269",
-	"player_performance": {
+	"player": {
 		"862033": {
 			"11558593": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Kharn",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11558599": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Delvarus",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11558605": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Porphyricus",
 				"prespp": 18,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11558607": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					2,
@@ -37,207 +36,225 @@
 				],
 				"name": "Calas Typhon",
 				"prespp": 10,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"11558611": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Hadrabulus Vioss",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11558613": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Marius Vairosean",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11558616": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Phosis T'Kar",
 				"prespp": 23,
-				"rus": 8,
-				"tur": 14,
+				"rush": 8,
+				"turns": 14,
 				"type": "R"
 			},
 			"11558617": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Skane",
 				"prespp": 11,
 				"spp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11567423": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kargos",
 				"prespp": 17,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11681780": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hathor Maat",
 				"prespp": 12,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11681785": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Lucius",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11699119": {
 				"name": "Julius Kaesoron",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11699147": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Khalophis",
-				"rus": 1,
-				"tur": 9,
+				"rush": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"11721803": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ignatius Grulgor II",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"871787": {
 			"11709004": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Idun Hands",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11709005": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Breek Argan",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709006": {
 				"name": "Gaer Nettina",
-				"retired": true,
 				"type": "R"
 			},
 			"11709008": {
 				"name": "Emyys Doceon",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11709009": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Burk Silpal",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709010": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Dando Enda",
 				"prespp": 8,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11709011": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Raus Juit",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709012": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Hengest Hirn",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709013": {
 				"name": "Kael Desini",
 				"prespp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11709015": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Vigoth Nony",
 				"prespp": 6,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11709016": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Strean Buren",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11709018": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Font Eiridan",
 				"prespp": 10,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11727803": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Svart Syn",
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"11747061": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gutterfingers",
 				"prespp": 2,
-				"rus": 31,
+				"rush": 31,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "967877",
-	"team_performance": {
+	"team": {
 		"862033": {
+			"blocks": 38,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Forsaken of the Pantheon",
+			"pass": 0,
+			"prespp": 99,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 130
 		},
 		"871787": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 45,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malignant Curators",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 72,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 157
 		}
 	}
 }

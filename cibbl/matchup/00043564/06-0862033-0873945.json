@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3932789",
-	"player_performance": {
+	"player": {
 		"862033": {
 			"11558599": {
 				"name": "Delvarus",
@@ -15,38 +14,38 @@
 				"type": "R"
 			},
 			"11558611": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Hadrabulus Vioss",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11558616": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Phosis T'Kar",
 				"prespp": 39,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11558617": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Skane",
 				"prespp": 21,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11567423": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Kargos",
 				"prespp": 37,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11681785": {
@@ -62,14 +61,15 @@
 					"11767823"
 				],
 				"name": "Julius Kaesoron",
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"11699147": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Khalophis",
 				"prespp": 31,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11850112": {
@@ -77,7 +77,7 @@
 				"type": "R"
 			},
 			"11914773": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					7,
@@ -86,25 +86,26 @@
 				],
 				"name": "Hathor Maat II",
 				"prespp": 7,
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"11927160": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Calas Typhon III",
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11966746": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kharn the Betrayer",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11968745": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					6,
@@ -112,68 +113,68 @@
 					"11747837"
 				],
 				"name": "David Silentstone",
-				"tur": 13,
+				"retired": true,
+				"turns": 13,
 				"type": "J"
 			},
 			"11968746": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Albert Strongfield",
-				"retired": true,
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			}
 		},
 		"873945": {
 			"11747836": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Bersi Thometillsson",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11747837": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Firthgest Thiodolfsson",
 				"prespp": 25,
-				"rus": 15,
+				"rush": 15,
 				"spp": 5,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11747839": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kol Styrsson",
 				"prespp": 40,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11747841": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Hall Solvisson",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11767823": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Martin Truestream",
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11792772": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Horolf Hengerson",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11850057": {
@@ -182,73 +183,90 @@
 				"type": "R"
 			},
 			"11895166": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Ulric Whitelightning",
 				"prespp": 10,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11895168": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "David Vilerock",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938492": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Yorick Clearstone",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11941163": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Xavier Silentsnake",
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"11941164": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zachary Hideouslightning",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1003137",
-	"team_performance": {
+	"team": {
 		"862033": {
+			"blocks": 35,
 			"cas": 2,
 			"casdiff": -3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Forsaken of the Pantheon",
+			"pass": 0,
+			"prespp": 204,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 111
 		},
 		"873945": {
+			"blocks": 42,
 			"cas": 5,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Warhird Huscarls",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 114,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 45,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 167
 		}
 	}
 }

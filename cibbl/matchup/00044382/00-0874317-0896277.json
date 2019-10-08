@@ -1,97 +1,96 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3972590",
-	"player_performance": {
+	"player": {
 		"874317": {
 			"11754392": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Balor Evil-eye",
 				"prespp": 16,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11754410": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Odracon The Procreator",
 				"prespp": 49,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754411": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Bres",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754412": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Cian",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11754414": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Lug",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11754417": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Cethlenn",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11754418": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tethra",
 				"prespp": 18,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11859103": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Moloch the Respawned",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11904321": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Dilek",
 				"prespp": 37,
-				"rus": 23,
+				"rush": 23,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11966718": {
 				"name": "The Fog",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12047952": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Slough Feg",
 				"prespp": 11,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12125990": {
@@ -100,37 +99,37 @@
 				"type": "R"
 			},
 			"12126092": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hadiz",
-				"rus": 16,
-				"tur": 13,
+				"rush": 16,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"896277": {
 			"12103955": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Khul",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12103956": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Qu'arakk",
 				"prespp": 11,
-				"tur": 14,
+				"turns": 14,
 				"type": "B"
 			},
 			"12103957": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Skiril",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12103958": {
@@ -139,100 +138,114 @@
 				"type": "B"
 			},
 			"12103985": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Thraggskell",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12103987": {
 				"name": "Hebnak-sneekl",
 				"prespp": 3,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12103988": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Stuntlbosh",
 				"prespp": 3,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12103989": {
 				"name": "Grotslag",
 				"prespp": 24,
-				"rus": 12,
-				"tur": 13,
+				"rush": 12,
+				"turns": 13,
 				"type": "R"
 			},
 			"12193736": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Albert Darkshield",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
 			"12193737": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Graham Hardbrook",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "J"
 			},
 			"12193738": {
 				"name": "Ian Weakshield",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			},
 			"12193739": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ulric Clumsyhawk",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			},
-			"896277S1": {
-				"blk": 6,
+			"STAR-7544": {
+				"blocks": 6,
 				"cas": 1,
 				"name": "Skreet",
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "S"
 			},
-			"896277S2": {
-				"blk": 8,
+			"STAR-7660": {
+				"blocks": 8,
 				"name": "Borg'th N'throg",
-				"tur": 17,
+				"turns": 17,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1048825",
-	"team_performance": {
+	"team": {
 		"874317": {
+			"blocks": 57,
 			"cas": 4,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Misty Isle Gators",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 179,
+			"prestige": 0,
 			"pts": 102,
-			"rsym": "W",
+			"r": "W",
+			"rush": 39,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 152
 		},
 		"896277": {
+			"blocks": 42,
 			"cas": 2,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Thirteenth Circle Abominations",
+			"pass": 0,
+			"prespp": 94,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 12,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 134
 		}
 	}
 }

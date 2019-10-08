@@ -1,23 +1,22 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4028691",
-	"player_performance": {
+	"player": {
 		"888994": {
 			"11985437": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Vargwursgelnd",
 				"prespp": 51,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11985438": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Gwoftirbnewfg",
 				"prespp": 89,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11985441": {
@@ -26,27 +25,27 @@
 				"type": "R"
 			},
 			"11985462": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Jforznthrargh",
 				"prespp": 56,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12031804": {
 				"name": "Báine Styrix",
 				"prespp": 98,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 5,
+				"td": 1,
+				"turns": 5,
 				"type": "R"
 			},
 			"12042228": {
 				"name": "Aodhán Coobe",
 				"prespp": 17,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12042370": {
@@ -55,33 +54,33 @@
 				"type": "R"
 			},
 			"12129508": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Hanrahan Fearghail",
 				"prespp": 16,
-				"rus": 4,
+				"rush": 4,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12277260": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Brocc Rydan",
 				"prespp": 10,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12277426": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Muirne Ariannona",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12297183": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Olcán Cid",
 				"prespp": 7,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12321072": {
@@ -92,76 +91,77 @@
 					null
 				],
 				"name": "Branduff Marney",
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"12341066": {
 				"name": "Baoth Foghladh",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12350238": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Fwirsvognal",
 				"prespp": 27,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12413857": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dunfhlaith Fasner",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"895929": {
 			"12098257": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Clawchest",
 				"prespp": 50,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098258": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Silverscar",
 				"prespp": 36,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Silverstriker",
 				"prespp": 21,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12098297": {
 				"name": "Duskdigger",
 				"prespp": 63,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12136367": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Fangsnapper Jr",
 				"prespp": 36,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12166472": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Fangsnapper Jr Jr",
 				"prespp": 9,
 				"spp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12265899": {
@@ -169,77 +169,95 @@
 				"type": "R"
 			},
 			"12295244": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Broadreaper",
 				"prespp": 12,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12345051": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Crowripper",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12345108": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Windfury Jr",
 				"prespp": 15,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12496226": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Crowchest",
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12496241": {
 				"name": "Blackgaze",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12508550": {
 				"name": "Flintbasher",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
-			"895929S1": {
-				"fou": 1,
+			"STAR-18857": {
+				"fouls": 1,
 				"name": "Skrath Pit-Scratcher",
-				"tur": 15,
+				"turns": 15,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1114354",
-	"team_performance": {
+	"team": {
 		"888994": {
+			"blocks": 44,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Beerbog Behemoths",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 406,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 128
 		},
 		"895929": {
+			"blocks": 28,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 249,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 19,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 140
 		}
 	}
 }

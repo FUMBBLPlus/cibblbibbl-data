@@ -1,31 +1,26 @@
 {
 	"!excluded": "yes",
-	"!locked": "yes",
-	"player_performance": {},
-	"team_performance": {
+	"player": {},
+	"team": {
 		"873391": {
-			"cas": 0,
 			"casdiff": 0,
 			"name": "Deep Sea Bottom Feeders",
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "F",
+			"r": "F",
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": 0
+			"tddiff": 0
 		},
 		"876711": {
-			"cas": 0,
 			"casdiff": 0,
 			"name": "Cythral Old Oaks",
-			"prestige": 3,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "B",
+			"r": "B",
 			"score": 2,
 			"scorediff": 2,
-			"tds": 0,
-			"tdsdiff": 0
+			"tddiff": 0
 		}
 	}
 }

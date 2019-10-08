@@ -1,98 +1,97 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3963929",
-	"player_performance": {
+	"player": {
 		"885728": {
 			"11933450": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 3,
 				"name": "Yarrah the Gray",
 				"prespp": 19,
 				"spp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11933451": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sookie Roo",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 2,
-				"rus": 11,
-				"tur": 17,
+				"rush": 11,
+				"turns": 17,
 				"type": "R"
 			},
 			"11933452": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Naure Roo",
 				"prespp": 14,
 				"spp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11933454": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Rippa Roo",
 				"prespp": 17,
-				"rus": 27,
+				"rush": 27,
 				"spp": 6,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"11933455": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"name": "Pash a Roo",
 				"prespp": 16,
-				"rus": 7,
+				"rush": 7,
 				"spp": 7,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11933456": {
 				"name": "Dinkum Roo",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 36,
-				"rus": 13,
-				"tur": 7,
+				"rush": 13,
+				"turns": 7,
 				"type": "R"
 			},
 			"11933457": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cuddles",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11933460": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Spike",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11933461": {
 				"name": "Patches",
 				"prespp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11933462": {
-				"blk": 1,
-				"fou": 5,
+				"blocks": 1,
+				"fouls": 5,
 				"name": "Blu'Bogan",
 				"prespp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11939409": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Flower",
 				"prespp": 9,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12129142": {
@@ -106,123 +105,139 @@
 				"name": "Khul",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12103956": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Qu'arakk",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12103957": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Skiril",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12103958": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Zuznifik",
 				"prespp": 15,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12103985": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Thraggskell",
 				"prespp": 3,
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12103986": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Bodgnikk",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12103987": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hebnak-sneekl",
 				"prespp": 3,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12103988": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Stuntlbosh",
 				"prespp": 3,
-				"rus": 8,
-				"tur": 11,
+				"rush": 8,
+				"turns": 11,
 				"type": "R"
 			},
 			"12103989": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grotslag",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 21,
-				"rus": 19,
-				"tur": 16,
+				"rush": 19,
+				"turns": 16,
 				"type": "R"
 			},
 			"12142403": {
 				"name": "Leroy Whitefield",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			},
 			"12142404": {
 				"name": "Nicholas Dirtystream",
-				"retired": true,
 				"type": "J"
 			},
-			"896277M1": {
-				"fou": 1,
+			"MERC-14107-0194": {
+				"fouls": 1,
 				"name": "Merc Slave 1",
-				"tur": 8,
+				"turns": 8,
 				"type": "M"
 			},
-			"896277M2": {
-				"blk": 2,
+			"MERC-14108-3194": {
+				"blocks": 2,
 				"name": "Merc Rat Ogre 1",
-				"tur": 10,
+				"turns": 10,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1038937",
-	"team_performance": {
+	"team": {
 		"885728": {
-			"cas": 8,
-			"casdiff": 6,
+			"blocks": 36,
+			"cas": 6,
+			"casdiff": 5,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bear Clutchers",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 134,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 58,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 164
 		},
 		"896277": {
-			"cas": 2,
-			"casdiff": -6,
+			"blocks": 25,
+			"cas": 1,
+			"casdiff": -5,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Thirteenth Circle Abominations",
+			"pass": -1,
+			"prespp": 70,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 42,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 113
 		}
 	}
 }

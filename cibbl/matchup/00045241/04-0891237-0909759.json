@@ -1,81 +1,81 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4002423",
-	"player_performance": {
+	"player": {
 		"891237": {
 			"12022003": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					7,
 					"blocked",
-					"909759S2"
+					"STAR-7555"
 				],
 				"name": "Barrow Gorthadon",
 				"prespp": 20,
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"12022005": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Swan Alphon",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 26,
-				"rus": 6,
+				"rush": 6,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12022006": {
 				"name": "Heni Hethurin",
 				"prespp": 44,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12022007": {
 				"name": "Yoke Ianuon",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12022008": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tety Goweston",
 				"prespp": 18,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12022010": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Dew Midhon",
 				"prespp": 19,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12022022": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Mirilan Antegobon",
 				"prespp": 34,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12104982": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Meret Scuffedon",
 				"prespp": 35,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12162547": {
 				"name": "Foni Piemondon",
 				"prespp": 23,
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12219903": {
@@ -84,10 +84,10 @@
 				"type": "R"
 			},
 			"12229237": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Coron Shottelodon",
 				"prespp": 14,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12354843": {
@@ -98,57 +98,58 @@
 					"12314480"
 				],
 				"name": "Mati Schettinodon",
+				"retired": true,
 				"type": "R"
 			},
 			"12354844": {
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Heni Heturin Jr.",
-				"pas": 2,
-				"rus": 5,
+				"pass": 2,
+				"rush": 5,
 				"spp": 6,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			}
 		},
 		"909759": {
 			"12314474": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Helewise",
 				"prespp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12314475": {
 				"mvp": 1,
 				"name": "Aimee",
 				"prespp": 12,
-				"rus": 43,
+				"rush": 43,
 				"spp": 11,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"12314476": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Naeva",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 21,
-				"rus": 1,
-				"tur": 15,
+				"rush": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12314477": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Roesia",
 				"prespp": 16,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12314478": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dominique",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12314479": {
@@ -157,86 +158,103 @@
 				"type": "R"
 			},
 			"12314480": {
-				"blk": 1,
-				"fou": 8,
+				"blocks": 1,
+				"fouls": 8,
 				"name": "Sabine",
 				"prespp": 8,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12314481": {
 				"name": "Monique",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12314482": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Antionette",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12314483": {
 				"name": "Chantal",
 				"prespp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12353445": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Edmee",
-				"pas": 1,
+				"pass": 1,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12353446": {
 				"name": "Xavier Weaksnake",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			},
-			"909759S1": {
-				"blk": 6,
-				"name": "Prince Moranion",
-				"tur": 6,
-				"type": "S"
-			},
-			"909759S2": {
-				"blk": 9,
+			"STAR-7555": {
+				"blocks": 9,
 				"cas": 3,
 				"name": "Hubris Rakarth",
 				"spp": 6,
-				"tur": 15,
+				"turns": 15,
+				"type": "S"
+			},
+			"STAR-7568": {
+				"blocks": 6,
+				"name": "Prince Moranion",
+				"turns": 6,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1084677",
-	"team_performance": {
+	"team": {
 		"891237": {
+			"blocks": 27,
 			"cas": 2,
-			"casdiff": -3,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Dukes of Earthquake Valley",
+			"pass": 3,
+			"prespp": 239,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 112
 		},
 		"909759": {
-			"cas": 5,
-			"casdiff": 3,
+			"blocks": 29,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malefic Mimes",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 66,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 44,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 157
 		}
 	}
 }

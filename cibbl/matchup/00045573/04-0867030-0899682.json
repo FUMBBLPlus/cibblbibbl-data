@@ -1,114 +1,113 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4018727",
-	"player_performance": {
+	"player": {
 		"867030": {
 			"11633486": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Sokitoomi",
 				"prespp": 56,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11633494": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Grymlog",
 				"prespp": 50,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11633500": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Quaxili",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 40,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11633506": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Xlanaxlot",
 				"prespp": 11,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11633509": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zwup",
 				"prespp": 10,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11929270": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Dro'ka'khanxlot",
 				"prespp": 65,
-				"tur": 8,
+				"turns": 8,
 				"type": "B"
 			},
 			"11938976": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ximnizec",
 				"prespp": 19,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12048616": {
 				"name": "Chuqbolt",
 				"prespp": 8,
-				"rus": 1,
-				"tur": 9,
+				"rush": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12087622": {
 				"name": "Xili-Sotek",
 				"prespp": 2,
-				"rus": 9,
-				"tur": 14,
+				"rush": 9,
+				"turns": 14,
 				"type": "R"
 			},
 			"12087623": {
 				"name": "Xla-Tepok",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12228718": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Gor-Rok",
 				"prespp": 25,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12282449": {
 				"name": "Huaataxah",
 				"prespp": 11,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12319311": {
 				"name": "Oxyotl",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		},
 		"899682": {
 			"12158266": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Ch'nn'r \"Big Boa\" Qll-Crvn",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12158267": {
@@ -117,25 +116,25 @@
 				"type": "R"
 			},
 			"12158269": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Ph'rn \"Quick Tail\" Vzz-Sttn",
 				"prespp": 35,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158272": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "T'ng \"Lefty\" Clbrr",
 				"prespp": 10,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158273": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "V'sn \"Midget\" Vprr",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12158279": {
@@ -143,30 +142,30 @@
 				"name": "Dtr'vssr \"Mamba\" Vrddfls",
 				"prespp": 13,
 				"spp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12191641": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "C'dm'qsz \"Focus\" Ntrll",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12240321": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "R'th's'k \"Whirly\" Mssrbr",
 				"prespp": 27,
-				"rus": 3,
+				"rush": 3,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12251011": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"dead": [
 					2,
@@ -176,8 +175,9 @@
 				],
 				"name": "D'ssh-t \"Glowy\" Vprrdllcrrn",
 				"prespp": 22,
+				"retired": true,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12282912": {
@@ -186,38 +186,38 @@
 				"type": "R"
 			},
 			"12320309": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "V'rr-nv'rry \"Sunny\" Ss'rpnt'r-gg'dd'ss-l",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12320310": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Prr'n \"Sparkly\" Clbrrdrrccl",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12407802": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "M-nngk'tt \"Redskin\" N'tr'c-tssll't",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
-			"899682M1": {
-				"blk": 8,
+			"MERC-7363-2161": {
+				"blocks": 8,
 				"cas": 1,
 				"name": "Merc Constrictor 1",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "M"
 			},
-			"899682S1": {
+			"STAR-7561": {
 				"dead": [
 					1,
 					5,
@@ -225,36 +225,54 @@
 					"11633494"
 				],
 				"name": "Lewdgrip Whiparm",
-				"tur": 4,
+				"turns": 4,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1103062",
-	"team_performance": {
+	"team": {
 		"867030": {
+			"blocks": 34,
 			"cas": 2,
-			"casdiff": -4,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sport Spawning Zlatlan",
-			"prestige": 1,
+			"pass": -1,
+			"prespp": 297,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 24,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 124
 		},
 		"899682": {
-			"cas": 6,
-			"casdiff": 4,
+			"blocks": 42,
+			"cas": 5,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "K'r'shh Sl'ppr'ss",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 195,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 9,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 160
 		}
 	}
 }

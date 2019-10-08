@@ -1,102 +1,100 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3988111",
-	"player_performance": {
+	"player": {
 		"900800": {
 			"12173741": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Rath Koulm",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12173742": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grath Telff",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12173743": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Piul Erff",
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12173744": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Ghisel Yurgen",
 				"prespp": 3,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12173753": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "John Mackey",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12173768": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Leroy Stronghaw",
 				"spp": 4,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12173769": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ian Silentor",
 				"prespp": 2,
-				"rus": 41,
+				"rush": 41,
 				"spp": 6,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"12173770": {
 				"name": "Albert Goldfi",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12173774": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Xavier Stpike",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12173775": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sylvester Deepfy",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12277084": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Trey Whitestone",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			}
 		},
 		"902875": {
 			"12206473": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Willie War",
 				"prespp": 3,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12206474": {
 				"name": "Paul Pike",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12206475": {
@@ -104,96 +102,113 @@
 				"name": "Charles Castle",
 				"prespp": 4,
 				"spp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12206476": {
 				"name": "Leroy Logistics",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 8,
-				"rus": 11,
-				"tur": 14,
+				"rush": 11,
+				"turns": 14,
 				"type": "R"
 			},
 			"12206477": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Colleen Charge",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12206481": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Timothy Tank",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12206482": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Bernard Wolf",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 5,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12206483": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Gregory Wolf",
 				"prespp": 20,
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12206484": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Blake Bunker",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12232700": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Fangtooth Grayback",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12267251": {
 				"name": "Albert Hardbone",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1066813",
-	"team_performance": {
+	"team": {
 		"900800": {
-			"cas": 5,
-			"casdiff": 5,
+			"blocks": 38,
+			"cas": 4,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Haunted Forest Sons of Chaos",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 17,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 156
 		},
 		"902875": {
+			"blocks": 25,
 			"cas": 0,
-			"casdiff": -5,
+			"casdiff": -4,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "T.H.H.U. Slayers",
+			"pass": 2,
+			"prespp": 42,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 24,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 106
 		}
 	}
 }

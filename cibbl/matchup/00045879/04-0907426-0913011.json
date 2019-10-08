@@ -1,31 +1,26 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
-	"player_performance": {},
-	"team_performance": {
+	"player": {},
+	"team": {
 		"907426": {
-			"cas": 0,
 			"casdiff": 0,
 			"name": "Hrafn's Herd",
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "F",
+			"r": "F",
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": 0
+			"tddiff": 0
 		},
 		"913011": {
-			"cas": 0,
 			"casdiff": 0,
 			"name": "'Ed Chompaz of Deff Gorge",
-			"prestige": 3,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "B",
+			"r": "B",
 			"score": 2,
 			"scorediff": 2,
-			"tds": 0,
-			"tdsdiff": 0
+			"tddiff": 0
 		}
 	}
 }

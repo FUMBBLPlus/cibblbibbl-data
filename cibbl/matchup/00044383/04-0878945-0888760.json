@@ -1,78 +1,75 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3969456",
-	"player_performance": {
+	"player": {
 		"878945": {
 			"11825655": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Lashweaver Taker of Souls",
 				"prespp": 89,
-				"tur": 7,
+				"turns": 7,
 				"type": "B"
 			},
 			"11825658": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Laesydra",
 				"prespp": 20,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11825659": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Shyak",
 				"prespp": 22,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11825663": {
 				"name": "Braskh'har",
 				"prespp": 2,
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11850084": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lady Lestella",
 				"prespp": 8,
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11916781": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Heladresh Lust-Bringer",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 36,
-				"rus": 35,
+				"rush": 35,
 				"spp": 11,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11994839": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Skylah the Desired",
 				"prespp": 31,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12066502": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Elasta Euphoria",
 				"prespp": 27,
 				"spp": 5,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12124776": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					3,
@@ -81,7 +78,8 @@
 				],
 				"name": "T'lyargor",
 				"prespp": 2,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"12124778": {
@@ -90,75 +88,75 @@
 				"type": "R"
 			},
 			"12146403": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fok'har'lor",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12154896": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kit'anra",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"888760": {
 			"11982012": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gusraz The Lonebringer",
 				"prespp": 13,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11982018": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Taghoth Wrathfather",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982019": {
 				"name": "Ogbund Emberbender",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11982020": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Tuzkan Nightgaze",
 				"prespp": 1,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11982021": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Cagbuth Chaosforce",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982028": {
 				"name": "Scu'draz Ambercrest",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11982029": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Zazhrin Emberborn",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982030": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Crazgind Battleforged",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11982032": {
@@ -166,65 +164,83 @@
 				"type": "R"
 			},
 			"11982034": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Ciggus Rageborn",
 				"prespp": 25,
-				"rus": 19,
-				"tur": 16,
+				"rush": 19,
+				"turns": 16,
 				"type": "R"
 			},
 			"12001245": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 3,
 				"name": "Drughath Naverbone",
 				"prespp": 16,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12074027": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Frungrah Flogdonal",
 				"prespp": 2,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12154356": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Stinghon DeBrancha",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1045272",
-	"team_performance": {
+	"team": {
 		"878945": {
+			"blocks": 37,
 			"cas": 2,
 			"casdiff": -5,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eternal Ecstasy",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 239,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 35,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 118
 		},
 		"888760": {
+			"blocks": 40,
 			"cas": 7,
 			"casdiff": 5,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Brothers Of Malice",
+			"pass": 0,
+			"prespp": 102,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 160
 		}
 	}
 }

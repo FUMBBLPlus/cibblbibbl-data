@@ -1,36 +1,35 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3933376",
-	"player_performance": {
+	"player": {
 		"874966": {
 			"11764899": {
 				"name": "Benethor",
 				"prespp": 21,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11764901": {
 				"name": "Danesthos",
 				"prespp": 6,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11764915": {
 				"name": "Finavar",
 				"prespp": 6,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11764917": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Thuralin",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 10,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11764919": {
@@ -39,108 +38,107 @@
 				"type": "R"
 			},
 			"11764921": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Morlanna",
 				"prespp": 39,
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"11836559": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vanhir",
 				"prespp": 39,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11900737": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Beliath the Grimm",
 				"prespp": 2,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11938500": {
 				"name": "Mereia",
 				"prespp": 9,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11967724": {
 				"name": "Hauclir",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11967727": {
 				"name": "Yorick Whiteorc",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			}
 		},
 		"876774": {
 			"11791176": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Mather Teresa of Diesdolf",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791177": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Saint Agnes \"The Comet\"",
 				"prespp": 8,
-				"rus": 8,
+				"rush": 8,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791215": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ludmilla \"The Redeemed\"",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791216": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Carol \"Divine Punishment\"",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791220": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Berta \"The Humble Daughter\"",
 				"prespp": 17,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791224": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ingrid \"Blind Faith\"",
 				"prespp": 7,
-				"rus": 15,
+				"rush": 15,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791226": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Luisa \"The Martyr\"",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11791229": {
@@ -148,10 +146,10 @@
 				"type": "R"
 			},
 			"11791244": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Grisolda \"Last Pilgrimage\"",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11890580": {
@@ -161,19 +159,20 @@
 					"blocked",
 					"11900737"
 				],
-				"fou": 1,
+				"fouls": 1,
 				"name": "Gretha \"Innocent Heart\"",
 				"prespp": 2,
-				"rus": 2,
-				"tur": 8,
+				"retired": true,
+				"rush": 2,
+				"turns": 8,
 				"type": "R"
 			},
 			"11898482": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Caterina \"Righteous Judgement\"",
 				"prespp": 3,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11928024": {
@@ -182,39 +181,57 @@
 				"type": "R"
 			},
 			"11928026": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Olga \"Iron Cilice\"",
-				"rus": 9,
-				"tur": 16,
+				"rush": 9,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1003804",
-	"team_performance": {
+	"team": {
 		"874966": {
+			"blocks": 16,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
+			"pass": -2,
+			"prespp": 133,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 5,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 85
 		},
 		"876774": {
+			"blocks": 27,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 9,
+			"int": 0,
+			"mvp": 1,
 			"name": "Congregation of Holy Touchdown",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 87,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 159
 		}
 	}
 }

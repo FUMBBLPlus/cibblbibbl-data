@@ -1,68 +1,67 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3986531",
-	"player_performance": {
+	"player": {
 		"900800": {
 			"12173741": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Rath Koulm",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173742": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grath Telff",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173743": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Piul Erff",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173744": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ghisel Yurgen",
 				"prespp": 3,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12173753": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "John Mackey",
-				"rus": 13,
-				"tur": 16,
+				"rush": 13,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173768": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Leroy Stronghaw",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12173769": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ian Silentor",
 				"prespp": 2,
-				"rus": 18,
-				"tur": 16,
+				"rush": 18,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173770": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Albert Goldfi",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173771": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					5,
@@ -70,111 +69,110 @@
 					"12207323"
 				],
 				"name": "Nicholas Hideous",
-				"tur": 12,
+				"retired": true,
+				"turns": 12,
 				"type": "R"
 			},
 			"12173774": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Xavier Stpike",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12173775": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sylvester Deepfy",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"902916": {
 			"12207310": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Mort",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12207311": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Wilbur",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12207314": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Thoril Milltall",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12207315": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Eildove Homeforger",
-				"rus": 6,
+				"rush": 6,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12207316": {
 				"name": "Seamorn Graveltoes",
 				"prespp": 3,
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12207317": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Corstina Lightouch",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12207318": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Fruaver Steelfarmer",
-				"rus": 8,
+				"rush": 8,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12207319": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Aravyre Soldshort",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12207320": {
 				"name": "Victanda Brushranger",
-				"retired": true,
 				"type": "R"
 			},
 			"12207321": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Shaorin Goldweaver",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12207322": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Yenroar Woodsheart",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12207323": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Xanben Millstone",
-				"pas": 9,
+				"pass": 9,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12268669": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					7,
@@ -182,36 +180,55 @@
 					"12173770"
 				],
 				"name": "Puck Quthenzi",
-				"tur": 15,
+				"retired": true,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1064979",
-	"team_performance": {
+	"team": {
 		"900800": {
+			"blocks": 34,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Haunted Forest Sons of Chaos",
+			"pass": 0,
+			"prespp": 10,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 31,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 166
 		},
 		"902916": {
+			"blocks": 45,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crookback Bantams",
-			"prestige": 3,
+			"pass": 9,
+			"prespp": 15,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 14,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 160
 		}
 	}
 }

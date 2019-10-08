@@ -1,75 +1,74 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3936293",
-	"player_performance": {
+	"player": {
 		"888233": {
 			"11972753": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Zunabar",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11972754": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"int": 1,
 				"name": "Smogmonster",
 				"prespp": 10,
-				"rus": 1,
+				"rush": 1,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11972755": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Cobalt Horror",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11972756": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Roct",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11972757": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tirm",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11972758": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Star",
 				"prespp": 6,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11972759": {
 				"name": "Froittiok",
-				"rus": 3,
+				"rush": 3,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11972760": {
 				"name": "Curk",
 				"prespp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11972761": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Aagkobs",
-				"pas": 1,
-				"rus": 8,
-				"tur": 11,
+				"pass": 1,
+				"rush": 8,
+				"turns": 11,
 				"type": "R"
 			},
 			"11972762": {
@@ -78,34 +77,34 @@
 			},
 			"11972763": {
 				"name": "Ilact",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11972765": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Odlurk",
-				"pas": 1,
-				"rus": 8,
-				"tur": 12,
+				"pass": 1,
+				"rush": 8,
+				"turns": 12,
 				"type": "R"
 			},
 			"11972766": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Stiald",
 				"prespp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
-			"888233S1": {
-				"blk": 1,
+			"STAR-7543": {
+				"blocks": 1,
 				"name": "Swingin' Willy",
-				"tur": 4,
+				"turns": 4,
 				"type": "S"
 			},
-			"888233S2": {
-				"blk": 1,
+			"STAR-7567": {
+				"blocks": 1,
 				"name": "Nobbla Blackwart",
-				"tur": 4,
+				"turns": 4,
 				"type": "S"
 			}
 		},
@@ -113,27 +112,27 @@
 			"11974838": {
 				"name": "Finubar",
 				"prespp": 8,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11974839": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tyrielle",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11974840": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Korhil",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11974841": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Yreene",
 				"prespp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11974844": {
@@ -141,96 +140,113 @@
 				"type": "R"
 			},
 			"11974846": {
-				"cps": 1,
+				"comp": 1,
 				"int": 1,
 				"mvp": 1,
 				"name": "Phærael",
-				"pas": 3,
-				"rus": 7,
+				"pass": 3,
+				"rush": 7,
 				"spp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11974850": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Hathor",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 6,
-				"rus": 22,
+				"rush": 22,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11974853": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Valen Freshbreeze",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11975460": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Evilonah Fellblade",
 				"prespp": 7,
-				"rus": 24,
+				"rush": 24,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11975493": {
-				"blk": 6,
-				"cps": 1,
+				"blocks": 6,
+				"comp": 1,
 				"name": "Morvael Lightningstrider",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 9,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11980511": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Valahuir Morningstar",
-				"rus": 15,
+				"rush": 15,
 				"spp": 6,
-				"tds": 2,
-				"tur": 14,
+				"td": 2,
+				"turns": 14,
 				"type": "R"
 			},
 			"11980512": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cory Strongfist",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1007177",
-	"team_performance": {
+	"team": {
 		"888233": {
+			"blocks": 31,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 1,
+			"mvp": 1,
 			"name": "Da Lowdown Dirty Rats",
+			"pass": 2,
+			"prespp": 26,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 20,
 			"score": 1,
 			"scorediff": -3,
-			"tds": 1,
-			"tdsdiff": -3
+			"td": 1,
+			"tddiff": -3,
+			"turns": 128
 		},
 		"888344": {
+			"blocks": 24,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 3,
+			"fouls": 0,
+			"int": 1,
+			"mvp": 1,
 			"name": "Masqueraded Magnificence",
-			"prestige": 3,
+			"pass": 7,
+			"prespp": 34,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 68,
 			"score": 4,
 			"scorediff": 3,
-			"tds": 4,
-			"tdsdiff": 3
+			"td": 4,
+			"tddiff": 3,
+			"turns": 159
 		}
 	}
 }

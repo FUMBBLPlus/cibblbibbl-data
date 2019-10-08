@@ -1,238 +1,255 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3943371",
-	"player_performance": {
+	"player": {
 		"883751": {
 			"11903227": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Death Mask",
 				"prespp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11903233": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Ramhotep",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11903249": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Sentinel of the Sands",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 28,
-				"rus": 3,
+				"rush": 3,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11903250": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "The All-Seeing Eye",
 				"prespp": 18,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11903253": {
 				"name": "Anubis the Embalmer",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11903254": {
 				"name": "Hathor the Pallbearer",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11903258": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Seshat the Scribe",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11903260": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Nightwalker",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11903261": {
 				"name": "The Grand Vizier",
 				"prespp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11903266": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Stargazer",
 				"prespp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11903267": {
 				"name": "Tomb Raider",
 				"prespp": 5,
-				"rus": -2,
-				"tur": 3,
+				"rush": -2,
+				"turns": 3,
 				"type": "R"
 			},
 			"11903280": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Baba the Builder",
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11936541": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Snakecharmer",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 2,
-				"rus": 2,
+				"rush": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11950137": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Behemoth",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"886167": {
 			"11940506": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Mori Voidheart",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940509": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Fersi Fellbane",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940510": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Fekhavi Fireblade",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11940511": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Rageshadow",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 1,
-				"rus": 10,
-				"tur": 7,
+				"rush": 10,
+				"turns": 7,
 				"type": "R"
 			},
 			"11940512": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Verbil Amberweb",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11940513": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Rasith Duskchill",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940514": {
 				"name": "Vaecho Firestarter",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940515": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Marrah Webmaker",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940516": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 3,
 				"name": "Darkvenom",
 				"prespp": 14,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940517": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 2,
 				"name": "Novo Nightshade",
 				"prespp": 3,
-				"rus": 2,
+				"rush": 2,
 				"spp": 7,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11940518": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Deathfury",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 8,
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
-			"886167M1": {
-				"blk": 1,
+			"MERC-7397-2821": {
+				"blocks": 1,
 				"cas": 1,
 				"name": "Merc Priestess 1",
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1015449",
-	"team_performance": {
+	"team": {
 		"883751": {
+			"blocks": 31,
 			"cas": 1,
 			"casdiff": -6,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Slaves of the Serpent Queen",
+			"pass": -2,
+			"prespp": 66,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 3,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 142
 		},
 		"886167": {
+			"blocks": 42,
 			"cas": 7,
 			"casdiff": 6,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Clar Karond Black Widows",
+			"pass": 0,
+			"prespp": 42,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 23,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 164
 		}
 	}
 }

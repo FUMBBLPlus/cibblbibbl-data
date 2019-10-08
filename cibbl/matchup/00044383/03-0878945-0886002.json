@@ -1,91 +1,90 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3965683",
-	"player_performance": {
+	"player": {
 		"878945": {
 			"11825655": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Lashweaver Taker of Souls",
 				"prespp": 89,
-				"tur": 14,
+				"turns": 14,
 				"type": "B"
 			},
 			"11825658": {
 				"name": "Laesydra",
 				"prespp": 20,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11825659": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Shyak",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11825663": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Braskh'har",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11850084": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lady Lestella",
 				"prespp": 8,
-				"rus": 1,
-				"tur": 3,
+				"rush": 1,
+				"turns": 3,
 				"type": "R"
 			},
 			"11916781": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Heladresh Lust-Bringer",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 35,
-				"rus": 16,
+				"rush": 16,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11994839": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Skylah the Desired",
 				"prespp": 31,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12066502": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Elasta Euphoria",
 				"prespp": 17,
-				"rus": 8,
+				"rush": 8,
 				"spp": 10,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"12124776": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "T'lyargor",
 				"prespp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12124778": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Da'Gorah",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12146403": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fok'har'lor",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12146409": {
@@ -96,87 +95,87 @@
 					"11938007"
 				],
 				"name": "Toreshlad",
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"886002": {
 			"11938003": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Caphalor Darkstar",
 				"prespp": 23,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938007": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Sinthoras Bloodflame",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 37,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938008": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Molostroi Demonheart",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938010": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Malaguth Blackmoon",
 				"prespp": 27,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938039": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cargavel Stormcrow",
 				"prespp": 54,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938045": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Cirgil Elvenslaver",
-				"pas": 1,
-				"rus": 5,
-				"tur": 11,
+				"pass": 1,
+				"rush": 5,
+				"turns": 11,
 				"type": "R"
 			},
 			"11938051": {
 				"name": "Valyr Dragonrider",
 				"prespp": 11,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938060": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Telok Beastslayer",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938068": {
 				"name": "Moreth Ghosthunter",
 				"prespp": 10,
-				"retired": true,
 				"type": "R"
 			},
 			"12048789": {
@@ -184,56 +183,74 @@
 				"type": "R"
 			},
 			"12060967": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nurcuc Ravenclaw",
 				"prespp": 1,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12077340": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Nazuc Nightraider",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12125346": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Raheel Swiftdeath",
 				"prespp": 3,
-				"rus": -1,
+				"rush": -1,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1040921",
-	"team_performance": {
+	"team": {
 		"878945": {
+			"blocks": 29,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eternal Ecstasy",
+			"pass": 2,
+			"prespp": 228,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 25,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 117
 		},
 		"886002": {
+			"blocks": 47,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Doom Glade Demons",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 193,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 35,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 161
 		}
 	}
 }

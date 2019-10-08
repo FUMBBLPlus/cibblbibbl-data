@@ -1,18 +1,17 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4041905",
-	"player_performance": {
+	"player": {
 		"916217": {
 			"12416220": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Bestgor \"The Vicious\"",
 				"prespp": 8,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12416222": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					3,
@@ -21,56 +20,57 @@
 				],
 				"name": "Strongor \"The Mighty\"",
 				"prespp": 7,
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"12416224": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Powergor \"The Relentless\"",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12416226": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Mustgor \"The Decided\"",
 				"prespp": 16,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12416228": {
 				"name": "Fastgor \"The Lightning\"",
 				"prespp": 6,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12416229": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Quickgor \"The Legged\"",
 				"prespp": 19,
-				"rus": -1,
-				"tur": 15,
+				"rush": -1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12416233": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hollowgor \"The Hungry\"",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12416234": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tallgor \"The Landscapist\"",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12416236": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Brutegor \"The Doubtless\"",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12416238": {
@@ -79,142 +79,160 @@
 				"type": "R"
 			},
 			"12426803": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Brogor \"The Violent\"",
-				"rus": 14,
+				"rush": 14,
 				"spp": 8,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12520848": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gogor \"The Brutal\"",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"924441": {
 			"12545817": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Uzth ‘the Anvil’  Oreglair",
 				"prespp": 5,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545818": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Vikgon ‘the Boar’ Steelfire",
 				"prespp": 6,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12545866": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Mordohz ‘the Ripper’ Goretongue",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545894": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Tazharr ‘the Leech’ Scarsplitter",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545912": {
-				"blk": 1,
-				"cps": 2,
+				"blocks": 1,
+				"comp": 2,
 				"name": "Sindharr ‘the Charred’ Stormback",
-				"pas": 1,
-				"rus": 15,
+				"pass": 1,
+				"rush": 15,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545915": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Morgir ‘Mad Eye’ Ashcarver",
 				"prespp": 6,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12545919": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Zyorth Blackhammer",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545934": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Glazgoth Magmabeard",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545937": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Fharbaknul Sootstriker",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12545939": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"name": "Azhgar Hellfist",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12576679": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "George Silentsnake",
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			},
-			"924441S1": {
-				"blk": 5,
+			"STAR-16292": {
+				"blocks": 5,
 				"name": "Karhoth Hellcarver",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1129894",
-	"team_performance": {
+	"team": {
 		"916217": {
+			"blocks": 40,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cloven Clan",
+			"pass": 0,
+			"prespp": 79,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 13,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 145
 		},
 		"924441": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 52,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Zharrduk Hellcannons",
+			"pass": 1,
+			"prespp": 25,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 25,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 166
 		}
 	}
 }

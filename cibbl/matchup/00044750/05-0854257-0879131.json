@@ -1,22 +1,21 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3987394",
-	"player_performance": {
+	"player": {
 		"854257": {
 			"11432421": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Peach Blossom Water",
 				"prespp": 54,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11432424": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "After the Lotus Flowers Have Opened",
 				"prespp": 106,
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"11452680": {
@@ -25,45 +24,45 @@
 				"type": "R"
 			},
 			"11565341": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sorrowfully An Ape Calls",
 				"prespp": 34,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11625098": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "I Am Lucky",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 35,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11835792": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Ten Thousand Paths",
 				"prespp": 45,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11959633": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Gnaw the Books",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12099992": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Monkey Fox Flow",
 				"prespp": 37,
-				"rus": 9,
-				"tur": 14,
+				"rush": 9,
+				"turns": 14,
 				"type": "R"
 			},
 			"12134740": {
@@ -71,78 +70,78 @@
 				"type": "R"
 			},
 			"12169211": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Non-Being",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12204485": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Startles the Deer",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12248635": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Wild Herbs",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12273496": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Grain Press Trickle",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"879131": {
 			"11828950": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Calico Jack",
 				"prespp": 75,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828951": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Morag",
 				"prespp": 28,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11828952": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Greta",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11828953": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nefo Dawnripper",
 				"prespp": 38,
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828954": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ibhib Nightbreaker",
 				"prespp": 81,
-				"rus": 13,
-				"tur": 16,
+				"rush": 13,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828955": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Dog Rough Drimond",
 				"prespp": 16,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828956": {
@@ -151,78 +150,96 @@
 				"type": "R"
 			},
 			"11875955": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Two Fingers Luke",
 				"prespp": 7,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11875956": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hook Thorne",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11956118": {
 				"name": "Voodoo Jones",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12037304": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ale Barrel Grey",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12125595": {
 				"name": "Pegleg Peet",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12155340": {
 				"name": "Seabiscuit Maguire",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12233543": {
 				"name": "One-Ear McGee",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12261823": {
 				"name": "Scabby Flaherty",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1065993",
-	"team_performance": {
+	"team": {
 		"854257": {
+			"blocks": 49,
 			"cas": 2,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grand Celestial Delegate",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 355,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 25,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 174
 		},
 		"879131": {
+			"blocks": 28,
 			"cas": 0,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sartosa Black Flags",
+			"pass": 0,
+			"prespp": 301,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 156
 		}
 	}
 }

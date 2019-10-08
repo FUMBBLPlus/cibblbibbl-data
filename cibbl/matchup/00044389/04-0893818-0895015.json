@@ -1,76 +1,75 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3970717",
-	"player_performance": {
+	"player": {
 		"893818": {
 			"12062797": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Victoria",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 26,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12062798": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mala Von Vraf",
 				"prespp": 25,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12062801": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Uri Weller",
 				"prespp": 9,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12062803": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mol Rokitir",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12062804": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rikour",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12062805": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Morian",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12062806": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Vetusta",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12062807": {
 				"name": "Morla",
 				"prespp": 3,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12062808": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Norlian",
 				"prespp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12062809": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ayum",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12062810": {
@@ -78,162 +77,179 @@
 				"type": "R"
 			},
 			"12062811": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Renoir",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12100503": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cadenas Pit",
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12106130": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Eugenia",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
-			"893818S1": {
-				"blk": 2,
+			"STAR-12112": {
+				"blocks": 2,
 				"name": "Quasimordor",
-				"tur": 15,
+				"turns": 15,
 				"type": "S"
 			}
 		},
 		"895015": {
 			"12083002": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Shanka",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083010": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Thrano",
 				"prespp": 6,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12083011": {
 				"name": "Urano",
 				"prespp": 3,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12083013": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Pluro",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083015": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Mared",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 6,
-				"rus": 19,
+				"rush": 19,
 				"spp": 10,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083017": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Japuto",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083372": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Roundril",
 				"prespp": 15,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083373": {
-				"blk": 7,
-				"cps": 1,
+				"blocks": 7,
+				"comp": 1,
 				"name": "Edfrei",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 18,
-				"rus": 3,
+				"rush": 3,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083374": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Bakeon",
 				"prespp": 21,
-				"rus": 16,
+				"rush": 16,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12103501": {
 				"name": "Mercqui",
-				"retired": true,
 				"type": "R"
 			},
 			"12158697": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Stelra",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158704": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Carcosa",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			}
 		}
 	},
 	"replayId": "1046703",
-	"team_performance": {
+	"team": {
 		"893818": {
+			"blocks": 27,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grim Queens",
+			"pass": 6,
+			"prespp": 90,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 8,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 140
 		},
 		"895015": {
+			"blocks": 54,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Springbok Sprites",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 87,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 153
 		}
 	}
 }

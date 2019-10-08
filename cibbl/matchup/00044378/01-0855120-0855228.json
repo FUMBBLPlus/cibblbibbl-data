@@ -1,49 +1,48 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3960833",
-	"player_performance": {
+	"player": {
 		"855120": {
 			"11446518": {
 				"name": "Odorico De Leo",
 				"prespp": 7,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11494637": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Ghezioc",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 60,
-				"rus": 7,
+				"rush": 7,
 				"spp": 1,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11596541": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Innocenzo Mastrogiacomo",
 				"prespp": 24,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11596545": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cassiopea Canova",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11787823": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Nisadei",
 				"prespp": 77,
-				"rus": 44,
+				"rush": 44,
 				"spp": 14,
-				"tds": 3,
-				"tur": 15,
+				"td": 3,
+				"turns": 15,
 				"type": "R"
 			},
 			"11809199": {
@@ -60,161 +59,176 @@
 				],
 				"name": "Cressida Rosenblatt",
 				"prespp": 17,
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"11921959": {
 				"name": "Valfredo Merlino",
 				"prespp": 14,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11921960": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rossana Toro",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12025723": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Arnbjörn the Hound",
 				"prespp": 16,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12095415": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Thodik Deephelm",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12126165": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Landolf Grau",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"855228": {
 			"11448253": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "Kacy Cataranzo",
 				"prespp": 12,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11801400": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"name": "Lei Zhang",
 				"prespp": 18,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11886203": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Josh Levin",
 				"prespp": 19,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12015155": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Asher Manbeck",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12037464": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Anika Spike",
 				"prespp": 10,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12058309": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Aidan Champion",
 				"prespp": 4,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12074916": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Lauren Loth",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 5,
-				"rus": 14,
+				"rush": 14,
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12105923": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zachary Coldsnake",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"12105924": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cory Darkbone",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"12105925": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Brian Palebone",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
 			"12105926": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fredrick Weakfield",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1035444",
-	"team_performance": {
+	"team": {
 		"855120": {
+			"blocks": 33,
 			"cas": 0,
-			"casdiff": -4,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
-			"prestige": 3,
+			"pass": 6,
+			"prespp": 239,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 51,
 			"score": 3,
 			"scorediff": 1,
-			"tds": 3,
-			"tdsdiff": 1
+			"td": 3,
+			"tddiff": 1,
+			"turns": 109
 		},
 		"855228": {
-			"cas": 4,
-			"casdiff": 4,
+			"blocks": 42,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ninja Warriors",
+			"pass": 1,
+			"prespp": 86,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 38,
 			"score": 2,
 			"scorediff": -1,
-			"tds": 2,
-			"tdsdiff": -1
+			"td": 2,
+			"tddiff": -1,
+			"turns": 144
 		}
 	}
 }

@@ -1,17 +1,16 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3930969",
-	"player_performance": {
+	"player": {
 		"867030": {
 			"11633486": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Sokitoomi",
 				"prespp": 29,
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11633494": {
@@ -22,227 +21,242 @@
 			"11633500": {
 				"name": "Quaxili",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11633506": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Xlanaxlot",
 				"prespp": 11,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11633507": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Xapati",
 				"prespp": 18,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11633509": {
 				"name": "Zwup",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11633512": {
 				"name": "Huamundi",
 				"prespp": 23,
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11767503": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Carnivore",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11929270": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Dro'ka'khanxlot",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11938976": {
 				"name": "Ximnizec",
-				"rus": 11,
-				"tur": 10,
+				"rush": 11,
+				"turns": 10,
 				"type": "R"
 			},
 			"11938977": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Julius Grottyfist",
-				"pas": 1,
-				"retired": true,
-				"rus": 4,
-				"tur": 11,
+				"pass": 1,
+				"rush": 4,
+				"turns": 11,
 				"type": "J"
 			},
 			"11938978": {
 				"name": "Tristan Darkstone",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			},
-			"867030M1": {
+			"MERC-7357-1285": {
 				"name": "Merc Skink 1",
-				"tur": 7,
+				"turns": 7,
 				"type": "M"
 			},
-			"867030S1": {
-				"blk": 2,
+			"STAR-7668": {
+				"blocks": 2,
 				"name": "Diegi Maratona",
-				"tur": 2,
+				"turns": 2,
 				"type": "S"
 			}
 		},
 		"873759": {
 			"11744417": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Tristan Tirasse",
 				"prespp": 23,
-				"rus": 7,
-				"tur": 11,
+				"rush": 7,
+				"turns": 11,
 				"type": "R"
 			},
 			"11744440": {
-				"blk": 7,
-				"cps": 1,
+				"blocks": 7,
+				"comp": 1,
 				"name": "Katherine de Vienne",
-				"pas": 7,
+				"pass": 7,
 				"prespp": 48,
-				"rus": 19,
+				"rush": 19,
 				"spp": 7,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"11744441": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Marie de l'Esclat",
 				"prespp": 26,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11744446": {
 				"name": "Denis",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11744449": {
 				"name": "Vivian",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11744453": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Thomassin de Tourraine",
 				"prespp": 20,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11744454": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Nicolete Cyrasse",
 				"prespp": 8,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11766241": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gregory",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11766246": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Dimitri",
 				"prespp": 7,
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11819796": {
-				"blk": 3,
-				"cps": 2,
+				"blocks": 3,
+				"comp": 2,
 				"name": "Albert",
-				"pas": 8,
+				"pass": 8,
 				"prespp": 9,
-				"rus": 6,
+				"rush": 6,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11819801": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Puck",
 				"prespp": 16,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11860937": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Remon de Vry",
 				"prespp": 9,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11900739": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Franc",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11956214": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Derrick",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1000969",
-	"team_performance": {
+	"team": {
 		"867030": {
+			"blocks": 30,
 			"cas": 3,
-			"casdiff": 2,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sport Spawning Zlatlan",
+			"pass": 1,
+			"prespp": 116,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 30,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 131
 		},
 		"873759": {
-			"cas": 1,
-			"casdiff": -2,
+			"blocks": 41,
+			"cas": 0,
+			"casdiff": -3,
+			"comp": 3,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Knightly Virtues",
-			"prestige": 3,
+			"pass": 15,
+			"prespp": 172,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 40,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 148
 		}
 	}
 }

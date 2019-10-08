@@ -1,33 +1,32 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4016764",
-	"player_performance": {
+	"player": {
 		"902875": {
 			"12206473": {
-				"blk": 2,
-				"cps": 1,
-				"fou": 2,
+				"blocks": 2,
+				"comp": 1,
+				"fouls": 2,
 				"name": "Willie War",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 8,
-				"rus": -1,
+				"rush": -1,
 				"spp": 1,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12206474": {
 				"name": "Paul Pike",
 				"prespp": 6,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12206475": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Charles Castle",
 				"prespp": 10,
-				"rus": 16,
-				"tur": 17,
+				"rush": 16,
+				"turns": 17,
 				"type": "R"
 			},
 			"12206482": {
@@ -36,29 +35,29 @@
 				"type": "R"
 			},
 			"12206483": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gregory Wolf",
 				"prespp": 38,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12232700": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fangtooth Grayback",
 				"prespp": 10,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12277143": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Foxy Notta Wolf",
 				"prespp": 21,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12340451": {
@@ -69,24 +68,25 @@
 					"12253781"
 				],
 				"name": "Larry Logistics",
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
 			"12340452": {
 				"name": "James Jettison",
 				"prespp": 1,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12353602": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tommy Tank",
 				"prespp": 3,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12353603": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"dead": [
 					2,
@@ -96,66 +96,67 @@
 				],
 				"name": "Leroy Luger",
 				"prespp": 6,
+				"retired": true,
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12353604": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Cindy Charge",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12415580": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Terry Tank",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		},
 		"905886": {
 			"12253779": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Charles Umpherston Aitchison",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12253780": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Gyles Mackrell",
 				"prespp": 22,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "B"
 			},
 			"12253781": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Samuel White Baker",
 				"prespp": 21,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12253782": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Basil Eddis",
 				"prespp": 23,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12253784": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Eldred Pottinger",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12253785": {
@@ -169,78 +170,91 @@
 				"type": "B"
 			},
 			"12331221": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "John Laird Mair Lawrence",
 				"prespp": 12,
-				"rus": 13,
+				"rush": 13,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "B"
 			},
 			"12429232": {
 				"name": "Zachary Coldrock",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			},
 			"12429233": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Sylvester Clearwing",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			},
 			"12429234": {
 				"name": "George Vilefire",
-				"retired": true,
-				"rus": 4,
-				"tur": 7,
+				"rush": 4,
+				"turns": 7,
 				"type": "J"
 			},
 			"12429235": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Duane Blueshield",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12429236": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cory Deepshield",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1100916",
-	"team_performance": {
+	"team": {
 		"902875": {
+			"blocks": 15,
 			"cas": 1,
 			"casdiff": -4,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "T.H.H.U. Slayers",
-			"prestige": 1,
+			"pass": 3,
+			"prespp": 114,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 28,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 119
 		},
 		"905886": {
+			"blocks": 37,
 			"cas": 5,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sabre Mountain Rattlers",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 136,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 17,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 154
 		}
 	}
 }

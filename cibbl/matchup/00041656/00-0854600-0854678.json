@@ -1,98 +1,97 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3841197",
-	"player_performance": {
+	"player": {
 		"854600": {
 			"11439794": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Juan Robleduro",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11439803": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Pedro Cortadura",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11439804": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Felipe Viajero",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11439806": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Hernando Celador",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11439812": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Enrico Zapador",
-				"rus": 8,
-				"tur": 17,
+				"rush": 8,
+				"turns": 17,
 				"type": "R"
 			},
 			"11439814": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Manuel Grandegolpe",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11439819": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bernardo Suerte",
-				"rus": 11,
-				"tur": 17,
+				"rush": 11,
+				"turns": 17,
 				"type": "R"
 			},
 			"11440418": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Rodrigo Gancho",
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11440506": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Miguel Gavilan",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11440507": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Carlos Dosdaga",
 				"spp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11440521": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Esteban Gardaperro",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"854678": {
 			"11439615": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Nightlord Throiskikkcin",
 				"prespp": 2,
-				"rus": 2,
-				"tur": 12,
+				"rush": 2,
+				"turns": 12,
 				"type": "R"
 			},
 			"11439616": {
@@ -100,105 +99,123 @@
 				"type": "R"
 			},
 			"11439618": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Nightmaster Gnawnagar",
-				"pas": 9,
+				"pass": 9,
 				"prespp": 3,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439620": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Nightmaster Nurgrin",
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11439622": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Nightmaster Arrdrak",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439623": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Crittskik the Green",
 				"prespp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11439624": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Grisnik the Blacktail",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439625": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Sneeneth the Awful",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11439626": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Paskskabak the Padfoot",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439627": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Burhakk the Ghost",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439628": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sneekis the Dragon",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11439629": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Vasquee the Greywhisker",
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "897397",
-	"team_performance": {
+	"team": {
 		"854600": {
+			"blocks": 48,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Montetriste Noblemen",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 31,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 185
 		},
 		"854678": {
+			"blocks": 49,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lords of the Silent Death",
+			"pass": 9,
+			"prespp": 16,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 11,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 157
 		}
 	}
 }

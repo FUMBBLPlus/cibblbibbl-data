@@ -1,37 +1,36 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4000365",
-	"player_performance": {
+	"player": {
 		"895015": {
 			"12083010": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Thrano",
 				"prespp": 23,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083011": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Urano",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 8,
 				"spp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12083015": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Mared",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 31,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12083372": {
@@ -40,17 +39,17 @@
 				"type": "R"
 			},
 			"12083373": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Edfrei",
 				"prespp": 32,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12083374": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Bakeon",
 				"prespp": 37,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12158704": {
@@ -63,89 +62,83 @@
 				"type": "R"
 			},
 			"12338182": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Aaron Truebone",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12338183": {
 				"name": "Martin Quickfire",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			},
 			"12338184": {
 				"name": "Martin Palespike",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12338185": {
 				"name": "Aaron Deepstone",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			},
 			"12338186": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Aaron Palehammer",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			},
 			"12338187": {
 				"name": "Brian Truebone",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
-			"895015S1": {
+			"STAR-7540": {
 				"name": "Eldril Sidewinder",
-				"tur": 9,
+				"turns": 9,
 				"type": "S"
 			}
 		},
 		"897376": {
 			"12122272": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Dark Shade",
 				"prespp": 29,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122273": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Deep Root",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122274": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Long Branch",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122275": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "River Whip",
 				"prespp": 36,
-				"rus": 26,
+				"rush": 26,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12122276": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "White Leaf",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122279": {
@@ -154,52 +147,52 @@
 				"type": "R"
 			},
 			"12122280": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Lichen",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12122281": {
-				"blk": 5,
-				"fou": 2,
+				"blocks": 5,
+				"fouls": 2,
 				"name": "Burl",
 				"prespp": 15,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122282": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mushroom",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12163493": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Swift Switch",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12168335": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Gray Timber",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12171988": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Nut",
 				"prespp": 9,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12282467": {
@@ -210,30 +203,48 @@
 		}
 	},
 	"replayId": "1082293",
-	"team_performance": {
+	"team": {
 		"895015": {
+			"blocks": 25,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Springbok Sprites",
+			"pass": 8,
+			"prespp": 163,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 7,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 146
 		},
 		"897376": {
+			"blocks": 45,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Darkenwood Sentinels",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 179,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 172
 		}
 	}
 }

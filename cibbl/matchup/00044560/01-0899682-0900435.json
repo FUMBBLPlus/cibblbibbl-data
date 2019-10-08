@@ -1,155 +1,154 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3969160",
-	"player_performance": {
+	"player": {
 		"899682": {
 			"12158266": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Ch'nn'r \"Big Boa\" Qll-Crvn",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12158267": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "K'nn'th \"Strangler\" Ptnntcl",
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12158268": {
 				"name": "M'-Kh'nh \"Smart Eye\" Vrrwlss",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12158269": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Ph'rn \"Quick Tail\" Vzz-Sttn",
-				"rus": 13,
+				"rush": 13,
 				"spp": 5,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12158271": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "R'th's'k \"Breeze\" Mssrbr",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12158272": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "T'ng \"Lefty\" Clbrr",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12158273": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "V'sn \"Midget\" Vprr",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12158274": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "C'dm'qsz \"Longtongue\" Ntrll",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12158276": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ch'm \"Blue One\" Ammdtss",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12158279": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dtr'vssr \"Mamba\" Vrddfls",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12158282": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ph'rn \"Gent\" Kbrrcllr",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		},
 		"900435": {
 			"12167616": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Magnus Harald",
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "B"
 			},
 			"12167619": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Geir",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12167621": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Ivar",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12167622": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"fou": 2,
+				"fouls": 2,
 				"name": "Knut",
-				"rus": 12,
+				"rush": 12,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12167623": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Olav",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12167624": {
 				"name": "Rolf",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12167642": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Valr Ulfr",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12167643": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Sigvard Hakon",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12167644": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Inge Anu",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12167645": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Bjorn Rik",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12167647": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					1,
 					5,
@@ -157,36 +156,55 @@
 					"12158269"
 				],
 				"name": "Geir Har",
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1044929",
-	"team_performance": {
+	"team": {
 		"899682": {
+			"blocks": 29,
 			"cas": 1,
-			"casdiff": -3,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "K'r'shh Sl'ppr'ss",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 13,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 113
 		},
 		"900435": {
-			"cas": 4,
-			"casdiff": 3,
+			"blocks": 37,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Snurre Gunnars",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 24,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 161
 		}
 	}
 }

@@ -1,157 +1,156 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3914201",
-	"player_performance": {
+	"player": {
 		"879131": {
 			"11828950": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Calico Jack",
 				"prespp": 15,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11828951": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Morag",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828952": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Greta",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828953": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Nefo Dawnripper",
 				"prespp": 9,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828954": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ibhib Nightbreaker",
 				"prespp": 18,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828955": {
 				"name": "Dog Rough Drimond",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828956": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Grog Swiller Finn",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828957": {
 				"name": "Four-Teeth Sweete",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828958": {
 				"name": "Scar Face Bones",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11828959": {
 				"name": "Rambling Gale",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11828960": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Rats Burford",
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11843870": {
 				"name": "Butcher Godfrey",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			}
 		},
 		"880296": {
 			"11848677": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Pa-kamsi the Merciless",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848678": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Salih the Griefer",
 				"prespp": 5,
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848679": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Djoser the Festerer",
 				"prespp": 2,
-				"rus": 7,
+				"rush": 7,
 				"spp": 8,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11848680": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Taf-nekht the Shambler",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848681": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Set-en-et the Goader",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848682": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Ra-tmeto the Biter",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848683": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Khsathsovairyo the Butcher",
-				"pas": 1,
-				"rus": 8,
-				"tur": 16,
+				"pass": 1,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848685": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nakht-ankh",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11848686": {
 				"name": "Ra-nefer-ab",
-				"rus": 5,
-				"tur": 13,
+				"rush": 5,
+				"turns": 13,
 				"type": "R"
 			},
 			"11848687": {
@@ -162,41 +161,60 @@
 					"11828960"
 				],
 				"name": "Bastet",
+				"retired": true,
 				"type": "R"
 			},
 			"11848689": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Utet",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "981480",
-	"team_performance": {
+	"team": {
 		"879131": {
+			"blocks": 24,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sartosa Black Flags",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 44,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 141
 		},
 		"880296": {
+			"blocks": 47,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lamentations of Mahrak",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 25,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 152
 		}
 	}
 }

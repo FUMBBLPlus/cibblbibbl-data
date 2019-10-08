@@ -1,22 +1,21 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3894335",
-	"player_performance": {
+	"player": {
 		"872809": {
 			"11727680": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Breedmaster Glux",
 				"spp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11727681": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chief Breeder Tork",
 				"prespp": 8,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11727684": {
@@ -25,56 +24,56 @@
 				"type": "R"
 			},
 			"11727685": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Galvanodon (E. S. A1)",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11727687": {
 				"name": "Senior Assistant Jekz",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11727688": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Senior Adjutant Stemirk",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11727689": {
 				"name": "Deputy Breeder Vekz",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11727691": {
 				"name": "Cleanup Manager Stryx",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11727692": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Junior Vice-Breeder Zesz",
-				"pas": 1,
-				"rus": 8,
-				"tur": 10,
+				"pass": 1,
+				"rush": 8,
+				"turns": 10,
 				"type": "R"
 			},
 			"11727693": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Executive Janitor Gnesb",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11727694": {
 				"name": "Provisions Clerk Plyriets",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11727697": {
 				"name": "Feeding Attache Vril",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11745029": {
@@ -85,123 +84,142 @@
 					"11737657"
 				],
 				"name": "Vice-consultant Zrots",
+				"retired": true,
 				"type": "R"
 			},
-			"872809S1": {
+			"STAR-7534": {
 				"name": "Bomber Dribblesnot",
-				"tur": 5,
+				"turns": 5,
 				"type": "S"
 			}
 		},
 		"873391": {
 			"11737657": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Aaoloo Grehhl",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11737661": {
 				"name": "Klix Thryhutt",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11737662": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Phatra Lysxx",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11737663": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Lord of the Deep",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11737679": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Magma-Spawn Hargg",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11737684": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Calax Fia",
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11737689": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Karclaw Othir",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11737702": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Liantis Wurty",
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"11737703": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Espar Wurty",
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11737707": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mityr Junka",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737709": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Polysia Hent",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "958625",
-	"team_performance": {
+	"team": {
 		"872809": {
+			"blocks": 20,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crookback Pit Evil Moons",
+			"pass": 1,
+			"prespp": 18,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 8,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 81
 		},
 		"873391": {
+			"blocks": 36,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Deep Sea Bottom Feeders",
+			"pass": 0,
+			"prespp": 12,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 19,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 161
 		}
 	}
 }

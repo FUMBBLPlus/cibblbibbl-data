@@ -1,54 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3916069",
-	"player_performance": {
+	"player": {
 		"878945": {
 			"11825655": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Lashweaver Taker of Souls",
 				"prespp": 20,
-				"rus": 6,
+				"rush": 6,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11825656": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Mistress of Pain",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 14,
-				"rus": 5,
+				"rush": 5,
 				"spp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11825657": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"name": "Elyssar'sirath",
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11825658": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Laesydra",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11825659": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Shyak",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11825660": {
@@ -56,175 +55,193 @@
 				"type": "R"
 			},
 			"11825661": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Balzropht",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11825662": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fulgrim",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11825663": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Braskh'har",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11825664": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lil'een'dow",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11825665": {
 				"name": "Volgarax",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11850084": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lady Lestella",
 				"prespp": 1,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
-			"878945S1": {
-				"blk": 1,
-				"cps": 1,
+			"STAR-7561": {
+				"blocks": 1,
+				"comp": 1,
 				"name": "Lewdgrip Whiparm",
-				"pas": 7,
-				"rus": 5,
+				"pass": 7,
+				"rush": 5,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "S"
 			}
 		},
 		"879779": {
 			"11839158": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Erika Mencken",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 6,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839171": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Anya Hoess",
 				"prespp": 6,
-				"rus": 6,
+				"rush": 6,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839172": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Roza Klemme",
 				"prespp": 9,
-				"rus": 28,
+				"rush": 28,
 				"spp": 6,
-				"tds": 2,
-				"tur": 11,
+				"td": 2,
+				"turns": 11,
 				"type": "R"
 			},
 			"11839174": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Captain Jonas Renkse",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839175": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Martin Axenrot",
 				"prespp": 9,
 				"spp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11839176": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mikael",
-				"pas": -1,
-				"rus": 3,
-				"tur": 12,
+				"pass": -1,
+				"rush": 3,
+				"turns": 12,
 				"type": "R"
 			},
 			"11839177": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Dan",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839178": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Per",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11839180": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Anders",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839181": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Miron",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11839182": {
 				"name": "Oliver",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11866995": {
 				"name": "Sara Schirlitz",
-				"rus": 9,
-				"tur": 13,
+				"rush": 9,
+				"turns": 13,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "983657",
-	"team_performance": {
+	"team": {
 		"878945": {
+			"blocks": 43,
 			"cas": 4,
 			"casdiff": 1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eternal Ecstasy",
+			"pass": 10,
+			"prespp": 51,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 167
 		},
 		"879779": {
+			"blocks": 51,
 			"cas": 3,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Nightmares Made Flesh",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 50,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 52,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 154
 		}
 	}
 }

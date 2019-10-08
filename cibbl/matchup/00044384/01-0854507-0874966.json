@@ -1,14 +1,13 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3960599",
-	"player_performance": {
+	"player": {
 		"854507": {
 			"11439080": {
 				"name": "Vol'arth the Brazen",
 				"prespp": 64,
-				"rus": 18,
-				"tur": 11,
+				"rush": 18,
+				"turns": 11,
 				"type": "R"
 			},
 			"11439088": {
@@ -20,94 +19,95 @@
 				],
 				"name": "Yibb-Tstll",
 				"prespp": 48,
-				"rus": -2,
-				"tur": 11,
+				"retired": true,
+				"rush": -2,
+				"turns": 11,
 				"type": "R"
 			},
 			"11439090": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Do Galaad, the Herald",
 				"prespp": 77,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582112": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Horok",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11681756": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Neron",
 				"prespp": 20,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11766988": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Malphas, the Harbinger",
 				"prespp": 23,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11807607": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Palehawk, the Revenant",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 19,
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"11851618": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Marius, the Forgiven",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11926823": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Berethan, the Soulless",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11973355": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Nyerahd, the Cunning",
 				"prespp": 14,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12055102": {
 				"mvp": 1,
 				"name": "Hagar-Ryon",
-				"rus": 5,
+				"rush": 5,
 				"spp": 8,
-				"tds": 1,
-				"tur": 1,
+				"td": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12072566": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Ubbo-Tsathla",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12072676": {
 				"name": "Good Ol' Nodens",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12102190": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Bokrug",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			}
 		},
@@ -115,7 +115,7 @@
 			"11764899": {
 				"name": "Benethor",
 				"prespp": 24,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11764901": {
@@ -124,119 +124,137 @@
 				"type": "R"
 			},
 			"11764915": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Finavar",
 				"prespp": 6,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11764917": {
 				"name": "Thuralin",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11764919": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Lemsas",
 				"prespp": 9,
-				"rus": 7,
+				"rush": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11764921": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Morlanna",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 44,
-				"rus": 13,
+				"rush": 13,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11836559": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Vanhir",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 56,
-				"rus": 2,
+				"rush": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11900737": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Beliath the Grimm",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11938500": {
 				"name": "Mereia",
 				"prespp": 11,
-				"rus": 8,
-				"tur": 8,
+				"rush": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11967724": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hauclir",
 				"prespp": 10,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12052561": {
 				"name": "Mereia",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12072196": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Jokleel",
-				"rus": 3,
+				"rush": 3,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122141": {
 				"name": "Maglor",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1035167",
-	"team_performance": {
+	"team": {
 		"854507": {
-			"cas": 1,
-			"casdiff": -1,
+			"blocks": 38,
+			"cas": 0,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Coven of the Mirrored Hall",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 301,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 160
 		},
 		"874966": {
+			"blocks": 29,
 			"cas": 2,
-			"casdiff": 1,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
+			"pass": -3,
+			"prespp": 203,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 33,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 157
 		}
 	}
 }

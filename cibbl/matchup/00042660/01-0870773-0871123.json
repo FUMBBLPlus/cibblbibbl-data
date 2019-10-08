@@ -1,88 +1,87 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3887035",
-	"player_performance": {
+	"player": {
 		"870773": {
 			"11692623": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Cor'Malatril Cyredeplith",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11692625": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Fera'Malatril Dryear'eplith",
-				"pas": -1,
-				"rus": 17,
+				"pass": -1,
+				"rush": 17,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11692909": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Elavar Hal'us",
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11692952": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Spar'Py Sanith",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11692955": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Re Fel",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11692956": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Alean'ghymn Athem",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11692960": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gilimil Valsa'Hunithdles",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11692961": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Aerenerl Kennyrmitore Arabirretyn",
-				"rus": -2,
-				"tur": 16,
+				"rush": -2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11692964": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Baelahel Hlaemitore",
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11692971": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Ferati Afrailoth Valsa'Cyredtylar",
-				"pas": 6,
-				"rus": 7,
+				"pass": 6,
+				"rush": 7,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11692981": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Harozair Dwin'nddare",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
@@ -90,62 +89,62 @@
 			"11697665": {
 				"mvp": 1,
 				"name": "Sir Marcelet de Langre",
-				"pas": 1,
-				"rus": 13,
+				"pass": 1,
+				"rush": 13,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11697666": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Sir Verain de Lunay",
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11697667": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sir Gadiffer du Gibet",
-				"rus": 10,
-				"tur": 11,
+				"rush": 10,
+				"turns": 11,
 				"type": "R"
 			},
 			"11697672": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Thommas du Bois",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11697673": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gilbert Rallart",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11697674": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Symon Cirasse",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11697675": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Dreue de Dampierre",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11697676": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Domin de Labrait",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11697677": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Milet la Pucelle",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11697678": {
@@ -154,51 +153,69 @@
 			},
 			"11697679": {
 				"name": "Rihcart Pidoye",
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 6,
+				"td": 1,
+				"turns": 6,
 				"type": "R"
 			},
 			"11697680": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Noel de Fromonville",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11697681": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Estiene de Braquemont",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "950125",
-	"team_performance": {
+	"team": {
 		"870773": {
+			"blocks": 27,
 			"cas": 0,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Coeth-Mara Warhawks",
-			"prestige": 3,
+			"pass": 5,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 29,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 133
 		},
 		"871123": {
-			"cas": 3,
-			"casdiff": 3,
+			"blocks": 27,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Knights of the Black Grail",
+			"pass": 1,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 29,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 166
 		}
 	}
 }

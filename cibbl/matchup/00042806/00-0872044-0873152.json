@@ -1,150 +1,148 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3896583",
-	"player_performance": {
+	"player": {
 		"872044": {
 			"11713837": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 2,
 				"name": "Carol I",
 				"prespp": 17,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713838": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ferdinand I",
 				"prespp": 11,
-				"rus": 7,
-				"tur": 7,
+				"rush": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11713840": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Burggraf of Nuremberg",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713841": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Reichsgraf of Hohenzollern",
 				"prespp": 19,
-				"rus": 18,
-				"tur": 11,
+				"rush": 18,
+				"turns": 11,
 				"type": "R"
 			},
 			"11713842": {
 				"name": "Graf of Sigmaringen",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11713845": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Constantin",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713846": {
 				"name": "Dragonmir",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11713847": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Grigore",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11734005": {
 				"mvp": 1,
 				"name": "Anna Jagiellon",
 				"spp": 5,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11756292": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Maria Christina",
-				"pas": 1,
-				"rus": 11,
-				"tur": 14,
+				"pass": 1,
+				"rush": 11,
+				"turns": 14,
 				"type": "R"
 			},
 			"11756294": {
 				"name": "Aaron Darkorc",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			}
 		},
 		"873152": {
 			"11733599": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Robo-Gnome",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11733601": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Inspector Gadget",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11733603": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Taavit Gadget Mallet",
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11733606": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Duvart Gadget Hat",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11733607": {
 				"name": "Smemwiss Gadget Skates",
 				"prespp": 3,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11733612": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Nibarac",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11733613": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zemumtest",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11733616": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Puddneck",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11733617": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Walkat",
 				"prespp": 7,
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11733618": {
@@ -152,50 +150,68 @@
 				"type": "R"
 			},
 			"11733619": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Giundefinedunjairt",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11733620": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jekic",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11743208": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Bilni Gadget Boooom",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "961182",
-	"team_performance": {
+	"team": {
 		"872044": {
+			"blocks": 28,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Strigos Elită",
+			"pass": 1,
+			"prespp": 47,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 36,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 111
 		},
 		"873152": {
+			"blocks": 43,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Go-Go Gadget Gnomes",
+			"pass": 0,
+			"prespp": 15,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 143
 		}
 	}
 }

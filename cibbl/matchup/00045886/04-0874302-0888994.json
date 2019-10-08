@@ -1,23 +1,22 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4033537",
-	"player_performance": {
+	"player": {
 		"874302": {
 			"11754146": {
 				"name": "Spilamberto",
 				"prespp": 89,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11783522": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Modena",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 66,
-				"rus": 19,
+				"rush": 19,
 				"spp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11967732": {
@@ -26,119 +25,118 @@
 				"type": "R"
 			},
 			"12062178": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Castelfranco Emilia II",
 				"prespp": 31,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12143724": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Prignano sulla Secchia IV",
 				"prespp": 10,
 				"spp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12171654": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Castelnuovo Rangone II",
 				"prespp": 55,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12223648": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Savignano sul Panaro III",
 				"prespp": 13,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12255081": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Sassuolo II",
 				"prespp": 9,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12374516": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Marano sul Panaro V",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12374520": {
 				"name": "Maranello III",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12402224": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Castelvetro III",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12496458": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "San Cesario sul Panaro IV",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12514876": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fiorano VII",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12514881": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vignola II",
 				"prespp": 6,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"888994": {
 			"11985437": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Vargwursgelnd",
 				"prespp": 51,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"11985438": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Gwoftirbnewfg",
 				"prespp": 91,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"11985441": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Murchú Varken",
 				"prespp": 27,
-				"rus": 1,
+				"rush": 1,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11985462": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Jforznthrargh",
 				"prespp": 58,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12031804": {
@@ -149,46 +147,46 @@
 			"12042228": {
 				"name": "Aodhán Coobe",
 				"prespp": 17,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12042370": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Ualraig Fovor",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12129508": {
 				"name": "Hanrahan Fearghail",
 				"prespp": 21,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12277260": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Brocc Rydan",
 				"prespp": 10,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12277426": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Muirne Ariannona",
-				"rus": -3,
-				"tur": 8,
+				"rush": -3,
+				"turns": 8,
 				"type": "R"
 			},
 			"12297183": {
-				"fou": 5,
+				"fouls": 5,
 				"name": "Olcán Cid",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12341066": {
@@ -196,12 +194,12 @@
 				"type": "R"
 			},
 			"12350238": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Fwirsvognal",
 				"prespp": 29,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12413857": {
@@ -209,9 +207,9 @@
 				"type": "R"
 			},
 			"12529352": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Domhnall Marney",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12529367": {
@@ -221,30 +219,48 @@
 		}
 	},
 	"replayId": "1120016",
-	"team_performance": {
+	"team": {
 		"874302": {
+			"blocks": 30,
 			"cas": 1,
-			"casdiff": -4,
+			"casdiff": -3,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grasparossa B.B.C",
+			"pass": 2,
+			"prespp": 326,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 115
 		},
 		"888994": {
-			"cas": 5,
-			"casdiff": 4,
+			"blocks": 39,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Beerbog Behemoths",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 420,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 16,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 136
 		}
 	}
 }

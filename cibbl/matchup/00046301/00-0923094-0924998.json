@@ -1,62 +1,61 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4042427",
-	"player_performance": {
+	"player": {
 		"923094": {
 			"12524800": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Bered",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12524801": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Dylon",
 				"prespp": 2,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12524802": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 2,
 				"name": "Kaerio",
 				"prespp": 16,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12524803": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Laekces",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12524804": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nereus",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12524805": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dover",
 				"prespp": 14,
-				"rus": 12,
-				"tur": 8,
+				"rush": 12,
+				"turns": 8,
 				"type": "R"
 			},
 			"12524806": {
 				"name": "Bay",
-				"rus": 23,
+				"rush": 23,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12524807": {
@@ -68,137 +67,153 @@
 				"type": "R"
 			},
 			"12524809": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Earendil",
 				"prespp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12578167": {
 				"name": "Xavier Whitefield",
-				"retired": true,
 				"type": "J"
 			}
 		},
 		"924998": {
 			"12554695": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Jhïef",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12554696": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Môekh ‘Mayhem’",
 				"spp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12554697": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Ekhlûd ‘The Spike’",
 				"prespp": 5,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12554703": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Mikhlô",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 10,
-				"rus": 3,
+				"rush": 3,
 				"spp": 2,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12554704": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Snôzkh",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12554706": {
 				"name": "Mukhrët",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12554722": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gitrikh",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12554725": {
 				"name": "Harâ",
-				"pas": 1,
-				"rus": 11,
-				"tur": 10,
+				"pass": 1,
+				"rush": 11,
+				"turns": 10,
 				"type": "R"
 			},
 			"12554727": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Grerdrim",
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12579461": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Järdikh",
-				"pas": 1,
-				"rus": 19,
+				"pass": 1,
+				"rush": 19,
 				"spp": 6,
-				"tds": 2,
-				"tur": 18,
+				"td": 2,
+				"turns": 18,
 				"type": "R"
 			},
 			"12579462": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Edward Coldeagle",
-				"retired": true,
-				"tur": 18,
+				"turns": 18,
 				"type": "J"
 			},
-			"924998S1": {
-				"blk": 1,
-				"fou": 1,
+			"STAR-7567": {
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Garbage Throttlesnot",
-				"tur": 3,
+				"turns": 3,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1130476",
-	"team_performance": {
+	"team": {
 		"923094": {
+			"blocks": 30,
 			"cas": 3,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rising Tsunami",
+			"pass": 0,
+			"prespp": 46,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 35,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 95
 		},
 		"924998": {
-			"cas": 4,
-			"casdiff": 1,
+			"blocks": 35,
+			"cas": 3,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Khalibân Shivters",
+			"pass": 3,
+			"prespp": 15,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 33,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 152
 		}
 	}
 }

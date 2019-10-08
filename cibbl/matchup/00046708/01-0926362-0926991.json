@@ -1,12 +1,11 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4062912",
-	"player_performance": {
+	"player": {
 		"926362": {
 			"12575045": {
 				"name": "Nik-Chihtlutl",
-				"tur": 3,
+				"turns": 3,
 				"type": "B"
 			},
 			"12575050": {
@@ -16,193 +15,210 @@
 			},
 			"12575051": {
 				"name": "Cetip",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12575052": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Co'axchox",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12575053": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Tipitztuch",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12575056": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Chondauixtocl",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12575057": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Qre'axyac-Xlti",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 8,
-				"rus": 13,
+				"rush": 13,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12575058": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Haxtlun-Xi",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12575059": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Krar-Qretitl",
 				"type": "R"
 			},
 			"12575061": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Xektech-Ga'e",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12646859": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Qa'echtitl-Kre",
-				"rus": 3,
+				"rush": 3,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12646861": {
 				"name": "Graham Vileeagle",
-				"retired": true,
 				"type": "J"
 			}
 		},
 		"926991": {
 			"12585189": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Malice Itself",
 				"prespp": 22,
-				"tur": 9,
+				"turns": 9,
 				"type": "B"
 			},
 			"12585190": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Vaztak Chaosbane",
 				"prespp": 10,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585191": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ma'tet",
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585192": {
 				"name": "Ma'nem",
 				"prespp": 19,
-				"rus": 13,
-				"tur": 8,
+				"rush": 13,
+				"turns": 8,
 				"type": "R"
 			},
 			"12585193": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Ma'zek",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585194": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ma'zoth",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585195": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ma'thik",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12585196": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Ma'ret",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585197": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Ma'kra",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585198": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Ma'nien",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12622880": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Kithros Endbringer",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1153576",
-	"team_performance": {
+	"team": {
 		"926362": {
+			"blocks": 31,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Huah-Huah's Honor Guard",
-			"prestige": 1,
+			"pass": 3,
+			"prespp": 32,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 16,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 121
 		},
 		"926991": {
+			"blocks": 48,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malign Malignation",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 82,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 25,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 153
 		}
 	}
 }

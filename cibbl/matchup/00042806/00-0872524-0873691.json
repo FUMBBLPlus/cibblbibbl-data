@@ -1,38 +1,37 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3897351",
-	"player_performance": {
+	"player": {
 		"872524": {
 			"11724299": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Brohna Purebite",
 				"prespp": 20,
-				"rus": 2,
+				"rush": 2,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11724300": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Ysma Darkwhisper",
 				"prespp": 6,
-				"rus": 6,
+				"rush": 6,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11724301": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Jonabert Deadheart",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11724302": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					1,
 					8,
@@ -41,179 +40,198 @@
 				],
 				"name": "Sandrobald Stonetears",
 				"prespp": 2,
-				"tur": 7,
+				"retired": true,
+				"turns": 7,
 				"type": "R"
 			},
 			"11724303": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Yuza Sweetslash",
 				"prespp": 13,
-				"rus": 7,
-				"tur": 15,
+				"rush": 7,
+				"turns": 15,
 				"type": "R"
 			},
 			"11724304": {
-				"cps": 2,
+				"comp": 2,
 				"name": "Tarya Frozenbreath",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 4,
-				"rus": 16,
+				"rush": 16,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11724305": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Armidion",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11724309": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Barithius",
 				"prespp": 3,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11724310": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ordham",
 				"prespp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11724311": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Sarrumar",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11724312": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gerogious",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11739350": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Kikor",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		},
 		"873691": {
 			"11743149": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tien Embertail",
-				"rus": 16,
-				"tur": 16,
+				"rush": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743150": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Khitzuk Darkblade",
-				"pas": 6,
-				"rus": 17,
+				"pass": 6,
+				"rush": 17,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743151": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Struk Flamefinger",
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743152": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Qhrit Ashenclaw",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743153": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Qrach Flamecleaver",
 				"spp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11743154": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Stiek Ashjaw",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11743155": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Qrut Emberchaser",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11743156": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Zhonq Deathflare",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11743157": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Firefang",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743158": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Krek Ashjaw",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11743159": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Zian Cindergaze",
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "962080",
-	"team_performance": {
+	"team": {
 		"872524": {
+			"blocks": 43,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Silver Pinnacle Renegades",
+			"pass": 2,
+			"prespp": 59,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 31,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 147
 		},
 		"873691": {
+			"blocks": 42,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Volkn‌‌ Firetails",
+			"pass": 6,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 42,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 132
 		}
 	}
 }

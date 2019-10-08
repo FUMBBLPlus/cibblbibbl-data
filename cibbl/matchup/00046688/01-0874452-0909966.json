@@ -1,61 +1,60 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4060964",
-	"player_performance": {
+	"player": {
 		"874452": {
 			"11756582": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Draco Dracovich",
 				"prespp": 177,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11756629": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Igor Igorivich",
 				"prespp": 174,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11980258": {
 				"name": "Tabbart",
 				"prespp": 20,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11981974": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Arnold",
 				"prespp": 8,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12254615": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nickolaus",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12319529": {
 				"name": "Dracul Draculesti",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 63,
-				"rus": 45,
+				"rush": 45,
 				"spp": 6,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"12368009": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Norbert von Bluten",
 				"prespp": 31,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12415471": {
@@ -63,23 +62,22 @@
 				"name": "Werner",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12444792": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Peter Badblood",
 				"prespp": 22,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12529939": {
 				"name": "Hubert",
-				"retired": true,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 6,
+				"td": 1,
+				"turns": 6,
 				"type": "R"
 			},
 			"12550877": {
@@ -89,84 +87,84 @@
 			"12550878": {
 				"name": "Horst",
 				"prespp": 4,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12616815": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Nicole Nicol?escu",
 				"prespp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12616817": {
 				"name": "Anna",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12616818": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Manfred",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"909966": {
 			"12317570": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Vlaedi MirTaltos",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 67,
-				"rus": 20,
+				"rush": 20,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12317571": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Sword of Khaine",
 				"prespp": 34,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12317572": {
-				"blk": 7,
-				"cps": 2,
+				"blocks": 7,
+				"comp": 2,
 				"name": "Dagger of Khaine",
-				"pas": 12,
+				"pass": 12,
 				"prespp": 43,
-				"rus": 15,
+				"rush": 15,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12317582": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mel Estav",
 				"prespp": 31,
 				"spp": 3,
-				"tds": 1,
-				"tur": 6,
+				"td": 1,
+				"turns": 6,
 				"type": "R"
 			},
 			"12317593": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Ishtavan the depraved",
 				"prespp": 34,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12334820": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Sticks \"no future in it\" Stronzon",
 				"prespp": 31,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12347824": {
@@ -178,37 +176,38 @@
 				],
 				"name": "Draeragaer Silentstep",
 				"prespp": 25,
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"12454883": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Terion",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12518497": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Shoen Karflaz",
 				"prespp": 3,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12550421": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nar Vane",
 				"prespp": 8,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12599885": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Kragar the failed Dragon",
 				"prespp": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12606853": {
@@ -217,36 +216,54 @@
 			},
 			"12628117": {
 				"name": "Glowbug the replaced",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1151363",
-	"team_performance": {
+	"team": {
 		"874452": {
-			"cas": 3,
-			"casdiff": 2,
+			"blocks": 45,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 510,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 53,
 			"score": 3,
 			"scorediff": 1,
-			"tds": 3,
-			"tdsdiff": 1
+			"td": 3,
+			"tddiff": 1,
+			"turns": 158
 		},
 		"909966": {
+			"blocks": 38,
 			"cas": 1,
-			"casdiff": -2,
+			"casdiff": 0,
+			"comp": 3,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Spite Reach Corsairs",
+			"pass": 14,
+			"prespp": 297,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 35,
 			"score": 2,
 			"scorediff": -1,
-			"tds": 2,
-			"tdsdiff": -1
+			"td": 2,
+			"tddiff": -1,
+			"turns": 135
 		}
 	}
 }

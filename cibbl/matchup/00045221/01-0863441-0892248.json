@@ -1,22 +1,21 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3999198",
-	"player_performance": {
+	"player": {
 		"863441": {
 			"11582132": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Firithas",
 				"prespp": 76,
-				"rus": -4,
-				"tur": 11,
+				"rush": -4,
+				"turns": 11,
 				"type": "R"
 			},
 			"11582133": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Falandar",
 				"prespp": 89,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11582134": {
@@ -25,68 +24,68 @@
 				"type": "R"
 			},
 			"11582135": {
-				"cps": 2,
+				"comp": 2,
 				"name": "Norlir",
-				"pas": 15,
+				"pass": 15,
 				"prespp": 42,
-				"rus": 1,
+				"rush": 1,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11582136": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Gethonil",
 				"prespp": 21,
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11582137": {
 				"name": "Linfarnrir",
 				"prespp": 32,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11582139": {
 				"name": "Arathion",
 				"prespp": 34,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11657983": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Nuirlan",
 				"prespp": 51,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12004052": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Gaezen",
 				"prespp": 49,
-				"rus": 4,
+				"rush": 4,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12031273": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Maerurhel",
 				"prespp": 24,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12055204": {
 				"name": "Bhaiotlulon",
 				"prespp": 12,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12055992": {
@@ -97,12 +96,13 @@
 					"12037800"
 				],
 				"name": "Aiuzirvel",
+				"retired": true,
 				"type": "R"
 			},
 			"12255344": {
 				"name": "Tharal",
 				"prespp": 1,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12294347": {
@@ -113,65 +113,66 @@
 					"12037796"
 				],
 				"name": "Iothac",
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			}
 		},
 		"892248": {
 			"12037796": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Threasher",
 				"prespp": 32,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12037798": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sharpnose",
 				"prespp": 14,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12037800": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Blackfin",
 				"prespp": 20,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12037810": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Mutineer Morin",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 20,
-				"rus": 8,
+				"rush": 8,
 				"spp": 1,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12037811": {
 				"name": "Balthasar Shipwright",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12037816": {
 				"name": "Sharktooth",
 				"prespp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12037817": {
-				"cps": 1,
+				"comp": 1,
 				"name": "One-armed Jack",
 				"prespp": 6,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12037818": {
@@ -180,81 +181,99 @@
 				"type": "R"
 			},
 			"12138034": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Banjo Billy",
 				"prespp": 8,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12140421": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gunner",
 				"prespp": 7,
-				"rus": 6,
-				"tur": 12,
+				"rush": 6,
+				"turns": 12,
 				"type": "R"
 			},
 			"12172370": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Slim Jim",
 				"prespp": 8,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12235834": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Bosun Codswallap",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12235835": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Hooktooth",
 				"prespp": 9,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12293105": {
 				"name": "Cap'n Dirk Bloodlust",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
-			"892248S1": {
-				"blk": 6,
+			"STAR-14041": {
+				"blocks": 6,
 				"name": "Hannibal Ragtooth",
-				"tur": 14,
+				"turns": 14,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1080912",
-	"team_performance": {
+	"team": {
 		"863441": {
+			"blocks": 28,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tor Anroc Anglers",
-			"prestige": 3,
+			"pass": 15,
+			"prespp": 487,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 1,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 119
 		},
 		"892248": {
+			"blocks": 31,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 2,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crimson Fins",
+			"pass": 4,
+			"prespp": 133,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 15,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 138
 		}
 	}
 }

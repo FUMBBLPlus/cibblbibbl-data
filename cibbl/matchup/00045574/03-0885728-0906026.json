@@ -1,66 +1,65 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4014807",
-	"player_performance": {
+	"player": {
 		"885728": {
 			"11933450": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Yarrah the Gray",
 				"prespp": 53,
 				"spp": 4,
-				"tur": 9,
+				"turns": 9,
 				"type": "B"
 			},
 			"11933452": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Naure Roo",
 				"prespp": 47,
-				"rus": 1,
-				"tur": 12,
+				"rush": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"11933454": {
 				"name": "Rippa Roo",
 				"prespp": 44,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11933455": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Pash a Roo",
 				"prespp": 53,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939409": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Flower",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12196374": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Darlee Roo",
 				"prespp": 19,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12196375": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Cuetee",
 				"prespp": 4,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12322144": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"dead": [
 					1,
@@ -70,175 +69,192 @@
 				],
 				"name": "Keari Roo",
 				"prespp": 11,
+				"retired": true,
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12334234": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kylie",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12403456": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Mera u Roo",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12414492": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vincent Hardbrook",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			}
 		},
 		"906026": {
 			"12255960": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Angry",
 				"prespp": 21,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12255961": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Mani Mad Cap",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12255962": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Dizgot Boomfeet",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 22,
-				"rus": 18,
+				"rush": 18,
 				"spp": 12,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12255963": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Vok Madblast",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12255966": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Kwitzikle Sparkvolt",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12255970": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fydiert Eagerflame",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12255972": {
 				"name": "Yralme Megaslice",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12255977": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Imixis Coggob",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12255981": {
 				"name": "Zyngle Cogbrass",
 				"prespp": 3,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12255982": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Nondert Lazyjolt",
 				"prespp": 2,
 				"type": "R"
 			},
 			"12255984": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gile Rutsgear",
-				"retired": true,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"12255985": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Symer Shitftwister",
 				"prespp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12358465": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "Turney turkeY",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12358466": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gortik Tak",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12411917": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Angry",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
-			"906026S1": {
-				"blk": 5,
+			"STAR-7573": {
+				"blocks": 5,
 				"name": "Ripper",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1098766",
-	"team_performance": {
+	"team": {
 		"885728": {
+			"blocks": 34,
 			"cas": 3,
-			"casdiff": -3,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bear Clutchers",
+			"pass": 0,
+			"prespp": 241,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 22,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 106
 		},
 		"906026": {
-			"cas": 6,
-			"casdiff": 3,
+			"blocks": 47,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Karak Azog Outlaws",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 57,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 25,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 151
 		}
 	}
 }

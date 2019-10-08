@@ -1,160 +1,156 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3944522",
-	"player_performance": {
+	"player": {
 		"855228": {
 			"11448229": {
 				"name": "Jessie Graff",
 				"prespp": 68,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11448253": {
-				"blk": 2,
-				"fou": 5,
+				"blocks": 2,
+				"fouls": 5,
 				"name": "Kacy Cataranzo",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 12,
-				"rus": 5,
-				"tur": 10,
+				"rush": 5,
+				"turns": 10,
 				"type": "R"
 			},
 			"11494706": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Jack Caldiero",
 				"prespp": 38,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11801400": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Lei Zhang",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11869550": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Daniel Gil",
 				"prespp": 28,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11886203": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Josh Levin",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12015155": {
-				"blk": 12,
+				"blocks": 12,
 				"mvp": 1,
 				"name": "Asher Manbeck",
 				"prespp": 8,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12037464": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Anika Spike",
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12037465": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Harold Dirtysnake",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12037466": {
-				"blk": 3,
-				"fou": 3,
+				"blocks": 3,
+				"fouls": 3,
 				"name": "Duane Weakfire",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			},
 			"12037467": {
 				"name": "Edward Grottybone",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			}
 		},
 		"876774": {
 			"11791176": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Mather Teresa of Diesdolf",
 				"prespp": 19,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11791177": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Saint Agnes \"The Comet\"",
 				"prespp": 10,
-				"rus": 1,
+				"rush": 1,
 				"spp": 6,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11791215": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ludmilla \"The Redeemed\"",
 				"prespp": 16,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11791216": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Carol \"Divine Punishment\"",
 				"prespp": 9,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11791220": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Berta \"The Humble Daughter\"",
 				"prespp": 24,
 				"spp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11791224": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ingrid \"Blind Faith\"",
 				"prespp": 13,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11791226": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Luisa \"The Martyr\"",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791229": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Johanna \"Silent Devotion\"",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11791244": {
@@ -163,54 +159,72 @@
 				"type": "R"
 			},
 			"11898482": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Caterina \"Righteous Judgement\"",
 				"prespp": 3,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11928024": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Rosetta \"Rose Thorn\"",
 				"prespp": 6,
-				"rus": 6,
-				"tur": 15,
+				"rush": 6,
+				"turns": 15,
 				"type": "R"
 			},
 			"11928026": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Olga \"Iron Cilice\"",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1016772",
-	"team_performance": {
+	"team": {
 		"855228": {
-			"cas": 3,
-			"casdiff": 2,
+			"blocks": 58,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ninja Warriors",
+			"pass": 1,
+			"prespp": 181,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 135
 		},
 		"876774": {
+			"blocks": 32,
 			"cas": 1,
-			"casdiff": -2,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Congregation of Holy Touchdown",
+			"pass": 0,
+			"prespp": 102,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 7,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 108
 		}
 	}
 }

@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3866778",
-	"player_performance": {
+	"player": {
 		"855530": {
 			"11453258": {
 				"name": "Krotep the Silent",
@@ -10,195 +9,213 @@
 				"type": "R"
 			},
 			"11453259": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Ximtra the Everlasting",
 				"prespp": 6,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11453261": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Tutencal the Harvester",
 				"prespp": 21,
-				"rus": 30,
+				"rush": 30,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11453266": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Ramsezuma Bonescale",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11453268": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Nephalanque Crushjaw",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11453272": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Chakhamen Blood River",
 				"prespp": 13,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11453281": {
-				"blk": 4,
-				"fou": 2,
+				"blocks": 4,
+				"fouls": 2,
 				"name": "Offering of Blood",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11453282": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Offering of Bone",
 				"prespp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11453284": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Offering of Flesh",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11453285": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Offering of Claws",
 				"prespp": 11,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11453289": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Offering of Fangs",
 				"prespp": 15,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11515343": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Offering of Scales",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"856697": {
 			"11472246": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Skulltaker",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472247": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Urifdaemonkin",
 				"prespp": 4,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11472248": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Valkia the Bloody",
 				"prespp": 6,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472249": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Red Prophet",
 				"prespp": 9,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11472250": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Arkh'gar",
 				"prespp": 13,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472254": {
 				"name": "Tallomin",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11472255": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Arvax the Mad",
 				"prespp": 13,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11472256": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Scyrak",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472262": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Headsman of Cellebos",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472265": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ba'ar Zul",
 				"prespp": 3,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11472270": {
 				"name": "Drakkar",
 				"prespp": 8,
-				"rus": 11,
-				"tur": 16,
+				"rush": 11,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "926612",
-	"team_performance": {
+	"team": {
 		"855530": {
+			"blocks": 66,
 			"cas": 2,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Guardians of the Lurking God",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 86,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 161
 		},
 		"856697": {
+			"blocks": 31,
 			"cas": 0,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crimson Skull",
+			"pass": 0,
+			"prespp": 62,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 11,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 132
 		}
 	}
 }

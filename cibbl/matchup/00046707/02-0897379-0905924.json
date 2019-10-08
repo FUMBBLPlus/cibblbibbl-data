@@ -1,121 +1,119 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4064192",
-	"player_performance": {
+	"player": {
 		"897379": {
 			"12122311": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Gotrek Gurnisson",
 				"prespp": 48,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122312": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Snorri Nosebiter",
 				"prespp": 41,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122318": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Cpt. Long Drong",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 67,
-				"rus": 18,
+				"rush": 18,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122319": {
 				"name": "First Mate Morgrim Dallinsson",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 70,
-				"rus": 13,
-				"tur": 16,
+				"rush": 13,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122320": {
 				"name": "Finn Hargrimsson",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122326": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Belegar Baliksnev",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12122332": {
 				"name": "Vragni Rorekfind",
 				"prespp": 8,
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12182659": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Rodi Balkisson",
 				"prespp": 53,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12543798": {
 				"name": "Bjorni Bjornisson",
 				"prespp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12655965": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grunni Ranulfsson",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12656004": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Malakai Makaisson",
 				"prespp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12670428": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Flakki Kettrisson",
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"905924": {
 			"12254401": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Reddup",
 				"prespp": 16,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12254402": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Spook",
 				"prespp": 23,
-				"tur": 8,
+				"turns": 8,
 				"type": "B"
 			},
 			"12254405": {
@@ -126,33 +124,32 @@
 			"12254445": {
 				"name": "Scumm The Rebel",
 				"prespp": 6,
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12263755": {
 				"name": "Gizmo The Gambler",
 				"prespp": 9,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12268727": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Redbone",
 				"prespp": 86,
-				"rus": 25,
+				"rush": 25,
 				"spp": 6,
-				"tds": 2,
-				"tur": 14,
+				"td": 2,
+				"turns": 14,
 				"type": "R"
 			},
 			"12528884": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Angron",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12547748": {
@@ -161,68 +158,86 @@
 				"type": "R"
 			},
 			"12595120": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Grub The Inedible",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12605626": {
 				"name": "Overseer Lasher",
-				"pas": -1,
-				"rus": 5,
-				"tur": 13,
+				"pass": -1,
+				"rush": 5,
+				"turns": 13,
 				"type": "R"
 			},
 			"12622816": {
 				"name": "Oddgit",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12636263": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Skweegus Da Trapper",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
-			"905924S1": {
-				"blk": 2,
+			"STAR-7567": {
+				"blocks": 2,
 				"name": "Garbage Throttlesnot",
-				"tur": 6,
+				"turns": 6,
 				"type": "S"
 			},
-			"905924S2": {
-				"blk": 4,
+			"STAR-7573": {
+				"blocks": 4,
 				"name": "Ripper",
-				"tur": 14,
+				"turns": 14,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1155042",
-	"team_performance": {
+	"team": {
 		"897379": {
+			"blocks": 35,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Karak Kadrin Slayers",
-			"prestige": 1,
+			"pass": 4,
+			"prespp": 327,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 37,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 159
 		},
 		"905924": {
+			"blocks": 28,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Squill's Squig Pitt",
-			"prestige": 1,
+			"pass": -1,
+			"prespp": 219,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 101
 		}
 	}
 }

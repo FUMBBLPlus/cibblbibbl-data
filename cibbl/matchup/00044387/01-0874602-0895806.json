@@ -1,167 +1,165 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3960244",
-	"player_performance": {
+	"player": {
 		"874602": {
 			"11759478": {
-				"blk": 9,
+				"blocks": 9,
 				"mvp": 1,
 				"name": "Soso",
 				"prespp": 57,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11759486": {
 				"name": "Oliver Gobwell",
 				"prespp": 28,
-				"rus": 35,
+				"rush": 35,
 				"spp": 6,
-				"tds": 2,
-				"tur": 13,
+				"td": 2,
+				"turns": 13,
 				"type": "R"
 			},
 			"11759487": {
 				"name": "Gobespierre",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11759493": {
 				"name": "Goblivar",
-				"retired": true,
 				"type": "R"
 			},
 			"11759494": {
 				"name": "Gobseppe",
 				"prespp": 10,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11759495": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gobbibaldi",
 				"prespp": 18,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11773725": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bomma Meinhof",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11834404": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gobiliano Fanata",
 				"prespp": 20,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11874602": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Uli",
 				"prespp": 26,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11893279": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sporfungus",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11995722": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gobsci",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12061902": {
 				"name": "Freddy Fungels",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12088658": {
 				"name": "Waaaghcuse",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12122471": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Che Gobvara",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
 		"895806": {
 			"12096366": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Lord Stritzak Nightmaul",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12096367": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Lord Chrikch Fierymaul",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12096369": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "High Priest Zrach Roughfang",
 				"prespp": 6,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12096370": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "High Priest Icquelk Heartclaw",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12096371": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Threekch Amberchest",
 				"prespp": 12,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12096372": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sniskrul Lowmaw",
 				"prespp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12096373": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Skruthruach Steelfury",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12096374": {
 				"name": "Qhrotch Barbedfinger",
 				"prespp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12096375": {
 				"name": "Vonkalk Ashborn",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12096376": {
@@ -173,44 +171,62 @@
 				"name": "Chruch Grimlasher",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12115666": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Antirion Woodscratcher",
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1034768",
-	"team_performance": {
+	"team": {
 		"874602": {
+			"blocks": 26,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Goblin Revolushunary Kommittee",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 169,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 35,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 132
 		},
 		"895806": {
+			"blocks": 33,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Black Chasm Overlords",
+			"pass": 0,
+			"prespp": 38,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 134
 		}
 	}
 }

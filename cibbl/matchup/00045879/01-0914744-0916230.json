@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4025057",
-	"player_performance": {
+	"player": {
 		"914744": {
 			"12394285": {
 				"name": "Mugruc Shattermantle",
@@ -10,33 +9,33 @@
 				"type": "R"
 			},
 			"12394297": {
-				"blk": 6,
-				"fou": 2,
+				"blocks": 6,
+				"fouls": 2,
 				"name": "Girim Shattermantle",
 				"prespp": 7,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12394298": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Adhigg Battlebreaker",
 				"prespp": 7,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12394300": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Ongagg Rumblemaker",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12394301": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Rethug Metalforged",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12394302": {
@@ -44,121 +43,120 @@
 				"type": "R"
 			},
 			"12394303": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Khokur Proudsurge",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12394304": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Krortik Goldbrace",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12394305": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Oagroc Bluntward",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12394306": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ruthirbim Flamechin",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12394307": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Zarudut Richpunch",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12417466": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Egzugg Grayhammer",
-				"rus": 21,
+				"rush": 21,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12490191": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Julius Hardrock",
-				"retired": true,
 				"type": "J"
 			}
 		},
 		"916230": {
 			"12416612": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vârcolac",
 				"prespp": 19,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12416620": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Moarte",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12416633": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Apostol Vântu",
 				"prespp": 6,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12416638": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Horea Belododia",
-				"rus": 13,
+				"rush": 13,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416640": {
 				"name": "Nelu Szilágyi",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12416642": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Radu Constantin",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 6,
-				"rus": 5,
-				"tur": 14,
+				"rush": 5,
+				"turns": 14,
 				"type": "R"
 			},
 			"12416645": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ionut Pârvulescu",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12416646": {
 				"name": "Beryx Albu",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12416647": {
 				"name": "Cosmin Boroi",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416649": {
@@ -168,46 +166,64 @@
 			"12416651": {
 				"name": "Claudiu Poénaru",
 				"prespp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12423760": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ovidiu Gheorghiu",
 				"prespp": 2,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1110216",
-	"team_performance": {
+	"team": {
 		"914744": {
-			"cas": 3,
-			"casdiff": 3,
+			"blocks": 47,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mugrec's Mechanical Madmen",
+			"pass": 0,
+			"prespp": 38,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 22,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 136
 		},
 		"916230": {
+			"blocks": 17,
 			"cas": 0,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mourkain Kings",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 35,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 32,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 100
 		}
 	}
 }

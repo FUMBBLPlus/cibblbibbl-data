@@ -1,265 +1,283 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3934550",
-	"player_performance": {
+	"player": {
 		"874452": {
 			"11756582": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Draco Dracovich",
 				"prespp": 60,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756629": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Igor Igorivich",
 				"prespp": 37,
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11756687": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Karl",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11756689": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Franz",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11756708": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Sigwald",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756720": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Gustav von Darkwald",
 				"prespp": 22,
 				"spp": 9,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11756722": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Otto",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11756723": {
 				"name": "Giselle",
 				"prespp": 3,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11756725": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Rupert",
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11869690": {
-				"blk": 6,
-				"cps": 1,
+				"blocks": 6,
+				"comp": 1,
 				"name": "Vlad Vladovich",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 19,
-				"rus": 19,
+				"rush": 19,
 				"spp": 4,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11875043": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mathilde",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11875044": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Laura",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11903019": {
 				"name": "Dietrich",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11926830": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Reinhart von Teufeldorf",
 				"prespp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"874985": {
 			"11765180": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Deathcap",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11765181": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Chef Snikz & Pickles",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11765182": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Captain Twitchy & Fluffy",
 				"prespp": 20,
-				"rus": 3,
-				"tur": 12,
+				"rush": 3,
+				"turns": 12,
 				"type": "R"
 			},
 			"11765185": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chuckzllz",
 				"prespp": 3,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11765186": {
-				"cps": 1,
+				"comp": 1,
 				"dead": [
 					2,
 					8,
 					"blocked",
 					"11756582"
 				],
-				"fou": 1,
+				"fouls": 1,
 				"name": "Lucky Nikk",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 12,
-				"rus": 8,
+				"retired": true,
+				"rush": 8,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11765187": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Funjus Majors",
 				"prespp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11765188": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lietententic Herb",
 				"prespp": 14,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11765189": {
 				"name": "Fertzerler",
 				"prespp": 3,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11765190": {
 				"name": "No Shuuz",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11765199": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Loopy",
 				"prespp": 24,
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11765200": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Minqyk",
 				"prespp": 1,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11765204": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ge'roff",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11769209": {
-				"blk": 3,
-				"fou": 2,
+				"blocks": 3,
+				"fouls": 2,
 				"name": "Snacks",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11786508": {
-				"blk": 5,
-				"cps": 1,
+				"blocks": 5,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Private Parts & Scruffy",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 14,
-				"rus": 6,
+				"rush": 6,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1005149",
-	"team_performance": {
+	"team": {
 		"874452": {
+			"blocks": 37,
 			"cas": 5,
-			"casdiff": 1,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
-			"prestige": 3,
+			"pass": -2,
+			"prespp": 163,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 150
 		},
 		"874985": {
-			"cas": 4,
-			"casdiff": -1,
+			"blocks": 36,
+			"cas": 3,
+			"casdiff": -2,
+			"comp": 2,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Red Crag Redcaps",
+			"pass": 3,
+			"prespp": 130,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 17,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 137
 		}
 	}
 }

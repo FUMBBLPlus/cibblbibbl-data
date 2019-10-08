@@ -1,40 +1,39 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4052784",
-	"player_performance": {
+	"player": {
 		"909759": {
 			"12314474": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"name": "Helewise",
 				"prespp": 36,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12314475": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Aimee",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 59,
-				"rus": -5,
-				"tur": 17,
+				"rush": -5,
+				"turns": 17,
 				"type": "R"
 			},
 			"12314476": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Naeva",
 				"prespp": 53,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12314477": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Roesia",
 				"prespp": 32,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12314480": {
@@ -43,213 +42,230 @@
 				"type": "R"
 			},
 			"12314482": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Antionette",
 				"prespp": 18,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12314483": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Chantal",
 				"prespp": 23,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12353445": {
-				"blk": 11,
-				"fou": 1,
+				"blocks": 11,
+				"fouls": 1,
 				"name": "Edmee",
 				"prespp": 22,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12491058": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Dominique",
 				"prespp": 20,
-				"rus": 8,
-				"tur": 10,
+				"rush": 8,
+				"turns": 10,
 				"type": "R"
 			},
 			"12512891": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Monique",
 				"prespp": 17,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12512893": {
-				"cps": 4,
+				"comp": 4,
 				"name": "Colette",
-				"pas": 11,
+				"pass": 11,
 				"prespp": 16,
-				"rus": 7,
+				"rush": 7,
 				"spp": 4,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12577744": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Reine",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12591682": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Zephyrine",
 				"prespp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12615213": {
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Odlette",
-				"pas": 1,
+				"pass": 1,
 				"spp": 6,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12615218": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Juliette",
 				"type": "R"
 			}
 		},
 		"909966": {
 			"12317570": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Vlaedi MirTaltos",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 63,
-				"rus": 16,
+				"rush": 16,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12317571": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Sword of Khaine",
 				"prespp": 34,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12317572": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Dagger of Khaine",
 				"prespp": 43,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12317582": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Mel Estav",
 				"prespp": 31,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12317593": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ishtavan the depraved",
 				"prespp": 34,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12334820": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Sticks \"no future in it\" Stronzon",
 				"prespp": 31,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12347824": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Draeragaer Silentstep",
 				"prespp": 25,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12454883": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Terion",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12454889": {
 				"name": "Vargi the younger",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12518497": {
 				"name": "Shoen Karflaz",
 				"prespp": 3,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12528996": {
 				"name": "Glowbug the joker",
-				"retired": true,
 				"type": "R"
 			},
 			"12550421": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Nar Vane",
-				"rus": 1,
+				"rush": 1,
 				"spp": 8,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12599885": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Kragar the failed Dragon",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 4,
-				"rus": 18,
+				"rush": 18,
 				"spp": 4,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12606853": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Maario G",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1142197",
-	"team_performance": {
+	"team": {
 		"909759": {
-			"cas": 3,
-			"casdiff": 1,
+			"blocks": 58,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 5,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malefic Mimes",
+			"pass": 10,
+			"prespp": 305,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 10,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 151
 		},
 		"909966": {
-			"cas": 2,
-			"casdiff": -1,
+			"blocks": 38,
+			"cas": 0,
+			"casdiff": -2,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Spite Reach Corsairs",
-			"prestige": 3,
+			"pass": 5,
+			"prespp": 275,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 35,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 172
 		}
 	}
 }

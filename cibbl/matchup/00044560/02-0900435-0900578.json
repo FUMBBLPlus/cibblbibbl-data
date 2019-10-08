@@ -1,22 +1,21 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3970183",
-	"player_performance": {
+	"player": {
 		"900435": {
 			"12167616": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Magnus Harald",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12167619": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Geir",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12167621": {
@@ -27,102 +26,94 @@
 					"12170269"
 				],
 				"name": "Ivar",
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
 			"12167622": {
 				"name": "Knut",
 				"prespp": 2,
-				"rus": 7,
-				"tur": 10,
+				"rush": 7,
+				"turns": 10,
 				"type": "R"
 			},
 			"12167623": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Olav",
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12167624": {
-				"cps": 1,
-				"fou": 1,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Rolf",
-				"pas": 3,
-				"rus": 4,
+				"pass": 3,
+				"rush": 4,
 				"spp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12167642": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Valr Ulfr",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12167643": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Sigvard Hakon",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12167644": {
-				"blk": 8,
-				"fou": 1,
+				"blocks": 8,
+				"fouls": 1,
 				"name": "Inge Anu",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12167645": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Bjorn Rik",
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12174260": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Harold Vilewing",
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			}
 		},
 		"900578": {
-			"12167621R1": {
-				"blk": 2,
-				"mvp": 1,
-				"name": "Ivar",
-				"spp": 5,
-				"tur": 8,
-				"type": "D"
-			},
 			"12170264": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Afanas, the Immortal",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12170268": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nicholas Ladislav",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12170269": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Ludok Harker",
 				"prespp": 5,
-				"rus": 5,
+				"rush": 5,
 				"spp": 7,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12170278": {
@@ -130,76 +121,102 @@
 				"type": "R"
 			},
 			"12170280": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Anton",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12170281": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Constantine",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12170285": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Demitri Markoff",
-				"rus": 5,
-				"tur": 8,
+				"rush": 5,
+				"turns": 8,
 				"type": "R"
 			},
 			"12170340": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Boris",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12170341": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gregory",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12170342": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ivan",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12170343": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kazimir",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
+			},
+			"RAISED-7392_12167621_12180472": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Ivar",
+				"spp": 5,
+				"turns": 8,
+				"type": "D"
 			}
 		}
 	},
 	"replayId": "1046104",
-	"team_performance": {
+	"team": {
 		"900435": {
+			"blocks": 33,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Snurre Gunnars",
-			"prestige": 1,
+			"pass": 3,
+			"prespp": 12,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 25,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 117
 		},
 		"900578": {
+			"blocks": 31,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Followers of the First Count",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 5,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 10,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 101
 		}
 	}
 }

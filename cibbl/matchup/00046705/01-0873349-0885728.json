@@ -1,88 +1,87 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4061395",
-	"player_performance": {
+	"player": {
 		"873349": {
 			"11737076": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Harbert Kallath",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 108,
-				"rus": 5,
+				"rush": 5,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737079": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Landolf \"pickpocketer\" Thacocroth",
 				"prespp": 108,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737080": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Hademar \"cradle robber\" Thacocroth",
 				"prespp": 137,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11746799": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Adri Kallath",
 				"prespp": 71,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11835133": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Adolf Freshbreeze",
 				"prespp": 12,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11948498": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Rico kallath",
 				"prespp": 52,
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12148016": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Karl Klassen",
 				"prespp": 38,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12286445": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ilya Storm Jr",
 				"prespp": 22,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12325429": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Bruce Jamieson",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12517556": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Margueritta Magioni",
 				"prespp": 20,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12517557": {
@@ -90,21 +89,21 @@
 				"type": "R"
 			},
 			"12549108": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Thomas Stockli",
 				"spp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12608740": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Paola Dellaveladona",
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12608742": {
@@ -114,132 +113,150 @@
 		},
 		"885728": {
 			"11933450": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Yarrah the Gray",
 				"prespp": 79,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11933452": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Naure Roo",
 				"prespp": 68,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11933454": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Rippa Roo",
 				"prespp": 60,
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"11933455": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 3,
 				"name": "Pash a Roo",
 				"prespp": 62,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939409": {
 				"name": "Flower",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 9,
-				"rus": 6,
-				"tur": 7,
+				"rush": 6,
+				"turns": 7,
 				"type": "R"
 			},
 			"12196375": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cuetee",
 				"prespp": 16,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12334234": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kylie",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12403456": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Mera u Roo",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12428062": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Garru u Roo",
 				"prespp": 13,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12444215": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mooshie Tendercheeks",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12523720": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Angus Funnybeard",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12523723": {
 				"name": "Aeris Farflyer",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12536759": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tauri a Roo",
 				"prespp": 9,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12609807": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Misty Furrybum",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1151854",
-	"team_performance": {
+	"team": {
 		"873349": {
-			"cas": 3,
+			"blocks": 37,
+			"cas": 2,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Reik River Kicking Mules",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 575,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 29,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 148
 		},
 		"885728": {
-			"cas": 4,
+			"blocks": 40,
+			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bear Clutchers",
+			"pass": 1,
+			"prespp": 335,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 137
 		}
 	}
 }

@@ -1,38 +1,37 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4013911",
-	"player_performance": {
+	"player": {
 		"886167": {
 			"11940509": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Fersi Fellbane",
 				"prespp": 17,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11940511": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Rageshadow",
 				"prespp": 39,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11940513": {
-				"cps": 3,
+				"comp": 3,
 				"name": "Rasith Duskchill",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 39,
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11940517": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Novo Nightshade",
 				"prespp": 30,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12029207": {
@@ -41,61 +40,61 @@
 				"type": "R"
 			},
 			"12045982": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Iva Silentstab",
 				"prespp": 16,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12083299": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Cale Duskcaller",
 				"prespp": 8,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12192695": {
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Bloodstorm",
 				"prespp": 34,
-				"rus": 8,
+				"rush": 8,
 				"spp": 9,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12277958": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Alma Capgrinder",
 				"prespp": 12,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12277959": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Cersei Wrathbringer",
 				"prespp": 6,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12353475": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Doombringer",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12399327": {
 				"name": "Meleth Fellbleeder",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12422791": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Mirlahlesh Rainheart",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
@@ -103,114 +102,132 @@
 			"12143074": {
 				"name": "Sebek",
 				"prespp": 22,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12143075": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Remi",
 				"prespp": 33,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12143076": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Oakhit",
 				"prespp": 25,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12143078": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Khoaat",
 				"prespp": 17,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12143079": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Aniath",
 				"prespp": 20,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12143081": {
 				"name": "Heperu",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12168121": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Mahe",
 				"prespp": 31,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12319537": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kasut",
 				"prespp": 13,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12320351": {
-				"fou": 8,
+				"fouls": 8,
 				"name": "Sebhor",
 				"prespp": 7,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12359972": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Amanten",
-				"rus": 19,
+				"rush": 19,
 				"spp": 8,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12374625": {
 				"name": "Sobhis",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12420586": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Memher",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1097759",
-	"team_performance": {
+	"team": {
 		"886167": {
-			"cas": 1,
-			"casdiff": -2,
+			"blocks": 29,
+			"cas": 0,
+			"casdiff": -1,
+			"comp": 4,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Clar Karond Black Widows",
-			"prestige": 1,
+			"pass": 4,
+			"prespp": 225,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 136
 		},
 		"898337": {
-			"cas": 3,
-			"casdiff": 2,
+			"blocks": 25,
+			"cas": 1,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 10,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mahrak Maulers",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 168,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 19,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 152
 		}
 	}
 }

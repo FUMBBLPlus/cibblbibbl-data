@@ -1,97 +1,96 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3888613",
-	"player_performance": {
+	"player": {
 		"854502": {
 			"11436807": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Oblomov IV",
 				"prespp": 14,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11436813": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Lev Nikolájevitj Mýsjkin",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11436823": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Antíp Lev Burdóvskij",
 				"prespp": 3,
 				"spp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11436825": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ardalión Iván Aleksándrovitj",
 				"prespp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11436826": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Gavríla Gánja Ardaliónovitj",
 				"prespp": 8,
-				"rus": 4,
+				"rush": 4,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11436827": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Iván Fjódorovitj Jepantjín",
 				"prespp": 7,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11436828": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Lukján Timoféjevitj Lébedjev",
 				"prespp": 29,
 				"spp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11436832": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Nikoláj Andréj Pavlísjtjev",
 				"prespp": 10,
-				"rus": 13,
-				"tur": 16,
+				"rush": 13,
+				"turns": 16,
 				"type": "R"
 			},
 			"11436836": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Parfjón Semjónovitj Rogózjin",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11493956": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grigor",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11592707": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ilja Petrovitj",
 				"prespp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11708599": {
@@ -99,62 +98,62 @@
 				"type": "R"
 			},
 			"11708604": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Ippolít Kiríllovitj",
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		},
 		"854507": {
 			"11439075": {
-				"blk": 9,
+				"blocks": 9,
 				"mvp": 1,
 				"name": "Eltrith, the Silent",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439076": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Maximilian Windhelm, the Fallen",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11439078": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Emminoth",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11439080": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vol'arth the Brazen",
 				"prespp": 16,
-				"rus": 13,
-				"tur": 16,
+				"rush": 13,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439088": {
 				"name": "Yibb-Tstll",
 				"prespp": 10,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"11439090": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Do Galaad, the Herald",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439091": {
@@ -164,7 +163,7 @@
 			},
 			"11439092": {
 				"name": "Voonith",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11582112": {
@@ -173,50 +172,66 @@
 				"type": "R"
 			},
 			"11681756": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Neron",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11687332": {
 				"name": "Robert Palewing",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			},
 			"11687333": {
 				"name": "Aaron Clearfire",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "951993",
-	"team_performance": {
+	"team": {
 		"854502": {
+			"blocks": 42,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Spartak Bolgasgrad",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 99,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 27,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 166
 		},
 		"854507": {
+			"blocks": 25,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Coven of the Mirrored Hall",
+			"pass": 0,
+			"prespp": 74,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 121
 		}
 	}
 }

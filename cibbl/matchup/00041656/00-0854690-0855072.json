@@ -1,69 +1,68 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3840982",
-	"player_performance": {
+	"player": {
 		"854690": {
 			"11439891": {
-				"blk": 15,
+				"blocks": 15,
 				"name": "Shiamoto The Undying",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439893": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ronin Swift Wind",
-				"rus": 26,
+				"rush": 26,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439894": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ronin Four Finger Death Punch",
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11439895": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Hazu",
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11439896": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Meiko",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11439897": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ori",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439899": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ichigawa",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439900": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Kuzumate",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439901": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					6,
@@ -71,132 +70,151 @@
 					"11445737"
 				],
 				"name": "Taizo",
-				"tur": 13,
+				"retired": true,
+				"turns": 13,
 				"type": "R"
 			},
 			"11439902": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Lu Tze",
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11439904": {
 				"name": "Hiro",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			}
 		},
 		"855072": {
 			"11445733": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Jack",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 4,
-				"rus": 7,
-				"tur": 14,
+				"rush": 7,
+				"turns": 14,
 				"type": "R"
 			},
 			"11445734": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Annie",
 				"prespp": 3,
-				"rus": -1,
-				"tur": 8,
+				"rush": -1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11445735": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Katheen",
 				"prespp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11445736": {
-				"blk": 9,
-				"cps": 1,
+				"blocks": 9,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Teddy",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 3,
-				"rus": 6,
+				"rush": 6,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11445737": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Morgan le Fay",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11445738": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Merlin",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11445740": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Shi Huangdi",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11445741": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Captain Bones",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11445745": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Magic Treehouse",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11445746": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Backpack",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11445747": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Notebook",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "897146",
-	"team_performance": {
+	"team": {
 		"854690": {
+			"blocks": 40,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Secret Cult Of Shiamoto",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 44,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 156
 		},
 		"855072": {
+			"blocks": 51,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Carcassonne Knights",
+			"pass": 4,
+			"prespp": 17,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 12,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 149
 		}
 	}
 }

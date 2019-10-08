@@ -1,26 +1,25 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3973351",
-	"player_performance": {
+	"player": {
 		"874437": {
 			"11756336": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Nomgulg Prattlehead",
-				"pas": 10,
+				"pass": 10,
 				"prespp": 45,
-				"rus": 32,
+				"rush": 32,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756337": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Persqka Boughclip",
 				"prespp": 31,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11756348": {
@@ -32,203 +31,221 @@
 				],
 				"name": "Scrub Scrub",
 				"prespp": 23,
+				"retired": true,
 				"type": "R"
 			},
 			"11898319": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Buce'ador Espeleólody",
 				"prespp": 33,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11919173": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Arprehdy Taenaerae",
 				"prespp": 17,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11922070": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "T?ne Mahuta",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11966937": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Radix Radex",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12047631": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Brawl Punya",
 				"prespp": 15,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12101922": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Chankiri Crighac",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12135896": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Komuna Kijidoma",
 				"prespp": 6,
-				"rus": 1,
+				"rush": 1,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12169591": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Bun di Riddim",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12192423": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Adgar Scatterhands",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"886114": {
 			"11939696": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Erato",
 				"prespp": 32,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11939705": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Lydia",
 				"prespp": 33,
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939712": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Arya",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939715": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Aadhýa",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939717": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Delilah",
 				"prespp": 24,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11939720": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Elidhith",
 				"prespp": 10,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11956884": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Elpida",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 37,
-				"rus": 7,
+				"rush": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12030024": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Shinesa",
-				"pas": -3,
+				"pass": -3,
 				"prespp": 48,
-				"rus": 14,
+				"rush": 14,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12051225": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Silvestra Darklightning",
 				"prespp": 14,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12075526": {
 				"name": "Apolla",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12131987": {
-				"blk": 2,
-				"cps": 4,
+				"blocks": 2,
+				"comp": 4,
 				"mvp": 1,
 				"name": "Puridriel",
-				"pas": -4,
+				"pass": -4,
 				"prespp": 7,
-				"rus": 19,
+				"rush": 19,
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12192546": {
 				"name": "Alistra",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1049683",
-	"team_performance": {
+	"team": {
 		"874437": {
-			"cas": 1,
-			"casdiff": -1,
+			"blocks": 44,
+			"cas": 0,
+			"casdiff": -2,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bigwood Tree Shmashaz",
-			"prestige": 3,
+			"pass": 10,
+			"prespp": 198,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 33,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 157
 		},
 		"886114": {
+			"blocks": 38,
 			"cas": 2,
-			"casdiff": 1,
+			"casdiff": 2,
+			"comp": 5,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eye and Arrow",
+			"pass": -8,
+			"prespp": 225,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 52,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 163
 		}
 	}
 }

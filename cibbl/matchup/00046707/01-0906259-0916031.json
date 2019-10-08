@@ -1,58 +1,57 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4061255",
-	"player_performance": {
+	"player": {
 		"906259": {
 			"12259676": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Powerless Farrel",
 				"prespp": 10,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12259678": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Confusion Kaminsky",
 				"prespp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12266336": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Bev the black phoenix",
 				"prespp": 38,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12271318": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Mr Road Untraveled",
 				"prespp": 51,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12271319": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"name": "Balance of Power",
 				"prespp": 34,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12271321": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Bloody Tandy",
 				"prespp": 39,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12319951": {
@@ -64,59 +63,59 @@
 				"mvp": 1,
 				"name": "Cattle of glass",
 				"spp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12455668": {
 				"cas": 1,
 				"name": "Mike Tinfoil Shinod",
 				"prespp": 16,
-				"rus": 23,
+				"rush": 23,
 				"spp": 5,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
-			},
-			"12504898R1": {
-				"blk": 1,
-				"fou": 2,
-				"name": "Hair Puller",
-				"tur": 13,
-				"type": "D"
 			},
 			"12516790": {
 				"name": "Rick Until it breaks",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12548375": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Rob One of Thousand Times",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12548376": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Skin to Bone Patto",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12579665": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Waiting for the End",
-				"rus": 7,
-				"tur": 14,
+				"rush": 7,
+				"turns": 14,
 				"type": "R"
 			},
 			"12607502": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Hunky Doryy",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
+			},
+			"RAISED-7172_12504898_12669649": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Hair Puller",
+				"turns": 13,
+				"type": "D"
 			}
 		},
 		"916031": {
@@ -126,7 +125,7 @@
 				"type": "R"
 			},
 			"12413278": {
-				"blk": 8,
+				"blocks": 8,
 				"dead": [
 					2,
 					8,
@@ -135,30 +134,31 @@
 				],
 				"name": "Spleen Eater",
 				"prespp": 11,
-				"tur": 15,
+				"retired": true,
+				"turns": 15,
 				"type": "R"
 			},
 			"12413281": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gra'Ro'Pra",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413282": {
 				"name": "Gro'Gaw'Cra",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12426039": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Nose Snippa",
 				"prespp": 20,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12504898": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					1,
 					2,
@@ -167,87 +167,104 @@
 				],
 				"name": "Hair Puller",
 				"prespp": 10,
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
 			"12513955": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Veel Skinner",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12577257": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Nail Bita",
 				"prespp": 9,
-				"rus": 23,
+				"rush": 23,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12579298": {
 				"name": "Gre'Ra'War",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12612939": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Kzerio",
 				"prespp": 7,
 				"spp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "B"
 			},
 			"12626922": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Martin Cleareagle",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "J"
 			},
 			"12626923": {
 				"name": "Leroy Dirtysnake",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
-			"916031S1": {
-				"blk": 7,
+			"STAR-7660": {
+				"blocks": 7,
 				"name": "Schworg'n'Borg",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1151685",
-	"team_performance": {
+	"team": {
 		"906259": {
+			"blocks": 36,
 			"cas": 7,
 			"casdiff": 6,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Livin' Thing",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 223,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 47,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 171
 		},
 		"916031": {
+			"blocks": 33,
 			"cas": 1,
 			"casdiff": -6,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gorthor's Prophets Of Mork",
+			"pass": 0,
+			"prespp": 115,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 117
 		}
 	}
 }

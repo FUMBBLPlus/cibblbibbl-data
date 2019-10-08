@@ -1,47 +1,46 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3984328",
-	"player_performance": {
+	"player": {
 		"888421": {
 			"11976226": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Waziret Stunge",
 				"prespp": 10,
-				"tur": 2,
+				"turns": 2,
 				"type": "B"
 			},
 			"11976230": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Firrikeet Sharpblade",
 				"prespp": 35,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11976233": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lirrikeet Sharpblade",
 				"prespp": 56,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11976237": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Skritt Swiftpaw",
 				"prespp": 43,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976241": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Turm",
 				"prespp": 19,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11976246": {
@@ -50,76 +49,75 @@
 				"type": "R"
 			},
 			"11981444": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Yazzirit Rakeet",
 				"prespp": 26,
-				"rus": 5,
+				"rush": 5,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12054568": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Robble",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12063537": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Yulub",
 				"prespp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12155834": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Klik Skitter",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12155835": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Folp",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12171360": {
 				"name": "Meets",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12250756": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Stak Rakclaw",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"889002": {
 			"11985592": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Alfred of Hel Fenn",
 				"prespp": 34,
-				"rus": 10,
-				"tur": 14,
+				"rush": 10,
+				"turns": 14,
 				"type": "R"
 			},
 			"11985593": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Oswiu of Morrfenn",
 				"prespp": 39,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11985595": {
 				"name": "Beorn Anson",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11985597": {
@@ -127,111 +125,129 @@
 				"type": "R"
 			},
 			"11985598": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ealdian Galan",
 				"prespp": 9,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11985600": {
 				"name": "Hererinc Isen",
 				"prespp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11994724": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vincent Darkeagle",
 				"prespp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12003569": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Rædwald of Grim Moor II",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 15,
-				"rus": 15,
+				"rush": 15,
 				"spp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12125898": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"name": "Oswald of Bylorhof",
 				"prespp": 23,
-				"rus": 4,
+				"rush": 4,
 				"spp": 7,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12137306": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Udela Attercoppe",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12137307": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Wilbur Breost-hord",
-				"pas": 1,
-				"rus": 5,
-				"tur": 10,
+				"pass": 1,
+				"rush": 5,
+				"turns": 10,
 				"type": "R"
 			},
 			"12146168": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sever Cumfeorm",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12233913": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Edwin of Bylorhof",
 				"prespp": 3,
-				"rus": 4,
+				"rush": 4,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12245798": {
 				"name": "Hrypa Irenbend",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1062432",
-	"team_performance": {
+	"team": {
 		"888421": {
-			"cas": 2,
-			"casdiff": -1,
+			"blocks": 23,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gobskrav Alliance",
+			"pass": 0,
+			"prespp": 204,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 18,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 131
 		},
 		"889002": {
+			"blocks": 39,
 			"cas": 3,
-			"casdiff": 1,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Offa's Hearthweru",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 143,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 170
 		}
 	}
 }

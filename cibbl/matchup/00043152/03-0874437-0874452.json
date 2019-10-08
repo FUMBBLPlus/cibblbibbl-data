@@ -1,56 +1,55 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3916041",
-	"player_performance": {
+	"player": {
 		"874437": {
 			"11756331": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Lumbhant Perchklea",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756333": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Erclia Limblumb",
 				"prespp": 6,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11756335": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 3,
 				"name": "Tardiproth Twikbreka",
 				"prespp": 7,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756336": {
 				"name": "Nomgulg Prattlehead",
 				"prespp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11756337": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Persqka Boughclip",
 				"prespp": 9,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11756339": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Murzush Polhart",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756341": {
-				"blk": 6,
+				"blocks": 6,
 				"dead": [
 					2,
 					7,
@@ -59,128 +58,129 @@
 				],
 				"name": "Alrog Gnarltrim",
 				"prespp": 2,
-				"tur": 14,
+				"retired": true,
+				"turns": 14,
 				"type": "R"
 			},
 			"11756342": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lahuzy Nventra",
-				"rus": 5,
-				"tur": 9,
+				"rush": 5,
+				"turns": 9,
 				"type": "R"
 			},
 			"11756344": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Homraz Kombina",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756346": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Knizzy Knotwatscha",
-				"rus": 8,
-				"tur": 8,
+				"rush": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11756348": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Scrub Scrub",
 				"prespp": 15,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11767524": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Deramuz Trodalik",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"874452": {
 			"11756582": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 2,
 				"name": "Draco Dracovich",
 				"prespp": 22,
-				"rus": 11,
+				"rush": 11,
 				"spp": 7,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756629": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Igor Igorivich",
 				"prespp": 16,
-				"rus": 1,
-				"tur": 15,
+				"rush": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11756687": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Karl",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756689": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Franz",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756707": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Stefan",
 				"prespp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11756708": {
 				"name": "Sigwald",
 				"prespp": 3,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11756715": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"name": "Henrich von Blotenburg",
 				"prespp": 18,
 				"spp": 4,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11756720": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Gustav von Darkwald",
 				"prespp": 9,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11756722": {
 				"name": "Otto",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11756723": {
 				"name": "Giselle",
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"11756725": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Rupert",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11775815": {
@@ -191,36 +191,55 @@
 					"11756339"
 				],
 				"name": "Gunter",
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "983618",
-	"team_performance": {
+	"team": {
 		"874437": {
+			"blocks": 52,
 			"cas": 4,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bigwood Tree Shmashaz",
+			"pass": 0,
+			"prespp": 53,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 13,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 130
 		},
 		"874452": {
+			"blocks": 42,
 			"cas": 6,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 75,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 138
 		}
 	}
 }

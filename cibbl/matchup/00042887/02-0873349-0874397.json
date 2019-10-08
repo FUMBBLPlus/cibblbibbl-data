@@ -1,232 +1,248 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3899196",
-	"player_performance": {
+	"player": {
 		"873349": {
 			"11737076": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Harbert Kallath",
-				"pas": 5,
+				"pass": 5,
 				"prespp": 5,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11737077": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Arnold \"waists-breaker\" Thacocroth",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11737078": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Sigmund \"silent\" Thacocroth",
 				"prespp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11737079": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"name": "Landolf \"pickpocketer\" Thacocroth",
 				"prespp": 10,
 				"spp": 4,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11737080": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Hademar \"cradle robber\" Thacocroth",
 				"prespp": 12,
-				"rus": 2,
-				"tur": 13,
+				"rush": 2,
+				"turns": 13,
 				"type": "R"
 			},
 			"11737081": {
 				"name": "Aimar Kallath",
 				"prespp": 15,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11737082": {
 				"name": "Dagobert Cizlat",
 				"prespp": 2,
-				"retired": true,
 				"type": "R"
 			},
 			"11737083": {
 				"name": "Clodomiro Brahms",
 				"prespp": 4,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11737084": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Farald Bott",
-				"pas": 1,
-				"rus": 2,
+				"pass": 1,
+				"rush": 2,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737085": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Falko Licht",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737086": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ilya Storm",
-				"rus": 2,
-				"tur": 12,
+				"rush": 2,
+				"turns": 12,
 				"type": "R"
 			},
 			"11746799": {
 				"name": "Adri Kallath",
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			}
 		},
 		"874397": {
 			"11755670": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Widebough Strongbranch",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"11755671": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Toughbark Strongbranch",
 				"prespp": 7,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"11755744": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Chairman Bogo",
-				"pas": 1,
-				"rus": 9,
-				"tur": 15,
+				"pass": 1,
+				"rush": 9,
+				"turns": 15,
 				"type": "R"
 			},
 			"11755746": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Bobbi Fishflayer",
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11755747": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Gordo Ramfoot",
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11755750": {
 				"name": "Alto Brownhill",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11755752": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Guy Firewater",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11755753": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cat Catspaw",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11755754": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Susie Fastfingers",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11755755": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Paulie Sharptongue",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11755756": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Bobbo Pastrybaggins",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11755757": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Samwise Gamehen",
 				"prespp": 3,
-				"rus": 6,
-				"tur": 10,
+				"rush": 6,
+				"turns": 10,
 				"type": "R"
 			},
 			"11772401": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Stagiaire Bungo",
-				"rus": -1,
-				"tur": 15,
+				"rush": -1,
+				"turns": 15,
 				"type": "R"
 			},
-			"874397S1": {
-				"blk": 8,
+			"STAR-7538": {
+				"blocks": 8,
 				"name": "Deeproot Strongbranch",
-				"tur": 15,
+				"turns": 15,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "964176",
-	"team_performance": {
+	"team": {
 		"873349": {
+			"blocks": 23,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Reik River Kicking Mules",
-			"prestige": 1,
+			"pass": 6,
+			"prespp": 63,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 16,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 110
 		},
 		"874397": {
+			"blocks": 39,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Hillshire Culinary College",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 12,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 30,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 151
 		}
 	}
 }

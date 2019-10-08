@@ -1,46 +1,45 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3927188",
-	"player_performance": {
+	"player": {
 		"859111": {
 			"11512661": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"name": "Asura",
 				"prespp": 26,
 				"spp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11512662": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gandharva",
 				"prespp": 14,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11512667": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
-				"fou": 2,
+				"fouls": 2,
 				"name": "Yaksha",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512668": {
 				"name": "Rakshasa",
 				"prespp": 27,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11512674": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Markata",
 				"prespp": 12,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512677": {
@@ -53,37 +52,37 @@
 				"name": "Ka",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11710872": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Mountain Lifter",
 				"prespp": 18,
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"11753833": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "The Rudra",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11771306": {
-				"blk": 3,
-				"cps": 2,
+				"blocks": 3,
+				"comp": 2,
 				"name": "Amrita",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 19,
-				"rus": 6,
+				"rush": 6,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11795536": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					1,
 					5,
@@ -91,87 +90,88 @@
 					"11700319"
 				],
 				"name": "Abu",
-				"tur": 5,
+				"retired": null,
+				"turns": 5,
 				"type": "R"
 			},
 			"11877930": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lightning-Limbed",
 				"prespp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"871312": {
 			"11700282": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Count Ludovig",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 41,
-				"rus": 20,
+				"rush": 20,
 				"spp": 9,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700284": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Count Igor",
 				"prespp": 31,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700285": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Count Jurij",
 				"prespp": 30,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"11700318": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Seth",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700319": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Anubis",
 				"prespp": 31,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11700323": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Servant Fjodor",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11734615": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Servant Alexander",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11775889": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					4,
@@ -179,70 +179,89 @@
 					"11512667"
 				],
 				"name": "Servant Slavko",
-				"tur": 12,
+				"retired": true,
+				"turns": 12,
 				"type": "R"
 			},
-			"11795536R1": {
-				"blk": 1,
-				"name": "Abu",
-				"tur": 4,
-				"type": "D"
-			},
 			"11812909": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Count Yaroslav",
 				"prespp": 18,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11850036": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Paul Darktree",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11874342": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Servant Miro",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11930893": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Servant Mirko",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
+			},
+			"RAISED-7385_11795536_11933869": {
+				"blocks": 1,
+				"name": "Abu",
+				"turns": 4,
+				"type": "D"
 			}
 		}
 	},
 	"replayId": "996554",
-	"team_performance": {
+	"team": {
 		"859111": {
+			"blocks": 49,
 			"cas": 3,
 			"casdiff": 0,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Dandaka Devas",
+			"pass": 6,
+			"prespp": 162,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 13,
 			"score": 0,
 			"scorediff": -4,
-			"tds": 0,
-			"tdsdiff": -4
+			"td": 0,
+			"tddiff": -4,
+			"turns": 128
 		},
 		"871312": {
+			"blocks": 43,
 			"cas": 3,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tower of the Necromancer",
-			"prestige": 3,
+			"pass": 3,
+			"prespp": 173,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 54,
 			"score": 4,
 			"scorediff": 4,
-			"tds": 4,
-			"tdsdiff": 4
+			"td": 4,
+			"tddiff": 4,
+			"turns": 156
 		}
 	}
 }

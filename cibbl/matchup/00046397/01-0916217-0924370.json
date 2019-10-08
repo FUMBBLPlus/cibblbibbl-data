@@ -1,44 +1,43 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4045404",
-	"player_performance": {
+	"player": {
 		"916217": {
 			"12416220": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Bestgor \"The Vicious\"",
 				"prespp": 8,
-				"rus": 15,
+				"rush": 15,
 				"spp": 9,
-				"tds": 3,
-				"tur": 16,
+				"td": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416224": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Powergor \"The Relentless\"",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416226": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 2,
 				"name": "Mustgor \"The Decided\"",
 				"prespp": 16,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416228": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Fastgor \"The Lightning\"",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 6,
-				"rus": 20,
+				"rush": 20,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12416229": {
@@ -51,7 +50,7 @@
 				"type": "R"
 			},
 			"12416234": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					2,
@@ -59,91 +58,91 @@
 					null
 				],
 				"name": "Tallgor \"The Landscapist\"",
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "R"
 			},
 			"12416236": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Brutegor \"The Doubtless\"",
 				"prespp": 7,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12416238": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Roughgor \"The Thoughtless\"",
 				"prespp": 9,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12426803": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Brogor \"The Violent\"",
 				"prespp": 13,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12520848": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Gogor \"The Brutal\"",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12578865": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Fury the Meanotaur",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12585904": {
 				"name": "Albert Darkfist",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "J"
 			}
 		},
 		"924370": {
 			"12544646": {
 				"name": "Freddy Wender",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12544648": {
 				"name": "Danny Baumer",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12544649": {
 				"name": "Dieter Chickenbelly",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12544650": {
 				"name": "Heinrich Foglogger",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12544651": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Jonas Plier",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12544652": {
 				"name": "Gunter Fraterslocke",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544653": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Alex Redlot",
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12544658": {
@@ -153,8 +152,8 @@
 			"12544659": {
 				"name": "Clovis Heathland",
 				"prespp": 5,
-				"rus": 10,
-				"tur": 7,
+				"rush": 10,
+				"turns": 7,
 				"type": "R"
 			},
 			"12544664": {
@@ -162,67 +161,85 @@
 				"type": "R"
 			},
 			"12544666": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Grendel",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12544667": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Tabak",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12583244": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lonny Wideyes",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12584566": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gregg Baumburger",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12584589": {
 				"name": "Christy Long",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1133846",
-	"team_performance": {
+	"team": {
 		"916217": {
+			"blocks": 59,
 			"cas": 4,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cloven Clan",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 90,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 35,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 145
 		},
 		"924370": {
+			"blocks": 20,
 			"cas": 2,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gipfel Blueleaves",
+			"pass": 0,
+			"prespp": 12,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 25,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 157
 		}
 	}
 }

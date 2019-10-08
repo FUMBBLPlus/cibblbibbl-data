@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3983102",
-	"player_performance": {
+	"player": {
 		"895929": {
 			"12098256": {
 				"name": "Windfury",
@@ -10,46 +9,46 @@
 				"type": "R"
 			},
 			"12098257": {
-				"blk": 6,
-				"cps": 1,
+				"blocks": 6,
+				"comp": 1,
 				"name": "Clawchest",
 				"prespp": 21,
-				"rus": 17,
+				"rush": 17,
 				"spp": 4,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12098258": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Silverscar",
 				"prespp": 12,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Silverstriker",
 				"prespp": 12,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12098289": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Crowripper",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12098294": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Blackchewer",
 				"prespp": 9,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12098297": {
@@ -58,163 +57,177 @@
 				"type": "R"
 			},
 			"12136367": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Fangsnapper Jr",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12166472": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Fangsnapper Jr Jr",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12184769": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Barbedbreath",
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12232457": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Martin Bluesnake",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"12232458": {
 				"name": "Sean Palefist",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "J"
 			},
 			"12232459": {
 				"name": "Fredrick Weakfield",
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "J"
 			},
-			"895929S1": {
-				"blk": 1,
+			"STAR-7541": {
+				"blocks": 1,
 				"name": "Fezglitch",
 				"type": "S"
 			}
 		},
 		"899682": {
 			"12158266": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Ch'nn'r \"Big Boa\" Qll-Crvn",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12158267": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "K'nn'th \"Strangler\" Ptnntcl",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12158268": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "M'-Kh'nh \"Smart Eye\" Vrrwlss",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12158269": {
-				"blk": 8,
-				"cps": 1,
+				"blocks": 8,
+				"comp": 1,
 				"name": "Ph'rn \"Quick Tail\" Vzz-Sttn",
-				"pas": -3,
+				"pass": -3,
 				"prespp": 16,
-				"rus": 2,
+				"rush": 2,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12158272": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "T'ng \"Lefty\" Clbrr",
 				"prespp": 10,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12158273": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "V'sn \"Midget\" Vprr",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12158276": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ch'm \"Blue One\" Ammdtss",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12158279": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Dtr'vssr \"Mamba\" Vrddfls",
-				"rus": 5,
-				"tur": 15,
+				"rush": 5,
+				"turns": 15,
 				"type": "R"
 			},
 			"12158282": {
 				"name": "Ph'rn \"Gent\" Kbrrcllr",
 				"prespp": 3,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12191641": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "C'dm'qsz \"Focus\" Ntrll",
 				"prespp": 3,
-				"rus": 1,
-				"tur": 12,
+				"rush": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12240321": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "R'th's'k \"Whirly\" Mssrbr",
-				"rus": 13,
+				"rush": 13,
 				"spp": 8,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1060972",
-	"team_performance": {
+	"team": {
 		"895929": {
+			"blocks": 43,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 93,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 18,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 118
 		},
 		"899682": {
+			"blocks": 45,
 			"cas": 1,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "K'r'shh Sl'ppr'ss",
-			"prestige": 1,
+			"pass": -3,
+			"prespp": 49,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 142
 		}
 	}
 }

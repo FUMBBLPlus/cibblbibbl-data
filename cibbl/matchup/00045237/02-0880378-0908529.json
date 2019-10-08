@@ -1,63 +1,62 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4000514",
-	"player_performance": {
+	"player": {
 		"880378": {
 			"11849914": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Khandek the Foul",
 				"prespp": 40,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11849916": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Zinzul the Plaguereaper",
 				"prespp": 61,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11849917": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 2,
 				"name": "Erdrund the Leproushand",
 				"prespp": 58,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11849919": {
 				"name": "Rhemel Crappyhand",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11849920": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Strozkun Foulskin",
 				"prespp": 9,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11849921": {
 				"name": "Gazgand Stinkhorn",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11849923": {
 				"name": "Zashren Vomitheart",
 				"prespp": 3,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11849925": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Skurzrond Foularm",
 				"prespp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11898269": {
@@ -67,48 +66,49 @@
 					"blocked",
 					"12336337"
 				],
-				"fou": 1,
+				"fouls": 1,
 				"name": "Arzund Foulleap",
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"11985905": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Samus Foulreaper",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 63,
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"12136256": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Zar'Gul Foulmouth",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12188138": {
 				"name": "Shokhal Coldeyes",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12234443": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Great Unclean One",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 17,
-				"rus": 4,
+				"rush": 4,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12254107": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Al'Ret Foulmouth",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12274224": {
@@ -118,18 +118,18 @@
 		},
 		"908529": {
 			"12295351": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Hhash'chtoth",
 				"prespp": 9,
-				"rus": 6,
+				"rush": 6,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295352": {
-				"blk": 5,
+				"blocks": 5,
 				"dead": [
 					2,
 					1,
@@ -138,113 +138,132 @@
 				],
 				"name": "Kkrozh'sazhs",
 				"prespp": 3,
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "R"
 			},
 			"12295353": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Bbadh'nurth",
 				"prespp": 10,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12295355": {
 				"name": "Vulpizh",
 				"prespp": 6,
-				"rus": 3,
-				"tur": 13,
+				"rush": 3,
+				"turns": 13,
 				"type": "R"
 			},
 			"12295356": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Belakhz",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295357": {
 				"name": "Aerhish",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12295358": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Yuhkuth",
-				"rus": 1,
-				"tur": 3,
+				"rush": 1,
+				"turns": 3,
 				"type": "R"
 			},
 			"12295360": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Splishj",
 				"prespp": 8,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12295363": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Zzak'tarh",
 				"prespp": 11,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12295364": {
 				"name": "Flizzit",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12336337": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Shim'dre'lex'kazar",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
-			"908529M1": {
-				"blk": 1,
+			"MERC-7313-0253": {
+				"blocks": 1,
 				"name": "Merc Blue Horror 1",
-				"tur": 17,
+				"turns": 17,
 				"type": "M"
 			},
-			"908529S1": {
-				"blk": 5,
+			"STAR-7545": {
+				"blocks": 5,
 				"name": "Angus Porterhouse",
-				"tur": 17,
+				"turns": 17,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1082444",
-	"team_performance": {
+	"team": {
 		"880378": {
+			"blocks": 48,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Nurgle Plaguebearers",
+			"pass": 2,
+			"prespp": 275,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 162
 		},
 		"908529": {
+			"blocks": 40,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "ICBM Warpspawns",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 53,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 27,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 163
 		}
 	}
 }

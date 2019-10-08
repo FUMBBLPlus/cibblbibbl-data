@@ -1,96 +1,95 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4052491",
-	"player_performance": {
+	"player": {
 		"867030": {
 			"11633486": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Sokitoomi",
 				"prespp": 68,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"11633494": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Grymlog",
 				"prespp": 69,
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"11633506": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Xlanaxlot",
 				"prespp": 16,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12228718": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Gor-Rok",
 				"prespp": 54,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12282449": {
 				"name": "Huaataxah",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 38,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12456073": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Inxi-Huinzi",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12499173": {
-				"blk": 12,
+				"blocks": 12,
 				"mvp": 1,
 				"name": "Nakai the Undying",
 				"prespp": 15,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12519669": {
 				"name": "Ulha-Xim",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12531564": {
 				"name": "Kimi-Muluk",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12546873": {
 				"name": "Yatl-Tlelec",
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12600023": {
 				"name": "Huini-Boq",
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12621717": {
 				"name": "Quamundi",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
@@ -104,67 +103,68 @@
 				],
 				"name": "Throat Rippa",
 				"prespp": 26,
+				"retired": true,
 				"type": "R"
 			},
 			"12413275": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Head Stompa",
 				"prespp": 51,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12413278": {
 				"name": "Spleen Eater",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413281": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gra'Ro'Pra",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12413282": {
 				"name": "Gro'Gaw'Cra",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12426039": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Nose Snippa",
 				"prespp": 18,
-				"rus": -1,
+				"rush": -1,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12504898": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hair Puller",
 				"prespp": 10,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12513955": {
 				"name": "Veel Skinner",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12577257": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Nail Bita",
 				"prespp": 8,
-				"rus": -1,
+				"rush": -1,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12579298": {
@@ -172,47 +172,64 @@
 				"type": "R"
 			},
 			"12612939": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Kzerio",
 				"spp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "B"
 			},
 			"12612940": {
 				"name": "Sylvester Silenthawk",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1141883",
-	"team_performance": {
+	"team": {
 		"867030": {
+			"blocks": 42,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sport Spawning Zlatlan",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 266,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 23,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 157
 		},
 		"916031": {
+			"blocks": 17,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gorthor's Prophets Of Mork",
+			"pass": 0,
+			"prespp": 128,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 141
 		}
 	}
 }

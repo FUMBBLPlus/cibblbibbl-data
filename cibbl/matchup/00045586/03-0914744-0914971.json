@@ -1,201 +1,218 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4015218",
-	"player_performance": {
+	"player": {
 		"914744": {
 			"12394285": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Mugruc Shattermantle",
 				"type": "R"
 			},
 			"12394297": {
-				"blk": 6,
-				"fou": 2,
+				"blocks": 6,
+				"fouls": 2,
 				"name": "Girim Shattermantle",
 				"prespp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12394298": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Adhigg Battlebreaker",
 				"prespp": 6,
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12394300": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Ongagg Rumblemaker",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12394301": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Rethug Metalforged",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12394302": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Mithandrog Metalmore",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12394303": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Khokur Proudsurge",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12394304": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Krortik Goldbrace",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12394305": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Oagroc Bluntward",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12394306": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ruthirbim Flamechin",
 				"prespp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12394307": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Zarudut Richpunch",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12417466": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Egzugg Grayhammer",
-				"rus": 9,
-				"tur": 16,
+				"rush": 9,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"914971": {
 			"12397363": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Lyrander",
-				"rus": 16,
-				"tur": 16,
+				"rush": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12397364": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Arunas",
 				"prespp": 3,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12397365": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Goras",
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"12397366": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Cornaith",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12397367": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Wylchyr",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12397368": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Delrach",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12397369": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Corym",
 				"prespp": 7,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12397370": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Albondiel",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12397371": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Laeroth",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12397372": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dalyor",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12397373": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Halueth",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1099230",
-	"team_performance": {
+	"team": {
 		"914744": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 65,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mugrec's Mechanical Madmen",
+			"pass": 0,
+			"prespp": 21,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 11,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 160
 		},
 		"914971": {
+			"blocks": 33,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ulthuan Barracudas",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 23,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 157
 		}
 	}
 }

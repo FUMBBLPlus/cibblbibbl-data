@@ -1,44 +1,43 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3877167",
-	"player_performance": {
+	"player": {
 		"864588": {
 			"11595377": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Black Bart",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11595379": {
 				"name": "Thunder",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11595380": {
 				"name": "Cannons",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11595383": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Silver Eye",
 				"prespp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11595384": {
 				"name": "Crusty",
 				"prespp": 3,
-				"rus": 3,
-				"tur": 15,
+				"rush": 3,
+				"turns": 15,
 				"type": "R"
 			},
 			"11595386": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					6,
@@ -47,7 +46,8 @@
 				],
 				"name": "Mad Eye",
 				"prespp": 5,
-				"tur": 13,
+				"retired": true,
+				"turns": 13,
 				"type": "R"
 			},
 			"11595387": {
@@ -57,81 +57,81 @@
 			},
 			"11595388": {
 				"name": "Scar Face",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11595390": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					6,
 					"eaten",
-					"11595377"
+					null
 				],
 				"name": "One-Eared",
 				"prespp": 6,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"11595391": {
 				"mvp": 1,
 				"name": "Fishlips",
 				"spp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11646612": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Shifty Hayes",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11646613": {
 				"name": "Edward Hardfield",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			}
 		},
 		"867030": {
 			"11633486": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Sokitoomi",
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11633494": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Grymlog",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11633500": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Quaxili",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11633503": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kha-Ataxa",
-				"rus": 20,
+				"rush": 20,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11633505": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "KhaBoq",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11633506": {
@@ -139,83 +139,100 @@
 				"type": "R"
 			},
 			"11633507": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Xapati",
 				"prespp": 5,
-				"rus": 6,
+				"rush": 6,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11633508": {
 				"name": "Tiktaq'To",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11633509": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zwup",
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"11633511": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Xlatli",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11633512": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Huamundi",
 				"prespp": 3,
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11646647": {
 				"name": "Nicholas Silenthawk",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			},
-			"867030M1": {
-				"blk": 3,
+			"MERC-7357-3465": {
+				"blocks": 3,
 				"name": "Merc Skink 1",
-				"tur": 16,
+				"turns": 16,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "938514",
-	"team_performance": {
+	"team": {
 		"864588": {
+			"blocks": 14,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Blackmud Tridents",
+			"pass": 0,
+			"prespp": 27,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 3,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 105
 		},
 		"867030": {
+			"blocks": 39,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sport Spawning Zlatlan",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 12,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 40,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 164
 		}
 	}
 }

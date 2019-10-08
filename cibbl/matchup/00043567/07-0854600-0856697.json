@@ -1,88 +1,87 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3943014",
-	"player_performance": {
+	"player": {
 		"854600": {
 			"11439794": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Juan Robleduro",
 				"prespp": 20,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11439806": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Hernando Celador",
 				"prespp": 8,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11439812": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Enrico Zapador",
 				"prespp": 10,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11439814": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Manuel Grandegolpe",
 				"prespp": 31,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11440506": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Miguel Gavilan",
 				"prespp": 57,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11502188": {
-				"blk": 2,
-				"fou": 5,
+				"blocks": 2,
+				"fouls": 5,
 				"name": "Paolo Pajaro",
 				"prespp": 9,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11567694": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Agapito Pobre",
 				"prespp": 16,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11698849": {
 				"name": "Javier Ladron",
 				"prespp": 48,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"11750105": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Baldomero Caudillo",
 				"prespp": 20,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11780487": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Reinaldo Halcon",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11797056": {
 				"name": "Vasco Malbona",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11876840": {
@@ -90,35 +89,35 @@
 				"type": "R"
 			},
 			"11884680": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Basilio Mortalmente",
 				"prespp": 17,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11944052": {
 				"name": "Francisco Portero",
 				"prespp": 9,
-				"rus": 8,
-				"tur": 11,
+				"rush": 8,
+				"turns": 11,
 				"type": "R"
 			},
 			"12023438": {
 				"name": "Alberto Ventana",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			}
 		},
 		"856697": {
 			"11472246": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Skulltaker",
 				"prespp": 34,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11472247": {
-				"blk": 7,
+				"blocks": 7,
 				"dead": [
 					2,
 					4,
@@ -127,60 +126,61 @@
 				],
 				"name": "Urifdaemonkin",
 				"prespp": 52,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"11472250": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"name": "Arkh'gar",
 				"prespp": 43,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11472254": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Tallomin",
 				"prespp": 11,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11472255": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Arvax the Mad",
 				"prespp": 42,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11472256": {
 				"name": "Scyrak",
 				"prespp": 10,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11472262": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Headsman of Cellebos",
 				"prespp": 26,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11472270": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Drakkar",
 				"prespp": 45,
-				"rus": 27,
+				"rush": 27,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11658789": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "H'Stan",
 				"prespp": 12,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11720018": {
@@ -191,25 +191,26 @@
 					"11439806"
 				],
 				"name": "Bane",
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"11730736": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"name": "Doomsday The Everliving",
 				"prespp": 34,
 				"spp": 4,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11809828": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Apocolypse",
 				"prespp": 10,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11905351": {
@@ -218,36 +219,54 @@
 			},
 			"11971992": {
 				"name": "Grinner",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1015039",
-	"team_performance": {
+	"team": {
 		"854600": {
-			"cas": 4,
-			"casdiff": 0,
+			"blocks": 46,
+			"cas": 1,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Montetriste Noblemen",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 245,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 24,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 136
 		},
 		"856697": {
+			"blocks": 38,
 			"cas": 4,
-			"casdiff": 0,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crimson Skull",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 319,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 27,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 133
 		}
 	}
 }

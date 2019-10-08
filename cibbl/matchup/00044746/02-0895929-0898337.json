@@ -1,135 +1,132 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3980203",
-	"player_performance": {
+	"player": {
 		"895929": {
 			"12098256": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Windfury",
 				"prespp": 9,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12098257": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Clawchest",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098258": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Silverscar",
 				"prespp": 7,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Silverstriker",
 				"prespp": 12,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12098289": {
 				"name": "Crowripper",
 				"prespp": 10,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12098290": {
 				"name": "Heartchewer",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12098294": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Blackchewer",
 				"prespp": 9,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12098296": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Cragclaw",
 				"prespp": 6,
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12098297": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Duskdigger",
 				"prespp": 17,
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"12136367": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Fangsnapper Jr",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12166472": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fangsnapper Jr Jr",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12184769": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Barbedbreath",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		},
 		"898337": {
 			"12143074": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Sebek",
 				"prespp": 14,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12143075": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Remi",
 				"prespp": 12,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12143076": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Oakhit",
 				"prespp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12143078": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Khoaat",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12143079": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Aniath",
 				"prespp": 11,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12143080": {
@@ -138,10 +135,10 @@
 				"type": "R"
 			},
 			"12143081": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Heperu",
-				"rus": 8,
-				"tur": 17,
+				"rush": 8,
+				"turns": 17,
 				"type": "R"
 			},
 			"12143083": {
@@ -150,78 +147,92 @@
 				"type": "R"
 			},
 			"12168121": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Mahe",
 				"spp": 7,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12224932": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Paul Goldhammer",
-				"retired": true,
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			},
 			"12224933": {
 				"name": "William Hardhawk",
-				"retired": true,
 				"type": "J"
 			},
 			"12224934": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Billy Hotfist",
-				"retired": true,
-				"tur": 17,
+				"turns": 17,
 				"type": "J"
 			},
 			"12224935": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Fredrick Bluebone",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			},
-			"898337M1": {
+			"MERC-9308-4067": {
 				"cas": 1,
 				"name": "Merc Jackal Runner 1",
-				"rus": 35,
+				"rush": 35,
 				"spp": 8,
-				"tds": 2,
-				"tur": 13,
+				"td": 2,
+				"turns": 13,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1057639",
-	"team_performance": {
+	"team": {
 		"895929": {
+			"blocks": 36,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
+			"pass": 0,
+			"prespp": 89,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 22,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 126
 		},
 		"898337": {
+			"blocks": 46,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mahrak Maulers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 57,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 43,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 179
 		}
 	}
 }

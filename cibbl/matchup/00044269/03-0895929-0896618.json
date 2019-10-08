@@ -1,89 +1,88 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3959425",
-	"player_performance": {
+	"player": {
 		"895929": {
 			"12098249": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Fangsnapper",
 				"spp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12098256": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Windfury",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12098257": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Clawchest",
 				"prespp": 8,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12098258": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Silverscar",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Silverstriker",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12098287": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Amberfinger",
-				"pas": -1,
-				"rus": -1,
+				"pass": -1,
+				"rush": -1,
 				"spp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12098289": {
 				"name": "Crowripper",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12098290": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Heartchewer",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12098291": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ironspine",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12098294": {
 				"name": "Blackchewer",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12098296": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Cragclaw",
 				"spp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12098297": {
 				"name": "Duskdigger",
-				"rus": 6,
-				"tur": 13,
+				"rush": 6,
+				"turns": 13,
 				"type": "R"
 			}
 		},
@@ -93,75 +92,75 @@
 				"type": "R"
 			},
 			"12109601": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Buraniel",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12109602": {
 				"name": "Bilenduin",
 				"prespp": 6,
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12109604": {
 				"name": "Morniun",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12109605": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Neminor",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12109606": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Quinluin",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12109607": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Luendil",
-				"rus": -5,
+				"rush": -5,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12109608": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Oliveil",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12109609": {
 				"name": "Primoriel",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12109610": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Clairion",
-				"pas": 2,
-				"rus": -4,
+				"pass": 2,
+				"rush": -4,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12109611": {
@@ -169,40 +168,57 @@
 				"type": "R"
 			},
 			"12114177": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Sylvester Silentwing",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1033811",
-	"team_performance": {
+	"team": {
 		"895929": {
-			"cas": 2,
-			"casdiff": -1,
+			"blocks": 21,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
+			"pass": -1,
+			"prespp": 15,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 5,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 116
 		},
 		"896618": {
+			"blocks": 21,
 			"cas": 3,
-			"casdiff": 1,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Charace Charioteers",
-			"prestige": 3,
+			"pass": 2,
+			"prespp": 14,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 6,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 124
 		}
 	}
 }

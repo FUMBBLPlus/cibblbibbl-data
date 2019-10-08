@@ -1,28 +1,27 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3912901",
-	"player_performance": {
+	"player": {
 		"862033": {
 			"11558593": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Kharn",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11558599": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Delvarus",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11558605": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Porphyricus",
 				"prespp": 22,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11558611": {
@@ -30,44 +29,44 @@
 				"name": "Hadrabulus Vioss",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11558616": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Phosis T'Kar",
 				"prespp": 23,
-				"rus": 3,
-				"tur": 15,
+				"rush": 3,
+				"turns": 15,
 				"type": "R"
 			},
 			"11558617": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Skane",
 				"prespp": 15,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11567423": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Kargos",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11681780": {
 				"name": "Hathor Maat",
 				"prespp": 17,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11681785": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lucius",
 				"prespp": 6,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11699119": {
@@ -75,25 +74,25 @@
 				"type": "R"
 			},
 			"11699147": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Khalophis",
 				"prespp": 9,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11841355": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Calas Typhon",
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"11850112": {
 				"name": "Ignatius Grulgor III",
-				"rus": 1,
-				"tur": 5,
+				"rush": 1,
+				"turns": 5,
 				"type": "R"
 			}
 		},
@@ -104,21 +103,21 @@
 				"type": "B"
 			},
 			"11759478": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Soso",
 				"prespp": 16,
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11759479": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Grot of Steel",
 				"prespp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11759483": {
@@ -128,16 +127,16 @@
 			"11759484": {
 				"name": "Freegob",
 				"prespp": 6,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11759486": {
 				"name": "Oliver Gobwell",
 				"prespp": 5,
-				"rus": 15,
+				"rush": 15,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11759487": {
@@ -147,81 +146,99 @@
 			"11759492": {
 				"name": "Goblington",
 				"prespp": 5,
-				"rus": 7,
-				"tur": 8,
+				"rush": 7,
+				"turns": 8,
 				"type": "R"
 			},
 			"11759493": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Goblivar",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11759494": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Gobseppe",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11759495": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gobbibaldi",
-				"rus": 2,
-				"tur": 13,
+				"rush": 2,
+				"turns": 13,
 				"type": "R"
 			},
 			"11759497": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Che Gobvara",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11773725": {
 				"name": "Bomma Meinhof",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11834404": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Gobiliano Fanata",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
-			"874602S1": {
-				"blk": 9,
+			"STAR-7573": {
+				"blocks": 9,
 				"name": "Ripper",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "979923",
-	"team_performance": {
+	"team": {
 		"862033": {
+			"blocks": 33,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Forsaken of the Pantheon",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 120,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 12,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 112
 		},
 		"874602": {
+			"blocks": 35,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Goblin Revolushunary Kommittee",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 54,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 24,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 144
 		}
 	}
 }

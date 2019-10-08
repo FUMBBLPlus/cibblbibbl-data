@@ -1,20 +1,19 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3964304",
-	"player_performance": {
+	"player": {
 		"897963": {
 			"12131133": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "The Truthsayer",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12131134": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					2,
@@ -22,54 +21,55 @@
 					"12140318"
 				],
 				"name": "Anchorman",
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"12131135": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Ser Brian",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12131136": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Ser Brett",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12131137": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ser Chad",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12131138": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Ser Conchobar",
-				"rus": 3,
+				"rush": 3,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12131139": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ser Donnally",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12131140": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ser Eghan",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12131141": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"dead": [
 					2,
@@ -78,139 +78,158 @@
 					"12140311"
 				],
 				"name": "Ser Kelvyn",
-				"rus": 2,
+				"retired": true,
+				"rush": 2,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12131142": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Ser Llyr",
-				"rus": 3,
-				"tur": 16,
+				"rush": 3,
+				"turns": 16,
 				"type": "R"
 			},
 			"12131143": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ser Malvyn",
-				"rus": 10,
-				"tur": 16,
+				"rush": 10,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"898574": {
-			"12131134R1": {
-				"blk": 1,
-				"name": "Anchorman",
-				"tur": 1,
-				"type": "D"
-			},
 			"12140311": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Hemlock Wyatt",
-				"pas": 1,
+				"pass": 1,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140313": {
-				"blk": 4,
+				"blocks": 4,
 				"int": 1,
 				"name": "Arsenic William",
-				"rus": 9,
+				"rush": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140318": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Dimefox Winston",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140321": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Hydrazine Wendall",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12140327": {
 				"name": "Lactonitrile Bernice",
 				"prespp": 3,
-				"rus": 20,
-				"tur": 3,
+				"rush": 20,
+				"turns": 3,
 				"type": "R"
 			},
 			"12140330": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lindane Salvatore",
 				"prespp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12140331": {
 				"name": "Malononitrile Sebastian",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12140364": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Methomyl Samuel",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12140428": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Phenol Sinclair",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12140430": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Piperidine Scarlett",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12140438": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Terbufos Sonia",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
+			},
+			"RAISED-7478_12131134_12146724": {
+				"blocks": 1,
+				"name": "Anchorman",
+				"turns": 1,
+				"type": "D"
 			}
 		}
 	},
 	"replayId": "1039362",
-	"team_performance": {
+	"team": {
 		"897963": {
+			"blocks": 50,
 			"cas": 3,
-			"casdiff": 1,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Albion Four Colour Knights",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 10,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 18,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 169
 		},
 		"898574": {
-			"cas": 2,
-			"casdiff": -1,
+			"blocks": 38,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 1,
+			"mvp": 1,
 			"name": "Revenge Street Reapers",
+			"pass": 1,
+			"prespp": 14,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 29,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 128
 		}
 	}
 }

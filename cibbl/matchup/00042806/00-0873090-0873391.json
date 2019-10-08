@@ -1,120 +1,119 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3894109",
-	"player_performance": {
+	"player": {
 		"873090": {
 			"11732404": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Kraz Mighty-Horn",
-				"rus": 2,
+				"rush": 2,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11732405": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Gnaz Thunder-Charge",
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11732406": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Urgoz Beast-Killer",
-				"rus": 17,
+				"rush": 17,
 				"spp": 6,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"11732407": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Toz Bone-Shatter",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11732408": {
 				"name": "Kribba Krunosch",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11732409": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bagga Sluscho",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11732410": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Braknaz",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11732411": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Miraz",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11732419": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Wirtok",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11732420": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sibba Slongo",
-				"pas": 2,
-				"rus": 1,
-				"tur": 11,
+				"pass": 2,
+				"rush": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11732421": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Snotta Burgo",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"873391": {
 			"11737657": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Aaoloo Grehhl",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737661": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Klix Thryhutt",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11737662": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Phatra Lysxx",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11737663": {
-				"blk": 11,
+				"blocks": 11,
 				"mvp": 1,
 				"name": "Lord of the Deep",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737679": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Magma-Spawn Hargg",
 				"prespp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737684": {
@@ -122,70 +121,87 @@
 				"type": "R"
 			},
 			"11737689": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Karclaw Othir",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11737702": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Liantis Wurty",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737703": {
 				"name": "Espar Wurty",
-				"pas": 2,
-				"rus": 7,
-				"tur": 9,
+				"pass": 2,
+				"rush": 7,
+				"turns": 9,
 				"type": "R"
 			},
 			"11737707": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Mityr Junka",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737709": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Polysia Hent",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11743178": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zachary Coldhammer",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "958342",
-	"team_performance": {
+	"team": {
 		"873090": {
+			"blocks": 38,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Clan MacCraddle",
+			"pass": 2,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 20,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 151
 		},
 		"873391": {
+			"blocks": 37,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Deep Sea Bottom Feeders",
+			"pass": 2,
+			"prespp": 7,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 7,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 151
 		}
 	}
 }

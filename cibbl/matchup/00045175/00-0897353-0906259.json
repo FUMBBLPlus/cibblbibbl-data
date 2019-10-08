@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3995176",
-	"player_performance": {
+	"player": {
 		"897353": {
 			"12121959": {
 				"name": "Nis Atman",
@@ -15,14 +14,14 @@
 				"type": "R"
 			},
 			"12121961": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Enum Ers",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12121967": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					1,
@@ -31,14 +30,15 @@
 				],
 				"name": "Matar Ash",
 				"prespp": 10,
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
 			"12121969": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Mare Oz",
 				"prespp": 9,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12121974": {
@@ -46,69 +46,68 @@
 				"type": "R"
 			},
 			"12121975": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Tush Banuk",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12139096": {
 				"name": "Mos Passat",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 32,
-				"rus": 16,
-				"tur": 15,
+				"rush": 16,
+				"turns": 15,
 				"type": "R"
 			},
 			"12139099": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Blu Ash",
 				"prespp": 23,
-				"rus": 3,
+				"rush": 3,
 				"spp": 10,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12164655": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lang Om",
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12165569": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Adenes Fujo",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12226003": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Salla Sellel",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12288426": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Clay Dip",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12318683": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Deepflow",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12318684": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					6,
@@ -116,89 +115,86 @@
 					"12259678"
 				],
 				"name": "Ommommommo",
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"906259": {
-			"12121967R1": {
-				"name": "Matar Ash",
-				"type": "D"
-			},
 			"12259672": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Skin to bone Delson",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 7,
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12259675": {
 				"name": "Joe Vitto",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12259676": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Powerless Farrel",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12259677": {
 				"name": "Peggy Evil Thing",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12259678": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Confusion Kaminsky",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12259679": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Rob One thousend Bones",
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12266336": {
-				"blk": 4,
+				"blocks": 4,
 				"int": 1,
 				"name": "Bev the black phoenix",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12271318": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 2,
 				"name": "Mr Road Untraveled",
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12271319": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Balance of Power",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12271321": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Bloody Tandy",
 				"prespp": 6,
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"12271323": {
@@ -206,54 +202,76 @@
 				"type": "R"
 			},
 			"12271324": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "The Lier",
 				"prespp": 2,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12318835": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "living thing",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
-			"906259M1": {
-				"blk": 1,
+			"MERC-7172-0614": {
+				"blocks": 1,
 				"name": "Merc Zombie 1",
-				"tur": 1,
+				"turns": 1,
 				"type": "M"
+			},
+			"RAISED-7172_12121967_12319951": {
+				"name": "Matar Ash",
+				"type": "D"
 			}
 		}
 	},
 	"replayId": "1076300",
-	"team_performance": {
+	"team": {
 		"897353": {
+			"blocks": 37,
 			"cas": 2,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Court of Shu",
+			"pass": 1,
+			"prespp": 122,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 147
 		},
 		"906259": {
+			"blocks": 49,
 			"cas": 4,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 1,
+			"mvp": 1,
 			"name": "Livin' Thing",
+			"pass": 2,
+			"prespp": 24,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 32,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 149
 		}
 	}
 }

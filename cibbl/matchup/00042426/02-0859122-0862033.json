@@ -1,62 +1,61 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3883572",
-	"player_performance": {
+	"player": {
 		"859122": {
 			"11512890": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Logan Willow",
 				"prespp": 15,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11512891": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Archer Maddison",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11512892": {
 				"cas": 1,
 				"name": "Jackson Violet",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11512894": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Alexander Tyler",
 				"spp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11512896": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hugo Hunter",
 				"prespp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11512898": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Oscar Jayden",
 				"prespp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11512907": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Alan Berkley",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11512909": {
@@ -65,167 +64,184 @@
 				"type": "R"
 			},
 			"11512911": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Ellie Mackenzie",
 				"prespp": 7,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11512914": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Jaxon Piper",
 				"prespp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11580218": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Edward Riley",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11580221": {
 				"name": "Grant Aiden",
 				"prespp": 5,
-				"retired": true,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11598373": {
 				"name": "Flynn Nate",
-				"rus": 23,
+				"rush": 23,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			}
 		},
 		"862033": {
 			"11558593": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Kharn",
-				"rus": 7,
-				"tur": 16,
+				"rush": 7,
+				"turns": 16,
 				"type": "R"
 			},
 			"11558599": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Delvarus",
 				"prespp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11558603": {
 				"name": "Ignatius Grulgor",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11558605": {
-				"blk": 4,
-				"cps": 1,
-				"fou": 1,
+				"blocks": 4,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Porphyricus",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 5,
-				"rus": 11,
+				"rush": 11,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11558607": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Calas Typhon",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11558611": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hadrabulus Vioss",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11558613": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Marius Vairosean",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11558616": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Phosis T'Kar",
 				"prespp": 3,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11558617": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Skane",
 				"prespp": 6,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11567423": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Kargos",
 				"prespp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11580299": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Julius Kaesoron",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11681780": {
 				"mvp": 1,
 				"name": "Hathor Maat",
 				"spp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11681785": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lucius",
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "945926",
-	"team_performance": {
+	"team": {
 		"859122": {
+			"blocks": 41,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Flying Drop Bears",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 54,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 23,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 138
 		},
 		"862033": {
+			"blocks": 44,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Forsaken of the Pantheon",
-			"prestige": 1,
+			"pass": 2,
+			"prespp": 27,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 30,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 123
 		}
 	}
 }

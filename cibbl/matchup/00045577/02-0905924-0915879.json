@@ -1,8 +1,7 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4013675",
-	"player_performance": {
+	"player": {
 		"905924": {
 			"12254401": {
 				"name": "Reddup",
@@ -10,24 +9,24 @@
 				"type": "R"
 			},
 			"12254402": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Spook",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12254405": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Bone",
 				"prespp": 12,
-				"rus": 4,
+				"rush": 4,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12254406": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					1,
 					6,
@@ -36,39 +35,40 @@
 				],
 				"name": "Gruber",
 				"prespp": 13,
-				"rus": 6,
-				"tur": 6,
+				"retired": true,
+				"rush": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12254414": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Clumsy",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254424": {
 				"name": "Ashur The Vile",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12254440": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "O-Dog The Trogslayer",
 				"prespp": 8,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12254445": {
 				"name": "Scumm The Rebel",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12254450": {
 				"name": "Smartu The Unscarred",
 				"prespp": 3,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12263755": {
@@ -77,134 +77,151 @@
 			},
 			"12263756": {
 				"name": "Killian Glowingwater",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12268727": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Redbone",
 				"prespp": 16,
-				"rus": 7,
+				"rush": 7,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12421782": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Zachary Hotspike",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		},
 		"915879": {
 			"12410762": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Go mbristear do chnámha",
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12410763": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Go mbristear gach cnámh id' chorp",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12410764": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Go mbristear do chosa",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12410765": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "500 Mallacht ort",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12410766": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 2,
 				"name": "Mallacht Déi ort",
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12410767": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Biodh an diabhal agat",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12410768": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Póg mo thóin",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12410769": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mo sheacht mallacht ort",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12410770": {
 				"name": "Go dtachta Sé thú",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12410771": {
 				"name": "Go n-ithe an chat",
-				"rus": 4,
-				"tur": 6,
+				"rush": 4,
+				"turns": 6,
 				"type": "R"
 			},
 			"12410772": {
 				"name": "Fairsinge agus fán id' chionn",
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12410773": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ithe an diabhal an chat",
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1097489",
-	"team_performance": {
+	"team": {
 		"905924": {
+			"blocks": 32,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Squill's Squig Pitt",
+			"pass": 0,
+			"prespp": 73,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 17,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 111
 		},
 		"915879": {
+			"blocks": 37,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Brehon's Lament",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 19,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 163
 		}
 	}
 }

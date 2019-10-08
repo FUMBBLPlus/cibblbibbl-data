@@ -1,37 +1,36 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3900264",
-	"player_performance": {
+	"player": {
 		"867862": {
 			"11646894": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Serrek of Nathrezzar",
 				"prespp": 11,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11646895": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Xerxes of Kerzzasas",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11646896": {
 				"mvp": 1,
 				"name": "Betekh",
 				"prespp": 2,
-				"rus": 9,
+				"rush": 9,
 				"spp": 8,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"11646898": {
-				"blk": 6,
+				"blocks": 6,
 				"dead": [
 					2,
 					3,
@@ -39,42 +38,43 @@
 					"11686470"
 				],
 				"name": "Dreckar the Black",
-				"tur": 11,
+				"retired": true,
+				"turns": 11,
 				"type": "R"
 			},
 			"11646900": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lizur Poisonsword",
 				"prespp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11646901": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Muk",
 				"prespp": 26,
-				"rus": 7,
-				"tur": 14,
+				"rush": 7,
+				"turns": 14,
 				"type": "R"
 			},
 			"11646902": {
 				"name": "Ner",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11646907": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Aki",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11646910": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hil",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11646912": {
@@ -83,164 +83,181 @@
 				"type": "R"
 			},
 			"11651506": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Izz",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11722423": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Vur",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11763541": {
 				"name": "Vute",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
-			"867862M1": {
+			"MERC-7289-2555": {
 				"name": "Merc Skeleton Slaves 1",
-				"tur": 1,
+				"turns": 1,
 				"type": "M"
 			}
 		},
 		"870410": {
 			"11686464": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Zizou Zannanza",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 11,
-				"rus": 7,
+				"rush": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11686465": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "King Pepi",
 				"prespp": 11,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11686466": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Wazza Rudamun",
 				"prespp": 9,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11686468": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ruud Devil Neserkauhor",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11686470": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "De Zulk Analmaye",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11686471": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zapah Manio Bebiankh",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11686472": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Roi Khayu",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11686475": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Guard of the Devils",
 				"prespp": 5,
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11686476": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Guard of the Arsenal",
 				"prespp": 7,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11686477": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Guard of the Reds",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11686481": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Protector of the Toffees",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11705502": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lirah Meni",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11714360": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"fou": 2,
+				"fouls": 2,
 				"name": "Eratosthenes",
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11733652": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Rocket Ramesses II",
 				"prespp": 2,
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "965441",
-	"team_performance": {
+	"team": {
 		"867862": {
+			"blocks": 47,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Everlasting Vultures of Settra",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 100,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 16,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 156
 		},
 		"870410": {
+			"blocks": 50,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Settra's Goats",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 61,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 34,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 165
 		}
 	}
 }

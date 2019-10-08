@@ -1,22 +1,21 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4010679",
-	"player_performance": {
+	"player": {
 		"871787": {
 			"11709008": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Emyys Doceon",
 				"prespp": 3,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11709009": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Burk Silpal",
 				"prespp": 24,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11709010": {
@@ -25,77 +24,77 @@
 				"type": "R"
 			},
 			"11709011": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Raus Juit",
 				"prespp": 93,
-				"rus": 38,
+				"rush": 38,
 				"spp": 6,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"11709013": {
 				"name": "Kael Desini",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 25,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11709018": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Font Eiridan",
 				"prespp": 55,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11747061": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Gutterfingers",
 				"prespp": 26,
 				"spp": 5,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11814852": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Pantheon Bane",
 				"prespp": 63,
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11956674": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Abd Allah Bousaid",
 				"prespp": 13,
-				"tur": 4,
+				"turns": 4,
 				"type": "I"
 			},
 			"12051832": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Amon",
 				"prespp": 22,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12159733": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Gert Stein",
 				"prespp": 6,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12241610": {
 				"name": "Gorrin Kral",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12241611": {
 				"name": "Swin Zaero",
 				"prespp": 13,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12273111": {
@@ -106,54 +105,55 @@
 					"12343072"
 				],
 				"name": "Ural Phlips",
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"12363942": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Radix Radex",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"879131": {
 			"11828950": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Calico Jack",
 				"prespp": 94,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828951": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Morag",
 				"prespp": 35,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11828952": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Greta",
 				"prespp": 29,
-				"tur": 6,
+				"turns": 6,
 				"type": "B"
 			},
 			"11828953": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Nefo Dawnripper",
 				"prespp": 50,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828954": {
 				"name": "Ibhib Nightbreaker",
 				"prespp": 101,
-				"rus": 21,
-				"tur": 15,
+				"rush": 21,
+				"turns": 15,
 				"type": "R"
 			},
 			"11828955": {
@@ -162,57 +162,56 @@
 				"type": "R"
 			},
 			"11828956": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Grog Swiller Finn",
 				"prespp": 36,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11956118": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "Voodoo Jones",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12155340": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Seabiscuit Maguire",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12261823": {
 				"name": "Scabby Flaherty",
 				"prespp": 4,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12321107": {
 				"name": "Goldtooth O'Malley",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12343072": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Ol' Roy Schneider",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12355104": {
 				"name": "Larry O'Malley",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12355105": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Stumpy McTerror",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12371144": {
@@ -220,38 +219,56 @@
 				"type": "R"
 			},
 			"12405397": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Elbows Halloran",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1094099",
-	"team_performance": {
+	"team": {
 		"871787": {
+			"blocks": 37,
 			"cas": 2,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malignant Curators",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 359,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 150
 		},
 		"879131": {
-			"cas": 3,
-			"casdiff": 1,
+			"blocks": 39,
+			"cas": 2,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sartosa Black Flags",
+			"pass": 0,
+			"prespp": 397,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 21,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 153
 		}
 	}
 }

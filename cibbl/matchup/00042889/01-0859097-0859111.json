@@ -1,53 +1,51 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3898752",
-	"player_performance": {
+	"player": {
 		"859097": {
 			"11512469": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 3,
 				"name": "Vasishthiputra Pulumavi",
 				"prespp": 31,
 				"spp": 6,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11512471": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Ghaggar-Hakra",
 				"prespp": 23,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512474": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Ananga",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512476": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chola",
 				"prespp": 16,
-				"rus": 16,
-				"tur": 16,
+				"rush": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512478": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Vaishnava",
 				"prespp": 16,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11512480": {
 				"name": "Khwarezm Kausambi",
-				"retired": true,
 				"type": "R"
 			},
 			"11512482": {
@@ -56,119 +54,119 @@
 				"type": "R"
 			},
 			"11512483": {
-				"blk": 3,
-				"fou": 11,
+				"blocks": 3,
+				"fouls": 11,
 				"name": "Vima Taktu",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11570395": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Devaraja",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11671350": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Arun Jaitley",
-				"rus": 11,
+				"rush": 11,
 				"spp": 8,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"11703410": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Yogi Adityanath",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11703411": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Shashi Tharoor",
-				"rus": 10,
+				"rush": 10,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11706481": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Yajna Sri Satakarni",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11706486": {
 				"name": "Aki Mehta",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"859111": {
 			"11512661": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Asura",
 				"prespp": 18,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11512662": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Gandharva",
 				"prespp": 12,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11512667": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Yaksha",
 				"prespp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11512668": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Rakshasa",
 				"prespp": 15,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11512672": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Sun Eater",
 				"prespp": 25,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11512674": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Markata",
 				"prespp": 12,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11512677": {
 				"name": "Bandar",
 				"prespp": 7,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11515143": {
-				"blk": 3,
-				"fou": 2,
+				"blocks": 3,
+				"fouls": 2,
 				"name": "Ulric Weakhammer",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11594138": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					7,
@@ -176,63 +174,82 @@
 					"11703411"
 				],
 				"name": "Guru",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 13,
-				"rus": 9,
-				"tur": 7,
+				"retired": true,
+				"rush": 9,
+				"turns": 7,
 				"type": "R"
 			},
 			"11630133": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Ka",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 8,
-				"rus": -2,
+				"rush": -2,
 				"spp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11710872": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mountain Lifter",
 				"prespp": 8,
-				"rus": 7,
-				"tur": 4,
+				"rush": 7,
+				"turns": 4,
 				"type": "R"
 			},
 			"11753833": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "The Rudra",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "963678",
-	"team_performance": {
+	"team": {
 		"859097": {
-			"cas": 8,
-			"casdiff": 8,
+			"blocks": 57,
+			"cas": 4,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 11,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bhubaneswar Rampage",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 119,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 46,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 171
 		},
 		"859111": {
+			"blocks": 39,
 			"cas": 0,
-			"casdiff": -8,
+			"casdiff": -4,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Dandaka Devas",
+			"pass": 3,
+			"prespp": 127,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 108
 		}
 	}
 }

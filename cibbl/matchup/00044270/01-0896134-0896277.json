@@ -1,85 +1,84 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3957258",
-	"player_performance": {
+	"player": {
 		"896134": {
 			"12101570": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
-				"fou": 2,
+				"fouls": 2,
 				"name": "Rotten Roller",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12101571": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Krakshot Neek",
-				"rus": 17,
+				"rush": 17,
 				"spp": 6,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"12101572": {
 				"mvp": 1,
 				"name": "Shokk-naww",
-				"rus": 3,
+				"rush": 3,
 				"spp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12101577": {
 				"name": "Snub-tail",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12101578": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"name": "Quee-kin",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12101579": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Vyrmreek",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12101580": {
 				"name": "Virr-yekk",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12101581": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gimp-paw",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12101582": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Snivel-likk",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12101583": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Nakk-Nakk",
-				"rus": 8,
-				"tur": 13,
+				"rush": 8,
+				"turns": 13,
 				"type": "R"
 			},
 			"12101584": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kreeyik",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12101586": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					3,
@@ -87,125 +86,144 @@
 					"12103958"
 				],
 				"name": "Skrykk",
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "R"
 			},
 			"12101587": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Reeknose",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12101597": {
 				"name": "Virulent Reever",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"896277": {
 			"12103955": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Khul",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12103956": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Qu'arakk",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12103957": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Skiril",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12103958": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Zuznifik",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12103985": {
 				"name": "Thraggskell",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12103986": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Bodgnikk",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12103987": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hebnak-sneekl",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12103988": {
 				"name": "Stuntlbosh",
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12103989": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Grotslag",
 				"spp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12103990": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Runty",
-				"pas": 1,
-				"rus": 6,
-				"tur": 11,
+				"pass": 1,
+				"rush": 6,
+				"turns": 11,
 				"type": "R"
 			},
 			"12103991": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bodgehammer",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1031271",
-	"team_performance": {
+	"team": {
 		"896134": {
+			"blocks": 41,
 			"cas": 1,
-			"casdiff": -2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rotfall Ironworks Rocketeers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 28,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 162
 		},
 		"896277": {
-			"cas": 3,
-			"casdiff": 2,
+			"blocks": 30,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Thirteenth Circle Abominations",
+			"pass": 1,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 17,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 129
 		}
 	}
 }

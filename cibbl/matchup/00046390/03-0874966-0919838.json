@@ -1,23 +1,22 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4050331",
-	"player_performance": {
+	"player": {
 		"874966": {
 			"11764921": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Morlanna",
 				"prespp": 85,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11938500": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mereia",
 				"prespp": 37,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11967724": {
@@ -28,65 +27,65 @@
 			"12052561": {
 				"name": "Mereia",
 				"prespp": 35,
-				"rus": 4,
+				"rush": 4,
 				"spp": 3,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"12072196": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Jokleel",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231028": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Nimrodel",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 37,
-				"rus": 9,
-				"tur": 15,
+				"rush": 9,
+				"turns": 15,
 				"type": "R"
 			},
 			"12351587": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Beldroth Boombark",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12462256": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Isilvar",
 				"prespp": 13,
-				"rus": 9,
+				"rush": 9,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12509928": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Alaris",
 				"prespp": 18,
-				"rus": 7,
+				"rush": 7,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12518161": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Moranion",
-				"rus": 1,
-				"tur": 11,
+				"rush": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12537382": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					1,
@@ -95,64 +94,65 @@
 				],
 				"name": "Calthor",
 				"prespp": 6,
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "R"
 			},
 			"12537383": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kivan",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12585132": {
 				"name": "Caelir",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
 		"919838": {
 			"12473300": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Scarloc",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12473305": {
-				"blk": 12,
-				"fou": 1,
+				"blocks": 12,
+				"fouls": 1,
 				"name": "Hollow Silence",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12473308": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Widow Maker",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12473310": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Pledge of the World",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12473315": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Storm",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12473316": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Ballista",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12473317": {
@@ -161,21 +161,21 @@
 				"type": "R"
 			},
 			"12473318": {
-				"blk": 3,
-				"fou": 3,
+				"blocks": 3,
+				"fouls": 3,
 				"name": "Rustle",
 				"prespp": 23,
-				"rus": 24,
+				"rush": 24,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12473320": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Scratch",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12473321": {
@@ -183,70 +183,89 @@
 				"type": "R"
 			},
 			"12499878": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Karma",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12574195": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Venin",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12591421": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mirage",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12617950": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					1,
 					"blocked",
 					"12462256"
 				],
-				"fou": 1,
+				"fouls": 1,
 				"name": "Libra",
-				"tur": 5,
+				"retired": true,
+				"turns": 5,
 				"type": "R"
 			},
-			"919838S1": {
-				"blk": 2,
+			"STAR-7567": {
+				"blocks": 2,
 				"name": "Garbage Throttlesnot",
-				"tur": 4,
+				"turns": 4,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1139421",
-	"team_performance": {
+	"team": {
 		"874966": {
+			"blocks": 33,
 			"cas": 2,
-			"casdiff": 1,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 331,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 140
 		},
 		"919838": {
-			"cas": 1,
-			"casdiff": -1,
+			"blocks": 45,
+			"cas": 0,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Wisdom of Athel Woods",
+			"pass": 0,
+			"prespp": 81,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 24,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 155
 		}
 	}
 }

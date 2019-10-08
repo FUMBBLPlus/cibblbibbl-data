@@ -1,34 +1,33 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4027940",
-	"player_performance": {
+	"player": {
 		"906026": {
 			"12255960": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Angry",
 				"prespp": 25,
-				"tur": 6,
+				"turns": 6,
 				"type": "B"
 			},
 			"12255961": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Mani Mad Cap",
 				"prespp": 14,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12255962": {
 				"mvp": 1,
 				"name": "Dizgot Boomfeet",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 40,
-				"rus": 44,
+				"rush": 44,
 				"spp": 11,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"12255963": {
@@ -36,118 +35,119 @@
 					1,
 					1,
 					"bomb",
-					"12255963"
+					null
 				],
 				"name": "Vok Madblast",
+				"retired": true,
 				"type": "R"
 			},
 			"12255970": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Fydiert Eagerflame",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12255972": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Yralme Megaslice",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12255977": {
 				"name": "Imixis Coggob",
 				"prespp": 3,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12255981": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Zyngle Cogbrass",
 				"prespp": 3,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12255982": {
 				"name": "Nondert Lazyjolt",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12255985": {
 				"name": "Symer Shitftwister",
 				"prespp": 2,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12358465": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Turney turkeY",
-				"rus": 1,
-				"tur": 13,
+				"rush": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12411917": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Angry",
 				"prespp": 21,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12492986": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kurdan Sparkvolt",
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12492987": {
 				"name": "Urdin",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12500858": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Ord Onehanded",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			}
 		},
 		"916031": {
 			"12413273": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Eyez Poka",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12413274": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Throat Rippa",
 				"prespp": 3,
-				"rus": 10,
+				"rush": 10,
 				"spp": 6,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413275": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Head Stompa",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 34,
-				"rus": 28,
+				"rush": 28,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413277": {
-				"blk": 6,
+				"blocks": 6,
 				"dead": [
 					2,
 					1,
@@ -156,89 +156,107 @@
 				],
 				"name": "Toes Gouger",
 				"prespp": 6,
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "R"
 			},
 			"12413278": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Spleen Eater",
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413279": {
 				"name": "Nose Smasher",
 				"prespp": 14,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12413281": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Gra'Ro'Pra",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12413282": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Gro'Gaw'Cra",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12426039": {
-				"blk": 12,
+				"blocks": 12,
 				"cas": 1,
 				"name": "Nose Snippa",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12491516": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Liver Gutter",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12504744": {
 				"name": "Osmond Hideousstream",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1113513",
-	"team_performance": {
+	"team": {
 		"906026": {
-			"cas": 3,
-			"casdiff": -2,
+			"blocks": 35,
+			"cas": 1,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Karak Azog Outlaws",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 110,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 58,
 			"score": 3,
 			"scorediff": 1,
-			"tds": 3,
-			"tdsdiff": 1
+			"td": 3,
+			"tddiff": 1,
+			"turns": 158
 		},
 		"916031": {
+			"blocks": 45,
 			"cas": 5,
-			"casdiff": 2,
+			"casdiff": 4,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gorthor's Prophets Of Mork",
+			"pass": 3,
+			"prespp": 85,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 38,
 			"score": 2,
 			"scorediff": -1,
-			"tds": 2,
-			"tdsdiff": -1
+			"td": 2,
+			"tddiff": -1,
+			"turns": 146
 		}
 	}
 }

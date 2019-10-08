@@ -1,56 +1,55 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3948823",
-	"player_performance": {
+	"player": {
 		"867862": {
 			"11646894": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 3,
 				"name": "Serrek of Nathrezzar",
 				"prespp": 38,
 				"spp": 6,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11646901": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Muk",
 				"prespp": 38,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11646902": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ner",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11646912": {
 				"name": "Che",
 				"prespp": 4,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11651506": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Izz",
 				"prespp": 48,
-				"rus": 31,
+				"rush": 31,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11722423": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Vur",
 				"prespp": 17,
-				"rus": 3,
+				"rush": 3,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11763541": {
@@ -59,21 +58,21 @@
 				"type": "R"
 			},
 			"11782667": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Vir",
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11791082": {
 				"name": "Sethar",
 				"prespp": 37,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11876841": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					1,
@@ -81,181 +80,198 @@
 					"11903249"
 				],
 				"name": "Druz",
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "R"
 			},
 			"11917261": {
 				"name": "Irtriss",
 				"prespp": 1,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11943420": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Nethrafar the Raider",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11946085": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Tarotep of Horin 'Reth",
 				"prespp": 12,
 				"spp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12051541": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Drewaq Evilgrin",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		},
 		"883751": {
 			"11903227": {
-				"fou": 6,
+				"fouls": 6,
 				"name": "Death Mask",
 				"prespp": 10,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11903233": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Ramhotep",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11903249": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Sentinel of the Sands",
 				"prespp": 32,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11903250": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "The All-Seeing Eye",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11903253": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Anubis the Embalmer",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11903254": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Hathor the Pallbearer",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11903258": {
 				"name": "Seshat the Scribe",
 				"prespp": 2,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11903260": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Nightwalker",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11903261": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "The Grand Vizier",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11903266": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Stargazer",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11903267": {
 				"name": "Tomb Raider",
 				"prespp": 5,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11903280": {
 				"name": "Baba the Builder",
 				"prespp": 2,
-				"retired": true,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11936541": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Snakecharmer",
 				"prespp": 15,
-				"rus": 11,
-				"tur": 9,
+				"rush": 11,
+				"turns": 9,
 				"type": "R"
 			},
 			"11950137": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Behemoth",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12029196": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "The Beetle Juicer",
 				"prespp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12038227": {
 				"name": "Antimony the Alchemist",
-				"retired": true,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1021779",
-	"team_performance": {
+	"team": {
 		"867862": {
+			"blocks": 57,
 			"cas": 5,
-			"casdiff": -2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Everlasting Vultures of Settra",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 212,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 34,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 138
 		},
 		"883751": {
-			"cas": 7,
-			"casdiff": 2,
+			"blocks": 39,
+			"cas": 3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Slaves of the Serpent Queen",
+			"pass": 0,
+			"prespp": 101,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 11,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 149
 		}
 	}
 }

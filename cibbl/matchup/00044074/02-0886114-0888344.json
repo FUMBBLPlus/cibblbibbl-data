@@ -1,59 +1,58 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3950955",
-	"player_performance": {
+	"player": {
 		"886114": {
 			"11939696": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Erato",
 				"prespp": 16,
-				"rus": 5,
+				"rush": 5,
 				"spp": 5,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"11939705": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lydia",
 				"prespp": 18,
-				"rus": 16,
-				"tur": 10,
+				"rush": 16,
+				"turns": 10,
 				"type": "R"
 			},
 			"11939711": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ariel",
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"11939712": {
 				"name": "Arya",
 				"prespp": 17,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11939715": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Aadhýa",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11939716": {
 				"name": "Coleshá",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11939717": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Delilah",
 				"prespp": 20,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11939720": {
@@ -62,79 +61,78 @@
 				"type": "R"
 			},
 			"11956884": {
-				"blk": 7,
+				"blocks": 7,
 				"int": 1,
 				"mvp": 1,
 				"name": "Elpida",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 7,
-				"rus": 5,
+				"rush": 5,
 				"spp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12030024": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Shinesa",
 				"prespp": 17,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12051225": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Sylvester Darklightning",
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "J"
 			},
 			"12051226": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Tristan Darkfire",
-				"retired": true,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			}
 		},
 		"888344": {
 			"11974838": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Finubar",
 				"prespp": 11,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11974839": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tyrielle",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11974840": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Korhil",
 				"prespp": 6,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11974841": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Yreene",
 				"prespp": 6,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11974844": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Ailmar",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 5,
-				"rus": 3,
+				"rush": 3,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11974846": {
@@ -143,14 +141,14 @@
 				"type": "R"
 			},
 			"11974850": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Hathor",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 9,
-				"rus": 6,
+				"rush": 6,
 				"spp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11974853": {
@@ -158,67 +156,85 @@
 				"type": "R"
 			},
 			"11975460": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Evilonah Fellblade",
 				"prespp": 19,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11975493": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Morvael Lightningstrider",
 				"prespp": 22,
-				"rus": 7,
-				"tur": 12,
+				"rush": 7,
+				"turns": 12,
 				"type": "R"
 			},
 			"11980511": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Valahuir Morningstar",
 				"prespp": 17,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12043532": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ornthalas Eaglesflight",
 				"prespp": 8,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12043865": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bel-Ithlirel Swiftstrider",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1024188",
-	"team_performance": {
+	"team": {
 		"886114": {
+			"blocks": 40,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 1,
+			"mvp": 1,
 			"name": "Eye and Arrow",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 101,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 36,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 146
 		},
 		"888344": {
+			"blocks": 27,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Masqueraded Magnificence",
+			"pass": 3,
+			"prespp": 118,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 122
 		}
 	}
 }

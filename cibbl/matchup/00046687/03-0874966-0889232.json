@@ -1,72 +1,71 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4067428",
-	"player_performance": {
+	"player": {
 		"874966": {
 			"11764921": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Morlanna",
 				"prespp": 87,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11967724": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Hauclir",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 78,
-				"rus": 38,
+				"rush": 38,
 				"spp": 6,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12052561": {
 				"name": "Mereia",
 				"prespp": 41,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12072196": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Jokleel",
 				"prespp": 21,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12231028": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Nimrodel",
 				"prespp": 40,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12351587": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Beldroth Boombark",
 				"prespp": 22,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12462256": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Isilvar",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12509928": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Alaris",
 				"prespp": 40,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12537383": {
@@ -77,14 +76,14 @@
 			"12585132": {
 				"name": "Caelir",
 				"prespp": 3,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12628844": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Alastrian",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12681912": {
@@ -95,44 +94,45 @@
 					"12187033"
 				],
 				"name": "Maeron",
-				"tur": 1,
+				"retired": true,
+				"turns": 1,
 				"type": "R"
 			},
 			"12684362": {
 				"mvp": 1,
 				"name": "Finavar",
 				"spp": 8,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			}
 		},
 		"889232": {
 			"11989952": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chthonic Cobaltite",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989980": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Chthonic Kaolinite",
 				"prespp": 44,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12003575": {
 				"name": "Sylph Haze",
 				"prespp": 51,
-				"rus": 12,
-				"tur": 4,
+				"rush": 12,
+				"turns": 4,
 				"type": "R"
 			},
 			"12070122": {
-				"blk": 6,
+				"blocks": 6,
 				"dead": [
 					2,
 					8,
@@ -141,72 +141,73 @@
 				],
 				"name": "Chthonic Slade",
 				"prespp": 43,
-				"tur": 15,
+				"retired": true,
+				"turns": 15,
 				"type": "R"
 			},
 			"12145447": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Magma Flow",
 				"prespp": 50,
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12187033": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Chthonic Cinnabar",
 				"prespp": 10,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12279033": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Naiad Tori",
 				"prespp": 40,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12332036": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Naiad Chloe",
 				"prespp": 18,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12399766": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chthonic Muscovite",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12502199": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chthonic Cassiterite",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12519946": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chthonic Puddingstone",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12531045": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Chthonic Microcline",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12600678": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lucius Magma",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12685626": {
@@ -214,42 +215,60 @@
 				"type": "R"
 			},
 			"12694204": {
-				"cps": 1,
-				"fou": 1,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Hieronymous Sylph",
-				"pas": 3,
-				"rus": 8,
+				"pass": 3,
+				"rush": 8,
 				"spp": 1,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1158686",
-	"team_performance": {
+	"team": {
 		"874966": {
+			"blocks": 30,
 			"cas": 3,
-			"casdiff": 1,
+			"casdiff": 3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 364,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 150
 		},
 		"889232": {
-			"cas": 2,
-			"casdiff": -1,
+			"blocks": 39,
+			"cas": 0,
+			"casdiff": -3,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lost Golems of Grungni",
+			"pass": 3,
+			"prespp": 286,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 31,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 152
 		}
 	}
 }

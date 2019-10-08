@@ -1,64 +1,63 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3986522",
-	"player_performance": {
+	"player": {
 		"905886": {
 			"12253779": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Charles Umpherston Aitchison",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "B"
 			},
 			"12253780": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Gyles Mackrell",
 				"prespp": 9,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12253781": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Samuel White Baker",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12253782": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Basil Eddis",
 				"prespp": 7,
-				"tur": 6,
+				"turns": 6,
 				"type": "B"
 			},
 			"12253784": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Eldred Pottinger",
 				"prespp": 4,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12253785": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "E. W. Middlemast",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12254721": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Grottleblagh",
 				"prespp": 6,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12254722": {
@@ -67,147 +66,163 @@
 				"type": "R"
 			},
 			"12254723": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Scrubbalick",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12261642": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 2,
 				"name": "William Cotton Oswell",
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "B"
 			},
 			"12261643": {
 				"name": "Vincent Vileeagle",
-				"retired": true,
-				"rus": 5,
-				"tur": 7,
+				"rush": 5,
+				"turns": 7,
 				"type": "J"
 			},
 			"12261644": {
 				"name": "Vincent Dirtyorc",
-				"retired": true,
-				"rus": 1,
-				"tur": 11,
+				"rush": 1,
+				"turns": 11,
 				"type": "J"
 			}
 		},
 		"905924": {
 			"12254401": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Reddup",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12254402": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Spook",
 				"prespp": 5,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12254405": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Bone",
 				"prespp": 8,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12254406": {
 				"name": "Gruber",
 				"prespp": 10,
-				"rus": -3,
-				"tur": 2,
+				"rush": -3,
+				"turns": 2,
 				"type": "R"
 			},
 			"12254409": {
 				"name": "Pygmy",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254414": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Clumsy",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254424": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ashur The Vile",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12254427": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Slob The Laborer",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12254440": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "O-Dog The Trogslayer",
-				"rus": 16,
+				"rush": 16,
 				"spp": 8,
-				"tds": 1,
-				"tur": 10,
+				"td": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12254445": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Scumm The Rebel",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12254450": {
 				"name": "Smartu The Unscarred",
 				"prespp": 3,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12263755": {
 				"name": "Gizmo The Gambler",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12263756": {
 				"name": "Killian Glowingwater",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1064976",
-	"team_performance": {
+	"team": {
 		"905886": {
+			"blocks": 46,
 			"cas": 5,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sabre Mountain Rattlers",
+			"pass": 0,
+			"prespp": 44,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 6,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 136
 		},
 		"905924": {
+			"blocks": 25,
 			"cas": 1,
 			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Squill's Squig Pitt",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 28,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 13,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 153
 		}
 	}
 }

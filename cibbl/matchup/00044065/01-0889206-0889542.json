@@ -1,20 +1,19 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3946638",
-	"player_performance": {
+	"player": {
 		"889206": {
 			"11989525": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Frisky Winds",
 				"prespp": 7,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989527": {
-				"blk": 7,
+				"blocks": 7,
 				"dead": [
 					2,
 					7,
@@ -23,29 +22,30 @@
 				],
 				"name": "Stormbringer",
 				"prespp": 15,
-				"rus": 10,
-				"tur": 14,
+				"retired": true,
+				"rush": 10,
+				"turns": 14,
 				"type": "R"
 			},
 			"11989533": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Black Fire",
 				"prespp": 16,
-				"rus": 1,
-				"tur": 15,
+				"rush": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11989534": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Eternal Flame",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989535": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					8,
@@ -54,7 +54,8 @@
 				],
 				"name": "Captain Starfish",
 				"prespp": 8,
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"11989541": {
@@ -62,185 +63,203 @@
 				"type": "R"
 			},
 			"11990235": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "River Wild",
 				"prespp": 10,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11990236": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Jack Ironfist",
 				"prespp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990237": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Ben the Golden",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990238": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Franky Waterfalls",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11990239": {
-				"blk": 6,
-				"fou": 1,
+				"blocks": 6,
+				"fouls": 1,
 				"name": "Unbar the Wet",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11997944": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dripping Darkness",
 				"prespp": 3,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12032521": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Jelly Floodings",
-				"rus": 6,
-				"tur": 11,
+				"rush": 6,
+				"turns": 11,
 				"type": "R"
 			},
 			"12032523": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Running Water",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"889542": {
 			"11994682": {
-				"blk": 13,
+				"blocks": 13,
 				"name": "Lord Hellfire",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11994684": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mineral Casper",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11994685": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Vortex",
 				"prespp": 7,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11994690": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Flooding Caves",
 				"prespp": 3,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11994693": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Flowing Woods",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11994694": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Burning Soul",
 				"prespp": 8,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11994696": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Restless Igniter",
 				"prespp": 6,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12003232": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Shimering Glow",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12009380": {
 				"name": "Underground Heat",
 				"prespp": 2,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12036400": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Slight Tornado",
 				"prespp": 7,
-				"rus": 13,
+				"rush": 13,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12045054": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Solid Ground",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
-			"889542M1": {
-				"blk": 4,
+			"MERC-7437-3685": {
+				"blocks": 4,
 				"name": "Merc Fire Elemental 1",
-				"tur": 8,
+				"turns": 8,
 				"type": "M"
 			},
-			"889542S1": {
-				"blk": 1,
+			"STAR-7719": {
+				"blocks": 1,
 				"name": "Gregor Miessen",
-				"tur": 12,
+				"turns": 12,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1019249",
-	"team_performance": {
+	"team": {
 		"889206": {
+			"blocks": 63,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tsunami Terrors",
+			"pass": 0,
+			"prespp": 73,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 17,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 162
 		},
 		"889542": {
+			"blocks": 40,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Hellbound Firebats",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 49,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 159
 		}
 	}
 }

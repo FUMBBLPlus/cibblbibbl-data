@@ -1,59 +1,57 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3995403",
-	"player_performance": {
+	"player": {
 		"859097": {
 			"11512471": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Ghaggar-Hakra",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 70,
 				"spp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "B"
 			},
 			"11512476": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Chola",
 				"prespp": 80,
-				"rus": 21,
+				"rush": 21,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11512478": {
 				"name": "Vaishnava",
 				"prespp": 19,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11512482": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Amu Darya",
 				"prespp": 20,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11512483": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Vima Taktu",
 				"prespp": 19,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11570395": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Devaraja",
 				"prespp": 22,
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11671350": {
@@ -62,29 +60,29 @@
 				"type": "R"
 			},
 			"11844958": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Raja Raja Chola",
 				"prespp": 65,
 				"spp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11869549": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Chhatrapati Shivaji",
 				"prespp": 43,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11978579": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lakshmi",
 				"prespp": 21,
-				"rus": 6,
-				"tur": 13,
+				"rush": 6,
+				"turns": 13,
 				"type": "R"
 			},
 			"12002820": {
@@ -93,28 +91,27 @@
 				"type": "R"
 			},
 			"12069676": {
-				"fou": 4,
+				"fouls": 4,
 				"name": "Kailash Nath Katju",
 				"prespp": 10,
-				"retired": true,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12153572": {
 				"name": "Jagjivan Ram",
 				"prespp": 2,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12233097": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Shastri Bhawan",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12269939": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					2,
 					1,
@@ -122,99 +119,100 @@
 					"11828955"
 				],
 				"name": "Krishi Prasad",
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"12320302": {
-				"blk": 5,
-				"cps": 1,
-				"fou": 1,
+				"blocks": 5,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Rajendra Bahwan",
-				"pas": 2,
-				"rus": 4,
+				"pass": 2,
+				"rush": 4,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"879131": {
 			"11828950": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 2,
 				"name": "Calico Jack",
 				"prespp": 84,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828951": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Morag",
 				"prespp": 28,
-				"tur": 6,
+				"turns": 6,
 				"type": "B"
 			},
 			"11828952": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Greta",
 				"prespp": 24,
-				"tur": 8,
+				"turns": 8,
 				"type": "B"
 			},
 			"11828953": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Nefo Dawnripper",
 				"prespp": 38,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828954": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ibhib Nightbreaker",
 				"prespp": 82,
-				"rus": 60,
+				"rush": 60,
 				"spp": 6,
-				"tds": 2,
-				"tur": 13,
+				"td": 2,
+				"turns": 13,
 				"type": "R"
 			},
 			"11828955": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Dog Rough Drimond",
 				"prespp": 26,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11828956": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Grog Swiller Finn",
 				"prespp": 29,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11875956": {
-				"blk": 3,
-				"fou": 7,
+				"blocks": 3,
+				"fouls": 7,
 				"name": "Hook Thorne",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11956118": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Voodoo Jones",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12037304": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ale Barrel Grey",
 				"prespp": 7,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12125595": {
@@ -225,17 +223,18 @@
 					"11844958"
 				],
 				"name": "Pegleg Peet",
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"12155340": {
 				"name": "Seabiscuit Maguire",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12233543": {
 				"name": "One-Ear McGee",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12261823": {
@@ -249,30 +248,48 @@
 		}
 	},
 	"replayId": "1076562",
-	"team_performance": {
+	"team": {
 		"859097": {
+			"blocks": 41,
 			"cas": 2,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 2,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bhubaneswar Rampage",
+			"pass": 3,
+			"prespp": 405,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 38,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 125
 		},
 		"879131": {
-			"cas": 5,
-			"casdiff": 3,
+			"blocks": 37,
+			"cas": 4,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sartosa Black Flags",
+			"pass": 0,
+			"prespp": 325,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 60,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 140
 		}
 	}
 }

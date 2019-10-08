@@ -1,36 +1,35 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3977527",
-	"player_performance": {
+	"player": {
 		"854690": {
 			"11439891": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Shiamoto The Undying",
 				"prespp": 63,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11439893": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Ronin Swift Wind",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 55,
-				"rus": 7,
+				"rush": 7,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439894": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Ronin Four Finger Death Punch",
 				"prespp": 74,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11439896": {
@@ -39,59 +38,59 @@
 				"type": "R"
 			},
 			"11474441": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Ronin Headchopper",
 				"prespp": 77,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11624586": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Saku",
 				"prespp": 6,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11694784": {
 				"name": "Su Ha",
 				"prespp": 19,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11775641": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Taizo",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11873914": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Toshi",
 				"prespp": 6,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11895977": {
 				"name": "Ro Hoi",
 				"prespp": 2,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11979086": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Temple Guard A'Rsch Auff",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12135204": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Ronin Killing Strike",
 				"prespp": 3,
 				"spp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12135210": {
@@ -103,24 +102,25 @@
 				],
 				"name": "Chi Ma",
 				"prespp": 17,
-				"tur": 2,
+				"retired": true,
+				"turns": 2,
 				"type": "R"
 			},
 			"12151464": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ha To Ri",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12170372": {
 				"name": "To Raz",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12180128": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Temple Guard Marble Water",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
@@ -131,139 +131,157 @@
 				"type": "R"
 			},
 			"11582133": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Falandar",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 83,
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582134": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lonlaithilon",
 				"prespp": 36,
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582135": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Norlir",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 36,
-				"rus": 5,
+				"rush": 5,
 				"spp": 1,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11582136": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gethonil",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582137": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Linfarnrir",
 				"prespp": 20,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582139": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Arathion",
 				"prespp": 32,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11657983": {
 				"name": "Nuirlan",
 				"prespp": 43,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11937388": {
 				"name": "Saeldovel",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 30,
-				"rus": -3,
-				"tur": 7,
+				"rush": -3,
+				"turns": 7,
 				"type": "R"
 			},
 			"12004052": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Gaezen",
 				"prespp": 32,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12031273": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Maerurhel",
-				"pas": -5,
+				"pass": -5,
 				"prespp": 16,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12055204": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Bhaiotlulon",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12055992": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Aiuzirvel",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
-			"863441S1": {
+			"STAR-7540": {
 				"name": "Eldril Sidewinder",
-				"tur": 14,
+				"turns": 14,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1054596",
-	"team_performance": {
+	"team": {
 		"854690": {
-			"cas": 4,
-			"casdiff": 2,
+			"blocks": 44,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Secret Cult Of Shiamoto",
+			"pass": 1,
+			"prespp": 363,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 7,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 144
 		},
 		"863441": {
+			"blocks": 27,
 			"cas": 2,
-			"casdiff": -2,
+			"casdiff": -1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tor Anroc Anglers",
-			"prestige": 3,
+			"pass": -4,
+			"prespp": 410,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 40,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 157
 		}
 	}
 }

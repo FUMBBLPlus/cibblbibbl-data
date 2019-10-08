@@ -1,169 +1,168 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4046395",
-	"player_performance": {
+	"player": {
 		"889232": {
 			"11989952": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chthonic Cobaltite",
 				"prespp": 19,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11989980": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Chthonic Kaolinite",
 				"prespp": 40,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12003575": {
 				"name": "Sylph Haze",
 				"prespp": 47,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12070122": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Chthonic Slade",
 				"prespp": 41,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12145447": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Magma Flow",
 				"prespp": 34,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12187033": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Chthonic Cinnabar",
 				"prespp": 10,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12279033": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Naiad Tori",
 				"prespp": 29,
-				"rus": -1,
-				"tur": 17,
+				"rush": -1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12332036": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Naiad Chloe",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12399766": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Chthonic Muscovite",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12414498": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Granite",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12502199": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Chthonic Cassiterite",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12519946": {
 				"name": "Chthonic Puddingstone",
 				"prespp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12531045": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Chthonic Microcline",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12587170": {
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Sylph Breeze",
-				"pas": -1,
-				"rus": 10,
+				"pass": -1,
+				"rush": 10,
 				"spp": 6,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
 		"925504": {
 			"12562177": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Lord Ichabod of Wyldwich",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12562180": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Sir Danzig the Cinder",
 				"prespp": 8,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12562181": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sir Bailey the Wild",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12562182": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sir Geoffrey the Bright",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12562183": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Sir Theodore the Blazing",
 				"prespp": 9,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12562184": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Fair Henry of Storms",
 				"prespp": 6,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12562185": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Fair Desmond the Twister",
 				"prespp": 7,
-				"rus": 11,
-				"tur": 12,
+				"rush": 11,
+				"turns": 12,
 				"type": "R"
 			},
 			"12562186": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Hardy Wilbur the Molten",
 				"prespp": 5,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12562187": {
@@ -171,65 +170,83 @@
 				"type": "R"
 			},
 			"12562188": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Calm Nolan the Current",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12562189": {
 				"name": "Calm Xavier of Tides",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12578583": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sir Wilfred the Scorching",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
-			"925504S1": {
-				"blk": 7,
-				"name": "Borg'th N'throg",
-				"tur": 17,
+			"STAR-7565": {
+				"blocks": 8,
+				"name": "Big Gregg",
+				"rush": 7,
+				"spp": 3,
+				"td": 1,
+				"turns": 17,
 				"type": "S"
 			},
-			"925504S2": {
-				"blk": 8,
-				"name": "Big Gregg",
-				"rus": 7,
-				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+			"STAR-7660": {
+				"blocks": 7,
+				"name": "Borg'th N'throg",
+				"turns": 17,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1134970",
-	"team_performance": {
+	"team": {
 		"889232": {
-			"cas": 3,
-			"casdiff": 3,
+			"blocks": 52,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lost Golems of Grungni",
+			"pass": -1,
+			"prespp": 225,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 171
 		},
 		"925504": {
+			"blocks": 45,
 			"cas": 0,
-			"casdiff": -3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ichabod's Infernals",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 39,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 176
 		}
 	}
 }

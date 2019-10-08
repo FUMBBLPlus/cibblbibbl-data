@@ -1,39 +1,38 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3850699",
-	"player_performance": {
+	"player": {
 		"854500": {
 			"11436771": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Venomfiend Rendpox",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11436774": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Spasmpus Facerotten",
 				"prespp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11436776": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Slugbubo Rabidbrute",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11436778": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Mosstail",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 33,
-				"rus": 12,
-				"tur": 16,
+				"rush": 12,
+				"turns": 16,
 				"type": "R"
 			},
 			"11436781": {
@@ -41,18 +40,18 @@
 				"type": "R"
 			},
 			"11436783": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Vocnur",
 				"prespp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11436789": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Torzoog",
 				"prespp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11436790": {
@@ -64,11 +63,12 @@
 				],
 				"name": "Zuktaaz",
 				"prespp": 7,
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"11436791": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					6,
@@ -78,20 +78,21 @@
 				"mvp": 1,
 				"name": "Maulghec",
 				"prespp": 8,
+				"retired": true,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11448006": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Banix",
 				"prespp": 6,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11460719": {
 				"name": "Aali Haytham Ahmad",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11474275": {
@@ -99,135 +100,153 @@
 				"type": "R"
 			},
 			"11488191": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ghonaz",
-				"rus": 17,
+				"rush": 17,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"856697": {
 			"11472246": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Skulltaker",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472247": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Urifdaemonkin",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472248": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Valkia the Bloody",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472249": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Red Prophet",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11472250": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Arkh'gar",
 				"prespp": 11,
-				"rus": 4,
+				"rush": 4,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472254": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tallomin",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472255": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Arvax the Mad",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472256": {
 				"name": "Scyrak",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11472262": {
 				"name": "Headsman of Cellebos",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11472265": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Ba'ar Zul",
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11472270": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Drakkar",
 				"prespp": 5,
-				"rus": 6,
-				"tur": 16,
+				"rush": 6,
+				"turns": 16,
 				"type": "R"
 			},
-			"856697S1": {
-				"blk": 1,
-				"fou": 2,
+			"STAR-7564": {
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Max Spleenripper",
-				"tur": 7,
+				"turns": 7,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "908274",
-	"team_performance": {
+	"team": {
 		"854500": {
+			"blocks": 53,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Seven Samples of Decay",
-			"prestige": 3,
+			"pass": -1,
+			"prespp": 75,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 29,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 145
 		},
 		"856697": {
+			"blocks": 43,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crimson Skull",
+			"pass": 0,
+			"prespp": 34,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 15,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 161
 		}
 	}
 }

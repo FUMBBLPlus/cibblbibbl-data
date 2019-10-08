@@ -1,42 +1,40 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3943684",
-	"player_performance": {
+	"player": {
 		"873698": {
 			"11743258": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "MIstress of Lust",
 				"prespp": 54,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11743260": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 3,
 				"name": "Kazgar Threelegs",
 				"prespp": 25,
 				"spp": 6,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11743263": {
-				"cps": 2,
+				"comp": 2,
 				"mvp": 1,
 				"name": "Lecec Chickstalker",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 22,
-				"rus": 28,
+				"rush": 28,
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11743264": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lecathoth Strapslave",
 				"prespp": 7,
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11743266": {
@@ -50,57 +48,52 @@
 				"type": "R"
 			},
 			"11904392": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Misstress of Pain",
 				"prespp": 19,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11967644": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mokzook Thicktail",
-				"rus": 6,
+				"rush": 6,
 				"spp": 6,
-				"tds": 2,
-				"tur": 15,
+				"td": 2,
+				"turns": 15,
 				"type": "R"
 			},
 			"11971905": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Cory Dirtyshield",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"11971906": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Aaron Strongstream",
-				"retired": true,
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			},
 			"11971907": {
 				"name": "Ian Fastshield",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			},
 			"11971908": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Yorick Darkfist",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"11971909": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "William Darkbone",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			}
 		},
@@ -111,45 +104,45 @@
 				"type": "R"
 			},
 			"11758678": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "The Bashy But Fast Wun",
 				"prespp": 34,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11758679": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Glog the Mighty",
 				"prespp": 17,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11758681": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Kruk the Sensitive",
 				"prespp": 14,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11758683": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Flurg",
 				"prespp": 6,
 				"spp": 5,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11758687": {
 				"name": "Fleabag",
 				"prespp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11758690": {
 				"name": "Twitch",
 				"prespp": 3,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11758693": {
@@ -165,70 +158,87 @@
 			"11769206": {
 				"name": "Squeal",
 				"prespp": 2,
-				"rus": 7,
-				"tur": 10,
+				"rush": 7,
+				"turns": 10,
 				"type": "R"
 			},
 			"11769207": {
 				"name": "Lunchbox",
-				"rus": 2,
-				"tur": 8,
+				"rush": 2,
+				"turns": 8,
 				"type": "R"
 			},
 			"11924507": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 2,
 				"name": "Krump the Majestic",
 				"prespp": 5,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11983507": {
 				"name": "Turdburgle",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11983509": {
 				"name": "David Trueshield",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "J"
 			},
-			"874560S1": {
-				"blk": 1,
-				"fou": 1,
+			"STAR-7567": {
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Nobbla Blackwart",
-				"tur": 8,
+				"turns": 8,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1015806",
-	"team_performance": {
+	"team": {
 		"873698": {
+			"blocks": 33,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Pleasure Strings",
+			"pass": 3,
+			"prespp": 158,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 150
 		},
 		"874560": {
+			"blocks": 29,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Poshgit's Daredevils",
+			"pass": 0,
+			"prespp": 120,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 9,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 125
 		}
 	}
 }

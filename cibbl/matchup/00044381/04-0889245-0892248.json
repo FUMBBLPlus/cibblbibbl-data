@@ -1,40 +1,39 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3968954",
-	"player_performance": {
+	"player": {
 		"889245": {
 			"11990252": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Moving Shadows",
 				"prespp": 27,
-				"rus": 12,
+				"rush": 12,
 				"spp": 6,
-				"tds": 2,
-				"tur": 12,
+				"td": 2,
+				"turns": 12,
 				"type": "R"
 			},
 			"11990253": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Lurking Beneath",
 				"prespp": 20,
-				"tur": 14,
+				"turns": 14,
 				"type": "B"
 			},
 			"11990254": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Sneaking Carpet",
 				"prespp": 15,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11990255": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Growling Brook",
 				"prespp": 8,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11990257": {
@@ -43,103 +42,102 @@
 				"type": "R"
 			},
 			"11990258": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Laughing Rat",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11990260": {
 				"name": "Drunken Skunk",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11990261": {
 				"name": "Snorting Fox",
 				"prespp": 3,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 5,
+				"td": 1,
+				"turns": 5,
 				"type": "R"
 			},
 			"12034801": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Snickering Sausage",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12065206": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Crazy Flea",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12105176": {
 				"name": "Furious Fish",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12124639": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"name": "Knee pains",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12149651": {
 				"name": "Lazy Landshark",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		},
 		"892248": {
 			"12037796": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Threasher",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 17,
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"12037798": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sharpnose",
 				"prespp": 9,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12037800": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Blackfin",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12037805": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cap'n Dirk Bloodlust",
 				"prespp": 2,
-				"rus": 1,
-				"tur": 10,
+				"rush": 1,
+				"turns": 10,
 				"type": "R"
 			},
 			"12037807": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bosun Codswallap",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12037809": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ivor the Thrice Bitten",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12037810": {
@@ -148,43 +146,43 @@
 				"type": "R"
 			},
 			"12037811": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Balthasar Shipwright",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12037814": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Althar the Converted",
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12037816": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Sharktooth",
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12037817": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "One-armed Jack",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12037818": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Morgan the Crow",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12138034": {
 				"name": "Banjo Billy",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12140421": {
@@ -192,38 +190,56 @@
 				"type": "R"
 			},
 			"12172370": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Slim Jim",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1044707",
-	"team_performance": {
+	"team": {
 		"889245": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 42,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Shroomwood Attercops",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 101,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 22,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 149
 		},
 		"892248": {
+			"blocks": 35,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crimson Fins",
+			"pass": -1,
+			"prespp": 48,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 137
 		}
 	}
 }

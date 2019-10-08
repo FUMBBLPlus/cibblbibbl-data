@@ -1,25 +1,24 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4064918",
-	"player_performance": {
+	"player": {
 		"882382": {
 			"11881490": {
-				"blk": 1,
-				"fou": 5,
+				"blocks": 1,
+				"fouls": 5,
 				"name": "Shan Yu",
 				"prespp": 18,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11977896": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gin Phur",
 				"prespp": 19,
-				"rus": 22,
+				"rush": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12220671": {
@@ -28,17 +27,17 @@
 				"type": "R"
 			},
 			"12248744": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Lago",
 				"prespp": 36,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12325284": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Genie",
 				"prespp": 36,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12450728": {
@@ -46,78 +45,78 @@
 				"type": "R"
 			},
 			"12489867": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Sheikh Yabooti",
 				"prespp": 29,
-				"rus": 12,
+				"rush": 12,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12529796": {
 				"name": "Gud",
 				"prespp": 4,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12547681": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "El Maeiz",
 				"prespp": 6,
-				"rus": 8,
-				"tur": 12,
+				"rush": 8,
+				"turns": 12,
 				"type": "R"
 			},
 			"12547682": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Grak el Claah",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12636777": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Ka Viku",
 				"prespp": 122,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12640386": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Sinbad",
-				"rus": -1,
+				"rush": -1,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12664618": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Hassan-i Sabbah",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12664728": {
 				"name": "Saban al Mahaj",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12664729": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Saladin i Hasan",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"909759": {
 			"12314474": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"dead": [
 					2,
 					3,
@@ -125,11 +124,12 @@
 					"11881490"
 				],
 				"name": "Helewise",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 36,
-				"rus": 3,
+				"retired": true,
+				"rush": 3,
 				"spp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12314475": {
@@ -138,30 +138,29 @@
 				"type": "R"
 			},
 			"12314477": {
-				"blk": 2,
-				"cps": 2,
+				"blocks": 2,
+				"comp": 2,
 				"name": "Roesia",
-				"pas": 13,
+				"pass": 13,
 				"prespp": 33,
-				"rus": 9,
+				"rush": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12314480": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Sabine",
 				"prespp": 8,
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12314482": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Antionette",
 				"prespp": 18,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12314483": {
@@ -170,18 +169,18 @@
 				"type": "R"
 			},
 			"12353445": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Edmee",
 				"prespp": 22,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12491058": {
 				"name": "Dominique",
 				"prespp": 23,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12512891": {
@@ -192,7 +191,7 @@
 			"12512893": {
 				"name": "Colette",
 				"prespp": 31,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12591682": {
@@ -205,7 +204,7 @@
 				"name": "Odlette",
 				"prespp": 6,
 				"spp": 5,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12615218": {
@@ -214,49 +213,66 @@
 				"type": "R"
 			},
 			"12667533": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Naeva",
 				"prespp": 7,
-				"rus": 8,
-				"tur": 12,
+				"rush": 8,
+				"turns": 12,
 				"type": "R"
 			},
 			"12688147": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Harold Silentsnake",
-				"retired": true,
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1155844",
-	"team_performance": {
+	"team": {
 		"882382": {
-			"cas": 6,
-			"casdiff": 5,
+			"blocks": 28,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ali's Anarchists",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 321,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 41,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 163
 		},
 		"909759": {
+			"blocks": 14,
 			"cas": 1,
-			"casdiff": -5,
+			"casdiff": -3,
+			"comp": 3,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malefic Mimes",
-			"prestige": 1,
+			"pass": 15,
+			"prespp": 296,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 82
 		}
 	}
 }

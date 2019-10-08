@@ -1,48 +1,47 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4026842",
-	"player_performance": {
+	"player": {
 		"867030": {
 			"11633486": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Sokitoomi",
 				"prespp": 62,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11633494": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Grymlog",
 				"prespp": 56,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11633500": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Quaxili",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 43,
-				"rus": 8,
-				"tur": 12,
+				"rush": 8,
+				"turns": 12,
 				"type": "R"
 			},
 			"11633506": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Xlanaxlot",
 				"prespp": 11,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11633509": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Zwup",
 				"prespp": 10,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11929270": {
-				"blk": 6,
+				"blocks": 6,
 				"dead": [
 					2,
 					2,
@@ -51,16 +50,16 @@
 				],
 				"name": "Dro'ka'khanxlot",
 				"prespp": 69,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "B"
 			},
 			"11938976": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ximnizec",
 				"prespp": 19,
-				"retired": true,
-				"rus": 12,
-				"tur": 9,
+				"rush": 12,
+				"turns": 9,
 				"type": "R"
 			},
 			"12048616": {
@@ -71,173 +70,191 @@
 			"12087622": {
 				"name": "Xili-Sotek",
 				"prespp": 15,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12087623": {
 				"name": "Xla-Tepok",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12228718": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gor-Rok",
 				"prespp": 32,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12282449": {
 				"mvp": 1,
 				"name": "Huaataxah",
 				"prespp": 19,
-				"rus": 9,
+				"rush": 9,
 				"spp": 8,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"12319311": {
 				"name": "Oxyotl",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12456073": {
 				"name": "Inxi-Huinzi",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			}
 		},
 		"897379": {
 			"12122311": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Gotrek Gurnisson",
 				"prespp": 36,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12122312": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Snorri Nosebiter",
 				"prespp": 36,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12122314": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Malakai Makaisson",
 				"prespp": 56,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12122318": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cpt. Long Drong",
 				"prespp": 54,
-				"rus": 29,
+				"rush": 29,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12122319": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "First Mate Morgrim Dallinsson",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 41,
-				"rus": 13,
+				"rush": 13,
 				"spp": 6,
-				"tds": 1,
-				"tur": 18,
+				"td": 1,
+				"turns": 18,
 				"type": "R"
 			},
 			"12122320": {
 				"name": "Finn Hargrimsson",
 				"prespp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12122326": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Belegar Baliksnev",
 				"prespp": 11,
 				"spp": 5,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12122328": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Borri Largsfind",
 				"prespp": 11,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12122331": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Fodrin Ranulfsson",
 				"prespp": 8,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12122332": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Vragni Rorekfind",
 				"prespp": 8,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12182659": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 3,
 				"name": "Rodi Balkisson",
 				"prespp": 40,
 				"spp": 6,
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"12279605": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Kettri Flakkisson",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12499101": {
 				"name": "Alrik Thorinsson",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1112238",
-	"team_performance": {
+	"team": {
 		"867030": {
+			"blocks": 26,
 			"cas": 0,
-			"casdiff": -5,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sport Spawning Zlatlan",
+			"pass": 1,
+			"prespp": 344,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 29,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 118
 		},
 		"897379": {
-			"cas": 5,
-			"casdiff": 5,
+			"blocks": 45,
+			"cas": 4,
+			"casdiff": 4,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "~Karak Kadrin Slayers~",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 310,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 42,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 190
 		}
 	}
 }

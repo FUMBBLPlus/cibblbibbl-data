@@ -1,141 +1,139 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4014604",
-	"player_performance": {
+	"player": {
 		"873349": {
 			"11737076": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Harbert Kallath",
-				"pas": 7,
+				"pass": 7,
 				"prespp": 76,
-				"rus": 19,
+				"rush": 19,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737079": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Landolf \"pickpocketer\" Thacocroth",
 				"prespp": 94,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737080": {
-				"blk": 9,
-				"cps": 1,
+				"blocks": 9,
+				"comp": 1,
 				"name": "Hademar \"cradle robber\" Thacocroth",
-				"pas": -4,
+				"pass": -4,
 				"prespp": 95,
-				"rus": 6,
+				"rush": 6,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11737085": {
 				"name": "Falko Licht",
 				"prespp": 20,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11746799": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Adri Kallath",
 				"prespp": 68,
-				"rus": -6,
-				"tur": 16,
+				"rush": -6,
+				"turns": 16,
 				"type": "R"
 			},
 			"11835133": {
-				"blk": 3,
-				"fou": 2,
+				"blocks": 3,
+				"fouls": 2,
 				"name": "Adolf Freshbreeze",
 				"prespp": 7,
-				"rus": 6,
-				"tur": 14,
+				"rush": 6,
+				"turns": 14,
 				"type": "R"
 			},
 			"11948498": {
 				"name": "Rico kallath",
 				"prespp": 30,
-				"rus": 5,
-				"tur": 15,
+				"rush": 5,
+				"turns": 15,
 				"type": "R"
 			},
 			"12095341": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Rudolf Moranion",
 				"prespp": 14,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12148016": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Karl Klassen",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12286445": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ilya Storm Jr",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12325429": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Bruce Jamieson",
 				"prespp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12335541": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Theodorius Monk",
-				"rus": 3,
-				"tur": 12,
+				"rush": 3,
+				"turns": 12,
 				"type": "R"
 			},
 			"12401409": {
 				"name": "Cam Campbell",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12413142": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ianlamin Serpenthelm",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			}
 		},
 		"889232": {
 			"11989951": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Chthonic Pitchblende",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989952": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Chthonic Cobaltite",
 				"prespp": 17,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11989967": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Sylph Wisp",
 				"prespp": 41,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11989980": {
@@ -146,10 +144,10 @@
 			"12003575": {
 				"name": "Sylph Haze",
 				"prespp": 38,
-				"rus": 37,
+				"rush": 37,
 				"spp": 6,
-				"tds": 2,
-				"tur": 13,
+				"td": 2,
+				"turns": 13,
 				"type": "R"
 			},
 			"12031249": {
@@ -158,100 +156,118 @@
 				"type": "R"
 			},
 			"12070122": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Chthonic Slade",
 				"prespp": 39,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12112830": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Chthonic Satinspar",
 				"prespp": 6,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12145447": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Magma Flow",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 16,
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"12187033": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Chthonic Cinnabar",
 				"prespp": 5,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12279033": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Naiad Tori",
 				"prespp": 6,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12332036": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Naiad Chloe",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12399766": {
 				"name": "Chthonic Muscovite",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12414498": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Chthonic Granite",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12414499": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Chthonic Quartz",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
-			"889232M1": {
+			"MERC-7425-0605": {
 				"name": "Merc Fire Elemental 1",
-				"tur": 1,
+				"turns": 1,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "1098531",
-	"team_performance": {
+	"team": {
 		"873349": {
-			"cas": 2,
-			"casdiff": 2,
+			"blocks": 45,
+			"cas": 1,
+			"casdiff": 1,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Reik River Kicking Mules",
-			"prestige": 1,
+			"pass": 3,
+			"prespp": 428,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 33,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 160
 		},
 		"889232": {
+			"blocks": 54,
 			"cas": 0,
-			"casdiff": -2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Lost Golems of Grungni",
-			"prestige": 1,
+			"pass": 1,
+			"prespp": 239,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 42,
 			"score": 2,
 			"scorediff": 0,
-			"tds": 2,
-			"tdsdiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 170
 		}
 	}
 }

@@ -1,74 +1,73 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3961809",
-	"player_performance": {
+	"player": {
 		"863441": {
 			"11582132": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Firithas",
 				"prespp": 53,
-				"rus": 5,
+				"rush": 5,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582133": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Falandar",
 				"prespp": 65,
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582134": {
 				"name": "Lonlaithilon",
 				"prespp": 36,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11582135": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Norlir",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 33,
-				"rus": 3,
+				"rush": 3,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582136": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gethonil",
 				"prespp": 10,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11582137": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Linfarnrir",
 				"prespp": 20,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11582139": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Arathion",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 32,
-				"rus": 5,
-				"tur": 16,
+				"rush": 5,
+				"turns": 16,
 				"type": "R"
 			},
 			"11657983": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nuirlan",
 				"prespp": 36,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11937388": {
@@ -77,102 +76,102 @@
 				"type": "R"
 			},
 			"12004052": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Gaezen",
 				"prespp": 20,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12031273": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Maerurhel",
 				"prespp": 6,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12055204": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Bhaiotlulon",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12055992": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Aiuzirvel",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"886114": {
 			"11939696": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Erato",
 				"prespp": 23,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11939705": {
 				"name": "Lydia",
 				"prespp": 27,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11939711": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Ariel",
 				"prespp": 10,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11939712": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Arya",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939715": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Aadhýa",
 				"prespp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11939717": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Delilah",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939720": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Elidhith",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11956884": {
-				"blk": 5,
-				"cps": 3,
+				"blocks": 5,
+				"comp": 3,
 				"name": "Elpida",
-				"pas": -3,
+				"pass": -3,
 				"prespp": 28,
 				"spp": 3,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12030024": {
 				"name": "Shinesa",
 				"prespp": 42,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12051225": {
@@ -181,48 +180,66 @@
 				"type": "R"
 			},
 			"12075526": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Apolla",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12131987": {
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Puridriel",
-				"pas": -2,
-				"rus": 13,
+				"pass": -2,
+				"rush": 13,
 				"spp": 6,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1036534",
-	"team_performance": {
+	"team": {
 		"863441": {
+			"blocks": 38,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tor Anroc Anglers",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 336,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 160
 		},
 		"886114": {
+			"blocks": 28,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 4,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eye and Arrow",
+			"pass": -5,
+			"prespp": 189,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 13,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 129
 		}
 	}
 }

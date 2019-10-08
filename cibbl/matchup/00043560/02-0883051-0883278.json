@@ -1,127 +1,126 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3927972",
-	"player_performance": {
+	"player": {
 		"883051": {
 			"11892405": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "\"Featherweight\" Gunnar",
-				"rus": 25,
+				"rush": 25,
 				"spp": 8,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"11892407": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Hagen Halvarson",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892408": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Harkon Halvarson",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11892413": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Asmund the Pious",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11892414": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Bjorn of the Hammer",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11892420": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Crosby the Stout",
-				"rus": 5,
+				"rush": 5,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11892424": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dag of The Mire",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892427": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Erland the Wayfarer",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892428": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Folke Ninth-Son",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11892429": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Geir the Fisherman",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11892430": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Halvor the Rock",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"883278": {
 			"11895930": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Big Ben Rottingsburger",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"11895933": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "'Mean' Joe the Green",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11895934": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "L. C. Grubwood",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11895935": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Dwight Spite",
 				"prespp": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11895937": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Mel Bile",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11895939": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Franco Hellish",
 				"prespp": 1,
-				"rus": 9,
-				"tur": 11,
+				"rush": 9,
+				"turns": 11,
 				"type": "R"
 			},
 			"11895940": {
@@ -137,7 +136,7 @@
 				"name": "Troy Pestamalu",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11895946": {
@@ -145,60 +144,75 @@
 				"type": "R"
 			},
 			"11895948": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Jerome Bugiss",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11929529": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Julius Coldbrook",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"11929530": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Robert Strongshield",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"11929531": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Julius Quickorc",
-				"retired": true,
-				"rus": 3,
-				"tur": 12,
+				"rush": 3,
+				"turns": 12,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "997451",
-	"team_performance": {
+	"team": {
 		"883051": {
+			"blocks": 42,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vostok Iron Head ",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 138
 		},
 		"883278": {
+			"blocks": 40,
 			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Pittsburgh Scabbers",
+			"pass": 0,
+			"prespp": 10,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 12,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 134
 		}
 	}
 }

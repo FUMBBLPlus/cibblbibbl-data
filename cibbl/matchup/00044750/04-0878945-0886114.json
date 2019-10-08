@@ -1,68 +1,67 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3983936",
-	"player_performance": {
+	"player": {
 		"878945": {
 			"11825655": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Lashweaver Taker of Souls",
 				"prespp": 105,
-				"rus": 12,
+				"rush": 12,
 				"spp": 5,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "B"
 			},
 			"11825658": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Laesydra",
 				"prespp": 20,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11825659": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Shyak",
 				"prespp": 22,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11916781": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Heladresh Lust-Bringer",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 67,
-				"rus": 28,
+				"rush": 28,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11994839": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Skylah the Desired",
 				"prespp": 38,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12066502": {
-				"blk": 6,
+				"blocks": 6,
 				"mvp": 1,
 				"name": "Elasta Euphoria",
 				"prespp": 38,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12124778": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Da'Gorah",
 				"prespp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12146403": {
@@ -74,7 +73,8 @@
 				],
 				"name": "Fok'har'lor",
 				"prespp": 7,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"12154896": {
@@ -84,7 +84,7 @@
 			"12192610": {
 				"name": "Headonia Goldheart",
 				"prespp": 7,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12231014": {
@@ -92,39 +92,38 @@
 				"type": "R"
 			},
 			"12231015": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Argonian",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12235527": {
 				"name": "Robert Hardshield",
-				"retired": true,
-				"tur": 12,
+				"turns": 12,
 				"type": "J"
 			}
 		},
 		"886114": {
 			"11939696": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Erato",
 				"prespp": 34,
-				"rus": 9,
+				"rush": 9,
 				"spp": 8,
-				"tds": 2,
-				"tur": 17,
+				"td": 2,
+				"turns": 17,
 				"type": "R"
 			},
 			"11939705": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Lydia",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 40,
-				"rus": 14,
+				"rush": 14,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11939712": {
@@ -133,59 +132,59 @@
 				"type": "R"
 			},
 			"11939715": {
-				"cps": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Aadhýa",
 				"prespp": 6,
-				"rus": 4,
+				"rush": 4,
 				"spp": 9,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11956884": {
-				"blk": 9,
-				"cps": 1,
+				"blocks": 9,
+				"comp": 1,
 				"name": "Elpida",
 				"prespp": 52,
-				"rus": -1,
+				"rush": -1,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12030024": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Shinesa",
 				"prespp": 57,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12051225": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Silvestra Darklightning",
 				"prespp": 18,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12075526": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Apolla",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12131987": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
-				"cps": 2,
+				"comp": 2,
 				"name": "Puridriel",
-				"pas": 6,
+				"pass": 6,
 				"prespp": 17,
-				"rus": 27,
+				"rush": 27,
 				"spp": 7,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12215710": {
@@ -193,46 +192,64 @@
 				"type": "R"
 			},
 			"12238327": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Ithline",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12254923": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Kaethia",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1061965",
-	"team_performance": {
+	"team": {
 		"878945": {
+			"blocks": 39,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eternal Ecstasy",
+			"pass": 3,
+			"prespp": 306,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 40,
 			"score": 1,
 			"scorediff": -3,
-			"tds": 1,
-			"tdsdiff": -3
+			"td": 1,
+			"tddiff": -3,
+			"turns": 138
 		},
 		"886114": {
+			"blocks": 41,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 5,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eye and Arrow",
-			"prestige": 3,
+			"pass": 8,
+			"prespp": 243,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 53,
 			"score": 4,
 			"scorediff": 3,
-			"tds": 4,
-			"tdsdiff": 3
+			"td": 4,
+			"tddiff": 3,
+			"turns": 161
 		}
 	}
 }

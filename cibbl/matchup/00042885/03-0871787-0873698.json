@@ -1,22 +1,21 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3901966",
-	"player_performance": {
+	"player": {
 		"871787": {
 			"11709004": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Idun Hands",
 				"prespp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11709005": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Breek Argan",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11709006": {
@@ -24,72 +23,72 @@
 				"type": "R"
 			},
 			"11709008": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Emyys Doceon",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11709009": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Burk Silpal",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11709010": {
 				"mvp": 1,
 				"name": "Dando Enda",
 				"prespp": 3,
-				"rus": 7,
+				"rush": 7,
 				"spp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11709011": {
 				"name": "Raus Juit",
 				"prespp": 8,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11709012": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Hengest Hirn",
 				"prespp": 16,
 				"spp": 4,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11709013": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"name": "Kael Desini",
 				"prespp": 5,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11709015": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Vigoth Nony",
 				"prespp": 3,
-				"rus": 9,
+				"rush": 9,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11709016": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Strean Buren",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11709018": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Font Eiridan",
 				"prespp": 10,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11727803": {
@@ -97,132 +96,147 @@
 				"type": "R"
 			},
 			"11747061": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Gutterfingers",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"873698": {
 			"11743257": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "MIsstress of Pain",
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11743258": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "MIstress of Lust",
 				"prespp": 5,
-				"rus": -1,
+				"rush": -1,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743259": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "MIsstress of Pleasure",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743260": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Kazgar Threelegs",
 				"prespp": 8,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11743261": {
 				"name": "Honkos Hornie",
-				"retired": true,
 				"type": "R"
 			},
 			"11743262": {
-				"blk": 1,
-				"cps": 2,
+				"blocks": 1,
+				"comp": 2,
 				"name": "Ginil Lustbringer",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 3,
-				"rus": 7,
+				"rush": 7,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11743263": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Lecec Chickstalker",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11743264": {
 				"name": "Lecathoth Strapslave",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11743266": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Thirvelnosh Nightbinder",
-				"pas": 1,
-				"rus": 1,
+				"pass": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11743268": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Thovho Shadowseeker",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11769187": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kevin Deepbone",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			},
 			"11769188": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Leroy Clearhawk",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "967504",
-	"team_performance": {
+	"team": {
 		"871787": {
-			"cas": 4,
-			"casdiff": 2,
+			"blocks": 35,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Malignant Curators",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 58,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 16,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 127
 		},
 		"873698": {
+			"blocks": 28,
 			"cas": 2,
-			"casdiff": -2,
+			"casdiff": -1,
+			"comp": 3,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Pleasure Strings",
+			"pass": 3,
+			"prespp": 16,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 7,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 127
 		}
 	}
 }

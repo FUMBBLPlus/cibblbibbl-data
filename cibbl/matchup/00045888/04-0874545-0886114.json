@@ -1,94 +1,93 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4032747",
-	"player_performance": {
+	"player": {
 		"874545": {
 			"11758477": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Jared \"the Prince\"",
 				"prespp": 75,
-				"rus": 14,
+				"rush": 14,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11758492": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Counselar Jherein",
 				"prespp": 37,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11906271": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Syna",
 				"prespp": 15,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11981990": {
-				"blk": 11,
+				"blocks": 11,
 				"mvp": 1,
 				"name": "Barda, the secret Sister",
 				"prespp": 46,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12143809": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Advisor Yhale",
 				"prespp": 32,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12165224": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Ghro",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12224204": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Old Stone",
 				"prespp": 29,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12262130": {
 				"name": "Blaster Barouk",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 49,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12339400": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Kaleg",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12346169": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Speedy Shara",
 				"prespp": 11,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12405282": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Auntie Rhasha",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12415578": {
@@ -100,142 +99,160 @@
 				"type": "R"
 			},
 			"12497911": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Kendha",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12517628": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Athyom, adopted Brother",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"886114": {
 			"11939696": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Erato",
 				"prespp": 61,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11939705": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Lydia",
 				"prespp": 83,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11939715": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Aadhýa",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 53,
-				"rus": 3,
+				"rush": 3,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11956884": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Elpida",
 				"prespp": 66,
-				"rus": 8,
-				"tur": 16,
+				"rush": 8,
+				"turns": 16,
 				"type": "R"
 			},
 			"12030024": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Shinesa",
 				"prespp": 98,
-				"rus": 10,
+				"rush": 10,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12051225": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Silvestra Darklightning",
 				"prespp": 51,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12279032": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Iris",
 				"prespp": 20,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12340801": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Ian Bluesnake",
 				"prespp": 37,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12441430": {
 				"name": "Kalipso",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 6,
-				"rus": 9,
-				"tur": 9,
+				"rush": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12441504": {
-				"fou": 2,
+				"fouls": 2,
 				"mvp": 1,
 				"name": "Circe",
 				"prespp": 1,
 				"spp": 5,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12465747": {
 				"name": "Pinelopi",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12510464": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Alariella",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1118978",
-	"team_performance": {
+	"team": {
 		"874545": {
-			"cas": 3,
-			"casdiff": 0,
+			"blocks": 36,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Stone Prince's Men",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 302,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 32,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 165
 		},
 		"886114": {
+			"blocks": 37,
 			"cas": 3,
-			"casdiff": 0,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eye and Arrow",
+			"pass": 2,
+			"prespp": 476,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 30,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 147
 		}
 	}
 }

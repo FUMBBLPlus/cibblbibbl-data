@@ -1,33 +1,32 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3913822",
-	"player_performance": {
+	"player": {
 		"873369": {
 			"11737364": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Hybree",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11737365": {
 				"name": "Trikhuf",
 				"prespp": 7,
-				"rus": 31,
+				"rush": 31,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"11737376": {
-				"cps": 1,
-				"fou": 1,
+				"comp": 1,
+				"fouls": 1,
 				"name": "Weyrot",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 5,
-				"rus": 1,
+				"rush": 1,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11737379": {
@@ -35,179 +34,196 @@
 				"type": "R"
 			},
 			"11737432": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Fulmayne Thrice-Crowned",
 				"prespp": 20,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11737433": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Breyyar Scoredrinker",
 				"prespp": 7,
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11737434": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Stoneflagon Rhuheigh",
 				"prespp": 21,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11737443": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Yronleg the Barrelbeast",
 				"prespp": 14,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11765170": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 2,
 				"name": "Brewmaster Huhroarr",
 				"prespp": 8,
 				"spp": 4,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11783489": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					5,
 					"blocked",
-					"879790M1"
+					"MERC-7238-0328"
 				],
 				"name": "Yeigh-har Dawnherald",
-				"tur": 4,
+				"retired": true,
+				"turns": 4,
 				"type": "R"
 			},
 			"11849204": {
 				"name": "Sean Clearhawk",
-				"retired": true,
-				"tur": 10,
+				"turns": 10,
 				"type": "J"
 			},
 			"11849205": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Jack Strongorc",
-				"retired": true,
 				"type": "J"
 			}
 		},
 		"879790": {
 			"11839347": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Hemek Abanux",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"11839348": {
 				"name": "Kalrand Ahrudas",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11839349": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Arstur An'gom",
-				"rus": 10,
-				"tur": 17,
+				"rush": 10,
+				"turns": 17,
 				"type": "R"
 			},
 			"11839350": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Mephithal  Phobus",
-				"rus": 4,
-				"tur": 17,
+				"rush": 4,
+				"turns": 17,
 				"type": "R"
 			},
 			"11839351": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Festernacus  Furilock",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"11839352": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Halanath Skyrak",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11839353": {
-				"blk": 1,
-				"fou": 2,
+				"blocks": 1,
+				"fouls": 2,
 				"mvp": 1,
 				"name": "Burro'tzor Svodred",
-				"rus": 13,
+				"rush": 13,
 				"spp": 8,
-				"tds": 1,
-				"tur": 18,
+				"td": 1,
+				"turns": 18,
 				"type": "R"
 			},
 			"11839377": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Tusk Anon, The Horned One",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11839378": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Ezrath Nemelas",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
 			"11839379": {
 				"name": "Zakhar Takai",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11839798": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Ba'el, The Naked Slayer",
-				"tur": 18,
+				"turns": 18,
 				"type": "R"
 			},
-			"879790M1": {
-				"blk": 12,
+			"MERC-7238-0328": {
+				"blocks": 12,
 				"cas": 1,
 				"name": "Merc Bloodletter 1",
 				"spp": 2,
-				"tur": 18,
+				"turns": 18,
 				"type": "M"
 			}
 		}
 	},
 	"replayId": "981010",
-	"team_performance": {
+	"team": {
 		"873369": {
+			"blocks": 36,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Schattenwald Drinking Horns",
-			"prestige": 1,
+			"pass": -1,
+			"prespp": 82,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 32,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 136
 		},
 		"879790": {
+			"blocks": 45,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Unfettered Fury",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 27,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 171
 		}
 	}
 }

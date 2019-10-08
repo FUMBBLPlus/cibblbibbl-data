@@ -1,26 +1,25 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4073288",
-	"player_performance": {
+	"player": {
 		"872044": {
 			"11713837": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 3,
 				"name": "Carol I",
 				"prespp": 194,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11713838": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ferdinand I",
 				"prespp": 100,
-				"rus": 28,
+				"rush": 28,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11787325": {
@@ -32,74 +31,75 @@
 				],
 				"name": "Zsuzsanna Lorántffy",
 				"prespp": 19,
-				"tur": 6,
+				"retired": null,
+				"turns": 6,
 				"type": "R"
 			},
 			"11953214": {
 				"name": "Wilhelmina Amalia",
 				"prespp": 19,
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"11953217": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Andrei",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12060391": {
-				"fou": 3,
+				"fouls": 3,
 				"name": "Dumitru",
 				"prespp": 6,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12245376": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Katalin Bethlen",
 				"prespp": 7,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12291482": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Stanislav I",
 				"prespp": 40,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12352369": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 2,
 				"mvp": 1,
 				"name": "Viktor I",
 				"prespp": 16,
 				"spp": 9,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12353757": {
 				"name": "Charlotte Amalie",
 				"prespp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12577312": {
 				"name": "Natalia Anna",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12681697": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Catherina Jean",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12722865": {
@@ -110,59 +110,60 @@
 					"12510965"
 				],
 				"name": "Ginifer Cheri",
-				"tur": 8,
+				"retired": null,
+				"turns": 8,
 				"type": "R"
 			}
 		},
 		"899682": {
 			"12158269": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Ph'rn \"Quick Tail\" Vzz-Sttn",
 				"prespp": 41,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12158279": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dtr'vssr \"Mamba\" Vrddfls",
 				"prespp": 33,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12191641": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "C'dm'qsz \"Focus\" Ntrll",
 				"prespp": 30,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12240321": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "R'th's'k \"Whirly\" Mssrbr",
 				"prespp": 45,
-				"rus": 5,
-				"tur": 4,
+				"rush": 5,
+				"turns": 4,
 				"type": "R"
 			},
 			"12282912": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "B-ssh'rkhh'm \"Loosetongue\" M'mbb-v'rrd",
 				"prespp": 36,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12320309": {
 				"name": "V'rr-nv'rry \"Sunny\" Ss'rpnt'r-gg'dd'ss-l",
 				"prespp": 33,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12455237": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "N-r-ng \"Spiral\" Kbrrr'll'",
 				"prespp": 20,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12467072": {
@@ -171,74 +172,92 @@
 				"type": "R"
 			},
 			"12510965": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"mvp": 1,
 				"name": "D'ssh-t \"Moon Nostril\" Ptnmlr",
 				"prespp": 21,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12551905": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "M-k-k \"White Eye\" Vprr",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12588115": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "K-cp'r \"Splasher\" Kbrrcllr",
 				"prespp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12616742": {
 				"name": "Prr'n \"Sparkly\" Clbrrdrrccl",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12677190": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "M'-Kh'nh \"Kordex\" Clbrr",
-				"rus": 5,
-				"tur": 12,
+				"rush": 5,
+				"turns": 12,
 				"type": "R"
 			},
 			"12677192": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "T'ng \"Dusty\" Ammdtss",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1165436",
-	"team_performance": {
+	"team": {
 		"872044": {
+			"blocks": 27,
 			"cas": 6,
-			"casdiff": 4,
+			"casdiff": 5,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Strigos Elită",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 403,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 39,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 136
 		},
 		"899682": {
-			"cas": 2,
-			"casdiff": -4,
+			"blocks": 33,
+			"cas": 1,
+			"casdiff": -5,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "K'r'shh Sl'ppr'ss",
+			"pass": 0,
+			"prespp": 275,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 10,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 117
 		}
 	}
 }

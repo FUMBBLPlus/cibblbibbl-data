@@ -1,106 +1,105 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4030416",
-	"player_performance": {
+	"player": {
 		"874317": {
 			"11754410": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Odracon The Procreator",
 				"prespp": 76,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11754412": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Cian",
 				"prespp": 50,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11754414": {
-				"blk": 2,
-				"fou": 3,
+				"blocks": 2,
+				"fouls": 3,
 				"name": "Lug",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11754417": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Cethlenn",
 				"prespp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11754418": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Tethra",
 				"prespp": 30,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11904321": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Dilek",
 				"prespp": 58,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11966718": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "The Fog",
 				"prespp": 11,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12047952": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 2,
 				"name": "Slough Feg",
 				"prespp": 61,
 				"spp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12126092": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Hadiz",
 				"prespp": 45,
-				"rus": 23,
+				"rush": 23,
 				"spp": 3,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
 			"12239695": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Moloch the 3rd",
 				"prespp": 43,
 				"spp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12340697": {
-				"fou": 4,
+				"fouls": 4,
 				"name": "Foulloch",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12492754": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Bolar",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		},
 		"874966": {
 			"11764899": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					1,
 					6,
@@ -109,124 +108,141 @@
 				],
 				"name": "Benethor",
 				"prespp": 41,
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"11764921": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Morlanna",
 				"prespp": 82,
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11938500": {
 				"name": "Mereia",
 				"prespp": 37,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11967724": {
-				"cps": 2,
+				"comp": 2,
 				"name": "Hauclir",
-				"pas": 11,
+				"pass": 11,
 				"prespp": 41,
-				"rus": 11,
+				"rush": 11,
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12052561": {
 				"name": "Mereia",
-				"pas": -1,
+				"pass": -1,
 				"prespp": 32,
-				"rus": 1,
-				"tur": 14,
+				"rush": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12072196": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Jokleel",
 				"prespp": 17,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12231028": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Nimrodel",
 				"prespp": 24,
-				"rus": 7,
+				"rush": 7,
 				"spp": 8,
-				"tds": 1,
-				"tur": 7,
+				"td": 1,
+				"turns": 7,
 				"type": "R"
 			},
 			"12351587": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Beldroth Boombark",
 				"prespp": 16,
-				"tur": 15,
+				"turns": 15,
 				"type": "B"
 			},
 			"12462256": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Isilvar",
 				"prespp": 6,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12465600": {
 				"name": "Finavar",
 				"prespp": 1,
-				"retired": true,
 				"type": "R"
 			},
 			"12509928": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Alaris",
-				"pas": 3,
-				"rus": 12,
+				"pass": 3,
+				"rush": 12,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12509929": {
 				"name": "Martin Dirtyeagle",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1116426",
-	"team_performance": {
+	"team": {
 		"874317": {
+			"blocks": 53,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Misty Isle Gators",
+			"pass": 0,
+			"prespp": 376,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 23,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 154
 		},
 		"874966": {
+			"blocks": 24,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 3,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
-			"prestige": 3,
+			"pass": 13,
+			"prespp": 297,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 39,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 118
 		}
 	}
 }

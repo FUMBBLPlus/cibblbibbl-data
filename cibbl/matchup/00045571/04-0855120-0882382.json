@@ -1,72 +1,71 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4017787",
-	"player_performance": {
+	"player": {
 		"855120": {
 			"11596541": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Innocenzo Mastrogiacomo",
 				"prespp": 46,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11596545": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Cassiopea Canova",
 				"prespp": 7,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11921959": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Valfredo Merlino",
 				"prespp": 16,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12025723": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Arnbjörn the Hound",
 				"prespp": 76,
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12244086": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Brathig Bitterchin",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12261692": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Khirathe",
 				"prespp": 47,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12329903": {
 				"name": "Otto Semmelrogge",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12329904": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Elia Barrasso",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12329906": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Melania Cusano",
-				"pas": 2,
-				"rus": 4,
+				"pass": 2,
+				"rush": 4,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12329908": {
@@ -74,103 +73,103 @@
 				"type": "R"
 			},
 			"12339805": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Bartolo Massara",
 				"prespp": 1,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12346201": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Tabaldin",
 				"prespp": 19,
-				"rus": 13,
+				"rush": 13,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12415058": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Gloria De Rose",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12449939": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Tredon Coldarm",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"882382": {
 			"11881490": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Shan Yu",
 				"prespp": 16,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"11942620": {
-				"blk": 2,
-				"cps": 1,
+				"blocks": 2,
+				"comp": 1,
 				"name": "Ka Viku",
-				"pas": 4,
+				"pass": 4,
 				"prespp": 95,
-				"rus": 23,
+				"rush": 23,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11942621": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Balkaza",
 				"prespp": 8,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11977896": {
 				"name": "Gin Phur",
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12138861": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"name": "Gaudi",
 				"prespp": 45,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "I"
 			},
 			"12146458": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Mo-mo",
 				"prespp": 14,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12220671": {
-				"blk": 8,
+				"blocks": 8,
 				"mvp": 1,
 				"name": "Aladain",
 				"prespp": 23,
-				"rus": 9,
+				"rush": 9,
 				"spp": 8,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"12243172": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					4,
@@ -179,71 +178,90 @@
 				],
 				"name": "Mustapha",
 				"prespp": 13,
-				"tur": 3,
+				"retired": true,
+				"turns": 3,
 				"type": "R"
 			},
 			"12248744": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Lago",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12325284": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Genie",
 				"prespp": 21,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12368897": {
-				"blk": 1,
-				"fou": 3,
+				"blocks": 1,
+				"fouls": 3,
 				"name": "El Tarif",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12423912": {
-				"fou": 2,
+				"fouls": 2,
 				"name": "Shah Zammon",
-				"rus": 4,
-				"tur": 12,
+				"rush": 4,
+				"turns": 12,
 				"type": "R"
 			},
 			"12425756": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Tarik Al Shabir",
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1102046",
-	"team_performance": {
+	"team": {
 		"855120": {
+			"blocks": 30,
 			"cas": 1,
-			"casdiff": -4,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
+			"pass": 2,
+			"prespp": 222,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 17,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 129
 		},
 		"882382": {
-			"cas": 5,
-			"casdiff": 4,
+			"blocks": 43,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ali's Anarchists",
-			"prestige": 3,
+			"pass": 4,
+			"prespp": 254,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 37,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 164
 		}
 	}
 }

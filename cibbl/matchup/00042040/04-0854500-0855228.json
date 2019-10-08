@@ -1,61 +1,60 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3872616",
-	"player_performance": {
+	"player": {
 		"854500": {
 			"11436771": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Venomfiend Rendpox",
 				"prespp": 8,
-				"tur": 4,
+				"turns": 4,
 				"type": "B"
 			},
 			"11436774": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Spasmpus Facerotten",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11436776": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Slugbubo Rabidbrute",
 				"prespp": 8,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"11436778": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Mosstail",
 				"prespp": 44,
-				"rus": 7,
+				"rush": 7,
 				"spp": 5,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11436781": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Zilox",
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11436783": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Vocnur",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11436789": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Torzoog",
 				"prespp": 9,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11448006": {
@@ -64,56 +63,56 @@
 				"type": "R"
 			},
 			"11460719": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Aali Haytham Ahmad",
 				"prespp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11474275": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kylgot Battlespawned",
 				"prespp": 4,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11488191": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ghonaz",
 				"prespp": 9,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11569105": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Rendcanker Oozeface",
 				"spp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11606344": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Blackspew",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			}
 		},
 		"855228": {
 			"11448228": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Kevin Bull",
 				"prespp": 31,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11448229": {
 				"name": "Jessie Graff",
 				"prespp": 29,
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tds": 1,
-				"tur": 6,
+				"td": 1,
+				"turns": 6,
 				"type": "R"
 			},
 			"11448236": {
@@ -127,103 +126,121 @@
 				"type": "R"
 			},
 			"11448238": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Drew Drechsel",
 				"prespp": 24,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11448248": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Ian Dory",
 				"prespp": 8,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11448250": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Brian Arnold",
 				"prespp": 8,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11448251": {
 				"name": "Paul Kasemir",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11448252": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Michelle Warnky",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11448253": {
-				"fou": 7,
+				"fouls": 7,
 				"name": "Kacy Cataranzo",
 				"prespp": 12,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11465295": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Anika Shadow",
-				"rus": 23,
+				"rush": 23,
 				"spp": 6,
-				"tds": 2,
-				"tur": 16,
+				"td": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"11494706": {
-				"blk": 10,
+				"blocks": 10,
 				"name": "Jack Caldiero",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11557119": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sam Sin",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11617105": {
-				"blk": 5,
-				"fou": 2,
+				"blocks": 5,
+				"fouls": 2,
 				"name": "Natalie Silver",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "933285",
-	"team_performance": {
+	"team": {
 		"854500": {
-			"cas": 2,
-			"casdiff": -1,
+			"blocks": 35,
+			"cas": 1,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Seven Samples of Decay",
+			"pass": 0,
+			"prespp": 104,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 7,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 95
 		},
 		"855228": {
-			"cas": 3,
-			"casdiff": 1,
+			"blocks": 39,
+			"cas": 0,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 11,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ninja Warriors",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 155,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 24,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 142
 		}
 	}
 }

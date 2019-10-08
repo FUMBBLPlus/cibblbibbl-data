@@ -1,164 +1,163 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3931198",
-	"player_performance": {
+	"player": {
 		"864291": {
 			"11590768": {
 				"name": "S. Sang",
 				"prespp": 31,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11590769": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "U. Gress",
 				"prespp": 14,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11590771": {
 				"name": "Redivor",
 				"prespp": 13,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11590772": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Redimor",
 				"prespp": 13,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11590773": {
-				"blk": 3,
-				"fou": 1,
+				"blocks": 3,
+				"fouls": 1,
 				"name": "Chitemor",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11590777": {
 				"name": "Limortor",
 				"prespp": 16,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"11590778": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Dissepolor",
 				"prespp": 11,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11590780": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Affuquator",
 				"prespp": 11,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11590781": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Dichitemor",
 				"prespp": 14,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11681513": {
 				"name": "L.A. Biond",
 				"prespp": 15,
-				"rus": 8,
-				"tur": 6,
+				"rush": 8,
+				"turns": 6,
 				"type": "R"
 			},
 			"11708391": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Eraclio",
 				"prespp": 16,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11737428": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "L.A. Gnora",
 				"prespp": 7,
-				"rus": 17,
+				"rush": 17,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11853366": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Stukitemor",
 				"prespp": 7,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		},
 		"872475": {
 			"11721709": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Acer Steelroot",
 				"prespp": 19,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11721710": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Judge Juniperus",
 				"prespp": 38,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11721711": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Sylvestris Pikebranch",
 				"prespp": 16,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11721712": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Larix Darkbark",
 				"prespp": 24,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11721713": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Betula the Last Pendulum",
 				"prespp": 22,
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11721714": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Picea the Piercer",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11721716": {
-				"fou": 8,
+				"fouls": 8,
 				"name": "Rubus the Drinker of Blood",
 				"prespp": 10,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11763905": {
 				"name": "\"Not All Have Born Equal\" Equisetum",
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11763906": {
@@ -167,14 +166,14 @@
 			},
 			"11763908": {
 				"name": "Bifolium the Scaly One",
-				"rus": 4,
-				"tur": 3,
+				"rush": 4,
+				"turns": 3,
 				"type": "R"
 			},
 			"11781775": {
 				"name": "Matteuccia the Red Trampler",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11841040": {
@@ -183,61 +182,79 @@
 				"type": "R"
 			},
 			"11863532": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Singer of Darkest Anthems, Menyanthes",
-				"rus": 12,
-				"tur": 7,
+				"rush": 12,
+				"turns": 7,
 				"type": "R"
 			},
 			"11894816": {
 				"name": "Expansa the Conqueror",
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"11894817": {
 				"name": "Shadow of East, Cirsium",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11935612": {
 				"name": "Swartzii the Rockfoot",
 				"prespp": 3,
-				"rus": 18,
+				"rush": 18,
 				"spp": 3,
-				"tds": 1,
-				"tur": 5,
+				"td": 1,
+				"turns": 5,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1001235",
-	"team_performance": {
+	"team": {
 		"864291": {
-			"cas": 1,
+			"blocks": 25,
+			"cas": 0,
 			"casdiff": -4,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Norscan Curse",
+			"pass": 0,
+			"prespp": 168,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 25,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 119
 		},
 		"872475": {
-			"cas": 5,
+			"blocks": 45,
+			"cas": 4,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "True Roots of Khaine",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 155,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 39,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 170
 		}
 	}
 }

@@ -1,44 +1,43 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4043238",
-	"player_performance": {
+	"player": {
 		"924841": {
 			"12552091": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Quonq Sharpfangs",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12552093": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Tren Bitterhusk",
 				"prespp": 8,
-				"rus": 23,
+				"rush": 23,
 				"spp": 4,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12552094": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Znol Verminscar",
 				"prespp": 3,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12552095": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Skruch Duskwalker",
 				"prespp": 6,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12552096": {
@@ -47,24 +46,24 @@
 				"type": "R"
 			},
 			"12552098": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Zaqrat",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12552099": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Khrokch",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12552100": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sronzt",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12552101": {
@@ -72,37 +71,34 @@
 				"type": "R"
 			},
 			"12552116": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Snuktlich",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12577019": {
 				"name": "William Hotsnake",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"12577020": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "David Fastfist",
-				"retired": true,
-				"tur": 15,
+				"turns": 15,
 				"type": "J"
 			},
 			"12577021": {
 				"name": "Richard Weakbone",
-				"retired": true,
-				"tur": 9,
+				"turns": 9,
 				"type": "J"
 			}
 		},
 		"926756": {
 			"12581475": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Gaazgohk",
 				"prespp": 4,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12581476": {
@@ -113,97 +109,115 @@
 				"type": "R"
 			},
 			"12581477": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nuravreag Dragonbane",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12581478": {
 				"name": "Thrarbotum Snowview",
 				"prespp": 7,
-				"rus": 27,
-				"tur": 15,
+				"rush": 27,
+				"turns": 15,
 				"type": "R"
 			},
 			"12581479": {
-				"blk": 4,
-				"cps": 1,
+				"blocks": 4,
+				"comp": 1,
 				"name": "Torebath Nightbelly",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 5,
-				"rus": 3,
+				"rush": 3,
 				"spp": 1,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12581480": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Hethomi Leadmane",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12581481": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Duriznumlir Mithrilbreaker",
 				"spp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12581484": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Norakherlug Blazingcoat",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12581485": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Werardrir Aletank",
 				"prespp": 2,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12581486": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Orrig Onyxgrip",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12581487": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Hulmaem Mudhorn",
 				"prespp": 7,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1131407",
-	"team_performance": {
+	"team": {
 		"924841": {
+			"blocks": 20,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Under-Nuln Bells",
+			"pass": 0,
+			"prespp": 20,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 56,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 140
 		},
 		"926756": {
+			"blocks": 44,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Drakes of the Forge",
+			"pass": -2,
+			"prespp": 29,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 30,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 150
 		}
 	}
 }

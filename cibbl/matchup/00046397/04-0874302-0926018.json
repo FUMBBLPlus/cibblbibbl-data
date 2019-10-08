@@ -1,55 +1,54 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4049937",
-	"player_performance": {
+	"player": {
 		"874302": {
 			"11754146": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Spilamberto",
 				"prespp": 98,
-				"rus": 8,
-				"tur": 14,
+				"rush": 8,
+				"turns": 14,
 				"type": "R"
 			},
 			"11783522": {
-				"cps": 2,
+				"comp": 2,
 				"name": "Modena",
-				"pas": 7,
+				"pass": 7,
 				"prespp": 85,
-				"rus": 26,
+				"rush": 26,
 				"spp": 5,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11967732": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Formigine III",
 				"prespp": 41,
-				"rus": 2,
+				"rush": 2,
 				"spp": 10,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12062178": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Castelfranco Emilia II",
 				"prespp": 37,
-				"rus": 5,
+				"rush": 5,
 				"spp": 3,
-				"tds": 1,
-				"tur": 3,
+				"td": 1,
+				"turns": 3,
 				"type": "R"
 			},
 			"12143724": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Prignano sulla Secchia IV",
 				"prespp": 17,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12171654": {
@@ -63,10 +62,10 @@
 				"type": "R"
 			},
 			"12255081": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Sassuolo II",
 				"prespp": 20,
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12374516": {
@@ -78,21 +77,22 @@
 				],
 				"name": "Marano sul Panaro V",
 				"prespp": 7,
-				"tur": 10,
+				"retired": true,
+				"turns": 10,
 				"type": "R"
 			},
 			"12496458": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "San Cesario sul Panaro IV",
 				"prespp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12514876": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Fiorano VII",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12514881": {
@@ -101,133 +101,149 @@
 				"type": "R"
 			},
 			"12595023": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Castelvetro IV",
 				"prespp": 7,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12615341": {
 				"name": "Maranello V",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"926018": {
 			"12569392": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Mager",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569393": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Stag Sgat",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569395": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "\"The Unihorn\"",
 				"prespp": 10,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12569396": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Purg",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569397": {
-				"blk": 12,
+				"blocks": 12,
 				"name": "Farnegor",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12569406": {
-				"blk": 2,
-				"fou": 2,
+				"blocks": 2,
+				"fouls": 2,
 				"name": "Pag-smer",
-				"rus": 17,
-				"tur": 14,
+				"rush": 17,
+				"turns": 14,
 				"type": "R"
 			},
 			"12569407": {
 				"name": "Nubimer",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12569408": {
 				"name": "Fragufer",
 				"prespp": 7,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 9,
+				"td": 1,
+				"turns": 9,
 				"type": "R"
 			},
 			"12592880": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Drunker",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12609549": {
 				"name": "Julius Whiteorc",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			},
 			"12609550": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Aaron Palefire",
-				"pas": -1,
-				"retired": true,
-				"rus": 10,
-				"tur": 16,
+				"pass": -1,
+				"rush": 10,
+				"turns": 16,
 				"type": "J"
 			},
-			"926018S1": {
-				"blk": 8,
+			"STAR-7660": {
+				"blocks": 8,
 				"name": "Schworg'n'Borg",
-				"tur": 16,
+				"turns": 16,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1138958",
-	"team_performance": {
+	"team": {
 		"874302": {
-			"cas": 2,
-			"casdiff": 1,
+			"blocks": 34,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grasparossa B.B.C",
-			"prestige": 3,
+			"pass": 7,
+			"prespp": 410,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 144
 		},
 		"926018": {
+			"blocks": 50,
 			"cas": 1,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Kordoberg's Herd",
+			"pass": -1,
+			"prespp": 44,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 34,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 156
 		}
 	}
 }

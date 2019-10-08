@@ -1,13 +1,12 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4063140",
-	"player_performance": {
+	"player": {
 		"924841": {
 			"12552091": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Quonq Sharpfangs",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12552094": {
@@ -16,18 +15,17 @@
 				"type": "R"
 			},
 			"12552095": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Skruch Duskwalker",
 				"prespp": 19,
-				"rus": 2,
-				"tur": 16,
+				"rush": 2,
+				"turns": 16,
 				"type": "R"
 			},
 			"12552096": {
 				"name": "Kranq Deadfingers",
 				"prespp": 3,
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"12552098": {
@@ -41,168 +39,183 @@
 				"type": "R"
 			},
 			"12552101": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Trietch",
 				"spp": 7,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12552116": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Snuktlich",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12585407": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Squarx Deadreaver",
 				"prespp": 18,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12592998": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Sqreet",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12602311": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Wraat",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12616266": {
 				"name": "Runtch Quicklegs",
-				"rus": 17,
+				"rush": 17,
 				"spp": 3,
-				"tds": 1,
-				"tur": 15,
+				"td": 1,
+				"turns": 15,
 				"type": "R"
 			},
 			"12675344": {
 				"name": "Yorick Truestream",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"12675345": {
 				"name": "Harold Silentspike",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "J"
 			}
 		},
 		"928542": {
 			"12611404": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Antonius Rex",
 				"prespp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12611406": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Fernandocus",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12611410": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Renatops",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12611426": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Cordofana",
 				"prespp": 6,
-				"rus": 17,
+				"rush": 17,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12611427": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Humeralis",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12611429": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Ormativentris",
-				"rus": 4,
-				"tur": 16,
+				"rush": 4,
+				"turns": 16,
 				"type": "R"
 			},
 			"12611430": {
 				"name": "Palestris",
 				"prespp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12611431": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Nigrotympanica",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12611433": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Okinavana",
 				"prespp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12611434": {
 				"name": "Cascadae",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12632887": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Trey Blueorc",
-				"retired": true,
-				"tur": 8,
+				"turns": 8,
 				"type": "J"
 			}
 		}
 	},
 	"replayId": "1153823",
-	"team_performance": {
+	"team": {
 		"924841": {
+			"blocks": 26,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Under-Nuln Bells",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 70,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 19,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 136
 		},
 		"928542": {
+			"blocks": 40,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Krok-Ante Ancestors",
-			"prestige": 1,
+			"pass": 0,
+			"prespp": 29,
+			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 146
 		}
 	}
 }

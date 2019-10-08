@@ -1,146 +1,142 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3894889",
-	"player_performance": {
+	"player": {
 		"867030": {
 			"11633486": {
-				"blk": 4,
+				"blocks": 4,
 				"cas": 1,
 				"name": "Sokitoomi",
 				"prespp": 9,
 				"spp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11633494": {
-				"blk": 11,
+				"blocks": 11,
 				"name": "Grymlog",
 				"prespp": 6,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11633500": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Quaxili",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11633503": {
-				"blk": 2,
+				"blocks": 2,
 				"mvp": 1,
 				"name": "Kha-Ataxa",
 				"prespp": 13,
 				"spp": 5,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11633506": {
 				"name": "Xlanaxlot",
 				"prespp": 8,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11633507": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Xapati",
 				"prespp": 8,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11633509": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Zwup",
 				"prespp": 2,
-				"rus": 5,
-				"tur": 15,
+				"rush": 5,
+				"turns": 15,
 				"type": "R"
 			},
 			"11633512": {
 				"name": "Huamundi",
 				"prespp": 20,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11748296": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Trey Strongeagle",
-				"retired": true,
-				"tur": 16,
+				"turns": 16,
 				"type": "J"
 			},
 			"11748297": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Vincent Clearfist",
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "J"
 			},
 			"11748298": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Albert Clearsnake",
-				"retired": true,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			}
 		},
 		"868977": {
 			"11664898": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 2,
 				"name": "Donn Old",
 				"spp": 4,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11664900": {
-				"blk": 7,
+				"blocks": 7,
 				"mvp": 1,
 				"name": "Mell Annia",
 				"prespp": 2,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11664908": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Jinn'm Attis",
 				"prespp": 5,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11664912": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Dsheffse Shons",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11664913": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Meek P'nce",
 				"prespp": 7,
-				"rus": 7,
+				"rush": 7,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11664915": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Tilla \"Rex\" Son",
 				"prespp": 12,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11664919": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Att Hugglah",
 				"prespp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11664920": {
@@ -151,68 +147,87 @@
 					"11633500"
 				],
 				"name": "B'ttsy D'Foss",
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"11664925": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Alone T'shao",
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11664927": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Crack Clem Mens'n",
 				"prespp": 2,
-				"rus": 1,
-				"tur": 16,
+				"rush": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11714899": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"name": "Lin'da Mahagony",
 				"prespp": 3,
-				"rus": 22,
+				"rush": 22,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11715010": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Myc Alls Kuse",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "959247",
-	"team_performance": {
+	"team": {
 		"867030": {
+			"blocks": 30,
 			"cas": 2,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Sport Spawning Zlatlan",
+			"pass": 0,
+			"prespp": 66,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 5,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 122
 		},
 		"868977": {
+			"blocks": 50,
 			"cas": 4,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Athel Loren Red Saplings",
+			"pass": 0,
+			"prespp": 32,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 31,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 147
 		}
 	}
 }

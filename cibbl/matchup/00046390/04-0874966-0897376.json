@@ -1,37 +1,35 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4054262",
-	"player_performance": {
+	"player": {
 		"874966": {
 			"11764921": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Morlanna",
 				"prespp": 87,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11938500": {
 				"name": "Mereia",
 				"prespp": 37,
-				"retired": true,
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11967724": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"name": "Hauclir",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 56,
 				"spp": 1,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12052561": {
 				"name": "Mereia",
 				"prespp": 38,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"12072196": {
@@ -40,147 +38,147 @@
 				"type": "R"
 			},
 			"12231028": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nimrodel",
 				"prespp": 37,
-				"rus": 6,
-				"tur": 9,
+				"rush": 6,
+				"turns": 9,
 				"type": "R"
 			},
 			"12351587": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Beldroth Boombark",
 				"prespp": 22,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12462256": {
 				"name": "Isilvar",
 				"prespp": 18,
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12509928": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Alaris",
 				"prespp": 23,
 				"spp": 5,
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12518161": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Moranion",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12537383": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Kivan",
 				"prespp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12585132": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Caelir",
-				"pas": -1,
-				"rus": -4,
+				"pass": -1,
+				"rush": -4,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12628844": {
 				"name": "Alastrian",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			}
 		},
 		"897376": {
 			"12122272": {
-				"blk": 13,
+				"blocks": 13,
 				"cas": 1,
 				"name": "Dark Shade",
 				"prespp": 58,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122273": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Deep Root",
 				"prespp": 32,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122274": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Long Branch",
 				"prespp": 35,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122275": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "River Whip",
 				"prespp": 81,
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12122276": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "White Leaf",
 				"prespp": 26,
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12122280": {
-				"blk": 1,
-				"fou": 5,
+				"blocks": 1,
+				"fouls": 5,
 				"name": "Lichen",
 				"prespp": 11,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12168335": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Gray Timber",
 				"prespp": 36,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12171988": {
 				"name": "Nut",
 				"prespp": 19,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12497695": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"mvp": 1,
 				"name": "Ivy",
 				"prespp": 10,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12501405": {
 				"name": "Fruit",
 				"prespp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12515971": {
 				"name": "Vine",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12529934": {
@@ -189,49 +187,67 @@
 			},
 			"12529938": {
 				"name": "Slip Stream",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12559341": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Hollow",
 				"spp": 2,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12580870": {
 				"name": "Shoot",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1143847",
-	"team_performance": {
+	"team": {
 		"874966": {
+			"blocks": 25,
 			"cas": 0,
-			"casdiff": -4,
+			"casdiff": -2,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Modryn's Midnight Meddlers",
+			"pass": 0,
+			"prespp": 340,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 2,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 128
 		},
 		"897376": {
-			"cas": 4,
-			"casdiff": 4,
+			"blocks": 36,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Darkenwood Sentinels",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 315,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 37,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 167
 		}
 	}
 }

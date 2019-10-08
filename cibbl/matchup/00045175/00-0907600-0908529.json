@@ -1,54 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3994897",
-	"player_performance": {
+	"player": {
 		"907600": {
 			"12281777": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Qunq Madripper",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			},
 			"12281778": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Qhutch Pinefingers",
 				"spp": 7,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12281780": {
 				"name": "Tritch Crowlasher",
-				"rus": 21,
+				"rush": 21,
 				"spp": 3,
-				"tds": 1,
-				"tur": 11,
+				"td": 1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12281782": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Cretch Ashenstrike",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12281783": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Khal Cravengrip",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12281784": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 1,
 				"name": "Big-large Xelk Prideborn",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12281785": {
-				"blk": 2,
+				"blocks": 2,
 				"dead": [
 					2,
 					6,
@@ -56,18 +55,19 @@
 					"12295355"
 				],
 				"name": "Qhikch Grimmaul",
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"12281786": {
-				"blk": 5,
-				"fou": 1,
+				"blocks": 5,
+				"fouls": 1,
 				"name": "Vutch Elfkicker",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12281787": {
-				"blk": 3,
+				"blocks": 3,
 				"dead": [
 					2,
 					1,
@@ -75,134 +75,153 @@
 					"12295356"
 				],
 				"name": "Treqrul Tusktail",
-				"tur": 8,
+				"retired": true,
+				"turns": 8,
 				"type": "R"
 			},
 			"12281788": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Skakch Silentstalker",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12281789": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Skrut Lonespine",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			}
 		},
 		"908529": {
 			"12295351": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Hhash'chtoth",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12295352": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Kkrozh'sazhs",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295353": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Bbadh'nurth",
-				"rus": 20,
+				"rush": 20,
 				"spp": 8,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295354": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Pakzho",
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12295355": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
-				"cps": 1,
+				"comp": 1,
 				"name": "Vulpizh",
-				"pas": 2,
-				"rus": 3,
+				"pass": 2,
+				"rush": 3,
 				"spp": 3,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295356": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
-				"fou": 1,
+				"fouls": 1,
 				"name": "Belakhz",
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295357": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Aerhish",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"12295358": {
 				"name": "Yuhkuth",
-				"rus": 3,
-				"tur": 15,
+				"rush": 3,
+				"turns": 15,
 				"type": "R"
 			},
 			"12295360": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Splishj",
-				"rus": 8,
+				"rush": 8,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12295363": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Zzak'tarh",
-				"pas": -1,
-				"tur": 11,
+				"pass": -1,
+				"turns": 11,
 				"type": "R"
 			},
 			"12295364": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Flizzit",
-				"rus": 6,
-				"tur": 12,
+				"rush": 6,
+				"turns": 12,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1075972",
-	"team_performance": {
+	"team": {
 		"907600": {
+			"blocks": 48,
 			"cas": 2,
-			"casdiff": -1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Deluge-Bearers",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 21,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 135
 		},
 		"908529": {
-			"cas": 3,
-			"casdiff": 1,
+			"blocks": 28,
+			"cas": 2,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "ICBM Warpspawns",
+			"pass": 1,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 40,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 156
 		}
 	}
 }

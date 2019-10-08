@@ -1,24 +1,23 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3920666",
-	"player_performance": {
+	"player": {
 		"855120": {
 			"11446516": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 2,
 				"name": "Manslicer the Vile",
 				"prespp": 49,
 				"spp": 4,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11446518": {
-				"blk": 1,
-				"fou": 4,
+				"blocks": 1,
+				"fouls": 4,
 				"name": "Odorico De Leo",
 				"prespp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"11446521": {
@@ -27,14 +26,14 @@
 				"type": "R"
 			},
 			"11494637": {
-				"blk": 3,
+				"blocks": 3,
 				"mvp": 1,
 				"name": "Ghezioc",
 				"prespp": 45,
-				"rus": 5,
+				"rush": 5,
 				"spp": 8,
-				"tds": 1,
-				"tur": 6,
+				"td": 1,
+				"turns": 6,
 				"type": "R"
 			},
 			"11596541": {
@@ -48,15 +47,15 @@
 				"type": "R"
 			},
 			"11696881": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Siegfried Lindner",
 				"prespp": 26,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11706066": {
 				"name": "Enzo Falzon",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11706068": {
@@ -64,28 +63,28 @@
 				"type": "R"
 			},
 			"11787823": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Nisadei",
 				"prespp": 34,
-				"rus": 15,
+				"rush": 15,
 				"spp": 6,
-				"tds": 2,
-				"tur": 9,
+				"td": 2,
+				"turns": 9,
 				"type": "R"
 			},
 			"11809199": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Oronzo Galli",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11873740": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Cressida Rosenblatt",
-				"pas": -2,
+				"pass": -2,
 				"prespp": 6,
 				"spp": 1,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11880164": {
@@ -94,21 +93,19 @@
 			},
 			"11894866": {
 				"name": "Duane Quickfield",
-				"retired": true,
-				"tur": 4,
+				"turns": 4,
 				"type": "J"
 			},
 			"11894867": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Jack Clearbone",
-				"retired": true,
 				"spp": 2,
-				"tur": 6,
+				"turns": 6,
 				"type": "J"
 			},
-			"855120S1": {
-				"blk": 2,
+			"STAR-7719": {
+				"blocks": 2,
 				"dead": [
 					2,
 					8,
@@ -116,144 +113,162 @@
 					"11667462"
 				],
 				"name": "Ziggi Abschuss",
-				"tur": 12,
+				"turns": 12,
 				"type": "S"
 			}
 		},
 		"869156": {
 			"11667457": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Glicees",
 				"prespp": 45,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11667458": {
-				"blk": 11,
+				"blocks": 11,
 				"mvp": 1,
 				"name": "Xahr",
 				"prespp": 17,
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11667459": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Keeth",
 				"prespp": 26,
 				"spp": 2,
-				"tur": 4,
+				"turns": 4,
 				"type": "R"
 			},
 			"11667462": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 2,
 				"name": "Rozatar",
 				"prespp": 27,
 				"spp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11667465": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Mebas",
 				"prespp": 17,
-				"rus": 13,
-				"tur": 16,
+				"rush": 13,
+				"turns": 16,
 				"type": "R"
 			},
 			"11667467": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Hralis",
 				"prespp": 11,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11667468": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Nal",
 				"prespp": 7,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11667471": {
 				"name": "Acurag",
 				"prespp": 2,
-				"rus": 5,
-				"tur": 3,
+				"rush": 5,
+				"turns": 3,
 				"type": "R"
 			},
 			"11744463": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Troln",
 				"prespp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"11756250": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Yelnats",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"11781773": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Quari",
 				"prespp": 4,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11781774": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Beebz",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"11851751": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Axperti",
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"11851754": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Zorq",
-				"tur": 2,
+				"turns": 2,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "989013",
-	"team_performance": {
+	"team": {
 		"855120": {
-			"cas": 4,
+			"blocks": 22,
+			"cas": 3,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
-			"prestige": 3,
+			"pass": -2,
+			"prespp": 215,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 20,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 104
 		},
 		"869156": {
-			"cas": 5,
+			"blocks": 46,
+			"cas": 4,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Talsyn Tramplers",
+			"pass": 0,
+			"prespp": 163,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 18,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 153
 		}
 	}
 }

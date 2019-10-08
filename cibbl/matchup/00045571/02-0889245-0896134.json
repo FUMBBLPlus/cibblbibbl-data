@@ -1,67 +1,66 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4011290",
-	"player_performance": {
+	"player": {
 		"889245": {
 			"11990252": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Moving Shadows",
 				"prespp": 63,
-				"rus": 4,
-				"tur": 10,
+				"rush": 4,
+				"turns": 10,
 				"type": "R"
 			},
 			"11990253": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Lurking Beneath",
 				"prespp": 29,
-				"tur": 8,
+				"turns": 8,
 				"type": "B"
 			},
 			"11990254": {
-				"blk": 6,
-				"cps": 1,
+				"blocks": 6,
+				"comp": 1,
 				"name": "Sneaking Carpet",
 				"prespp": 30,
 				"spp": 1,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11990255": {
-				"blk": 7,
+				"blocks": 7,
 				"cas": 1,
 				"name": "Growling Brook",
 				"prespp": 20,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11990257": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Fuming Badger",
 				"prespp": 21,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11990260": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Drunken Skunk",
-				"rus": 4,
-				"tur": 12,
+				"rush": 4,
+				"turns": 12,
 				"type": "R"
 			},
 			"12105176": {
 				"name": "Furious Fish",
 				"prespp": 3,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12187531": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Cornelius Frog",
 				"prespp": 31,
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12199879": {
@@ -71,73 +70,73 @@
 			},
 			"12219714": {
 				"name": "Gordon Gekko",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"12247544": {
 				"name": "Pretty Parrot",
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12254134": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Brutish Bull",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12345001": {
-				"blk": 1,
+				"blocks": 1,
 				"mvp": 1,
 				"name": "Goofey Longlegs",
 				"prespp": 5,
 				"spp": 5,
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12345007": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dabbling Duck",
-				"rus": 12,
+				"rush": 12,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			}
 		},
 		"896134": {
 			"12101571": {
-				"blk": 3,
-				"cps": 1,
+				"blocks": 3,
+				"comp": 1,
 				"name": "Krakshot Neek",
-				"pas": 3,
+				"pass": 3,
 				"prespp": 47,
-				"rus": 11,
+				"rush": 11,
 				"spp": 4,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"12101572": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"name": "Shokk-naww",
 				"prespp": 17,
 				"spp": 2,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12101577": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Snub-tail",
 				"prespp": 21,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12101578": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Quee-kin",
 				"prespp": 5,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12101583": {
@@ -146,50 +145,50 @@
 				"type": "R"
 			},
 			"12101587": {
-				"blk": 4,
-				"fou": 1,
+				"blocks": 4,
+				"fouls": 1,
 				"name": "Reeknose",
 				"prespp": 8,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12101597": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Virulent Reever",
-				"tur": 3,
+				"turns": 3,
 				"type": "R"
 			},
 			"12125540": {
-				"blk": 11,
+				"blocks": 11,
 				"cas": 3,
 				"name": "Rabid Rocket",
 				"prespp": 41,
 				"spp": 6,
-				"tur": 16,
+				"turns": 16,
 				"type": "B"
 			},
 			"12135507": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Flitty Spleent",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 39,
-				"rus": 19,
+				"rush": 19,
 				"spp": 3,
-				"tds": 1,
-				"tur": 13,
+				"td": 1,
+				"turns": 13,
 				"type": "R"
 			},
 			"12242930": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Rotten Roller Mk.2",
 				"prespp": 20,
-				"tur": 8,
+				"turns": 8,
 				"type": "B"
 			},
 			"12299553": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Rikkik",
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"12319485": {
@@ -197,59 +196,77 @@
 				"type": "R"
 			},
 			"12338282": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Yikk-kin",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12338283": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Kwik-toe",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"12406982": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Itch-yitch",
 				"spp": 7,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12406989": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Skeerit",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "1094796",
-	"team_performance": {
+	"team": {
 		"889245": {
+			"blocks": 33,
 			"cas": 1,
 			"casdiff": -4,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Shroomwood Attercops",
+			"pass": 0,
+			"prespp": 208,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 20,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 147
 		},
 		"896134": {
+			"blocks": 55,
 			"cas": 5,
 			"casdiff": 4,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rotfall Ironworks Rocketeers",
-			"prestige": 3,
+			"pass": 4,
+			"prespp": 214,
+			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 163
 		}
 	}
 }

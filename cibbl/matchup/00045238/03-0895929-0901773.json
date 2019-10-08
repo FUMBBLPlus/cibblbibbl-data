@@ -1,15 +1,13 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "4000136",
-	"player_performance": {
+	"player": {
 		"895929": {
 			"12098256": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Windfury",
 				"prespp": 13,
-				"retired": true,
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12098257": {
@@ -18,56 +16,56 @@
 				"type": "R"
 			},
 			"12098258": {
-				"blk": 10,
+				"blocks": 10,
 				"cas": 2,
 				"name": "Silverscar",
 				"prespp": 16,
 				"spp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12098263": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Silverstriker",
 				"prespp": 17,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12098294": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Blackchewer",
 				"prespp": 21,
-				"rus": 14,
+				"rush": 14,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12098297": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Duskdigger",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 34,
-				"rus": 34,
+				"rush": 34,
 				"spp": 6,
-				"tds": 2,
-				"tur": 14,
+				"td": 2,
+				"turns": 14,
 				"type": "R"
 			},
 			"12136367": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Fangsnapper Jr",
 				"prespp": 17,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12166472": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Fangsnapper Jr Jr",
 				"prespp": 2,
 				"spp": 2,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12184769": {
@@ -76,42 +74,40 @@
 				"type": "R"
 			},
 			"12265899": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Dustbinder",
-				"tur": 11,
+				"turns": 11,
 				"type": "R"
 			},
 			"12295244": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Broadreaper",
 				"prespp": 2,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12295253": {
 				"name": "Heartbuster",
-				"retired": true,
 				"type": "R"
 			},
 			"12338228": {
 				"name": "Shadowreaper",
-				"tur": 7,
+				"turns": 7,
 				"type": "R"
 			},
 			"12345048": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Raticus",
-				"retired": true,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12345051": {
-				"blk": 3,
+				"blocks": 3,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Crowripper",
 				"spp": 7,
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			}
 		},
@@ -119,31 +115,31 @@
 			"12188830": {
 				"name": "Skritch Highbinder",
 				"prespp": 29,
-				"rus": 28,
+				"rush": 28,
 				"spp": 3,
-				"tds": 1,
-				"tur": 14,
+				"td": 1,
+				"turns": 14,
 				"type": "R"
 			},
 			"12188831": {
-				"blk": 1,
-				"cps": 1,
+				"blocks": 1,
+				"comp": 1,
 				"mvp": 1,
 				"name": "Qixqokch Headtaker",
-				"pas": 2,
+				"pass": 2,
 				"prespp": 26,
-				"rus": 5,
+				"rush": 5,
 				"spp": 6,
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"12188832": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Straxqenq Silentreaper",
 				"prespp": 6,
 				"spp": 2,
-				"tur": 10,
+				"turns": 10,
 				"type": "R"
 			},
 			"12188834": {
@@ -152,34 +148,34 @@
 				"type": "R"
 			},
 			"12188837": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Znuol Verminsnout",
 				"prespp": 9,
-				"tur": 8,
+				"turns": 8,
 				"type": "R"
 			},
 			"12216635": {
-				"blk": 9,
+				"blocks": 9,
 				"cas": 1,
 				"name": "Rikek",
 				"prespp": 26,
 				"spp": 2,
-				"tur": 12,
+				"turns": 12,
 				"type": "B"
 			},
 			"12264961": {
-				"blk": 5,
+				"blocks": 5,
 				"cas": 2,
 				"name": "Marcus Voladea",
 				"spp": 4,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"12297221": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "William Clumsyshield",
 				"prespp": 9,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"12332823": {
@@ -188,62 +184,80 @@
 				"type": "R"
 			},
 			"12345043": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "zuek tuskbreath",
-				"tur": 9,
+				"turns": 9,
 				"type": "R"
 			},
 			"12345045": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "chiet slateback",
-				"tur": 13,
+				"turns": 13,
 				"type": "R"
 			},
 			"12345046": {
-				"blk": 1,
-				"fou": 1,
+				"blocks": 1,
+				"fouls": 1,
 				"name": "Harold Darkstream",
-				"tur": 13,
+				"turns": 13,
 				"type": "J"
 			},
 			"12345047": {
 				"name": "Sean Weakorc",
-				"tur": 2,
+				"turns": 2,
 				"type": "J"
 			},
-			"901773S1": {
-				"blk": 2,
+			"STAR-7541": {
+				"blocks": 2,
 				"name": "Fezglitch",
-				"tur": 2,
+				"turns": 2,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "1082017",
-	"team_performance": {
+	"team": {
 		"895929": {
+			"blocks": 47,
 			"cas": 4,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
-			"prestige": 3,
+			"pass": 1,
+			"prespp": 178,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 48,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 139
 		},
 		"901773": {
+			"blocks": 32,
 			"cas": 4,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rikek Revenge",
+			"pass": 2,
+			"prespp": 113,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 33,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 115
 		}
 	}
 }

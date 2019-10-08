@@ -1,11 +1,10 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3849642",
-	"player_performance": {
+	"player": {
 		"854752": {
 			"11440634": {
-				"blk": 4,
+				"blocks": 4,
 				"dead": [
 					2,
 					1,
@@ -14,14 +13,15 @@
 				],
 				"name": "Frenzon",
 				"prespp": 6,
-				"tur": 9,
+				"retired": true,
+				"turns": 9,
 				"type": "R"
 			},
 			"11440635": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Kalma",
-				"rus": -6,
-				"tur": 17,
+				"rush": -6,
+				"turns": 17,
 				"type": "R"
 			},
 			"11440636": {
@@ -31,28 +31,28 @@
 			"11440637": {
 				"name": "Onslaught",
 				"prespp": 3,
-				"tur": 6,
+				"turns": 6,
 				"type": "R"
 			},
 			"11440638": {
-				"blk": 8,
+				"blocks": 8,
 				"cas": 1,
 				"mvp": 1,
 				"name": "Psychon",
 				"prespp": 12,
 				"spp": 7,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11440639": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Splintermind",
-				"rus": 7,
-				"tur": 17,
+				"rush": 7,
+				"turns": 17,
 				"type": "R"
 			},
 			"11440641": {
-				"blk": 1,
+				"blocks": 1,
 				"dead": [
 					1,
 					7,
@@ -61,35 +61,36 @@
 				],
 				"name": "Adrenalight",
 				"prespp": 4,
-				"tur": 6,
+				"retired": true,
+				"turns": 6,
 				"type": "R"
 			},
 			"11440643": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Grave Lotus",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11440644": {
-				"blk": 1,
+				"blocks": 1,
 				"name": "Serpentin",
 				"prespp": 17,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11440646": {
-				"cps": 1,
+				"comp": 1,
 				"name": "Hypex",
-				"pas": 1,
+				"pass": 1,
 				"prespp": 5,
-				"rus": 6,
+				"rush": 6,
 				"spp": 1,
-				"tur": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11467161": {
 				"name": "Mankweed",
-				"tur": 1,
+				"turns": 1,
 				"type": "R"
 			},
 			"11467162": {
@@ -100,124 +101,142 @@
 		},
 		"856697": {
 			"11472246": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Skulltaker",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11472247": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Urifdaemonkin",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11472248": {
-				"blk": 6,
+				"blocks": 6,
 				"cas": 1,
 				"name": "Valkia the Bloody",
 				"spp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11472249": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Red Prophet",
 				"prespp": 2,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11472250": {
-				"blk": 4,
+				"blocks": 4,
 				"mvp": 1,
 				"name": "Arkh'gar",
 				"prespp": 3,
-				"rus": 21,
+				"rush": 21,
 				"spp": 8,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11472254": {
 				"name": "Tallomin",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11472255": {
 				"name": "Arvax the Mad",
 				"prespp": 5,
-				"rus": 1,
+				"rush": 1,
 				"spp": 3,
-				"tds": 1,
-				"tur": 8,
+				"td": 1,
+				"turns": 8,
 				"type": "R"
 			},
 			"11472256": {
-				"blk": 1,
+				"blocks": 1,
 				"cas": 1,
 				"name": "Scyrak",
-				"rus": 4,
+				"rush": 4,
 				"spp": 2,
-				"tur": 5,
+				"turns": 5,
 				"type": "R"
 			},
 			"11472262": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Headsman of Cellebos",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11472265": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Ba'ar Zul",
-				"rus": 14,
-				"tur": 14,
+				"rush": 14,
+				"turns": 14,
 				"type": "R"
 			},
 			"11472270": {
-				"blk": 2,
+				"blocks": 2,
 				"cas": 1,
 				"name": "Drakkar",
-				"rus": 10,
+				"rush": 10,
 				"spp": 5,
-				"tds": 1,
-				"tur": 12,
+				"td": 1,
+				"turns": 12,
 				"type": "R"
 			},
-			"856697S1": {
-				"fou": 2,
+			"STAR-7564": {
+				"fouls": 2,
 				"name": "Max Spleenripper",
-				"tur": 2,
+				"turns": 2,
 				"type": "S"
 			}
 		}
 	},
 	"replayId": "907104",
-	"team_performance": {
+	"team": {
 		"854752": {
+			"blocks": 18,
 			"cas": 1,
-			"casdiff": -4,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Pleasure Principle",
+			"pass": 1,
+			"prespp": 52,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 7,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 115
 		},
 		"856697": {
-			"cas": 5,
-			"casdiff": 4,
+			"blocks": 39,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crimson Skull",
-			"prestige": 3,
+			"pass": 0,
+			"prespp": 14,
+			"prestige": 0,
 			"pts": 3,
-			"rsym": "W",
+			"r": "W",
+			"rush": 50,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 160
 		}
 	}
 }

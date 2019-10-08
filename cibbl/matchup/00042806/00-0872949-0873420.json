@@ -1,184 +1,201 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3893955",
-	"player_performance": {
+	"player": {
 		"872949": {
 			"11730043": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Andrei the Assassin",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11730044": {
-				"blk": 10,
+				"blocks": 10,
 				"mvp": 1,
 				"name": "Boris the Butcher",
 				"spp": 5,
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11730045": {
-				"blk": 7,
+				"blocks": 7,
 				"name": "Sylvester the Slaughterer",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11730046": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Konstantin the Killer",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11730047": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Heinrich the Hit Man",
-				"rus": 16,
+				"rush": 16,
 				"spp": 3,
-				"tds": 1,
-				"tur": 17,
+				"td": 1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11730048": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Claus the Cut-Throat",
-				"rus": 5,
-				"tur": 17,
+				"rush": 5,
+				"turns": 17,
 				"type": "R"
 			},
 			"11730049": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Toryn",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11730050": {
-				"blk": 7,
-				"fou": 1,
+				"blocks": 7,
+				"fouls": 1,
 				"name": "Roryn",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11730051": {
-				"blk": 9,
+				"blocks": 9,
 				"name": "Boryn",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11730052": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Floryn",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11730053": {
-				"blk": 4,
+				"blocks": 4,
 				"name": "Goryn",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		},
 		"873420": {
 			"11738132": {
-				"blk": 3,
+				"blocks": 3,
 				"name": "Slugmane",
-				"tur": 12,
+				"turns": 12,
 				"type": "R"
 			},
 			"11738133": {
-				"blk": 8,
+				"blocks": 8,
 				"name": "Gloomgrip",
-				"rus": 11,
+				"rush": 11,
 				"spp": 3,
-				"tds": 1,
-				"tur": 16,
+				"td": 1,
+				"turns": 16,
 				"type": "R"
 			},
 			"11738135": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Painfist",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11738136": {
-				"blk": 5,
+				"blocks": 5,
 				"mvp": 1,
 				"name": "Baccac",
 				"spp": 5,
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11738138": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Khikhec",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11738139": {
-				"blk": 2,
-				"fou": 1,
+				"blocks": 2,
+				"fouls": 1,
 				"name": "Gugthar",
-				"rus": 6,
-				"tur": 17,
+				"rush": 6,
+				"turns": 17,
 				"type": "R"
 			},
 			"11738140": {
 				"name": "Grimhide",
-				"rus": -1,
-				"tur": 17,
+				"rush": -1,
+				"turns": 17,
 				"type": "R"
 			},
 			"11738141": {
-				"fou": 1,
+				"fouls": 1,
 				"name": "Pyretoe",
-				"tur": 16,
+				"turns": 16,
 				"type": "R"
 			},
 			"11738142": {
-				"blk": 2,
+				"blocks": 2,
 				"name": "Wildhands",
-				"tur": 15,
+				"turns": 15,
 				"type": "R"
 			},
 			"11738143": {
-				"blk": 5,
+				"blocks": 5,
 				"name": "Emberhide",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			},
 			"11738150": {
-				"blk": 6,
+				"blocks": 6,
 				"name": "Heavyfeet",
-				"tur": 17,
+				"turns": 17,
 				"type": "R"
 			}
 		}
 	},
 	"replayId": "958162",
-	"team_performance": {
+	"team": {
 		"872949": {
+			"blocks": 66,
 			"cas": 0,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Karak Kadrin Honey Badgers",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 187
 		},
 		"873420": {
+			"blocks": 36,
 			"cas": 0,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Nordberg Boozehounds",
+			"pass": 0,
+			"prespp": 0,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 16,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 177
 		}
 	}
 }
