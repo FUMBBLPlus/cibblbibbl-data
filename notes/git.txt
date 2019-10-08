@@ -1,0 +1,7 @@
+
+Revert (reset) changes to a file if they haven’t been committed yet:
+$ git checkout -- <file>
+
+
+Revert (reset) a single file to a specific revision:
+$ git checkout <commit_hash> -- <file>
