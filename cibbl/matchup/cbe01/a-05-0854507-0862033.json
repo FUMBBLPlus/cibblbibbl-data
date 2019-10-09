@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3920005",
 	"modified": "2017-07-22 21:59:51",
-	"player_performance": {},
+	"player": {},
 	"replayId": "988235",
-	"team_performance": {
-		"6": {
+	"team": {
+		"cbe01-group06": {
+			"blocks": 38,
 			"cas": 5,
 			"casdiff": 1,
+			"comp": 1,
+			"fouls": 1,
 			"id": "854507",
+			"int": 0,
+			"mvp": 1,
 			"name": "Coven of the Mirrored Hall",
+			"pass": 2,
+			"prespp": 185,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 98
 		},
-		"7": {
+		"cbe01-group07": {
+			"blocks": 37,
 			"cas": 4,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 7,
 			"id": "862033",
+			"int": 0,
+			"mvp": 1,
 			"name": "Forsaken of the Pantheon",
+			"pass": 0,
+			"prespp": 159,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 32,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 155
 		}
 	}
 }

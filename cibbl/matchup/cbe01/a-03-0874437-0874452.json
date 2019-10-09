@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3916041",
 	"modified": "2017-07-03 19:36:31",
-	"player_performance": {},
+	"player": {},
 	"replayId": "983618",
-	"team_performance": {
-		"1": {
+	"team": {
+		"cbe01-group01": {
+			"blocks": 52,
 			"cas": 4,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
 			"id": "874437",
+			"int": 0,
+			"mvp": 1,
 			"name": "Bigwood Tree Shmashaz",
+			"pass": 0,
+			"prespp": 53,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 13,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 130
 		},
-		"4": {
+		"cbe01-group04": {
+			"blocks": 42,
 			"cas": 6,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
 			"id": "874452",
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
+			"pass": 0,
+			"prespp": 75,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 138
 		}
 	}
 }

@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3920420",
 	"modified": "2017-07-24 21:35:02",
-	"player_performance": {},
+	"player": {},
 	"replayId": "988722",
-	"team_performance": {
-		"3": {
+	"team": {
+		"cbe01-group03": {
+			"blocks": 25,
 			"cas": 1,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
 			"id": "874602",
+			"int": 0,
+			"mvp": 1,
 			"name": "Goblin Revolushunary Kommittee",
+			"pass": 0,
+			"prespp": 61,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 25,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 119
 		},
-		"4": {
+		"cbe01-group04": {
+			"blocks": 29,
 			"cas": 0,
 			"casdiff": -1,
+			"comp": 2,
+			"fouls": 0,
 			"id": "874479",
+			"int": 0,
+			"mvp": 1,
 			"name": "Albion Manticores",
+			"pass": 4,
+			"prespp": 84,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 22,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 138
 		}
 	}
 }

@@ -188,10 +188,10 @@
 			"STAR-7551": {
 				"blocks": 2,
 				"dead": [
-					1,
 					2,
-					"blocked",
-					"11721710"
+					0,
+					"secretWeaponBan",
+					null
 				],
 				"name": "Helmut Wulf",
 				"turns": 1,
@@ -233,7 +233,7 @@
 			"name": "Silver Pinnacle Renegades",
 			"pass": 0,
 			"prespp": 29,
-			"prestige": 0,
+			"prestige": 3,
 			"pts": 3,
 			"r": "W",
 			"rush": 31,

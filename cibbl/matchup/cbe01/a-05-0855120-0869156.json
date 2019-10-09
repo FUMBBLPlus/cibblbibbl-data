@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3920666",
 	"modified": "2017-07-25 22:04:50",
-	"player_performance": {},
+	"player": {},
 	"replayId": "989013",
-	"team_performance": {
-		"1": {
+	"team": {
+		"cbe01-group01": {
+			"blocks": 46,
 			"cas": 5,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 5,
 			"id": "869156",
+			"int": 0,
+			"mvp": 1,
 			"name": "Talsyn Tramplers",
+			"pass": 0,
+			"prespp": 163,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 18,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 153
 		},
-		"5": {
+		"cbe01-group05": {
+			"blocks": 22,
 			"cas": 4,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 4,
 			"id": "855120",
+			"int": 0,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
+			"pass": -2,
+			"prespp": 215,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 20,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 104
 		}
 	}
 }

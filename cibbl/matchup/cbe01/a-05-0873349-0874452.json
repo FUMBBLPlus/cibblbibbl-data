@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3922058",
 	"modified": "2017-08-01 12:48:26",
-	"player_performance": {},
+	"player": {},
 	"replayId": "990605",
-	"team_performance": {
-		"4": {
+	"team": {
+		"cbe01-group04": {
+			"blocks": 53,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
 			"id": "874452",
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
+			"pass": 0,
+			"prespp": 107,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 17,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 154
 		},
-		"5": {
+		"cbe01-group05": {
+			"blocks": 41,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 2,
+			"fouls": 1,
 			"id": "873349",
+			"int": 0,
+			"mvp": 1,
 			"name": "Reik River Kicking Mules",
+			"pass": 5,
+			"prespp": 190,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 21,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 150
 		}
 	}
 }

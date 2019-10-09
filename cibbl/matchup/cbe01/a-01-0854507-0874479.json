@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3912606",
 	"modified": "2017-06-19 21:18:47",
-	"player_performance": {},
+	"player": {},
 	"replayId": "979594",
-	"team_performance": {
-		"4": {
+	"team": {
+		"cbe01-group04": {
+			"blocks": 25,
 			"cas": 2,
 			"casdiff": -3,
+			"comp": 3,
+			"fouls": 6,
 			"id": "874479",
+			"int": 0,
+			"mvp": 1,
 			"name": "Albion Manticores",
+			"pass": -2,
+			"prespp": 48,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 15,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 112
 		},
-		"6": {
+		"cbe01-group06": {
+			"blocks": 39,
 			"cas": 5,
 			"casdiff": 3,
+			"comp": 0,
+			"fouls": 5,
 			"id": "854507",
+			"int": 0,
+			"mvp": 1,
 			"name": "Coven of the Mirrored Hall",
+			"pass": -1,
+			"prespp": 150,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 42,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 152
 		}
 	}
 }

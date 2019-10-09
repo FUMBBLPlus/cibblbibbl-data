@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3910180",
 	"modified": "2017-06-10 15:22:20",
-	"player_performance": {},
+	"player": {},
 	"replayId": "976849",
-	"team_performance": {
-		"4": {
+	"team": {
+		"cbe01-group04": {
+			"blocks": 38,
 			"cas": 3,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
 			"id": "874452",
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
+			"pass": 0,
+			"prespp": 74,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 105
 		},
-		"8": {
+		"cbe01-group08": {
+			"blocks": 34,
 			"cas": 3,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 3,
 			"id": "872044",
+			"int": 0,
+			"mvp": 1,
 			"name": "Strigos Elită",
+			"pass": 1,
+			"prespp": 95,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 33,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 96
 		}
 	}
 }

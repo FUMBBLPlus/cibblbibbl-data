@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3917895",
 	"modified": "2017-07-12 18:05:31",
-	"player_performance": {},
+	"player": {},
 	"replayId": "985781",
-	"team_performance": {
-		"5": {
+	"team": {
+		"cbe01-group05": {
+			"blocks": 34,
 			"cas": 2,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 6,
 			"id": "855120",
+			"int": 0,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
+			"pass": 0,
+			"prespp": 207,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 30,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 135
 		},
-		"7": {
+		"cbe01-group07": {
+			"blocks": 49,
 			"cas": 4,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 8,
 			"id": "862033",
+			"int": 0,
+			"mvp": 1,
 			"name": "Forsaken of the Pantheon",
+			"pass": 0,
+			"prespp": 148,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 11,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 118
 		}
 	}
 }

@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3911668",
 	"modified": "2017-06-15 22:29:39",
-	"player_performance": {},
+	"player": {},
 	"replayId": "978491",
-	"team_performance": {
-		"4": {
+	"team": {
+		"cbe01-group04": {
+			"blocks": 45,
 			"cas": 2,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 2,
 			"id": "874452",
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
+			"pass": 0,
+			"prespp": 65,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 24,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 158
 		},
-		"7": {
+		"cbe01-group07": {
+			"blocks": 51,
 			"cas": 0,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 1,
 			"id": "873759",
+			"int": 0,
+			"mvp": 1,
 			"name": "Knightly Virtues",
+			"pass": 0,
+			"prespp": 80,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 21,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 157
 		}
 	}
 }

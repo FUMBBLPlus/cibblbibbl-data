@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3916825",
 	"modified": "2017-07-07 13:31:56",
-	"player_performance": {},
+	"player": {},
 	"replayId": "984513",
-	"team_performance": {
-		"3": {
+	"team": {
+		"cbe01-group03": {
+			"blocks": 34,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 3,
 			"id": "874602",
+			"int": 0,
+			"mvp": 1,
 			"name": "Goblin Revolushunary Kommittee",
+			"pass": 0,
+			"prespp": 66,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 1,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 146
 		},
-		"8": {
+		"cbe01-group08": {
+			"blocks": 44,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
 			"id": "865063",
+			"int": 0,
+			"mvp": 1,
 			"name": "Oyxl Great Pyramid Heroes",
+			"pass": 0,
+			"prespp": 113,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 25,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 146
 		}
 	}
 }

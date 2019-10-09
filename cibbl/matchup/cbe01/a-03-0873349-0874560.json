@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3913438",
 	"modified": "2017-06-22 23:19:41",
-	"player_performance": {},
+	"player": {},
 	"replayId": "980565",
-	"team_performance": {
-		"5": {
+	"team": {
+		"cbe01-group05": {
+			"blocks": 27,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 4,
+			"fouls": 0,
 			"id": "873349",
+			"int": 0,
+			"mvp": 1,
 			"name": "Reik River Kicking Mules",
+			"pass": 10,
+			"prespp": 136,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 49,
 			"score": 5,
 			"scorediff": 5,
-			"tds": 5,
-			"tdsdiff": 5
+			"td": 5,
+			"tddiff": 5,
+			"turns": 138
 		},
-		"6": {
+		"cbe01-group06": {
+			"blocks": 29,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 2,
 			"id": "874560",
+			"int": 0,
+			"mvp": 1,
 			"name": "Poshgit's Daredevils",
+			"pass": 0,
+			"prespp": 78,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 25,
 			"score": 0,
 			"scorediff": -5,
-			"tds": 0,
-			"tdsdiff": -5
+			"td": 0,
+			"tddiff": -5,
+			"turns": 124
 		}
 	}
 }

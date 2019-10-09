@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3912901",
 	"modified": "2017-06-20 22:23:49",
-	"player_performance": {},
+	"player": {},
 	"replayId": "979923",
-	"team_performance": {
-		"3": {
+	"team": {
+		"cbe01-group03": {
+			"blocks": 35,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 4,
 			"id": "874602",
+			"int": 0,
+			"mvp": 1,
 			"name": "Goblin Revolushunary Kommittee",
+			"pass": 0,
+			"prespp": 54,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 24,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 144
 		},
-		"7": {
+		"cbe01-group07": {
+			"blocks": 33,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
 			"id": "862033",
+			"int": 0,
+			"mvp": 1,
 			"name": "Forsaken of the Pantheon",
+			"pass": 0,
+			"prespp": 120,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 12,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 112
 		}
 	}
 }

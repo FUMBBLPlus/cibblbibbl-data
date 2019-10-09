@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3916906",
 	"modified": "2017-07-07 20:50:24",
-	"player_performance": {},
+	"player": {},
 	"replayId": "984611",
-	"team_performance": {
-		"2": {
+	"team": {
+		"cbe01-group02": {
+			"blocks": 52,
 			"cas": 3,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
 			"id": "874545",
+			"int": 0,
+			"mvp": 1,
 			"name": "Stone Prince's Men",
+			"pass": 3,
+			"prespp": 60,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 29,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 144
 		},
-		"4": {
+		"cbe01-group04": {
+			"blocks": 38,
 			"cas": 3,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
 			"id": "874452",
+			"int": 0,
+			"mvp": 1,
 			"name": "Way of the Dragon",
+			"pass": 1,
+			"prespp": 98,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 25,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 127
 		}
 	}
 }

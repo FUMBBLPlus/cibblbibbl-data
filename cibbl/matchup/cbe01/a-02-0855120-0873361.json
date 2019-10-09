@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3914312",
 	"modified": "2017-06-26 13:31:57",
-	"player_performance": {},
+	"player": {},
 	"replayId": "981593",
-	"team_performance": {
-		"2": {
+	"team": {
+		"cbe01-group02": {
+			"blocks": 45,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
 			"id": "873361",
+			"int": 0,
+			"mvp": 1,
 			"name": "Blood-Ground Blackhorns",
+			"pass": 1,
+			"prespp": 78,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 28,
 			"score": 1,
 			"scorediff": -2,
-			"tds": 1,
-			"tdsdiff": -2
+			"td": 1,
+			"tddiff": -2,
+			"turns": 145
 		},
-		"5": {
+		"cbe01-group05": {
+			"blocks": 29,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 1,
+			"fouls": 3,
 			"id": "855120",
+			"int": 0,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
+			"pass": 6,
+			"prespp": 189,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 21,
 			"score": 3,
 			"scorediff": 2,
-			"tds": 3,
-			"tdsdiff": 2
+			"td": 3,
+			"tddiff": 2,
+			"turns": 150
 		}
 	}
 }

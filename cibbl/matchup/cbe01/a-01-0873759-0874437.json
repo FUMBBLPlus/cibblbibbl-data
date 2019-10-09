@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3911133",
 	"modified": "2017-06-13 21:14:21",
-	"player_performance": {},
+	"player": {},
 	"replayId": "977878",
-	"team_performance": {
-		"1": {
+	"team": {
+		"cbe01-group01": {
+			"blocks": 57,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
 			"id": "874437",
+			"int": 0,
+			"mvp": 1,
 			"name": "Bigwood Tree Shmashaz",
+			"pass": 0,
+			"prespp": 34,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 20,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 158
 		},
-		"7": {
+		"cbe01-group07": {
+			"blocks": 44,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
 			"id": "873759",
+			"int": 0,
+			"mvp": 1,
 			"name": "Knightly Virtues",
+			"pass": 0,
+			"prespp": 68,
 			"prestige": 0,
 			"pts": 1,
-			"rsym": "D",
+			"r": "D",
+			"rush": 12,
 			"score": 1,
 			"scorediff": 0,
-			"tds": 1,
-			"tdsdiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 151
 		}
 	}
 }

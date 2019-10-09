@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3921666",
 	"modified": "2017-07-30 16:42:27",
-	"player_performance": {},
+	"player": {},
 	"replayId": "990160",
-	"team_performance": {
-		"7": {
+	"team": {
+		"cbe01-group07": {
+			"blocks": 32,
 			"cas": 3,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
 			"id": "873759",
+			"int": 0,
+			"mvp": 1,
 			"name": "Knightly Virtues",
+			"pass": 1,
+			"prespp": 100,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 11,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 98
 		},
-		"8": {
+		"cbe01-group08": {
+			"blocks": 34,
 			"cas": 4,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 3,
 			"id": "872044",
+			"int": 0,
+			"mvp": 1,
 			"name": "Strigos Elită",
+			"pass": 0,
+			"prespp": 114,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 33,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 146
 		}
 	}
 }

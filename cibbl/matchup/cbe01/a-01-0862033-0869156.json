@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3911150",
 	"modified": "2017-06-13 21:59:28",
-	"player_performance": {},
+	"player": {},
 	"replayId": "977923",
-	"team_performance": {
-		"1": {
+	"team": {
+		"cbe01-group01": {
+			"blocks": 43,
 			"cas": 4,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
 			"id": "869156",
+			"int": 0,
+			"mvp": 1,
 			"name": "Talsyn Tramplers",
+			"pass": 0,
+			"prespp": 107,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 23,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 146
 		},
-		"7": {
+		"cbe01-group07": {
+			"blocks": 29,
 			"cas": 3,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 2,
 			"id": "862033",
+			"int": 0,
+			"mvp": 1,
 			"name": "Forsaken of the Pantheon",
+			"pass": 0,
+			"prespp": 110,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 4,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 121
 		}
 	}
 }

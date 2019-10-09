@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3916744",
 	"modified": "2017-07-07 00:03:52",
-	"player_performance": {},
+	"player": {},
 	"replayId": "984427",
-	"team_performance": {
-		"5": {
+	"team": {
+		"cbe01-group05": {
+			"blocks": 34,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 3,
+			"fouls": 6,
 			"id": "855120",
+			"int": 1,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
+			"pass": 3,
+			"prespp": 191,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 48,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 159
 		},
-		"6": {
+		"cbe01-group06": {
+			"blocks": 35,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 3,
+			"fouls": 2,
 			"id": "854507",
+			"int": 0,
+			"mvp": 1,
 			"name": "Coven of the Mirrored Hall",
+			"pass": 5,
+			"prespp": 179,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 14,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 93
 		}
 	}
 }

@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3916469",
 	"modified": "2017-07-05 20:50:23",
-	"player_performance": {},
+	"player": {},
 	"replayId": "984104",
-	"team_performance": {
-		"6": {
+	"team": {
+		"cbe01-group06": {
+			"blocks": 35,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 5,
 			"id": "874560",
+			"int": 0,
+			"mvp": 1,
 			"name": "Poshgit's Daredevils",
+			"pass": 0,
+			"prespp": 85,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 8,
 			"score": 0,
 			"scorediff": -1,
-			"tds": 0,
-			"tdsdiff": -1
+			"td": 0,
+			"tddiff": -1,
+			"turns": 142
 		},
-		"7": {
+		"cbe01-group07": {
+			"blocks": 34,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
 			"id": "873759",
+			"int": 0,
+			"mvp": 1,
 			"name": "Knightly Virtues",
+			"pass": 0,
+			"prespp": 90,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 18,
 			"score": 1,
 			"scorediff": 1,
-			"tds": 1,
-			"tdsdiff": 1
+			"td": 1,
+			"tddiff": 1,
+			"turns": 148
 		}
 	}
 }

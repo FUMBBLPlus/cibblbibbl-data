@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3919231",
 	"modified": "2017-07-19 00:14:39",
-	"player_performance": {},
+	"player": {},
 	"replayId": "987335",
-	"team_performance": {
-		"1": {
+	"team": {
+		"cbe01-group01": {
+			"blocks": 37,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 0,
+			"fouls": 5,
 			"id": "869156",
+			"int": 0,
+			"mvp": 1,
 			"name": "Talsyn Tramplers",
+			"pass": 0,
+			"prespp": 144,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 41,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 158
 		},
-		"3": {
+		"cbe01-group03": {
+			"blocks": 28,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 0,
+			"fouls": 2,
 			"id": "874602",
+			"int": 0,
+			"mvp": 1,
 			"name": "Goblin Revolushunary Kommittee",
+			"pass": 1,
+			"prespp": 61,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 13,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 118
 		}
 	}
 }

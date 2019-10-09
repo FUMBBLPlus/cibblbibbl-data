@@ -95,9 +95,9 @@
 				"blocks": 1,
 				"dead": [
 					1,
-					1,
-					"blocked",
-					"11463893"
+					8,
+					"secretWeaponBan",
+					null
 				],
 				"name": "Helmut Wulf",
 				"turns": 1,
@@ -226,7 +226,7 @@
 	"team": {
 		"855753": {
 			"blocks": 42,
-			"cas": 1,
+			"cas": 2,
 			"casdiff": -2,
 			"comp": 0,
 			"fouls": 0,
@@ -247,7 +247,7 @@
 		},
 		"856203": {
 			"blocks": 36,
-			"cas": 3,
+			"cas": 4,
 			"casdiff": 2,
 			"comp": 0,
 			"fouls": 2,
@@ -256,7 +256,7 @@
 			"name": "Southland Scuttlers",
 			"pass": -1,
 			"prespp": 57,
-			"prestige": 0,
+			"prestige": 3,
 			"pts": 3,
 			"r": "W",
 			"rush": 24,

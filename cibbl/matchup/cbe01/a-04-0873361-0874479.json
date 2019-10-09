@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3919563",
 	"modified": "2017-07-20 19:06:54",
-	"player_performance": {},
+	"player": {},
 	"replayId": "987711",
-	"team_performance": {
-		"2": {
+	"team": {
+		"cbe01-group02": {
+			"blocks": 40,
 			"cas": 4,
 			"casdiff": 3,
+			"comp": 1,
+			"fouls": 5,
 			"id": "873361",
+			"int": 0,
+			"mvp": 1,
 			"name": "Blood-Ground Blackhorns",
+			"pass": 0,
+			"prespp": 103,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 36,
 			"score": 3,
 			"scorediff": 3,
-			"tds": 3,
-			"tdsdiff": 3
+			"td": 3,
+			"tddiff": 3,
+			"turns": 149
 		},
-		"4": {
+		"cbe01-group04": {
+			"blocks": 27,
 			"cas": 1,
 			"casdiff": -3,
+			"comp": 1,
+			"fouls": 2,
 			"id": "874479",
+			"int": 0,
+			"mvp": 1,
 			"name": "Albion Manticores",
+			"pass": 0,
+			"prespp": 78,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -3,
-			"tds": 0,
-			"tdsdiff": -3
+			"td": 0,
+			"tddiff": -3,
+			"turns": 163
 		}
 	}
 }

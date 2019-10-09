@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3917632",
 	"modified": "2017-07-11 12:14:22",
-	"player_performance": {},
+	"player": {},
 	"replayId": "985458",
-	"team_performance": {
-		"5": {
+	"team": {
+		"cbe01-group05": {
+			"blocks": 40,
 			"cas": 4,
 			"casdiff": 4,
+			"comp": 3,
+			"fouls": 0,
 			"id": "873349",
+			"int": 0,
+			"mvp": 1,
 			"name": "Reik River Kicking Mules",
+			"pass": 3,
+			"prespp": 168,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 165
 		},
-		"8": {
+		"cbe01-group08": {
+			"blocks": 48,
 			"cas": 0,
 			"casdiff": -4,
+			"comp": 2,
+			"fouls": 3,
 			"id": "872044",
+			"int": 1,
+			"mvp": 1,
 			"name": "Strigos Elită",
+			"pass": 1,
+			"prespp": 105,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 118
 		}
 	}
 }

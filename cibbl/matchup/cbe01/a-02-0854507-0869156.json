@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3913121",
 	"modified": "2017-06-21 21:16:26",
-	"player_performance": {},
+	"player": {},
 	"replayId": "980192",
-	"team_performance": {
-		"1": {
+	"team": {
+		"cbe01-group01": {
+			"blocks": 38,
 			"cas": 3,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 4,
 			"id": "869156",
+			"int": 0,
+			"mvp": 1,
 			"name": "Talsyn Tramplers",
+			"pass": 0,
+			"prespp": 124,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 13,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 137
 		},
-		"6": {
+		"cbe01-group06": {
+			"blocks": 36,
 			"cas": 3,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
 			"id": "854507",
+			"int": 0,
+			"mvp": 1,
 			"name": "Coven of the Mirrored Hall",
+			"pass": 2,
+			"prespp": 161,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 38,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 118
 		}
 	}
 }

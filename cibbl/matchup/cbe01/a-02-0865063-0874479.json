@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3915253",
 	"modified": "2017-06-29 23:46:07",
-	"player_performance": {},
+	"player": {},
 	"replayId": "982708",
-	"team_performance": {
-		"4": {
+	"team": {
+		"cbe01-group04": {
+			"blocks": 38,
 			"cas": 3,
 			"casdiff": 3,
+			"comp": 3,
+			"fouls": 3,
 			"id": "874479",
+			"int": 0,
+			"mvp": 1,
 			"name": "Albion Manticores",
+			"pass": 4,
+			"prespp": 63,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 19,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 155
 		},
-		"8": {
+		"cbe01-group08": {
+			"blocks": 51,
 			"cas": 0,
 			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
 			"id": "865063",
+			"int": 0,
+			"mvp": 1,
 			"name": "Oyxl Great Pyramid Heroes",
+			"pass": 0,
+			"prespp": 106,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 37,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 152
 		}
 	}
 }

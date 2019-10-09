@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3909985",
 	"modified": "2017-06-09 20:51:14",
-	"player_performance": {},
+	"player": {},
 	"replayId": "976634",
-	"team_performance": {
-		"2": {
+	"team": {
+		"cbe01-group02": {
+			"blocks": 43,
 			"cas": 3,
 			"casdiff": 2,
+			"comp": 1,
+			"fouls": 4,
 			"id": "873361",
+			"int": 0,
+			"mvp": 1,
 			"name": "Blood-Ground Blackhorns",
+			"pass": -2,
+			"prespp": 62,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 26,
 			"score": 2,
 			"scorediff": 1,
-			"tds": 2,
-			"tdsdiff": 1
+			"td": 2,
+			"tddiff": 1,
+			"turns": 147
 		},
-		"3": {
+		"cbe01-group03": {
+			"blocks": 25,
 			"cas": 1,
 			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
 			"id": "874602",
+			"int": 0,
+			"mvp": 1,
 			"name": "Goblin Revolushunary Kommittee",
+			"pass": 1,
+			"prespp": 44,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 26,
 			"score": 1,
 			"scorediff": -1,
-			"tds": 1,
-			"tdsdiff": -1
+			"td": 1,
+			"tddiff": -1,
+			"turns": 140
 		}
 	}
 }

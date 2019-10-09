@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3911476",
 	"modified": "2017-06-14 23:58:49",
-	"player_performance": {},
+	"player": {},
 	"replayId": "978288",
-	"team_performance": {
-		"5": {
+	"team": {
+		"cbe01-group05": {
+			"blocks": 58,
 			"cas": 2,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 3,
 			"id": "855120",
+			"int": 0,
+			"mvp": 1,
 			"name": "Trantio Dragon Hawks",
+			"pass": 1,
+			"prespp": 174,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 40,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 168
 		},
-		"8": {
+		"cbe01-group08": {
+			"blocks": 36,
 			"cas": 1,
 			"casdiff": -1,
+			"comp": 1,
+			"fouls": 1,
 			"id": "865063",
+			"int": 0,
+			"mvp": 1,
 			"name": "Oyxl Great Pyramid Heroes",
+			"pass": 4,
+			"prespp": 98,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 16,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 141
 		}
 	}
 }

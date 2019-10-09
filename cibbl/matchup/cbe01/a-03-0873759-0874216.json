@@ -1,36 +1,53 @@
 {
 	"!excluded": "no",
-	"!locked": "yes",
 	"matchId": "3914745",
 	"modified": "2017-06-27 23:08:14",
-	"player_performance": {},
+	"player": {},
 	"replayId": "982082",
-	"team_performance": {
-		"3": {
+	"team": {
+		"cbe01-group03": {
+			"blocks": 45,
 			"cas": 2,
 			"casdiff": -1,
+			"comp": 0,
+			"fouls": 4,
 			"id": "874216",
+			"int": 0,
+			"mvp": 1,
 			"name": "Slumbering Dragons",
+			"pass": 0,
+			"prespp": 50,
 			"prestige": 0,
 			"pts": 0,
-			"rsym": "L",
+			"r": "L",
+			"rush": 0,
 			"score": 0,
 			"scorediff": -2,
-			"tds": 0,
-			"tdsdiff": -2
+			"td": 0,
+			"tddiff": -2,
+			"turns": 160
 		},
-		"7": {
+		"cbe01-group07": {
+			"blocks": 55,
 			"cas": 3,
 			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
 			"id": "873759",
+			"int": 0,
+			"mvp": 1,
 			"name": "Knightly Virtues",
+			"pass": -1,
+			"prespp": 73,
 			"prestige": 0,
 			"pts": 2,
-			"rsym": "W",
+			"r": "W",
+			"rush": 20,
 			"score": 2,
 			"scorediff": 2,
-			"tds": 2,
-			"tdsdiff": 2
+			"td": 2,
+			"tddiff": 2,
+			"turns": 161
 		}
 	}
 }
