@@ -80,7 +80,7 @@
 					2,
 					6,
 					"blocked",
-					"MERC-9822-3250"
+					"MERC-1038780-874545M1"
 				],
 				"name": "Abdul Mobot",
 				"prespp": 2,
@@ -216,18 +216,18 @@
 				"turns": 10,
 				"type": "J"
 			},
-			"MERC-9822-0000": {
-				"blocks": 1,
-				"name": "Merc Lineman 2",
-				"turns": 3,
-				"type": "M"
-			},
-			"MERC-9822-3250": {
+			"MERC-1038780-874545M1": {
 				"blocks": 1,
 				"cas": 1,
 				"name": "Merc Lineman 1",
 				"spp": 2,
 				"turns": 11,
+				"type": "M"
+			},
+			"MERC-1038780-874545M2": {
+				"blocks": 1,
+				"name": "Merc Lineman 2",
+				"turns": 3,
 				"type": "M"
 			}
 		}
