@@ -1,20 +1,257 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4099075",
+	"player": {
 		"909848": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Black Hearted Bloodseekers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12315757": {
+				"blocks": 7,
+				"name": "Lythk the Merciless",
+				"prespp": 38,
+				"turns": 16,
+				"type": "R"
+			},
+			"12315759": {
+				"blocks": 9,
+				"cas": 3,
+				"name": "Fleshrender",
+				"prespp": 21,
+				"spp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12315760": {
+				"blocks": 9,
+				"cas": 3,
+				"name": "Xu'eem, Fury Unleashed",
+				"prespp": 60,
+				"spp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12315761": {
+				"blocks": 3,
+				"name": "Kelriz the Unforgiving",
+				"prespp": 35,
+				"rush": 11,
+				"turns": 16,
+				"type": "R"
+			},
+			"12315763": {
+				"blocks": 3,
+				"name": "Oxhaar the Breaker",
+				"turns": 9,
+				"type": "R"
+			},
+			"12315764": {
+				"blocks": 2,
+				"dead": [
+					2,
+					8,
+					"blocked",
+					"12524800"
+				],
+				"name": "Ar'anyq",
+				"prespp": 11,
+				"turns": 13,
+				"type": "R"
+			},
+			"12424767": {
+				"blocks": 11,
+				"name": "Tailslasher the Unbroken",
+				"prespp": 32,
+				"turns": 16,
+				"type": "R"
+			},
+			"12431645": {
+				"blocks": 5,
+				"name": "Rythaal the Malevolent",
+				"prespp": 32,
+				"turns": 16,
+				"type": "R"
+			},
+			"12492739": {
+				"blocks": 4,
+				"name": "Abraxasz",
+				"prespp": 19,
+				"turns": 9,
+				"type": "R"
+			},
+			"12597222": {
+				"name": "Carth'aaros",
+				"type": "R"
+			},
+			"12608842": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Ne'zed, Gouger of Eyes",
+				"prespp": 11,
+				"spp": 5,
+				"turns": 6,
+				"type": "R"
+			},
+			"12678251": {
+				"name": "Paruudon",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12870154": {
+				"name": "Xyyke Brokenbone",
+				"type": "R"
+			}
 		},
 		"923094": {
-			"cas": 0,
+			"12524800": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Bered",
+				"prespp": 18,
+				"spp": 2,
+				"turns": 10,
+				"type": "B"
+			},
+			"12524801": {
+				"blocks": 10,
+				"cas": 3,
+				"name": "Dylon",
+				"prespp": 26,
+				"spp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12524802": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Kaerio",
+				"prespp": 37,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12524803": {
+				"blocks": 2,
+				"name": "Laekces",
+				"prespp": 9,
+				"turns": 8,
+				"type": "R"
+			},
+			"12524804": {
+				"mvp": 1,
+				"name": "Nereus",
+				"prespp": 7,
+				"spp": 5,
+				"turns": 8,
+				"type": "R"
+			},
+			"12524805": {
+				"name": "Dover",
+				"prespp": 36,
+				"rush": 23,
+				"spp": 3,
+				"td": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12524807": {
+				"name": "Reif",
+				"type": "R"
+			},
+			"12600217": {
+				"name": "Blotren",
+				"prespp": 7,
+				"turns": 8,
+				"type": "R"
+			},
+			"12603143": {
+				"blocks": 1,
+				"name": "sandy welp",
+				"prespp": 11,
+				"rush": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12646238": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Waves",
+				"prespp": 8,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12670450": {
+				"name": "Rolling sands",
+				"rush": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12680626": {
+				"name": "Splash",
+				"type": "R"
+			},
+			"12708824": {
+				"name": "White foam",
+				"prespp": 6,
+				"rush": 4,
+				"turns": 5,
+				"type": "R"
+			},
+			"STAR-Diegi Maratona": {
+				"blocks": 1,
+				"name": "Diegi Maratona",
+				"turns": 12,
+				"type": "S"
+			},
+			"STAR-Hemlock": {
+				"blocks": 8,
+				"name": "Hemlock",
+				"turns": 10,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1195053",
+	"team": {
+		"909848": {
+			"blocks": 57,
+			"cas": 6,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Black Hearted Bloodseekers",
+			"pass": 0,
+			"prespp": 261,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 11,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 133
+		},
+		"923094": {
+			"blocks": 35,
+			"cas": 6,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rising Tsunami",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 165,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 32,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 149
 		}
 	}
 }

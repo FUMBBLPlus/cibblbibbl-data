@@ -1,20 +1,215 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4099120",
+	"player": {
 		"942643": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Rōnin Reborn",
-			"scorediff": 0,
-			"tddiff": 0
+			"12842984": {
+				"blocks": 9,
+				"name": "Hattori Oni no Hanzo",
+				"prespp": 7,
+				"turns": 16,
+				"type": "B"
+			},
+			"12842985": {
+				"blocks": 2,
+				"name": "Hakuho Sho Yokozunas",
+				"turns": 4,
+				"type": "R"
+			},
+			"12842987": {
+				"blocks": 9,
+				"name": "Futabayama Sadaji Yokozunas",
+				"turns": 16,
+				"type": "R"
+			},
+			"12842988": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Date Masamune",
+				"prespp": 3,
+				"rush": 4,
+				"spp": 5,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12842990": {
+				"blocks": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Minamoto no Yoshitsune",
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12842991": {
+				"blocks": 1,
+				"name": "Dom Justo Takayama",
+				"prespp": 1,
+				"rush": 6,
+				"turns": 15,
+				"type": "R"
+			},
+			"12842992": {
+				"blocks": 1,
+				"name": "Takeda Nobushige",
+				"turns": 8,
+				"type": "R"
+			},
+			"12842993": {
+				"blocks": 2,
+				"name": "Mori Ranmaru",
+				"turns": 16,
+				"type": "R"
+			},
+			"12842998": {
+				"blocks": 2,
+				"name": "Goto Mototsugu",
+				"turns": 13,
+				"type": "R"
+			},
+			"12843000": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Sanda Yakimura",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843001": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Keiji Maeda",
+				"rush": 10,
+				"spp": 5,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"944173": {
-			"cas": 0,
-			"casdiff": 0,
+			"12866375": {
+				"blocks": 1,
+				"name": "Tlaloci",
+				"rush": 15,
+				"turns": 16,
+				"type": "R"
+			},
+			"12866376": {
+				"blocks": 4,
+				"name": "Chalchi",
+				"prespp": 1,
+				"turns": 11,
+				"type": "R"
+			},
+			"12866377": {
+				"blocks": 2,
+				"name": "Tezcatli",
+				"turns": 13,
+				"type": "R"
+			},
+			"12866378": {
+				"name": "Xipi",
+				"turns": 15,
+				"type": "R"
+			},
+			"12866379": {
+				"name": "Pillani",
+				"rush": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12866380": {
+				"blocks": 1,
+				"name": "Epunamuni",
+				"turns": 16,
+				"type": "R"
+			},
+			"12866381": {
+				"blocks": 1,
+				"name": "Anchi",
+				"turns": 3,
+				"type": "R"
+			},
+			"12866382": {
+				"blocks": 2,
+				"name": "Ochosi",
+				"turns": 15,
+				"type": "R"
+			},
+			"12866383": {
+				"blocks": 1,
+				"name": "Oguni",
+				"rush": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12866384": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Darbi",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12866385": {
+				"blocks": 6,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Peet",
+				"prespp": 7,
+				"rush": 2,
+				"spp": 9,
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1195088",
+	"team": {
+		"942643": {
+			"blocks": 47,
+			"cas": 4,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Rōnin Reborn",
+			"pass": 0,
+			"prespp": 13,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 20,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 152
+		},
+		"944173": {
+			"blocks": 29,
+			"cas": 3,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cuexotl Jungle Daggers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 10,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 26,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 153
 		}
 	}
 }

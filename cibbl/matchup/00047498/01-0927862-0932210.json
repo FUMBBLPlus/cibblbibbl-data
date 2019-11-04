@@ -1,20 +1,228 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4098991",
+	"player": {
 		"927862": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Beegrok Massif Mob",
-			"scorediff": 0,
-			"tddiff": 0
+			"12598978": {
+				"blocks": 9,
+				"name": "Morgur Slogga",
+				"prespp": 20,
+				"rush": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12598989": {
+				"blocks": 7,
+				"name": "Ugga da One-legged",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12598997": {
+				"blocks": 10,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Gadzooks Gormless",
+				"prespp": 10,
+				"spp": 7,
+				"turns": 14,
+				"type": "R"
+			},
+			"12599001": {
+				"blocks": 6,
+				"name": "Grindok Gizzbut",
+				"prespp": 13,
+				"turns": 11,
+				"type": "R"
+			},
+			"12599014": {
+				"fouls": 1,
+				"name": "Skarlik",
+				"turns": 8,
+				"type": "R"
+			},
+			"12599015": {
+				"blocks": 1,
+				"name": "Fuggbang",
+				"prespp": 9,
+				"rush": 11,
+				"turns": 16,
+				"type": "R"
+			},
+			"12599016": {
+				"fouls": 1,
+				"name": "Grotgrot",
+				"prespp": 3,
+				"turns": 8,
+				"type": "R"
+			},
+			"12599017": {
+				"blocks": 1,
+				"name": "Weebungo",
+				"prespp": 5,
+				"turns": 10,
+				"type": "R"
+			},
+			"12615324": {
+				"blocks": 4,
+				"name": "Mistah Beegs",
+				"turns": 16,
+				"type": "R"
+			},
+			"12669139": {
+				"blocks": 5,
+				"name": "Urgrot Bolgrot",
+				"turns": 16,
+				"type": "R"
+			},
+			"12691051": {
+				"blocks": 7,
+				"name": "Skabgutz Redeyez",
+				"prespp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12715445": {
+				"name": "Bukkit",
+				"turns": 13,
+				"type": "R"
+			},
+			"12729014": {
+				"name": "Grocnarc",
+				"type": "R"
+			},
+			"12729015": {
+				"name": "Naznob",
+				"type": "R"
+			}
 		},
 		"932210": {
+			"12675399": {
+				"blocks": 1,
+				"name": "Khulgrug",
+				"turns": 16,
+				"type": "R"
+			},
+			"12675400": {
+				"blocks": 3,
+				"name": "Tuzkoz the Wild",
+				"turns": 7,
+				"type": "R"
+			},
+			"12675401": {
+				"blocks": 7,
+				"name": "Gerraz",
+				"rush": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12675402": {
+				"blocks": 4,
+				"name": "Bazcax",
+				"turns": 16,
+				"type": "R"
+			},
+			"12675403": {
+				"blocks": 5,
+				"name": "Muzgax the Silent",
+				"turns": 16,
+				"type": "R"
+			},
+			"12675404": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Daarthag the Loud",
+				"rush": 20,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12675405": {
+				"name": "Silverscar",
+				"turns": 2,
+				"type": "R"
+			},
+			"12675406": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Stonetoe",
+				"turns": 11,
+				"type": "R"
+			},
+			"12675407": {
+				"name": "Kaalgroor",
+				"turns": 8,
+				"type": "R"
+			},
+			"12675408": {
+				"fouls": 1,
+				"name": "Zaogdar",
+				"turns": 12,
+				"type": "R"
+			},
+			"12675409": {
+				"name": "Nethertooth",
+				"turns": 16,
+				"type": "R"
+			},
+			"STAR-The Bone Collector": {
+				"blocks": 4,
+				"name": "The Bone Collector",
+				"turns": 6,
+				"type": "S"
+			},
+			"STAR-Wreacking Baargh": {
+				"blocks": 5,
+				"name": "Wreacking Baargh",
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1194960",
+	"team": {
+		"927862": {
+			"blocks": 50,
+			"cas": 1,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Beegrok Massif Mob",
+			"pass": 0,
+			"prespp": 72,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 13,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 160
+		},
+		"932210": {
+			"blocks": 37,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bludweiser Bouncers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 26,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 158
 		}
 	}
 }

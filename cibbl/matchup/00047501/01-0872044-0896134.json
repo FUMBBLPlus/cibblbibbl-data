@@ -1,20 +1,249 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4099090",
+	"player": {
 		"872044": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Strigos Elită",
-			"scorediff": 0,
-			"tddiff": 0
+			"11713837": {
+				"blocks": 8,
+				"name": "Carol I",
+				"prespp": 200,
+				"turns": 12,
+				"type": "R"
+			},
+			"11713838": {
+				"blocks": 5,
+				"name": "Ferdinand I",
+				"prespp": 106,
+				"rush": 21,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"11953214": {
+				"blocks": 1,
+				"name": "Wilhelmina Amalia",
+				"prespp": 19,
+				"turns": 14,
+				"type": "R"
+			},
+			"11953217": {
+				"name": "Andrei",
+				"turns": 1,
+				"type": "R"
+			},
+			"12060391": {
+				"fouls": 1,
+				"name": "Dumitru",
+				"prespp": 6,
+				"type": "R"
+			},
+			"12245376": {
+				"blocks": 4,
+				"cas": 2,
+				"name": "Katalin Bethlen",
+				"prespp": 10,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12291482": {
+				"blocks": 10,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Stanislav I",
+				"prespp": 42,
+				"spp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12352369": {
+				"blocks": 5,
+				"name": "Viktor I",
+				"prespp": 25,
+				"turns": 13,
+				"type": "R"
+			},
+			"12353757": {
+				"fouls": 1,
+				"name": "Charlotte Amalie",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12577312": {
+				"name": "Natalia Anna",
+				"turns": 8,
+				"type": "R"
+			},
+			"12681697": {
+				"name": "Catherina Jean",
+				"turns": 1,
+				"type": "R"
+			},
+			"12870181": {
+				"name": "Angelina Maria",
+				"turns": 2,
+				"type": "R"
+			}
 		},
 		"896134": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Rotfall Ironworks Rocketeers",
+			"12101571": {
+				"comp": 1,
+				"name": "Krakshot Neek",
+				"pass": 6,
+				"prespp": 86,
+				"rush": 22,
+				"spp": 4,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12101577": {
+				"blocks": 2,
+				"name": "Snub-tail",
+				"prespp": 23,
+				"turns": 4,
+				"type": "R"
+			},
+			"12101587": {
+				"blocks": 2,
+				"dead": [
+					2,
+					2,
+					"blocked",
+					"12245376"
+				],
+				"name": "Reeknose",
+				"prespp": 11,
+				"turns": 3,
+				"type": "R"
+			},
+			"12125540": {
+				"blocks": 13,
+				"cas": 2,
+				"name": "Rabid Rocket",
+				"prespp": 71,
+				"spp": 4,
+				"turns": 16,
+				"type": "B"
+			},
+			"12135507": {
+				"blocks": 3,
+				"name": "Flitty Spleent",
+				"prespp": 93,
+				"turns": 16,
+				"type": "R"
+			},
+			"12299553": {
+				"name": "Rikkik",
+				"retired": true,
+				"type": "R"
+			},
+			"12338282": {
+				"blocks": 2,
+				"name": "Yikk-kin",
+				"prespp": 7,
+				"retired": true,
+				"turns": 4,
+				"type": "R"
+			},
+			"12462493": {
+				"name": "Pestilent Yerk",
+				"prespp": 17,
+				"turns": 14,
+				"type": "R"
+			},
+			"12489638": {
+				"blocks": 3,
+				"name": "The Iron Rat",
+				"prespp": 14,
+				"turns": 16,
+				"type": "R"
+			},
+			"12528041": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "\"Mark Three\"",
+				"prespp": 10,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12528043": {
+				"blocks": 1,
+				"name": "Noxxus Blyte",
+				"prespp": 18,
+				"turns": 14,
+				"type": "R"
+			},
+			"12602506": {
+				"fouls": 2,
+				"name": "Screwtail Wrakkin",
+				"turns": 5,
+				"type": "R"
+			},
+			"12602507": {
+				"name": "Vermlikk",
+				"type": "R"
+			},
+			"12680045": {
+				"blocks": 1,
+				"name": "Skrykkin",
+				"prespp": 3,
+				"turns": 9,
+				"type": "R"
+			},
+			"12680056": {
+				"name": "Mange-head",
+				"turns": 2,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1195069",
+	"team": {
+		"872044": {
+			"blocks": 33,
+			"cas": 4,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Strigos Elită",
+			"pass": 0,
+			"prespp": 410,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 21,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 115
+		},
+		"896134": {
+			"blocks": 33,
+			"cas": 2,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Rotfall Ironworks Rocketeers",
+			"pass": 6,
+			"prespp": 353,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 22,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 129
 		}
 	}
 }

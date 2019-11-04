@@ -1,20 +1,282 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4099355",
+	"player": {
 		"879131": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Sartosa Black Flags",
-			"scorediff": 0,
-			"tddiff": 0
+			"11828950": {
+				"blocks": 2,
+				"name": "Calico Jack",
+				"prespp": 140,
+				"turns": 3,
+				"type": "R"
+			},
+			"11828951": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Morag",
+				"prespp": 54,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"11828952": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "Greta",
+				"prespp": 38,
+				"spp": 5,
+				"turns": 16,
+				"type": "B"
+			},
+			"11828954": {
+				"blocks": 3,
+				"name": "Ibhib Nightbreaker",
+				"prespp": 153,
+				"rush": 26,
+				"spp": 3,
+				"td": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"11828955": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Dog Rough Drimond",
+				"prespp": 71,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"11828956": {
+				"blocks": 8,
+				"name": "Grog Swiller Finn",
+				"prespp": 80,
+				"turns": 16,
+				"type": "R"
+			},
+			"11956118": {
+				"name": "Voodoo Jones",
+				"prespp": 9,
+				"turns": 1,
+				"type": "R"
+			},
+			"12343072": {
+				"fouls": 2,
+				"name": "Ol' Roy Schneider",
+				"prespp": 8,
+				"turns": 1,
+				"type": "R"
+			},
+			"12426661": {
+				"name": "Mutiny Bryce",
+				"prespp": 13,
+				"type": "R"
+			},
+			"12493747": {
+				"blocks": 2,
+				"name": "Chains Mullaney",
+				"turns": 9,
+				"type": "R"
+			},
+			"12517082": {
+				"blocks": 4,
+				"name": "Dounnoth Stormarrow",
+				"prespp": 33,
+				"turns": 11,
+				"type": "R"
+			},
+			"12582863": {
+				"blocks": 4,
+				"fouls": 2,
+				"name": "Bluntfist Crockett",
+				"prespp": 6,
+				"turns": 13,
+				"type": "R"
+			},
+			"12610891": {
+				"name": "Cabin Boy Sullivan",
+				"turns": 1,
+				"type": "R"
+			},
+			"12670925": {
+				"name": "Frankie Drake",
+				"turns": 6,
+				"type": "R"
+			},
+			"12701126": {
+				"blocks": 2,
+				"dead": [
+					1,
+					7,
+					"stabbed",
+					"12334820"
+				],
+				"name": "Sweepy the Cabin Boy",
+				"turns": 7,
+				"type": "R"
+			},
+			"12871436": {
+				"name": "Beto O'Rook",
+				"turns": 1,
+				"type": "R"
+			}
 		},
 		"909966": {
-			"cas": 0,
-			"casdiff": 0,
+			"12317570": {
+				"mvp": 1,
+				"name": "Vlaedi MirTaltos",
+				"prespp": 75,
+				"spp": 5,
+				"turns": 1,
+				"type": "R"
+			},
+			"12317571": {
+				"blocks": 1,
+				"name": "Sword of Khaine",
+				"prespp": 36,
+				"spp": 3,
+				"td": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"12317572": {
+				"blocks": 8,
+				"cas": 2,
+				"comp": 2,
+				"name": "Dagger of Khaine",
+				"pass": 10,
+				"prespp": 56,
+				"rush": 13,
+				"spp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12317582": {
+				"name": "Mel Estav",
+				"prespp": 36,
+				"type": "R"
+			},
+			"12317593": {
+				"blocks": 2,
+				"name": "Ishtavan the depraved",
+				"prespp": 41,
+				"turns": 3,
+				"type": "R"
+			},
+			"12334820": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Sticks \"no future in it\" Stronzon",
+				"prespp": 34,
+				"rush": 7,
+				"spp": 5,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12454883": {
+				"name": "Terion",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12518497": {
+				"blocks": 3,
+				"name": "Shoen Karflaz",
+				"prespp": 8,
+				"turns": 14,
+				"type": "R"
+			},
+			"12550421": {
+				"blocks": 5,
+				"name": "Nar Vane",
+				"prespp": 14,
+				"turns": 14,
+				"type": "R"
+			},
+			"12599885": {
+				"blocks": 3,
+				"name": "Kragar the failed Dragon",
+				"prespp": 27,
+				"turns": 9,
+				"type": "R"
+			},
+			"12606853": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Maario G",
+				"prespp": 6,
+				"turns": 10,
+				"type": "R"
+			},
+			"12628117": {
+				"blocks": 1,
+				"name": "Glowbug the replaced",
+				"pass": 1,
+				"rush": 5,
+				"turns": 6,
+				"type": "R"
+			},
+			"12668348": {
+				"blocks": 1,
+				"name": "Daergar the kid",
+				"turns": 8,
+				"type": "R"
+			},
+			"12668349": {
+				"name": "Mungro Danhail",
+				"type": "R"
+			},
+			"STAR-Horkon Heartripper": {
+				"blocks": 6,
+				"name": "Horkon Heartripper",
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1195372",
+	"team": {
+		"879131": {
+			"blocks": 45,
+			"cas": 3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
+			"name": "Sartosa Black Flags",
+			"pass": 0,
+			"prespp": 605,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 26,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 126
+		},
+		"909966": {
+			"blocks": 36,
+			"cas": 5,
+			"casdiff": 2,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Spite Reach Corsairs",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 11,
+			"prespp": 340,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 25,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 122
 		}
 	}
 }

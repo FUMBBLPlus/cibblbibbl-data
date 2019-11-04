@@ -1,20 +1,267 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4098581",
+	"player": {
 		"874302": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Grasparossa B.B.C",
-			"scorediff": 0,
-			"tddiff": 0
+			"11754146": {
+				"name": "Spilamberto",
+				"prespp": 107,
+				"type": "R"
+			},
+			"11783522": {
+				"blocks": 1,
+				"name": "Modena",
+				"prespp": 99,
+				"rush": 16,
+				"turns": 7,
+				"type": "R"
+			},
+			"11967732": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Formigine III",
+				"prespp": 58,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12062178": {
+				"blocks": 2,
+				"name": "Castelfranco Emilia II",
+				"prespp": 42,
+				"turns": 10,
+				"type": "R"
+			},
+			"12223648": {
+				"blocks": 1,
+				"name": "Savignano sul Panaro III",
+				"prespp": 18,
+				"turns": 6,
+				"type": "R"
+			},
+			"12255081": {
+				"blocks": 7,
+				"mvp": 1,
+				"name": "Sassuolo II",
+				"prespp": 20,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12496458": {
+				"blocks": 3,
+				"name": "San Cesario sul Panaro IV",
+				"pass": -1,
+				"prespp": 10,
+				"rush": -5,
+				"turns": 13,
+				"type": "R"
+			},
+			"12514876": {
+				"name": "Fiorano VII",
+				"type": "R"
+			},
+			"12514881": {
+				"name": "Vignola II",
+				"prespp": 22,
+				"turns": 6,
+				"type": "R"
+			},
+			"12595023": {
+				"name": "Castelvetro IV",
+				"prespp": 18,
+				"type": "R"
+			},
+			"12615341": {
+				"blocks": 2,
+				"fouls": 2,
+				"name": "Maranello V",
+				"turns": 15,
+				"type": "R"
+			},
+			"12616471": {
+				"name": "Marano sul Panaro VI",
+				"prespp": 7,
+				"turns": 1,
+				"type": "R"
+			},
+			"12676525": {
+				"blocks": 1,
+				"name": "Prignano sulla Secchia V",
+				"turns": 12,
+				"type": "R"
+			},
+			"12710182": {
+				"blocks": 5,
+				"dead": [
+					2,
+					4,
+					"blocked",
+					"12114193"
+				],
+				"name": "Castelnuovo Rangone III",
+				"turns": 12,
+				"type": "R"
+			}
 		},
 		"896228": {
-			"cas": 0,
-			"casdiff": 0,
+			"12103149": {
+				"blocks": 1,
+				"name": "Mortarion",
+				"prespp": 31,
+				"turns": 16,
+				"type": "B"
+			},
+			"12103152": {
+				"blocks": 3,
+				"name": "Ku'Gath",
+				"prespp": 24,
+				"turns": 16,
+				"type": "R"
+			},
+			"12114193": {
+				"blocks": 6,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Omphuross",
+				"prespp": 62,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12143379": {
+				"blocks": 7,
+				"name": "Malarus",
+				"prespp": 62,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12325545": {
+				"blocks": 5,
+				"cas": 2,
+				"name": "Halatoth",
+				"prespp": 21,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12407510": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "Kraarak",
+				"prespp": 35,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12465025": {
+				"fouls": 1,
+				"name": "Pligis",
+				"prespp": 10,
+				"turns": 7,
+				"type": "R"
+			},
+			"12494315": {
+				"name": "Goulbar",
+				"prespp": 3,
+				"turns": 3,
+				"type": "R"
+			},
+			"12503457": {
+				"blocks": 1,
+				"name": "Vudiaz",
+				"retired": true,
+				"turns": 4,
+				"type": "R"
+			},
+			"12533831": {
+				"fouls": 2,
+				"name": "Gassious",
+				"prespp": 8,
+				"turns": 3,
+				"type": "R"
+			},
+			"12608838": {
+				"name": "Bloodscalp",
+				"turns": 11,
+				"type": "R"
+			},
+			"12664730": {
+				"blocks": 7,
+				"name": "Tallyman",
+				"prespp": 17,
+				"turns": 14,
+				"type": "R"
+			},
+			"12696907": {
+				"blocks": 3,
+				"name": "Fungallius",
+				"rush": 10,
+				"turns": 9,
+				"type": "R"
+			},
+			"12712713": {
+				"name": "Syphidex",
+				"type": "R"
+			},
+			"12730313": {
+				"blocks": 2,
+				"name": "Staphbrood",
+				"turns": 8,
+				"type": "R"
+			},
+			"RAISED-7154_12710182_12867525": {
+				"name": "Castelnuovo Rangone III",
+				"type": "D"
+			}
+		}
+	},
+	"replayId": "1194493",
+	"team": {
+		"874302": {
+			"blocks": 30,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Grasparossa B.B.C",
+			"pass": -1,
+			"prespp": 401,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 11,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 114
+		},
+		"896228": {
+			"blocks": 41,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gardeners of Nurgle",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 273,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 29,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 155
 		}
 	}
 }

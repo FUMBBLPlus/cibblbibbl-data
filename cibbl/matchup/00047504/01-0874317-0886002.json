@@ -1,20 +1,266 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4098551",
+	"player": {
 		"874317": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Misty Isle Gators",
-			"scorediff": 0,
-			"tddiff": 0
+			"11754410": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Odracon The Procreator",
+				"prespp": 94,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"11754414": {
+				"fouls": 1,
+				"name": "Lug",
+				"prespp": 7,
+				"type": "R"
+			},
+			"11754417": {
+				"blocks": 2,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Cethlenn",
+				"prespp": 9,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"11754418": {
+				"blocks": 3,
+				"name": "Tethra",
+				"prespp": 32,
+				"turns": 10,
+				"type": "R"
+			},
+			"11904321": {
+				"blocks": 2,
+				"name": "Dilek",
+				"prespp": 80,
+				"turns": 15,
+				"type": "R"
+			},
+			"12047952": {
+				"blocks": 10,
+				"name": "Slough Feg",
+				"prespp": 81,
+				"turns": 15,
+				"type": "R"
+			},
+			"12126092": {
+				"name": "Hadiz",
+				"prespp": 63,
+				"rush": 10,
+				"turns": 10,
+				"type": "R"
+			},
+			"12239695": {
+				"blocks": 8,
+				"name": "Moloch the 3rd",
+				"prespp": 62,
+				"turns": 15,
+				"type": "R"
+			},
+			"12340697": {
+				"blocks": 2,
+				"name": "Foulloch",
+				"turns": 5,
+				"type": "R"
+			},
+			"12537776": {
+				"blocks": 2,
+				"name": "Cromcraug",
+				"prespp": 12,
+				"rush": 6,
+				"spp": 3,
+				"td": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12537777": {
+				"blocks": 6,
+				"name": "Kakt",
+				"prespp": 16,
+				"turns": 15,
+				"type": "R"
+			},
+			"12618155": {
+				"name": "Finn Fimm",
+				"prespp": 15,
+				"turns": 7,
+				"type": "R"
+			},
+			"12624220": {
+				"blocks": 1,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Medb",
+				"spp": 7,
+				"turns": 5,
+				"type": "R"
+			},
+			"12721386": {
+				"blocks": 5,
+				"name": "Rolab Everlast",
+				"turns": 15,
+				"type": "R"
+			},
+			"STAR-Bilerot Vomitflesh": {
+				"blocks": 1,
+				"fouls": 3,
+				"name": "Bilerot Vomitflesh",
+				"turns": 13,
+				"type": "S"
+			}
 		},
 		"886002": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Doom Glade Demons",
+			"11938007": {
+				"blocks": 7,
+				"name": "Sinthoras Bloodflame",
+				"prespp": 112,
+				"turns": 15,
+				"type": "R"
+			},
+			"11938010": {
+				"blocks": 4,
+				"name": "Malaguth Blackmoon",
+				"prespp": 80,
+				"turns": 10,
+				"type": "R"
+			},
+			"11938039": {
+				"blocks": 5,
+				"name": "Cargavel Stormcrow",
+				"prespp": 93,
+				"turns": 11,
+				"type": "R"
+			},
+			"11938051": {
+				"blocks": 1,
+				"name": "Valyr Dragonrider",
+				"prespp": 35,
+				"turns": 4,
+				"type": "R"
+			},
+			"11938060": {
+				"blocks": 1,
+				"name": "Telok Beastslayer",
+				"prespp": 33,
+				"turns": 9,
+				"type": "R"
+			},
+			"12154913": {
+				"blocks": 1,
+				"name": "Micath Ghosthunter",
+				"prespp": 39,
+				"turns": 15,
+				"type": "R"
+			},
+			"12280055": {
+				"blocks": 1,
+				"name": "Damien Scarface",
+				"turns": 6,
+				"type": "R"
+			},
+			"12335501": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Shorna Nightraider",
+				"prespp": 27,
+				"spp": 5,
+				"turns": 4,
+				"type": "R"
+			},
+			"12413661": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Nuramon Darkstar",
+				"prespp": 31,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12413667": {
+				"blocks": 5,
+				"name": "Vargar Demonheart",
+				"prespp": 23,
+				"turns": 15,
+				"type": "R"
+			},
+			"12458452": {
+				"blocks": 6,
+				"name": "Shriga Coldeyes",
+				"prespp": 21,
+				"turns": 11,
+				"type": "R"
+			},
+			"12592827": {
+				"name": "Tovuk Hellfire",
+				"prespp": 31,
+				"rush": 25,
+				"spp": 3,
+				"td": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12637341": {
+				"name": "Caphalor Doomblade",
+				"turns": 1,
+				"type": "R"
+			},
+			"12637348": {
+				"name": "Sinistra Swiftdeath",
+				"prespp": 6,
+				"turns": 2,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1194444",
+	"team": {
+		"874317": {
+			"blocks": 52,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
+			"name": "Misty Isle Gators",
+			"pass": 0,
+			"prespp": 471,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 16,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 163
+		},
+		"886002": {
+			"blocks": 41,
+			"cas": 1,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Doom Glade Demons",
+			"pass": 0,
+			"prespp": 531,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 25,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 126
 		}
 	}
 }
