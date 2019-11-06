@@ -1,20 +1,235 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4099923",
+	"player": {
 		"932192": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Oche's Scoundrels",
-			"scorediff": 0,
-			"tddiff": 0
+			"12675013": {
+				"blocks": 4,
+				"name": "Roga",
+				"turns": 16,
+				"type": "R"
+			},
+			"12675066": {
+				"dead": [
+					2,
+					7,
+					"blocked",
+					"12851300"
+				],
+				"name": "Keuth",
+				"turns": 15,
+				"type": "R"
+			},
+			"12675068": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Azuma",
+				"turns": 16,
+				"type": "R"
+			},
+			"12676049": {
+				"blocks": 7,
+				"cas": 2,
+				"name": "Gustus 'Naggaroth's Nightmare'",
+				"spp": 4,
+				"turns": 15,
+				"type": "R"
+			},
+			"12676057": {
+				"blocks": 2,
+				"name": "Li Suwen, Son of Khorne",
+				"rush": 23,
+				"spp": 6,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12676071": {
+				"blocks": 8,
+				"name": "Liu Kao, Son of Nurgle",
+				"turns": 16,
+				"type": "R"
+			},
+			"12676072": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Amp 'Spawnkiller'",
+				"spp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"12676074": {
+				"blocks": 2,
+				"name": "Rivo 'Firebringer'",
+				"turns": 5,
+				"type": "R"
+			},
+			"12676082": {
+				"blocks": 5,
+				"name": "Atohl 'No Hostages'",
+				"turns": 16,
+				"type": "R"
+			},
+			"12676087": {
+				"blocks": 2,
+				"comp": 1,
+				"name": "Khesu 'Two-Dealer'",
+				"pass": 2,
+				"prespp": 5,
+				"rush": 10,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12676742": {
+				"blocks": 7,
+				"name": "Oche `The Tong King'",
+				"turns": 13,
+				"type": "R"
+			}
 		},
 		"943192": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Subsylvanian Hypnopipers",
+			"12851288": {
+				"blocks": 10,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Viscount Erlich Draconis",
+				"spp": 7,
+				"turns": 17,
+				"type": "R"
+			},
+			"12851292": {
+				"blocks": 1,
+				"name": "Lord Jared van der Magritta",
+				"prespp": 3,
+				"turns": 17,
+				"type": "R"
+			},
+			"12851295": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Lady Monica d'Acques",
+				"pass": 1,
+				"prespp": 8,
+				"rush": 25,
+				"spp": 5,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12851299": {
+				"name": "Hunch",
+				"type": "R"
+			},
+			"12851300": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Scratch",
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12851301": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Belch",
+				"turns": 15,
+				"type": "R"
+			},
+			"12851302": {
+				"blocks": 1,
+				"name": "Mooch",
+				"turns": 10,
+				"type": "R"
+			},
+			"12851303": {
+				"blocks": 1,
+				"name": "Poach",
+				"turns": 9,
+				"type": "R"
+			},
+			"12851304": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Stench",
+				"turns": 1,
+				"type": "R"
+			},
+			"12851305": {
+				"blocks": 3,
+				"name": "Grinch",
+				"prespp": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"12851306": {
+				"cas": 1,
+				"name": "Lynch",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12851307": {
+				"blocks": 1,
+				"name": "Wench",
+				"turns": 7,
+				"type": "R"
+			},
+			"12851506": {
+				"blocks": 4,
+				"name": "Baron Richard von Drak",
+				"rush": 6,
+				"spp": 3,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1196021",
+	"team": {
+		"932192": {
+			"blocks": 42,
+			"cas": 2,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Oche's Scoundrels",
+			"pass": 2,
+			"prespp": 5,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 33,
+			"score": 2,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 159
+		},
+		"943192": {
+			"blocks": 32,
+			"cas": 4,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Subsylvanian Hypnopipers",
+			"pass": 1,
+			"prespp": 15,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 31,
+			"score": 2,
+			"scorediff": 0,
+			"td": 2,
+			"tddiff": 0,
+			"turns": 157
 		}
 	}
 }

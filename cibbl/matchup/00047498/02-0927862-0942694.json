@@ -1,20 +1,268 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4099746",
+	"player": {
 		"927862": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Beegrok Massif Mob",
-			"scorediff": 0,
-			"tddiff": 0
+			"12598978": {
+				"blocks": 6,
+				"cas": 2,
+				"name": "Morgur Slogga",
+				"prespp": 20,
+				"rush": 22,
+				"spp": 10,
+				"td": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12598989": {
+				"blocks": 9,
+				"name": "Ugga da One-legged",
+				"prespp": 7,
+				"turns": 15,
+				"type": "R"
+			},
+			"12598997": {
+				"blocks": 5,
+				"name": "Gadzooks Gormless",
+				"prespp": 17,
+				"turns": 17,
+				"type": "R"
+			},
+			"12599001": {
+				"blocks": 10,
+				"mvp": 1,
+				"name": "Grindok Gizzbut",
+				"prespp": 13,
+				"spp": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"12599014": {
+				"blocks": 1,
+				"name": "Skarlik",
+				"retired": true,
+				"turns": 9,
+				"type": "R"
+			},
+			"12599015": {
+				"name": "Fuggbang",
+				"prespp": 9,
+				"rush": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"12599016": {
+				"name": "Grotgrot",
+				"pass": 1,
+				"prespp": 3,
+				"rush": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12599017": {
+				"blocks": 1,
+				"name": "Weebungo",
+				"prespp": 5,
+				"turns": 8,
+				"type": "R"
+			},
+			"12615324": {
+				"blocks": 5,
+				"name": "Mistah Beegs",
+				"turns": 17,
+				"type": "R"
+			},
+			"12669139": {
+				"blocks": 4,
+				"dead": [
+					2,
+					3,
+					"blocked",
+					"STAR-Schworg'n'Borg"
+				],
+				"name": "Urgrot Bolgrot",
+				"turns": 10,
+				"type": "R"
+			},
+			"12691051": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Skabgutz Redeyez",
+				"prespp": 5,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12715445": {
+				"name": "Bukkit",
+				"turns": 9,
+				"type": "R"
+			},
+			"12729014": {
+				"cas": 1,
+				"dead": [
+					1,
+					6,
+					"blocked",
+					"12843531"
+				],
+				"name": "Grocnarc",
+				"spp": 2,
+				"turns": 5,
+				"type": "R"
+			},
+			"12729015": {
+				"name": "Naznob",
+				"turns": 1,
+				"type": "R"
+			}
 		},
 		"942694": {
-			"cas": 0,
-			"casdiff": 0,
+			"12843502": {
+				"blocks": 2,
+				"name": "Aqshy",
+				"prespp": 7,
+				"turns": 3,
+				"type": "R"
+			},
+			"12843526": {
+				"blocks": 2,
+				"name": "Gelt",
+				"prespp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12843528": {
+				"blocks": 5,
+				"name": "Stross",
+				"prespp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843530": {
+				"blocks": 7,
+				"comp": 1,
+				"name": "Katarin",
+				"pass": 2,
+				"prespp": 3,
+				"rush": 10,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843531": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Miska",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 7,
+				"type": "R"
+			},
+			"12843532": {
+				"blocks": 3,
+				"name": "Julevno",
+				"prespp": 1,
+				"rush": 4,
+				"turns": 11,
+				"type": "R"
+			},
+			"12843533": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Fleissman",
+				"turns": 16,
+				"type": "R"
+			},
+			"12843534": {
+				"mvp": 1,
+				"name": "Feuerbach",
+				"prespp": 3,
+				"spp": 5,
+				"turns": 3,
+				"type": "R"
+			},
+			"12843535": {
+				"blocks": 1,
+				"dead": [
+					1,
+					1,
+					"blocked",
+					"12729014"
+				],
+				"name": "Bann",
+				"type": "R"
+			},
+			"12843536": {
+				"name": "Fuegonasus",
+				"type": "R"
+			},
+			"12843537": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Pfeiffer",
+				"turns": 16,
+				"type": "R"
+			},
+			"12872691": {
+				"name": "Howard Truetree",
+				"retired": true,
+				"turns": 5,
+				"type": "J"
+			},
+			"STAR-Schworg'n'Borg": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Schworg'n'Borg",
+				"spp": 2,
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1195822",
+	"team": {
+		"927862": {
+			"blocks": 44,
+			"cas": 4,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Beegrok Massif Mob",
+			"pass": 1,
+			"prespp": 79,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 29,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 176
+		},
+		"942694": {
+			"blocks": 35,
+			"cas": 2,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bright Order Bandits",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 2,
+			"prespp": 22,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 14,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 124
 		}
 	}
 }

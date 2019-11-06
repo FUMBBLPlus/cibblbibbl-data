@@ -1,20 +1,282 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4099734",
+	"player": {
 		"854257": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Grand Celestial Delegate",
-			"scorediff": 0,
-			"tddiff": 0
+			"11432424": {
+				"blocks": 4,
+				"name": "After the Lotus Flowers Have Opened",
+				"prespp": 186,
+				"turns": 11,
+				"type": "R"
+			},
+			"11565341": {
+				"name": "Sorrowfully An Ape Calls",
+				"prespp": 65,
+				"type": "R"
+			},
+			"11625098": {
+				"blocks": 3,
+				"name": "I Am Lucky",
+				"prespp": 64,
+				"retired": true,
+				"rush": 8,
+				"spp": 3,
+				"td": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"11959633": {
+				"name": "Gnaw the Books",
+				"prespp": 9,
+				"turns": 1,
+				"type": "R"
+			},
+			"12134740": {
+				"blocks": 2,
+				"fouls": 6,
+				"name": "Burn the Beanstalk",
+				"prespp": 6,
+				"turns": 15,
+				"type": "R"
+			},
+			"12248635": {
+				"blocks": 2,
+				"name": "Wild Herbs",
+				"prespp": 34,
+				"turns": 5,
+				"type": "R"
+			},
+			"12342991": {
+				"name": "Boundless Grass",
+				"prespp": 8,
+				"turns": 5,
+				"type": "R"
+			},
+			"12448596": {
+				"blocks": 3,
+				"name": "Moist Like Butter",
+				"prespp": 20,
+				"turns": 11,
+				"type": "R"
+			},
+			"12462496": {
+				"name": "White Feathers On The Water",
+				"prespp": 20,
+				"type": "R"
+			},
+			"12510953": {
+				"blocks": 2,
+				"name": "Temple Tree Path",
+				"prespp": 9,
+				"turns": 13,
+				"type": "R"
+			},
+			"12630692": {
+				"mvp": 1,
+				"name": "Still Snow at Dawn",
+				"pass": 1,
+				"prespp": 5,
+				"rush": 4,
+				"spp": 5,
+				"turns": 10,
+				"type": "R"
+			},
+			"12670897": {
+				"name": "Walk Amidst the Corn",
+				"prespp": 1,
+				"turns": 1,
+				"type": "R"
+			},
+			"12671034": {
+				"blocks": 4,
+				"name": "Tree Bark Beetle",
+				"prespp": 10,
+				"turns": 8,
+				"type": "R"
+			},
+			"12873671": {
+				"blocks": 3,
+				"name": "Stone Lotus",
+				"turns": 14,
+				"type": "B"
+			},
+			"STAR-Kuo Ching": {
+				"blocks": 4,
+				"name": "Kuo Ching",
+				"turns": 12,
+				"type": "S"
+			},
+			"STAR-Terracotta Warrior": {
+				"blocks": 4,
+				"name": "Terracotta Warrior",
+				"turns": 13,
+				"type": "S"
+			}
 		},
 		"876774": {
-			"cas": 0,
-			"casdiff": 0,
+			"11791176": {
+				"blocks": 10,
+				"cas": 3,
+				"fouls": 1,
+				"name": "Mather Teresa of Diesdolf",
+				"prespp": 99,
+				"spp": 6,
+				"turns": 17,
+				"type": "R"
+			},
+			"11791215": {
+				"blocks": 1,
+				"name": "Ludmilla \"The Redeemed\"",
+				"prespp": 37,
+				"turns": 17,
+				"type": "R"
+			},
+			"11791216": {
+				"blocks": 2,
+				"name": "Carol \"Divine Punishment\"",
+				"prespp": 75,
+				"turns": 10,
+				"type": "R"
+			},
+			"11791220": {
+				"blocks": 12,
+				"cas": 1,
+				"name": "Berta \"The Humble Daughter\"",
+				"prespp": 77,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"11791226": {
+				"fouls": 2,
+				"name": "Luisa \"The Martyr\"",
+				"prespp": 9,
+				"turns": 12,
+				"type": "R"
+			},
+			"11791229": {
+				"blocks": 1,
+				"name": "Johanna \"Silent Devotion\"",
+				"prespp": 28,
+				"turns": 17,
+				"type": "R"
+			},
+			"11898482": {
+				"dead": [
+					1,
+					3,
+					"fouled",
+					"12134740"
+				],
+				"name": "Caterina \"Righteous Judgement\"",
+				"prespp": 24,
+				"turns": 3,
+				"type": "R"
+			},
+			"11928024": {
+				"blocks": 1,
+				"name": "Rosetta \"Rose Thorn\"",
+				"prespp": 150,
+				"rush": 39,
+				"spp": 6,
+				"td": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"12131132": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Lucy \"Joyful Advent\"",
+				"prespp": 10,
+				"turns": 9,
+				"type": "R"
+			},
+			"12279329": {
+				"blocks": 1,
+				"name": "Matilda \"Repetita Iuvant\"",
+				"prespp": 61,
+				"turns": 12,
+				"type": "R"
+			},
+			"12512122": {
+				"name": "Jessica \"Due Obedience\"",
+				"type": "R"
+			},
+			"12542037": {
+				"blocks": 1,
+				"name": "Jennifer \"Reveled Word\"",
+				"turns": 4,
+				"type": "R"
+			},
+			"12592889": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Agatha \"Furious Preach\"",
+				"prespp": 18,
+				"spp": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"12598657": {
+				"blocks": 3,
+				"name": "Gertrud \"Warding Light\"",
+				"prespp": 5,
+				"retired": true,
+				"turns": 7,
+				"type": "R"
+			},
+			"12634057": {
+				"blocks": 1,
+				"name": "Deborah \"Divine Intervention\"",
+				"turns": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1195805",
+	"team": {
+		"854257": {
+			"blocks": 31,
+			"cas": 2,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
+			"name": "Grand Celestial Delegate",
+			"pass": 1,
+			"prespp": 437,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 12,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 128
+		},
+		"876774": {
+			"blocks": 38,
+			"cas": 6,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Congregation of Holy Touchdown",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 593,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 39,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 164
 		}
 	}
 }

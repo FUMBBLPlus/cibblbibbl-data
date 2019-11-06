@@ -1,20 +1,240 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4099731",
+	"player": {
 		"873945": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Warhird Huscarls",
-			"scorediff": 0,
-			"tddiff": 0
+			"11747836": {
+				"blocks": 10,
+				"cas": 3,
+				"mvp": 1,
+				"name": "Bersi Thometillsson",
+				"prespp": 7,
+				"spp": 11,
+				"turns": 16,
+				"type": "R"
+			},
+			"11747837": {
+				"blocks": 11,
+				"name": "Firthgest Thiodolfsson",
+				"prespp": 30,
+				"rush": 6,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"11747839": {
+				"blocks": 3,
+				"name": "Kol Styrsson",
+				"prespp": 43,
+				"rush": 15,
+				"turns": 16,
+				"type": "R"
+			},
+			"11747841": {
+				"blocks": 5,
+				"name": "Hall Solvisson",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"11767823": {
+				"name": "Martin Truestream",
+				"prespp": 2,
+				"type": "R"
+			},
+			"11792772": {
+				"blocks": 2,
+				"name": "Horolf Hengerson",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"11850057": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Iri Iricsson",
+				"prespp": 12,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"11895166": {
+				"blocks": 11,
+				"name": "Ulric Whitelightning",
+				"prespp": 13,
+				"turns": 12,
+				"type": "R"
+			},
+			"11895168": {
+				"blocks": 6,
+				"name": "David Vilerock",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"11938492": {
+				"blocks": 5,
+				"name": "Yorick Clearstone",
+				"turns": 16,
+				"type": "R"
+			},
+			"11941163": {
+				"blocks": 5,
+				"name": "Xavier Silentsnake",
+				"prespp": 9,
+				"turns": 14,
+				"type": "R"
+			},
+			"11968875": {
+				"blocks": 2,
+				"name": "Aaron Deephawk",
+				"turns": 8,
+				"type": "J"
+			}
 		},
 		"928542": {
+			"12611404": {
+				"blocks": 9,
+				"name": "Antonius Rex",
+				"prespp": 11,
+				"turns": 16,
+				"type": "R"
+			},
+			"12611406": {
+				"blocks": 11,
+				"mvp": 1,
+				"name": "Fernandocus",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12611410": {
+				"blocks": 8,
+				"name": "Renatops",
+				"prespp": 13,
+				"turns": 16,
+				"type": "R"
+			},
+			"12611426": {
+				"blocks": 2,
+				"name": "Cordofana",
+				"prespp": 22,
+				"rush": 13,
+				"turns": 12,
+				"type": "R"
+			},
+			"12611427": {
+				"name": "Humeralis",
+				"turns": 7,
+				"type": "R"
+			},
+			"12611429": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Ormativentris",
+				"turns": 14,
+				"type": "R"
+			},
+			"12611430": {
+				"blocks": 2,
+				"dead": [
+					2,
+					4,
+					"blocked",
+					"11747836"
+				],
+				"name": "Palestris",
+				"prespp": 10,
+				"turns": 12,
+				"type": "R"
+			},
+			"12611431": {
+				"blocks": 2,
+				"name": "Nigrotympanica",
+				"turns": 12,
+				"type": "R"
+			},
+			"12611433": {
+				"name": "Okinavana",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12611434": {
+				"blocks": 3,
+				"name": "Cascadae",
+				"turns": 8,
+				"type": "R"
+			},
+			"12678910": {
+				"name": "Ramonodon",
+				"prespp": 15,
+				"type": "R"
+			},
+			"12696301": {
+				"blocks": 1,
+				"name": "Ascaphidae",
+				"turns": 14,
+				"type": "R"
+			},
+			"12729097": {
+				"blocks": 7,
+				"name": "Calamita",
+				"turns": 16,
+				"type": "R"
+			},
+			"MERC-1195799-928542M1": {
+				"blocks": 7,
+				"name": "Merc Saurus Temple Guard 1",
+				"turns": 16,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1195799",
+	"team": {
+		"873945": {
+			"blocks": 64,
+			"cas": 4,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Warhird Huscarls",
+			"pass": 0,
+			"prespp": 138,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 21,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 162
+		},
+		"928542": {
+			"blocks": 53,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Krok-Ante Ancestors",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 75,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 13,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 159
 		}
 	}
 }

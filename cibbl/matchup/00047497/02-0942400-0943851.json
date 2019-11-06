@@ -1,20 +1,238 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4099616",
+	"player": {
 		"942400": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Krakeneye Eagles",
-			"scorediff": 0,
-			"tddiff": 0
+			"12838980": {
+				"name": "Goukkocrer Krakeneye",
+				"type": "R"
+			},
+			"12838981": {
+				"blocks": 8,
+				"name": "Raghokek Krakeneye",
+				"prespp": 3,
+				"turns": 15,
+				"type": "R"
+			},
+			"12838982": {
+				"blocks": 5,
+				"name": "Takkivun Deathstalker",
+				"prespp": 7,
+				"turns": 9,
+				"type": "R"
+			},
+			"12838983": {
+				"blocks": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Qelkous Stormbleeder",
+				"pass": 1,
+				"prespp": 6,
+				"rush": 12,
+				"spp": 10,
+				"td": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"12838984": {
+				"blocks": 2,
+				"comp": 2,
+				"name": "Righacet Voidshade",
+				"pass": 2,
+				"prespp": 4,
+				"rush": 11,
+				"spp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"12838985": {
+				"blocks": 3,
+				"name": "Dathak Rageblade",
+				"prespp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12838986": {
+				"blocks": 1,
+				"name": "Kuthuk Shadecrusher",
+				"prespp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12838987": {
+				"blocks": 2,
+				"name": "Vokhir Dawntaker",
+				"rush": 13,
+				"spp": 3,
+				"td": 1,
+				"turns": 12,
+				"type": "R"
+			},
+			"12838988": {
+				"blocks": 2,
+				"name": "Laven Stormreaper",
+				"turns": 11,
+				"type": "R"
+			},
+			"12838989": {
+				"blocks": 1,
+				"dead": [
+					2,
+					8,
+					"fouled",
+					"12861491"
+				],
+				"name": "Cilas Ambermaul",
+				"turns": 10,
+				"type": "R"
+			},
+			"12838990": {
+				"blocks": 3,
+				"name": "Tegnonic Warstriker",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12870294": {
+				"blocks": 4,
+				"name": "George Silentstream",
+				"pass": -1,
+				"retired": true,
+				"rush": 4,
+				"turns": 16,
+				"type": "J"
+			}
 		},
 		"943851": {
-			"cas": 0,
-			"casdiff": 0,
+			"12861486": {
+				"name": "Fickgut Winddagger",
+				"type": "R"
+			},
+			"12861487": {
+				"blocks": 12,
+				"name": "Shabbha Windcrimper",
+				"prespp": 2,
+				"rush": 10,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861488": {
+				"blocks": 1,
+				"name": "Hokfaer Swiftstabber",
+				"prespp": 6,
+				"rush": 21,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861489": {
+				"blocks": 4,
+				"name": "Slongrub Skulkrunna",
+				"turns": 16,
+				"type": "R"
+			},
+			"12861490": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "G'lug Filthfury",
+				"turns": 16,
+				"type": "R"
+			},
+			"12861491": {
+				"fouls": 3,
+				"name": "Fickomu Bonewhipper",
+				"turns": 14,
+				"type": "R"
+			},
+			"12861492": {
+				"fouls": 1,
+				"name": "Lershab Slavecreeper",
+				"type": "R"
+			},
+			"12861494": {
+				"fouls": 1,
+				"name": "Bhadak Yellowsnapper",
+				"turns": 3,
+				"type": "R"
+			},
+			"12861496": {
+				"name": "Batbug Boldbow",
+				"turns": 8,
+				"type": "R"
+			},
+			"12861499": {
+				"blocks": 5,
+				"name": "Falkhan Hatecracker",
+				"turns": 16,
+				"type": "R"
+			},
+			"12861503": {
+				"blocks": 7,
+				"mvp": 1,
+				"name": "Dorghiz Redspitta",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861508": {
+				"fouls": 2,
+				"name": "Ashzorig Swiftmurda",
+				"turns": 5,
+				"type": "R"
+			},
+			"STAR-Garbage Throttlesnot": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Garbage Throttlesnot",
+				"turns": 6,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1195676",
+	"team": {
+		"942400": {
+			"blocks": 38,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Krakeneye Eagles",
+			"pass": 2,
+			"prespp": 26,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 40,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 134
+		},
+		"943851": {
+			"blocks": 33,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 9,
+			"int": 0,
+			"mvp": 1,
 			"name": "Da Wulfs O' War",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 8,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 31,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 132
 		}
 	}
 }

@@ -1,20 +1,236 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4099906",
+	"player": {
 		"873945": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Warhird Huscarls",
-			"scorediff": 0,
-			"tddiff": 0
+			"11747836": {
+				"blocks": 2,
+				"name": "Bersi Thometillsson",
+				"prespp": 18,
+				"turns": 10,
+				"type": "R"
+			},
+			"11747837": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Firthgest Thiodolfsson",
+				"prespp": 33,
+				"spp": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"11747839": {
+				"blocks": 4,
+				"name": "Kol Styrsson",
+				"prespp": 43,
+				"rush": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"11747841": {
+				"blocks": 3,
+				"name": "Hall Solvisson",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"11767823": {
+				"mvp": 1,
+				"name": "Martin Truestream",
+				"prespp": 2,
+				"spp": 5,
+				"type": "R"
+			},
+			"11792772": {
+				"name": "Horolf Hengerson",
+				"prespp": 6,
+				"type": "R"
+			},
+			"11850057": {
+				"blocks": 8,
+				"name": "Iri Iricsson",
+				"prespp": 14,
+				"turns": 16,
+				"type": "R"
+			},
+			"11895166": {
+				"blocks": 2,
+				"name": "Ulric Whitelightning",
+				"prespp": 13,
+				"turns": 11,
+				"type": "R"
+			},
+			"11895168": {
+				"blocks": 3,
+				"name": "David Vilerock",
+				"prespp": 6,
+				"turns": 11,
+				"type": "R"
+			},
+			"11938492": {
+				"blocks": 3,
+				"name": "Yorick Clearstone",
+				"turns": 8,
+				"type": "R"
+			},
+			"11941163": {
+				"blocks": 5,
+				"name": "Xavier Silentsnake",
+				"prespp": 9,
+				"turns": 13,
+				"type": "R"
+			},
+			"11968875": {
+				"blocks": 7,
+				"name": "Aaron Deephawk",
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"942535": {
-			"cas": 0,
-			"casdiff": 0,
+			"12840992": {
+				"blocks": 5,
+				"name": "Father Grungi",
+				"turns": 16,
+				"type": "R"
+			},
+			"12840993": {
+				"blocks": 6,
+				"cas": 1,
+				"comp": 1,
+				"fouls": 1,
+				"name": "Tungil Quicksilverson",
+				"pass": -1,
+				"prespp": 3,
+				"spp": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12840996": {
+				"blocks": 11,
+				"name": "Borek Steamforce",
+				"turns": 16,
+				"type": "R"
+			},
+			"12840999": {
+				"blocks": 2,
+				"name": "Hammet Goldstriker",
+				"prespp": 1,
+				"turns": 12,
+				"type": "R"
+			},
+			"12841000": {
+				"blocks": 4,
+				"name": "Uri Steelwall",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841001": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Vardak Towerlord",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841005": {
+				"blocks": 4,
+				"fouls": 1,
+				"name": "Snorri Ironson",
+				"turns": 12,
+				"type": "R"
+			},
+			"12841006": {
+				"name": "Haggle Sourfist",
+				"type": "R"
+			},
+			"12841007": {
+				"blocks": 1,
+				"name": "Mordak Runemaster",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841008": {
+				"blocks": 6,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Nix Stonefist",
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841010": {
+				"blocks": 5,
+				"name": "Vilk Silverton",
+				"turns": 12,
+				"type": "R"
+			},
+			"12871289": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Ian Dirtytree",
+				"retired": true,
+				"turns": 8,
+				"type": "J"
+			},
+			"STAR-Drumgrimm Quickstride": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Drumgrimm Quickstride",
+				"rush": 26,
+				"spp": 5,
+				"td": 1,
+				"turns": 15,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1196009",
+	"team": {
+		"873945": {
+			"blocks": 40,
+			"cas": 1,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Warhird Huscarls",
+			"pass": 0,
+			"prespp": 154,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 18,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 130
+		},
+		"942535": {
+			"blocks": 53,
+			"cas": 5,
+			"casdiff": 4,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Star Metal Sentinels",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": -1,
+			"prespp": 15,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 26,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 171
 		}
 	}
 }
