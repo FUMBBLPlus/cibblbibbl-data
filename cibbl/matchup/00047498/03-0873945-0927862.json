@@ -1,20 +1,249 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4100008",
+	"player": {
 		"873945": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Warhird Huscarls",
-			"scorediff": 0,
-			"tddiff": 0
+			"11747836": {
+				"blocks": 8,
+				"name": "Bersi Thometillsson",
+				"prespp": 18,
+				"turns": 15,
+				"type": "R"
+			},
+			"11747837": {
+				"blocks": 6,
+				"cas": 3,
+				"name": "Firthgest Thiodolfsson",
+				"prespp": 35,
+				"spp": 6,
+				"turns": 12,
+				"type": "R"
+			},
+			"11747839": {
+				"blocks": 3,
+				"comp": 1,
+				"name": "Kol Styrsson",
+				"pass": 1,
+				"prespp": 43,
+				"rush": 5,
+				"spp": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"11747841": {
+				"blocks": 4,
+				"name": "Hall Solvisson",
+				"prespp": 10,
+				"turns": 15,
+				"type": "R"
+			},
+			"11767823": {
+				"name": "Martin Truestream",
+				"prespp": 7,
+				"turns": 1,
+				"type": "R"
+			},
+			"11792772": {
+				"blocks": 1,
+				"name": "Horolf Hengerson",
+				"prespp": 6,
+				"turns": 8,
+				"type": "R"
+			},
+			"11850057": {
+				"blocks": 7,
+				"name": "Iri Iricsson",
+				"prespp": 14,
+				"turns": 11,
+				"type": "R"
+			},
+			"11895166": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Ulric Whitelightning",
+				"prespp": 13,
+				"spp": 5,
+				"turns": 4,
+				"type": "R"
+			},
+			"11895168": {
+				"name": "David Vilerock",
+				"prespp": 6,
+				"type": "R"
+			},
+			"11938492": {
+				"blocks": 5,
+				"name": "Yorick Clearstone",
+				"turns": 15,
+				"type": "R"
+			},
+			"11941163": {
+				"name": "Xavier Silentsnake",
+				"prespp": 9,
+				"type": "R"
+			},
+			"11968875": {
+				"blocks": 4,
+				"name": "Aaron Deephawk",
+				"turns": 8,
+				"type": "R"
+			},
+			"12874778": {
+				"blocks": 1,
+				"name": "Ake Forebear",
+				"rush": 11,
+				"turns": 12,
+				"type": "R"
+			},
+			"12874779": {
+				"blocks": 1,
+				"name": "Erik Alva",
+				"turns": 8,
+				"type": "R"
+			}
 		},
 		"927862": {
-			"cas": 0,
+			"12598978": {
+				"blocks": 5,
+				"name": "Morgur Slogga",
+				"prespp": 30,
+				"rush": 6,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12598989": {
+				"blocks": 8,
+				"name": "Ugga da One-legged",
+				"prespp": 7,
+				"turns": 15,
+				"type": "R"
+			},
+			"12598997": {
+				"name": "Gadzooks Gormless",
+				"prespp": 17,
+				"turns": 2,
+				"type": "R"
+			},
+			"12599001": {
+				"blocks": 13,
+				"name": "Grindok Gizzbut",
+				"prespp": 18,
+				"turns": 15,
+				"type": "R"
+			},
+			"12599015": {
+				"blocks": 1,
+				"name": "Fuggbang",
+				"prespp": 9,
+				"rush": -2,
+				"turns": 5,
+				"type": "R"
+			},
+			"12599016": {
+				"fouls": 1,
+				"name": "Grotgrot",
+				"prespp": 3,
+				"turns": 1,
+				"type": "R"
+			},
+			"12599017": {
+				"name": "Weebungo",
+				"pass": 1,
+				"prespp": 5,
+				"rush": 5,
+				"turns": 8,
+				"type": "R"
+			},
+			"12615324": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Mistah Beegs",
+				"spp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"12691051": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Skabgutz Redeyez",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12715445": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Bukkit",
+				"turns": 8,
+				"type": "R"
+			},
+			"12729015": {
+				"name": "Naznob",
+				"turns": 2,
+				"type": "R"
+			},
+			"12873886": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Gorkbog the Throttler",
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12874125": {
+				"fouls": 1,
+				"name": "Unit",
+				"turns": 6,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1196120",
+	"team": {
+		"873945": {
+			"blocks": 43,
+			"cas": 3,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Warhird Huscarls",
+			"pass": 1,
+			"prespp": 161,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 16,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 122
+		},
+		"927862": {
+			"blocks": 47,
+			"cas": 3,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Beegrok Massif Mob",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 96,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 9,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 122
 		}
 	}
 }

@@ -1,20 +1,227 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4100157",
+	"player": {
 		"932192": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Oche's Scoundrels",
-			"scorediff": 0,
-			"tddiff": 0
+			"12675013": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Roga",
+				"turns": 8,
+				"type": "R"
+			},
+			"12675068": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Azuma",
+				"turns": 5,
+				"type": "R"
+			},
+			"12676049": {
+				"blocks": 7,
+				"name": "Gustus 'Naggaroth's Nightmare'",
+				"prespp": 4,
+				"turns": 18,
+				"type": "R"
+			},
+			"12676057": {
+				"blocks": 6,
+				"name": "Li Suwen, Son of Khorne",
+				"prespp": 6,
+				"turns": 18,
+				"type": "R"
+			},
+			"12676071": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Liu Kao, Son of Nurgle",
+				"spp": 2,
+				"turns": 18,
+				"type": "R"
+			},
+			"12676072": {
+				"blocks": 3,
+				"name": "Amp 'Spawnkiller'",
+				"prespp": 5,
+				"rush": 21,
+				"spp": 3,
+				"td": 1,
+				"turns": 18,
+				"type": "R"
+			},
+			"12676074": {
+				"blocks": 3,
+				"name": "Rivo 'Firebringer'",
+				"turns": 18,
+				"type": "R"
+			},
+			"12676082": {
+				"blocks": 3,
+				"name": "Atohl 'No Hostages'",
+				"turns": 18,
+				"type": "R"
+			},
+			"12676087": {
+				"blocks": 8,
+				"name": "Khesu 'Two-Dealer'",
+				"prespp": 6,
+				"rush": 14,
+				"turns": 18,
+				"type": "R"
+			},
+			"12676742": {
+				"blocks": 7,
+				"mvp": 1,
+				"name": "Oche `The Tong King'",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12874823": {
+				"fouls": 1,
+				"name": "Robert Deeporc",
+				"type": "J"
+			},
+			"MERC-1196278-932192M1": {
+				"fouls": 5,
+				"name": "Merc Lineman 1",
+				"turns": 18,
+				"type": "M"
+			}
 		},
 		"942400": {
-			"cas": 0,
+			"12838980": {
+				"blocks": 1,
+				"name": "Goukkocrer Krakeneye",
+				"turns": 6,
+				"type": "R"
+			},
+			"12838981": {
+				"blocks": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Raghokek Krakeneye",
+				"prespp": 3,
+				"spp": 7,
+				"turns": 18,
+				"type": "R"
+			},
+			"12838982": {
+				"blocks": 3,
+				"name": "Takkivun Deathstalker",
+				"prespp": 7,
+				"rush": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"12838983": {
+				"blocks": 8,
+				"name": "Qelkous Stormbleeder",
+				"prespp": 16,
+				"rush": 9,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12838984": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Righacet Voidshade",
+				"pass": 6,
+				"prespp": 6,
+				"rush": 10,
+				"spp": 1,
+				"turns": 18,
+				"type": "R"
+			},
+			"12838985": {
+				"blocks": 2,
+				"name": "Dathak Rageblade",
+				"prespp": 2,
+				"turns": 7,
+				"type": "R"
+			},
+			"12838986": {
+				"blocks": 1,
+				"name": "Kuthuk Shadecrusher",
+				"prespp": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"12838987": {
+				"blocks": 1,
+				"name": "Vokhir Dawntaker",
+				"prespp": 3,
+				"turns": 13,
+				"type": "R"
+			},
+			"12838988": {
+				"blocks": 2,
+				"name": "Laven Stormreaper",
+				"turns": 14,
+				"type": "R"
+			},
+			"12838990": {
+				"blocks": 2,
+				"name": "Tegnonic Warstriker",
+				"prespp": 2,
+				"rush": 7,
+				"spp": 3,
+				"td": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12873213": {
+				"name": "Kevin Deepspike",
+				"turns": 18,
+				"type": "J"
+			}
+		}
+	},
+	"replayId": "1196278",
+	"team": {
+		"932192": {
+			"blocks": 45,
+			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
+			"name": "Oche's Scoundrels",
+			"pass": 0,
+			"prespp": 21,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 35,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 173
+		},
+		"942400": {
+			"blocks": 26,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Krakeneye Eagles",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 6,
+			"prespp": 41,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 27,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 143
 		}
 	}
 }
