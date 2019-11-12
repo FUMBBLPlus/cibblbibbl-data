@@ -1,20 +1,226 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4100536",
+	"player": {
 		"944092": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Moraveny Untamed",
-			"scorediff": 0,
-			"tddiff": 0
+			"12865165": {
+				"blocks": 8,
+				"name": "Corobstock the Carnal",
+				"prespp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12865166": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Moritenko the Mauler",
+				"prespp": 4,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12865167": {
+				"blocks": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Vassily Frostpaw",
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12865168": {
+				"blocks": 6,
+				"name": "Gregori Mottlepelt",
+				"turns": 14,
+				"type": "R"
+			},
+			"12865169": {
+				"blocks": 1,
+				"name": "Sofora",
+				"turns": 11,
+				"type": "R"
+			},
+			"12865170": {
+				"name": "Borishna",
+				"prespp": 1,
+				"type": "R"
+			},
+			"12865171": {
+				"name": "Dolovo",
+				"turns": 16,
+				"type": "R"
+			},
+			"12865172": {
+				"comp": 1,
+				"name": "Riski",
+				"pass": 9,
+				"prespp": 8,
+				"rush": 20,
+				"spp": 1,
+				"turns": 12,
+				"type": "R"
+			},
+			"12865173": {
+				"name": "Trosta",
+				"prespp": 3,
+				"turns": 1,
+				"type": "R"
+			},
+			"12865174": {
+				"blocks": 2,
+				"name": "Neschastiv",
+				"rush": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12865177": {
+				"blocks": 2,
+				"name": "Eytrenko",
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12877948": {
+				"blocks": 2,
+				"name": "Jack Hoteagle",
+				"retired": true,
+				"turns": 14,
+				"type": "J"
+			}
 		},
 		"944216": {
-			"cas": 0,
-			"casdiff": 0,
+			"12867103": {
+				"blocks": 3,
+				"name": "Cualli the Great Shield",
+				"turns": 16,
+				"type": "B"
+			},
+			"12867104": {
+				"blocks": 6,
+				"name": "Nahuatl the Masterful One",
+				"turns": 16,
+				"type": "R"
+			},
+			"12867105": {
+				"name": "Meztli the Guardian",
+				"turns": 4,
+				"type": "R"
+			},
+			"12867106": {
+				"blocks": 5,
+				"name": "Ohtli the Warrior",
+				"turns": 12,
+				"type": "R"
+			},
+			"12867107": {
+				"blocks": 1,
+				"dead": [
+					1,
+					7,
+					"blocked",
+					"12865167"
+				],
+				"name": "Tenoch the Furious",
+				"prespp": 5,
+				"turns": 6,
+				"type": "R"
+			},
+			"12867108": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Ichtaca the Righteous",
+				"spp": 5,
+				"turns": 5,
+				"type": "R"
+			},
+			"12867109": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Ihuicatl the Tenacious",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12867110": {
+				"blocks": 3,
+				"name": "Atl the Gregarious",
+				"rush": 20,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12867111": {
+				"blocks": 1,
+				"name": "Izel the Loquacious",
+				"turns": 16,
+				"type": "R"
+			},
+			"12867112": {
+				"blocks": 3,
+				"name": "Xiuhcoatl the Shaper",
+				"prespp": 3,
+				"rush": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12867113": {
+				"name": "Yaretzi the Farsighted",
+				"pass": 1,
+				"prespp": 3,
+				"rush": 22,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1196691",
+	"team": {
+		"944092": {
+			"blocks": 33,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Moraveny Untamed",
+			"pass": 9,
+			"prespp": 18,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 27,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 148
+		},
+		"944216": {
+			"blocks": 32,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Quetza Coatlācah",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 13,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 50,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 138
 		}
 	}
 }

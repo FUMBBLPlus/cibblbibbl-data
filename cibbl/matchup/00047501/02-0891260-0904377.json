@@ -1,20 +1,262 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4101002",
+	"player": {
 		"891260": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Library of Indra",
-			"scorediff": 0,
-			"tddiff": 0
+			"12023007": {
+				"blocks": 7,
+				"name": "Surya",
+				"prespp": 47,
+				"turns": 14,
+				"type": "R"
+			},
+			"12023010": {
+				"blocks": 1,
+				"name": "Svay",
+				"prespp": 61,
+				"turns": 1,
+				"type": "R"
+			},
+			"12023012": {
+				"blocks": 6,
+				"name": "Harsha",
+				"prespp": 40,
+				"turns": 12,
+				"type": "R"
+			},
+			"12023015": {
+				"fouls": 1,
+				"name": "Nokor",
+				"prespp": 10,
+				"turns": 4,
+				"type": "R"
+			},
+			"12452874": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Gankong",
+				"prespp": 23,
+				"spp": 2,
+				"turns": 10,
+				"type": "B"
+			},
+			"12518264": {
+				"blocks": 2,
+				"name": "Kylabee",
+				"pass": 1,
+				"prespp": 17,
+				"rush": 6,
+				"turns": 15,
+				"type": "R"
+			},
+			"12533833": {
+				"name": "Kalag",
+				"prespp": 1,
+				"turns": 1,
+				"type": "R"
+			},
+			"12543878": {
+				"blocks": 2,
+				"name": "Wallah",
+				"prespp": 5,
+				"turns": 9,
+				"type": "R"
+			},
+			"12551373": {
+				"blocks": 4,
+				"name": "Aasdaa",
+				"prespp": 28,
+				"rush": 7,
+				"turns": 12,
+				"type": "R"
+			},
+			"12630865": {
+				"blocks": 6,
+				"name": "Komop",
+				"prespp": 10,
+				"turns": 12,
+				"type": "R"
+			},
+			"12700412": {
+				"blocks": 1,
+				"name": "Ongsan",
+				"prespp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12726425": {
+				"mvp": 1,
+				"name": "Ingra",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 3,
+				"type": "R"
+			},
+			"12726426": {
+				"blocks": 8,
+				"name": "Hwrong",
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"904377": {
-			"cas": 0,
-			"casdiff": 0,
+			"12231317": {
+				"blocks": 7,
+				"name": "Ruby, Fury of the Ancients",
+				"prespp": 53,
+				"turns": 16,
+				"type": "R"
+			},
+			"12231319": {
+				"blocks": 5,
+				"name": "Sapphire, the Everflowing",
+				"prespp": 56,
+				"rush": 18,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12231325": {
+				"blocks": 9,
+				"cas": 2,
+				"name": "Emerald, Keeper of Gaia",
+				"prespp": 58,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12231332": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Topaz, Ray of Sun",
+				"prespp": 30,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12231335": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "Diamond, Light of Steadiness",
+				"prespp": 50,
+				"spp": 5,
+				"turns": 16,
+				"type": "B"
+			},
+			"12231336": {
+				"blocks": 1,
+				"name": "Aquamarine, Gleaming Spring",
+				"prespp": 34,
+				"turns": 9,
+				"type": "R"
+			},
+			"12343156": {
+				"blocks": 5,
+				"name": "Alexandrite, Second of Janus",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12405289": {
+				"blocks": 5,
+				"name": "Obsidian, Second Fireflow",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"12458077": {
+				"name": "Spinel, Second Chasm of Light",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12489390": {
+				"dead": [
+					2,
+					5,
+					"blocked",
+					"12452874"
+				],
+				"name": "Carnelian, the Bloodstone",
+				"turns": 4,
+				"type": "R"
+			},
+			"12504202": {
+				"fouls": 1,
+				"name": "Quartz, Ice Dome",
+				"turns": 8,
+				"type": "R"
+			},
+			"12546080": {
+				"name": "Jasper, Will of the Mountain",
+				"type": "R"
+			},
+			"12553526": {
+				"blocks": 1,
+				"name": "Pearl, Fourth Seal of Perseverance",
+				"prespp": 9,
+				"turns": 16,
+				"type": "B"
+			},
+			"12666868": {
+				"name": "Amethyst, Dream of Kjarten Fovor",
+				"type": "R"
+			},
+			"12710905": {
+				"fouls": 5,
+				"name": "Tourmaline, Bisection of Radiance",
+				"turns": 16,
+				"type": "R"
+			},
+			"12875946": {
+				"name": "Turquoise, Ephemeral Vision of Gitgit",
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1197240",
+	"team": {
+		"891260": {
+			"blocks": 42,
+			"cas": 2,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Library of Indra",
+			"pass": 1,
+			"prespp": 248,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 13,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 125
+		},
+		"904377": {
+			"blocks": 47,
+			"cas": 4,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Aurons",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 335,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 18,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 165
 		}
 	}
 }
