@@ -1,20 +1,237 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4104359",
+	"player": {
 		"925779": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Divine Sun",
-			"scorediff": 0,
-			"tddiff": 0
+			"12566452": {
+				"blocks": 5,
+				"name": "Shulindi Calam",
+				"turns": 11,
+				"type": "R"
+			},
+			"12566453": {
+				"blocks": 8,
+				"dead": [
+					2,
+					5,
+					"blocked",
+					"12608036"
+				],
+				"fouls": 1,
+				"name": "Rekana Tolomo",
+				"prespp": 12,
+				"turns": 13,
+				"type": "R"
+			},
+			"12566454": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Asanti Mahaa",
+				"prespp": 20,
+				"spp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"12566455": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Rulinkie Gishama",
+				"prespp": 10,
+				"spp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"12566456": {
+				"fouls": 1,
+				"name": "Stilonio Hashama",
+				"turns": 9,
+				"type": "R"
+			},
+			"12566457": {
+				"name": "Xsa Tu",
+				"prespp": 16,
+				"turns": 6,
+				"type": "R"
+			},
+			"12566460": {
+				"fouls": 1,
+				"name": "Chi Chi",
+				"type": "R"
+			},
+			"12566462": {
+				"blocks": 2,
+				"fouls": 2,
+				"name": "Slitchi Papapa",
+				"prespp": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"12566463": {
+				"mvp": 1,
+				"name": "Wang Diloho",
+				"prespp": 2,
+				"retired": true,
+				"spp": 5,
+				"type": "R"
+			},
+			"12621230": {
+				"blocks": 1,
+				"name": "Si Satsu",
+				"retired": true,
+				"rush": 11,
+				"turns": 6,
+				"type": "R"
+			},
+			"12686039": {
+				"fouls": 1,
+				"name": "Xi Tsu",
+				"prespp": 16,
+				"turns": 5,
+				"type": "R"
+			},
+			"12686040": {
+				"blocks": 1,
+				"name": "Tong Pla",
+				"turns": 12,
+				"type": "R"
+			}
 		},
 		"928360": {
-			"cas": 0,
+			"12607999": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Grendel",
+				"prespp": 21,
+				"spp": 2,
+				"turns": 17,
+				"type": "B"
+			},
+			"12608002": {
+				"blocks": 8,
+				"name": "Baldur",
+				"prespp": 16,
+				"turns": 17,
+				"type": "R"
+			},
+			"12608004": {
+				"blocks": 4,
+				"name": "Surtr",
+				"prespp": 25,
+				"turns": 17,
+				"type": "R"
+			},
+			"12608011": {
+				"blocks": 1,
+				"name": "Heidrek",
+				"prespp": 5,
+				"turns": 9,
+				"type": "R"
+			},
+			"12608023": {
+				"name": "Vali",
+				"prespp": 8,
+				"turns": 1,
+				"type": "R"
+			},
+			"12608031": {
+				"blocks": 1,
+				"name": "Narfi",
+				"prespp": 10,
+				"turns": 11,
+				"type": "R"
+			},
+			"12608034": {
+				"blocks": 2,
+				"name": "Mokkurkalfi",
+				"prespp": 10,
+				"turns": 9,
+				"type": "R"
+			},
+			"12608036": {
+				"blocks": 5,
+				"cas": 2,
+				"fouls": 2,
+				"mvp": 1,
+				"name": "Halogi",
+				"spp": 9,
+				"turns": 17,
+				"type": "R"
+			},
+			"12624317": {
+				"blocks": 2,
+				"name": "Ullr",
+				"prespp": 21,
+				"rush": 34,
+				"spp": 9,
+				"td": 3,
+				"turns": 17,
+				"type": "R"
+			},
+			"12627616": {
+				"blocks": 3,
+				"name": "Hati",
+				"prespp": 7,
+				"turns": 17,
+				"type": "R"
+			},
+			"12683077": {
+				"blocks": 2,
+				"name": "Skoll Jr",
+				"prespp": 4,
+				"turns": 4,
+				"type": "R"
+			},
+			"12692043": {
+				"blocks": 5,
+				"name": "Baugi Jr",
+				"turns": 15,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1201017",
+	"team": {
+		"925779": {
+			"blocks": 32,
+			"cas": 3,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
+			"name": "Divine Sun",
+			"pass": 0,
+			"prespp": 78,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 11,
+			"score": 0,
+			"scorediff": -3,
+			"td": 0,
+			"tddiff": -3,
+			"turns": 97
+		},
+		"928360": {
+			"blocks": 38,
+			"cas": 3,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gorequeen's Raiders",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 127,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 34,
+			"score": 3,
+			"scorediff": 3,
+			"td": 3,
+			"tddiff": 3,
+			"turns": 151
 		}
 	}
 }

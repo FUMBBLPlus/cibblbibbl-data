@@ -1,20 +1,212 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4102177",
+	"player": {
 		"944173": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Cuexotl Jungle Daggers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12866375": {
+				"blocks": 3,
+				"name": "Tlaloci",
+				"turns": 15,
+				"type": "R"
+			},
+			"12866376": {
+				"blocks": 1,
+				"comp": 1,
+				"mvp": 1,
+				"name": "Chalchi",
+				"pass": 1,
+				"prespp": 1,
+				"rush": 14,
+				"spp": 6,
+				"turns": 15,
+				"type": "R"
+			},
+			"12866377": {
+				"name": "Tezcatli",
+				"turns": 13,
+				"type": "R"
+			},
+			"12866378": {
+				"name": "Xipi",
+				"turns": 15,
+				"type": "R"
+			},
+			"12866379": {
+				"blocks": 1,
+				"dead": [
+					2,
+					1,
+					"blocked",
+					"12867105"
+				],
+				"name": "Pillani",
+				"turns": 7,
+				"type": "R"
+			},
+			"12866380": {
+				"name": "Epunamuni",
+				"turns": 3,
+				"type": "R"
+			},
+			"12866381": {
+				"name": "Anchi",
+				"turns": 15,
+				"type": "R"
+			},
+			"12866382": {
+				"name": "Ochosi",
+				"turns": 15,
+				"type": "R"
+			},
+			"12866383": {
+				"name": "Oguni",
+				"rush": 11,
+				"spp": 3,
+				"td": 1,
+				"turns": 12,
+				"type": "R"
+			},
+			"12866384": {
+				"blocks": 6,
+				"name": "Darbi",
+				"prespp": 4,
+				"turns": 15,
+				"type": "R"
+			},
+			"12866385": {
+				"blocks": 6,
+				"name": "Peet",
+				"prespp": 16,
+				"turns": 11,
+				"type": "R"
+			}
 		},
 		"944216": {
+			"12867103": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Cualli the Great Shield",
+				"spp": 2,
+				"turns": 11,
+				"type": "B"
+			},
+			"12867104": {
+				"blocks": 6,
+				"name": "Nahuatl the Masterful One",
+				"turns": 15,
+				"type": "R"
+			},
+			"12867105": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Meztli the Guardian",
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12867106": {
+				"blocks": 5,
+				"name": "Ohtli the Warrior",
+				"turns": 15,
+				"type": "R"
+			},
+			"12867108": {
+				"blocks": 10,
+				"mvp": 1,
+				"name": "Ichtaca the Righteous",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"12867109": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Ihuicatl the Tenacious",
+				"prespp": 4,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12867110": {
+				"name": "Atl the Gregarious",
+				"prespp": 3,
+				"turns": 15,
+				"type": "R"
+			},
+			"12867111": {
+				"blocks": 1,
+				"name": "Izel the Loquacious",
+				"rush": 38,
+				"spp": 6,
+				"td": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12867112": {
+				"name": "Xiuhcoatl the Shaper",
+				"prespp": 3,
+				"turns": 15,
+				"type": "R"
+			},
+			"12867113": {
+				"blocks": 1,
+				"name": "Yaretzi the Farsighted",
+				"prespp": 6,
+				"turns": 15,
+				"type": "R"
+			},
+			"12879025": {
+				"blocks": 5,
+				"name": "Camaxtli the Untamed",
+				"turns": 15,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1198546",
+	"team": {
+		"944173": {
+			"blocks": 17,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Cuexotl Jungle Daggers",
+			"pass": 1,
+			"prespp": 21,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 25,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 136
+		},
+		"944216": {
+			"blocks": 40,
+			"cas": 3,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Quetza Coatlācah",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 21,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 38,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 161
 		}
 	}
 }

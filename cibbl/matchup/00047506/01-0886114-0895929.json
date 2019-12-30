@@ -1,20 +1,245 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4102207",
+	"player": {
 		"886114": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Eye and Arrow",
-			"scorediff": 0,
-			"tddiff": 0
+			"11939696": {
+				"blocks": 9,
+				"name": "Erato",
+				"prespp": 76,
+				"turns": 14,
+				"type": "R"
+			},
+			"11939705": {
+				"blocks": 3,
+				"comp": 1,
+				"name": "Lydia",
+				"pass": 6,
+				"prespp": 101,
+				"rush": 26,
+				"spp": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"11939715": {
+				"blocks": 8,
+				"comp": 1,
+				"name": "Aadhýa",
+				"pass": 1,
+				"prespp": 70,
+				"rush": 1,
+				"spp": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"11956884": {
+				"blocks": 3,
+				"name": "Elpida",
+				"prespp": 79,
+				"turns": 7,
+				"type": "R"
+			},
+			"12340801": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Ian Bluesnake",
+				"prespp": 56,
+				"spp": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"12441430": {
+				"blocks": 3,
+				"name": "Kalipso",
+				"prespp": 43,
+				"turns": 17,
+				"type": "R"
+			},
+			"12510464": {
+				"blocks": 3,
+				"name": "Alariella",
+				"prespp": 31,
+				"turns": 13,
+				"type": "R"
+			},
+			"12667721": {
+				"blocks": 5,
+				"name": "Nyx",
+				"prespp": 6,
+				"turns": 17,
+				"type": "R"
+			},
+			"12692981": {
+				"name": "Enyo",
+				"prespp": 16,
+				"type": "R"
+			},
+			"12703294": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Hera",
+				"prespp": 6,
+				"turns": 17,
+				"type": "R"
+			},
+			"12716505": {
+				"mvp": 1,
+				"name": "Tychi",
+				"spp": 8,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			}
 		},
 		"895929": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Fangsnapper's Clawpack",
+			"12098257": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Clawchest",
+				"prespp": 96,
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12098258": {
+				"blocks": 2,
+				"name": "Silverscar",
+				"prespp": 56,
+				"rush": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12098263": {
+				"blocks": 7,
+				"name": "Silverstriker",
+				"prespp": 41,
+				"turns": 16,
+				"type": "R"
+			},
+			"12098297": {
+				"blocks": 2,
+				"name": "Duskdigger",
+				"prespp": 111,
+				"rush": 17,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12136367": {
+				"blocks": 5,
+				"name": "Fangsnapper Jr",
+				"prespp": 63,
+				"turns": 16,
+				"type": "R"
+			},
+			"12166472": {
+				"blocks": 2,
+				"name": "Fangsnapper Jr Jr",
+				"prespp": 51,
+				"turns": 16,
+				"type": "R"
+			},
+			"12345051": {
+				"fouls": 1,
+				"name": "Crowripper",
+				"prespp": 9,
+				"turns": 1,
+				"type": "R"
+			},
+			"12345108": {
+				"blocks": 13,
+				"mvp": 1,
+				"name": "Windfury Jr",
+				"prespp": 34,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12496226": {
+				"name": "Crowchest",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12496241": {
+				"blocks": 1,
+				"name": "Blackgaze",
+				"turns": 8,
+				"type": "R"
+			},
+			"12576908": {
+				"blocks": 2,
+				"name": "Fieryblight",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12724592": {
+				"blocks": 3,
+				"name": "Steelsnout",
+				"turns": 16,
+				"type": "R"
+			},
+			"12884769": {
+				"name": "Grimscar",
+				"turns": 1,
+				"type": "R"
+			},
+			"12884770": {
+				"name": "Flintstriker",
+				"turns": 8,
+				"type": "R"
+			},
+			"12884771": {
+				"name": "Feathershrieker",
+				"turns": 1,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1198573",
+	"team": {
+		"886114": {
+			"blocks": 45,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Eye and Arrow",
+			"pass": 7,
+			"prespp": 484,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 27,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 140
+		},
+		"895929": {
+			"blocks": 39,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Fangsnapper's Clawpack",
+			"pass": 0,
+			"prespp": 486,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 27,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 157
 		}
 	}
 }

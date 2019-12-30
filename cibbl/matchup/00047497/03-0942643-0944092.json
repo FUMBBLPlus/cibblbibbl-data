@@ -1,20 +1,236 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4101648",
+	"player": {
 		"942643": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Rōnin Reborn",
-			"scorediff": 0,
-			"tddiff": 0
+			"12842984": {
+				"blocks": 12,
+				"cas": 1,
+				"name": "Hattori Oni no Hanzo",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12842985": {
+				"blocks": 5,
+				"name": "Hakuho Sho Yokozunas",
+				"turns": 13,
+				"type": "R"
+			},
+			"12842987": {
+				"blocks": 5,
+				"name": "Futabayama Sadaji Yokozunas",
+				"turns": 12,
+				"type": "R"
+			},
+			"12842988": {
+				"blocks": 3,
+				"name": "Date Masamune",
+				"prespp": 8,
+				"turns": 9,
+				"type": "R"
+			},
+			"12842990": {
+				"blocks": 2,
+				"name": "Minamoto no Yoshitsune",
+				"prespp": 7,
+				"turns": 2,
+				"type": "R"
+			},
+			"12842991": {
+				"name": "Dom Justo Takayama",
+				"prespp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12842992": {
+				"blocks": 3,
+				"name": "Takeda Nobushige",
+				"turns": 16,
+				"type": "R"
+			},
+			"12842993": {
+				"blocks": 3,
+				"name": "Mori Ranmaru",
+				"turns": 8,
+				"type": "R"
+			},
+			"12842998": {
+				"blocks": 1,
+				"dead": [
+					2,
+					1,
+					"blocked",
+					"12865168"
+				],
+				"name": "Goto Mototsugu",
+				"turns": 8,
+				"type": "R"
+			},
+			"12843000": {
+				"blocks": 2,
+				"name": "Sanda Yakimura",
+				"prespp": 4,
+				"rush": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843001": {
+				"blocks": 2,
+				"name": "Keiji Maeda",
+				"prespp": 5,
+				"turns": 11,
+				"type": "R"
+			},
+			"12870358": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Toyotomi Hideyoshi",
+				"rush": 9,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"944092": {
-			"cas": 0,
-			"casdiff": 0,
+			"12865165": {
+				"blocks": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Corobstock the Carnal",
+				"prespp": 2,
+				"spp": 7,
+				"turns": 16,
+				"type": "B"
+			},
+			"12865166": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Moritenko the Mauler",
+				"prespp": 6,
+				"spp": 2,
+				"turns": 15,
+				"type": "B"
+			},
+			"12865167": {
+				"blocks": 3,
+				"name": "Vassily Frostpaw",
+				"prespp": 7,
+				"rush": 11,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12865168": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Gregori Mottlepelt",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12865169": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Sofora",
+				"pass": 6,
+				"rush": 5,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12865170": {
+				"blocks": 2,
+				"name": "Borishna",
+				"prespp": 1,
+				"rush": 3,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12865171": {
+				"blocks": 3,
+				"name": "Dolovo",
+				"turns": 11,
+				"type": "R"
+			},
+			"12865172": {
+				"name": "Riski",
+				"prespp": 9,
+				"rush": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12865173": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Trosta",
+				"prespp": 3,
+				"turns": 7,
+				"type": "R"
+			},
+			"12865174": {
+				"blocks": 1,
+				"name": "Neschastiv",
+				"turns": 11,
+				"type": "R"
+			},
+			"12865177": {
+				"blocks": 1,
+				"name": "Eytrenko",
+				"prespp": 3,
+				"turns": 14,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1197956",
+	"team": {
+		"942643": {
+			"blocks": 42,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Rōnin Reborn",
+			"pass": 0,
+			"prespp": 32,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 27,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 143
+		},
+		"944092": {
+			"blocks": 32,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Moraveny Untamed",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 6,
+			"prespp": 31,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 23,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 154
 		}
 	}
 }

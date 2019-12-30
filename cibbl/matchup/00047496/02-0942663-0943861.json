@@ -1,20 +1,221 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4101679",
+	"player": {
 		"942663": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Chargers of Diviciacus",
-			"scorediff": 0,
-			"tddiff": 0
+			"12843076": {
+				"blocks": 7,
+				"name": "Chiron",
+				"turns": 17,
+				"type": "B"
+			},
+			"12843077": {
+				"blocks": 8,
+				"int": 1,
+				"mvp": 1,
+				"name": "Glenstorm",
+				"spp": 7,
+				"turns": 17,
+				"type": "B"
+			},
+			"12843078": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Oreius",
+				"spp": 2,
+				"turns": 17,
+				"type": "B"
+			},
+			"12843080": {
+				"blocks": 7,
+				"name": "Cloudbirth",
+				"turns": 11,
+				"type": "B"
+			},
+			"12843082": {
+				"blocks": 1,
+				"name": "Carystus",
+				"turns": 17,
+				"type": "R"
+			},
+			"12843083": {
+				"blocks": 1,
+				"name": "Roonwit",
+				"rush": 8,
+				"turns": 9,
+				"type": "R"
+			},
+			"12843084": {
+				"blocks": 1,
+				"name": "Ronan",
+				"turns": 15,
+				"type": "R"
+			},
+			"12843086": {
+				"blocks": 6,
+				"name": "Magorian",
+				"rush": 14,
+				"turns": 17,
+				"type": "R"
+			},
+			"12843087": {
+				"name": "Firenze",
+				"type": "R"
+			},
+			"12843088": {
+				"blocks": 1,
+				"name": "Torvus",
+				"prespp": 5,
+				"turns": 5,
+				"type": "R"
+			},
+			"12843092": {
+				"blocks": 2,
+				"name": "Bane",
+				"rush": 4,
+				"turns": 17,
+				"type": "R"
+			},
+			"12877208": {
+				"blocks": 2,
+				"name": "Leroy Dirtyspike",
+				"retired": true,
+				"turns": 17,
+				"type": "J"
+			}
 		},
 		"943861": {
-			"cas": 0,
+			"12861591": {
+				"blocks": 7,
+				"name": "Anakonda",
+				"prespp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12861593": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Ja'guar",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861595": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Pirana",
+				"prespp": 8,
+				"rush": 9,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861597": {
+				"name": "Posion Dart",
+				"type": "R"
+			},
+			"12861613": {
+				"blocks": 1,
+				"name": "Harpy Eagle",
+				"prespp": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861615": {
+				"fouls": 1,
+				"name": "Tamarin",
+				"type": "R"
+			},
+			"12861616": {
+				"name": "Boa",
+				"turns": 8,
+				"type": "R"
+			},
+			"12861618": {
+				"dead": [
+					1,
+					4,
+					"blocked",
+					"12843078"
+				],
+				"name": "Sentipede",
+				"turns": 4,
+				"type": "R"
+			},
+			"12861620": {
+				"blocks": 4,
+				"name": "Spida",
+				"turns": 16,
+				"type": "R"
+			},
+			"12861621": {
+				"blocks": 1,
+				"name": "Sharc",
+				"turns": 16,
+				"type": "R"
+			},
+			"12861624": {
+				"blocks": 2,
+				"name": "Dolfiin",
+				"pass": -1,
+				"rush": 18,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12861627": {
+				"fouls": 1,
+				"name": "Eél",
+				"turns": 1,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1197996",
+	"team": {
+		"942663": {
+			"blocks": 45,
+			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 1,
+			"mvp": 1,
+			"name": "Chargers of Diviciacus",
+			"pass": 0,
+			"prespp": 5,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 26,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 159
+		},
+		"943861": {
+			"blocks": 28,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Morr'tebio Lilies",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": -1,
+			"prespp": 15,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 27,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 123
 		}
 	}
 }

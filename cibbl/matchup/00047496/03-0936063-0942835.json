@@ -1,20 +1,217 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4102142",
+	"player": {
 		"936063": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Longbeard Grudgebearers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12738741": {
+				"blocks": 1,
+				"name": "Sunforth Slateborn",
+				"turns": 4,
+				"type": "R"
+			},
+			"12738742": {
+				"blocks": 7,
+				"name": "Imtrek Soulreaper",
+				"prespp": 7,
+				"turns": 15,
+				"type": "R"
+			},
+			"12738743": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Dagna Battlehammer",
+				"prespp": 8,
+				"rush": 10,
+				"spp": 5,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12738744": {
+				"blocks": 1,
+				"name": "Sevatar Of Mithril Hall",
+				"prespp": 5,
+				"turns": 6,
+				"type": "R"
+			},
+			"12738745": {
+				"mvp": 1,
+				"name": "Garro Rockbiter",
+				"prespp": 11,
+				"rush": 14,
+				"spp": 5,
+				"turns": 7,
+				"type": "R"
+			},
+			"12738746": {
+				"blocks": 4,
+				"name": "Flint Fireforge",
+				"turns": 15,
+				"type": "R"
+			},
+			"12738747": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Tasslhoff Burrfoot",
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12738748": {
+				"blocks": 5,
+				"dead": [
+					2,
+					7,
+					"blocked",
+					"12845757"
+				],
+				"name": "Kender Wanderlust",
+				"prespp": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"12738749": {
+				"blocks": 4,
+				"name": "Fizban Brightstaff",
+				"turns": 15,
+				"type": "R"
+			},
+			"12738750": {
+				"blocks": 6,
+				"name": "Sturm Brightblade",
+				"turns": 15,
+				"type": "R"
+			},
+			"12738751": {
+				"blocks": 3,
+				"name": "Eriph The Shank",
+				"turns": 15,
+				"type": "R"
+			}
 		},
 		"942835": {
-			"cas": 0,
-			"casdiff": 0,
+			"12845757": {
+				"blocks": 9,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Rork'thich, the Squealer",
+				"spp": 7,
+				"turns": 15,
+				"type": "R"
+			},
+			"12845758": {
+				"blocks": 6,
+				"name": "Jlkmas'noq'lk, the Keening",
+				"turns": 8,
+				"type": "R"
+			},
+			"12845759": {
+				"blocks": 10,
+				"name": "Tz'aal'lk, the Undulating",
+				"prespp": 7,
+				"turns": 15,
+				"type": "R"
+			},
+			"12845765": {
+				"name": "G'lzor'vik, the Maledictive",
+				"prespp": 5,
+				"type": "R"
+			},
+			"12845767": {
+				"name": "Thigaruz",
+				"turns": 4,
+				"type": "R"
+			},
+			"12845768": {
+				"blocks": 1,
+				"name": "Sag'thithaug",
+				"turns": 12,
+				"type": "R"
+			},
+			"12845770": {
+				"blocks": 1,
+				"name": "Kalgramid",
+				"turns": 13,
+				"type": "R"
+			},
+			"12845772": {
+				"name": "Velgraketh",
+				"turns": 7,
+				"type": "R"
+			},
+			"12845775": {
+				"name": "Ar'gan",
+				"rush": 8,
+				"turns": 15,
+				"type": "R"
+			},
+			"12845776": {
+				"blocks": 1,
+				"name": "Thogdrikan",
+				"turns": 8,
+				"type": "R"
+			},
+			"12885920": {
+				"name": "Irkos the Pulsifer",
+				"turns": 8,
+				"type": "R"
+			},
+			"12885921": {
+				"name": "Yorick Coldfield",
+				"rush": 3,
+				"turns": 7,
+				"type": "J"
+			},
+			"MERC-1198532-942835M1": {
+				"name": "Merc Blue Horror 1",
+				"turns": 10,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1198532",
+	"team": {
+		"936063": {
+			"blocks": 46,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Longbeard Grudgebearers",
+			"pass": 0,
+			"prespp": 33,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 24,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 135
+		},
+		"942835": {
+			"blocks": 28,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Distorted Multitude",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 12,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 11,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 122
 		}
 	}
 }

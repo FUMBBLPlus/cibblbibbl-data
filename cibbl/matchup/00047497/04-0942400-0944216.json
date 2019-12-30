@@ -1,20 +1,222 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4104061",
+	"player": {
 		"942400": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Krakeneye Eagles",
-			"scorediff": 0,
-			"tddiff": 0
+			"12838980": {
+				"blocks": 2,
+				"name": "Goukkocrer Krakeneye",
+				"turns": 16,
+				"type": "R"
+			},
+			"12838981": {
+				"blocks": 5,
+				"name": "Raghokek Krakeneye",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838982": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Takkivun Deathstalker",
+				"prespp": 7,
+				"rush": 18,
+				"spp": 5,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838983": {
+				"blocks": 3,
+				"name": "Qelkous Stormbleeder",
+				"pass": 1,
+				"prespp": 19,
+				"rush": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838984": {
+				"comp": 1,
+				"name": "Righacet Voidshade",
+				"pass": -2,
+				"prespp": 7,
+				"rush": 3,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838985": {
+				"blocks": 3,
+				"name": "Dathak Rageblade",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838986": {
+				"blocks": 2,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Kuthuk Shadecrusher",
+				"prespp": 2,
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838987": {
+				"blocks": 1,
+				"name": "Vokhir Dawntaker",
+				"prespp": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838988": {
+				"fouls": 1,
+				"name": "Laven Stormreaper",
+				"turns": 15,
+				"type": "R"
+			},
+			"12838990": {
+				"comp": 1,
+				"name": "Tegnonic Warstriker",
+				"pass": -1,
+				"prespp": 5,
+				"spp": 1,
+				"turns": 4,
+				"type": "R"
+			},
+			"12890878": {
+				"blocks": 1,
+				"name": "Yorick Bluelightning",
+				"retired": true,
+				"turns": 16,
+				"type": "J"
+			}
 		},
 		"944216": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Quetza Coatlācah",
+			"12867103": {
+				"blocks": 3,
+				"name": "Cualli the Great Shield",
+				"prespp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12867104": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "Nahuatl the Masterful One",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12867105": {
+				"blocks": 2,
+				"name": "Meztli the Guardian",
+				"prespp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12867106": {
+				"blocks": 6,
+				"name": "Ohtli the Warrior",
+				"turns": 16,
+				"type": "R"
+			},
+			"12867108": {
+				"blocks": 11,
+				"name": "Ichtaca the Righteous",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12867109": {
+				"blocks": 11,
+				"name": "Ihuicatl the Tenacious",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12867110": {
+				"blocks": 2,
+				"name": "Atl the Gregarious",
+				"prespp": 3,
+				"rush": 20,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12867111": {
+				"name": "Izel the Loquacious",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12867112": {
+				"name": "Xiuhcoatl the Shaper",
+				"prespp": 3,
+				"turns": 3,
+				"type": "R"
+			},
+			"12867113": {
+				"blocks": 1,
+				"name": "Yaretzi the Farsighted",
+				"prespp": 6,
+				"rush": 8,
+				"turns": 14,
+				"type": "R"
+			},
+			"12879025": {
+				"blocks": 2,
+				"name": "Camaxtli the Untamed",
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1200639",
+	"team": {
+		"942400": {
+			"blocks": 27,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Krakeneye Eagles",
+			"pass": -2,
+			"prespp": 55,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 25,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 163
+		},
+		"944216": {
+			"blocks": 44,
+			"cas": 0,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Quetza Coatlācah",
+			"pass": 0,
+			"prespp": 38,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 28,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 153
 		}
 	}
 }

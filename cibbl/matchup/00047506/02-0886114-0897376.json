@@ -1,20 +1,260 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4102827",
+	"player": {
 		"886114": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Eye and Arrow",
-			"scorediff": 0,
-			"tddiff": 0
+			"11939696": {
+				"blocks": 2,
+				"name": "Erato",
+				"prespp": 76,
+				"turns": 16,
+				"type": "R"
+			},
+			"11939705": {
+				"name": "Lydia",
+				"prespp": 102,
+				"turns": 2,
+				"type": "R"
+			},
+			"11939715": {
+				"blocks": 8,
+				"cas": 1,
+				"dead": [
+					2,
+					6,
+					"fouled",
+					"12122280"
+				],
+				"name": "Aadhýa",
+				"prespp": 71,
+				"spp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"11956884": {
+				"blocks": 3,
+				"name": "Elpida",
+				"prespp": 79,
+				"turns": 3,
+				"type": "R"
+			},
+			"12340801": {
+				"blocks": 2,
+				"name": "Ian Bluesnake",
+				"prespp": 58,
+				"turns": 7,
+				"type": "R"
+			},
+			"12441430": {
+				"name": "Kalipso",
+				"prespp": 43,
+				"rush": 7,
+				"turns": 14,
+				"type": "R"
+			},
+			"12510464": {
+				"blocks": 2,
+				"name": "Alariella",
+				"prespp": 31,
+				"turns": 5,
+				"type": "R"
+			},
+			"12667721": {
+				"blocks": 4,
+				"name": "Nyx",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12692981": {
+				"name": "Enyo",
+				"prespp": 16,
+				"turns": 11,
+				"type": "R"
+			},
+			"12703294": {
+				"blocks": 2,
+				"name": "Hera",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12716505": {
+				"mvp": 1,
+				"name": "Tychi",
+				"prespp": 8,
+				"spp": 5,
+				"turns": 3,
+				"type": "R"
+			},
+			"12888106": {
+				"blocks": 2,
+				"comp": 1,
+				"name": "Paraskeve",
+				"pass": -3,
+				"rush": 3,
+				"spp": 1,
+				"turns": 15,
+				"type": "R"
+			}
 		},
 		"897376": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Darkenwood Sentinels",
+			"12122273": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Deep Root",
+				"prespp": 38,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12122274": {
+				"name": "Long Branch",
+				"prespp": 35,
+				"type": "R"
+			},
+			"12122276": {
+				"blocks": 7,
+				"name": "White Leaf",
+				"prespp": 45,
+				"rush": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12122280": {
+				"fouls": 4,
+				"name": "Lichen",
+				"prespp": 16,
+				"turns": 8,
+				"type": "R"
+			},
+			"12168335": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Gray Timber",
+				"prespp": 55,
+				"rush": 9,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12171988": {
+				"name": "Nut",
+				"prespp": 21,
+				"turns": 6,
+				"type": "R"
+			},
+			"12497695": {
+				"blocks": 5,
+				"name": "Ivy",
+				"prespp": 15,
+				"turns": 16,
+				"type": "R"
+			},
+			"12501405": {
+				"blocks": 4,
+				"fouls": 1,
+				"name": "Fruit",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12515971": {
+				"fouls": 1,
+				"mvp": 1,
+				"name": "Vine",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 8,
+				"type": "R"
+			},
+			"12529934": {
+				"name": "Fungus",
+				"type": "R"
+			},
+			"12529938": {
+				"blocks": 4,
+				"name": "Slip Stream",
+				"pass": -1,
+				"prespp": 6,
+				"rush": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12559341": {
+				"blocks": 4,
+				"name": "Hollow",
+				"prespp": 14,
+				"turns": 16,
+				"type": "R"
+			},
+			"12580870": {
+				"name": "Shoot",
+				"type": "R"
+			},
+			"12710019": {
+				"blocks": 1,
+				"name": "Crooked Creek",
+				"turns": 8,
+				"type": "R"
+			},
+			"12877433": {
+				"blocks": 3,
+				"name": "Black Drape",
+				"turns": 16,
+				"type": "R"
+			},
+			"STAR-Schworg'n'Borg": {
+				"blocks": 10,
+				"name": "Schworg'n'Borg",
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1199264",
+	"team": {
+		"886114": {
+			"blocks": 25,
+			"cas": 1,
+			"casdiff": -3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Eye and Arrow",
+			"pass": -3,
+			"prespp": 496,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 10,
+			"score": 0,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 0,
+			"tddiff": 0,
+			"turns": 122
+		},
+		"897376": {
+			"blocks": 51,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
+			"name": "Darkenwood Sentinels",
+			"pass": -1,
+			"prespp": 257,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 21,
+			"score": 0,
+			"scorediff": 0,
+			"td": 0,
+			"tddiff": 0,
+			"turns": 174
 		}
 	}
 }

@@ -1,20 +1,267 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4103695",
+	"player": {
 		"874302": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Grasparossa B.B.C",
-			"scorediff": 0,
-			"tddiff": 0
+			"11754146": {
+				"blocks": 1,
+				"name": "Spilamberto",
+				"prespp": 107,
+				"rush": 8,
+				"turns": 9,
+				"type": "R"
+			},
+			"11783522": {
+				"comp": 3,
+				"fouls": 1,
+				"name": "Modena",
+				"pass": 14,
+				"prespp": 103,
+				"rush": 11,
+				"spp": 3,
+				"turns": 9,
+				"type": "R"
+			},
+			"11967732": {
+				"blocks": 1,
+				"name": "Formigine III",
+				"prespp": 60,
+				"turns": 2,
+				"type": "R"
+			},
+			"12062178": {
+				"blocks": 5,
+				"name": "Castelfranco Emilia II",
+				"prespp": 42,
+				"turns": 15,
+				"type": "R"
+			},
+			"12223648": {
+				"blocks": 1,
+				"name": "Savignano sul Panaro III",
+				"prespp": 18,
+				"rush": 8,
+				"spp": 3,
+				"td": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"12255081": {
+				"blocks": 1,
+				"name": "Sassuolo II",
+				"prespp": 25,
+				"turns": 6,
+				"type": "R"
+			},
+			"12496458": {
+				"mvp": 1,
+				"name": "San Cesario sul Panaro IV",
+				"prespp": 15,
+				"spp": 5,
+				"turns": 3,
+				"type": "R"
+			},
+			"12514876": {
+				"blocks": 3,
+				"name": "Fiorano VII",
+				"turns": 16,
+				"type": "R"
+			},
+			"12514881": {
+				"name": "Vignola II",
+				"prespp": 22,
+				"turns": 5,
+				"type": "R"
+			},
+			"12595023": {
+				"blocks": 6,
+				"name": "Castelvetro IV",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12615341": {
+				"blocks": 3,
+				"name": "Maranello V",
+				"turns": 14,
+				"type": "R"
+			},
+			"12616471": {
+				"blocks": 5,
+				"fouls": 1,
+				"name": "Marano sul Panaro VI",
+				"prespp": 7,
+				"retired": true,
+				"turns": 15,
+				"type": "R"
+			},
+			"12676525": {
+				"name": "Prignano sulla Secchia V",
+				"turns": 3,
+				"type": "R"
+			}
 		},
 		"906026": {
+			"12255960": {
+				"blocks": 8,
+				"name": "Hungry",
+				"prespp": 48,
+				"turns": 16,
+				"type": "B"
+			},
+			"12411917": {
+				"blocks": 3,
+				"name": "Angry",
+				"prespp": 51,
+				"turns": 16,
+				"type": "B"
+			},
+			"12492986": {
+				"dead": [
+					2,
+					0,
+					"eaten",
+					null
+				],
+				"name": "Kurdan Sparkvolt",
+				"prespp": 13,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12492987": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Urdin",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12504901": {
+				"fouls": 2,
+				"name": "Tristan Hotwing",
+				"prespp": 7,
+				"turns": 2,
+				"type": "R"
+			},
+			"12545355": {
+				"fouls": 1,
+				"name": "Golk Le sourd",
+				"prespp": 15,
+				"rush": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12586694": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Zerdack Handspin",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12597730": {
+				"name": "GolG Ginger",
+				"prespp": 1,
+				"turns": 6,
+				"type": "R"
+			},
+			"12622181": {
+				"fouls": 1,
+				"name": "Pal Adin",
+				"turns": 16,
+				"type": "R"
+			},
+			"12674697": {
+				"blocks": 2,
+				"name": "Jerk Jerk",
+				"turns": 16,
+				"type": "R"
+			},
+			"12702717": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Chef Henri",
+				"prespp": 3,
+				"turns": 4,
+				"type": "R"
+			},
+			"12750393": {
+				"name": "Bargain",
+				"turns": 6,
+				"type": "R"
+			},
+			"12871778": {
+				"blocks": 2,
+				"name": "Coke en stock",
+				"prespp": 3,
+				"rush": 17,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12887346": {
+				"name": "Karghan Onehanded",
+				"turns": 1,
+				"type": "R"
+			},
+			"STAR-Schworg'n'Borg": {
+				"blocks": 13,
+				"cas": 2,
+				"name": "Schworg'n'Borg",
+				"spp": 4,
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1200246",
+	"team": {
+		"874302": {
+			"blocks": 26,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -4,
+			"comp": 3,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Grasparossa B.B.C",
+			"pass": 14,
+			"prespp": 417,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 27,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 126
+		},
+		"906026": {
+			"blocks": 34,
+			"cas": 4,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
 			"name": "Karak Azog Outlaws",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 152,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 37,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 165
 		}
 	}
 }

@@ -1,20 +1,272 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4104373",
+	"player": {
 		"919573": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Ragtag Animal Training Sartors",
-			"scorediff": 0,
-			"tddiff": 0
+			"12469184": {
+				"name": "Blightbasher",
+				"prespp": 45,
+				"type": "B"
+			},
+			"12469185": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Warpserker",
+				"prespp": 58,
+				"spp": 2,
+				"turns": 15,
+				"type": "B"
+			},
+			"12469186": {
+				"blocks": 2,
+				"name": "Toerot",
+				"prespp": 42,
+				"turns": 3,
+				"type": "B"
+			},
+			"12469192": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Znukch Clothclaw",
+				"prespp": 9,
+				"turns": 11,
+				"type": "R"
+			},
+			"12469194": {
+				"name": "Crenq Brightear",
+				"prespp": 27,
+				"turns": 4,
+				"type": "R"
+			},
+			"12539782": {
+				"blocks": 1,
+				"name": "Krulk Needlehand",
+				"prespp": 32,
+				"turns": 3,
+				"type": "R"
+			},
+			"12585236": {
+				"mvp": 1,
+				"name": "Znich Ashenhat",
+				"rush": 20,
+				"spp": 8,
+				"td": 1,
+				"turns": 5,
+				"type": "R"
+			},
+			"12602556": {
+				"blocks": 2,
+				"name": "Strik Shinyfur",
+				"prespp": 2,
+				"turns": 4,
+				"type": "R"
+			},
+			"12602557": {
+				"name": "Trecnuach Tailring",
+				"prespp": 16,
+				"type": "R"
+			},
+			"12670287": {
+				"name": "Threlk Weavepaw",
+				"prespp": 9,
+				"turns": 3,
+				"type": "R"
+			},
+			"12677863": {
+				"blocks": 1,
+				"name": "Qut Clothwrap",
+				"pass": -1,
+				"rush": 5,
+				"turns": 9,
+				"type": "R"
+			},
+			"12737368": {
+				"blocks": 5,
+				"name": "Wildfang",
+				"prespp": 9,
+				"turns": 9,
+				"type": "B"
+			},
+			"12867544": {
+				"blocks": 1,
+				"name": "Kril Vestgrip",
+				"retired": true,
+				"turns": 13,
+				"type": "R"
+			},
+			"MERC-1201025-919573M1": {
+				"blocks": 1,
+				"name": "Merc Slave 1",
+				"turns": 9,
+				"type": "M"
+			},
+			"MERC-1201025-919573M2": {
+				"blocks": 3,
+				"name": "Merc Slave 2",
+				"turns": 10,
+				"type": "M"
+			},
+			"MERC-1201025-919573M3": {
+				"name": "Merc Slave 3",
+				"type": "M"
+			}
 		},
 		"924405": {
-			"cas": 0,
-			"casdiff": 0,
+			"12545274": {
+				"name": "Krusher",
+				"prespp": 9,
+				"turns": 8,
+				"type": "B"
+			},
+			"12545275": {
+				"blocks": 2,
+				"name": "Grimdore Chainbreaker",
+				"prespp": 33,
+				"turns": 9,
+				"type": "R"
+			},
+			"12545276": {
+				"blocks": 4,
+				"name": "Sugz Snarlof",
+				"prespp": 29,
+				"turns": 15,
+				"type": "R"
+			},
+			"12545277": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Urig Ironhide",
+				"prespp": 16,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12545278": {
+				"blocks": 6,
+				"cas": 4,
+				"mvp": 1,
+				"name": "Zaghik Znarl",
+				"prespp": 22,
+				"spp": 13,
+				"turns": 15,
+				"type": "R"
+			},
+			"12545279": {
+				"blocks": 5,
+				"name": "Zellar Cutthroat",
+				"prespp": 22,
+				"rush": 12,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12545280": {
+				"blocks": 5,
+				"cas": 2,
+				"fouls": 1,
+				"name": "Gurgug Gutter",
+				"prespp": 26,
+				"spp": 4,
+				"turns": 15,
+				"type": "R"
+			},
+			"12545296": {
+				"blocks": 6,
+				"name": "Struhulk Lurker",
+				"prespp": 9,
+				"turns": 15,
+				"type": "R"
+			},
+			"12591760": {
+				"blocks": 1,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Xaainth Headbeater",
+				"spp": 2,
+				"turns": 5,
+				"type": "R"
+			},
+			"12620091": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Pligulk Pigstabber",
+				"prespp": 3,
+				"turns": 5,
+				"type": "R"
+			},
+			"12664398": {
+				"name": "Juttiz Swiper",
+				"turns": 1,
+				"type": "R"
+			},
+			"12672695": {
+				"fouls": 1,
+				"name": "Pzhig Pike",
+				"turns": 3,
+				"type": "R"
+			},
+			"12680815": {
+				"blocks": 2,
+				"name": "Schnal Sank",
+				"prespp": 7,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12718994": {
+				"blocks": 1,
+				"name": "Xaennaith Xenos",
+				"turns": 1,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1201025",
+	"team": {
+		"919573": {
+			"blocks": 29,
+			"cas": 1,
+			"casdiff": -7,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Ragtag Animal Training Sartors",
+			"pass": -1,
+			"prespp": 249,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 25,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 98
+		},
+		"924405": {
+			"blocks": 39,
+			"cas": 8,
+			"casdiff": 7,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Wolf Lands Slavers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 176,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 31,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 136
 		}
 	}
 }

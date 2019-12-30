@@ -1,20 +1,279 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4103933",
+	"player": {
 		"871787": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Malignant Curators",
-			"scorediff": 0,
-			"tddiff": 0
+			"11709010": {
+				"fouls": 1,
+				"name": "Dando Enda",
+				"prespp": 16,
+				"turns": 1,
+				"type": "R"
+			},
+			"11709011": {
+				"blocks": 1,
+				"name": "Raus Juit",
+				"pass": 1,
+				"prespp": 174,
+				"rush": 32,
+				"turns": 15,
+				"type": "R"
+			},
+			"11709013": {
+				"name": "Kael Desini",
+				"prespp": 41,
+				"type": "R"
+			},
+			"11709018": {
+				"blocks": 7,
+				"name": "Font Eiridan",
+				"prespp": 60,
+				"turns": 16,
+				"type": "R"
+			},
+			"11814852": {
+				"blocks": 9,
+				"cas": 2,
+				"name": "Pantheon Bane",
+				"prespp": 126,
+				"spp": 4,
+				"turns": 13,
+				"type": "R"
+			},
+			"12051832": {
+				"blocks": 1,
+				"name": "Amon",
+				"prespp": 45,
+				"turns": 16,
+				"type": "B"
+			},
+			"12423015": {
+				"blocks": 9,
+				"name": "Harkon Halvarson",
+				"prespp": 66,
+				"turns": 16,
+				"type": "R"
+			},
+			"12484122": {
+				"blocks": 1,
+				"name": "Mat Laet",
+				"prespp": 2,
+				"rush": 1,
+				"spp": 3,
+				"td": 1,
+				"turns": 12,
+				"type": "R"
+			},
+			"12534057": {
+				"name": "Bau Lang",
+				"prespp": 8,
+				"type": "R"
+			},
+			"12615329": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Arsady the Hung",
+				"prespp": 58,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12615340": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Axeman",
+				"pass": 1,
+				"rush": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12664544": {
+				"blocks": 2,
+				"name": "Herrn Alignsterne",
+				"turns": 16,
+				"type": "R"
+			},
+			"12702407": {
+				"name": "Shinesa",
+				"prespp": 125,
+				"type": "R"
+			},
+			"12728721": {
+				"blocks": 2,
+				"name": "Float",
+				"turns": 16,
+				"type": "R"
+			},
+			"12728722": {
+				"name": "Dorcas",
+				"type": "R"
+			},
+			"12895695": {
+				"mvp": 1,
+				"name": "Arnórr",
+				"spp": 8,
+				"td": 1,
+				"turns": 8,
+				"type": "R"
+			}
 		},
 		"903654": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Scions of Neferata",
+			"12219673": {
+				"comp": 3,
+				"name": "Ahmose",
+				"pass": 5,
+				"prespp": 96,
+				"rush": 10,
+				"spp": 3,
+				"turns": 10,
+				"type": "R"
+			},
+			"12219676": {
+				"blocks": 7,
+				"cas": 2,
+				"name": "Senenmut",
+				"prespp": 72,
+				"spp": 4,
+				"turns": 8,
+				"type": "R"
+			},
+			"12219678": {
+				"blocks": 7,
+				"mvp": 1,
+				"name": "Merenre",
+				"prespp": 49,
+				"spp": 5,
+				"turns": 11,
+				"type": "R"
+			},
+			"12219681": {
+				"name": "Haremhab",
+				"type": "R"
+			},
+			"12219683": {
+				"name": "Intef",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12219684": {
+				"name": "Sihathor",
+				"pass": 1,
+				"prespp": 2,
+				"rush": 3,
+				"turns": 12,
+				"type": "R"
+			},
+			"12227199": {
+				"blocks": 1,
+				"name": "Kentetenka",
+				"prespp": 100,
+				"rush": 23,
+				"spp": 6,
+				"td": 2,
+				"turns": 9,
+				"type": "R"
+			},
+			"12318457": {
+				"blocks": 2,
+				"name": "Setka",
+				"prespp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"12319538": {
+				"blocks": 3,
+				"name": "Re'hotpe",
+				"prespp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12367633": {
+				"blocks": 2,
+				"dead": [
+					1,
+					4,
+					"dodgeFail",
+					null
+				],
+				"name": "Masaharta",
+				"prespp": 50,
+				"turns": 3,
+				"type": "R"
+			},
+			"12443530": {
+				"blocks": 1,
+				"name": "Nofret",
+				"turns": 12,
+				"type": "R"
+			},
+			"12500720": {
+				"blocks": 2,
+				"name": "Bunefer",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"12603969": {
+				"name": "Tetisheri",
+				"prespp": 29,
+				"turns": 9,
+				"type": "R"
+			},
+			"12887791": {
+				"name": "Akhenaten",
+				"turns": 8,
+				"type": "R"
+			},
+			"12887792": {
+				"name": "Seti",
+				"turns": 3,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1200498",
+	"team": {
+		"871787": {
+			"blocks": 40,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Malignant Curators",
+			"pass": 2,
+			"prespp": 721,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 38,
+			"score": 2,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 161
+		},
+		"903654": {
+			"blocks": 25,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 3,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Scions of Neferata",
+			"pass": 6,
+			"prespp": 426,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 36,
+			"score": 2,
+			"scorediff": 0,
+			"td": 2,
+			"tddiff": 0,
+			"turns": 129
 		}
 	}
 }

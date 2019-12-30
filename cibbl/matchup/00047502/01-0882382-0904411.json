@@ -1,20 +1,280 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4101812",
+	"player": {
 		"882382": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Ali's Anarchists",
-			"scorediff": 0,
-			"tddiff": 0
+			"11881490": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Shan Yu",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"11977896": {
+				"dead": [
+					1,
+					6,
+					"blocked",
+					"12259937"
+				],
+				"name": "Gin Phur",
+				"prespp": 25,
+				"rush": 8,
+				"turns": 6,
+				"type": "R"
+			},
+			"12220671": {
+				"blocks": 1,
+				"name": "Aladain",
+				"prespp": 56,
+				"turns": 1,
+				"type": "R"
+			},
+			"12325284": {
+				"blocks": 14,
+				"name": "Genie",
+				"prespp": 36,
+				"turns": 16,
+				"type": "R"
+			},
+			"12450728": {
+				"name": "Mustapha Shah",
+				"rush": 2,
+				"turns": 2,
+				"type": "R"
+			},
+			"12489867": {
+				"blocks": 3,
+				"name": "Sheikh Yabooti",
+				"prespp": 31,
+				"rush": 3,
+				"turns": 9,
+				"type": "R"
+			},
+			"12529796": {
+				"blocks": 1,
+				"fouls": 4,
+				"name": "Gud",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12547681": {
+				"name": "El Maeiz",
+				"prespp": 7,
+				"turns": 3,
+				"type": "R"
+			},
+			"12547682": {
+				"name": "Grak el Claah",
+				"turns": 2,
+				"type": "R"
+			},
+			"12636777": {
+				"blocks": 6,
+				"name": "Ka Viku",
+				"prespp": 126,
+				"turns": 12,
+				"type": "R"
+			},
+			"12640386": {
+				"blocks": 1,
+				"name": "Sinbad",
+				"prespp": 14,
+				"rush": 7,
+				"turns": 11,
+				"type": "R"
+			},
+			"12664618": {
+				"blocks": 7,
+				"name": "Hassan-i Sabbah",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12664728": {
+				"name": "Saban al Mahaj",
+				"turns": 2,
+				"type": "R"
+			},
+			"12664729": {
+				"name": "Saladin i Hasan",
+				"turns": 2,
+				"type": "R"
+			},
+			"12726428": {
+				"blocks": 7,
+				"mvp": 1,
+				"name": "Banu Hilal",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"STAR-Setekh": {
+				"blocks": 12,
+				"name": "Setekh",
+				"turns": 16,
+				"type": "S"
+			}
 		},
 		"904411": {
-			"cas": 0,
-			"casdiff": 0,
+			"12231968": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "\"Smiles\" Arwyn",
+				"prespp": 54,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12231970": {
+				"blocks": 2,
+				"name": "Madoc Gallows-Grin",
+				"prespp": 32,
+				"turns": 13,
+				"type": "R"
+			},
+			"12231971": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Owain ap Bran",
+				"pass": -1,
+				"prespp": 58,
+				"rush": 8,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12231974": {
+				"blocks": 6,
+				"name": "Prydwen ap Blaidd",
+				"prespp": 49,
+				"rush": 16,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12231978": {
+				"blocks": 3,
+				"name": "Llewelyn Grey-Eyes",
+				"prespp": 34,
+				"turns": 16,
+				"type": "R"
+			},
+			"12231981": {
+				"name": "Meredith",
+				"prespp": 9,
+				"turns": 15,
+				"type": "R"
+			},
+			"12259937": {
+				"blocks": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Graham the Brave",
+				"prespp": 40,
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12261545": {
+				"blocks": 3,
+				"name": "Morcanth the Melancholy",
+				"prespp": 40,
+				"rush": -1,
+				"turns": 7,
+				"type": "R"
+			},
+			"12438765": {
+				"blocks": 4,
+				"name": "Caerwyn",
+				"prespp": 8,
+				"turns": 9,
+				"type": "R"
+			},
+			"12438788": {
+				"fouls": 1,
+				"name": "Glynn",
+				"prespp": 14,
+				"rush": 3,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12522725": {
+				"blocks": 1,
+				"name": "Evan the Heartbreaker",
+				"prespp": 33,
+				"turns": 16,
+				"type": "R"
+			},
+			"12587195": {
+				"name": "Aeron",
+				"turns": 1,
+				"type": "R"
+			},
+			"12610016": {
+				"blocks": 1,
+				"name": "\"Black Dog\" Bleddyn",
+				"pass": 1,
+				"prespp": 11,
+				"rush": 15,
+				"turns": 16,
+				"type": "R"
+			},
+			"12663114": {
+				"name": "Dylan",
+				"turns": 1,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1198156",
+	"team": {
+		"882382": {
+			"blocks": 55,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
+			"name": "Ali's Anarchists",
+			"pass": 0,
+			"prespp": 331,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 20,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 146
+		},
+		"904411": {
+			"blocks": 42,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ynys Morion Mabsantwyr",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 382,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 41,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 172
 		}
 	}
 }

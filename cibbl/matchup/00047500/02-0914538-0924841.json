@@ -1,20 +1,265 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4102433",
+	"player": {
 		"914538": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "BloodForce",
-			"scorediff": 0,
-			"tddiff": 0
+			"12390731": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "O'rdra The Deathmaker",
+				"prespp": 69,
+				"spp": 5,
+				"turns": 16,
+				"type": "B"
+			},
+			"12390732": {
+				"blocks": 3,
+				"name": "Filthy Anruman",
+				"prespp": 20,
+				"turns": 3,
+				"type": "R"
+			},
+			"12390735": {
+				"blocks": 4,
+				"name": "Big Galroq",
+				"prespp": 23,
+				"turns": 15,
+				"type": "R"
+			},
+			"12390736": {
+				"fouls": 1,
+				"name": "Hepho The Maniac",
+				"turns": 5,
+				"type": "R"
+			},
+			"12390737": {
+				"blocks": 6,
+				"cas": 2,
+				"name": "Bloody Divbhox",
+				"pass": 9,
+				"prespp": 13,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12390739": {
+				"name": "Terrible Tulas",
+				"prespp": 52,
+				"rush": 31,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12390740": {
+				"name": "Zarus Pitt",
+				"prespp": 8,
+				"turns": 4,
+				"type": "R"
+			},
+			"12453186": {
+				"blocks": 10,
+				"cas": 2,
+				"name": "Erath The Clawdancer",
+				"prespp": 24,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12514596": {
+				"blocks": 2,
+				"name": "Zusgok The Battlebrand",
+				"prespp": 43,
+				"turns": 4,
+				"type": "R"
+			},
+			"12529118": {
+				"blocks": 2,
+				"fouls": 4,
+				"name": "Khikhand The Violent",
+				"rush": 2,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12561007": {
+				"fouls": 1,
+				"name": "Vydirr The Smear",
+				"turns": 4,
+				"type": "R"
+			},
+			"12603619": {
+				"comp": 1,
+				"name": "Ryzit Ryzit",
+				"pass": 1,
+				"prespp": 5,
+				"rush": 1,
+				"spp": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12687861": {
+				"name": "Stro'ghol The Skulltaker",
+				"prespp": 5,
+				"turns": 3,
+				"type": "R"
+			},
+			"12736557": {
+				"blocks": 6,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Comain The Heartripper",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"924841": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Under-Nuln Bells",
+			"12552091": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Quonq Sharpfangs",
+				"prespp": 10,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12552095": {
+				"blocks": 3,
+				"name": "Skruch Duskwalker",
+				"pass": 1,
+				"prespp": 22,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12552098": {
+				"blocks": 1,
+				"name": "Zaqrat",
+				"prespp": 7,
+				"turns": 10,
+				"type": "R"
+			},
+			"12552101": {
+				"fouls": 2,
+				"name": "Trietch",
+				"prespp": 9,
+				"turns": 2,
+				"type": "R"
+			},
+			"12552116": {
+				"comp": 1,
+				"name": "Snuktlich",
+				"pass": 1,
+				"prespp": 11,
+				"rush": 7,
+				"spp": 1,
+				"turns": 3,
+				"type": "R"
+			},
+			"12585407": {
+				"blocks": 3,
+				"name": "Squarx Deadreaver",
+				"prespp": 26,
+				"turns": 5,
+				"type": "R"
+			},
+			"12592998": {
+				"blocks": 1,
+				"name": "Sqreet",
+				"turns": 9,
+				"type": "R"
+			},
+			"12616266": {
+				"name": "Runtch Quicklegs",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12678911": {
+				"comp": 1,
+				"name": "Qulk Grimgaze",
+				"pass": 2,
+				"prespp": 22,
+				"rush": 12,
+				"spp": 4,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12714787": {
+				"blocks": 2,
+				"name": "Zitch",
+				"turns": 6,
+				"type": "R"
+			},
+			"12728053": {
+				"name": "Znach Skullstalker",
+				"pass": -1,
+				"rush": 7,
+				"turns": 2,
+				"type": "R"
+			},
+			"12887591": {
+				"blocks": 2,
+				"name": "Crunp",
+				"turns": 3,
+				"type": "R"
+			},
+			"12887595": {
+				"blocks": 2,
+				"name": "Zhol",
+				"turns": 6,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1198833",
+	"team": {
+		"914538": {
+			"blocks": 39,
+			"cas": 6,
+			"casdiff": 6,
+			"comp": 1,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
+			"name": "BloodForce",
+			"pass": 10,
+			"prespp": 262,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 34,
+			"score": 2,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 142
+		},
+		"924841": {
+			"blocks": 18,
+			"cas": 0,
+			"casdiff": -6,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Under-Nuln Bells",
+			"pass": 3,
+			"prespp": 123,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 45,
+			"score": 2,
+			"scorediff": 0,
+			"td": 2,
+			"tddiff": 0,
+			"turns": 104
 		}
 	}
 }

@@ -1,20 +1,259 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4102513",
+	"player": {
 		"891237": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Dukes of Earthquake Valley",
-			"scorediff": 0,
-			"tddiff": 0
+			"12022005": {
+				"mvp": 1,
+				"name": "Swan Alphon",
+				"prespp": 40,
+				"spp": 5,
+				"turns": 3,
+				"type": "R"
+			},
+			"12022006": {
+				"blocks": 2,
+				"comp": 1,
+				"name": "Heni Hethurin",
+				"pass": 1,
+				"prespp": 89,
+				"rush": 17,
+				"spp": 1,
+				"turns": 11,
+				"type": "R"
+			},
+			"12022008": {
+				"blocks": 3,
+				"name": "Tety Goweston",
+				"prespp": 24,
+				"turns": 14,
+				"type": "R"
+			},
+			"12022022": {
+				"blocks": 3,
+				"dead": [
+					2,
+					7,
+					"blocked",
+					"12281778"
+				],
+				"name": "Mirilan Antegobon",
+				"prespp": 52,
+				"turns": 15,
+				"type": "R"
+			},
+			"12104982": {
+				"blocks": 4,
+				"name": "Meret Scuffedon",
+				"prespp": 61,
+				"rush": 7,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12229237": {
+				"blocks": 2,
+				"name": "Coron Shottelodon",
+				"prespp": 66,
+				"turns": 15,
+				"type": "R"
+			},
+			"12360754": {
+				"blocks": 2,
+				"name": "Melith Astenodon",
+				"prespp": 59,
+				"turns": 2,
+				"type": "R"
+			},
+			"12513768": {
+				"blocks": 1,
+				"name": "Retho Tungsodon",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12521602": {
+				"blocks": 3,
+				"name": "Reto Heturin I",
+				"prespp": 19,
+				"turns": 16,
+				"type": "R"
+			},
+			"12595516": {
+				"blocks": 4,
+				"name": "Reino Donodon",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12717706": {
+				"cas": 1,
+				"name": "Gniro Vretodon",
+				"rush": 8,
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12734824": {
+				"blocks": 1,
+				"name": "Leior Hutodon",
+				"turns": 11,
+				"type": "R"
+			}
 		},
 		"907600": {
-			"cas": 0,
-			"casdiff": 0,
+			"12281777": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Qunq Madripper",
+				"prespp": 52,
+				"spp": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"12281778": {
+				"blocks": 7,
+				"cas": 2,
+				"name": "Qhutch Pinefingers",
+				"prespp": 49,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12281780": {
+				"name": "Tritch Crowlasher",
+				"prespp": 50,
+				"type": "R"
+			},
+			"12281784": {
+				"blocks": 14,
+				"name": "Big-large Xelk Prideborn",
+				"prespp": 61,
+				"turns": 16,
+				"type": "R"
+			},
+			"12323282": {
+				"blocks": 9,
+				"name": "Large-Big Cresh Windcutter",
+				"prespp": 53,
+				"turns": 16,
+				"type": "R"
+			},
+			"12491279": {
+				"blocks": 7,
+				"name": "Mung Heartbender",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12601324": {
+				"name": "Crok Blightpaw",
+				"type": "R"
+			},
+			"12601427": {
+				"mvp": 1,
+				"name": "Thualk Lonescream",
+				"prespp": 36,
+				"rush": 40,
+				"spp": 11,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12616195": {
+				"name": "Tak Goldtooth",
+				"turns": 6,
+				"type": "R"
+			},
+			"12681658": {
+				"name": "Stalk Rapidchaser",
+				"type": "R"
+			},
+			"12695053": {
+				"fouls": 1,
+				"name": "Craul Steeltoe",
+				"turns": 10,
+				"type": "R"
+			},
+			"12706679": {
+				"fouls": 1,
+				"name": "Skacxit Deadsplitter",
+				"turns": 6,
+				"type": "R"
+			},
+			"12726910": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Tuk Foulpaw",
+				"turns": 16,
+				"type": "R"
+			},
+			"12879019": {
+				"blocks": 1,
+				"fouls": 3,
+				"name": "Quikyiss Scweelfang",
+				"turns": 16,
+				"type": "R"
+			},
+			"12888128": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Qheeqet Barbtaker",
+				"turns": 16,
+				"type": "R"
+			},
+			"STAR-Skrath Pit-Scratcher": {
+				"blocks": 3,
+				"name": "Skrath Pit-Scratcher",
+				"turns": 6,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1198929",
+	"team": {
+		"891237": {
+			"blocks": 25,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Dukes of Earthquake Valley",
+			"pass": 1,
+			"prespp": 444,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 32,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 145
+		},
+		"907600": {
+			"blocks": 54,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Deluge-Bearers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 311,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 40,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 169
 		}
 	}
 }

@@ -1,20 +1,250 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4101731",
+	"player": {
 		"919662": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Ursun Throat Singers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12474062": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Urskin",
+				"prespp": 19,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12474065": {
+				"blocks": 4,
+				"name": "Ivan Doroshenko",
+				"prespp": 7,
+				"turns": 15,
+				"type": "R"
+			},
+			"12474066": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Stenka Pugachev",
+				"prespp": 9,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12474068": {
+				"blocks": 7,
+				"name": "Yermak Razumovski",
+				"prespp": 20,
+				"turns": 15,
+				"type": "R"
+			},
+			"12474069": {
+				"blocks": 3,
+				"name": "Alexei Razumovski",
+				"prespp": 26,
+				"turns": 16,
+				"type": "R"
+			},
+			"12474072": {
+				"blocks": 1,
+				"name": "Bela Szozak",
+				"prespp": 31,
+				"turns": 9,
+				"type": "R"
+			},
+			"12474075": {
+				"blocks": 7,
+				"name": "Nagy Avalov",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12474094": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Farkas Komilov",
+				"prespp": 6,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12512740": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Besutei",
+				"prespp": 7,
+				"turns": 12,
+				"type": "R"
+			},
+			"12512794": {
+				"name": "Jebeioyan",
+				"rush": 6,
+				"turns": 9,
+				"type": "R"
+			},
+			"12583898": {
+				"comp": 1,
+				"name": "Temudjin Hirsut",
+				"pass": 6,
+				"prespp": 16,
+				"rush": 23,
+				"spp": 4,
+				"td": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"12622761": {
+				"name": "Zorigoo Khuleg",
+				"prespp": 12,
+				"type": "R"
+			},
+			"12635297": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Baavgai",
+				"prespp": 5,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12868486": {
+				"name": "Bohdan Teteria",
+				"turns": 2,
+				"type": "R"
+			}
 		},
 		"928360": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Gorequeen's Raiders",
+			"12607999": {
+				"blocks": 7,
+				"name": "Grendel",
+				"prespp": 21,
+				"turns": 16,
+				"type": "B"
+			},
+			"12608002": {
+				"blocks": 3,
+				"name": "Baldur",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12608004": {
+				"blocks": 2,
+				"name": "Surtr",
+				"prespp": 25,
+				"turns": 16,
+				"type": "R"
+			},
+			"12608011": {
+				"blocks": 4,
+				"name": "Heidrek",
+				"prespp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12608023": {
+				"blocks": 3,
+				"name": "Vali",
+				"prespp": 8,
+				"turns": 10,
+				"type": "R"
+			},
+			"12608031": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Narfi",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 6,
+				"type": "R"
+			},
+			"12608034": {
+				"blocks": 6,
+				"name": "Mokkurkalfi",
+				"prespp": 10,
+				"turns": 13,
+				"type": "R"
+			},
+			"12608036": {
+				"name": "Halogi",
+				"type": "R"
+			},
+			"12624317": {
+				"blocks": 3,
+				"comp": 1,
+				"name": "Ullr",
+				"pass": -2,
+				"prespp": 17,
+				"rush": 13,
+				"spp": 4,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12627616": {
+				"blocks": 5,
+				"name": "Hati",
+				"prespp": 7,
+				"rush": 11,
+				"turns": 16,
+				"type": "R"
+			},
+			"12683077": {
+				"blocks": 6,
+				"name": "Skoll Jr",
+				"prespp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12692043": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Baugi Jr",
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1198061",
+	"team": {
+		"919662": {
+			"blocks": 44,
+			"cas": 3,
+			"casdiff": 3,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Ursun Throat Singers",
+			"pass": 6,
+			"prespp": 174,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 29,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 167
+		},
+		"928360": {
+			"blocks": 45,
+			"cas": 0,
+			"casdiff": -3,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Gorequeen's Raiders",
+			"pass": -2,
+			"prespp": 118,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 24,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 157
 		}
 	}
 }
