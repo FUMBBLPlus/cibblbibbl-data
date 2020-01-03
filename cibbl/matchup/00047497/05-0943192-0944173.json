@@ -1,20 +1,233 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4110004",
+	"player": {
 		"943192": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Subsylvanian Hypnopipers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12851288": {
+				"blocks": 12,
+				"cas": 2,
+				"name": "Viscount Erlich Draconis",
+				"prespp": 9,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12851292": {
+				"blocks": 2,
+				"comp": 2,
+				"name": "Lord Jared van der Magritta",
+				"pass": 2,
+				"prespp": 4,
+				"rush": 16,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12851295": {
+				"blocks": 1,
+				"name": "Lady Monica d'Acques",
+				"prespp": 15,
+				"rush": 25,
+				"spp": 6,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12851299": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Hunch",
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12851300": {
+				"name": "Scratch",
+				"prespp": 2,
+				"turns": 3,
+				"type": "R"
+			},
+			"12851301": {
+				"name": "Belch",
+				"turns": 1,
+				"type": "R"
+			},
+			"12851302": {
+				"blocks": 1,
+				"name": "Mooch",
+				"turns": 15,
+				"type": "R"
+			},
+			"12851303": {
+				"blocks": 1,
+				"name": "Poach",
+				"turns": 4,
+				"type": "R"
+			},
+			"12851304": {
+				"blocks": 2,
+				"name": "Stench",
+				"turns": 4,
+				"type": "R"
+			},
+			"12851305": {
+				"blocks": 1,
+				"name": "Grinch",
+				"prespp": 2,
+				"turns": 3,
+				"type": "R"
+			},
+			"12851306": {
+				"name": "Lynch",
+				"prespp": 4,
+				"type": "R"
+			},
+			"12851307": {
+				"name": "Wench",
+				"turns": 7,
+				"type": "R"
+			},
+			"12851506": {
+				"blocks": 10,
+				"mvp": 1,
+				"name": "Baron Richard von Drak",
+				"prespp": 8,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12897225": {
+				"blocks": 4,
+				"name": "Lord Bertram Strigovich",
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"944173": {
-			"cas": 0,
-			"casdiff": 0,
+			"12866375": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Tlaloci",
+				"spp": 2,
+				"turns": 4,
+				"type": "R"
+			},
+			"12866376": {
+				"blocks": 12,
+				"cas": 1,
+				"name": "Chalchi",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"12866377": {
+				"fouls": 1,
+				"name": "Tezcatli",
+				"rush": 24,
+				"spp": 3,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12866378": {
+				"name": "Xipi",
+				"turns": 14,
+				"type": "R"
+			},
+			"12866380": {
+				"name": "Epunamuni",
+				"turns": 11,
+				"type": "R"
+			},
+			"12866381": {
+				"name": "Anchi",
+				"turns": 17,
+				"type": "R"
+			},
+			"12866382": {
+				"name": "Ochosi",
+				"turns": 9,
+				"type": "R"
+			},
+			"12866383": {
+				"comp": 1,
+				"mvp": 1,
+				"name": "Oguni",
+				"pass": 1,
+				"prespp": 4,
+				"spp": 6,
+				"turns": 17,
+				"type": "R"
+			},
+			"12866384": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Darbi",
+				"prespp": 9,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12866385": {
+				"blocks": 4,
+				"name": "Peet",
+				"prespp": 16,
+				"turns": 15,
+				"type": "R"
+			},
+			"12892808": {
+				"blocks": 1,
+				"name": "Ulric Hideoustree",
+				"retired": true,
+				"turns": 15,
+				"type": "J"
+			}
+		}
+	},
+	"replayId": "1207502",
+	"team": {
+		"943192": {
+			"blocks": 36,
+			"cas": 3,
+			"casdiff": -1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Subsylvanian Hypnopipers",
+			"pass": 2,
+			"prespp": 44,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 41,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 127
+		},
+		"944173": {
+			"blocks": 26,
+			"cas": 4,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cuexotl Jungle Daggers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 36,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 24,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 149
 		}
 	}
 }

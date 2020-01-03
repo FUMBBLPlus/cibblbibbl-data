@@ -1,20 +1,243 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4107807",
+	"player": {
 		"942400": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Krakeneye Eagles",
-			"scorediff": 0,
-			"tddiff": 0
+			"12838980": {
+				"blocks": 4,
+				"comp": 1,
+				"name": "Goukkocrer Krakeneye",
+				"pass": -3,
+				"rush": 6,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838981": {
+				"blocks": 4,
+				"name": "Raghokek Krakeneye",
+				"prespp": 10,
+				"turns": 10,
+				"type": "R"
+			},
+			"12838982": {
+				"blocks": 9,
+				"comp": 1,
+				"name": "Takkivun Deathstalker",
+				"pass": 1,
+				"prespp": 12,
+				"rush": 24,
+				"spp": 4,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838983": {
+				"blocks": 6,
+				"name": "Qelkous Stormbleeder",
+				"prespp": 19,
+				"rush": 13,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838984": {
+				"blocks": 4,
+				"cas": 1,
+				"comp": 2,
+				"mvp": 1,
+				"name": "Righacet Voidshade",
+				"pass": 1,
+				"prespp": 8,
+				"rush": 11,
+				"spp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838985": {
+				"name": "Dathak Rageblade",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12838986": {
+				"blocks": 5,
+				"name": "Kuthuk Shadecrusher",
+				"prespp": 9,
+				"rush": 10,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838987": {
+				"blocks": 3,
+				"name": "Vokhir Dawntaker",
+				"prespp": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838988": {
+				"blocks": 3,
+				"name": "Laven Stormreaper",
+				"rush": 6,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838990": {
+				"name": "Tegnonic Warstriker",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12896525": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Howard Strongsnake",
+				"spp": 2,
+				"turns": 16,
+				"type": "J"
+			}
 		},
 		"944092": {
-			"cas": 0,
+			"12865165": {
+				"blocks": 6,
+				"name": "Corobstock the Carnal",
+				"prespp": 9,
+				"turns": 16,
+				"type": "B"
+			},
+			"12865166": {
+				"blocks": 2,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Moritenko the Mauler",
+				"prespp": 8,
+				"spp": 9,
+				"turns": 16,
+				"type": "B"
+			},
+			"12865167": {
+				"blocks": 4,
+				"name": "Vassily Frostpaw",
+				"prespp": 10,
+				"rush": 21,
+				"turns": 16,
+				"type": "R"
+			},
+			"12865169": {
+				"name": "Sofora",
+				"prespp": 1,
+				"type": "R"
+			},
+			"12865170": {
+				"name": "Borishna",
+				"prespp": 4,
+				"type": "R"
+			},
+			"12865171": {
+				"fouls": 1,
+				"name": "Dolovo",
+				"turns": 13,
+				"type": "R"
+			},
+			"12865172": {
+				"name": "Riski",
+				"pass": 1,
+				"prespp": 9,
+				"rush": 8,
+				"turns": 9,
+				"type": "R"
+			},
+			"12865173": {
+				"name": "Trosta",
+				"pass": -1,
+				"prespp": 6,
+				"rush": 6,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12865174": {
+				"name": "Neschastiv",
+				"turns": 16,
+				"type": "R"
+			},
+			"12865177": {
+				"blocks": 1,
+				"name": "Eytrenko",
+				"prespp": 8,
+				"turns": 5,
+				"type": "R"
+			},
+			"12911267": {
+				"blocks": 5,
+				"name": "Alexandre Windcry",
+				"turns": 15,
+				"type": "R"
+			},
+			"12911268": {
+				"comp": 1,
+				"name": "Osmond Goldlightning",
+				"pass": 8,
+				"retired": true,
+				"spp": 1,
+				"turns": 4,
+				"type": "J"
+			},
+			"STAR-Hack Enslash": {
+				"blocks": 5,
+				"fouls": 2,
+				"name": "Hack Enslash",
+				"turns": 15,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1204977",
+	"team": {
+		"942400": {
+			"blocks": 39,
+			"cas": 2,
 			"casdiff": 0,
+			"comp": 4,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Krakeneye Eagles",
+			"pass": -1,
+			"prespp": 69,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 70,
+			"score": 3,
+			"scorediff": 2,
+			"td": 3,
+			"tddiff": 2,
+			"turns": 154
+		},
+		"944092": {
+			"blocks": 23,
+			"cas": 2,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Moraveny Untamed",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 8,
+			"prespp": 55,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 35,
+			"score": 1,
+			"scorediff": -2,
+			"td": 1,
+			"tddiff": -2,
+			"turns": 141
 		}
 	}
 }

@@ -1,20 +1,269 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4109431",
+	"player": {
 		"897353": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Court of Shu",
-			"scorediff": 0,
-			"tddiff": 0
+			"12165569": {
+				"blocks": 3,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Adenes Fujo",
+				"prespp": 16,
+				"spp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12488193": {
+				"blocks": 5,
+				"name": "Dark Hummus",
+				"prespp": 35,
+				"turns": 16,
+				"type": "R"
+			},
+			"12502657": {
+				"blocks": 1,
+				"name": "Dunkl Meer",
+				"prespp": 19,
+				"turns": 12,
+				"type": "R"
+			},
+			"12535865": {
+				"blocks": 5,
+				"fouls": 1,
+				"name": "Aush",
+				"prespp": 11,
+				"turns": 16,
+				"type": "R"
+			},
+			"12578862": {
+				"name": "Ueresh",
+				"prespp": 1,
+				"turns": 1,
+				"type": "R"
+			},
+			"12695465": {
+				"blocks": 4,
+				"name": "Torn Ado",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12706552": {
+				"blocks": 6,
+				"name": "Clayface",
+				"prespp": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12706553": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Potok",
+				"prespp": 6,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12722742": {
+				"blocks": 6,
+				"cas": 1,
+				"fouls": 2,
+				"name": "Forroh",
+				"prespp": 8,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12892906": {
+				"blocks": 1,
+				"name": "Husith",
+				"prespp": 6,
+				"rush": 17,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12895327": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Perzel",
+				"turns": 13,
+				"type": "R"
+			},
+			"12921866": {
+				"fouls": 2,
+				"name": "Windar",
+				"rush": 4,
+				"turns": 8,
+				"type": "R"
+			},
+			"STAR-Schworg'n'Borg": {
+				"blocks": 9,
+				"name": "Schworg'n'Borg",
+				"turns": 15,
+				"type": "S"
+			}
 		},
 		"899682": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "K'r'shh Sl'ppr'ss",
+			"12158269": {
+				"blocks": 4,
+				"comp": 1,
+				"name": "Ph'rn \"Quick Tail\" Vzz-Sttn",
+				"prespp": 45,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12158279": {
+				"blocks": 4,
+				"name": "Dtr'vssr \"Mamba\" Vrddfls",
+				"prespp": 33,
+				"turns": 16,
+				"type": "R"
+			},
+			"12191641": {
+				"blocks": 4,
+				"name": "C'dm'qsz \"Focus\" Ntrll",
+				"prespp": 33,
+				"turns": 12,
+				"type": "R"
+			},
+			"12240321": {
+				"blocks": 3,
+				"name": "R'th's'k \"Whirly\" Mssrbr",
+				"prespp": 60,
+				"rush": 3,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12320309": {
+				"blocks": 6,
+				"name": "V'rr-nv'rry \"Sunny\" Ss'rpnt'r-gg'dd'ss-l",
+				"prespp": 33,
+				"turns": 16,
+				"type": "R"
+			},
+			"12455237": {
+				"blocks": 4,
+				"name": "N-r-ng \"Spiral\" Kbrrr'll'",
+				"prespp": 22,
+				"turns": 16,
+				"type": "R"
+			},
+			"12467072": {
+				"blocks": 5,
+				"fouls": 1,
+				"name": "V'sn \"Opal\" N'tr'c-tssll't",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12510965": {
+				"blocks": 11,
+				"name": "D'ssh-t \"Moon Nostril\" Ptnmlr",
+				"prespp": 39,
+				"turns": 16,
+				"type": "R"
+			},
+			"12551905": {
+				"name": "M-k-k \"White Eye\" Vprr",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12588115": {
+				"dead": [
+					1,
+					8,
+					"blocked",
+					"12722742"
+				],
+				"name": "K-cp'r \"Splasher\" Kbrrcllr",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12616742": {
+				"name": "Prr'n \"Sparkly\" Clbrrdrrccl",
+				"type": "R"
+			},
+			"12677190": {
+				"blocks": 1,
+				"name": "M'-Kh'nh \"Kordex\" Clbrr",
+				"pass": 1,
+				"prespp": 7,
+				"rush": 9,
+				"turns": 7,
+				"type": "R"
+			},
+			"12677192": {
+				"blocks": 2,
+				"int": 1,
+				"mvp": 1,
+				"name": "T'ng \"Dusty\" Ammdtss",
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12848989": {
+				"dead": [
+					2,
+					1,
+					"blocked",
+					"12165569"
+				],
+				"name": "Kl-'w \"Smirk\" Srpntcrll",
+				"prespp": 6,
+				"rush": 2,
+				"turns": 7,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1206837",
+	"team": {
+		"897353": {
+			"blocks": 45,
+			"cas": 3,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
+			"name": "Court of Shu",
+			"pass": 0,
+			"prespp": 116,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 21,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 169
+		},
+		"899682": {
+			"blocks": 44,
+			"cas": 0,
+			"casdiff": -3,
+			"comp": 1,
+			"fouls": 1,
+			"int": 1,
+			"mvp": 1,
+			"name": "K'r'shh Sl'ppr'ss",
+			"pass": 1,
+			"prespp": 303,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 14,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 154
 		}
 	}
 }

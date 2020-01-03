@@ -1,20 +1,269 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4105589",
+	"player": {
 		"882382": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Ali's Anarchists",
-			"scorediff": 0,
-			"tddiff": 0
+			"11881490": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Shan Yu",
+				"prespp": 20,
+				"turns": 4,
+				"type": "R"
+			},
+			"12220671": {
+				"name": "Aladain",
+				"prespp": 56,
+				"type": "R"
+			},
+			"12325284": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Genie",
+				"prespp": 36,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12450728": {
+				"name": "Mustapha Shah",
+				"type": "R"
+			},
+			"12489867": {
+				"blocks": 5,
+				"name": "Sheikh Yabooti",
+				"prespp": 33,
+				"rush": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12529796": {
+				"blocks": 1,
+				"fouls": 3,
+				"name": "Gud",
+				"prespp": 9,
+				"turns": 12,
+				"type": "R"
+			},
+			"12547681": {
+				"blocks": 2,
+				"name": "El Maeiz",
+				"prespp": 16,
+				"rush": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12547682": {
+				"name": "Grak el Claah",
+				"turns": 4,
+				"type": "R"
+			},
+			"12636777": {
+				"blocks": 3,
+				"name": "Ka Viku",
+				"prespp": 132,
+				"turns": 11,
+				"type": "R"
+			},
+			"12640386": {
+				"blocks": 2,
+				"name": "Sinbad",
+				"prespp": 19,
+				"rush": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12664618": {
+				"blocks": 7,
+				"mvp": 1,
+				"name": "Hassan-i Sabbah",
+				"prespp": 11,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12664728": {
+				"name": "Saban al Mahaj",
+				"type": "R"
+			},
+			"12664729": {
+				"blocks": 2,
+				"name": "Saladin i Hasan",
+				"turns": 14,
+				"type": "R"
+			},
+			"12726428": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Banu Hilal",
+				"prespp": 5,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"STAR-Hack Enslash": {
+				"fouls": 1,
+				"name": "Hack Enslash",
+				"turns": 1,
+				"type": "S"
+			}
 		},
 		"896564": {
-			"cas": 0,
-			"casdiff": 0,
+			"12108653": {
+				"blocks": 8,
+				"cas": 2,
+				"name": "Ra-aa-kheper",
+				"prespp": 39,
+				"spp": 4,
+				"turns": 14,
+				"type": "R"
+			},
+			"12108656": {
+				"blocks": 9,
+				"cas": 2,
+				"name": "Ra-men-ankh",
+				"prespp": 39,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12108659": {
+				"blocks": 2,
+				"name": "Suten-rekh",
+				"prespp": 24,
+				"turns": 9,
+				"type": "R"
+			},
+			"12108662": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Ra-s-hotep-ab",
+				"prespp": 113,
+				"rush": 17,
+				"spp": 5,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12147083": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Pai-netem",
+				"prespp": 4,
+				"turns": 14,
+				"type": "R"
+			},
+			"12180822": {
+				"name": "Amenemef",
+				"type": "R"
+			},
+			"12263651": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Ta-med-boll",
+				"prespp": 26,
+				"spp": 5,
+				"turns": 4,
+				"type": "R"
+			},
+			"12347584": {
+				"name": "Necherophes",
+				"prespp": 7,
+				"turns": 1,
+				"type": "R"
+			},
+			"12429071": {
+				"name": "Uah-er-meri",
+				"prespp": 6,
+				"turns": 8,
+				"type": "R"
+			},
+			"12499278": {
+				"fouls": 1,
+				"name": "Abuskhau",
+				"prespp": 7,
+				"turns": 8,
+				"type": "R"
+			},
+			"12500890": {
+				"blocks": 14,
+				"name": "Khons-neb-ankh",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12585821": {
+				"blocks": 1,
+				"name": "Ken-amen",
+				"turns": 16,
+				"type": "R"
+			},
+			"12622801": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Nakh-ke",
+				"prespp": 13,
+				"turns": 8,
+				"type": "R"
+			},
+			"12667617": {
+				"blocks": 2,
+				"name": "Karo-amut-mimut",
+				"prespp": 12,
+				"turns": 3,
+				"type": "R"
+			},
+			"12696586": {
+				"blocks": 8,
+				"name": "Ra-aah-min-aa",
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1202401",
+	"team": {
+		"882382": {
+			"blocks": 44,
+			"cas": 3,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
+			"name": "Ali's Anarchists",
+			"pass": 0,
+			"prespp": 337,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 13,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 142
+		},
+		"896564": {
+			"blocks": 50,
+			"cas": 5,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Thoughts of Thoth",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 308,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 17,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 149
 		}
 	}
 }

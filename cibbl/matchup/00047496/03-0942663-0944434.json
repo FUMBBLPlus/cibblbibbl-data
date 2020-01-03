@@ -1,20 +1,216 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4105601",
+	"player": {
 		"942663": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Chargers of Diviciacus",
-			"scorediff": 0,
-			"tddiff": 0
+			"12843076": {
+				"blocks": 7,
+				"name": "Chiron",
+				"turns": 17,
+				"type": "B"
+			},
+			"12843077": {
+				"blocks": 12,
+				"cas": 3,
+				"name": "Glenstorm",
+				"prespp": 7,
+				"spp": 6,
+				"turns": 17,
+				"type": "B"
+			},
+			"12843078": {
+				"blocks": 5,
+				"name": "Oreius",
+				"prespp": 2,
+				"turns": 17,
+				"type": "B"
+			},
+			"12843080": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Cloudbirth",
+				"spp": 2,
+				"turns": 17,
+				"type": "B"
+			},
+			"12843082": {
+				"blocks": 1,
+				"name": "Carystus",
+				"rush": 24,
+				"spp": 6,
+				"td": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12843083": {
+				"blocks": 2,
+				"name": "Roonwit",
+				"turns": 17,
+				"type": "R"
+			},
+			"12843084": {
+				"blocks": 3,
+				"name": "Ronan",
+				"turns": 15,
+				"type": "R"
+			},
+			"12843086": {
+				"name": "Magorian",
+				"turns": 5,
+				"type": "R"
+			},
+			"12843087": {
+				"blocks": 1,
+				"name": "Firenze",
+				"turns": 17,
+				"type": "R"
+			},
+			"12843088": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Torvus",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"12843092": {
+				"name": "Bane",
+				"turns": 17,
+				"type": "R"
+			}
 		},
 		"944434": {
+			"12870764": {
+				"blocks": 5,
+				"name": "Hrozulr",
+				"turns": 12,
+				"type": "R"
+			},
+			"12870765": {
+				"blocks": 8,
+				"mvp": 1,
+				"name": "Smod",
+				"spp": 5,
+				"turns": 13,
+				"type": "R"
+			},
+			"12870767": {
+				"blocks": 10,
+				"comp": 1,
+				"name": "Kruthreisnath",
+				"pass": 2,
+				"prespp": 5,
+				"spp": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12870769": {
+				"blocks": 1,
+				"name": "Frustrud",
+				"turns": 6,
+				"type": "R"
+			},
+			"12870770": {
+				"blocks": 3,
+				"name": "Deathbraid",
+				"turns": 17,
+				"type": "R"
+			},
+			"12870776": {
+				"blocks": 2,
+				"name": "Mazror",
+				"rush": 4,
+				"turns": 13,
+				"type": "R"
+			},
+			"12870778": {
+				"blocks": 9,
+				"name": "Tezkiz",
+				"turns": 17,
+				"type": "R"
+			},
+			"12870779": {
+				"blocks": 1,
+				"name": "Knulghic",
+				"turns": 11,
+				"type": "R"
+			},
+			"12870780": {
+				"blocks": 3,
+				"comp": 1,
+				"name": "Thugdhoc",
+				"pass": -1,
+				"rush": 4,
+				"spp": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12881150": {
+				"blocks": 1,
+				"dead": [
+					2,
+					2,
+					"blocked",
+					"12843077"
+				],
+				"name": "Ian Bluespike",
+				"turns": 9,
+				"type": "J"
+			},
+			"12881151": {
+				"blocks": 5,
+				"fouls": 1,
+				"name": "Billy Clearrock",
+				"retired": true,
+				"turns": 17,
+				"type": "J"
+			}
+		}
+	},
+	"replayId": "1202418",
+	"team": {
+		"942663": {
+			"blocks": 41,
+			"cas": 4,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Chargers of Diviciacus",
+			"pass": 0,
+			"prespp": 14,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 24,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 173
+		},
+		"944434": {
+			"blocks": 48,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -4,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Khorne's Doombringers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 5,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 8,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 142
 		}
 	}
 }

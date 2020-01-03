@@ -1,20 +1,249 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4107342",
+	"player": {
 		"931222": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Pride of Lybaras",
-			"scorediff": 0,
-			"tddiff": 0
+			"12658370": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Emotmonb The Maniacal",
+				"retired": true,
+				"turns": 7,
+				"type": "R"
+			},
+			"12658372": {
+				"blocks": 1,
+				"name": "Iprers",
+				"turns": 8,
+				"type": "R"
+			},
+			"12658373": {
+				"blocks": 6,
+				"name": "Ochiph",
+				"prespp": 13,
+				"turns": 16,
+				"type": "R"
+			},
+			"12658375": {
+				"name": "Hakiph",
+				"turns": 3,
+				"type": "R"
+			},
+			"12658376": {
+				"blocks": 2,
+				"name": "Nosophonb",
+				"turns": 9,
+				"type": "R"
+			},
+			"12658377": {
+				"name": "Sectochar",
+				"type": "R"
+			},
+			"12658378": {
+				"blocks": 6,
+				"name": "Wondrous Hezibi",
+				"prespp": 17,
+				"turns": 14,
+				"type": "R"
+			},
+			"12658381": {
+				"blocks": 12,
+				"name": "Tremendous Bostesi",
+				"prespp": 14,
+				"turns": 16,
+				"type": "R"
+			},
+			"12658382": {
+				"blocks": 2,
+				"name": "Monumental Makof",
+				"prespp": 9,
+				"turns": 12,
+				"type": "B"
+			},
+			"12658383": {
+				"blocks": 6,
+				"name": "Repthosheph",
+				"prespp": 7,
+				"turns": 14,
+				"type": "R"
+			},
+			"12714822": {
+				"blocks": 6,
+				"comp": 1,
+				"mvp": 1,
+				"name": "Sumptuous Thikha",
+				"pass": 2,
+				"prespp": 10,
+				"rush": 5,
+				"spp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12872697": {
+				"blocks": 4,
+				"name": "Fabulous Pemkheza",
+				"prespp": 6,
+				"rush": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12872935": {
+				"dead": [
+					2,
+					8,
+					"secretWeaponBan",
+					null
+				],
+				"name": "Abikar The Eccentric",
+				"turns": 10,
+				"type": "R"
+			},
+			"12889950": {
+				"name": "Tepho",
+				"turns": 9,
+				"type": "R"
+			}
 		},
 		"942535": {
+			"12840992": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Father Grungi",
+				"prespp": 5,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12840993": {
+				"blocks": 11,
+				"cas": 2,
+				"name": "Tungil Quicksilverson",
+				"prespp": 6,
+				"spp": 4,
+				"turns": 17,
+				"type": "R"
+			},
+			"12840996": {
+				"blocks": 3,
+				"name": "Borek Steamforce",
+				"prespp": 3,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12840999": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Hammet Goldstriker",
+				"prespp": 4,
+				"rush": 8,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12841000": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Uri Steelwall",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12841001": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Vardak Towerlord",
+				"prespp": 4,
+				"spp": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"12841005": {
+				"blocks": 2,
+				"name": "Snorri Ironson",
+				"turns": 9,
+				"type": "R"
+			},
+			"12841006": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Haggle Sourfist",
+				"turns": 10,
+				"type": "R"
+			},
+			"12841007": {
+				"blocks": 8,
+				"name": "Mordak Runemaster",
+				"prespp": 7,
+				"turns": 17,
+				"type": "R"
+			},
+			"12841008": {
+				"blocks": 3,
+				"name": "Nix Stonefist",
+				"prespp": 7,
+				"turns": 17,
+				"type": "R"
+			},
+			"12841010": {
+				"blocks": 8,
+				"name": "Vilk Silverton",
+				"turns": 17,
+				"type": "R"
+			},
+			"12907698": {
+				"name": "Bjorn Dragonbane",
+				"turns": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1204426",
+	"team": {
+		"931222": {
+			"blocks": 47,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -6,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Pride of Lybaras",
+			"pass": 2,
+			"prespp": 76,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 15,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 150
+		},
+		"942535": {
+			"blocks": 60,
+			"cas": 6,
+			"casdiff": 6,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Star Metal Sentinels",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 38,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 27,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 180
 		}
 	}
 }

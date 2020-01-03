@@ -1,20 +1,248 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4106517",
+	"player": {
 		"874302": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Grasparossa B.B.C",
-			"scorediff": 0,
-			"tddiff": 0
+			"11754146": {
+				"blocks": 3,
+				"name": "Spilamberto",
+				"prespp": 107,
+				"rush": 8,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"11783522": {
+				"name": "Modena",
+				"prespp": 106,
+				"turns": 4,
+				"type": "R"
+			},
+			"11967732": {
+				"name": "Formigine III",
+				"prespp": 60,
+				"type": "R"
+			},
+			"12062178": {
+				"blocks": 7,
+				"name": "Castelfranco Emilia II",
+				"prespp": 42,
+				"rush": -1,
+				"turns": 9,
+				"type": "R"
+			},
+			"12223648": {
+				"blocks": 1,
+				"name": "Savignano sul Panaro III",
+				"prespp": 21,
+				"turns": 16,
+				"type": "R"
+			},
+			"12255081": {
+				"blocks": 3,
+				"name": "Sassuolo II",
+				"prespp": 25,
+				"turns": 16,
+				"type": "R"
+			},
+			"12496458": {
+				"name": "San Cesario sul Panaro IV",
+				"prespp": 20,
+				"type": "R"
+			},
+			"12514876": {
+				"blocks": 4,
+				"name": "Fiorano VII",
+				"turns": 16,
+				"type": "R"
+			},
+			"12514881": {
+				"blocks": 2,
+				"name": "Vignola II",
+				"pass": 4,
+				"prespp": 22,
+				"rush": 2,
+				"turns": 7,
+				"type": "R"
+			},
+			"12595023": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Castelvetro IV",
+				"pass": -1,
+				"prespp": 18,
+				"rush": 11,
+				"spp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"12615341": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Maranello V",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12676525": {
+				"blocks": 1,
+				"name": "Prignano sulla Secchia V",
+				"turns": 16,
+				"type": "R"
+			},
+			"12894609": {
+				"blocks": 3,
+				"fouls": 2,
+				"name": "Duane Hardrock",
+				"retired": true,
+				"turns": 16,
+				"type": "J"
+			}
 		},
 		"897353": {
-			"cas": 0,
+			"12165569": {
+				"blocks": 6,
+				"name": "Adenes Fujo",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12362498": {
+				"name": "Wuwuhuwu",
+				"prespp": 10,
+				"retired": true,
+				"type": "R"
+			},
+			"12488193": {
+				"blocks": 6,
+				"name": "Dark Hummus",
+				"prespp": 35,
+				"turns": 8,
+				"type": "R"
+			},
+			"12502657": {
+				"blocks": 6,
+				"name": "Dunkl Meer",
+				"prespp": 19,
+				"rush": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12535865": {
+				"blocks": 7,
+				"name": "Aush",
+				"prespp": 11,
+				"turns": 16,
+				"type": "R"
+			},
+			"12578862": {
+				"name": "Ueresh",
+				"prespp": 1,
+				"turns": 4,
+				"type": "R"
+			},
+			"12695465": {
+				"blocks": 5,
+				"name": "Torn Ado",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12706552": {
+				"blocks": 13,
+				"cas": 1,
+				"name": "Clayface",
+				"prespp": 6,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12706553": {
+				"blocks": 3,
+				"name": "Potok",
+				"prespp": 6,
+				"rush": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12722742": {
+				"mvp": 1,
+				"name": "Forroh",
+				"rush": 5,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12892906": {
+				"blocks": 2,
+				"name": "Husith",
+				"prespp": 6,
+				"rush": 13,
+				"turns": 12,
+				"type": "R"
+			},
+			"12895327": {
+				"blocks": 7,
+				"name": "Perzel",
+				"rush": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"STAR-Big Gregg": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Big Gregg",
+				"spp": 2,
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1203446",
+	"team": {
+		"874302": {
+			"blocks": 37,
+			"cas": 2,
 			"casdiff": 0,
-			"name": "Court of Shu",
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Grasparossa B.B.C",
+			"pass": 3,
+			"prespp": 421,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 20,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 146
+		},
+		"897353": {
+			"blocks": 65,
+			"cas": 2,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Court of Shu",
+			"pass": 0,
+			"prespp": 116,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 27,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 168
 		}
 	}
 }

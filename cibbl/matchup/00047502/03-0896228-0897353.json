@@ -1,20 +1,254 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4105421",
+	"player": {
 		"896228": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Gardeners of Nurgle",
-			"scorediff": 0,
-			"tddiff": 0
+			"12103149": {
+				"blocks": 3,
+				"name": "Mortarion",
+				"prespp": 33,
+				"turns": 16,
+				"type": "B"
+			},
+			"12103152": {
+				"blocks": 11,
+				"name": "Ku'Gath",
+				"prespp": 24,
+				"turns": 16,
+				"type": "R"
+			},
+			"12114193": {
+				"name": "Omphuross",
+				"prespp": 64,
+				"type": "R"
+			},
+			"12325545": {
+				"blocks": 11,
+				"name": "Halatoth",
+				"prespp": 25,
+				"turns": 16,
+				"type": "R"
+			},
+			"12407510": {
+				"blocks": 13,
+				"name": "Kraarak",
+				"prespp": 40,
+				"turns": 16,
+				"type": "R"
+			},
+			"12465025": {
+				"fouls": 2,
+				"name": "Pligis",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12494315": {
+				"name": "Goulbar",
+				"prespp": 3,
+				"type": "R"
+			},
+			"12533831": {
+				"fouls": 1,
+				"name": "Gassious",
+				"prespp": 8,
+				"turns": 3,
+				"type": "R"
+			},
+			"12608838": {
+				"blocks": 2,
+				"name": "Bloodscalp",
+				"rush": 1,
+				"turns": 11,
+				"type": "R"
+			},
+			"12664730": {
+				"blocks": 8,
+				"name": "Tallyman",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12696907": {
+				"blocks": 2,
+				"name": "Fungallius",
+				"turns": 16,
+				"type": "R"
+			},
+			"12712713": {
+				"blocks": 2,
+				"name": "Syphidex",
+				"prespp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12730313": {
+				"blocks": 4,
+				"name": "Staphbrood",
+				"turns": 13,
+				"type": "R"
+			},
+			"12867525": {
+				"name": "Castelnuovo Rangone III",
+				"turns": 3,
+				"type": "R"
+			},
+			"12886663": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Malvirus",
+				"rush": 14,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"897353": {
+			"12165569": {
+				"blocks": 4,
+				"name": "Adenes Fujo",
+				"prespp": 16,
+				"rush": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"12362498": {
+				"name": "Wuwuhuwu",
+				"prespp": 10,
+				"type": "R"
+			},
+			"12488193": {
+				"blocks": 2,
+				"name": "Dark Hummus",
+				"prespp": 35,
+				"turns": 16,
+				"type": "R"
+			},
+			"12502657": {
+				"name": "Dunkl Meer",
+				"prespp": 19,
+				"type": "R"
+			},
+			"12535865": {
+				"blocks": 5,
+				"name": "Aush",
+				"prespp": 11,
+				"turns": 16,
+				"type": "R"
+			},
+			"12578862": {
+				"name": "Ueresh",
+				"prespp": 1,
+				"type": "R"
+			},
+			"12695465": {
+				"blocks": 3,
+				"name": "Torn Ado",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12706552": {
+				"blocks": 2,
+				"name": "Clayface",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12706553": {
+				"blocks": 2,
+				"name": "Potok",
+				"prespp": 6,
+				"rush": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12722742": {
+				"blocks": 2,
+				"name": "Forroh",
+				"rush": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12892906": {
+				"mvp": 1,
+				"name": "Husith",
+				"prespp": 1,
+				"spp": 5,
+				"type": "R"
+			},
+			"12895327": {
+				"blocks": 3,
+				"name": "Perzel",
+				"turns": 16,
+				"type": "R"
+			},
+			"12895330": {
+				"blocks": 1,
+				"name": "Richard Strongshield",
+				"retired": true,
+				"turns": 10,
+				"type": "J"
+			},
+			"MERC-1202193-897353M1": {
+				"blocks": 4,
+				"name": "Merc Incarnate Elemental of Air 1",
+				"rush": 8,
+				"turns": 14,
+				"type": "M"
+			},
+			"STAR-Schworg'n'Borg": {
+				"blocks": 8,
+				"name": "Schworg'n'Borg",
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1202193",
+	"team": {
+		"896228": {
+			"blocks": 58,
 			"cas": 0,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Gardeners of Nurgle",
+			"pass": 0,
+			"prespp": 229,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 15,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 174
+		},
+		"897353": {
+			"blocks": 36,
+			"cas": 0,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Court of Shu",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 111,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 15,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 159
 		}
 	}
 }

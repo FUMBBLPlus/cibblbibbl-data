@@ -1,20 +1,244 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4107471",
+	"player": {
 		"896564": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Thoughts of Thoth",
-			"scorediff": 0,
-			"tddiff": 0
+			"12108653": {
+				"name": "Ra-aa-kheper",
+				"prespp": 43,
+				"type": "R"
+			},
+			"12108656": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Ra-men-ankh",
+				"prespp": 43,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12108659": {
+				"blocks": 4,
+				"name": "Suten-rekh",
+				"prespp": 24,
+				"turns": 16,
+				"type": "R"
+			},
+			"12108662": {
+				"name": "Ra-s-hotep-ab",
+				"prespp": 122,
+				"rush": 18,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12147083": {
+				"mvp": 1,
+				"name": "Pai-netem",
+				"prespp": 4,
+				"spp": 5,
+				"turns": 12,
+				"type": "R"
+			},
+			"12263651": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Ta-med-boll",
+				"prespp": 31,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12347584": {
+				"blocks": 2,
+				"fouls": 2,
+				"name": "Necherophes",
+				"prespp": 7,
+				"turns": 14,
+				"type": "R"
+			},
+			"12429071": {
+				"fouls": 1,
+				"name": "Uah-er-meri",
+				"prespp": 6,
+				"turns": 4,
+				"type": "R"
+			},
+			"12499278": {
+				"fouls": 4,
+				"name": "Abuskhau",
+				"prespp": 7,
+				"turns": 15,
+				"type": "R"
+			},
+			"12500890": {
+				"blocks": 9,
+				"name": "Khons-neb-ankh",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12622801": {
+				"blocks": 5,
+				"cas": 2,
+				"name": "Nakh-ke",
+				"prespp": 13,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12667617": {
+				"blocks": 4,
+				"name": "Karo-amut-mimut",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12696586": {
+				"blocks": 3,
+				"name": "Ra-aah-min-aa",
+				"rush": 12,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"906026": {
+			"12255960": {
+				"blocks": 6,
+				"name": "Hungry",
+				"prespp": 48,
+				"turns": 16,
+				"type": "B"
+			},
+			"12411917": {
+				"blocks": 2,
+				"name": "Angry",
+				"prespp": 51,
+				"turns": 9,
+				"type": "B"
+			},
+			"12492987": {
+				"name": "Urdin",
+				"prespp": 9,
+				"turns": 11,
+				"type": "R"
+			},
+			"12504901": {
+				"fouls": 1,
+				"name": "Tristan Hotwing",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12586694": {
+				"name": "Zerdack Handspin",
+				"pass": -1,
+				"prespp": 15,
+				"rush": 5,
+				"turns": 11,
+				"type": "R"
+			},
+			"12674697": {
+				"fouls": 1,
+				"name": "Jerk Jerk",
+				"turns": 8,
+				"type": "R"
+			},
+			"12702717": {
+				"blocks": 1,
+				"name": "Chef Henri",
+				"prespp": 3,
+				"turns": 5,
+				"type": "R"
+			},
+			"12750393": {
+				"fouls": 1,
+				"name": "Bargain",
+				"turns": 12,
+				"type": "R"
+			},
+			"12871778": {
+				"comp": 1,
+				"name": "Coke en stock",
+				"pass": 3,
+				"prespp": 16,
+				"rush": 33,
+				"spp": 4,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12887346": {
+				"blocks": 1,
+				"name": "Karghan Onehanded",
+				"turns": 10,
+				"type": "R"
+			},
+			"12903791": {
+				"name": "Squizz Wizz",
+				"turns": 2,
+				"type": "R"
+			},
+			"12903792": {
+				"mvp": 1,
+				"name": "Galk Le sourd",
+				"spp": 5,
+				"turns": 8,
+				"type": "R"
+			},
+			"STAR-Ripper": {
+				"blocks": 3,
+				"name": "Ripper",
+				"turns": 9,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1204586",
+	"team": {
+		"896564": {
+			"blocks": 35,
+			"cas": 6,
+			"casdiff": 6,
+			"comp": 0,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
+			"name": "Thoughts of Thoth",
+			"pass": 0,
+			"prespp": 335,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 30,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 173
+		},
+		"906026": {
+			"blocks": 13,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -6,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Karak Azog Outlaws",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 2,
+			"prespp": 149,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 38,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 111
 		}
 	}
 }

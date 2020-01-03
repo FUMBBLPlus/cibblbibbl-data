@@ -1,20 +1,230 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4108198",
+	"player": {
 		"942428": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Nagashizzar Nightmares",
-			"scorediff": 0,
-			"tddiff": 0
+			"12839831": {
+				"blocks": 6,
+				"name": "Dorfl",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839833": {
+				"blocks": 4,
+				"name": "Gladys",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839840": {
+				"blocks": 7,
+				"name": "Fluffy",
+				"prespp": 11,
+				"turns": 11,
+				"type": "R"
+			},
+			"12839854": {
+				"blocks": 9,
+				"name": "Iumut",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839869": {
+				"blocks": 5,
+				"name": "Isetasht",
+				"turns": 16,
+				"type": "R"
+			},
+			"12839878": {
+				"blocks": 1,
+				"name": "Gashnag",
+				"prespp": 3,
+				"rush": 7,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839885": {
+				"name": "Crugeth",
+				"turns": 10,
+				"type": "R"
+			},
+			"12839887": {
+				"blocks": 1,
+				"cas": 1,
+				"fouls": 3,
+				"name": "Sremar",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839893": {
+				"blocks": 2,
+				"fouls": 3,
+				"name": "Clerus",
+				"turns": 16,
+				"type": "R"
+			},
+			"12845274": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Amerith",
+				"spp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"12881855": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Rex",
+				"prespp": 3,
+				"rush": 16,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"944434": {
-			"cas": 0,
-			"casdiff": 0,
+			"12870764": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Hrozulr",
+				"spp": 2,
+				"turns": 3,
+				"type": "R"
+			},
+			"12870765": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "Smod",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 8,
+				"type": "R"
+			},
+			"12870767": {
+				"blocks": 4,
+				"name": "Kruthreisnath",
+				"prespp": 6,
+				"rush": 3,
+				"turns": 12,
+				"type": "R"
+			},
+			"12870769": {
+				"blocks": 6,
+				"name": "Frustrud",
+				"turns": 12,
+				"type": "R"
+			},
+			"12870770": {
+				"blocks": 1,
+				"name": "Deathbraid",
+				"turns": 16,
+				"type": "R"
+			},
+			"12870776": {
+				"blocks": 5,
+				"comp": 1,
+				"name": "Mazror",
+				"pass": 1,
+				"spp": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"12870778": {
+				"blocks": 5,
+				"dead": [
+					2,
+					5,
+					"dodgeFail",
+					null
+				],
+				"fouls": 1,
+				"name": "Tezkiz",
+				"turns": 12,
+				"type": "R"
+			},
+			"12870779": {
+				"blocks": 3,
+				"name": "Knulghic",
+				"turns": 16,
+				"type": "R"
+			},
+			"12870780": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Thugdhoc",
+				"prespp": 1,
+				"turns": 12,
+				"type": "R"
+			},
+			"12904076": {
+				"blocks": 3,
+				"name": "Ambrorgon",
+				"turns": 13,
+				"type": "R"
+			},
+			"12904077": {
+				"blocks": 1,
+				"name": "Leroy Hideousfire",
+				"retired": true,
+				"turns": 3,
+				"type": "J"
+			},
+			"MERC-1205446-944434M1": {
+				"name": "Merc Beastman 1",
+				"turns": 3,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1205446",
+	"team": {
+		"942428": {
+			"blocks": 37,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
+			"name": "Nagashizzar Nightmares",
+			"pass": 0,
+			"prespp": 37,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 23,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 163
+		},
+		"944434": {
+			"blocks": 38,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Khorne's Doombringers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 12,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 3,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 123
 		}
 	}
 }

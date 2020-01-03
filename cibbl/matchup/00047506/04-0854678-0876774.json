@@ -1,20 +1,279 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4105351",
+	"player": {
 		"854678": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Lords of the Silent Death",
-			"scorediff": 0,
-			"tddiff": 0
+			"11439628": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Sneekis the Dragon",
+				"prespp": 84,
+				"spp": 2,
+				"turns": 5,
+				"type": "R"
+			},
+			"11482377": {
+				"blocks": 4,
+				"name": "Grisnagar the Brave",
+				"prespp": 31,
+				"turns": 11,
+				"type": "R"
+			},
+			"11696956": {
+				"name": "Nightmaster Skirshakk",
+				"prespp": 181,
+				"rush": 10,
+				"spp": 3,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"11850585": {
+				"blocks": 1,
+				"name": "Nightlord Azhiskikk",
+				"prespp": 52,
+				"turns": 7,
+				"type": "R"
+			},
+			"11934134": {
+				"blocks": 3,
+				"name": "Nightmaster Vasquee",
+				"prespp": 62,
+				"turns": 7,
+				"type": "R"
+			},
+			"11951210": {
+				"blocks": 1,
+				"name": "Nightlord Nurgrin",
+				"pass": 1,
+				"prespp": 89,
+				"rush": 22,
+				"turns": 16,
+				"type": "R"
+			},
+			"12217971": {
+				"name": "Nightmaster Crittskik",
+				"prespp": 56,
+				"turns": 2,
+				"type": "R"
+			},
+			"12345916": {
+				"fouls": 1,
+				"name": "Vazhakk the Skywatcher",
+				"prespp": 34,
+				"turns": 1,
+				"type": "R"
+			},
+			"12528392": {
+				"name": "Nightmaster Skre",
+				"prespp": 27,
+				"turns": 3,
+				"type": "R"
+			},
+			"12540527": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Skik the Weaver",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12616878": {
+				"blocks": 1,
+				"dead": [
+					1,
+					4,
+					"blocked",
+					"11791215"
+				],
+				"name": "Crilk the Eager",
+				"turns": 3,
+				"type": "R"
+			},
+			"12706917": {
+				"blocks": 1,
+				"name": "Chuzhak the Rough",
+				"turns": 5,
+				"type": "R"
+			},
+			"12894641": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Quskrul the Digger",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 4,
+				"type": "R"
+			},
+			"12900501": {
+				"blocks": 2,
+				"name": "Zret the Darkfang",
+				"retired": true,
+				"turns": 6,
+				"type": "R"
+			},
+			"12900503": {
+				"blocks": 2,
+				"name": "Struaknuak the Hawk",
+				"turns": 10,
+				"type": "R"
+			}
 		},
 		"876774": {
-			"cas": 0,
-			"casdiff": 0,
+			"11791176": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Mather Teresa of Diesdolf",
+				"prespp": 107,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"11791215": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Ludmilla \"The Redeemed\"",
+				"prespp": 37,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"11791216": {
+				"blocks": 3,
+				"name": "Carol \"Divine Punishment\"",
+				"prespp": 77,
+				"turns": 16,
+				"type": "R"
+			},
+			"11791220": {
+				"blocks": 3,
+				"name": "Berta \"The Humble Daughter\"",
+				"prespp": 85,
+				"turns": 16,
+				"type": "R"
+			},
+			"11791226": {
+				"fouls": 7,
+				"name": "Luisa \"The Martyr\"",
+				"prespp": 9,
+				"turns": 10,
+				"type": "R"
+			},
+			"11791229": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Johanna \"Silent Devotion\"",
+				"prespp": 28,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"11928024": {
+				"name": "Rosetta \"Rose Thorn\"",
+				"pass": 1,
+				"prespp": 162,
+				"rush": 43,
+				"spp": 6,
+				"td": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"12131132": {
+				"fouls": 1,
+				"name": "Lucy \"Joyful Advent\"",
+				"prespp": 10,
+				"type": "R"
+			},
+			"12279329": {
+				"blocks": 2,
+				"name": "Matilda \"Repetita Iuvant\"",
+				"prespp": 66,
+				"rush": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12512122": {
+				"name": "Jessica \"Due Obedience\"",
+				"turns": 1,
+				"type": "R"
+			},
+			"12542037": {
+				"name": "Jennifer \"Reveled Word\"",
+				"turns": 1,
+				"type": "R"
+			},
+			"12592889": {
+				"blocks": 2,
+				"name": "Agatha \"Furious Preach\"",
+				"prespp": 23,
+				"turns": 16,
+				"type": "R"
+			},
+			"12634057": {
+				"blocks": 1,
+				"name": "Deborah \"Divine Intervention\"",
+				"turns": 5,
+				"type": "R"
+			},
+			"12873998": {
+				"blocks": 3,
+				"fouls": 2,
+				"name": "Janice \"Instant Exorcism\"",
+				"turns": 12,
+				"type": "R"
+			},
+			"12900567": {
+				"blocks": 5,
+				"name": "Alicia \"The Punching Saint\"",
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1202112",
+	"team": {
+		"854678": {
+			"blocks": 27,
+			"cas": 2,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Lords of the Silent Death",
+			"pass": 1,
+			"prespp": 625,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 32,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 106
+		},
+		"876774": {
+			"blocks": 32,
+			"cas": 5,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 10,
+			"int": 0,
+			"mvp": 1,
 			"name": "Congregation of Holy Touchdown",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 604,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 52,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 167
 		}
 	}
 }

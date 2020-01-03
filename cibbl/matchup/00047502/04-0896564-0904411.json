@@ -1,20 +1,289 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4106584",
+	"player": {
 		"896564": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Thoughts of Thoth",
-			"scorediff": 0,
-			"tddiff": 0
+			"12108653": {
+				"blocks": 1,
+				"name": "Ra-aa-kheper",
+				"prespp": 43,
+				"turns": 7,
+				"type": "R"
+			},
+			"12108656": {
+				"blocks": 10,
+				"name": "Ra-men-ankh",
+				"prespp": 43,
+				"turns": 15,
+				"type": "R"
+			},
+			"12108659": {
+				"blocks": 2,
+				"name": "Suten-rekh",
+				"prespp": 24,
+				"turns": 15,
+				"type": "R"
+			},
+			"12108662": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Ra-s-hotep-ab",
+				"prespp": 118,
+				"rush": 21,
+				"spp": 4,
+				"td": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"12147083": {
+				"blocks": 2,
+				"name": "Pai-netem",
+				"prespp": 4,
+				"turns": 7,
+				"type": "R"
+			},
+			"12180822": {
+				"blocks": 2,
+				"dead": [
+					2,
+					6,
+					"blocked",
+					"12259937"
+				],
+				"name": "Amenemef",
+				"turns": 5,
+				"type": "R"
+			},
+			"12263651": {
+				"blocks": 1,
+				"name": "Ta-med-boll",
+				"prespp": 31,
+				"turns": 4,
+				"type": "R"
+			},
+			"12347584": {
+				"blocks": 1,
+				"name": "Necherophes",
+				"prespp": 7,
+				"turns": 8,
+				"type": "R"
+			},
+			"12429071": {
+				"blocks": 1,
+				"name": "Uah-er-meri",
+				"prespp": 6,
+				"turns": 7,
+				"type": "R"
+			},
+			"12499278": {
+				"fouls": 3,
+				"name": "Abuskhau",
+				"prespp": 7,
+				"turns": 7,
+				"type": "R"
+			},
+			"12500890": {
+				"blocks": 11,
+				"name": "Khons-neb-ankh",
+				"prespp": 18,
+				"turns": 15,
+				"type": "R"
+			},
+			"12585821": {
+				"name": "Ken-amen",
+				"retired": true,
+				"turns": 2,
+				"type": "R"
+			},
+			"12622801": {
+				"blocks": 2,
+				"name": "Nakh-ke",
+				"prespp": 13,
+				"turns": 8,
+				"type": "R"
+			},
+			"12667617": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "Karo-amut-mimut",
+				"prespp": 12,
+				"spp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"12696586": {
+				"blocks": 4,
+				"name": "Ra-aah-min-aa",
+				"turns": 15,
+				"type": "R"
+			},
+			"STAR-Hack Enslash": {
+				"blocks": 1,
+				"name": "Hack Enslash",
+				"turns": 2,
+				"type": "S"
+			}
 		},
 		"904411": {
+			"12231968": {
+				"blocks": 7,
+				"cas": 2,
+				"name": "\"Smiles\" Arwyn",
+				"pass": 1,
+				"prespp": 60,
+				"spp": 4,
+				"turns": 13,
+				"type": "R"
+			},
+			"12231970": {
+				"blocks": 1,
+				"name": "Madoc Gallows-Grin",
+				"prespp": 32,
+				"turns": 15,
+				"type": "R"
+			},
+			"12231971": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Owain ap Bran",
+				"pass": -1,
+				"prespp": 62,
+				"rush": 8,
+				"spp": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"12231974": {
+				"name": "Prydwen ap Blaidd",
+				"prespp": 53,
+				"turns": 4,
+				"type": "R"
+			},
+			"12231978": {
+				"blocks": 3,
+				"name": "Llewelyn Grey-Eyes",
+				"prespp": 35,
+				"rush": 5,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12231981": {
+				"blocks": 7,
+				"name": "Meredith",
+				"prespp": 9,
+				"turns": 15,
+				"type": "R"
+			},
+			"12259937": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Graham the Brave",
+				"prespp": 48,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12261545": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Morcanth the Melancholy",
+				"prespp": 48,
+				"rush": 6,
+				"spp": 5,
+				"turns": 9,
+				"type": "R"
+			},
+			"12438765": {
+				"blocks": 3,
+				"name": "Caerwyn",
+				"prespp": 8,
+				"retired": true,
+				"turns": 15,
+				"type": "R"
+			},
+			"12438788": {
+				"name": "Glynn",
+				"prespp": 17,
+				"type": "R"
+			},
+			"12522725": {
+				"blocks": 3,
+				"name": "Evan the Heartbreaker",
+				"prespp": 33,
+				"turns": 15,
+				"type": "R"
+			},
+			"12587195": {
+				"name": "Aeron",
+				"turns": 1,
+				"type": "R"
+			},
+			"12610016": {
+				"blocks": 3,
+				"name": "\"Black Dog\" Bleddyn",
+				"prespp": 21,
+				"turns": 9,
+				"type": "R"
+			},
+			"12663114": {
+				"blocks": 1,
+				"name": "Dylan",
+				"turns": 5,
+				"type": "R"
+			},
+			"12884448": {
+				"name": "Eifion",
+				"prespp": 4,
+				"turns": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1203523",
+	"team": {
+		"896564": {
+			"blocks": 45,
 			"cas": 0,
-			"casdiff": 0,
-			"name": "Ynys Morion Mabsantwyr",
+			"casdiff": -3,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Thoughts of Thoth",
+			"pass": 0,
+			"prespp": 326,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 21,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 141
+		},
+		"904411": {
+			"blocks": 44,
+			"cas": 3,
+			"casdiff": 3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Ynys Morion Mabsantwyr",
+			"pass": 0,
+			"prespp": 430,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 19,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 149
 		}
 	}
 }

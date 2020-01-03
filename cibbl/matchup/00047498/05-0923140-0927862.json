@@ -1,20 +1,248 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4110269",
+	"player": {
 		"923140": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Dreadpeak's Delusionals",
-			"scorediff": 0,
-			"tddiff": 0
+			"12523353": {
+				"name": "Goongol Nonose",
+				"prespp": 9,
+				"turns": 16,
+				"type": "B"
+			},
+			"12523354": {
+				"blocks": 12,
+				"name": "Wuiq Squibbler",
+				"prespp": 48,
+				"turns": 16,
+				"type": "R"
+			},
+			"12523356": {
+				"name": "Zurt Bohurt",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12523358": {
+				"blocks": 3,
+				"name": "Jakdikt Junckt",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12523364": {
+				"blocks": 4,
+				"name": "Voorsirk Smellz",
+				"prespp": 10,
+				"turns": 13,
+				"type": "R"
+			},
+			"12523367": {
+				"blocks": 2,
+				"name": "Vukziz Phunginus",
+				"prespp": 20,
+				"rush": 25,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12536501": {
+				"blocks": 1,
+				"name": "Grottack Spleen",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12537431": {
+				"name": "Deellus the Deluded",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12597792": {
+				"blocks": 4,
+				"name": "Phinney Deleted",
+				"prespp": 9,
+				"turns": 4,
+				"type": "R"
+			},
+			"12637501": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Greembo Psilocybe",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12637502": {
+				"blocks": 1,
+				"name": "Zaszlurt Phart",
+				"turns": 8,
+				"type": "R"
+			},
+			"12642272": {
+				"name": "Krokky Crackky",
+				"turns": 11,
+				"type": "R"
+			},
+			"12708600": {
+				"name": "Wolch Sputnet",
+				"turns": 3,
+				"type": "R"
+			},
+			"12722543": {
+				"blocks": 8,
+				"mvp": 1,
+				"name": "Zigzag Zompar",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12870987": {
+				"blocks": 2,
+				"name": "Custer \"Eye\" Custard",
+				"turns": 8,
+				"type": "R"
+			}
 		},
 		"927862": {
-			"cas": 0,
+			"12598978": {
+				"blocks": 3,
+				"name": "Morgur Slogga",
+				"prespp": 33,
+				"rush": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12598989": {
+				"blocks": 6,
+				"name": "Ugga da One-legged",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12598997": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Gadzooks Gormless",
+				"prespp": 17,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12599001": {
+				"blocks": 9,
+				"name": "Grindok Gizzbut",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12599015": {
+				"blocks": 1,
+				"name": "Fuggbang",
+				"pass": 1,
+				"prespp": 9,
+				"rush": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12599016": {
+				"name": "Grotgrot",
+				"prespp": 3,
+				"turns": 4,
+				"type": "R"
+			},
+			"12599017": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Weebungo",
+				"prespp": 5,
+				"turns": 14,
+				"type": "R"
+			},
+			"12615324": {
+				"blocks": 2,
+				"name": "Mistah Beegs",
+				"prespp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12691051": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Skabgutz Redeyez",
+				"prespp": 9,
+				"spp": 5,
+				"turns": 4,
+				"type": "R"
+			},
+			"12715445": {
+				"blocks": 3,
+				"name": "Bukkit",
+				"turns": 16,
+				"type": "R"
+			},
+			"12729015": {
+				"fouls": 2,
+				"name": "Naznob",
+				"turns": 3,
+				"type": "R"
+			},
+			"12873886": {
+				"blocks": 3,
+				"name": "Gorkbog the Throttler",
+				"prespp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"12874125": {
+				"name": "Unit",
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1207837",
+	"team": {
+		"923140": {
+			"blocks": 39,
+			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Dreadpeak's Delusionals",
+			"pass": 0,
+			"prespp": 144,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 25,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 159
+		},
+		"927862": {
+			"blocks": 34,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Beegrok Massif Mob",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 108,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 19,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 151
 		}
 	}
 }

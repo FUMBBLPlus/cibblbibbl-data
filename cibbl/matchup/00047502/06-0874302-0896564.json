@@ -1,20 +1,243 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4110341",
+	"player": {
 		"874302": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Grasparossa B.B.C",
-			"scorediff": 0,
-			"tddiff": 0
+			"11754146": {
+				"name": "Spilamberto",
+				"prespp": 110,
+				"rush": 18,
+				"spp": 6,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"11783522": {
+				"comp": 1,
+				"name": "Modena",
+				"prespp": 108,
+				"rush": 18,
+				"spp": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"11967732": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Formigine III",
+				"prespp": 64,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12062178": {
+				"blocks": 5,
+				"name": "Castelfranco Emilia II",
+				"prespp": 42,
+				"turns": 16,
+				"type": "R"
+			},
+			"12223648": {
+				"blocks": 2,
+				"name": "Savignano sul Panaro III",
+				"prespp": 24,
+				"turns": 16,
+				"type": "R"
+			},
+			"12255081": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Sassuolo II",
+				"prespp": 25,
+				"turns": 16,
+				"type": "R"
+			},
+			"12496458": {
+				"blocks": 4,
+				"name": "San Cesario sul Panaro IV",
+				"prespp": 23,
+				"turns": 13,
+				"type": "R"
+			},
+			"12514876": {
+				"name": "Fiorano VII",
+				"turns": 1,
+				"type": "R"
+			},
+			"12514881": {
+				"name": "Vignola II",
+				"prespp": 22,
+				"turns": 10,
+				"type": "R"
+			},
+			"12595023": {
+				"blocks": 8,
+				"name": "Castelvetro IV",
+				"prespp": 20,
+				"turns": 15,
+				"type": "R"
+			},
+			"12615341": {
+				"name": "Maranello V",
+				"prespp": 10,
+				"type": "R"
+			},
+			"12676525": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Prignano sulla Secchia V",
+				"turns": 16,
+				"type": "R"
+			},
+			"12908378": {
+				"blocks": 1,
+				"fouls": 1,
+				"mvp": 1,
+				"name": "Castelnuovo Rangone IV",
+				"spp": 5,
+				"turns": 6,
+				"type": "R"
+			}
 		},
 		"896564": {
-			"cas": 0,
+			"12108653": {
+				"blocks": 5,
+				"name": "Ra-aa-kheper",
+				"prespp": 43,
+				"turns": 16,
+				"type": "R"
+			},
+			"12108656": {
+				"blocks": 3,
+				"name": "Ra-men-ankh",
+				"prespp": 45,
+				"turns": 16,
+				"type": "R"
+			},
+			"12108659": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Suten-rekh",
+				"prespp": 24,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12108662": {
+				"name": "Ra-s-hotep-ab",
+				"prespp": 125,
+				"rush": 16,
+				"turns": 12,
+				"type": "R"
+			},
+			"12147083": {
+				"blocks": 2,
+				"name": "Pai-netem",
+				"prespp": 9,
+				"turns": 5,
+				"type": "R"
+			},
+			"12263651": {
+				"blocks": 5,
+				"name": "Ta-med-boll",
+				"prespp": 33,
+				"turns": 7,
+				"type": "R"
+			},
+			"12347584": {
+				"blocks": 3,
+				"fouls": 2,
+				"name": "Necherophes",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12429071": {
+				"blocks": 2,
+				"name": "Uah-er-meri",
+				"prespp": 6,
+				"turns": 8,
+				"type": "R"
+			},
+			"12499278": {
+				"fouls": 3,
+				"name": "Abuskhau",
+				"prespp": 7,
+				"turns": 4,
+				"type": "R"
+			},
+			"12500890": {
+				"blocks": 9,
+				"name": "Khons-neb-ankh",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12622801": {
+				"name": "Nakh-ke",
+				"prespp": 17,
+				"turns": 9,
+				"type": "R"
+			},
+			"12667617": {
+				"blocks": 3,
+				"name": "Karo-amut-mimut",
+				"prespp": 17,
+				"turns": 6,
+				"type": "R"
+			},
+			"12696586": {
+				"blocks": 2,
+				"name": "Ra-aah-min-aa",
+				"prespp": 3,
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1207917",
+	"team": {
+		"874302": {
+			"blocks": 34,
+			"cas": 1,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Grasparossa B.B.C",
+			"pass": 0,
+			"prespp": 448,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 36,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 151
+		},
+		"896564": {
+			"blocks": 37,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Thoughts of Thoth",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 354,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 16,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 147
 		}
 	}
 }

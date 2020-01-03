@@ -1,20 +1,266 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4106209",
+	"player": {
 		"864291": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Norscan Curse",
-			"scorediff": 0,
-			"tddiff": 0
+			"11590768": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "S. Sang",
+				"prespp": 118,
+				"rush": 12,
+				"spp": 8,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"11590771": {
+				"blocks": 4,
+				"name": "Redivor",
+				"prespp": 19,
+				"turns": 16,
+				"type": "R"
+			},
+			"11590777": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Limortor",
+				"prespp": 28,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"11590780": {
+				"blocks": 2,
+				"name": "Affuquator",
+				"prespp": 26,
+				"turns": 15,
+				"type": "R"
+			},
+			"11681513": {
+				"name": "L.A. Biond",
+				"prespp": 93,
+				"rush": 6,
+				"turns": 6,
+				"type": "R"
+			},
+			"12178122": {
+				"blocks": 4,
+				"name": "Balord",
+				"prespp": 23,
+				"turns": 16,
+				"type": "B"
+			},
+			"12447130": {
+				"blocks": 6,
+				"name": "Borgan Nightbreath",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12455584": {
+				"blocks": 3,
+				"name": "Freddie 'n Petto",
+				"prespp": 19,
+				"turns": 14,
+				"type": "R"
+			},
+			"12470187": {
+				"blocks": 7,
+				"name": "Stukas",
+				"prespp": 19,
+				"turns": 16,
+				"type": "R"
+			},
+			"12552111": {
+				"blocks": 3,
+				"name": "L. Lavermicocca",
+				"prespp": 19,
+				"turns": 16,
+				"type": "B"
+			},
+			"12646258": {
+				"comp": 1,
+				"name": "Irene Adler",
+				"pass": 5,
+				"prespp": 18,
+				"rush": 5,
+				"spp": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"12705420": {
+				"dead": [
+					1,
+					4,
+					"blocked",
+					"12627616"
+				],
+				"name": "Changer of Ways",
+				"prespp": 5,
+				"turns": 3,
+				"type": "R"
+			},
+			"RAISED-7373_12627616_12906958": {
+				"name": "Hati",
+				"turns": 2,
+				"type": "D"
+			}
 		},
 		"928360": {
-			"cas": 0,
-			"casdiff": 0,
+			"12607999": {
+				"blocks": 10,
+				"name": "Grendel",
+				"prespp": 23,
+				"turns": 16,
+				"type": "B"
+			},
+			"12608002": {
+				"blocks": 2,
+				"name": "Baldur",
+				"prespp": 16,
+				"turns": 5,
+				"type": "R"
+			},
+			"12608004": {
+				"blocks": 4,
+				"name": "Surtr",
+				"prespp": 25,
+				"turns": 16,
+				"type": "R"
+			},
+			"12608011": {
+				"blocks": 1,
+				"name": "Heidrek",
+				"prespp": 5,
+				"turns": 9,
+				"type": "R"
+			},
+			"12608023": {
+				"name": "Vali",
+				"prespp": 8,
+				"type": "R"
+			},
+			"12608031": {
+				"blocks": 2,
+				"name": "Narfi",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12608034": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Mokkurkalfi",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12608036": {
+				"blocks": 4,
+				"name": "Halogi",
+				"prespp": 9,
+				"turns": 10,
+				"type": "R"
+			},
+			"12624317": {
+				"blocks": 4,
+				"comp": 1,
+				"name": "Ullr",
+				"pass": 2,
+				"prespp": 30,
+				"rush": 9,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12627616": {
+				"blocks": 1,
+				"cas": 1,
+				"dead": [
+					1,
+					5,
+					"blocked",
+					"11590768"
+				],
+				"name": "Hati",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 5,
+				"type": "R"
+			},
+			"12683077": {
+				"name": "Skoll Jr",
+				"prespp": 4,
+				"type": "R"
+			},
+			"12692043": {
+				"blocks": 1,
+				"name": "Baugi Jr",
+				"turns": 16,
+				"type": "R"
+			},
+			"12898117": {
+				"blocks": 2,
+				"comp": 1,
+				"mvp": 1,
+				"name": "Bjorn",
+				"pass": 1,
+				"spp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"STAR-Icepelt Hammerblow": {
+				"blocks": 4,
+				"name": "Icepelt Hammerblow",
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1203107",
+	"team": {
+		"864291": {
+			"blocks": 37,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Norscan Curse",
+			"pass": 5,
+			"prespp": 404,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 23,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 161
+		},
+		"928360": {
+			"blocks": 37,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gorequeen's Raiders",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 3,
+			"prespp": 147,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 9,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 157
 		}
 	}
 }

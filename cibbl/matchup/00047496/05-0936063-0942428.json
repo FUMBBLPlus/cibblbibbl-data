@@ -1,20 +1,224 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4109778",
+	"player": {
 		"936063": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Longbeard Grudgebearers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12738741": {
+				"blocks": 4,
+				"name": "Sunforth Slateborn",
+				"turns": 16,
+				"type": "R"
+			},
+			"12738742": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Imtrek Soulreaper",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12738743": {
+				"blocks": 6,
+				"name": "Dagna Battlehammer",
+				"prespp": 13,
+				"rush": 11,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12738744": {
+				"name": "Sevatar Of Mithril Hall",
+				"prespp": 5,
+				"type": "R"
+			},
+			"12738745": {
+				"blocks": 1,
+				"name": "Garro Rockbiter",
+				"prespp": 16,
+				"rush": 23,
+				"spp": 3,
+				"td": 1,
+				"turns": 11,
+				"type": "R"
+			},
+			"12738746": {
+				"blocks": 5,
+				"name": "Flint Fireforge",
+				"turns": 16,
+				"type": "R"
+			},
+			"12738747": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Tasslhoff Burrfoot",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12738749": {
+				"blocks": 2,
+				"name": "Fizban Brightstaff",
+				"turns": 16,
+				"type": "R"
+			},
+			"12738750": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Sturm Brightblade",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12738751": {
+				"blocks": 2,
+				"name": "Eriph The Shank",
+				"turns": 8,
+				"type": "R"
+			},
+			"12886335": {
+				"blocks": 4,
+				"name": "Spider Pericolo",
+				"turns": 16,
+				"type": "R"
+			},
+			"12886341": {
+				"blocks": 1,
+				"name": "Graham Coldhawk",
+				"retired": true,
+				"turns": 8,
+				"type": "J"
+			},
+			"STAR-Boomer Eziasson": {
+				"name": "Boomer Eziasson",
+				"turns": 8,
+				"type": "S"
+			}
 		},
 		"942428": {
-			"cas": 0,
-			"casdiff": 0,
+			"12839831": {
+				"blocks": 12,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Dorfl",
+				"prespp": 9,
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839833": {
+				"blocks": 9,
+				"name": "Gladys",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839840": {
+				"blocks": 5,
+				"name": "Fluffy",
+				"prespp": 11,
+				"rush": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12839854": {
+				"blocks": 6,
+				"name": "Iumut",
+				"prespp": 9,
+				"turns": 13,
+				"type": "R"
+			},
+			"12839869": {
+				"blocks": 4,
+				"name": "Isetasht",
+				"turns": 16,
+				"type": "R"
+			},
+			"12839878": {
+				"blocks": 1,
+				"name": "Gashnag",
+				"prespp": 6,
+				"turns": 9,
+				"type": "R"
+			},
+			"12839885": {
+				"name": "Crugeth",
+				"type": "R"
+			},
+			"12839887": {
+				"name": "Sremar",
+				"prespp": 2,
+				"turns": 5,
+				"type": "R"
+			},
+			"12839893": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Clerus",
+				"turns": 9,
+				"type": "R"
+			},
+			"12845274": {
+				"blocks": 4,
+				"name": "Amerith",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12881855": {
+				"blocks": 4,
+				"name": "Rex",
+				"prespp": 11,
+				"turns": 5,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1207243",
+	"team": {
+		"936063": {
+			"blocks": 42,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Longbeard Grudgebearers",
+			"pass": 0,
+			"prespp": 43,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 34,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 163
+		},
+		"942428": {
+			"blocks": 46,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Nagashizzar Nightmares",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 52,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 1,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 115
 		}
 	}
 }

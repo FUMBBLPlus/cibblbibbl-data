@@ -1,20 +1,263 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4110444",
+	"player": {
 		"854507": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Coven of the Mirrored Hall",
-			"scorediff": 0,
-			"tddiff": 0
+			"11439080": {
+				"blocks": 2,
+				"name": "Vol'arth the Brazen",
+				"prespp": 143,
+				"rush": 10,
+				"turns": 15,
+				"type": "R"
+			},
+			"11807607": {
+				"blocks": 12,
+				"cas": 2,
+				"name": "Palehawk, the Revenant",
+				"prespp": 64,
+				"spp": 4,
+				"turns": 15,
+				"type": "R"
+			},
+			"11851618": {
+				"blocks": 6,
+				"name": "Marius, the Herald",
+				"prespp": 58,
+				"turns": 15,
+				"type": "R"
+			},
+			"11926823": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Berethan, the Soulless",
+				"prespp": 34,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"11973355": {
+				"blocks": 1,
+				"name": "Nyerahd, the Cunning",
+				"prespp": 51,
+				"turns": 4,
+				"type": "R"
+			},
+			"12072676": {
+				"fouls": 1,
+				"name": "Good Ol' Nodens",
+				"turns": 3,
+				"type": "R"
+			},
+			"12158370": {
+				"fouls": 1,
+				"name": "Chaugnar Faugn",
+				"turns": 12,
+				"type": "R"
+			},
+			"12243333": {
+				"name": "Tulzscha",
+				"rush": 3,
+				"turns": 9,
+				"type": "R"
+			},
+			"12325373": {
+				"fouls": 1,
+				"mvp": 1,
+				"name": "Horok Reborn",
+				"prespp": 13,
+				"spp": 5,
+				"type": "R"
+			},
+			"12379882": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Jyrygaax",
+				"prespp": 38,
+				"rush": -2,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12513563": {
+				"name": "Daoloth",
+				"turns": 1,
+				"type": "R"
+			},
+			"12617944": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Vikas Darya, Nemesis",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12727516": {
+				"blocks": 5,
+				"name": "Agares, the Harbinger",
+				"prespp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12902151": {
+				"blocks": 2,
+				"name": "Young Forktongue",
+				"rush": 1,
+				"turns": 12,
+				"type": "R"
+			},
+			"12927644": {
+				"name": "Abhoth",
+				"turns": 3,
+				"type": "R"
+			}
 		},
 		"871312": {
-			"cas": 0,
-			"casdiff": 0,
+			"11700284": {
+				"blocks": 6,
+				"name": "Count Igor",
+				"prespp": 105,
+				"turns": 16,
+				"type": "R"
+			},
+			"12219185": {
+				"blocks": 2,
+				"name": "Servant Markos",
+				"prespp": 13,
+				"turns": 11,
+				"type": "R"
+			},
+			"12239687": {
+				"dead": [
+					2,
+					7,
+					"blocked",
+					"12617944"
+				],
+				"name": "Baldomero Caudillo",
+				"turns": 9,
+				"type": "R"
+			},
+			"12261685": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Osiris",
+				"prespp": 55,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12294148": {
+				"blocks": 6,
+				"name": "Anubis II.",
+				"prespp": 43,
+				"turns": 16,
+				"type": "R"
+			},
+			"12371479": {
+				"blocks": 2,
+				"name": "Count Ludovig III.",
+				"prespp": 35,
+				"rush": 17,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12371480": {
+				"blocks": 2,
+				"name": "Servant Ondrej",
+				"prespp": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12456867": {
+				"name": "Servant Iwan II.",
+				"prespp": 7,
+				"turns": 7,
+				"type": "R"
+			},
+			"12465599": {
+				"name": "Galdarin",
+				"prespp": 8,
+				"turns": 15,
+				"type": "R"
+			},
+			"12611780": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Count Yaroslav II.",
+				"prespp": 22,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12646986": {
+				"name": "Constantine",
+				"turns": 3,
+				"type": "R"
+			},
+			"12726955": {
+				"blocks": 1,
+				"name": "Count Jurij II.",
+				"prespp": 12,
+				"rush": 17,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12915389": {
+				"name": "Servant Franco",
+				"turns": 4,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1208040",
+	"team": {
+		"854507": {
+			"blocks": 52,
+			"cas": 6,
+			"casdiff": 5,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Coven of the Mirrored Hall",
+			"pass": 0,
+			"prespp": 405,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 12,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 149
+		},
+		"871312": {
+			"blocks": 28,
+			"cas": 1,
+			"casdiff": -5,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tower of the Necromancer",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 308,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 34,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 159
 		}
 	}
 }

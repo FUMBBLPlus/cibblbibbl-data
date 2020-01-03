@@ -1,20 +1,227 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4109769",
+	"player": {
 		"942438": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Oceanborn Sea Eagles",
-			"scorediff": 0,
-			"tddiff": 0
+			"12839552": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Arco Aeonir",
+				"pass": -2,
+				"prespp": 5,
+				"rush": 4,
+				"spp": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"12839560": {
+				"blocks": 1,
+				"name": "Caleb Crystalis",
+				"pass": 1,
+				"prespp": 6,
+				"rush": 8,
+				"turns": 14,
+				"type": "R"
+			},
+			"12839568": {
+				"blocks": 1,
+				"name": "Myrddin Kithsidhion",
+				"prespp": 11,
+				"turns": 11,
+				"type": "R"
+			},
+			"12839573": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Triandal Orama",
+				"prespp": 12,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839574": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Napraeleon Lithelon",
+				"prespp": 3,
+				"rush": 5,
+				"spp": 5,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839576": {
+				"blocks": 5,
+				"name": "Rhistel Simserion",
+				"prespp": 10,
+				"rush": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"12839577": {
+				"blocks": 2,
+				"name": "Kymil Nenaias",
+				"turns": 12,
+				"type": "R"
+			},
+			"12839578": {
+				"blocks": 2,
+				"name": "Onas Immeril",
+				"turns": 16,
+				"type": "R"
+			},
+			"12839579": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Nym Sylleth",
+				"turns": 16,
+				"type": "R"
+			},
+			"12891421": {
+				"blocks": 10,
+				"mvp": 1,
+				"name": "Caleb Widogast",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12901951": {
+				"blocks": 7,
+				"name": "Kevin Hideousfire",
+				"retired": true,
+				"turns": 16,
+				"type": "J"
+			}
 		},
 		"944434": {
-			"cas": 0,
+			"12870764": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "Hrozulr",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12870765": {
+				"blocks": 15,
+				"name": "Smod",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12870767": {
+				"blocks": 1,
+				"name": "Kruthreisnath",
+				"prespp": 6,
+				"turns": 3,
+				"type": "R"
+			},
+			"12870769": {
+				"blocks": 7,
+				"name": "Frustrud",
+				"turns": 16,
+				"type": "R"
+			},
+			"12870770": {
+				"blocks": 3,
+				"name": "Deathbraid",
+				"turns": 16,
+				"type": "R"
+			},
+			"12870776": {
+				"blocks": 6,
+				"comp": 1,
+				"name": "Mazror",
+				"pass": 2,
+				"prespp": 1,
+				"rush": 4,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12870779": {
+				"blocks": 4,
+				"name": "Knulghic",
+				"turns": 11,
+				"type": "R"
+			},
+			"12870780": {
+				"blocks": 5,
+				"cas": 2,
+				"fouls": 1,
+				"name": "Thugdhoc",
+				"prespp": 1,
+				"rush": -1,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12904076": {
+				"blocks": 3,
+				"name": "Ambrorgon",
+				"rush": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12916486": {
+				"name": "Xavier Grottywing",
+				"retired": true,
+				"turns": 1,
+				"type": "J"
+			},
+			"12916487": {
+				"blocks": 1,
+				"name": "Nicholas Bluehawk",
+				"retired": true,
+				"turns": 16,
+				"type": "J"
+			}
+		}
+	},
+	"replayId": "1207232",
+	"team": {
+		"942438": {
+			"blocks": 46,
+			"cas": 2,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Oceanborn Sea Eagles",
+			"pass": -1,
+			"prespp": 47,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 18,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 159
+		},
+		"944434": {
+			"blocks": 51,
+			"cas": 2,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Khorne's Doombringers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 2,
+			"prespp": 20,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 9,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 143
 		}
 	}
 }

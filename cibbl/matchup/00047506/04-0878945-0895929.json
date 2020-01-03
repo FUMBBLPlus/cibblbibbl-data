@@ -1,20 +1,270 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4106487",
+	"player": {
 		"878945": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Eternal Ecstasy",
-			"scorediff": 0,
-			"tddiff": 0
+			"11825655": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Lashweaver Taker of Souls",
+				"prespp": 203,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"11994839": {
+				"blocks": 2,
+				"comp": 1,
+				"name": "Skylah the Desired",
+				"pass": -1,
+				"prespp": 112,
+				"rush": 1,
+				"spp": 1,
+				"turns": 11,
+				"type": "R"
+			},
+			"12262128": {
+				"blocks": 1,
+				"fouls": 3,
+				"name": "Draygon",
+				"prespp": 7,
+				"turns": 5,
+				"type": "R"
+			},
+			"12415282": {
+				"blocks": 4,
+				"name": "Lilesh Snarelust",
+				"prespp": 33,
+				"turns": 16,
+				"type": "R"
+			},
+			"12536932": {
+				"blocks": 9,
+				"cas": 2,
+				"name": "Skyrath",
+				"prespp": 11,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12618290": {
+				"blocks": 2,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Rhythor",
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12663515": {
+				"dead": [
+					1,
+					4,
+					"blocked",
+					"12098258"
+				],
+				"name": "Purigon",
+				"prespp": 10,
+				"turns": 3,
+				"type": "R"
+			},
+			"12683669": {
+				"blocks": 7,
+				"name": "Arphus",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12683670": {
+				"blocks": 3,
+				"name": "Kraanaer",
+				"prespp": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12714632": {
+				"blocks": 1,
+				"name": "Mistress of Jealousy",
+				"prespp": 13,
+				"turns": 5,
+				"type": "R"
+			},
+			"12877581": {
+				"name": "Lady Charybdia",
+				"prespp": 4,
+				"rush": 20,
+				"spp": 3,
+				"td": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"12903001": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Sathurah",
+				"turns": 9,
+				"type": "R"
+			},
+			"12903002": {
+				"blocks": 5,
+				"name": "Arphus",
+				"turns": 9,
+				"type": "R"
+			}
 		},
 		"895929": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Fangsnapper's Clawpack",
+			"12098257": {
+				"name": "Clawchest",
+				"prespp": 100,
+				"type": "R"
+			},
+			"12098258": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Silverscar",
+				"prespp": 56,
+				"spp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"12098263": {
+				"blocks": 3,
+				"name": "Silverstriker",
+				"prespp": 51,
+				"turns": 10,
+				"type": "R"
+			},
+			"12098297": {
+				"name": "Duskdigger",
+				"prespp": 118,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"12136367": {
+				"blocks": 6,
+				"name": "Kratch Fangsnapper",
+				"prespp": 65,
+				"turns": 12,
+				"type": "R"
+			},
+			"12166472": {
+				"blocks": 7,
+				"name": "Scrak Fangsnapper",
+				"prespp": 51,
+				"turns": 9,
+				"type": "R"
+			},
+			"12345051": {
+				"fouls": 1,
+				"name": "Crowripper",
+				"prespp": 9,
+				"turns": 1,
+				"type": "R"
+			},
+			"12345108": {
+				"blocks": 7,
+				"mvp": 1,
+				"name": "Windfury Jr",
+				"prespp": 48,
+				"spp": 5,
+				"turns": 9,
+				"type": "R"
+			},
+			"12496226": {
+				"blocks": 1,
+				"name": "Crowchest",
+				"prespp": 9,
+				"turns": 11,
+				"type": "R"
+			},
+			"12496241": {
+				"comp": 1,
+				"name": "Blackgaze",
+				"pass": 1,
+				"rush": 3,
+				"spp": 1,
+				"turns": 1,
+				"type": "R"
+			},
+			"12576908": {
+				"blocks": 1,
+				"name": "Fieryblight",
+				"prespp": 16,
+				"turns": 13,
+				"type": "R"
+			},
+			"12724592": {
+				"blocks": 1,
+				"name": "Steelsnout",
+				"turns": 9,
+				"type": "R"
+			},
+			"12884769": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Grimscar",
+				"turns": 9,
+				"type": "R"
+			},
+			"12884770": {
+				"blocks": 1,
+				"name": "Flintstriker",
+				"turns": 2,
+				"type": "R"
+			},
+			"12884771": {
+				"name": "Feathershrieker",
+				"turns": 4,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1203429",
+	"team": {
+		"878945": {
+			"blocks": 45,
+			"cas": 5,
+			"casdiff": 4,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
+			"name": "Eternal Ecstasy",
+			"pass": -1,
+			"prespp": 408,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 21,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 147
+		},
+		"895929": {
+			"blocks": 33,
+			"cas": 1,
+			"casdiff": -4,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Fangsnapper's Clawpack",
+			"pass": 1,
+			"prespp": 523,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 22,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 117
 		}
 	}
 }

@@ -1,20 +1,263 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4108133",
+	"player": {
 		"923140": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Dreadpeak's Delusionals",
-			"scorediff": 0,
-			"tddiff": 0
+			"12523353": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Goongol Nonose",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12523354": {
+				"blocks": 12,
+				"cas": 4,
+				"name": "Wuiq Squibbler",
+				"prespp": 40,
+				"spp": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12523356": {
+				"blocks": 1,
+				"name": "Zurt Bohurt",
+				"prespp": 9,
+				"turns": 1,
+				"type": "R"
+			},
+			"12523358": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Jakdikt Junckt",
+				"prespp": 11,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12523364": {
+				"name": "Voorsirk Smellz",
+				"prespp": 10,
+				"type": "R"
+			},
+			"12523367": {
+				"blocks": 3,
+				"name": "Vukziz Phunginus",
+				"prespp": 20,
+				"rush": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12536501": {
+				"fouls": 1,
+				"name": "Grottack Spleen",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12537431": {
+				"name": "Deellus the Deluded",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12597792": {
+				"blocks": 1,
+				"name": "Phinney Deleted",
+				"prespp": 9,
+				"turns": 1,
+				"type": "R"
+			},
+			"12637501": {
+				"blocks": 1,
+				"name": "Greembo Psilocybe",
+				"turns": 6,
+				"type": "R"
+			},
+			"12637502": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Zaszlurt Phart",
+				"turns": 7,
+				"type": "R"
+			},
+			"12642272": {
+				"fouls": 1,
+				"name": "Krokky Crackky",
+				"pass": 2,
+				"rush": 7,
+				"turns": 2,
+				"type": "R"
+			},
+			"12708600": {
+				"fouls": 1,
+				"name": "Wolch Sputnet",
+				"rush": 8,
+				"turns": 8,
+				"type": "R"
+			},
+			"12722543": {
+				"name": "Zigzag Zompar",
+				"prespp": 5,
+				"rush": 7,
+				"turns": 7,
+				"type": "R"
+			},
+			"12870987": {
+				"fouls": 1,
+				"name": "Custer \"Eye\" Custard",
+				"turns": 8,
+				"type": "R"
+			}
 		},
 		"942694": {
-			"cas": 0,
-			"casdiff": 0,
+			"12843502": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Aqshy",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"12843526": {
+				"blocks": 1,
+				"name": "Gelt",
+				"prespp": 2,
+				"turns": 6,
+				"type": "R"
+			},
+			"12843528": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Stross",
+				"prespp": 4,
+				"spp": 5,
+				"turns": 9,
+				"type": "R"
+			},
+			"12843530": {
+				"blocks": 5,
+				"name": "Katarin",
+				"prespp": 6,
+				"turns": 8,
+				"type": "R"
+			},
+			"12843531": {
+				"blocks": 2,
+				"name": "Miska",
+				"prespp": 4,
+				"rush": 17,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843533": {
+				"blocks": 4,
+				"fouls": 1,
+				"name": "Fleissman",
+				"prespp": 5,
+				"rush": 5,
+				"turns": 14,
+				"type": "R"
+			},
+			"12843534": {
+				"blocks": 3,
+				"name": "Feuerbach",
+				"prespp": 8,
+				"turns": 10,
+				"type": "R"
+			},
+			"12843536": {
+				"blocks": 5,
+				"name": "Fuegonasus",
+				"turns": 14,
+				"type": "R"
+			},
+			"12843537": {
+				"blocks": 3,
+				"name": "Pfeiffer",
+				"turns": 9,
+				"type": "R"
+			},
+			"12907696": {
+				"blocks": 1,
+				"name": "Julevno",
+				"turns": 16,
+				"type": "R"
+			},
+			"12907697": {
+				"blocks": 5,
+				"fouls": 2,
+				"name": "Bann",
+				"turns": 16,
+				"type": "R"
+			},
+			"MERC-1205358-942694M1": {
+				"blocks": 1,
+				"name": "Merc Fire Elemental 1",
+				"turns": 2,
+				"type": "M"
+			},
+			"STAR-Big Gregg": {
+				"blocks": 2,
+				"dead": [
+					1,
+					4,
+					"blocked",
+					"12523354"
+				],
+				"name": "Big Gregg",
+				"turns": 4,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1205358",
+	"team": {
+		"923140": {
+			"blocks": 25,
+			"cas": 5,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
+			"name": "Dreadpeak's Delusionals",
+			"pass": 2,
+			"prespp": 129,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 25,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 120
+		},
+		"942694": {
+			"blocks": 42,
+			"cas": 1,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bright Order Bandits",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 36,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 22,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 138
 		}
 	}
 }

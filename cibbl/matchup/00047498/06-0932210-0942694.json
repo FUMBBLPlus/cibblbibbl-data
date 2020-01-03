@@ -1,20 +1,246 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4112661",
+	"player": {
 		"932210": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Bludweiser Bouncers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12675399": {
+				"blocks": 8,
+				"name": "Khulgrug",
+				"prespp": 7,
+				"rush": 4,
+				"turns": 15,
+				"type": "R"
+			},
+			"12675400": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Tuzkoz the Wild",
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12675401": {
+				"blocks": 5,
+				"name": "Gerraz",
+				"turns": 12,
+				"type": "R"
+			},
+			"12675402": {
+				"mvp": 1,
+				"name": "Bazcax",
+				"prespp": 4,
+				"rush": 12,
+				"spp": 5,
+				"turns": 3,
+				"type": "R"
+			},
+			"12675403": {
+				"blocks": 4,
+				"name": "Muzgax the Silent",
+				"rush": 7,
+				"spp": 3,
+				"td": 1,
+				"turns": 7,
+				"type": "R"
+			},
+			"12675404": {
+				"blocks": 4,
+				"name": "Daarthag the Loud",
+				"prespp": 18,
+				"turns": 13,
+				"type": "R"
+			},
+			"12675405": {
+				"blocks": 1,
+				"name": "Silverscar",
+				"turns": 16,
+				"type": "R"
+			},
+			"12675406": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Stonetoe",
+				"turns": 16,
+				"type": "R"
+			},
+			"12675407": {
+				"name": "Kaalgroor",
+				"rush": 2,
+				"spp": 3,
+				"td": 1,
+				"turns": 6,
+				"type": "R"
+			},
+			"12675408": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Zaogdar",
+				"turns": 9,
+				"type": "R"
+			},
+			"12675409": {
+				"name": "Nethertooth",
+				"type": "R"
+			},
+			"12914646": {
+				"blocks": 1,
+				"name": "Sean Hideousrock",
+				"retired": true,
+				"turns": 11,
+				"type": "J"
+			}
 		},
 		"942694": {
-			"cas": 0,
-			"casdiff": 0,
+			"12843502": {
+				"blocks": 14,
+				"cas": 1,
+				"name": "Aqshy",
+				"prespp": 9,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843526": {
+				"blocks": 4,
+				"dead": [
+					2,
+					1,
+					"blocked",
+					"12675400"
+				],
+				"name": "Gelt",
+				"prespp": 2,
+				"turns": 9,
+				"type": "R"
+			},
+			"12843528": {
+				"blocks": 7,
+				"name": "Stross",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843530": {
+				"blocks": 3,
+				"name": "Katarin",
+				"prespp": 6,
+				"rush": 6,
+				"spp": 6,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843531": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Miska",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843533": {
+				"blocks": 3,
+				"comp": 2,
+				"name": "Fleissman",
+				"pass": 3,
+				"prespp": 5,
+				"rush": 6,
+				"spp": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"12843534": {
+				"blocks": 9,
+				"name": "Feuerbach",
+				"prespp": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843536": {
+				"blocks": 3,
+				"name": "Fuegonasus",
+				"turns": 16,
+				"type": "R"
+			},
+			"12843537": {
+				"blocks": 3,
+				"name": "Pfeiffer",
+				"rush": 7,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12907696": {
+				"blocks": 1,
+				"comp": 1,
+				"mvp": 1,
+				"name": "Julevno",
+				"pass": 2,
+				"rush": 27,
+				"spp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12907697": {
+				"blocks": 1,
+				"name": "Bann",
+				"turns": 14,
+				"type": "R"
+			},
+			"12924847": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Gormann",
+				"turns": 3,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1210466",
+	"team": {
+		"932210": {
+			"blocks": 29,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Bludweiser Bouncers",
+			"pass": 0,
+			"prespp": 29,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 25,
+			"score": 2,
+			"scorediff": -1,
+			"td": 2,
+			"tddiff": -1,
+			"turns": 118
+		},
+		"942694": {
+			"blocks": 52,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 3,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bright Order Bandits",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 5,
+			"prespp": 46,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 46,
+			"score": 3,
+			"scorediff": 1,
+			"td": 3,
+			"tddiff": 1,
+			"turns": 167
 		}
 	}
 }

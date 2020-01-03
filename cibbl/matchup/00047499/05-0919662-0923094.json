@@ -1,20 +1,273 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4108688",
+	"player": {
 		"919662": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Ursun Throat Singers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12474062": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Urskin",
+				"prespp": 21,
+				"spp": 2,
+				"turns": 1,
+				"type": "B"
+			},
+			"12474065": {
+				"blocks": 3,
+				"name": "Ivan Doroshenko",
+				"prespp": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12474066": {
+				"blocks": 5,
+				"name": "Stenka Pugachev",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12474068": {
+				"blocks": 7,
+				"mvp": 1,
+				"name": "Yermak Razumovski",
+				"prespp": 25,
+				"rush": 6,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12474069": {
+				"blocks": 5,
+				"name": "Alexei Razumovski",
+				"prespp": 30,
+				"turns": 16,
+				"type": "R"
+			},
+			"12474072": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Bela Szozak",
+				"pass": 4,
+				"prespp": 31,
+				"rush": 6,
+				"spp": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12474075": {
+				"blocks": 4,
+				"name": "Nagy Avalov",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12474094": {
+				"name": "Farkas Komilov",
+				"prespp": 18,
+				"turns": 1,
+				"type": "R"
+			},
+			"12512740": {
+				"fouls": 1,
+				"name": "Besutei",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12512794": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Jebeioyan",
+				"spp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12583898": {
+				"blocks": 1,
+				"name": "Temudjin Hirsut",
+				"prespp": 20,
+				"rush": 15,
+				"turns": 6,
+				"type": "R"
+			},
+			"12622761": {
+				"blocks": 4,
+				"cas": 2,
+				"name": "Zorigoo Khuleg",
+				"prespp": 19,
+				"spp": 4,
+				"turns": 11,
+				"type": "R"
+			},
+			"12635297": {
+				"blocks": 2,
+				"name": "Baavgai",
+				"prespp": 9,
+				"turns": 12,
+				"type": "B"
+			},
+			"12868486": {
+				"blocks": 1,
+				"name": "Bohdan Teteria",
+				"prespp": 3,
+				"turns": 8,
+				"type": "R"
+			},
+			"12906343": {
+				"fouls": 1,
+				"name": "Lavr",
+				"type": "R"
+			}
 		},
 		"923094": {
-			"cas": 0,
-			"casdiff": 0,
+			"12524800": {
+				"blocks": 8,
+				"name": "Bered",
+				"prespp": 22,
+				"turns": 16,
+				"type": "B"
+			},
+			"12524801": {
+				"blocks": 12,
+				"cas": 1,
+				"name": "Dylon",
+				"prespp": 34,
+				"rush": 3,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12524802": {
+				"blocks": 11,
+				"name": "Kaerio",
+				"prespp": 41,
+				"turns": 16,
+				"type": "R"
+			},
+			"12524803": {
+				"blocks": 7,
+				"mvp": 1,
+				"name": "Laekces",
+				"prespp": 14,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12524804": {
+				"blocks": 2,
+				"name": "Nereus",
+				"prespp": 12,
+				"turns": 8,
+				"type": "R"
+			},
+			"12524805": {
+				"name": "Dover",
+				"prespp": 42,
+				"turns": 5,
+				"type": "R"
+			},
+			"12524807": {
+				"name": "Reif",
+				"turns": 1,
+				"type": "R"
+			},
+			"12603143": {
+				"blocks": 1,
+				"name": "sandy welp",
+				"prespp": 16,
+				"rush": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12646238": {
+				"blocks": 1,
+				"name": "Waves",
+				"prespp": 10,
+				"turns": 10,
+				"type": "R"
+			},
+			"12670450": {
+				"name": "Rolling sands",
+				"turns": 1,
+				"type": "R"
+			},
+			"12680626": {
+				"blocks": 1,
+				"name": "Splash",
+				"prespp": 8,
+				"rush": -1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12708824": {
+				"fouls": 1,
+				"name": "White foam",
+				"prespp": 6,
+				"rush": -1,
+				"turns": 9,
+				"type": "R"
+			},
+			"12870266": {
+				"blocks": 2,
+				"name": "The Ruthless Killer Beast",
+				"turns": 9,
+				"type": "B"
+			},
+			"12911277": {
+				"dead": [
+					1,
+					1,
+					"blocked",
+					"12622761"
+				],
+				"name": "Rising Tides",
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1205983",
+	"team": {
+		"919662": {
+			"blocks": 37,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Ursun Throat Singers",
+			"pass": 4,
+			"prespp": 224,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 27,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 135
+		},
+		"923094": {
+			"blocks": 45,
+			"cas": 1,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rising Tsunami",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 205,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 3,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 133
 		}
 	}
 }

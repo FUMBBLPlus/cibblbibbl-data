@@ -1,20 +1,287 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4108424",
+	"player": {
 		"859097": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Bhubaneswar Rampage",
-			"scorediff": 0,
-			"tddiff": 0
+			"11512471": {
+				"blocks": 3,
+				"name": "Ghaggar-Hakra",
+				"prespp": 102,
+				"turns": 16,
+				"type": "B"
+			},
+			"11512476": {
+				"blocks": 2,
+				"name": "Chola",
+				"prespp": 182,
+				"turns": 3,
+				"type": "R"
+			},
+			"11512483": {
+				"name": "Vima Taktu",
+				"prespp": 21,
+				"type": "R"
+			},
+			"11671350": {
+				"blocks": 3,
+				"name": "Arun Jaitley",
+				"prespp": 21,
+				"turns": 8,
+				"type": "R"
+			},
+			"11844958": {
+				"blocks": 16,
+				"cas": 1,
+				"name": "Raja Raja Chola",
+				"prespp": 106,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"11978579": {
+				"blocks": 1,
+				"name": "Lakshmi",
+				"prespp": 51,
+				"turns": 1,
+				"type": "R"
+			},
+			"12153572": {
+				"fouls": 3,
+				"name": "Jagjivan Ram",
+				"prespp": 11,
+				"turns": 4,
+				"type": "R"
+			},
+			"12320302": {
+				"mvp": 1,
+				"name": "Rajendra Bahwan",
+				"prespp": 6,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12321140": {
+				"name": "Surya",
+				"prespp": 40,
+				"turns": 4,
+				"type": "R"
+			},
+			"12357542": {
+				"name": "Vasant Satne",
+				"prespp": 8,
+				"type": "R"
+			},
+			"12519183": {
+				"name": "Ushas",
+				"prespp": 35,
+				"type": "R"
+			},
+			"12552791": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Ravishna Solatay",
+				"turns": 9,
+				"type": "R"
+			},
+			"12582950": {
+				"fouls": 2,
+				"name": "Morarji Desai",
+				"turns": 7,
+				"type": "R"
+			},
+			"12731099": {
+				"fouls": 1,
+				"name": "Jaysan Shrut",
+				"turns": 8,
+				"type": "R"
+			},
+			"12867167": {
+				"blocks": 3,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Tattwabodhini Sabha",
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12901170": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Bashit Mehta",
+				"turns": 13,
+				"type": "R"
+			},
+			"MERC-1205680-859097M1": {
+				"fouls": 1,
+				"name": "Merc Lineman 1",
+				"turns": 1,
+				"type": "M"
+			},
+			"MERC-1205680-859097M2": {
+				"name": "Merc Lineman 2",
+				"turns": 2,
+				"type": "M"
+			}
 		},
 		"892248": {
-			"cas": 0,
-			"casdiff": 0,
+			"12037798": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Sharpnose",
+				"prespp": 54,
+				"spp": 2,
+				"turns": 9,
+				"type": "R"
+			},
+			"12037800": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Blackfin",
+				"prespp": 65,
+				"spp": 2,
+				"type": "R"
+			},
+			"12037810": {
+				"name": "Mutineer Morin",
+				"prespp": 42,
+				"turns": 9,
+				"type": "R"
+			},
+			"12037816": {
+				"fouls": 2,
+				"name": "Sharktooth",
+				"prespp": 11,
+				"turns": 2,
+				"type": "R"
+			},
+			"12037818": {
+				"blocks": 4,
+				"fouls": 1,
+				"name": "Morgan the Crow",
+				"prespp": 50,
+				"rush": 12,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12138034": {
+				"name": "Banjo Billy",
+				"prespp": 34,
+				"type": "R"
+			},
+			"12235834": {
+				"fouls": 1,
+				"name": "Bosun Codswallap",
+				"prespp": 11,
+				"turns": 1,
+				"type": "R"
+			},
+			"12235835": {
+				"blocks": 7,
+				"name": "Hooktooth",
+				"prespp": 57,
+				"turns": 12,
+				"type": "R"
+			},
+			"12342419": {
+				"name": "Jaws",
+				"prespp": 56,
+				"rush": 16,
+				"spp": 3,
+				"td": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"12445884": {
+				"blocks": 1,
+				"fouls": 1,
+				"mvp": 1,
+				"name": "Stumpy McTerror",
+				"prespp": 14,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12456349": {
+				"name": "Abraham ‘Sharkbait’ Evans",
+				"prespp": 10,
+				"turns": 7,
+				"type": "R"
+			},
+			"12501512": {
+				"fouls": 1,
+				"name": "Christina False-Angel",
+				"prespp": 10,
+				"turns": 2,
+				"type": "R"
+			},
+			"12501526": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Barnaby ‘Nutjob’ Yorke",
+				"prespp": 23,
+				"spp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12689891": {
+				"name": "McDatom O'Parrot",
+				"prespp": 8,
+				"turns": 8,
+				"type": "R"
+			},
+			"12903833": {
+				"blocks": 7,
+				"name": "Silverfin",
+				"turns": 14,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1205680",
+	"team": {
+		"859097": {
+			"blocks": 31,
+			"cas": 4,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 10,
+			"int": 0,
+			"mvp": 1,
+			"name": "Bhubaneswar Rampage",
+			"pass": 0,
+			"prespp": 583,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 0,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 118
+		},
+		"892248": {
+			"blocks": 26,
+			"cas": 6,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crimson Fins",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 445,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 28,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 113
 		}
 	}
 }

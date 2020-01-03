@@ -1,20 +1,254 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4105975",
+	"player": {
 		"923094": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Rising Tsunami",
-			"scorediff": 0,
-			"tddiff": 0
+			"12524800": {
+				"blocks": 3,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Bered",
+				"prespp": 20,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12524801": {
+				"blocks": 6,
+				"name": "Dylon",
+				"prespp": 32,
+				"turns": 10,
+				"type": "R"
+			},
+			"12524802": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Kaerio",
+				"prespp": 39,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12524803": {
+				"blocks": 1,
+				"name": "Laekces",
+				"prespp": 9,
+				"turns": 8,
+				"type": "R"
+			},
+			"12524804": {
+				"blocks": 2,
+				"name": "Nereus",
+				"prespp": 12,
+				"turns": 16,
+				"type": "R"
+			},
+			"12524805": {
+				"name": "Dover",
+				"prespp": 39,
+				"rush": 3,
+				"turns": 3,
+				"type": "R"
+			},
+			"12524807": {
+				"name": "Reif",
+				"type": "R"
+			},
+			"12600217": {
+				"name": "Blotren",
+				"prespp": 10,
+				"turns": 4,
+				"type": "R"
+			},
+			"12603143": {
+				"blocks": 1,
+				"fouls": 1,
+				"mvp": 1,
+				"name": "sandy welp",
+				"prespp": 11,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12646238": {
+				"blocks": 3,
+				"name": "Waves",
+				"prespp": 10,
+				"turns": 10,
+				"type": "R"
+			},
+			"12670450": {
+				"name": "Rolling sands",
+				"type": "R"
+			},
+			"12680626": {
+				"name": "Splash",
+				"prespp": 8,
+				"turns": 4,
+				"type": "R"
+			},
+			"12708824": {
+				"name": "White foam",
+				"prespp": 6,
+				"rush": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12870266": {
+				"blocks": 2,
+				"name": "The Ruthless Killer Beast",
+				"turns": 16,
+				"type": "B"
+			}
 		},
 		"925779": {
-			"cas": 0,
+			"12566452": {
+				"blocks": 7,
+				"mvp": 1,
+				"name": "Shulindi Calam",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12566454": {
+				"blocks": 6,
+				"name": "Asanti Mahaa",
+				"prespp": 22,
+				"turns": 8,
+				"type": "R"
+			},
+			"12566455": {
+				"blocks": 6,
+				"name": "Rulinkie Gishama",
+				"prespp": 12,
+				"turns": 10,
+				"type": "R"
+			},
+			"12566456": {
+				"blocks": 4,
+				"name": "Stilonio Hashama",
+				"rush": 7,
+				"turns": 15,
+				"type": "R"
+			},
+			"12566457": {
+				"name": "Xsa Tu",
+				"prespp": 16,
+				"type": "R"
+			},
+			"12566460": {
+				"blocks": 1,
+				"fouls": 4,
+				"name": "Chi Chi",
+				"retired": true,
+				"turns": 14,
+				"type": "R"
+			},
+			"12566462": {
+				"blocks": 5,
+				"fouls": 1,
+				"name": "Slitchi Papapa",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12686039": {
+				"blocks": 1,
+				"name": "Xi Tsu",
+				"prespp": 16,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12686040": {
+				"blocks": 4,
+				"fouls": 1,
+				"name": "Tong Pla",
+				"pass": 1,
+				"rush": -1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12898116": {
+				"blocks": 3,
+				"name": "Stycl Xii",
+				"turns": 8,
+				"type": "R"
+			},
+			"12898118": {
+				"blocks": 2,
+				"fouls": 2,
+				"name": "Sean Truefire",
+				"retired": true,
+				"rush": 6,
+				"turns": 16,
+				"type": "J"
+			},
+			"12898119": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Fredrick Quickrock",
+				"retired": true,
+				"turns": 8,
+				"type": "J"
+			},
+			"MERC-1202840-925779M1": {
+				"blocks": 5,
+				"comp": 1,
+				"name": "Merc Ashigaru 1",
+				"pass": 9,
+				"rush": 2,
+				"spp": 1,
+				"turns": 16,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1202840",
+	"team": {
+		"923094": {
+			"blocks": 27,
+			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Rising Tsunami",
+			"pass": 0,
+			"prespp": 196,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 4,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 135
+		},
+		"925779": {
+			"blocks": 45,
+			"cas": 2,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 9,
+			"int": 0,
+			"mvp": 1,
 			"name": "Divine Sun",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 10,
+			"prespp": 68,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 33,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 159
 		}
 	}
 }

@@ -1,20 +1,235 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4107125",
+	"player": {
 		"943851": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Da Wulfs O' War",
-			"scorediff": 0,
-			"tddiff": 0
+			"12861486": {
+				"blocks": 9,
+				"name": "Fickgut Winddagger",
+				"turns": 16,
+				"type": "R"
+			},
+			"12861487": {
+				"blocks": 11,
+				"cas": 3,
+				"name": "Shabbha Windcrimper",
+				"prespp": 8,
+				"spp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861488": {
+				"name": "Hokfaer Swiftstabber",
+				"prespp": 6,
+				"type": "R"
+			},
+			"12861489": {
+				"blocks": 9,
+				"mvp": 1,
+				"name": "Slongrub Skulkrunna",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861490": {
+				"blocks": 2,
+				"name": "G'lug Filthfury",
+				"turns": 10,
+				"type": "R"
+			},
+			"12861491": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Fickomu Bonewhipper",
+				"turns": 5,
+				"type": "R"
+			},
+			"12861492": {
+				"blocks": 2,
+				"fouls": 2,
+				"name": "Lershab Slavecreeper",
+				"turns": 9,
+				"type": "R"
+			},
+			"12861494": {
+				"blocks": 4,
+				"fouls": 1,
+				"name": "Bhadak Yellowsnapper",
+				"turns": 16,
+				"type": "R"
+			},
+			"12861496": {
+				"blocks": 2,
+				"name": "Batbug Boldbow",
+				"turns": 10,
+				"type": "R"
+			},
+			"12861499": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Falkhan Hatecracker",
+				"turns": 14,
+				"type": "R"
+			},
+			"12861503": {
+				"blocks": 6,
+				"name": "Dorghiz Redspitta",
+				"prespp": 5,
+				"rush": 15,
+				"turns": 14,
+				"type": "R"
+			},
+			"12861508": {
+				"blocks": 4,
+				"fouls": 2,
+				"name": "Ashzorig Swiftmurda",
+				"turns": 16,
+				"type": "R"
+			},
+			"12883466": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Holgnock Dwarfraider",
+				"turns": 16,
+				"type": "R"
+			},
+			"12897222": {
+				"name": "Zlinkur Dicethief",
+				"rush": 1,
+				"turns": 5,
+				"type": "R"
+			}
 		},
 		"944092": {
+			"12865165": {
+				"blocks": 3,
+				"name": "Corobstock the Carnal",
+				"prespp": 9,
+				"turns": 16,
+				"type": "B"
+			},
+			"12865166": {
+				"blocks": 7,
+				"name": "Moritenko the Mauler",
+				"prespp": 8,
+				"turns": 16,
+				"type": "B"
+			},
+			"12865167": {
+				"blocks": 8,
+				"name": "Vassily Frostpaw",
+				"prespp": 10,
+				"turns": 12,
+				"type": "R"
+			},
+			"12865168": {
+				"dead": [
+					1,
+					3,
+					"fouled",
+					"12861492"
+				],
+				"name": "Gregori Mottlepelt",
+				"prespp": 2,
+				"rush": 9,
+				"turns": 3,
+				"type": "R"
+			},
+			"12865169": {
+				"name": "Sofora",
+				"prespp": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12865170": {
+				"name": "Borishna",
+				"prespp": 4,
+				"turns": 9,
+				"type": "R"
+			},
+			"12865171": {
+				"name": "Dolovo",
+				"turns": 16,
+				"type": "R"
+			},
+			"12865172": {
+				"name": "Riski",
+				"pass": -1,
+				"prespp": 9,
+				"rush": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12865173": {
+				"blocks": 2,
+				"name": "Trosta",
+				"prespp": 3,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12865174": {
+				"name": "Neschastiv",
+				"turns": 3,
+				"type": "R"
+			},
+			"12865177": {
+				"mvp": 1,
+				"name": "Eytrenko",
+				"prespp": 3,
+				"rush": 1,
+				"spp": 5,
+				"turns": 11,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1204145",
+	"team": {
+		"943851": {
+			"blocks": 54,
+			"cas": 5,
+			"casdiff": 5,
+			"comp": 0,
+			"fouls": 9,
+			"int": 0,
+			"mvp": 1,
+			"name": "Da Wulfs O' War",
+			"pass": 0,
+			"prespp": 24,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 16,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 163
+		},
+		"944092": {
+			"blocks": 20,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -5,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Moraveny Untamed",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": -1,
+			"prespp": 49,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 30,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 128
 		}
 	}
 }

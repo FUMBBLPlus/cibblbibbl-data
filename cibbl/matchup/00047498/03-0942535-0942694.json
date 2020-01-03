@@ -1,20 +1,231 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4106357",
+	"player": {
 		"942535": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Star Metal Sentinels",
-			"scorediff": 0,
-			"tddiff": 0
+			"12840992": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Father Grungi",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12840993": {
+				"blocks": 5,
+				"name": "Tungil Quicksilverson",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12840996": {
+				"blocks": 1,
+				"name": "Borek Steamforce",
+				"rush": 17,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12840999": {
+				"blocks": 1,
+				"name": "Hammet Goldstriker",
+				"prespp": 1,
+				"rush": 18,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841000": {
+				"blocks": 2,
+				"name": "Uri Steelwall",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841001": {
+				"blocks": 3,
+				"name": "Vardak Towerlord",
+				"prespp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841005": {
+				"blocks": 2,
+				"name": "Snorri Ironson",
+				"turns": 16,
+				"type": "R"
+			},
+			"12841006": {
+				"blocks": 4,
+				"name": "Haggle Sourfist",
+				"turns": 16,
+				"type": "R"
+			},
+			"12841007": {
+				"name": "Mordak Runemaster",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841008": {
+				"blocks": 2,
+				"name": "Nix Stonefist",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841010": {
+				"blocks": 3,
+				"name": "Vilk Silverton",
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"942694": {
+			"12843502": {
+				"name": "Aqshy",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12843526": {
+				"name": "Gelt",
+				"prespp": 2,
+				"turns": 5,
+				"type": "R"
+			},
+			"12843528": {
+				"name": "Stross",
+				"prespp": 4,
+				"turns": 11,
+				"type": "R"
+			},
+			"12843530": {
+				"blocks": 1,
+				"comp": 2,
+				"name": "Katarin",
+				"prespp": 4,
+				"rush": -1,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843531": {
+				"name": "Miska",
+				"prespp": 4,
+				"type": "R"
+			},
+			"12843532": {
+				"dead": [
+					1,
+					4,
+					"leapFail",
+					null
+				],
+				"name": "Julevno",
+				"prespp": 1,
+				"turns": 3,
+				"type": "R"
+			},
+			"12843533": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Fleissman",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843534": {
+				"blocks": 3,
+				"name": "Feuerbach",
+				"prespp": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843536": {
+				"blocks": 1,
+				"name": "Fuegonasus",
+				"rush": 8,
+				"turns": 11,
+				"type": "R"
+			},
+			"12843537": {
+				"fouls": 1,
+				"name": "Pfeiffer",
+				"turns": 16,
+				"type": "R"
+			},
+			"12873878": {
+				"name": "Paul Weakfire",
+				"retired": true,
+				"turns": 16,
+				"type": "J"
+			},
+			"12873879": {
+				"blocks": 1,
+				"name": "Martin Quickstone",
+				"retired": true,
+				"turns": 9,
+				"type": "J"
+			},
+			"12873880": {
+				"blocks": 1,
+				"name": "Evander Silentstone",
+				"retired": true,
+				"turns": 9,
+				"type": "J"
+			},
+			"MERC-1203283-942694M1": {
+				"name": "Merc Water Elemental 1",
+				"turns": 9,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1203283",
+	"team": {
+		"942535": {
+			"blocks": 26,
 			"cas": 0,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Star Metal Sentinels",
+			"pass": 0,
+			"prespp": 27,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 35,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 176
+		},
+		"942694": {
+			"blocks": 10,
+			"cas": 0,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bright Order Bandits",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 30,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 7,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 137
 		}
 	}
 }
