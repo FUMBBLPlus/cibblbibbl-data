@@ -1,20 +1,258 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4112849",
+	"player": {
 		"854678": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Lords of the Silent Death",
-			"scorediff": 0,
-			"tddiff": 0
+			"11439628": {
+				"blocks": 14,
+				"cas": 1,
+				"name": "Sneekis the Dragon",
+				"prespp": 88,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"11482377": {
+				"fouls": 1,
+				"name": "Grisnagar the Brave",
+				"prespp": 33,
+				"turns": 4,
+				"type": "R"
+			},
+			"11696956": {
+				"blocks": 1,
+				"name": "Nightmaster Skirshakk",
+				"prespp": 184,
+				"rush": 25,
+				"spp": 3,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"11850585": {
+				"blocks": 5,
+				"name": "Nightlord Azhiskikk",
+				"prespp": 52,
+				"turns": 15,
+				"type": "R"
+			},
+			"11934134": {
+				"blocks": 2,
+				"name": "Nightmaster Vasquee",
+				"prespp": 62,
+				"turns": 12,
+				"type": "R"
+			},
+			"11951210": {
+				"comp": 3,
+				"name": "Nightlord Nurgrin",
+				"pass": 16,
+				"prespp": 90,
+				"rush": 12,
+				"spp": 3,
+				"turns": 9,
+				"type": "R"
+			},
+			"12217971": {
+				"blocks": 5,
+				"name": "Nightmaster Crittskik",
+				"prespp": 56,
+				"turns": 17,
+				"type": "R"
+			},
+			"12345916": {
+				"fouls": 1,
+				"name": "Vazhakk the Skywatcher",
+				"prespp": 34,
+				"type": "R"
+			},
+			"12528392": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Nightmaster Skre",
+				"prespp": 27,
+				"rush": 5,
+				"spp": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"12706917": {
+				"name": "Chuzhak the Rough",
+				"type": "R"
+			},
+			"12894641": {
+				"name": "Quskrul the Digger",
+				"prespp": 7,
+				"turns": 4,
+				"type": "R"
+			},
+			"12900503": {
+				"blocks": 5,
+				"name": "Struaknuak the Hawk",
+				"prespp": 5,
+				"turns": 10,
+				"type": "R"
+			},
+			"12902998": {
+				"name": "Ziqrueech the Deadeye",
+				"prespp": 3,
+				"turns": 6,
+				"type": "R"
+			},
+			"12923196": {
+				"blocks": 3,
+				"name": "Qret the Quiet",
+				"turns": 10,
+				"type": "R"
+			},
+			"12923197": {
+				"name": "Qrukrun the Broken",
+				"turns": 6,
+				"type": "R"
+			}
 		},
 		"886114": {
-			"cas": 0,
-			"casdiff": 0,
+			"11939696": {
+				"blocks": 10,
+				"name": "Erato",
+				"prespp": 85,
+				"rush": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"11939705": {
+				"blocks": 4,
+				"name": "Lydia",
+				"prespp": 105,
+				"rush": 14,
+				"spp": 3,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"11956884": {
+				"blocks": 6,
+				"comp": 1,
+				"name": "Elpida",
+				"pass": -1,
+				"prespp": 81,
+				"spp": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12340801": {
+				"blocks": 11,
+				"name": "Ian Bluesnake",
+				"prespp": 68,
+				"rush": 3,
+				"turns": 15,
+				"type": "R"
+			},
+			"12692981": {
+				"name": "Enyo",
+				"prespp": 30,
+				"rush": 12,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12703294": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Hera",
+				"prespp": 8,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12716505": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Tychi",
+				"prespp": 16,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12888106": {
+				"blocks": 2,
+				"name": "Paraskeve",
+				"prespp": 6,
+				"turns": 17,
+				"type": "R"
+			},
+			"12912246": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Teliká",
+				"prespp": 9,
+				"spp": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"12912247": {
+				"blocks": 1,
+				"name": "Georgina Greentree",
+				"prespp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12933881": {
+				"name": "Ulric Coldshield",
+				"type": "J"
+			},
+			"STAR-Shreddelyn": {
+				"fouls": 6,
+				"name": "Shreddelyn",
+				"turns": 17,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1210653",
+	"team": {
+		"854678": {
+			"blocks": 36,
+			"cas": 1,
+			"casdiff": -4,
+			"comp": 3,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Lords of the Silent Death",
+			"pass": 16,
+			"prespp": 641,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 42,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 137
+		},
+		"886114": {
+			"blocks": 51,
+			"cas": 5,
+			"casdiff": 4,
+			"comp": 1,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Eye and Arrow",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": -1,
+			"prespp": 410,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 36,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 183
 		}
 	}
 }
