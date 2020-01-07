@@ -1,20 +1,259 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4104904",
+	"player": {
 		"916031": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Gorthor's Prophets Of Mork",
-			"scorediff": 0,
-			"tddiff": 0
+			"12413275": {
+				"blocks": 3,
+				"cas": 2,
+				"comp": 1,
+				"name": "Head Stompa",
+				"pass": 6,
+				"prespp": 81,
+				"rush": 10,
+				"spp": 5,
+				"turns": 13,
+				"type": "R"
+			},
+			"12413281": {
+				"name": "Gra'Ro'Pra",
+				"prespp": 7,
+				"turns": 3,
+				"type": "R"
+			},
+			"12413282": {
+				"name": "Gro'Gaw'Cra",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12426039": {
+				"blocks": 2,
+				"name": "Nose Snippa",
+				"prespp": 54,
+				"turns": 1,
+				"type": "R"
+			},
+			"12577257": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Nail Bita",
+				"prespp": 26,
+				"rush": 11,
+				"spp": 5,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12612939": {
+				"name": "Kzerio",
+				"prespp": 23,
+				"type": "B"
+			},
+			"12694017": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Heel Slappa",
+				"prespp": 36,
+				"rush": 8,
+				"spp": 2,
+				"turns": 3,
+				"type": "R"
+			},
+			"12715867": {
+				"blocks": 3,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Fibula Muncher",
+				"spp": 7,
+				"turns": 10,
+				"type": "R"
+			},
+			"12876936": {
+				"blocks": 4,
+				"name": "Elbow Muncher",
+				"turns": 16,
+				"type": "R"
+			},
+			"12895973": {
+				"blocks": 3,
+				"cas": 2,
+				"name": "Tendons Slicer",
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12899528": {
+				"blocks": 1,
+				"name": "Evander Palefire",
+				"retired": true,
+				"turns": 16,
+				"type": "J"
+			}
 		},
 		"919573": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Ragtag Animal Training Sartors",
+			"12469184": {
+				"blocks": 5,
+				"cas": 1,
+				"int": 1,
+				"name": "Blightbasher",
+				"prespp": 45,
+				"rush": 5,
+				"spp": 4,
+				"turns": 16,
+				"type": "B"
+			},
+			"12469185": {
+				"blocks": 4,
+				"cas": 1,
+				"dead": [
+					1,
+					8,
+					"blocked",
+					"12895973"
+				],
+				"name": "Warpserker",
+				"prespp": 60,
+				"spp": 2,
+				"turns": 9,
+				"type": "B"
+			},
+			"12469186": {
+				"blocks": 7,
+				"name": "Toerot",
+				"prespp": 42,
+				"turns": 17,
+				"type": "B"
+			},
+			"12469192": {
+				"fouls": 1,
+				"name": "Znukch Clothclaw",
+				"prespp": 9,
+				"turns": 2,
+				"type": "R"
+			},
+			"12469194": {
+				"blocks": 1,
+				"name": "Crenq Brightear",
+				"prespp": 27,
+				"rush": 14,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12539782": {
+				"dead": [
+					2,
+					5,
+					"blocked",
+					"12413275"
+				],
+				"name": "Krulk Needlehand",
+				"prespp": 32,
+				"turns": 13,
+				"type": "R"
+			},
+			"12585236": {
+				"name": "Znich Ashenhat",
+				"prespp": 8,
+				"turns": 8,
+				"type": "R"
+			},
+			"12602556": {
+				"name": "Strik Shinyfur",
+				"prespp": 2,
+				"turns": 2,
+				"type": "R"
+			},
+			"12602557": {
+				"name": "Trecnuach Tailring",
+				"pass": 1,
+				"prespp": 16,
+				"rush": 6,
+				"turns": 10,
+				"type": "R"
+			},
+			"12670287": {
+				"name": "Threlk Weavepaw",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12677863": {
+				"blocks": 1,
+				"name": "Qut Clothwrap",
+				"retired": true,
+				"turns": 3,
+				"type": "R"
+			},
+			"12737368": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Wildfang",
+				"prespp": 9,
+				"spp": 2,
+				"turns": 17,
+				"type": "B"
+			},
+			"12898224": {
+				"blocks": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Hearthunter",
+				"spp": 7,
+				"turns": 17,
+				"type": "B"
+			},
+			"12898226": {
+				"name": "Tok Rapidfeet",
+				"turns": 3,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1201643",
+	"team": {
+		"916031": {
+			"blocks": 22,
+			"cas": 7,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Gorthor's Prophets Of Mork",
+			"pass": 6,
+			"prespp": 229,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 29,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 110
+		},
+		"919573": {
+			"blocks": 34,
+			"cas": 5,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 1,
+			"mvp": 1,
+			"name": "Ragtag Animal Training Sartors",
+			"pass": 1,
+			"prespp": 259,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 25,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 132
 		}
 	}
 }

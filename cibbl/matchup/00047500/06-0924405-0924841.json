@@ -1,20 +1,256 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4110564",
+	"player": {
 		"924405": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Wolf Lands Slavers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12545274": {
+				"name": "Krusher",
+				"prespp": 9,
+				"turns": 17,
+				"type": "B"
+			},
+			"12545275": {
+				"blocks": 4,
+				"name": "Grimdore Chainbreaker",
+				"prespp": 33,
+				"turns": 17,
+				"type": "R"
+			},
+			"12545276": {
+				"blocks": 13,
+				"cas": 3,
+				"name": "Sugz Snarlof",
+				"prespp": 36,
+				"spp": 6,
+				"turns": 17,
+				"type": "R"
+			},
+			"12545277": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Urig Ironhide",
+				"prespp": 18,
+				"spp": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"12545278": {
+				"blocks": 5,
+				"name": "Zaghik Znarl",
+				"prespp": 35,
+				"turns": 17,
+				"type": "R"
+			},
+			"12545279": {
+				"blocks": 5,
+				"name": "Zellar Cutthroat",
+				"prespp": 28,
+				"turns": 17,
+				"type": "R"
+			},
+			"12545280": {
+				"blocks": 5,
+				"name": "Gurgug Gutter",
+				"prespp": 30,
+				"rush": 4,
+				"spp": 3,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12545296": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Struhulk Lurker",
+				"prespp": 9,
+				"turns": 7,
+				"type": "R"
+			},
+			"12591760": {
+				"name": "Xaainth Headbeater",
+				"prespp": 2,
+				"turns": 4,
+				"type": "R"
+			},
+			"12620091": {
+				"name": "Pligulk Pigstabber",
+				"prespp": 3,
+				"type": "R"
+			},
+			"12664398": {
+				"name": "Juttiz Swiper",
+				"turns": 9,
+				"type": "R"
+			},
+			"12672695": {
+				"fouls": 1,
+				"name": "Pzhig Pike",
+				"turns": 4,
+				"type": "R"
+			},
+			"12680815": {
+				"blocks": 2,
+				"comp": 1,
+				"name": "Schnal Sank",
+				"pass": 1,
+				"prespp": 11,
+				"rush": 26,
+				"spp": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12718994": {
+				"blocks": 4,
+				"name": "Xaennaith Xenos",
+				"turns": 17,
+				"type": "R"
+			},
+			"12901532": {
+				"name": "Turrouk Tainted",
+				"turns": 5,
+				"type": "R"
+			}
 		},
 		"924841": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Under-Nuln Bells",
+			"12552091": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Quonq Sharpfangs",
+				"prespp": 21,
+				"spp": 5,
+				"turns": 14,
+				"type": "R"
+			},
+			"12552095": {
+				"blocks": 4,
+				"name": "Skruch Duskwalker",
+				"prespp": 26,
+				"turns": 13,
+				"type": "R"
+			},
+			"12552098": {
+				"blocks": 1,
+				"name": "Zaqrat",
+				"prespp": 7,
+				"turns": 7,
+				"type": "R"
+			},
+			"12552116": {
+				"blocks": 4,
+				"name": "Snuktlich",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12585407": {
+				"blocks": 9,
+				"name": "Squarx Deadreaver",
+				"prespp": 35,
+				"turns": 16,
+				"type": "R"
+			},
+			"12616266": {
+				"name": "Runtch Quicklegs",
+				"prespp": 19,
+				"turns": 3,
+				"type": "R"
+			},
+			"12678911": {
+				"name": "Qulk Grimgaze",
+				"prespp": 29,
+				"type": "R"
+			},
+			"12714787": {
+				"name": "Zitch",
+				"turns": 11,
+				"type": "R"
+			},
+			"12728053": {
+				"name": "Znach Skullstalker",
+				"prespp": 6,
+				"rush": 13,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12887591": {
+				"name": "Crunp",
+				"turns": 7,
+				"type": "R"
+			},
+			"12887595": {
+				"blocks": 3,
+				"name": "Zhol",
+				"turns": 6,
+				"type": "R"
+			},
+			"12894503": {
+				"name": "Skrek",
+				"prespp": 6,
+				"turns": 2,
+				"type": "R"
+			},
+			"12894504": {
+				"name": "Chonq",
+				"type": "R"
+			},
+			"12913253": {
+				"blocks": 2,
+				"name": "Fept",
+				"turns": 4,
+				"type": "R"
+			},
+			"MERC-1208175-924841M1": {
+				"name": "Merc Lineman 1",
+				"turns": 10,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1208175",
+	"team": {
+		"924405": {
+			"blocks": 46,
+			"cas": 4,
+			"casdiff": 4,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Wolf Lands Slavers",
+			"pass": 1,
+			"prespp": 214,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 30,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 182
+		},
+		"924841": {
+			"blocks": 28,
+			"cas": 0,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Under-Nuln Bells",
+			"pass": 0,
+			"prespp": 166,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 13,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 125
 		}
 	}
 }

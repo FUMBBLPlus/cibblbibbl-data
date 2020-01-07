@@ -1,20 +1,237 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4108204",
+	"player": {
 		"922608": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Horsemen of The Great Kurgan",
-			"scorediff": 0,
-			"tddiff": 0
+			"12514742": {
+				"blocks": 7,
+				"name": "Gore-Clad",
+				"prespp": 32,
+				"turns": 17,
+				"type": "R"
+			},
+			"12514751": {
+				"blocks": 2,
+				"name": "Uggir of Dolgan",
+				"turns": 17,
+				"type": "R"
+			},
+			"12514754": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Khomarr of Hastling",
+				"prespp": 23,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12576997": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Second Prince of Fell Pleasures",
+				"prespp": 35,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12578183": {
+				"blocks": 5,
+				"name": "Unbar the Reborn",
+				"prespp": 29,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12612790": {
+				"blocks": 8,
+				"name": "Second Corrupt Father of Plagues",
+				"prespp": 23,
+				"turns": 17,
+				"type": "R"
+			},
+			"12639307": {
+				"name": "Fraygrek of Kul",
+				"prespp": 3,
+				"type": "R"
+			},
+			"12665820": {
+				"blocks": 5,
+				"name": "Rircho of Seizask",
+				"turns": 17,
+				"type": "R"
+			},
+			"12693226": {
+				"blocks": 9,
+				"name": "Tales of Cormac",
+				"prespp": 16,
+				"turns": 17,
+				"type": "R"
+			},
+			"12871491": {
+				"blocks": 4,
+				"name": "Yggir of Deitzaad",
+				"turns": 17,
+				"type": "R"
+			},
+			"12911010": {
+				"blocks": 1,
+				"name": "Fourth Changer of ways",
+				"turns": 9,
+				"type": "R"
+			},
+			"12916456": {
+				"blocks": 9,
+				"mvp": 1,
+				"name": "Legend of Kurgan",
+				"rush": -1,
+				"spp": 5,
+				"turns": 17,
+				"type": "R"
+			}
 		},
 		"922672": {
+			"12515846": {
+				"blocks": 3,
+				"name": "Zunker",
+				"prespp": 17,
+				"turns": 17,
+				"type": "R"
+			},
+			"12515848": {
+				"blocks": 4,
+				"dead": [
+					1,
+					7,
+					"blocked",
+					"12576997"
+				],
+				"name": "Grishen",
+				"prespp": 16,
+				"turns": 6,
+				"type": "R"
+			},
+			"12515856": {
+				"blocks": 1,
+				"name": "Goverk",
+				"prespp": 1,
+				"retired": true,
+				"turns": 5,
+				"type": "R"
+			},
+			"12515857": {
+				"blocks": 1,
+				"name": "Bellek",
+				"prespp": 4,
+				"turns": 17,
+				"type": "R"
+			},
+			"12519672": {
+				"blocks": 8,
+				"name": "Nizic",
+				"prespp": 27,
+				"turns": 10,
+				"type": "R"
+			},
+			"12520609": {
+				"blocks": 5,
+				"name": "Ikuz",
+				"prespp": 24,
+				"turns": 5,
+				"type": "R"
+			},
+			"12520610": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "Azid",
+				"prespp": 18,
+				"spp": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"12612981": {
+				"blocks": 8,
+				"name": "Balck",
+				"prespp": 19,
+				"turns": 17,
+				"type": "R"
+			},
+			"12639294": {
+				"blocks": 6,
+				"name": "Galzar",
+				"prespp": 23,
+				"turns": 17,
+				"type": "R"
+			},
+			"12667985": {
+				"blocks": 4,
+				"name": "Gulben",
+				"prespp": 17,
+				"rush": 7,
+				"turns": 17,
+				"type": "R"
+			},
+			"12727816": {
+				"blocks": 2,
+				"name": "GiLLad",
+				"prespp": 13,
+				"turns": 17,
+				"type": "B"
+			},
+			"12727817": {
+				"name": "Frek",
+				"pass": -1,
+				"prespp": 16,
+				"rush": 20,
+				"turns": 17,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1205447",
+	"team": {
+		"922608": {
+			"blocks": 67,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Horsemen of The Great Kurgan",
+			"pass": 0,
+			"prespp": 161,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 18,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 179
+		},
+		"922672": {
+			"blocks": 48,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gazbag's Hunters",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": -1,
+			"prespp": 195,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 27,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 162
 		}
 	}
 }

@@ -1,20 +1,271 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4109628",
+	"player": {
 		"919573": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Ragtag Animal Training Sartors",
-			"scorediff": 0,
-			"tddiff": 0
+			"12469184": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Blightbasher",
+				"prespp": 49,
+				"spp": 5,
+				"turns": 6,
+				"type": "B"
+			},
+			"12469186": {
+				"blocks": 7,
+				"cas": 2,
+				"name": "Toerot",
+				"prespp": 42,
+				"spp": 4,
+				"turns": 11,
+				"type": "B"
+			},
+			"12469192": {
+				"fouls": 2,
+				"name": "Znukch Clothclaw",
+				"prespp": 9,
+				"turns": 15,
+				"type": "R"
+			},
+			"12469194": {
+				"blocks": 1,
+				"name": "Crenq Brightear",
+				"prespp": 30,
+				"turns": 8,
+				"type": "R"
+			},
+			"12585236": {
+				"blocks": 1,
+				"name": "Znich Ashenhat",
+				"pass": 1,
+				"prespp": 8,
+				"rush": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12602556": {
+				"name": "Strik Shinyfur",
+				"prespp": 2,
+				"turns": 5,
+				"type": "R"
+			},
+			"12602557": {
+				"blocks": 1,
+				"name": "Trecnuach Tailring",
+				"prespp": 16,
+				"rush": -1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12670287": {
+				"name": "Threlk Weavepaw",
+				"prespp": 9,
+				"rush": 18,
+				"spp": 6,
+				"td": 2,
+				"turns": 9,
+				"type": "R"
+			},
+			"12737368": {
+				"blocks": 4,
+				"dead": [
+					2,
+					1,
+					"blocked",
+					"12545866"
+				],
+				"name": "Wildfang",
+				"prespp": 11,
+				"turns": 8,
+				"type": "B"
+			},
+			"12898224": {
+				"blocks": 7,
+				"int": 1,
+				"name": "Hearthunter",
+				"prespp": 7,
+				"rush": 2,
+				"spp": 2,
+				"turns": 12,
+				"type": "B"
+			},
+			"12898226": {
+				"name": "Tok Rapidfeet",
+				"type": "R"
+			},
+			"12922213": {
+				"blocks": 1,
+				"name": "Leroy Hideousbrook",
+				"retired": true,
+				"turns": 8,
+				"type": "J"
+			},
+			"MERC-1207043-919573M1": {
+				"blocks": 1,
+				"name": "Merc Slave 1",
+				"turns": 4,
+				"type": "M"
+			}
 		},
 		"924441": {
-			"cas": 0,
-			"casdiff": 0,
+			"12545817": {
+				"blocks": 2,
+				"name": "Uzth ‘the Anvil’  Oreglair",
+				"prespp": 55,
+				"rush": 20,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12545818": {
+				"blocks": 4,
+				"name": "Vikgon ‘the Boar’ Steelfire",
+				"prespp": 42,
+				"turns": 14,
+				"type": "R"
+			},
+			"12545866": {
+				"blocks": 8,
+				"cas": 5,
+				"name": "Mordohz ‘the Ripper’ Goretongue",
+				"prespp": 32,
+				"spp": 10,
+				"turns": 12,
+				"type": "R"
+			},
+			"12545912": {
+				"blocks": 3,
+				"cas": 1,
+				"comp": 1,
+				"name": "Sindharr ‘the Charred’ Stormback",
+				"pass": 3,
+				"prespp": 12,
+				"rush": 6,
+				"spp": 3,
+				"turns": 12,
+				"type": "R"
+			},
+			"12545915": {
+				"comp": 2,
+				"name": "Morgir ‘Mad Eye’ Ashcarver",
+				"pass": 4,
+				"prespp": 36,
+				"rush": 16,
+				"spp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"12545919": {
+				"blocks": 10,
+				"cas": 2,
+				"name": "Zyorth Blackhammer",
+				"prespp": 20,
+				"spp": 4,
+				"turns": 15,
+				"type": "R"
+			},
+			"12545934": {
+				"blocks": 6,
+				"name": "Glazgoth Magmabeard",
+				"prespp": 20,
+				"turns": 15,
+				"type": "R"
+			},
+			"12545937": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Fharbaknul Sootstriker",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12576679": {
+				"name": "George Silentspark",
+				"prespp": 9,
+				"retired": true,
+				"type": "R"
+			},
+			"12581129": {
+				"blocks": 2,
+				"name": "Fhargrund Bronzefist",
+				"prespp": 16,
+				"turns": 2,
+				"type": "R"
+			},
+			"12896181": {
+				"blocks": 3,
+				"name": "Ekhar Hellwhip",
+				"prespp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"12896182": {
+				"mvp": 1,
+				"name": "Tagoth 'the biter' Darktooth",
+				"spp": 5,
+				"turns": 3,
+				"type": "R"
+			},
+			"12918712": {
+				"blocks": 2,
+				"name": "Kargoth Smokefuse",
+				"turns": 12,
+				"type": "R"
+			},
+			"12918713": {
+				"blocks": 4,
+				"name": "Tashgon Hellfoot",
+				"turns": 15,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1207043",
+	"team": {
+		"919573": {
+			"blocks": 24,
+			"cas": 3,
+			"casdiff": -6,
+			"comp": 0,
+			"fouls": 2,
+			"int": 1,
+			"mvp": 1,
+			"name": "Ragtag Animal Training Sartors",
+			"pass": 1,
+			"prespp": 183,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 21,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 109
+		},
+		"924441": {
+			"blocks": 47,
+			"cas": 9,
+			"casdiff": 6,
+			"comp": 3,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Zharrduk Hellcannons",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 7,
+			"prespp": 251,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 42,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 156
 		}
 	}
 }

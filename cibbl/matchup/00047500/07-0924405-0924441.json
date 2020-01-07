@@ -1,20 +1,261 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4110839",
+	"player": {
 		"924405": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Wolf Lands Slavers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12545274": {
+				"blocks": 1,
+				"name": "Krusher",
+				"prespp": 9,
+				"turns": 8,
+				"type": "B"
+			},
+			"12545275": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Grimdore Chainbreaker",
+				"prespp": 33,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545276": {
+				"blocks": 12,
+				"name": "Sugz Snarlof",
+				"prespp": 42,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545277": {
+				"blocks": 10,
+				"name": "Urig Ironhide",
+				"prespp": 23,
+				"turns": 15,
+				"type": "R"
+			},
+			"12545278": {
+				"blocks": 9,
+				"name": "Zaghik Znarl",
+				"prespp": 35,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545279": {
+				"blocks": 3,
+				"name": "Zellar Cutthroat",
+				"prespp": 28,
+				"turns": 6,
+				"type": "R"
+			},
+			"12545280": {
+				"blocks": 4,
+				"name": "Gurgug Gutter",
+				"prespp": 33,
+				"rush": 20,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545296": {
+				"blocks": 6,
+				"name": "Struhulk Lurker",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12591760": {
+				"name": "Xaainth Headbeater",
+				"prespp": 2,
+				"turns": 2,
+				"type": "R"
+			},
+			"12620091": {
+				"name": "Pligulk Pigstabber",
+				"prespp": 3,
+				"type": "R"
+			},
+			"12664398": {
+				"name": "Juttiz Swiper",
+				"turns": 3,
+				"type": "R"
+			},
+			"12672695": {
+				"name": "Pzhig Pike",
+				"turns": 6,
+				"type": "R"
+			},
+			"12680815": {
+				"blocks": 3,
+				"name": "Schnal Sank",
+				"prespp": 12,
+				"rush": -3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12718994": {
+				"blocks": 4,
+				"name": "Xaennaith Xenos",
+				"turns": 9,
+				"type": "R"
+			},
+			"12901532": {
+				"name": "Turrouk Tainted",
+				"retired": true,
+				"turns": 6,
+				"type": "R"
+			}
 		},
 		"924441": {
+			"12545817": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Uzth ‘the Anvil’  Oreglair",
+				"prespp": 58,
+				"rush": 12,
+				"spp": 5,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545818": {
+				"blocks": 7,
+				"name": "Vikgon ‘the Boar’ Steelfire",
+				"prespp": 42,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545866": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Mordohz ‘the Ripper’ Goretongue",
+				"prespp": 42,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545912": {
+				"blocks": 5,
+				"name": "Sindharr ‘the Charred’ Stormback",
+				"prespp": 15,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545915": {
+				"name": "Morgir ‘Mad Eye’ Ashcarver",
+				"pass": 1,
+				"prespp": 38,
+				"rush": 13,
+				"turns": 9,
+				"type": "R"
+			},
+			"12545919": {
+				"blocks": 6,
+				"name": "Zyorth Blackhammer",
+				"prespp": 24,
+				"turns": 11,
+				"type": "R"
+			},
+			"12545934": {
+				"blocks": 11,
+				"name": "Glazgoth Magmabeard",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545937": {
+				"blocks": 10,
+				"name": "Fharbaknul Sootstriker",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12581129": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Fhargrund Bronzefist",
+				"prespp": 16,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12896181": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Ekhar Hellwhip",
+				"prespp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12896182": {
+				"blocks": 1,
+				"name": "Tagoth 'the biter' Darktooth",
+				"prespp": 5,
+				"turns": 3,
+				"type": "R"
+			},
+			"12918712": {
+				"blocks": 4,
+				"name": "Kargoth Smokefuse",
+				"turns": 8,
+				"type": "R"
+			},
+			"12918713": {
+				"blocks": 3,
+				"cas": 1,
+				"fouls": 1,
+				"mvp": 1,
+				"name": "Tashgon Hellfoot",
+				"retired": true,
+				"spp": 7,
+				"turns": 15,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1208471",
+	"team": {
+		"924405": {
+			"blocks": 57,
 			"cas": 0,
-			"casdiff": 0,
-			"name": "Zharrduk Hellcannons",
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Wolf Lands Slavers",
+			"pass": 0,
+			"prespp": 229,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 17,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 151
+		},
+		"924441": {
+			"blocks": 75,
+			"cas": 4,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Zharrduk Hellcannons",
+			"pass": 1,
+			"prespp": 271,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 25,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 168
 		}
 	}
 }
