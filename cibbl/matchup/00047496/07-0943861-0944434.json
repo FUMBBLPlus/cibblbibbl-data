@@ -1,20 +1,232 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4113907",
+	"player": {
 		"943861": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Morr'tebio Lilies",
-			"scorediff": 0,
-			"tddiff": 0
+			"12861591": {
+				"blocks": 4,
+				"name": "Anakonda",
+				"prespp": 9,
+				"turns": 8,
+				"type": "R"
+			},
+			"12861593": {
+				"blocks": 4,
+				"name": "Ja'guar",
+				"prespp": 9,
+				"turns": 11,
+				"type": "R"
+			},
+			"12861595": {
+				"name": "Pirana",
+				"prespp": 20,
+				"type": "R"
+			},
+			"12861597": {
+				"name": "Posion Dart",
+				"type": "R"
+			},
+			"12861615": {
+				"blocks": 2,
+				"name": "Tamarin",
+				"turns": 6,
+				"type": "R"
+			},
+			"12861616": {
+				"blocks": 1,
+				"name": "Boa",
+				"turns": 15,
+				"type": "R"
+			},
+			"12861620": {
+				"blocks": 3,
+				"name": "Spida",
+				"turns": 16,
+				"type": "R"
+			},
+			"12861621": {
+				"blocks": 7,
+				"name": "Sharc",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861624": {
+				"blocks": 2,
+				"name": "Dolfiin",
+				"prespp": 6,
+				"rush": 23,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12883898": {
+				"blocks": 3,
+				"name": "Hoatzin",
+				"prespp": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12938135": {
+				"blocks": 4,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Harpy Eagle II",
+				"spp": 7,
+				"turns": 12,
+				"type": "R"
+			},
+			"12938136": {
+				"blocks": 1,
+				"name": "Glass Frog",
+				"turns": 16,
+				"type": "R"
+			},
+			"12938138": {
+				"blocks": 2,
+				"name": "Nicholas Weakspike",
+				"turns": 16,
+				"type": "J"
+			},
+			"MERC-1211852-943861M1": {
+				"fouls": 3,
+				"name": "Merc Linewoman 1",
+				"turns": 15,
+				"type": "M"
+			}
 		},
 		"944434": {
-			"cas": 0,
-			"casdiff": 0,
+			"12870764": {
+				"blocks": 14,
+				"cas": 1,
+				"name": "Hrozulr",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12870765": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Smod",
+				"prespp": 10,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12870767": {
+				"blocks": 1,
+				"name": "Kruthreisnath",
+				"prespp": 12,
+				"rush": 15,
+				"turns": 13,
+				"type": "R"
+			},
+			"12870769": {
+				"blocks": 4,
+				"name": "Frustrud",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12870770": {
+				"blocks": 2,
+				"name": "Deathbraid",
+				"turns": 11,
+				"type": "R"
+			},
+			"12870776": {
+				"blocks": 2,
+				"name": "Mazror",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12870779": {
+				"blocks": 1,
+				"name": "Knulghic",
+				"retired": true,
+				"turns": 9,
+				"type": "R"
+			},
+			"12870780": {
+				"name": "Thugdhoc",
+				"prespp": 5,
+				"retired": true,
+				"turns": 8,
+				"type": "R"
+			},
+			"12904076": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Ambrorgon",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 7,
+				"type": "R"
+			},
+			"12924094": {
+				"blocks": 4,
+				"comp": 1,
+				"name": "Trazkitz",
+				"pass": -1,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12933027": {
+				"blocks": 4,
+				"name": "William Hideouswing",
+				"retired": true,
+				"turns": 16,
+				"type": "J"
+			}
+		}
+	},
+	"replayId": "1211852",
+	"team": {
+		"943861": {
+			"blocks": 33,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Morr'tebio Lilies",
+			"pass": 0,
+			"prespp": 54,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 23,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 163
+		},
+		"944434": {
+			"blocks": 42,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Khorne's Doombringers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": -1,
+			"prespp": 45,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 15,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 144
 		}
 	}
 }

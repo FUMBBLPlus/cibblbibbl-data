@@ -1,20 +1,238 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4113850",
+	"player": {
 		"946354": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Pahuax Huntmasters",
-			"scorediff": 0,
-			"tddiff": 0
+			"12901783": {
+				"blocks": 5,
+				"name": "Tiger Hunter",
+				"turns": 17,
+				"type": "R"
+			},
+			"12901784": {
+				"blocks": 3,
+				"name": "Black-headed Dwarf Slayer",
+				"turns": 10,
+				"type": "R"
+			},
+			"12901788": {
+				"name": "Short-horned Trapper",
+				"rush": 7,
+				"spp": 3,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12901796": {
+				"blocks": 3,
+				"name": "Blue-legged Tracker",
+				"turns": 9,
+				"type": "R"
+			},
+			"12901805": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Deceptive Mimicker",
+				"prespp": 4,
+				"spp": 5,
+				"turns": 13,
+				"type": "R"
+			},
+			"12901812": {
+				"name": "Hooded Stalker",
+				"prespp": 3,
+				"turns": 5,
+				"type": "R"
+			},
+			"12901816": {
+				"blocks": 2,
+				"name": "Blade Striker",
+				"prespp": 5,
+				"rush": 10,
+				"spp": 3,
+				"td": 1,
+				"turns": 11,
+				"type": "R"
+			},
+			"12901819": {
+				"comp": 1,
+				"name": "Bizarre-nosed Sniffer",
+				"pass": -2,
+				"prespp": 1,
+				"rush": 5,
+				"spp": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12901820": {
+				"name": "Yellow-green Ambusher",
+				"pass": 1,
+				"prespp": 3,
+				"rush": 5,
+				"turns": 14,
+				"type": "R"
+			},
+			"12901822": {
+				"blocks": 1,
+				"name": "Two-toned Soft-nosed Seeker",
+				"prespp": 3,
+				"rush": 3,
+				"turns": 8,
+				"type": "R"
+			},
+			"12901825": {
+				"fouls": 1,
+				"name": "Double-scaled Herder",
+				"turns": 11,
+				"type": "R"
+			},
+			"12901828": {
+				"blocks": 2,
+				"name": "Common Huntsman",
+				"turns": 11,
+				"type": "R"
+			},
+			"12901835": {
+				"name": "Flap-necked Shooter",
+				"turns": 1,
+				"type": "R"
+			}
 		},
 		"947272": {
-			"cas": 0,
-			"casdiff": 0,
+			"12917323": {
+				"blocks": 9,
+				"mvp": 1,
+				"name": "Lucious Darkheart",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12917324": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Flia Glamiatrix",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12917325": {
+				"name": "Jihar Demonhost",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12917326": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Ungrol Silverpelt",
+				"turns": 8,
+				"type": "R"
+			},
+			"12917327": {
+				"blocks": 4,
+				"fouls": 1,
+				"name": "Courante the Eternal",
+				"rush": 12,
+				"turns": 16,
+				"type": "R"
+			},
+			"12917329": {
+				"blocks": 5,
+				"name": "Courante the Lost",
+				"turns": 16,
+				"type": "R"
+			},
+			"12917331": {
+				"blocks": 6,
+				"name": "Shal Tearburn",
+				"turns": 16,
+				"type": "R"
+			},
+			"12917333": {
+				"blocks": 2,
+				"comp": 2,
+				"name": "Arhial Soulthief",
+				"pass": 2,
+				"prespp": 8,
+				"rush": 12,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12917334": {
+				"blocks": 3,
+				"name": "Glamiatrix the Flayer",
+				"turns": 16,
+				"type": "R"
+			},
+			"12917346": {
+				"blocks": 9,
+				"name": "Agrthox the Fearless",
+				"turns": 16,
+				"type": "R"
+			},
+			"12926758": {
+				"blocks": 3,
+				"name": "Fredrick Deeptree",
+				"retired": true,
+				"turns": 16,
+				"type": "J"
+			},
+			"12926759": {
+				"blocks": 4,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Julius Hideoussnake",
+				"retired": true,
+				"spp": 2,
+				"turns": 16,
+				"type": "J"
+			}
+		}
+	},
+	"replayId": "1211781",
+	"team": {
+		"946354": {
+			"blocks": 17,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Pahuax Huntmasters",
+			"pass": -1,
+			"prespp": 19,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 30,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 144
+		},
+		"947272": {
+			"blocks": 53,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 2,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Frederheim Renegades",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 2,
+			"prespp": 17,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 24,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 168
 		}
 	}
 }
