@@ -1,20 +1,238 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4114238",
+	"player": {
 		"945880": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Rot Mansion Couriers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12893990": {
+				"blocks": 5,
+				"name": "Polypungus Blighthorn",
+				"prespp": 5,
+				"turns": 10,
+				"type": "R"
+			},
+			"12893991": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Slaugox Gnarlsore",
+				"prespp": 13,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12893992": {
+				"blocks": 5,
+				"name": "Ghoyle Poxgut",
+				"prespp": 9,
+				"turns": 15,
+				"type": "R"
+			},
+			"12893994": {
+				"blocks": 7,
+				"name": "Malarestus Plaguehelm",
+				"prespp": 4,
+				"turns": 10,
+				"type": "R"
+			},
+			"12893996": {
+				"blocks": 6,
+				"name": "Verrucugnus Toadflesh",
+				"prespp": 11,
+				"rush": 19,
+				"turns": 15,
+				"type": "R"
+			},
+			"12894003": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Maggonellus Rankpulp",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"12894013": {
+				"name": "Poid",
+				"turns": 8,
+				"type": "R"
+			},
+			"12894018": {
+				"name": "Rakk",
+				"prespp": 2,
+				"turns": 3,
+				"type": "R"
+			},
+			"12894023": {
+				"fouls": 1,
+				"name": "Mould",
+				"turns": 4,
+				"type": "R"
+			},
+			"12894027": {
+				"fouls": 1,
+				"name": "Snat",
+				"turns": 15,
+				"type": "R"
+			},
+			"12928409": {
+				"fouls": 1,
+				"name": "Smud",
+				"turns": 2,
+				"type": "R"
+			},
+			"12928411": {
+				"name": "Byile",
+				"turns": 2,
+				"type": "R"
+			},
+			"12928413": {
+				"fouls": 1,
+				"name": "Plack",
+				"turns": 8,
+				"type": "R"
+			},
+			"12933983": {
+				"name": "Gherm",
+				"turns": 6,
+				"type": "R"
+			}
 		},
 		"947272": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Frederheim Renegades",
+			"12917323": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Lucious Darkheart",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12917324": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Flia Glamiatrix",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12917325": {
+				"blocks": 12,
+				"name": "Jihar Demonhost",
+				"prespp": 7,
+				"turns": 15,
+				"type": "R"
+			},
+			"12917326": {
+				"name": "Ungrol Silverpelt",
+				"type": "R"
+			},
+			"12917327": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Courante the Eternal",
+				"pass": -2,
+				"spp": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12917329": {
+				"fouls": 1,
+				"name": "Courante the Lost",
+				"turns": 9,
+				"type": "R"
+			},
+			"12917331": {
+				"blocks": 2,
+				"name": "Shal Tearburn",
+				"turns": 6,
+				"type": "R"
+			},
+			"12917333": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Arhial Soulthief",
+				"prespp": 10,
+				"rush": 16,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12917334": {
+				"blocks": 5,
+				"fouls": 1,
+				"name": "Glamiatrix the Flayer",
+				"turns": 15,
+				"type": "R"
+			},
+			"12917346": {
+				"blocks": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Agrthox the Fearless",
+				"spp": 7,
+				"turns": 12,
+				"type": "R"
+			},
+			"12944767": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Edward Fastspike",
+				"retired": true,
+				"turns": 10,
+				"type": "J"
+			},
+			"12944768": {
+				"blocks": 3,
+				"name": "Robert Darksnake",
+				"retired": true,
+				"turns": 8,
+				"type": "J"
+			}
+		}
+	},
+	"replayId": "1212236",
+	"team": {
+		"945880": {
+			"blocks": 36,
+			"cas": 1,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
+			"name": "Rot Mansion Couriers",
+			"pass": 0,
+			"prespp": 46,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 19,
+			"score": 0,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 0,
+			"tddiff": 0,
+			"turns": 128
+		},
+		"947272": {
+			"blocks": 44,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Frederheim Renegades",
+			"pass": -2,
+			"prespp": 26,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 16,
+			"score": 0,
+			"scorediff": 0,
+			"td": 0,
+			"tddiff": 0,
+			"turns": 135
 		}
 	}
 }
