@@ -1,0 +1,61 @@
+digraph G {
+
+ {
+    node [shape=plaintext];
+    P7 -> P6 -> P4 -> P3 -> P2;
+ }
+
+ {
+    LoSD [style=filled fillcolor=yellow];
+    MMM [style=filled fillcolor=yellow];
+    SPM [style=filled fillcolor=yellow];
+ }
+
+ { rank = same; "P7"; "MMM";"SPM";"LoSD";};
+ { rank = same; "P6"; "EE"; "SoN"; };
+ { rank = same; "P4"; "ICBM"; "FC"; "MC" };
+ { rank = same; "P3"; "EA" };
+ { rank = same; "P2"; "LGoG" };
+
+// Round 1
+ SoN -> EA;
+ EE -> FC;
+ MMM -> ICBM;
+ LGoG -> SPM;
+ SPM -> LGoG;
+ LoSD -> MC;
+
+// Round 2
+ EE -> MMM;
+ LoSD -> SoN;
+ SoN -> LoSD;
+ SPM -> FC;
+ ICBM -> LGoG;
+ EA -> MC;
+ MC -> EA;
+
+// Round 3
+ SoN -> SPM;
+ SPM -> SoN;
+ MMM -> LGoG;
+ LoSD -> EE;
+ ICBM -> MC;
+ FC -> EA;
+
+// Round 4
+ EE -> SoN;
+ MMM -> SPM;
+ SPM -> MMM;
+ LoSD -> ICBM;
+ MC -> EA;
+ FC -> LGoG;
+ LGoG -> FC;
+
+// Round 5
+ SPM -> EE;
+ EA -> LGoG;
+ SoN -> ICBM;
+ FC -> MC;
+ MC -> FC;
+ MMM -> LoSD;
+}
