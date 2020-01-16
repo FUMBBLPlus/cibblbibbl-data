@@ -1,20 +1,285 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4115027",
+	"player": {
 		"854678": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Lords of the Silent Death",
-			"scorediff": 0,
-			"tddiff": 0
+			"11439628": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Sneekis the Dragon",
+				"prespp": 90,
+				"spp": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"11482377": {
+				"name": "Grisnagar the Brave",
+				"prespp": 33,
+				"type": "R"
+			},
+			"11696956": {
+				"name": "Nightmaster Skirshakk",
+				"prespp": 187,
+				"rush": 23,
+				"spp": 3,
+				"td": 1,
+				"turns": 2,
+				"type": "R"
+			},
+			"11850585": {
+				"blocks": 3,
+				"name": "Nightlord Azhiskikk",
+				"prespp": 52,
+				"rush": 1,
+				"turns": 12,
+				"type": "R"
+			},
+			"11934134": {
+				"name": "Nightmaster Vasquee",
+				"prespp": 62,
+				"type": "R"
+			},
+			"11951210": {
+				"blocks": 3,
+				"comp": 1,
+				"name": "Nightlord Nurgrin",
+				"pass": 5,
+				"prespp": 93,
+				"rush": 13,
+				"spp": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12217971": {
+				"blocks": 2,
+				"name": "Nightmaster Crittskik",
+				"prespp": 56,
+				"turns": 15,
+				"type": "R"
+			},
+			"12345916": {
+				"blocks": 2,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Vazhakk the Skywatcher",
+				"prespp": 34,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12528392": {
+				"name": "Nightmaster Skre",
+				"prespp": 32,
+				"turns": 3,
+				"type": "R"
+			},
+			"12706917": {
+				"name": "Chuzhak the Rough",
+				"turns": 8,
+				"type": "R"
+			},
+			"12894641": {
+				"blocks": 4,
+				"fouls": 3,
+				"name": "Quskrul the Digger",
+				"prespp": 7,
+				"turns": 9,
+				"type": "R"
+			},
+			"12900503": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Struaknuak the Hawk",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 9,
+				"type": "R"
+			},
+			"12902998": {
+				"blocks": 1,
+				"name": "Ziqrueech the Deadeye",
+				"prespp": 3,
+				"turns": 15,
+				"type": "R"
+			},
+			"12923196": {
+				"name": "Qret the Quiet",
+				"turns": 5,
+				"type": "R"
+			},
+			"12923197": {
+				"blocks": 2,
+				"dead": [
+					1,
+					5,
+					"blocked",
+					"11946085"
+				],
+				"name": "Qrukrun the Broken",
+				"turns": 5,
+				"type": "R"
+			},
+			"MERC-1213152-854678M1": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Merc Clan Rat 1",
+				"spp": 2,
+				"turns": 14,
+				"type": "M"
+			}
 		},
 		"867862": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Everlasting Vultures of Settra",
+			"11722423": {
+				"blocks": 8,
+				"name": "Vur",
+				"prespp": 80,
+				"turns": 16,
+				"type": "R"
+			},
+			"11782667": {
+				"blocks": 2,
+				"fouls": 2,
+				"name": "Vir",
+				"prespp": 13,
+				"turns": 8,
+				"type": "R"
+			},
+			"11917261": {
+				"blocks": 1,
+				"name": "Irtriss",
+				"prespp": 114,
+				"rush": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"11946085": {
+				"blocks": 11,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Tarotep of Horin 'Reth",
+				"prespp": 121,
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12122939": {
+				"blocks": 7,
+				"name": "Treth' Kon Sharkface",
+				"prespp": 9,
+				"turns": 14,
+				"type": "R"
+			},
+			"12215612": {
+				"fouls": 3,
+				"name": "Kudir",
+				"prespp": 7,
+				"turns": 3,
+				"type": "R"
+			},
+			"12223534": {
+				"blocks": 2,
+				"name": "Chitol",
+				"prespp": 79,
+				"turns": 16,
+				"type": "R"
+			},
+			"12264876": {
+				"blocks": 10,
+				"name": "Imir' Zhan of Thorgotan",
+				"prespp": 94,
+				"turns": 10,
+				"type": "R"
+			},
+			"12328835": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Trizt",
+				"prespp": 12,
+				"turns": 4,
+				"type": "R"
+			},
+			"12426289": {
+				"blocks": 6,
+				"name": "Gremir the Sphinx",
+				"turns": 16,
+				"type": "R"
+			},
+			"12502278": {
+				"name": "Ersen",
+				"type": "R"
+			},
+			"12517244": {
+				"blocks": 6,
+				"name": "Ka 'Rin",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12539513": {
+				"blocks": 1,
+				"name": "Komin 'Ra",
+				"prespp": 63,
+				"rush": 30,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12623601": {
+				"blocks": 1,
+				"name": "Ydi 'Tan",
+				"turns": 8,
+				"type": "R"
+			},
+			"12686148": {
+				"name": "Ta' Amul",
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1213152",
+	"team": {
+		"854678": {
+			"blocks": 29,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
+			"name": "Lords of the Silent Death",
+			"pass": 5,
+			"prespp": 654,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 37,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 138
+		},
+		"867862": {
+			"blocks": 57,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
+			"name": "Everlasting Vultures of Settra",
+			"pass": 0,
+			"prespp": 609,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 35,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 159
 		}
 	}
 }

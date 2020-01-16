@@ -1,20 +1,222 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4115012",
+	"player": {
 		"942643": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Rōnin Reborn",
-			"scorediff": 0,
-			"tddiff": 0
+			"12842984": {
+				"blocks": 8,
+				"name": "Hattori Oni no Hanzo",
+				"prespp": 9,
+				"turns": 16,
+				"type": "B"
+			},
+			"12842985": {
+				"blocks": 6,
+				"name": "Hakuho Sho Yokozunas",
+				"turns": 15,
+				"type": "R"
+			},
+			"12842987": {
+				"name": "Futabayama Sadaji Yokozunas",
+				"prespp": 5,
+				"type": "R"
+			},
+			"12842988": {
+				"blocks": 6,
+				"name": "Date Masamune",
+				"pass": 1,
+				"prespp": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12842990": {
+				"blocks": 1,
+				"name": "Minamoto no Yoshitsune",
+				"prespp": 7,
+				"turns": 10,
+				"type": "R"
+			},
+			"12842991": {
+				"blocks": 1,
+				"name": "Dom Justo Takayama",
+				"prespp": 1,
+				"rush": 16,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12842992": {
+				"blocks": 2,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Takeda Nobushige",
+				"spp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12842993": {
+				"name": "Mori Ranmaru",
+				"turns": 6,
+				"type": "R"
+			},
+			"12843000": {
+				"blocks": 2,
+				"name": "Sanda Yakimura",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12843001": {
+				"blocks": 3,
+				"name": "Keiji Maeda",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12870358": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Toyotomi Hideyoshi",
+				"prespp": 8,
+				"rush": 9,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"944216": {
-			"cas": 0,
-			"casdiff": 0,
+			"12867103": {
+				"blocks": 2,
+				"name": "Cualli the Great Shield",
+				"prespp": 2,
+				"turns": 10,
+				"type": "B"
+			},
+			"12867104": {
+				"blocks": 12,
+				"cas": 3,
+				"name": "Nahuatl the Masterful One",
+				"prespp": 10,
+				"spp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12867105": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Meztli the Guardian",
+				"prespp": 4,
+				"spp": 5,
+				"turns": 12,
+				"type": "R"
+			},
+			"12867106": {
+				"blocks": 2,
+				"name": "Ohtli the Warrior",
+				"turns": 4,
+				"type": "R"
+			},
+			"12867108": {
+				"blocks": 7,
+				"name": "Ichtaca the Righteous",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12867109": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Ihuicatl the Tenacious",
+				"prespp": 6,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12867110": {
+				"name": "Atl the Gregarious",
+				"prespp": 9,
+				"turns": 7,
+				"type": "R"
+			},
+			"12867111": {
+				"blocks": 1,
+				"name": "Izel the Loquacious",
+				"prespp": 9,
+				"turns": 8,
+				"type": "R"
+			},
+			"12867112": {
+				"name": "Xiuhcoatl the Shaper",
+				"prespp": 3,
+				"rush": 6,
+				"turns": 7,
+				"type": "R"
+			},
+			"12867113": {
+				"dead": [
+					1,
+					4,
+					"blocked",
+					"12870358"
+				],
+				"name": "Yaretzi the Farsighted",
+				"prespp": 6,
+				"turns": 4,
+				"type": "R"
+			},
+			"12943330": {
+				"blocks": 1,
+				"name": "Yorick Paleeagle",
+				"rush": 8,
+				"turns": 11,
+				"type": "J"
+			}
+		}
+	},
+	"replayId": "1213126",
+	"team": {
+		"942643": {
+			"blocks": 31,
+			"cas": 3,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Rōnin Reborn",
+			"pass": 1,
+			"prespp": 50,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 25,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 143
+		},
+		"944216": {
+			"blocks": 35,
+			"cas": 4,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Quetza Coatlācah",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 59,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 14,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 111
 		}
 	}
 }
