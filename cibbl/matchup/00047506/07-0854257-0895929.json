@@ -1,20 +1,268 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4115358",
+	"player": {
 		"854257": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Grand Celestial Delegate",
-			"scorediff": 0,
-			"tddiff": 0
+			"11432424": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "After the Lotus Flowers Have Opened",
+				"prespp": 193,
+				"spp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"11565341": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Sorrowfully An Ape Calls",
+				"prespp": 67,
+				"turns": 16,
+				"type": "R"
+			},
+			"11959633": {
+				"fouls": 2,
+				"name": "Gnaw the Books",
+				"prespp": 9,
+				"turns": 5,
+				"type": "R"
+			},
+			"12248635": {
+				"name": "Wild Herbs",
+				"prespp": 34,
+				"turns": 11,
+				"type": "R"
+			},
+			"12448596": {
+				"blocks": 1,
+				"name": "Moist Like Butter",
+				"pass": 1,
+				"prespp": 32,
+				"rush": 26,
+				"spp": 3,
+				"td": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12462496": {
+				"blocks": 7,
+				"name": "White Feathers On The Water",
+				"prespp": 22,
+				"turns": 16,
+				"type": "R"
+			},
+			"12510953": {
+				"blocks": 1,
+				"name": "Temple Tree Path",
+				"prespp": 9,
+				"turns": 11,
+				"type": "R"
+			},
+			"12630692": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Still Snow at Dawn",
+				"prespp": 10,
+				"spp": 5,
+				"turns": 14,
+				"type": "R"
+			},
+			"12670897": {
+				"name": "Walk Amidst the Corn",
+				"prespp": 6,
+				"turns": 9,
+				"type": "R"
+			},
+			"12873671": {
+				"blocks": 3,
+				"name": "Stone Lotus",
+				"prespp": 14,
+				"turns": 16,
+				"type": "B"
+			},
+			"12873771": {
+				"blocks": 4,
+				"name": "Friends From Afar, Anchor Your Stay",
+				"prespp": 16,
+				"turns": 7,
+				"type": "R"
+			},
+			"12883759": {
+				"name": "Dance of Discipline in Dreams",
+				"type": "R"
+			},
+			"12938139": {
+				"blocks": 1,
+				"name": "Frog Carrying A Lantern",
+				"pass": 1,
+				"rush": 12,
+				"turns": 13,
+				"type": "R"
+			},
+			"12938142": {
+				"name": "Spark of Stillness",
+				"type": "R"
+			},
+			"STAR-Terracotta Warrior": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Terracotta Warrior",
+				"spp": 2,
+				"turns": 16,
+				"type": "S"
+			}
 		},
 		"895929": {
-			"cas": 0,
+			"12098257": {
+				"blocks": 4,
+				"cas": 1,
+				"comp": 1,
+				"name": "Clawchest",
+				"pass": 3,
+				"prespp": 104,
+				"rush": 19,
+				"spp": 6,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12098258": {
+				"blocks": 3,
+				"name": "Silverscar",
+				"prespp": 63,
+				"rush": -2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12098263": {
+				"blocks": 6,
+				"name": "Silverstriker",
+				"prespp": 51,
+				"turns": 16,
+				"type": "R"
+			},
+			"12098297": {
+				"blocks": 1,
+				"name": "Duskdigger",
+				"prespp": 128,
+				"rush": 15,
+				"turns": 10,
+				"type": "R"
+			},
+			"12136367": {
+				"blocks": 9,
+				"name": "Kratch Fangsnapper",
+				"prespp": 65,
+				"turns": 16,
+				"type": "R"
+			},
+			"12166472": {
+				"blocks": 5,
+				"name": "Scrak Fangsnapper",
+				"prespp": 51,
+				"turns": 11,
+				"type": "R"
+			},
+			"12345051": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Crowripper",
+				"prespp": 9,
+				"turns": 12,
+				"type": "R"
+			},
+			"12345108": {
+				"blocks": 13,
+				"cas": 1,
+				"name": "Windfury Jr",
+				"prespp": 62,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12496241": {
+				"blocks": 3,
+				"name": "Blackgaze",
+				"prespp": 6,
+				"rush": 5,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12576908": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Fieryblight",
+				"prespp": 16,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12884769": {
+				"name": "Grimscar",
+				"turns": 9,
+				"type": "R"
+			},
+			"12884770": {
+				"name": "Flintstriker",
+				"turns": 4,
+				"type": "R"
+			},
+			"12884771": {
+				"name": "Feathershrieker",
+				"turns": 3,
+				"type": "R"
+			},
+			"12929201": {
+				"name": "Fierytail",
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1213562",
+	"team": {
+		"854257": {
+			"blocks": 37,
+			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Grand Celestial Delegate",
+			"pass": 2,
+			"prespp": 412,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 38,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 162
+		},
+		"895929": {
+			"blocks": 49,
+			"cas": 2,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Fangsnapper's Clawpack",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 3,
+			"prespp": 555,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 37,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 160
 		}
 	}
 }
