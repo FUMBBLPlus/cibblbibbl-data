@@ -1,20 +1,270 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4115744",
+	"player": {
 		"909848": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Black Hearted Bloodseekers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12315757": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Lythk the Merciless",
+				"prespp": 47,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12315759": {
+				"blocks": 5,
+				"name": "Fleshrender",
+				"prespp": 33,
+				"turns": 9,
+				"type": "R"
+			},
+			"12315761": {
+				"blocks": 2,
+				"name": "Kelriz the Unforgiving",
+				"prespp": 63,
+				"rush": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12315763": {
+				"blocks": 2,
+				"fouls": 2,
+				"name": "Oxhaar the Breaker",
+				"turns": 9,
+				"type": "R"
+			},
+			"12424767": {
+				"blocks": 6,
+				"name": "Tailslasher the Unbroken",
+				"prespp": 39,
+				"turns": 16,
+				"type": "R"
+			},
+			"12431645": {
+				"blocks": 7,
+				"name": "Rythaal the Malevolent",
+				"prespp": 32,
+				"rush": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12492739": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Abraxasz",
+				"prespp": 29,
+				"rush": 8,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12597222": {
+				"name": "Carth'aaros",
+				"rush": 10,
+				"spp": 3,
+				"td": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12678251": {
+				"name": "Paruudon",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12925105": {
+				"blocks": 3,
+				"name": "Lekkir",
+				"turns": 10,
+				"type": "R"
+			},
+			"12944722": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Koran, Open Wounds",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12944726": {
+				"blocks": 2,
+				"name": "Harak the Horned",
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"919662": {
-			"cas": 0,
-			"casdiff": 0,
+			"12474062": {
+				"blocks": 2,
+				"name": "Urskin",
+				"prespp": 23,
+				"turns": 16,
+				"type": "B"
+			},
+			"12474065": {
+				"blocks": 2,
+				"name": "Ivan Doroshenko",
+				"prespp": 8,
+				"turns": 8,
+				"type": "R"
+			},
+			"12474066": {
+				"dead": [
+					1,
+					8,
+					"dodgeFail",
+					null
+				],
+				"name": "Stenka Pugachev",
+				"prespp": 22,
+				"turns": 7,
+				"type": "R"
+			},
+			"12474068": {
+				"blocks": 3,
+				"name": "Yermak Razumovski",
+				"prespp": 33,
+				"turns": 4,
+				"type": "R"
+			},
+			"12474069": {
+				"blocks": 2,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Alexei Razumovski",
+				"prespp": 33,
+				"rush": -2,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12474072": {
+				"comp": 1,
+				"name": "Bela Szozak",
+				"prespp": 33,
+				"rush": 9,
+				"spp": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12474075": {
+				"blocks": 2,
+				"name": "Nagy Avalov",
+				"pass": 1,
+				"prespp": 16,
+				"rush": 7,
+				"turns": 12,
+				"type": "R"
+			},
+			"12474094": {
+				"blocks": 4,
+				"name": "Farkas Komilov",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12512740": {
+				"blocks": 6,
+				"name": "Besutei",
+				"prespp": 9,
+				"turns": 12,
+				"type": "R"
+			},
+			"12512794": {
+				"name": "Jebeioyan",
+				"prespp": 2,
+				"turns": 1,
+				"type": "R"
+			},
+			"12583898": {
+				"blocks": 1,
+				"name": "Temudjin Hirsut",
+				"prespp": 20,
+				"turns": 5,
+				"type": "R"
+			},
+			"12622761": {
+				"blocks": 5,
+				"comp": 1,
+				"name": "Zorigoo Khuleg",
+				"pass": 6,
+				"prespp": 23,
+				"spp": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12635297": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Baavgai",
+				"prespp": 9,
+				"spp": 5,
+				"turns": 16,
+				"type": "B"
+			},
+			"12868486": {
+				"blocks": 1,
+				"dead": [
+					2,
+					4,
+					"blocked",
+					"12492739"
+				],
+				"name": "Bohdan Teteria",
+				"prespp": 3,
+				"turns": 3,
+				"type": "R"
+			},
+			"12906343": {
+				"name": "Lavr",
+				"turns": 1,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1213996",
+	"team": {
+		"909848": {
+			"blocks": 44,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Black Hearted Bloodseekers",
+			"pass": 0,
+			"prespp": 245,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 27,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 148
+		},
+		"919662": {
+			"blocks": 30,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ursun Throat Singers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 7,
+			"prespp": 252,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 14,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 145
 		}
 	}
 }
