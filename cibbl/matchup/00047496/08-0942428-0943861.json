@@ -1,20 +1,240 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4116369",
+	"player": {
 		"942428": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Nagashizzar Nightmares",
-			"scorediff": 0,
-			"tddiff": 0
+			"12839831": {
+				"blocks": 4,
+				"name": "Dorfl",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839833": {
+				"name": "Gladys",
+				"prespp": 2,
+				"turns": 9,
+				"type": "R"
+			},
+			"12839840": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Fluffy",
+				"prespp": 14,
+				"spp": 5,
+				"turns": 6,
+				"type": "R"
+			},
+			"12839854": {
+				"blocks": 14,
+				"name": "Iumut",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839869": {
+				"blocks": 3,
+				"name": "Isetasht",
+				"turns": 16,
+				"type": "R"
+			},
+			"12839878": {
+				"name": "Gashnag",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839885": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Crugeth",
+				"turns": 8,
+				"type": "R"
+			},
+			"12839887": {
+				"fouls": 1,
+				"name": "Sremar",
+				"prespp": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"12839893": {
+				"blocks": 1,
+				"name": "Clerus",
+				"turns": 11,
+				"type": "R"
+			},
+			"12881855": {
+				"blocks": 2,
+				"name": "Rex",
+				"prespp": 16,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12925736": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Dren",
+				"turns": 16,
+				"type": "R"
+			},
+			"12925737": {
+				"name": "Ugrox",
+				"type": "R"
+			},
+			"12954350": {
+				"fouls": 1,
+				"name": "Arkhan",
+				"turns": 1,
+				"type": "R"
+			},
+			"12954351": {
+				"blocks": 2,
+				"name": "Walach",
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"943861": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Morr'tebio Lilies",
+			"12861591": {
+				"blocks": 4,
+				"name": "Anakonda",
+				"prespp": 9,
+				"turns": 13,
+				"type": "R"
+			},
+			"12861593": {
+				"blocks": 5,
+				"fouls": 1,
+				"name": "Ja'guar",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861595": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Pirana",
+				"prespp": 20,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861597": {
+				"blocks": 3,
+				"name": "Posion Dart",
+				"turns": 12,
+				"type": "R"
+			},
+			"12861615": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Tamarin",
+				"turns": 7,
+				"type": "R"
+			},
+			"12861616": {
+				"name": "Boa",
+				"type": "R"
+			},
+			"12861620": {
+				"blocks": 1,
+				"name": "Spida",
+				"turns": 9,
+				"type": "R"
+			},
+			"12861621": {
+				"blocks": 3,
+				"name": "Sharc",
+				"prespp": 7,
+				"turns": 14,
+				"type": "R"
+			},
+			"12861624": {
+				"blocks": 1,
+				"name": "Dolfiin",
+				"prespp": 9,
+				"rush": 21,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12883898": {
+				"blocks": 1,
+				"fouls": 3,
+				"name": "Hoatzin",
+				"prespp": 3,
+				"turns": 10,
+				"type": "R"
+			},
+			"12938135": {
+				"blocks": 7,
+				"name": "Harpy Eagle II",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12938136": {
+				"name": "Glass Frog",
+				"turns": 3,
+				"type": "R"
+			},
+			"MERC-1214764-943861M1": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Merc Linewoman 1",
+				"turns": 14,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1214764",
+	"team": {
+		"942428": {
+			"blocks": 30,
+			"cas": 1,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
+			"name": "Nagashizzar Nightmares",
+			"pass": 0,
+			"prespp": 65,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 19,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 158
+		},
+		"943861": {
+			"blocks": 31,
+			"cas": 0,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
+			"name": "Morr'tebio Lilies",
+			"pass": 0,
+			"prespp": 64,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 21,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 146
 		}
 	}
 }

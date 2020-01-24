@@ -1,20 +1,260 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4116509",
+	"player": {
 		"942400": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Krakeneye Eagles",
-			"scorediff": 0,
-			"tddiff": 0
+			"12838980": {
+				"blocks": 2,
+				"dead": [
+					2,
+					2,
+					"blocked",
+					"12851306"
+				],
+				"name": "Goukkocrer Krakeneye",
+				"prespp": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12838981": {
+				"blocks": 8,
+				"name": "Raghokek Krakeneye",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838982": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Takkivun Deathstalker",
+				"prespp": 19,
+				"rush": 11,
+				"spp": 5,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838983": {
+				"blocks": 3,
+				"name": "Qelkous Stormbleeder",
+				"prespp": 19,
+				"rush": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838984": {
+				"blocks": 1,
+				"name": "Righacet Voidshade",
+				"pass": -2,
+				"prespp": 18,
+				"rush": 11,
+				"turns": 11,
+				"type": "R"
+			},
+			"12838985": {
+				"name": "Dathak Rageblade",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12838986": {
+				"blocks": 10,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Kuthuk Shadecrusher",
+				"prespp": 17,
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838987": {
+				"blocks": 2,
+				"name": "Vokhir Dawntaker",
+				"prespp": 3,
+				"turns": 4,
+				"type": "R"
+			},
+			"12838988": {
+				"blocks": 3,
+				"name": "Laven Stormreaper",
+				"prespp": 3,
+				"turns": 9,
+				"type": "R"
+			},
+			"12838990": {
+				"blocks": 1,
+				"name": "Tegnonic Warstriker",
+				"prespp": 9,
+				"retired": true,
+				"rush": 7,
+				"turns": 10,
+				"type": "R"
+			},
+			"12896525": {
+				"blocks": 4,
+				"name": "Howard Strongsnake",
+				"prespp": 8,
+				"turns": 10,
+				"type": "R"
+			},
+			"12942535": {
+				"name": "Ulric Truespike",
+				"turns": 16,
+				"type": "J"
+			}
 		},
 		"943192": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Subsylvanian Hypnopipers",
+			"12851288": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Viscount Erlich Draconis",
+				"prespp": 15,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12851292": {
+				"name": "Lord Jared van der Magritta",
+				"prespp": 6,
+				"rush": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12851295": {
+				"blocks": 3,
+				"name": "Lady Monica d'Acques",
+				"prespp": 23,
+				"turns": 16,
+				"type": "R"
+			},
+			"12851299": {
+				"name": "Hunch",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12851300": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Scratch",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12851301": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Belch",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12851302": {
+				"name": "Mooch",
+				"type": "R"
+			},
+			"12851303": {
+				"name": "Poach",
+				"turns": 3,
+				"type": "R"
+			},
+			"12851304": {
+				"blocks": 1,
+				"name": "Stench",
+				"turns": 16,
+				"type": "R"
+			},
+			"12851305": {
+				"name": "Grinch",
+				"prespp": 2,
+				"turns": 2,
+				"type": "R"
+			},
+			"12851306": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Lynch",
+				"prespp": 4,
+				"retired": true,
+				"spp": 2,
+				"turns": 6,
+				"type": "R"
+			},
+			"12851307": {
+				"blocks": 1,
+				"name": "Wench",
+				"turns": 16,
+				"type": "R"
+			},
+			"12851506": {
+				"blocks": 5,
+				"name": "Baron Richard von Drak",
+				"prespp": 18,
+				"rush": 20,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12897225": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Lord Bertram Strigovich",
+				"prespp": 4,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12925346": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Scrunch",
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1214923",
+	"team": {
+		"942400": {
+			"blocks": 42,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Krakeneye Eagles",
+			"pass": -2,
+			"prespp": 109,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 30,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 134
+		},
+		"943192": {
+			"blocks": 27,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Subsylvanian Hypnopipers",
+			"pass": 0,
+			"prespp": 76,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 25,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 171
 		}
 	}
 }

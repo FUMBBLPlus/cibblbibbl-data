@@ -1,20 +1,253 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4116688",
+	"player": {
 		"946354": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Pahuax Huntmasters",
-			"scorediff": 0,
-			"tddiff": 0
+			"12901783": {
+				"blocks": 8,
+				"name": "Tiger Hunter",
+				"prespp": 4,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12901784": {
+				"blocks": 2,
+				"name": "Black-headed Dwarf Slayer",
+				"prespp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12901788": {
+				"name": "Short-horned Trapper",
+				"prespp": 3,
+				"turns": 14,
+				"type": "R"
+			},
+			"12901796": {
+				"name": "Blue-legged Tracker",
+				"turns": 5,
+				"type": "R"
+			},
+			"12901805": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Deceptive Mimicker",
+				"prespp": 9,
+				"rush": 1,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12901812": {
+				"name": "Hooded Stalker",
+				"prespp": 3,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12901816": {
+				"mvp": 1,
+				"name": "Blade Striker",
+				"prespp": 8,
+				"spp": 5,
+				"turns": 3,
+				"type": "R"
+			},
+			"12901819": {
+				"comp": 4,
+				"name": "Bizarre-nosed Sniffer",
+				"pass": 15,
+				"prespp": 7,
+				"rush": 15,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12901820": {
+				"dead": [
+					2,
+					3,
+					"blocked",
+					"12916671"
+				],
+				"name": "Yellow-green Ambusher",
+				"prespp": 3,
+				"rush": 7,
+				"turns": 11,
+				"type": "R"
+			},
+			"12901822": {
+				"blocks": 1,
+				"name": "Two-toned Soft-nosed Seeker",
+				"prespp": 3,
+				"turns": 11,
+				"type": "R"
+			},
+			"12901825": {
+				"name": "Double-scaled Herder",
+				"turns": 16,
+				"type": "R"
+			},
+			"12901835": {
+				"blocks": 1,
+				"name": "Flap-necked Shooter",
+				"rush": 7,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"STAR-Puggy Baconbreath": {
+				"blocks": 1,
+				"name": "Puggy Baconbreath",
+				"turns": 3,
+				"type": "S"
+			}
 		},
 		"947232": {
-			"cas": 0,
-			"casdiff": 0,
+			"12916670": {
+				"blocks": 5,
+				"name": "Eard, the King within the Mountain",
+				"turns": 16,
+				"type": "R"
+			},
+			"12916671": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Clodgy",
+				"prespp": 9,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12916672": {
+				"blocks": 2,
+				"name": "Gawm",
+				"turns": 12,
+				"type": "R"
+			},
+			"12916673": {
+				"mvp": 1,
+				"name": "Gubber",
+				"prespp": 3,
+				"spp": 5,
+				"turns": 7,
+				"type": "R"
+			},
+			"12916674": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Pug",
+				"spp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"12916677": {
+				"blocks": 2,
+				"name": "Ike",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12916678": {
+				"blocks": 2,
+				"name": "Blæst",
+				"prespp": 9,
+				"turns": 10,
+				"type": "R"
+			},
+			"12916679": {
+				"blocks": 3,
+				"name": "Byre",
+				"prespp": 6,
+				"rush": 27,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12916680": {
+				"blocks": 8,
+				"name": "Brynewelm",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12916681": {
+				"blocks": 4,
+				"name": "Estmere",
+				"pass": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12916682": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Brim",
+				"prespp": 1,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12920020": {
+				"name": "Slab",
+				"turns": 2,
+				"type": "R"
+			},
+			"12931448": {
+				"blocks": 8,
+				"name": "Fyr-Frea",
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1215121",
+	"team": {
+		"946354": {
+			"blocks": 16,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 4,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Pahuax Huntmasters",
+			"pass": 15,
+			"prespp": 42,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 30,
+			"score": 3,
+			"scorediff": 2,
+			"td": 3,
+			"tddiff": 2,
+			"turns": 153
+		},
+		"947232": {
+			"blocks": 45,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Terror-Firma",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 42,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 27,
+			"score": 1,
+			"scorediff": -2,
+			"td": 1,
+			"tddiff": -2,
+			"turns": 173
 		}
 	}
 }

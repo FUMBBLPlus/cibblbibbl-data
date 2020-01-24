@@ -1,20 +1,269 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4116502",
+	"player": {
 		"854507": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Coven of the Mirrored Hall",
-			"scorediff": 0,
-			"tddiff": 0
+			"11439080": {
+				"name": "Vol'arth the Brazen",
+				"prespp": 143,
+				"turns": 14,
+				"type": "R"
+			},
+			"11807607": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Palehawk, the Revenant",
+				"prespp": 68,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"11851618": {
+				"blocks": 4,
+				"name": "Marius, the Herald",
+				"prespp": 58,
+				"rush": 14,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"11926823": {
+				"blocks": 5,
+				"name": "Berethan, the Soulless",
+				"prespp": 36,
+				"turns": 13,
+				"type": "R"
+			},
+			"11973355": {
+				"blocks": 1,
+				"name": "Nyerahd, the Cunning",
+				"prespp": 51,
+				"turns": 2,
+				"type": "R"
+			},
+			"12072676": {
+				"name": "Good Ol' Nodens",
+				"turns": 8,
+				"type": "R"
+			},
+			"12158370": {
+				"name": "Chaugnar Faugn",
+				"turns": 6,
+				"type": "R"
+			},
+			"12243333": {
+				"name": "Tulzscha",
+				"type": "R"
+			},
+			"12325373": {
+				"fouls": 2,
+				"name": "Horok Reborn",
+				"prespp": 18,
+				"turns": 10,
+				"type": "R"
+			},
+			"12379882": {
+				"blocks": 4,
+				"name": "Jyrygaax",
+				"prespp": 40,
+				"turns": 16,
+				"type": "R"
+			},
+			"12513563": {
+				"name": "Daoloth",
+				"turns": 3,
+				"type": "R"
+			},
+			"12617944": {
+				"blocks": 9,
+				"name": "Vikas Darya, Nemesis",
+				"prespp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12727516": {
+				"blocks": 8,
+				"mvp": 1,
+				"name": "Agares, the Harbinger",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12902151": {
+				"blocks": 3,
+				"name": "Young Forktongue",
+				"rush": 13,
+				"spp": 3,
+				"td": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12927644": {
+				"dead": [
+					1,
+					8,
+					"blocked",
+					"12673210"
+				],
+				"name": "Abhoth",
+				"turns": 2,
+				"type": "R"
+			}
 		},
 		"900747": {
-			"cas": 0,
-			"casdiff": 0,
+			"12173110": {
+				"blocks": 5,
+				"name": "Stonemuncher the Ancient",
+				"prespp": 39,
+				"turns": 17,
+				"type": "B"
+			},
+			"12173151": {
+				"blocks": 3,
+				"name": "Hrkas Prouddeath",
+				"prespp": 25,
+				"turns": 17,
+				"type": "R"
+			},
+			"12173155": {
+				"blocks": 14,
+				"cas": 2,
+				"name": "Frazsa Grimhand",
+				"prespp": 96,
+				"spp": 4,
+				"turns": 17,
+				"type": "R"
+			},
+			"12296160": {
+				"blocks": 5,
+				"name": "Krank Cracker",
+				"prespp": 40,
+				"turns": 17,
+				"type": "B"
+			},
+			"12399357": {
+				"blocks": 5,
+				"name": "Orja Coldless",
+				"prespp": 24,
+				"turns": 15,
+				"type": "R"
+			},
+			"12399363": {
+				"name": "Squishy Bob",
+				"prespp": 21,
+				"type": "R"
+			},
+			"12450012": {
+				"name": "Spliff Skyrim",
+				"prespp": 4,
+				"type": "R"
+			},
+			"12552413": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Ihras Doublepain",
+				"prespp": 7,
+				"turns": 17,
+				"type": "R"
+			},
+			"12552414": {
+				"blocks": 3,
+				"name": "Uhras the Fearless",
+				"prespp": 20,
+				"turns": 17,
+				"type": "R"
+			},
+			"12581846": {
+				"blocks": 1,
+				"name": "Eldras the crowned",
+				"prespp": 47,
+				"rush": 21,
+				"turns": 12,
+				"type": "R"
+			},
+			"12581848": {
+				"blocks": 5,
+				"name": "Craig Ratskin",
+				"prespp": 8,
+				"rush": 7,
+				"turns": 17,
+				"type": "R"
+			},
+			"12673210": {
+				"blocks": 2,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Rsha Stomper",
+				"prespp": 21,
+				"spp": 9,
+				"turns": 12,
+				"type": "B"
+			},
+			"12714281": {
+				"name": "Griff the Stoned",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12872915": {
+				"blocks": 1,
+				"name": "Tarik the Haunted",
+				"prespp": 3,
+				"turns": 3,
+				"type": "R"
+			},
+			"12925099": {
+				"blocks": 3,
+				"name": "Jean Observed",
+				"turns": 14,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1214897",
+	"team": {
+		"854507": {
+			"blocks": 44,
+			"cas": 1,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Coven of the Mirrored Hall",
+			"pass": 0,
+			"prespp": 420,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 27,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 152
+		},
+		"900747": {
+			"blocks": 48,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Black Monolith Worshippers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 357,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 28,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 175
 		}
 	}
 }
