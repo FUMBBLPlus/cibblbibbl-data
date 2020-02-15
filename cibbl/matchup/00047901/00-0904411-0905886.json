@@ -1,0 +1,282 @@
+{
+	"!excluded": "no",
+	"matchId": "4118117",
+	"player": {
+		"904411": {
+			"12231968": {
+				"blocks": 5,
+				"name": "\"Smiles\" Arwyn",
+				"prespp": 77,
+				"turns": 13,
+				"type": "R"
+			},
+			"12231970": {
+				"name": "Madoc Gallows-Grin",
+				"prespp": 32,
+				"type": "R"
+			},
+			"12231971": {
+				"blocks": 3,
+				"name": "Owain ap Bran",
+				"prespp": 63,
+				"retired": true,
+				"turns": 5,
+				"type": "R"
+			},
+			"12231974": {
+				"blocks": 2,
+				"comp": 1,
+				"name": "Prydwen ap Blaidd",
+				"pass": -1,
+				"prespp": 59,
+				"rush": -1,
+				"spp": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12231978": {
+				"blocks": 1,
+				"name": "Llewelyn Grey-Eyes",
+				"prespp": 38,
+				"turns": 1,
+				"type": "R"
+			},
+			"12231981": {
+				"dead": [
+					2,
+					1,
+					"blocked",
+					"12253781"
+				],
+				"name": "Meredith",
+				"prespp": 9,
+				"turns": 1,
+				"type": "R"
+			},
+			"12259937": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Graham the Brave",
+				"prespp": 52,
+				"spp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12261545": {
+				"blocks": 3,
+				"comp": 1,
+				"name": "Morcanth the Melancholy",
+				"pass": -2,
+				"prespp": 56,
+				"rush": 9,
+				"spp": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12438788": {
+				"blocks": 4,
+				"name": "Glynn",
+				"prespp": 17,
+				"turns": 8,
+				"type": "R"
+			},
+			"12522725": {
+				"blocks": 3,
+				"dead": [
+					2,
+					7,
+					"blocked",
+					"12253779"
+				],
+				"name": "Evan the Heartbreaker",
+				"prespp": 33,
+				"turns": 13,
+				"type": "R"
+			},
+			"12587195": {
+				"name": "Aeron",
+				"prespp": 8,
+				"type": "R"
+			},
+			"12610016": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "\"Black Dog\" Bleddyn",
+				"prespp": 23,
+				"spp": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"12663114": {
+				"dead": [
+					2,
+					6,
+					"blocked",
+					"12253780"
+				],
+				"name": "Dylan",
+				"prespp": 1,
+				"turns": 6,
+				"type": "R"
+			},
+			"12884448": {
+				"mvp": 1,
+				"name": "Eifion",
+				"prespp": 10,
+				"spp": 5,
+				"turns": 2,
+				"type": "R"
+			}
+		},
+		"905886": {
+			"12253779": {
+				"blocks": 6,
+				"cas": 2,
+				"name": "Charles Umpherston Aitchison",
+				"prespp": 33,
+				"spp": 4,
+				"turns": 16,
+				"type": "B"
+			},
+			"12253780": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Gyles Mackrell",
+				"prespp": 36,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12253781": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Samuel White Baker",
+				"prespp": 49,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12253782": {
+				"blocks": 7,
+				"name": "Basil Eddis",
+				"prespp": 36,
+				"turns": 16,
+				"type": "B"
+			},
+			"12253784": {
+				"blocks": 6,
+				"name": "Eldred Pottinger",
+				"prespp": 14,
+				"turns": 16,
+				"type": "B"
+			},
+			"12253785": {
+				"blocks": 5,
+				"name": "E. W. Middlemast",
+				"prespp": 39,
+				"turns": 16,
+				"type": "B"
+			},
+			"12261642": {
+				"blocks": 2,
+				"int": 1,
+				"name": "William Cotton Oswell",
+				"prespp": 29,
+				"rush": 9,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12331221": {
+				"blocks": 6,
+				"cas": 2,
+				"int": 1,
+				"mvp": 1,
+				"name": "John Laird Mair Lawrence",
+				"prespp": 31,
+				"rush": 9,
+				"spp": 14,
+				"td": 1,
+				"turns": 16,
+				"type": "B"
+			},
+			"12452889": {
+				"fouls": 11,
+				"name": "Geoff Boggletrot",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12595032": {
+				"fouls": 1,
+				"name": "Fredrick Bothleschwitt",
+				"turns": 7,
+				"type": "R"
+			},
+			"12595033": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Priscilla Archimedes",
+				"prespp": 6,
+				"rush": 3,
+				"turns": 7,
+				"type": "R"
+			},
+			"12642584": {
+				"name": "Hiram Macpherson",
+				"type": "R"
+			},
+			"12642585": {
+				"blocks": 1,
+				"name": "Duncan Quigley",
+				"turns": 5,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1216801",
+	"team": {
+		"904411": {
+			"blocks": 26,
+			"cas": 2,
+			"casdiff": -6,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Ynys Morion Mabsantwyr",
+			"pass": -3,
+			"prespp": 478,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 8,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 90
+		},
+		"905886": {
+			"blocks": 49,
+			"cas": 8,
+			"casdiff": 6,
+			"comp": 0,
+			"fouls": 13,
+			"int": 2,
+			"mvp": 1,
+			"name": "Sabre Mountain Rattlers",
+			"pass": 0,
+			"prespp": 279,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 21,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 163
+		}
+	}
+}

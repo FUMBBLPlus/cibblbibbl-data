@@ -1,0 +1,222 @@
+{
+	"!excluded": "no",
+	"matchId": "4118993",
+	"player": {
+		"949708": {
+			"12959526": {
+				"blocks": 9,
+				"name": "Karnegor Nakkoz",
+				"prespp": 10,
+				"turns": 12,
+				"type": "R"
+			},
+			"12959527": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Strayox Murag",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 11,
+				"type": "R"
+			},
+			"12959528": {
+				"blocks": 6,
+				"name": "Gorwitt Khenek",
+				"turns": 16,
+				"type": "R"
+			},
+			"12959535": {
+				"fouls": 1,
+				"name": "Gor Murag Broken",
+				"turns": 1,
+				"type": "R"
+			},
+			"12959536": {
+				"blocks": 1,
+				"name": "Gor Nakkoz Foulspite",
+				"turns": 16,
+				"type": "R"
+			},
+			"12959537": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Gor Nakkoz Riven",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12959539": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Gor Murag Twoface",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12959540": {
+				"blocks": 2,
+				"name": "Gor Khenek Silvertooth",
+				"turns": 16,
+				"type": "R"
+			},
+			"12959542": {
+				"blocks": 2,
+				"name": "Doe Khenek Provider",
+				"rush": 5,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12959543": {
+				"blocks": 1,
+				"name": "Ungor Khenek Forgotten",
+				"pass": 1,
+				"prespp": 4,
+				"rush": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12959544": {
+				"blocks": 1,
+				"fouls": 3,
+				"name": "Doe Nakkoz Spite",
+				"prespp": 5,
+				"turns": 16,
+				"type": "R"
+			}
+		},
+		"949774": {
+			"12959118": {
+				"blocks": 3,
+				"name": "Friedwart Weidemann",
+				"pass": -1,
+				"rush": 11,
+				"turns": 16,
+				"type": "R"
+			},
+			"12959119": {
+				"blocks": 2,
+				"name": "Louise Rottmanner",
+				"turns": 16,
+				"type": "R"
+			},
+			"12959120": {
+				"blocks": 2,
+				"dead": [
+					1,
+					3,
+					"fouled",
+					"12959544"
+				],
+				"name": "Linde Ehrenreich",
+				"turns": 3,
+				"type": "R"
+			},
+			"12959121": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Emmerich Keppler",
+				"spp": 2,
+				"turns": 4,
+				"type": "R"
+			},
+			"12959122": {
+				"blocks": 11,
+				"name": "Rochelle Eckstein",
+				"rush": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12959127": {
+				"name": "Francisco Yañez",
+				"prespp": 5,
+				"rush": 23,
+				"turns": 12,
+				"type": "R"
+			},
+			"12959128": {
+				"blocks": 3,
+				"comp": 1,
+				"mvp": 1,
+				"name": "Manfred Senger",
+				"pass": 5,
+				"rush": 1,
+				"spp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12959133": {
+				"blocks": 2,
+				"name": "Ewald Kümmel",
+				"turns": 16,
+				"type": "R"
+			},
+			"12959134": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Wendelina Nachtigall",
+				"turns": 8,
+				"type": "R"
+			},
+			"12959135": {
+				"blocks": 3,
+				"name": "Adela Linse",
+				"pass": -1,
+				"rush": -3,
+				"turns": 15,
+				"type": "R"
+			},
+			"12959145": {
+				"name": "Frank Fellner",
+				"turns": 5,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1217760",
+	"team": {
+		"949708": {
+			"blocks": 34,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
+			"name": "Cerberus Beast",
+			"pass": 1,
+			"prespp": 24,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 21,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 151
+		},
+		"949774": {
+			"blocks": 31,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Nuln Golden Eagles",
+			"pass": 3,
+			"prespp": 5,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 35,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 127
+		}
+	}
+}

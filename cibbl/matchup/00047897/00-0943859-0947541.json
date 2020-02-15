@@ -1,0 +1,237 @@
+{
+	"!excluded": "no",
+	"matchId": "4118119",
+	"player": {
+		"943859": {
+			"12861560": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Molgroth Ironskin",
+				"prespp": 19,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861564": {
+				"blocks": 8,
+				"cas": 3,
+				"name": "Gnarth Yug-N'urth",
+				"prespp": 25,
+				"spp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861565": {
+				"blocks": 3,
+				"name": "Gnok Bootlicker",
+				"prespp": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861570": {
+				"blocks": 5,
+				"cas": 2,
+				"name": "Tukrask Krick",
+				"prespp": 10,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861571": {
+				"blocks": 1,
+				"name": "K'tik Kul-P'lut",
+				"pass": 1,
+				"prespp": 2,
+				"rush": 5,
+				"turns": 14,
+				"type": "R"
+			},
+			"12861572": {
+				"name": "Stikk Khardath",
+				"prespp": 9,
+				"rush": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12928400": {
+				"blocks": 2,
+				"name": "Ramon Thunderguts",
+				"prespp": 2,
+				"rush": 22,
+				"spp": 6,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12966443": {
+				"blocks": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Root Thunderguts",
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12966449": {
+				"fouls": 1,
+				"name": "Osmond Silentbone",
+				"retired": true,
+				"turns": 10,
+				"type": "J"
+			},
+			"12966450": {
+				"name": "Brian Truelightning",
+				"retired": true,
+				"turns": 11,
+				"type": "J"
+			},
+			"12966451": {
+				"blocks": 1,
+				"name": "Yorick Bluestone",
+				"retired": true,
+				"turns": 11,
+				"type": "J"
+			}
+		},
+		"947541": {
+			"12921841": {
+				"blocks": 4,
+				"name": "Alfred Wegrzyn",
+				"turns": 7,
+				"type": "R"
+			},
+			"12921842": {
+				"blocks": 5,
+				"comp": 2,
+				"mvp": 1,
+				"name": "Zanzi Hornek",
+				"pass": 4,
+				"rush": 10,
+				"spp": 7,
+				"turns": 13,
+				"type": "R"
+			},
+			"12921843": {
+				"blocks": 4,
+				"name": "Rakkon Grieri",
+				"pass": -1,
+				"rush": 8,
+				"turns": 9,
+				"type": "R"
+			},
+			"12921844": {
+				"name": "Sukmi Dehri",
+				"turns": 5,
+				"type": "R"
+			},
+			"12921845": {
+				"blocks": 1,
+				"name": "Lasomb Lehd",
+				"turns": 11,
+				"type": "R"
+			},
+			"12921846": {
+				"name": "Suc Hawaste",
+				"type": "R"
+			},
+			"12921847": {
+				"blocks": 3,
+				"name": "Bagob Lehd",
+				"turns": 16,
+				"type": "R"
+			},
+			"12921848": {
+				"dead": [
+					1,
+					2,
+					"blocked",
+					"12861570"
+				],
+				"name": "Nowa Yhout",
+				"turns": 1,
+				"type": "R"
+			},
+			"12921849": {
+				"cas": 1,
+				"name": "Sehren Dernow",
+				"spp": 2,
+				"turns": 5,
+				"type": "R"
+			},
+			"12921850": {
+				"blocks": 1,
+				"dead": [
+					1,
+					7,
+					"blocked",
+					"12861560"
+				],
+				"name": "Mizter Jughlar",
+				"turns": 2,
+				"type": "R"
+			},
+			"12921851": {
+				"blocks": 2,
+				"name": "Pahr Tyfahvir",
+				"turns": 9,
+				"type": "R"
+			},
+			"12921855": {
+				"blocks": 3,
+				"name": "Sukht Ohnoften",
+				"turns": 15,
+				"type": "R"
+			},
+			"STAR-Quasimordor": {
+				"name": "Quasimordor",
+				"turns": 4,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1216802",
+	"team": {
+		"943859": {
+			"blocks": 29,
+			"cas": 7,
+			"casdiff": 6,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Mountains of Mourn Tyrants",
+			"pass": 1,
+			"prespp": 70,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 36,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 158
+		},
+		"947541": {
+			"blocks": 23,
+			"cas": 1,
+			"casdiff": -6,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Grim Shade Stalkers",
+			"pass": 3,
+			"prespp": 0,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 18,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 97
+		}
+	}
+}

@@ -1,0 +1,215 @@
+{
+	"!excluded": "no",
+	"matchId": "4120284",
+	"player": {
+		"950921": {
+			"12978136": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Be'lakor",
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12978138": {
+				"blocks": 5,
+				"name": "Nemenax",
+				"turns": 16,
+				"type": "R"
+			},
+			"12978139": {
+				"blocks": 3,
+				"name": "Varram",
+				"turns": 16,
+				"type": "R"
+			},
+			"12978140": {
+				"name": "Svoharr",
+				"rush": 24,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12978141": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Zatrax",
+				"rush": 3,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12978142": {
+				"blocks": 4,
+				"name": "Galgrim",
+				"turns": 16,
+				"type": "R"
+			},
+			"12978143": {
+				"blocks": 4,
+				"name": "Phoron",
+				"turns": 16,
+				"type": "R"
+			},
+			"12978144": {
+				"blocks": 6,
+				"name": "Anubas",
+				"turns": 16,
+				"type": "R"
+			},
+			"12978145": {
+				"blocks": 3,
+				"name": "Rharuman",
+				"turns": 16,
+				"type": "R"
+			},
+			"12978146": {
+				"blocks": 3,
+				"name": "Modynn",
+				"turns": 16,
+				"type": "R"
+			},
+			"12978147": {
+				"blocks": 5,
+				"name": "Urkathral",
+				"turns": 16,
+				"type": "R"
+			}
+		},
+		"950929": {
+			"12978271": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Mr. Squawk",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12978273": {
+				"blocks": 8,
+				"name": "Azrael",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12978274": {
+				"blocks": 3,
+				"name": "P'aa-P'aa",
+				"pass": 1,
+				"rush": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12978280": {
+				"blocks": 1,
+				"name": "Ang'reee-eee",
+				"rush": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12978281": {
+				"blocks": 1,
+				"name": "Sp'azz'eee",
+				"turns": 16,
+				"type": "R"
+			},
+			"12978286": {
+				"blocks": 1,
+				"name": "M'eeen'eee",
+				"turns": 16,
+				"type": "R"
+			},
+			"12978295": {
+				"name": "Kr'ayy'zeee",
+				"type": "R"
+			},
+			"12978334": {
+				"blocks": 1,
+				"dead": [
+					2,
+					3,
+					"blocked",
+					"12978136"
+				],
+				"name": "N'ass'teee",
+				"prespp": 3,
+				"turns": 12,
+				"type": "R"
+			},
+			"12978342": {
+				"name": "Drrr'teee",
+				"turns": 12,
+				"type": "R"
+			},
+			"12978343": {
+				"blocks": 2,
+				"name": "Gass'eee",
+				"turns": 12,
+				"type": "R"
+			},
+			"12978379": {
+				"blocks": 8,
+				"mvp": 1,
+				"name": "Gore'gamel",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12978891": {
+				"blocks": 1,
+				"name": "Zachary Coldbone",
+				"retired": true,
+				"turns": 14,
+				"type": "J"
+			}
+		}
+	},
+	"replayId": "1219231",
+	"team": {
+		"950921": {
+			"blocks": 45,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Hierarchy of Anarchy",
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 27,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 176
+		},
+		"950929": {
+			"blocks": 32,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Gliding 'n' Gnashing Gnaps",
+			"pass": 1,
+			"prespp": 12,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 9,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 162
+		}
+	}
+}
