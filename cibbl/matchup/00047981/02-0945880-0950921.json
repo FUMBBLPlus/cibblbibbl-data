@@ -1,20 +1,260 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4122029",
+	"player": {
 		"945880": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Rot Mansion Couriers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12893991": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Slaugox Gnarlsore",
+				"prespp": 33,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12893992": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Ghoyle Poxgut",
+				"prespp": 18,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12893994": {
+				"blocks": 6,
+				"name": "Malarestus Plaguehelm",
+				"prespp": 9,
+				"turns": 11,
+				"type": "R"
+			},
+			"12893996": {
+				"blocks": 6,
+				"name": "Verrucugnus Toadflesh",
+				"prespp": 16,
+				"rush": 16,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12894003": {
+				"blocks": 9,
+				"mvp": 1,
+				"name": "Maggonellus Rankpulp",
+				"prespp": 11,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12894013": {
+				"fouls": 4,
+				"name": "Poid",
+				"prespp": 3,
+				"turns": 7,
+				"type": "R"
+			},
+			"12894018": {
+				"name": "Rakk",
+				"prespp": 2,
+				"rush": -5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12894023": {
+				"fouls": 1,
+				"name": "Mould",
+				"turns": 12,
+				"type": "R"
+			},
+			"12894027": {
+				"name": "Snat",
+				"type": "R"
+			},
+			"12928409": {
+				"dead": [
+					2,
+					8,
+					"blocked",
+					"12978143"
+				],
+				"name": "Smud",
+				"prespp": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"12928411": {
+				"name": "Byile",
+				"turns": 2,
+				"type": "R"
+			},
+			"12928413": {
+				"name": "Plack",
+				"prespp": 3,
+				"turns": 6,
+				"type": "R"
+			},
+			"12933983": {
+				"fouls": 1,
+				"name": "Gherm",
+				"prespp": 4,
+				"turns": 1,
+				"type": "R"
+			},
+			"12969572": {
+				"blocks": 9,
+				"name": "Typhyidus Goreblob",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"950921": {
-			"cas": 0,
+			"12978136": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Be'lakor",
+				"prespp": 9,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12978138": {
+				"blocks": 3,
+				"name": "Nemenax",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12978139": {
+				"dead": [
+					1,
+					2,
+					"fouled",
+					"12933983"
+				],
+				"name": "Varram",
+				"turns": 1,
+				"type": "R"
+			},
+			"12978140": {
+				"blocks": 1,
+				"name": "Svoharr",
+				"prespp": 3,
+				"rush": 13,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12978141": {
+				"blocks": 4,
+				"name": "Zatrax",
+				"prespp": 8,
+				"turns": 11,
+				"type": "R"
+			},
+			"12978143": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Phoron",
+				"prespp": 6,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12978144": {
+				"blocks": 1,
+				"name": "Anubas",
+				"turns": 16,
+				"type": "R"
+			},
+			"12978145": {
+				"name": "Rharuman",
+				"prespp": 5,
+				"rush": 8,
+				"turns": 13,
+				"type": "R"
+			},
+			"12978147": {
+				"blocks": 1,
+				"name": "Urkathral",
+				"prespp": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"12979517": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Razzar",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12980519": {
+				"name": "Baltavile",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12985546": {
+				"fouls": 3,
+				"name": "Edward Trueshield",
+				"retired": true,
+				"turns": 7,
+				"type": "J"
+			},
+			"STAR-Soulchainer Torment": {
+				"blocks": 9,
+				"name": "Soulchainer Torment",
+				"turns": 12,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1221213",
+	"team": {
+		"945880": {
+			"blocks": 46,
+			"cas": 3,
 			"casdiff": 0,
-			"name": "Hierarchy of Anarchy",
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
+			"name": "Rot Mansion Couriers",
+			"pass": 0,
+			"prespp": 118,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 11,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 148
+		},
+		"950921": {
+			"blocks": 34,
+			"cas": 3,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Hierarchy of Anarchy",
+			"pass": 0,
+			"prespp": 55,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 21,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 153
 		}
 	}
 }

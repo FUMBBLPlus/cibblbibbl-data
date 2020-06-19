@@ -1,20 +1,251 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4124592",
+	"player": {
 		"943192": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Subsylvanian Hypnopipers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12851288": {
+				"blocks": 7,
+				"name": "Viscount Erlich Draconis",
+				"prespp": 36,
+				"turns": 9,
+				"type": "R"
+			},
+			"12851292": {
+				"name": "Lord Jared van der Magritta",
+				"prespp": 33,
+				"rush": 13,
+				"turns": 8,
+				"type": "R"
+			},
+			"12851295": {
+				"name": "Lady Monica d'Acques",
+				"prespp": 26,
+				"turns": 8,
+				"type": "R"
+			},
+			"12851299": {
+				"name": "Hunch",
+				"prespp": 2,
+				"turns": 1,
+				"type": "R"
+			},
+			"12851300": {
+				"name": "Scratch",
+				"prespp": 2,
+				"turns": 1,
+				"type": "R"
+			},
+			"12851302": {
+				"blocks": 1,
+				"name": "Mooch",
+				"prespp": 2,
+				"turns": 3,
+				"type": "R"
+			},
+			"12851304": {
+				"name": "Stench",
+				"turns": 8,
+				"type": "R"
+			},
+			"12851305": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Grinch",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12851307": {
+				"blocks": 1,
+				"name": "Wench",
+				"turns": 6,
+				"type": "R"
+			},
+			"12851506": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Baron Richard von Drak",
+				"prespp": 38,
+				"rush": 7,
+				"spp": 5,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12897225": {
+				"blocks": 8,
+				"cas": 2,
+				"name": "Lord Bertram Strigovich",
+				"prespp": 20,
+				"spp": 4,
+				"turns": 15,
+				"type": "R"
+			},
+			"12925346": {
+				"name": "Scrunch",
+				"type": "R"
+			},
+			"12979295": {
+				"name": "Munch",
+				"type": "R"
+			},
+			"12998544": {
+				"name": "Crunch",
+				"turns": 16,
+				"type": "R"
+			},
+			"13001346": {
+				"blocks": 1,
+				"name": "Crutch",
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"950765": {
-			"cas": 0,
+			"12975721": {
+				"blocks": 5,
+				"name": "'Coffin-Dodger' Karl Offenbach",
+				"prespp": 17,
+				"turns": 8,
+				"type": "R"
+			},
+			"12975722": {
+				"blocks": 6,
+				"name": "Able 'Putrid' Sigulo",
+				"turns": 16,
+				"type": "R"
+			},
+			"12975723": {
+				"blocks": 7,
+				"name": "'Moaning' Lonny Eckhart",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975724": {
+				"blocks": 6,
+				"name": "'Heartless' Herman Strange",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975731": {
+				"name": "Rancid Hand of Remi the Defiler",
+				"prespp": 12,
+				"retired": true,
+				"rush": 12,
+				"turns": 6,
+				"type": "R"
+			},
+			"12975931": {
+				"blocks": 3,
+				"fouls": 3,
+				"name": "Bill 'Grimmer' Ray",
+				"turns": 12,
+				"type": "R"
+			},
+			"12975934": {
+				"name": "Madgar Romero",
+				"turns": 2,
+				"type": "R"
+			},
+			"12975936": {
+				"fouls": 1,
+				"name": "Vincent 'Shuffles' Guerrero",
+				"prespp": 7,
+				"turns": 1,
+				"type": "R"
+			},
+			"12975937": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "'Merry' Terrence Shelley",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 9,
+				"type": "R"
+			},
+			"12975942": {
+				"blocks": 5,
+				"name": "Dario 'Dead' Toro",
+				"prespp": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12977351": {
+				"blocks": 1,
+				"name": "Edgar 'Deadwood' Edward",
+				"prespp": 11,
+				"turns": 3,
+				"type": "R"
+			},
+			"12985699": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Adama 'Patch' Todd",
+				"turns": 12,
+				"type": "R"
+			},
+			"12999375": {
+				"blocks": 3,
+				"cas": 2,
+				"name": "Ugrox",
+				"spp": 4,
+				"turns": 14,
+				"type": "R"
+			},
+			"12999378": {
+				"blocks": 1,
+				"name": "'Grimm' Walker Romero",
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1224153",
+	"team": {
+		"943192": {
+			"blocks": 29,
+			"cas": 3,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Subsylvanian Hypnopipers",
+			"pass": 0,
+			"prespp": 161,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 20,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 123
+		},
+		"950765": {
+			"blocks": 39,
+			"cas": 3,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vanhaldenschlosse Horror",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 78,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 12,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 147
 		}
 	}
 }

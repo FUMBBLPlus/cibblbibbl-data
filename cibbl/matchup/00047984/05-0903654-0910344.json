@@ -1,20 +1,274 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4129957",
+	"player": {
 		"903654": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Scions of Neferata",
-			"scorediff": 0,
-			"tddiff": 0
+			"12219673": {
+				"name": "Ahmose",
+				"prespp": 127,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 6,
+				"type": "R"
+			},
+			"12219676": {
+				"blocks": 6,
+				"name": "Senenmut",
+				"prespp": 101,
+				"turns": 6,
+				"type": "R"
+			},
+			"12219678": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Merenre",
+				"prespp": 56,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12219681": {
+				"blocks": 2,
+				"name": "Haremhab",
+				"prespp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12219683": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Intef",
+				"prespp": 12,
+				"spp": 2,
+				"turns": 7,
+				"type": "R"
+			},
+			"12219684": {
+				"name": "Sihathor",
+				"prespp": 7,
+				"turns": 1,
+				"type": "R"
+			},
+			"12227199": {
+				"comp": 1,
+				"name": "Kentetenka",
+				"pass": 2,
+				"prespp": 138,
+				"rush": 1,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12443530": {
+				"dead": [
+					1,
+					5,
+					"blocked",
+					"12519733"
+				],
+				"name": "Nofret",
+				"prespp": 2,
+				"turns": 1,
+				"type": "R"
+			},
+			"12500720": {
+				"blocks": 4,
+				"cas": 3,
+				"mvp": 1,
+				"name": "Bunefer",
+				"prespp": 38,
+				"spp": 11,
+				"turns": 8,
+				"type": "R"
+			},
+			"12887791": {
+				"blocks": 1,
+				"name": "Akhenaten",
+				"prespp": 9,
+				"turns": 12,
+				"type": "R"
+			},
+			"12927272": {
+				"blocks": 2,
+				"name": "Thutmose",
+				"turns": 16,
+				"type": "R"
+			},
+			"12927273": {
+				"blocks": 2,
+				"name": "Narmer",
+				"turns": 16,
+				"type": "R"
+			},
+			"12928110": {
+				"name": "Meresankh",
+				"prespp": 13,
+				"rush": 7,
+				"turns": 11,
+				"type": "R"
+			},
+			"12985502": {
+				"blocks": 1,
+				"name": "Shepseska",
+				"turns": 10,
+				"type": "R"
+			}
 		},
 		"910344": {
-			"cas": 0,
+			"12323836": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Abel Sturm",
+				"prespp": 122,
+				"rush": 42,
+				"spp": 11,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12323839": {
+				"blocks": 6,
+				"name": "Marquis Agulliar",
+				"prespp": 55,
+				"turns": 16,
+				"type": "R"
+			},
+			"12323847": {
+				"blocks": 5,
+				"name": "Lucien",
+				"prespp": 10,
+				"turns": 13,
+				"type": "R"
+			},
+			"12350186": {
+				"blocks": 2,
+				"name": "Sever Cumfeorm",
+				"turns": 4,
+				"type": "R"
+			},
+			"12352367": {
+				"blocks": 7,
+				"cas": 2,
+				"name": "Cyprian Drake",
+				"prespp": 125,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12431641": {
+				"blocks": 3,
+				"name": "Janthuur",
+				"prespp": 29,
+				"turns": 16,
+				"type": "R"
+			},
+			"12495688": {
+				"name": "Iancu",
+				"prespp": 2,
+				"turns": 9,
+				"type": "R"
+			},
+			"12519733": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Taos",
+				"prespp": 4,
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12551997": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Isaiah Gore",
+				"prespp": 62,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12691708": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "River Whip",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12876725": {
+				"name": "Gustavo",
+				"prespp": 2,
+				"turns": 6,
+				"type": "R"
+			},
+			"12907862": {
+				"name": "Don Chavius",
+				"turns": 9,
+				"type": "R"
+			},
+			"12988792": {
+				"name": "Romanou",
+				"type": "R"
+			},
+			"13036237": {
+				"blocks": 4,
+				"name": "Wilhelmina Amalia",
+				"turns": 8,
+				"type": "R"
+			},
+			"RAISED-7392_12443530_13040719": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Nofret",
+				"turns": 12,
+				"type": "D"
+			}
+		}
+	},
+	"replayId": "1230517",
+	"team": {
+		"903654": {
+			"blocks": 26,
+			"cas": 5,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Scions of Neferata",
+			"pass": 2,
+			"prespp": 505,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 27,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 134
+		},
+		"910344": {
+			"blocks": 39,
+			"cas": 5,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vlad's Vampheroes",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 418,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 42,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 167
 		}
 	}
 }

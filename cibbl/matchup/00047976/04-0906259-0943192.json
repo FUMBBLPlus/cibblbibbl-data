@@ -1,20 +1,291 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4130920",
+	"player": {
 		"906259": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Livin' Thing",
-			"scorediff": 0,
-			"tddiff": 0
+			"12259676": {
+				"blocks": 4,
+				"name": "Powerless Farrel",
+				"prespp": 17,
+				"turns": 12,
+				"type": "R"
+			},
+			"12259678": {
+				"blocks": 1,
+				"name": "Confusion Kaminsky",
+				"prespp": 7,
+				"turns": 12,
+				"type": "R"
+			},
+			"12266336": {
+				"blocks": 9,
+				"name": "Bev the black phoenix",
+				"prespp": 65,
+				"rush": 6,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12271318": {
+				"blocks": 5,
+				"name": "Mr Road Untraveled",
+				"prespp": 61,
+				"turns": 16,
+				"type": "R"
+			},
+			"12271321": {
+				"blocks": 6,
+				"name": "Bloody Tandy",
+				"prespp": 74,
+				"turns": 12,
+				"type": "R"
+			},
+			"12455668": {
+				"blocks": 1,
+				"name": "Mike Tinfoil Shinod",
+				"prespp": 38,
+				"rush": 25,
+				"spp": 3,
+				"td": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12548375": {
+				"blocks": 4,
+				"name": "Rob One of Thousand Times",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12548376": {
+				"blocks": 9,
+				"cas": 2,
+				"name": "Skin to Bone Patto",
+				"prespp": 26,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12579665": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Waiting for the End",
+				"prespp": 34,
+				"spp": 2,
+				"turns": 7,
+				"type": "R"
+			},
+			"12607502": {
+				"name": "Hunky Doryy",
+				"prespp": 14,
+				"type": "R"
+			},
+			"12669649": {
+				"blocks": 3,
+				"name": "Hair Puller",
+				"prespp": 7,
+				"turns": 11,
+				"type": "R"
+			},
+			"12720888": {
+				"name": "Aldo Bizzaro",
+				"turns": 5,
+				"type": "R"
+			},
+			"12869978": {
+				"name": "Boogie Nights",
+				"type": "R"
+			},
+			"12905880": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Don't Bring me Down",
+				"prespp": 13,
+				"spp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"12927182": {
+				"blocks": 5,
+				"name": "Golddiggas the Guilty Pleasure",
+				"prespp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12929400": {
+				"name": "Pestilent Yerk",
+				"type": "R"
+			},
+			"RAISED-7172_12979295_0": {
+				"name": "Munch",
+				"retired": true,
+				"turns": 5,
+				"type": "D"
+			}
 		},
 		"943192": {
-			"cas": 0,
-			"casdiff": 0,
+			"12851288": {
+				"blocks": 11,
+				"name": "Viscount Erlich Draconis",
+				"prespp": 36,
+				"turns": 16,
+				"type": "R"
+			},
+			"12851292": {
+				"blocks": 1,
+				"name": "Lord Jared van der Magritta",
+				"prespp": 33,
+				"rush": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12851295": {
+				"name": "Lady Monica d'Acques",
+				"prespp": 26,
+				"turns": 1,
+				"type": "R"
+			},
+			"12851299": {
+				"name": "Hunch",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12851300": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Scratch",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 12,
+				"type": "R"
+			},
+			"12851302": {
+				"name": "Mooch",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12851304": {
+				"name": "Stench",
+				"turns": 16,
+				"type": "R"
+			},
+			"12851305": {
+				"blocks": 4,
+				"name": "Grinch",
+				"prespp": 7,
+				"turns": 11,
+				"type": "R"
+			},
+			"12851307": {
+				"name": "Wench",
+				"type": "R"
+			},
+			"12851506": {
+				"blocks": 5,
+				"name": "Baron Richard von Drak",
+				"prespp": 43,
+				"rush": 1,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12897225": {
+				"blocks": 9,
+				"name": "Lord Bertram Strigovich",
+				"prespp": 24,
+				"turns": 16,
+				"type": "R"
+			},
+			"12925346": {
+				"name": "Scrunch",
+				"turns": 1,
+				"type": "R"
+			},
+			"12979295": {
+				"blocks": 1,
+				"cas": 1,
+				"dead": [
+					2,
+					4,
+					"blocked",
+					"12548376"
+				],
+				"name": "Munch",
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12998544": {
+				"blocks": 1,
+				"name": "Crunch",
+				"turns": 2,
+				"type": "R"
+			},
+			"13001346": {
+				"blocks": 4,
+				"name": "Crutch",
+				"turns": 16,
+				"type": "R"
+			},
+			"13021452": {
+				"blocks": 1,
+				"name": "Gooch",
+				"turns": 8,
+				"type": "R"
+			},
+			"STAR-Count Luthor Von Drakenborg": {
+				"blocks": 7,
+				"name": "Count Luthor Von Drakenborg",
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1231787",
+	"team": {
+		"906259": {
+			"blocks": 54,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Livin' Thing",
+			"pass": 0,
+			"prespp": 376,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 31,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 173
+		},
+		"943192": {
+			"blocks": 45,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Subsylvanian Hypnopipers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 175,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 18,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 157
 		}
 	}
 }

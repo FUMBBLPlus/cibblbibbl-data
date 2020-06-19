@@ -1,0 +1,225 @@
+{
+	"!excluded": "no",
+	"matchId": "4141908",
+	"player": {
+		"959010": {
+			"13087459": {
+				"blocks": 7,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Hyperion",
+				"spp": 9,
+				"turns": 16,
+				"type": "B"
+			},
+			"13087463": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Prometheus",
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"13087465": {
+				"blocks": 8,
+				"name": "Oceanus",
+				"turns": 16,
+				"type": "B"
+			},
+			"13087468": {
+				"blocks": 9,
+				"name": "Atlas",
+				"turns": 16,
+				"type": "B"
+			},
+			"13087481": {
+				"name": "Ladybug",
+				"rush": 14,
+				"spp": 6,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13087482": {
+				"name": "Butterfly",
+				"rush": 10,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"13087488": {
+				"name": "Dragonfly",
+				"turns": 2,
+				"type": "R"
+			},
+			"13087489": {
+				"fouls": 1,
+				"name": "Hummingbird",
+				"rush": -2,
+				"turns": 13,
+				"type": "R"
+			},
+			"13087494": {
+				"name": "Chickadee",
+				"pass": 1,
+				"rush": 14,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"13087506": {
+				"name": "Finch",
+				"rush": 13,
+				"turns": 6,
+				"type": "R"
+			},
+			"13087520": {
+				"dead": [
+					2,
+					6,
+					"blocked",
+					"13115469"
+				],
+				"fouls": 1,
+				"name": "Mosquito",
+				"pass": 1,
+				"rush": 6,
+				"turns": 14,
+				"type": "R"
+			}
+		},
+		"961174": {
+			"13115469": {
+				"blocks": 6,
+				"cas": 2,
+				"mvp": 1,
+				"name": "PtrusxllG",
+				"spp": 9,
+				"turns": 16,
+				"type": "B"
+			},
+			"13115651": {
+				"dead": [
+					1,
+					6,
+					"blocked",
+					"13087459"
+				],
+				"name": "BlixlPlick",
+				"turns": 6,
+				"type": "R"
+			},
+			"13115657": {
+				"blocks": 2,
+				"name": "QuixPung",
+				"turns": 7,
+				"type": "R"
+			},
+			"13115663": {
+				"name": "Xrthlupo",
+				"pass": 1,
+				"rush": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"13115667": {
+				"blocks": 1,
+				"name": "Yojklimahl",
+				"pass": 1,
+				"rush": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"13115676": {
+				"blocks": 2,
+				"name": "Xl",
+				"turns": 16,
+				"type": "R"
+			},
+			"13115681": {
+				"blocks": 3,
+				"name": "Pqr",
+				"turns": 15,
+				"type": "R"
+			},
+			"13115685": {
+				"blocks": 1,
+				"name": "LLg",
+				"rush": 7,
+				"spp": 3,
+				"td": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"13115689": {
+				"name": "Ptr",
+				"turns": 16,
+				"type": "R"
+			},
+			"13115702": {
+				"dead": [
+					2,
+					7,
+					"blocked",
+					"13087463"
+				],
+				"name": "Ung",
+				"turns": 7,
+				"type": "R"
+			},
+			"13115703": {
+				"blocks": 1,
+				"name": "Ick",
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1246146",
+	"team": {
+		"959010": {
+			"blocks": 32,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Towering Titans of Tartarox",
+			"pass": 2,
+			"prespp": 0,
+			"prestige": 30,
+			"pts": 2,
+			"r": "W",
+			"rush": 55,
+			"score": 4,
+			"scorediff": 3,
+			"td": 4,
+			"tddiff": 3,
+			"turns": 147
+		},
+		"961174": {
+			"blocks": 16,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "PtrusxllG Paradox of Enigmas",
+			"pass": 2,
+			"prespp": 0,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 22,
+			"score": 1,
+			"scorediff": -3,
+			"td": 1,
+			"tddiff": -3,
+			"turns": 145
+		}
+	}
+}

@@ -1,20 +1,252 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4123810",
+	"player": {
 		"864291": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Norscan Curse",
-			"scorediff": 0,
-			"tddiff": 0
+			"11590768": {
+				"blocks": 2,
+				"name": "S. Sang",
+				"prespp": 136,
+				"turns": 4,
+				"type": "R"
+			},
+			"11590771": {
+				"name": "Redivor",
+				"prespp": 21,
+				"type": "R"
+			},
+			"11590777": {
+				"blocks": 5,
+				"fouls": 1,
+				"name": "Limortor",
+				"prespp": 35,
+				"turns": 14,
+				"type": "R"
+			},
+			"11590780": {
+				"name": "Affuquator",
+				"prespp": 39,
+				"turns": 1,
+				"type": "R"
+			},
+			"12178122": {
+				"blocks": 5,
+				"name": "Balord",
+				"prespp": 27,
+				"turns": 15,
+				"type": "B"
+			},
+			"12447130": {
+				"blocks": 6,
+				"name": "Borgan Nightbreath",
+				"prespp": 17,
+				"turns": 15,
+				"type": "R"
+			},
+			"12455584": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Freddie 'n Petto",
+				"prespp": 19,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12470187": {
+				"blocks": 6,
+				"name": "Stukas",
+				"prespp": 19,
+				"turns": 15,
+				"type": "R"
+			},
+			"12552111": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "L. Lavermicocca",
+				"prespp": 21,
+				"spp": 2,
+				"turns": 15,
+				"type": "B"
+			},
+			"12646258": {
+				"blocks": 2,
+				"comp": 2,
+				"name": "Irene Adler",
+				"pass": 9,
+				"prespp": 42,
+				"rush": 14,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12944717": {
+				"blocks": 1,
+				"name": "Ne'zed, Gouger of Eyes",
+				"turns": 7,
+				"type": "R"
+			},
+			"12968206": {
+				"mvp": 1,
+				"name": "Milady de Winter",
+				"spp": 8,
+				"td": 1,
+				"turns": 8,
+				"type": "R"
+			}
 		},
 		"942438": {
-			"cas": 0,
+			"12839552": {
+				"blocks": 1,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Arco Aeonir",
+				"pass": 1,
+				"prespp": 8,
+				"rush": 17,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12839560": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Caleb Crystalis",
+				"prespp": 9,
+				"rush": 5,
+				"spp": 8,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12839568": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Myrddin Kithsidhion",
+				"pass": -1,
+				"prespp": 16,
+				"rush": 10,
+				"spp": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12839573": {
+				"blocks": 4,
+				"name": "Triandal Orama",
+				"prespp": 18,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12839574": {
+				"blocks": 6,
+				"cas": 1,
+				"comp": 1,
+				"name": "Napraeleon Lithelon",
+				"pass": 5,
+				"prespp": 12,
+				"rush": 6,
+				"spp": 3,
+				"turns": 13,
+				"type": "R"
+			},
+			"12839576": {
+				"blocks": 4,
+				"fouls": 1,
+				"name": "Rhistel Simserion",
+				"prespp": 10,
+				"turns": 15,
+				"type": "R"
+			},
+			"12839577": {
+				"blocks": 1,
+				"name": "Kymil Nenaias",
+				"turns": 8,
+				"type": "R"
+			},
+			"12839578": {
+				"name": "Onas Immeril",
+				"turns": 7,
+				"type": "R"
+			},
+			"12839579": {
+				"name": "Nym Sylleth",
+				"type": "R"
+			},
+			"12891421": {
+				"blocks": 8,
+				"name": "Caleb Widogast",
+				"prespp": 9,
+				"turns": 15,
+				"type": "R"
+			},
+			"12924093": {
+				"blocks": 4,
+				"name": "Malus Whiteboots",
+				"prespp": 5,
+				"turns": 6,
+				"type": "R"
+			},
+			"12939234": {
+				"fouls": 4,
+				"name": "Jack Bluetree",
+				"retired": true,
+				"turns": 15,
+				"type": "J"
+			},
+			"STAR-Schworg'n'Borg": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Schworg'n'Borg",
+				"spp": 2,
+				"turns": 15,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1223262",
+	"team": {
+		"864291": {
+			"blocks": 39,
+			"cas": 3,
 			"casdiff": 0,
+			"comp": 2,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Norscan Curse",
+			"pass": 9,
+			"prespp": 376,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 14,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 124
+		},
+		"942438": {
+			"blocks": 35,
+			"cas": 3,
+			"casdiff": 0,
+			"comp": 2,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Oceanborn Sea Eagles",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 5,
+			"prespp": 87,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 38,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 154
 		}
 	}
 }

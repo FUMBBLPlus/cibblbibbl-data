@@ -1,20 +1,256 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4130995",
+	"player": {
 		"927862": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Beegrok Massif Mob",
-			"scorediff": 0,
-			"tddiff": 0
+			"12598978": {
+				"blocks": 7,
+				"name": "Morgur Slogga",
+				"prespp": 42,
+				"turns": 16,
+				"type": "R"
+			},
+			"12598989": {
+				"name": "Ugga da One-legged",
+				"prespp": 7,
+				"retired": true,
+				"turns": 1,
+				"type": "R"
+			},
+			"12598997": {
+				"blocks": 2,
+				"name": "Gadzooks Gormless",
+				"prespp": 19,
+				"turns": 2,
+				"type": "R"
+			},
+			"12599001": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Grindok Gizzbut",
+				"prespp": 20,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12599015": {
+				"blocks": 3,
+				"name": "Fuggbang",
+				"prespp": 15,
+				"rush": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12599016": {
+				"name": "Grotgrot",
+				"prespp": 3,
+				"turns": 7,
+				"type": "R"
+			},
+			"12691051": {
+				"blocks": 1,
+				"name": "Skabgutz Redeyez",
+				"prespp": 16,
+				"turns": 7,
+				"type": "R"
+			},
+			"12715445": {
+				"fouls": 1,
+				"mvp": 1,
+				"name": "Bukkit",
+				"rush": 8,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12729015": {
+				"name": "Naznob",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12937304": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Dags",
+				"turns": 8,
+				"type": "R"
+			},
+			"12989363": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Snagguz",
+				"turns": 16,
+				"type": "R"
+			},
+			"13003197": {
+				"blocks": 3,
+				"name": "Gorsnarl Ironhide",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"13009038": {
+				"blocks": 6,
+				"name": "Mistah Beeger",
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"943859": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Mountains of Mourn Tyrants",
+			"12861560": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Molgroth Ironskin",
+				"prespp": 31,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861564": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Gnarth Yug-N'urth",
+				"prespp": 53,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12861565": {
+				"name": "Gnok Bootlicker",
+				"prespp": 11,
+				"retired": true,
+				"type": "R"
+			},
+			"12861570": {
+				"name": "Tukrask Krick",
+				"prespp": 14,
+				"type": "R"
+			},
+			"12861571": {
+				"name": "K'tik Kul-P'lut",
+				"prespp": 5,
+				"rush": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12928400": {
+				"blocks": 6,
+				"name": "Ramon Thunderguts",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"13040606": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Ricko Thunderguts",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"13040609": {
+				"fouls": 2,
+				"name": "Fredrick Goldbone",
+				"retired": true,
+				"turns": 7,
+				"type": "J"
+			},
+			"13040610": {
+				"blocks": 2,
+				"name": "Kevin Vilefist",
+				"retired": true,
+				"rush": 12,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "J"
+			},
+			"13040611": {
+				"name": "Zachary Fastrock",
+				"retired": true,
+				"turns": 4,
+				"type": "J"
+			},
+			"13040612": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Alexander Fastspike",
+				"retired": true,
+				"turns": 8,
+				"type": "J"
+			},
+			"13040613": {
+				"dead": [
+					1,
+					1,
+					"blocked",
+					"12599001"
+				],
+				"name": "David Silenteagle",
+				"type": "J"
+			},
+			"13040614": {
+				"fouls": 1,
+				"name": "Zachary Weakshield",
+				"retired": true,
+				"turns": 10,
+				"type": "J"
+			},
+			"MERC-1231889-943859M1": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Merc Gorger 1",
+				"spp": 2,
+				"turns": 16,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1231889",
+	"team": {
+		"927862": {
+			"blocks": 36,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Beegrok Massif Mob",
+			"pass": 0,
+			"prespp": 138,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 12,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 153
+		},
+		"943859": {
+			"blocks": 37,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
+			"name": "Mountains of Mourn Tyrants",
+			"pass": 0,
+			"prespp": 134,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 14,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 140
 		}
 	}
 }

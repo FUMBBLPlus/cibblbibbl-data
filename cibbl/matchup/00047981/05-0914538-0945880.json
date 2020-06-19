@@ -1,20 +1,276 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4126568",
+	"player": {
 		"914538": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "BloodForce",
-			"scorediff": 0,
-			"tddiff": 0
+			"12390731": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "O'rdra The Deathmaker",
+				"prespp": 85,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12390732": {
+				"blocks": 3,
+				"cas": 2,
+				"name": "Filthy Anruman",
+				"prespp": 32,
+				"rush": 7,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12390735": {
+				"blocks": 1,
+				"dead": [
+					2,
+					4,
+					"blocked",
+					"12893992"
+				],
+				"fouls": 2,
+				"name": "Big Galroq",
+				"prespp": 27,
+				"turns": 12,
+				"type": "R"
+			},
+			"12390737": {
+				"blocks": 2,
+				"name": "Bloody Divbhox",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12390739": {
+				"name": "Terrible Tulas",
+				"prespp": 69,
+				"rush": 21,
+				"spp": 3,
+				"td": 1,
+				"turns": 7,
+				"type": "R"
+			},
+			"12390740": {
+				"name": "Zarus Pitt",
+				"prespp": 10,
+				"type": "R"
+			},
+			"12453186": {
+				"blocks": 10,
+				"cas": 2,
+				"name": "Erath The Clawdancer",
+				"prespp": 42,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12603619": {
+				"name": "Ryzit Ryzit",
+				"prespp": 8,
+				"turns": 9,
+				"type": "R"
+			},
+			"12687861": {
+				"blocks": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Stro'ghol The Skulltaker",
+				"prespp": 21,
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12736557": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Comain The Heartripper",
+				"prespp": 14,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12911011": {
+				"name": "Ingumor of War",
+				"turns": 1,
+				"type": "R"
+			},
+			"12911012": {
+				"name": "Tuna Kassoroth",
+				"turns": 11,
+				"type": "R"
+			},
+			"12924090": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Zemnok The Battlebrand",
+				"prespp": 10,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12989712": {
+				"name": "Luzar The Winner",
+				"turns": 1,
+				"type": "R"
+			}
 		},
 		"945880": {
-			"cas": 0,
-			"casdiff": 0,
+			"12893991": {
+				"blocks": 5,
+				"name": "Slaugox Gnarlsore",
+				"prespp": 39,
+				"turns": 16,
+				"type": "R"
+			},
+			"12893992": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Ghoyle Poxgut",
+				"prespp": 28,
+				"rush": 10,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12893994": {
+				"blocks": 8,
+				"mvp": 1,
+				"name": "Malarestus Plaguehelm",
+				"prespp": 11,
+				"spp": 5,
+				"turns": 13,
+				"type": "R"
+			},
+			"12893996": {
+				"blocks": 7,
+				"name": "Verrucugnus Toadflesh",
+				"prespp": 30,
+				"turns": 16,
+				"type": "R"
+			},
+			"12894003": {
+				"blocks": 7,
+				"name": "Maggonellus Rankpulp",
+				"prespp": 16,
+				"turns": 11,
+				"type": "R"
+			},
+			"12894013": {
+				"name": "Poid",
+				"prespp": 3,
+				"turns": 4,
+				"type": "R"
+			},
+			"12894023": {
+				"fouls": 1,
+				"name": "Mould",
+				"turns": 1,
+				"type": "R"
+			},
+			"12894027": {
+				"fouls": 1,
+				"name": "Snat",
+				"turns": 7,
+				"type": "R"
+			},
+			"12928411": {
+				"dead": [
+					2,
+					5,
+					"blocked",
+					"12924090"
+				],
+				"fouls": 2,
+				"name": "Byile",
+				"turns": 4,
+				"type": "R"
+			},
+			"12928413": {
+				"fouls": 1,
+				"name": "Plack",
+				"prespp": 3,
+				"turns": 4,
+				"type": "R"
+			},
+			"12933983": {
+				"name": "Gherm",
+				"prespp": 4,
+				"turns": 1,
+				"type": "R"
+			},
+			"12969572": {
+				"blocks": 6,
+				"name": "Typhyidus Goreblob",
+				"prespp": 21,
+				"turns": 12,
+				"type": "R"
+			},
+			"12988213": {
+				"name": "Glop",
+				"turns": 8,
+				"type": "R"
+			},
+			"13005644": {
+				"name": "Slyim",
+				"type": "R"
+			},
+			"RAISED-24711_12390735_13013302": {
+				"name": "Big Galroq",
+				"type": "D"
+			},
+			"STAR-Patient Zero": {
+				"name": "Patient Zero",
+				"rush": 5,
+				"turns": 5,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1226415",
+	"team": {
+		"914538": {
+			"blocks": 39,
+			"cas": 8,
+			"casdiff": 7,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "BloodForce",
+			"pass": 0,
+			"prespp": 335,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 28,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 152
+		},
+		"945880": {
+			"blocks": 44,
+			"cas": 1,
+			"casdiff": -7,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rot Mansion Couriers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 155,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 15,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 118
 		}
 	}
 }

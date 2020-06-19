@@ -1,20 +1,266 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4122526",
+	"player": {
 		"891260": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Library of Indra",
-			"scorediff": 0,
-			"tddiff": 0
+			"12023007": {
+				"blocks": 11,
+				"name": "Surya",
+				"prespp": 55,
+				"turns": 17,
+				"type": "R"
+			},
+			"12023010": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Svay",
+				"prespp": 69,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12023012": {
+				"blocks": 3,
+				"name": "Harsha",
+				"prespp": 47,
+				"turns": 12,
+				"type": "R"
+			},
+			"12452874": {
+				"blocks": 8,
+				"name": "Gankong",
+				"prespp": 30,
+				"turns": 17,
+				"type": "B"
+			},
+			"12518264": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Kylabee",
+				"prespp": 26,
+				"spp": 5,
+				"turns": 3,
+				"type": "R"
+			},
+			"12543878": {
+				"blocks": 4,
+				"name": "Wallah",
+				"prespp": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"12551373": {
+				"blocks": 2,
+				"dead": [
+					2,
+					6,
+					"gfiFail",
+					null
+				],
+				"name": "Aasdaa",
+				"pass": 1,
+				"prespp": 28,
+				"rush": 14,
+				"turns": 14,
+				"type": "R"
+			},
+			"12630865": {
+				"blocks": 8,
+				"name": "Komop",
+				"prespp": 10,
+				"turns": 14,
+				"type": "R"
+			},
+			"12700412": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Ongsan",
+				"pass": 3,
+				"prespp": 10,
+				"rush": 5,
+				"spp": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"12726425": {
+				"name": "Ingra",
+				"prespp": 21,
+				"turns": 8,
+				"type": "R"
+			},
+			"12726426": {
+				"blocks": 6,
+				"name": "Hwrong",
+				"turns": 17,
+				"type": "R"
+			},
+			"12888251": {
+				"blocks": 1,
+				"dead": [
+					2,
+					4,
+					"blocked",
+					"12320309"
+				],
+				"fouls": 1,
+				"name": "Shisha",
+				"prespp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12921165": {
+				"name": "Garong",
+				"type": "R"
+			},
+			"12949345": {
+				"name": "Uolaang",
+				"turns": 3,
+				"type": "R"
+			}
 		},
 		"899682": {
-			"cas": 0,
-			"casdiff": 0,
+			"12158269": {
+				"blocks": 4,
+				"cas": 2,
+				"name": "Ph'rn \"Quick Tail\" Vzz-Sttn",
+				"prespp": 53,
+				"spp": 4,
+				"turns": 12,
+				"type": "R"
+			},
+			"12158279": {
+				"blocks": 1,
+				"name": "Dtr'vssr \"Mamba\" Vrddfls",
+				"prespp": 33,
+				"turns": 9,
+				"type": "R"
+			},
+			"12191641": {
+				"blocks": 1,
+				"name": "C'dm'qsz \"Focus\" Ntrll",
+				"prespp": 35,
+				"turns": 11,
+				"type": "R"
+			},
+			"12240321": {
+				"blocks": 2,
+				"name": "R'th's'k \"Whirly\" Mssrbr",
+				"prespp": 67,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12320309": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "V'rr-nv'rry \"Sunny\" Ss'rpnt'r-gg'dd'ss-l",
+				"prespp": 39,
+				"rush": 15,
+				"spp": 5,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12455237": {
+				"blocks": 2,
+				"name": "N-r-ng \"Spiral\" Kbrrr'll'",
+				"prespp": 22,
+				"turns": 16,
+				"type": "R"
+			},
+			"12467072": {
+				"name": "V'sn \"Opal\" N'tr'c-tssll't",
+				"prespp": 14,
+				"turns": 5,
+				"type": "R"
+			},
+			"12510965": {
+				"blocks": 4,
+				"name": "D'ssh-t \"Moon Nostril\" Ptnmlr",
+				"prespp": 45,
+				"turns": 16,
+				"type": "R"
+			},
+			"12677190": {
+				"blocks": 12,
+				"cas": 2,
+				"name": "M'-Kh'nh \"Kordex\" Clbrr",
+				"prespp": 28,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12922378": {
+				"name": "Th'r-m-n \"Red Med\" Sttn-cchrss",
+				"prespp": 1,
+				"type": "R"
+			},
+			"12945365": {
+				"blocks": 1,
+				"cas": 1,
+				"mvp": 1,
+				"name": "N-rr-w-rn \"Rusty\" Qll-Crvn",
+				"spp": 7,
+				"turns": 11,
+				"type": "R"
+			},
+			"12968128": {
+				"name": "Kr'tt-p-t \"Clock\" B'-cc-",
+				"turns": 5,
+				"type": "R"
+			},
+			"12968130": {
+				"name": "T'nn-k-rn \"Nitro\" C'rv-n'",
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1221809",
+	"team": {
+		"891260": {
+			"blocks": 56,
+			"cas": 1,
+			"casdiff": -5,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Library of Indra",
+			"pass": 4,
+			"prespp": 303,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 19,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 160
+		},
+		"899682": {
+			"blocks": 31,
+			"cas": 6,
+			"casdiff": 5,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "K'r'shh Sl'ppr'ss",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 337,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 34,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 149
 		}
 	}
 }

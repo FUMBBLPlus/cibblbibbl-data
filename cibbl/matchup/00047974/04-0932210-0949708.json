@@ -1,20 +1,242 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4126951",
+	"player": {
 		"932210": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Bludweiser Bouncers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12675399": {
+				"blocks": 6,
+				"name": "Khulgrug",
+				"prespp": 15,
+				"turns": 16,
+				"type": "R"
+			},
+			"12675400": {
+				"blocks": 8,
+				"mvp": 1,
+				"name": "Tuzkoz the Wild",
+				"prespp": 12,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12675401": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Gerraz",
+				"pass": 1,
+				"prespp": 17,
+				"rush": 8,
+				"spp": 5,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12675402": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Bazcax",
+				"prespp": 12,
+				"spp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"12675403": {
+				"blocks": 3,
+				"name": "Muzgax the Silent",
+				"prespp": 19,
+				"rush": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12675404": {
+				"blocks": 8,
+				"name": "Daarthag the Loud",
+				"prespp": 31,
+				"rush": 14,
+				"turns": 16,
+				"type": "R"
+			},
+			"12675405": {
+				"blocks": 2,
+				"name": "Silverscar",
+				"prespp": 1,
+				"rush": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12675406": {
+				"fouls": 2,
+				"name": "Stonetoe",
+				"turns": 3,
+				"type": "R"
+			},
+			"12675407": {
+				"name": "Kaalgroor",
+				"prespp": 3,
+				"type": "R"
+			},
+			"12675409": {
+				"blocks": 1,
+				"name": "Nethertooth",
+				"turns": 13,
+				"type": "R"
+			},
+			"12970447": {
+				"fouls": 1,
+				"name": "Thanol Cupbearer",
+				"pass": 1,
+				"prespp": 1,
+				"rush": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"13014178": {
+				"fouls": 1,
+				"name": "Julius Clearlightning",
+				"retired": true,
+				"rush": 5,
+				"turns": 13,
+				"type": "J"
+			}
 		},
 		"949708": {
+			"12959527": {
+				"blocks": 6,
+				"name": "Strayox Murag",
+				"prespp": 21,
+				"turns": 16,
+				"type": "R"
+			},
+			"12959535": {
+				"blocks": 5,
+				"name": "Gor Murag Broken",
+				"turns": 16,
+				"type": "R"
+			},
+			"12959536": {
+				"name": "Gor Nakkoz Foulspite",
+				"retired": true,
+				"type": "R"
+			},
+			"12959537": {
+				"name": "Gor Nakkoz Riven",
+				"prespp": 5,
+				"turns": 12,
+				"type": "R"
+			},
+			"12959539": {
+				"name": "Gor Murag Twoface",
+				"prespp": 2,
+				"turns": 1,
+				"type": "R"
+			},
+			"12959540": {
+				"mvp": 1,
+				"name": "Gor Khenek Silvertooth",
+				"prespp": 3,
+				"spp": 5,
+				"turns": 9,
+				"type": "R"
+			},
+			"12959542": {
+				"blocks": 4,
+				"name": "Doe Khenek Provider",
+				"prespp": 3,
+				"rush": 18,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12959543": {
+				"name": "Ungor Khenek Forgotten",
+				"prespp": 6,
+				"rush": 20,
+				"spp": 6,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12959544": {
+				"name": "Doe Nakkoz Spite",
+				"pass": 3,
+				"prespp": 8,
+				"rush": 15,
+				"turns": 12,
+				"type": "R"
+			},
+			"12971833": {
+				"blocks": 10,
+				"name": "Gorthor Non Unwanted",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12971834": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Gor Khenek Wit",
+				"turns": 11,
+				"type": "R"
+			},
+			"12984663": {
+				"blocks": 4,
+				"name": "Gorwitt Khenekson",
+				"prespp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"MERC-1226875-949708M1": {
+				"blocks": 9,
+				"name": "Merc Bestigor 1",
+				"turns": 16,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1226875",
+	"team": {
+		"932210": {
+			"blocks": 37,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
+			"name": "Bludweiser Bouncers",
+			"pass": 2,
+			"prespp": 111,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 40,
+			"score": 1,
+			"scorediff": -2,
+			"td": 1,
+			"tddiff": -2,
+			"turns": 153
+		},
+		"949708": {
+			"blocks": 40,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cerberus Beast",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 3,
+			"prespp": 70,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 53,
+			"score": 3,
+			"scorediff": 2,
+			"td": 3,
+			"tddiff": 2,
+			"turns": 156
 		}
 	}
 }

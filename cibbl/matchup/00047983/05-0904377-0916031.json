@@ -1,20 +1,274 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4127552",
+	"player": {
 		"904377": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Aurons",
-			"scorediff": 0,
-			"tddiff": 0
+			"12231317": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Ruby, Fury of the Ancients",
+				"prespp": 88,
+				"rush": 3,
+				"spp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"12231319": {
+				"blocks": 6,
+				"name": "Sapphire, the Everflowing",
+				"prespp": 88,
+				"rush": 25,
+				"spp": 3,
+				"td": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12231332": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Topaz, Ray of Sun",
+				"prespp": 46,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12231335": {
+				"blocks": 7,
+				"name": "Diamond, Light of Steadiness",
+				"prespp": 66,
+				"turns": 16,
+				"type": "B"
+			},
+			"12231336": {
+				"blocks": 1,
+				"name": "Aquamarine, Gleaming Spring",
+				"prespp": 34,
+				"turns": 16,
+				"type": "R"
+			},
+			"12405289": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Obsidian, Second Fireflow",
+				"prespp": 20,
+				"retired": true,
+				"spp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12458077": {
+				"blocks": 1,
+				"name": "Spinel, Second Chasm of Light",
+				"prespp": 13,
+				"turns": 10,
+				"type": "R"
+			},
+			"12504202": {
+				"name": "Quartz, Ice Dome",
+				"type": "R"
+			},
+			"12546080": {
+				"fouls": 2,
+				"name": "Jasper, Will of the Mountain",
+				"turns": 1,
+				"type": "R"
+			},
+			"12553526": {
+				"blocks": 3,
+				"name": "Pearl, Fourth Seal of Perseverance",
+				"prespp": 13,
+				"turns": 16,
+				"type": "B"
+			},
+			"12666868": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Amethyst, Dream of Kjarten Fovor",
+				"turns": 10,
+				"type": "R"
+			},
+			"12710905": {
+				"blocks": 5,
+				"name": "Tourmaline, Bisection of Radiance",
+				"prespp": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12875946": {
+				"name": "Turquoise, Ephemeral Vision of Gitgit",
+				"prespp": 5,
+				"type": "R"
+			},
+			"12910740": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Carnelian, Glowing Dance of Snub-tail",
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12927172": {
+				"name": "Alexandrite, Third Structure of Nightrider",
+				"turns": 2,
+				"type": "R"
+			},
+			"12936908": {
+				"blocks": 8,
+				"name": "Emerald, Duplicity of Silk",
+				"prespp": 20,
+				"rush": 3,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"916031": {
-			"cas": 0,
-			"casdiff": 0,
+			"12413275": {
+				"blocks": 4,
+				"cas": 2,
+				"name": "Head Stompa",
+				"prespp": 92,
+				"rush": 12,
+				"spp": 4,
+				"turns": 11,
+				"type": "R"
+			},
+			"12426039": {
+				"name": "Nose Snippa",
+				"prespp": 67,
+				"type": "R"
+			},
+			"12577257": {
+				"name": "Nail Bita",
+				"prespp": 61,
+				"type": "R"
+			},
+			"12694017": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Heel Slappa",
+				"prespp": 70,
+				"rush": 4,
+				"spp": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"12715867": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Fibula Muncher",
+				"prespp": 24,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12966558": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Hroght",
+				"prespp": 12,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"13018823": {
+				"name": "Graham Strongfire",
+				"turns": 16,
+				"type": "J"
+			},
+			"13018824": {
+				"name": "Xavier Paleeagle",
+				"type": "J"
+			},
+			"13018825": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Ian Deepbone",
+				"turns": 11,
+				"type": "J"
+			},
+			"13018826": {
+				"blocks": 1,
+				"name": "Evander Weakfield",
+				"turns": 6,
+				"type": "J"
+			},
+			"13018827": {
+				"blocks": 1,
+				"name": "Graham Clearshield",
+				"turns": 16,
+				"type": "J"
+			},
+			"13018828": {
+				"blocks": 2,
+				"name": "Evander Stronghammer",
+				"turns": 11,
+				"type": "J"
+			},
+			"13018829": {
+				"blocks": 1,
+				"name": "Howard Cleareagle",
+				"turns": 16,
+				"type": "J"
+			},
+			"MERC-1227561-916031M1": {
+				"blocks": 1,
+				"name": "Merc Savage Lineman 1",
+				"turns": 13,
+				"type": "M"
+			},
+			"STAR-Varag Ghoul-Chewer": {
+				"blocks": 8,
+				"name": "Varag Ghoul-Chewer",
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1227561",
+	"team": {
+		"904377": {
+			"blocks": 52,
+			"cas": 3,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Aurons",
+			"pass": 0,
+			"prespp": 401,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 31,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 163
+		},
+		"916031": {
+			"blocks": 39,
+			"cas": 4,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gorthor's Prophets Of Mork",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 326,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 16,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 161
 		}
 	}
 }

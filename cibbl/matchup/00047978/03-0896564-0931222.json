@@ -1,20 +1,259 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4127113",
+	"player": {
 		"896564": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Thoughts of Thoth",
-			"scorediff": 0,
-			"tddiff": 0
+			"12108653": {
+				"blocks": 9,
+				"name": "Ra-aa-kheper",
+				"prespp": 50,
+				"turns": 16,
+				"type": "R"
+			},
+			"12108656": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Ra-men-ankh",
+				"prespp": 47,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12108659": {
+				"blocks": 6,
+				"fouls": 1,
+				"name": "Suten-rekh",
+				"prespp": 36,
+				"turns": 12,
+				"type": "R"
+			},
+			"12108662": {
+				"blocks": 3,
+				"name": "Ra-s-hotep-ab",
+				"prespp": 140,
+				"rush": 14,
+				"turns": 16,
+				"type": "R"
+			},
+			"12147083": {
+				"blocks": 3,
+				"name": "Pai-netem",
+				"prespp": 9,
+				"turns": 8,
+				"type": "R"
+			},
+			"12263651": {
+				"blocks": 7,
+				"name": "Ta-med-boll",
+				"prespp": 33,
+				"turns": 16,
+				"type": "R"
+			},
+			"12347584": {
+				"blocks": 2,
+				"name": "Necherophes",
+				"prespp": 7,
+				"turns": 12,
+				"type": "R"
+			},
+			"12429071": {
+				"blocks": 1,
+				"name": "Uah-er-meri",
+				"prespp": 6,
+				"turns": 4,
+				"type": "R"
+			},
+			"12499278": {
+				"name": "Abuskhau",
+				"prespp": 7,
+				"turns": 4,
+				"type": "R"
+			},
+			"12500890": {
+				"blocks": 11,
+				"name": "Khons-neb-ankh",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"12622801": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Nakh-ke",
+				"prespp": 17,
+				"turns": 12,
+				"type": "R"
+			},
+			"12667617": {
+				"blocks": 4,
+				"name": "Karo-amut-mimut",
+				"prespp": 28,
+				"turns": 16,
+				"type": "R"
+			},
+			"12696586": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "Ra-aah-min-aa",
+				"prespp": 7,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12927185": {
+				"name": "Nechtanebos",
+				"prespp": 2,
+				"turns": 4,
+				"type": "R"
+			},
+			"12927187": {
+				"name": "Tak-sharu",
+				"turns": 4,
+				"type": "R"
+			}
 		},
 		"931222": {
+			"12658373": {
+				"blocks": 5,
+				"name": "Ochiph",
+				"prespp": 13,
+				"turns": 16,
+				"type": "R"
+			},
+			"12658375": {
+				"name": "Hakiph",
+				"type": "R"
+			},
+			"12658376": {
+				"blocks": 1,
+				"name": "Nosophonb",
+				"turns": 3,
+				"type": "R"
+			},
+			"12658377": {
+				"name": "Sectochar",
+				"type": "R"
+			},
+			"12658378": {
+				"blocks": 2,
+				"name": "Wondrous Hezibi",
+				"prespp": 19,
+				"rush": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"12658381": {
+				"blocks": 9,
+				"name": "Tremendous Bostesi",
+				"prespp": 27,
+				"turns": 16,
+				"type": "R"
+			},
+			"12658382": {
+				"blocks": 5,
+				"name": "Monumental Makof",
+				"prespp": 13,
+				"turns": 16,
+				"type": "B"
+			},
+			"12714822": {
+				"blocks": 8,
+				"mvp": 1,
+				"name": "Sumptuous Thikha",
+				"prespp": 26,
+				"rush": 22,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12872697": {
+				"blocks": 1,
+				"name": "Fabulous Pemkheza",
+				"prespp": 19,
+				"turns": 8,
+				"type": "R"
+			},
+			"12889950": {
+				"blocks": 3,
+				"name": "Tepho",
+				"turns": 16,
+				"type": "R"
+			},
+			"12912439": {
+				"blocks": 1,
+				"fouls": 4,
+				"name": "Hopokom The Temerarious",
+				"turns": 11,
+				"type": "R"
+			},
+			"12937156": {
+				"blocks": 3,
+				"name": "Fosokh",
+				"turns": 12,
+				"type": "R"
+			},
+			"12968034": {
+				"name": "Terseh The Unhinged",
+				"turns": 8,
+				"type": "R"
+			},
+			"13001670": {
+				"name": "Mapemhon",
+				"turns": 8,
+				"type": "R"
+			},
+			"STAR-Ramtut III": {
+				"blocks": 9,
+				"name": "Ramtut III",
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1227032",
+	"team": {
+		"896564": {
+			"blocks": 59,
+			"cas": 1,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Thoughts of Thoth",
+			"pass": 0,
+			"prespp": 409,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 14,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 172
+		},
+		"931222": {
+			"blocks": 47,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Pride of Lybaras",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 117,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 24,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 159
 		}
 	}
 }

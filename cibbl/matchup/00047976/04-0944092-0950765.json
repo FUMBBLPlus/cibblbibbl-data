@@ -1,20 +1,248 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4126848",
+	"player": {
 		"944092": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Moraveny Untamed",
-			"scorediff": 0,
-			"tddiff": 0
+			"12865165": {
+				"name": "Corobstock the Carnal",
+				"prespp": 22,
+				"type": "B"
+			},
+			"12865166": {
+				"blocks": 6,
+				"name": "Moritenko the Mauler",
+				"prespp": 23,
+				"turns": 16,
+				"type": "B"
+			},
+			"12865167": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Vassily Frostpaw",
+				"prespp": 11,
+				"spp": 5,
+				"turns": 6,
+				"type": "R"
+			},
+			"12865169": {
+				"name": "Sofora",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12865170": {
+				"blocks": 1,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Borishna",
+				"prespp": 8,
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12865171": {
+				"blocks": 2,
+				"name": "Dolovo",
+				"prespp": 1,
+				"turns": 4,
+				"type": "R"
+			},
+			"12865172": {
+				"name": "Riski",
+				"prespp": 18,
+				"rush": -2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12865173": {
+				"name": "Trosta",
+				"prespp": 14,
+				"turns": 9,
+				"type": "R"
+			},
+			"12865174": {
+				"blocks": 1,
+				"name": "Neschastiv",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12911267": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Alexandre Windcry",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12946846": {
+				"name": "Demitri Thickpelt",
+				"prespp": 9,
+				"type": "R"
+			},
+			"13000325": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Rasperi Softpad",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13004152": {
+				"blocks": 1,
+				"name": "Petricov",
+				"turns": 12,
+				"type": "R"
+			}
 		},
 		"950765": {
-			"cas": 0,
+			"12975721": {
+				"blocks": 5,
+				"name": "'Coffin-Dodger' Karl Offenbach",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975722": {
+				"blocks": 4,
+				"name": "Able 'Putrid' Sigulo",
+				"turns": 13,
+				"type": "R"
+			},
+			"12975723": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "'Moaning' Lonny Eckhart",
+				"prespp": 16,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975724": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "'Heartless' Herman Strange",
+				"prespp": 10,
+				"rush": 10,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975931": {
+				"name": "Bill 'Grimmer' Ray",
+				"turns": 7,
+				"type": "R"
+			},
+			"12975934": {
+				"blocks": 1,
+				"name": "Madgar Romero",
+				"turns": 8,
+				"type": "R"
+			},
+			"12975936": {
+				"blocks": 1,
+				"cas": 1,
+				"fouls": 2,
+				"name": "Vincent 'Shuffles' Guerrero",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 6,
+				"type": "R"
+			},
+			"12975937": {
+				"name": "'Merry' Terrence Shelley",
+				"prespp": 7,
+				"turns": 8,
+				"type": "R"
+			},
+			"12975942": {
+				"blocks": 3,
+				"name": "Dario 'Dead' Toro",
+				"prespp": 3,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12977351": {
+				"name": "Edgar 'Deadwood' Edward",
+				"prespp": 11,
+				"turns": 1,
+				"type": "R"
+			},
+			"12985699": {
+				"blocks": 3,
+				"name": "Adama 'Patch' Todd",
+				"retired": true,
+				"turns": 16,
+				"type": "R"
+			},
+			"12999375": {
+				"blocks": 7,
+				"name": "Ugrox",
+				"prespp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12999378": {
+				"blocks": 1,
+				"name": "'Grimm' Walker Romero",
+				"turns": 16,
+				"type": "R"
+			},
+			"STAR-Hack Enslash": {
+				"fouls": 1,
+				"name": "Hack Enslash",
+				"turns": 4,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1226736",
+	"team": {
+		"944092": {
+			"blocks": 29,
+			"cas": 3,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Moraveny Untamed",
+			"pass": 0,
+			"prespp": 128,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": -2,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 137
+		},
+		"950765": {
+			"blocks": 38,
+			"cas": 3,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vanhaldenschlosse Horror",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 75,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 29,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 157
 		}
 	}
 }

@@ -1,20 +1,291 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4138856",
+	"player": {
 		"872475": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "True Roots of Khaine",
-			"scorediff": 0,
-			"tddiff": 0
+			"11721710": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Judge Juniperus",
+				"prespp": 119,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"11721712": {
+				"blocks": 3,
+				"name": "Larix Darkbark",
+				"prespp": 79,
+				"turns": 16,
+				"type": "B"
+			},
+			"11721714": {
+				"blocks": 4,
+				"name": "Picea the Piercer",
+				"prespp": 85,
+				"turns": 10,
+				"type": "B"
+			},
+			"11721716": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Rubus the Drinker of Blood",
+				"prespp": 12,
+				"turns": 4,
+				"type": "R"
+			},
+			"11986045": {
+				"blocks": 2,
+				"name": "Dryopteris the Pale",
+				"prespp": 83,
+				"turns": 1,
+				"type": "R"
+			},
+			"12239711": {
+				"blocks": 6,
+				"name": "Pinus Ashleaf",
+				"prespp": 53,
+				"turns": 16,
+				"type": "B"
+			},
+			"12280078": {
+				"blocks": 2,
+				"name": "Fraxinus of Eternal Autumn",
+				"prespp": 36,
+				"turns": 16,
+				"type": "B"
+			},
+			"12286551": {
+				"name": "Half-Pointy-Eared Plagiochila",
+				"prespp": 6,
+				"turns": 3,
+				"type": "R"
+			},
+			"12435775": {
+				"name": "Shroomsplitter Vaccinium",
+				"prespp": 47,
+				"turns": 12,
+				"type": "R"
+			},
+			"12466701": {
+				"dead": [
+					2,
+					6,
+					"blocked",
+					"12973025"
+				],
+				"fouls": 2,
+				"name": "Hawkhunter Drosera",
+				"prespp": 8,
+				"spp": 3,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12628661": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Quercus Wrathroot",
+				"prespp": 20,
+				"spp": 2,
+				"turns": 12,
+				"type": "B"
+			},
+			"12914482": {
+				"name": "Basidiomycota, Seeker of the End",
+				"rush": 12,
+				"turns": 3,
+				"type": "R"
+			},
+			"12990408": {
+				"mvp": 1,
+				"name": "Ent is Night",
+				"rush": 8,
+				"spp": 8,
+				"td": 1,
+				"turns": 11,
+				"type": "R"
+			},
+			"13126551": {
+				"cas": 1,
+				"name": "Oxalis of Burning Oak",
+				"rush": 5,
+				"spp": 2,
+				"turns": 4,
+				"type": "R"
+			},
+			"13126567": {
+				"name": "Red Rutabulum",
+				"turns": 11,
+				"type": "R"
+			},
+			"13126587": {
+				"name": "Tyranno Spite Care",
+				"pass": 1,
+				"turns": 3,
+				"type": "R"
+			}
 		},
 		"950586": {
-			"cas": 0,
-			"casdiff": 0,
+			"12973013": {
+				"blocks": 4,
+				"name": "Raina Undolond",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12973014": {
+				"name": "Araniel Haelinde",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12973015": {
+				"name": "Marana Orren",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12973017": {
+				"blocks": 1,
+				"name": "Crailwen Felagasel",
+				"prespp": 6,
+				"rush": 10,
+				"turns": 14,
+				"type": "R"
+			},
+			"12973020": {
+				"blocks": 3,
+				"name": "Nessiel Rhuidhen",
+				"prespp": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12973021": {
+				"blocks": 3,
+				"comp": 1,
+				"name": "Mirya Laeendion",
+				"pass": 2,
+				"prespp": 6,
+				"rush": 5,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12973023": {
+				"name": "Verismana Beryathar",
+				"prespp": 11,
+				"turns": 1,
+				"type": "R"
+			},
+			"12973024": {
+				"blocks": 1,
+				"name": "Alaestiel Vanloth",
+				"prespp": 9,
+				"turns": 8,
+				"type": "R"
+			},
+			"12973025": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Broncassiel Lithlond",
+				"prespp": 6,
+				"spp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"12973975": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Damerisia",
+				"prespp": 8,
+				"rush": 9,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975103": {
+				"blocks": 4,
+				"name": "Keeper Pyriel",
+				"prespp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"13007306": {
+				"comp": 1,
+				"fouls": 1,
+				"name": "Martin Strongwing",
+				"pass": 1,
+				"retired": true,
+				"spp": 1,
+				"turns": 16,
+				"type": "J"
+			},
+			"13007307": {
+				"fouls": 1,
+				"name": "Alexander Vilebrook",
+				"retired": true,
+				"turns": 5,
+				"type": "J"
+			},
+			"STAR-Eldril Sidewinder": {
+				"blocks": 2,
+				"cas": 2,
+				"name": "Eldril Sidewinder",
+				"spp": 4,
+				"turns": 3,
+				"type": "S"
+			},
+			"STAR-Schworg'n'Borg": {
+				"blocks": 1,
+				"name": "Schworg'n'Borg",
+				"turns": 9,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1242209",
+	"team": {
+		"872475": {
+			"blocks": 30,
+			"cas": 3,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "True Roots of Khaine",
+			"pass": 1,
+			"prespp": 548,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 25,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 148
+		},
+		"950586": {
+			"blocks": 26,
+			"cas": 4,
+			"casdiff": 1,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Crystal Mere Keepers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 3,
+			"prespp": 85,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 24,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 148
 		}
 	}
 }

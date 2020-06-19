@@ -1,20 +1,289 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4126934",
+	"player": {
 		"874966": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Modryn's Midnight Meddlers",
-			"scorediff": 0,
-			"tddiff": 0
+			"11764921": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Morlanna",
+				"prespp": 97,
+				"spp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"11967724": {
+				"blocks": 5,
+				"name": "Hauclir",
+				"prespp": 106,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12231028": {
+				"name": "Nimrodel",
+				"prespp": 60,
+				"turns": 1,
+				"type": "R"
+			},
+			"12351587": {
+				"blocks": 4,
+				"name": "Beldroth Boombark",
+				"prespp": 32,
+				"turns": 16,
+				"type": "B"
+			},
+			"12462256": {
+				"blocks": 4,
+				"name": "Isilvar",
+				"prespp": 29,
+				"rush": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12537383": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Kivan",
+				"prespp": 23,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12585132": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Caelir",
+				"prespp": 18,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12684362": {
+				"blocks": 1,
+				"name": "Finavar",
+				"prespp": 26,
+				"turns": 10,
+				"type": "R"
+			},
+			"12888768": {
+				"blocks": 5,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Aertan",
+				"prespp": 24,
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12913993": {
+				"blocks": 8,
+				"cas": 3,
+				"name": "Aerys",
+				"prespp": 6,
+				"spp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12944290": {
+				"blocks": 2,
+				"name": "Thelion",
+				"turns": 5,
+				"type": "R"
+			},
+			"12983968": {
+				"name": "Jokleel",
+				"type": "R"
+			},
+			"12994906": {
+				"blocks": 1,
+				"name": "Coaran",
+				"turns": 6,
+				"type": "R"
+			},
+			"13005555": {
+				"blocks": 7,
+				"name": "Ethandril",
+				"prespp": 9,
+				"rush": 15,
+				"spp": 6,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"950644": {
-			"cas": 0,
-			"casdiff": 0,
+			"12973771": {
+				"blocks": 1,
+				"name": "Anito",
+				"pass": 1,
+				"prespp": 18,
+				"rush": 2,
+				"turns": 3,
+				"type": "R"
+			},
+			"12973775": {
+				"blocks": 8,
+				"fouls": 1,
+				"name": "Hathor",
+				"prespp": 11,
+				"turns": 15,
+				"type": "R"
+			},
+			"12973779": {
+				"blocks": 9,
+				"name": "Kodama",
+				"prespp": 7,
+				"rush": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12973788": {
+				"blocks": 3,
+				"comp": 1,
+				"name": "Meliae",
+				"pass": -1,
+				"prespp": 11,
+				"rush": -1,
+				"spp": 1,
+				"turns": 12,
+				"type": "R"
+			},
+			"12973793": {
+				"blocks": 3,
+				"name": "Metsavana",
+				"prespp": 9,
+				"turns": 14,
+				"type": "R"
+			},
+			"12973800": {
+				"comp": 1,
+				"dead": [
+					2,
+					1,
+					"blocked",
+					"12913993"
+				],
+				"name": "Nang Takhian",
+				"pass": 4,
+				"prespp": 3,
+				"rush": 5,
+				"spp": 1,
+				"turns": 1,
+				"type": "R"
+			},
+			"12973818": {
+				"name": "Nariphon",
+				"prespp": 8,
+				"type": "R"
+			},
+			"12978574": {
+				"blocks": 4,
+				"fouls": 1,
+				"mvp": 1,
+				"name": "Beorl",
+				"prespp": 3,
+				"spp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"12979736": {
+				"name": "Cory Vilethorn",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12980899": {
+				"blocks": 2,
+				"cas": 1,
+				"comp": 2,
+				"fouls": 2,
+				"name": "Trey Blueeagle",
+				"pass": 4,
+				"rush": 8,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"13003636": {
+				"blocks": 1,
+				"name": "Ian Deeptree",
+				"rush": 5,
+				"turns": 14,
+				"type": "R"
+			},
+			"13003637": {
+				"name": "Martin Coldrock",
+				"retired": true,
+				"turns": 3,
+				"type": "J"
+			},
+			"13003638": {
+				"blocks": 1,
+				"name": "Evander Clearshield",
+				"retired": true,
+				"turns": 6,
+				"type": "J"
+			},
+			"STAR-Jordell Freshbreeze": {
+				"blocks": 4,
+				"name": "Jordell Freshbreeze",
+				"turns": 8,
+				"type": "S"
+			},
+			"STAR-Vinny Valhalla": {
+				"blocks": 3,
+				"name": "Vinny Valhalla",
+				"rush": 2,
+				"turns": 13,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1226859",
+	"team": {
+		"874966": {
+			"blocks": 54,
+			"cas": 7,
+			"casdiff": 6,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Modryn's Midnight Meddlers",
+			"pass": 0,
+			"prespp": 430,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 41,
+			"score": 3,
+			"scorediff": 3,
+			"td": 3,
+			"tddiff": 3,
+			"turns": 163
+		},
+		"950644": {
+			"blocks": 39,
+			"cas": 1,
+			"casdiff": -6,
+			"comp": 4,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Drakwold Thicketkeepers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 8,
+			"prespp": 72,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 22,
+			"score": 0,
+			"scorediff": -3,
+			"td": 0,
+			"tddiff": -3,
+			"turns": 136
 		}
 	}
 }

@@ -1,20 +1,263 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4124071",
+	"player": {
 		"896564": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Thoughts of Thoth",
-			"scorediff": 0,
-			"tddiff": 0
+			"12108653": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Ra-aa-kheper",
+				"prespp": 48,
+				"spp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"12108656": {
+				"blocks": 8,
+				"name": "Ra-men-ankh",
+				"prespp": 47,
+				"turns": 17,
+				"type": "R"
+			},
+			"12108659": {
+				"blocks": 12,
+				"cas": 1,
+				"name": "Suten-rekh",
+				"prespp": 34,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12108662": {
+				"mvp": 1,
+				"name": "Ra-s-hotep-ab",
+				"prespp": 132,
+				"rush": 16,
+				"spp": 8,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12147083": {
+				"blocks": 5,
+				"name": "Pai-netem",
+				"prespp": 9,
+				"turns": 17,
+				"type": "R"
+			},
+			"12263651": {
+				"blocks": 5,
+				"name": "Ta-med-boll",
+				"prespp": 33,
+				"turns": 17,
+				"type": "R"
+			},
+			"12347584": {
+				"blocks": 3,
+				"name": "Necherophes",
+				"prespp": 7,
+				"turns": 7,
+				"type": "R"
+			},
+			"12429071": {
+				"name": "Uah-er-meri",
+				"prespp": 6,
+				"turns": 3,
+				"type": "R"
+			},
+			"12499278": {
+				"blocks": 1,
+				"fouls": 3,
+				"name": "Abuskhau",
+				"prespp": 7,
+				"turns": 17,
+				"type": "R"
+			},
+			"12500890": {
+				"blocks": 13,
+				"name": "Khons-neb-ankh",
+				"prespp": 20,
+				"turns": 17,
+				"type": "R"
+			},
+			"12622801": {
+				"blocks": 6,
+				"name": "Nakh-ke",
+				"prespp": 17,
+				"turns": 17,
+				"type": "R"
+			},
+			"12667617": {
+				"blocks": 8,
+				"cas": 2,
+				"name": "Karo-amut-mimut",
+				"prespp": 24,
+				"spp": 4,
+				"turns": 13,
+				"type": "R"
+			},
+			"12696586": {
+				"name": "Ra-aah-min-aa",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12927185": {
+				"blocks": 3,
+				"name": "Nechtanebos",
+				"prespp": 2,
+				"turns": 9,
+				"type": "R"
+			},
+			"12927187": {
+				"name": "Tak-sharu",
+				"type": "R"
+			}
 		},
 		"947184": {
-			"cas": 0,
-			"casdiff": 0,
+			"12915751": {
+				"blocks": 1,
+				"dead": [
+					1,
+					3,
+					"gfiFail",
+					null
+				],
+				"name": "Sobhis Ahmat",
+				"prespp": 10,
+				"turns": 2,
+				"type": "R"
+			},
+			"12915753": {
+				"blocks": 7,
+				"name": "Luxro Sethat",
+				"turns": 16,
+				"type": "R"
+			},
+			"12915755": {
+				"name": "Isetasht Heror",
+				"prespp": 7,
+				"turns": 2,
+				"type": "R"
+			},
+			"12915756": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Saayt Heror",
+				"prespp": 15,
+				"rush": 7,
+				"spp": 5,
+				"turns": 9,
+				"type": "R"
+			},
+			"12915757": {
+				"blocks": 2,
+				"name": "Sebhor Inepes",
+				"prespp": 24,
+				"turns": 12,
+				"type": "R"
+			},
+			"12915768": {
+				"blocks": 1,
+				"name": "Apheb Hethat",
+				"prespp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12915782": {
+				"blocks": 2,
+				"name": "Neshirkeosh Heqmut",
+				"prespp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"12915816": {
+				"blocks": 1,
+				"name": "Khojupet Takhra",
+				"prespp": 18,
+				"rush": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12915817": {
+				"blocks": 1,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Esemhe Hapath",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12925191": {
+				"blocks": 3,
+				"name": "Genten Apokis",
+				"prespp": 25,
+				"turns": 6,
+				"type": "R"
+			},
+			"12957943": {
+				"blocks": 4,
+				"name": "Tabashimen Iumut",
+				"prespp": 19,
+				"rush": -2,
+				"turns": 12,
+				"type": "R"
+			},
+			"12988299": {
+				"name": "Aniath Henayt",
+				"turns": 12,
+				"type": "R"
+			},
+			"STAR-Setekh": {
+				"blocks": 1,
+				"name": "Setekh",
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1223563",
+	"team": {
+		"896564": {
+			"blocks": 73,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Thoughts of Thoth",
+			"pass": 0,
+			"prespp": 393,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 16,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 182
+		},
+		"947184": {
+			"blocks": 28,
+			"cas": 1,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Charnel Valley Ouroboros",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 124,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 14,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 130
 		}
 	}
 }

@@ -1,20 +1,247 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4132665",
+	"player": {
 		"897353": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Court of Shu",
-			"scorediff": 0,
-			"tddiff": 0
+			"12488193": {
+				"blocks": 5,
+				"name": "Dark Hummus",
+				"prespp": 37,
+				"turns": 16,
+				"type": "R"
+			},
+			"12535865": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Aush",
+				"pass": 4,
+				"prespp": 23,
+				"rush": 20,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12578862": {
+				"blocks": 1,
+				"fouls": 4,
+				"name": "Ueresh",
+				"prespp": 8,
+				"turns": 8,
+				"type": "R"
+			},
+			"12695465": {
+				"blocks": 5,
+				"name": "Torn Ado",
+				"prespp": 12,
+				"rush": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12706552": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Clayface",
+				"prespp": 8,
+				"rush": 4,
+				"spp": 8,
+				"td": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12706553": {
+				"blocks": 1,
+				"name": "Potok",
+				"prespp": 21,
+				"turns": 16,
+				"type": "R"
+			},
+			"12722742": {
+				"blocks": 11,
+				"name": "Forroh",
+				"prespp": 12,
+				"turns": 16,
+				"type": "R"
+			},
+			"12892906": {
+				"blocks": 2,
+				"name": "Husith",
+				"prespp": 20,
+				"turns": 8,
+				"type": "R"
+			},
+			"12895327": {
+				"blocks": 6,
+				"name": "Perzel",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12921866": {
+				"name": "Windar",
+				"type": "R"
+			},
+			"12927303": {
+				"blocks": 2,
+				"name": "Eagee",
+				"prespp": 6,
+				"rush": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12935104": {
+				"name": "Nit-r O",
+				"type": "R"
+			},
+			"12965539": {
+				"name": "Stratosphe",
+				"type": "R"
+			},
+			"12974167": {
+				"name": "Hur Icano",
+				"type": "R"
+			},
+			"12983825": {
+				"blocks": 4,
+				"name": "Mar Iana",
+				"prespp": 8,
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"899682": {
+			"12158269": {
+				"blocks": 1,
+				"name": "Ph'rn \"Quick Tail\" Vzz-Sttn",
+				"prespp": 67,
+				"turns": 3,
+				"type": "R"
+			},
+			"12158279": {
+				"blocks": 2,
+				"name": "Dtr'vssr \"Mamba\" Vrddfls",
+				"prespp": 33,
+				"turns": 2,
+				"type": "R"
+			},
+			"12191641": {
+				"blocks": 2,
+				"name": "C'dm'qsz \"Focus\" Ntrll",
+				"prespp": 37,
+				"turns": 5,
+				"type": "R"
+			},
+			"12240321": {
+				"blocks": 1,
+				"name": "R'th's'k \"Whirly\" Mssrbr",
+				"prespp": 78,
+				"rush": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12320309": {
+				"name": "V'rr-nv'rry \"Sunny\" Ss'rpnt'r-gg'dd'ss-l",
+				"prespp": 44,
+				"type": "R"
+			},
+			"12455237": {
+				"blocks": 7,
+				"name": "N-r-ng \"Spiral\" Kbrrr'll'",
+				"prespp": 27,
+				"turns": 16,
+				"type": "R"
+			},
+			"12467072": {
+				"blocks": 3,
+				"name": "V'sn \"Opal\" N'tr'c-tssll't",
+				"prespp": 23,
+				"turns": 8,
+				"type": "R"
+			},
+			"12510965": {
+				"blocks": 7,
+				"name": "D'ssh-t \"Moon Nostril\" Ptnmlr",
+				"prespp": 47,
+				"turns": 16,
+				"type": "R"
+			},
+			"12945365": {
+				"blocks": 4,
+				"name": "N-rr-w-rn \"Rusty\" Qll-Crvn",
+				"prespp": 8,
+				"turns": 6,
+				"type": "R"
+			},
+			"12968128": {
+				"blocks": 4,
+				"name": "Kr'tt-p-t \"Clock\" B'-cc-",
+				"turns": 6,
+				"type": "R"
+			},
+			"12968130": {
+				"blocks": 3,
+				"name": "T'nn-k-rn \"Nitro\" C'rv-n'",
+				"turns": 8,
+				"type": "R"
+			},
+			"13018357": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "K'tt'p-b \"Snarl\" S-'tt-n'",
+				"spp": 5,
+				"turns": 8,
+				"type": "R"
+			},
+			"13018358": {
+				"blocks": 6,
+				"name": "Ch-l-m-' \"Tilted\" M-r-ss-",
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1234091",
+	"team": {
+		"897353": {
+			"blocks": 40,
+			"cas": 1,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
+			"name": "Court of Shu",
+			"pass": 4,
+			"prespp": 172,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 38,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 152
+		},
+		"899682": {
+			"blocks": 43,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "K'r'shh Sl'ppr'ss",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 364,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 2,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 104
 		}
 	}
 }

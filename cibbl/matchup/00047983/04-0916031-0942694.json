@@ -1,20 +1,252 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4126863",
+	"player": {
 		"916031": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Gorthor's Prophets Of Mork",
-			"scorediff": 0,
-			"tddiff": 0
+			"12413275": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Head Stompa",
+				"prespp": 90,
+				"rush": 9,
+				"spp": 2,
+				"turns": 18,
+				"type": "R"
+			},
+			"12426039": {
+				"blocks": 8,
+				"name": "Nose Snippa",
+				"prespp": 67,
+				"turns": 11,
+				"type": "R"
+			},
+			"12577257": {
+				"blocks": 2,
+				"name": "Nail Bita",
+				"prespp": 61,
+				"turns": 2,
+				"type": "R"
+			},
+			"12694017": {
+				"name": "Heel Slappa",
+				"prespp": 67,
+				"rush": 18,
+				"spp": 3,
+				"td": 1,
+				"turns": 6,
+				"type": "R"
+			},
+			"12715867": {
+				"blocks": 10,
+				"mvp": 1,
+				"name": "Fibula Muncher",
+				"prespp": 19,
+				"spp": 5,
+				"turns": 18,
+				"type": "R"
+			},
+			"12900821": {
+				"blocks": 1,
+				"dead": [
+					1,
+					4,
+					"blocked",
+					"12843528"
+				],
+				"name": "Ankle Gnawer",
+				"turns": 4,
+				"type": "R"
+			},
+			"12966558": {
+				"blocks": 7,
+				"name": "Hroght",
+				"prespp": 12,
+				"turns": 18,
+				"type": "B"
+			},
+			"12994613": {
+				"blocks": 2,
+				"name": "Yorick Hotshield",
+				"retired": true,
+				"turns": 18,
+				"type": "J"
+			},
+			"12994614": {
+				"dead": [
+					1,
+					7,
+					"blocked",
+					"12843533"
+				],
+				"name": "Graham Bluestone",
+				"turns": 7,
+				"type": "J"
+			},
+			"12994615": {
+				"name": "Billy Clumsybrook",
+				"retired": true,
+				"turns": 4,
+				"type": "J"
+			},
+			"12994616": {
+				"name": "Alexander Goldstream",
+				"retired": true,
+				"turns": 4,
+				"type": "J"
+			}
 		},
 		"942694": {
-			"cas": 0,
-			"casdiff": 0,
+			"12843502": {
+				"blocks": 8,
+				"name": "Aqshy",
+				"prespp": 28,
+				"rush": 12,
+				"spp": 3,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12843528": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Stross",
+				"prespp": 16,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12843530": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Katarin",
+				"prespp": 29,
+				"spp": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"12843531": {
+				"blocks": 3,
+				"name": "Miska",
+				"prespp": 32,
+				"rush": 16,
+				"turns": 17,
+				"type": "R"
+			},
+			"12843533": {
+				"blocks": 12,
+				"cas": 2,
+				"name": "Fleissman",
+				"prespp": 16,
+				"spp": 4,
+				"turns": 17,
+				"type": "R"
+			},
+			"12843534": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Feuerbach",
+				"prespp": 17,
+				"spp": 2,
+				"turns": 5,
+				"type": "R"
+			},
+			"12843537": {
+				"name": "Pfeiffer",
+				"prespp": 12,
+				"turns": 1,
+				"type": "R"
+			},
+			"12907696": {
+				"blocks": 1,
+				"name": "Julevno",
+				"prespp": 20,
+				"rush": 16,
+				"spp": 6,
+				"td": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12907697": {
+				"blocks": 1,
+				"name": "Bann",
+				"turns": 12,
+				"type": "R"
+			},
+			"12924847": {
+				"name": "Gormann",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12938248": {
+				"blocks": 4,
+				"name": "Gelt",
+				"prespp": 8,
+				"turns": 17,
+				"type": "R"
+			},
+			"12985351": {
+				"name": "Azyr",
+				"turns": 9,
+				"type": "R"
+			},
+			"13012926": {
+				"fouls": 1,
+				"name": "Fuegonasus",
+				"turns": 5,
+				"type": "R"
+			},
+			"MERC-1226787-942694M1": {
+				"blocks": 2,
+				"fouls": 5,
+				"name": "Merc Fire Elemental 1",
+				"turns": 10,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1226787",
+	"team": {
+		"916031": {
+			"blocks": 34,
+			"cas": 1,
+			"casdiff": -6,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Gorthor's Prophets Of Mork",
+			"pass": 0,
+			"prespp": 316,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 27,
+			"score": 1,
+			"scorediff": -2,
+			"td": 1,
+			"tddiff": -2,
+			"turns": 110
+		},
+		"942694": {
+			"blocks": 39,
+			"cas": 7,
+			"casdiff": 6,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bright Order Bandits",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 185,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 44,
+			"score": 3,
+			"scorediff": 2,
+			"td": 3,
+			"tddiff": 2,
+			"turns": 161
 		}
 	}
 }

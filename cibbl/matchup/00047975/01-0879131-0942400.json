@@ -1,20 +1,288 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4122255",
+	"player": {
 		"879131": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Sartosa Black Flags",
-			"scorediff": 0,
-			"tddiff": 0
+			"11828950": {
+				"name": "Calico Jack",
+				"prespp": 155,
+				"type": "R"
+			},
+			"11828951": {
+				"blocks": 5,
+				"name": "Morag",
+				"prespp": 67,
+				"turns": 16,
+				"type": "B"
+			},
+			"11828954": {
+				"blocks": 2,
+				"comp": 1,
+				"name": "Ibhib Nightbreaker",
+				"pass": 2,
+				"prespp": 169,
+				"rush": 35,
+				"spp": 7,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"11828955": {
+				"blocks": 8,
+				"name": "Dog Rough Drimond",
+				"prespp": 81,
+				"turns": 16,
+				"type": "R"
+			},
+			"11828956": {
+				"blocks": 7,
+				"cas": 2,
+				"name": "Grog Swiller Finn",
+				"prespp": 84,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12426661": {
+				"name": "Mutiny Bryce",
+				"prespp": 13,
+				"turns": 11,
+				"type": "R"
+			},
+			"12493747": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Chains Mullaney",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12517082": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Dounnoth Stormarrow",
+				"prespp": 72,
+				"rush": 15,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12582863": {
+				"blocks": 3,
+				"fouls": 2,
+				"name": "Bluntfist Crockett",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12610891": {
+				"dead": [
+					1,
+					3,
+					"blocked",
+					"STAR-Hubris Rakarth"
+				],
+				"fouls": 1,
+				"name": "Cabin Boy Sullivan",
+				"turns": 3,
+				"type": "R"
+			},
+			"12884766": {
+				"name": "Gibbet O'Sullivan",
+				"prespp": 7,
+				"turns": 2,
+				"type": "R"
+			},
+			"12938231": {
+				"blocks": 2,
+				"int": 1,
+				"name": "Eddie \"The Eagle\" Teach",
+				"pass": -1,
+				"rush": 4,
+				"spp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12957418": {
+				"name": "Fritz O'Carrott",
+				"turns": 2,
+				"type": "R"
+			},
+			"12957419": {
+				"blocks": 1,
+				"name": "Marty O'Flaherty",
+				"turns": 8,
+				"type": "R"
+			},
+			"12975447": {
+				"fouls": 2,
+				"name": "Tommy Gunn",
+				"turns": 2,
+				"type": "R"
+			},
+			"12989104": {
+				"blocks": 2,
+				"name": "Thora",
+				"turns": 16,
+				"type": "B"
+			}
 		},
 		"942400": {
-			"cas": 0,
-			"casdiff": 0,
+			"12838981": {
+				"name": "Raghokek Krakeneye",
+				"prespp": 17,
+				"type": "R"
+			},
+			"12838982": {
+				"blocks": 5,
+				"name": "Takkivun Deathstalker",
+				"pass": 1,
+				"prespp": 33,
+				"rush": -2,
+				"turns": 13,
+				"type": "R"
+			},
+			"12838983": {
+				"blocks": 1,
+				"name": "Qelkous Stormbleeder",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"12838984": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Righacet Voidshade",
+				"pass": 3,
+				"prespp": 23,
+				"rush": 5,
+				"spp": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"12838985": {
+				"blocks": 1,
+				"name": "Dathak Rageblade",
+				"prespp": 2,
+				"turns": 9,
+				"type": "R"
+			},
+			"12838986": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Kuthuk Shadecrusher",
+				"prespp": 27,
+				"rush": 14,
+				"spp": 8,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12838987": {
+				"name": "Vokhir Dawntaker",
+				"prespp": 4,
+				"turns": 10,
+				"type": "R"
+			},
+			"12838988": {
+				"name": "Laven Stormreaper",
+				"prespp": 3,
+				"turns": 2,
+				"type": "R"
+			},
+			"12896525": {
+				"name": "Howard Strongsnake",
+				"prespp": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12963446": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Apabro Krakeneye",
+				"pass": -1,
+				"prespp": 1,
+				"rush": -3,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12989240": {
+				"comp": 2,
+				"name": "Tredyni Krakeneye",
+				"pass": 1,
+				"rush": 4,
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12989241": {
+				"name": "Brian Coldhammer",
+				"pass": -1,
+				"retired": true,
+				"turns": 14,
+				"type": "J"
+			},
+			"STAR-Eldril Sidewinder": {
+				"name": "Eldril Sidewinder",
+				"turns": 4,
+				"type": "S"
+			},
+			"STAR-Hubris Rakarth": {
+				"blocks": 4,
+				"cas": 2,
+				"name": "Hubris Rakarth",
+				"spp": 4,
+				"turns": 13,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1221502",
+	"team": {
+		"879131": {
+			"blocks": 34,
+			"cas": 4,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 5,
+			"int": 1,
+			"mvp": 1,
+			"name": "Sartosa Black Flags",
+			"pass": 1,
+			"prespp": 656,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 54,
+			"score": 3,
+			"scorediff": 2,
+			"td": 3,
+			"tddiff": 2,
+			"turns": 156
+		},
+		"942400": {
+			"blocks": 19,
+			"cas": 3,
+			"casdiff": -1,
+			"comp": 3,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Krakeneye Eagles",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 3,
+			"prespp": 138,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 18,
+			"score": 1,
+			"scorediff": -2,
+			"td": 1,
+			"tddiff": -2,
+			"turns": 142
 		}
 	}
 }

@@ -1,20 +1,261 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4128100",
+	"player": {
 		"896228": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Gardeners of Nurgle",
-			"scorediff": 0,
-			"tddiff": 0
+			"12103149": {
+				"blocks": 3,
+				"name": "Mortarion",
+				"prespp": 39,
+				"turns": 16,
+				"type": "B"
+			},
+			"12103152": {
+				"blocks": 7,
+				"cas": 2,
+				"name": "Ku'Gath",
+				"prespp": 30,
+				"spp": 4,
+				"turns": 13,
+				"type": "R"
+			},
+			"12114193": {
+				"blocks": 8,
+				"name": "Omphuross",
+				"prespp": 79,
+				"turns": 16,
+				"type": "R"
+			},
+			"12325545": {
+				"blocks": 5,
+				"name": "Halatoth",
+				"prespp": 41,
+				"turns": 8,
+				"type": "R"
+			},
+			"12407510": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Kraarak",
+				"prespp": 51,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12465025": {
+				"blocks": 2,
+				"name": "Pligis",
+				"prespp": 11,
+				"turns": 6,
+				"type": "R"
+			},
+			"12494315": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Goulbar",
+				"prespp": 6,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12533831": {
+				"blocks": 2,
+				"name": "Gassious",
+				"prespp": 8,
+				"turns": 10,
+				"type": "R"
+			},
+			"12608838": {
+				"name": "Bloodscalp",
+				"type": "R"
+			},
+			"12696907": {
+				"name": "Fungallius",
+				"prespp": 19,
+				"turns": 7,
+				"type": "R"
+			},
+			"12712713": {
+				"blocks": 5,
+				"name": "Syphidex",
+				"prespp": 8,
+				"rush": 12,
+				"spp": 3,
+				"td": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12867525": {
+				"blocks": 2,
+				"name": "Castelnuovo Rangone III",
+				"prespp": 7,
+				"turns": 7,
+				"type": "R"
+			},
+			"12886663": {
+				"name": "Malvirus",
+				"prespp": 9,
+				"turns": 3,
+				"type": "R"
+			},
+			"12943572": {
+				"name": "T'ng \"Dusty\" Ammdtss",
+				"type": "R"
+			},
+			"12999322": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Corona",
+				"prespp": 3,
+				"rush": 3,
+				"spp": 5,
+				"turns": 10,
+				"type": "R"
+			}
 		},
 		"909848": {
-			"cas": 0,
-			"casdiff": 0,
+			"12315757": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Lythk the Merciless",
+				"prespp": 59,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12315759": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Fleshrender",
+				"prespp": 39,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12315761": {
+				"name": "Kelriz the Unforgiving",
+				"prespp": 70,
+				"rush": 15,
+				"turns": 16,
+				"type": "R"
+			},
+			"12315763": {
+				"blocks": 1,
+				"name": "Oxhaar the Breaker",
+				"turns": 8,
+				"type": "R"
+			},
+			"12424767": {
+				"blocks": 5,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Tailslasher the Unbroken",
+				"prespp": 46,
+				"spp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12431645": {
+				"blocks": 7,
+				"name": "Rythaal the Malevolent",
+				"prespp": 32,
+				"turns": 11,
+				"type": "R"
+			},
+			"12492739": {
+				"blocks": 4,
+				"name": "Abraxasz",
+				"prespp": 33,
+				"turns": 16,
+				"type": "R"
+			},
+			"12597222": {
+				"name": "Carth'aaros",
+				"prespp": 3,
+				"turns": 1,
+				"type": "R"
+			},
+			"12678251": {
+				"name": "Paruudon",
+				"prespp": 4,
+				"type": "R"
+			},
+			"12925105": {
+				"name": "Lekkir",
+				"turns": 16,
+				"type": "R"
+			},
+			"12944722": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Koran, Open Wounds",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12955285": {
+				"name": "Dhogge",
+				"retired": true,
+				"turns": 3,
+				"type": "R"
+			},
+			"12955286": {
+				"name": "Brohdd",
+				"retired": true,
+				"type": "R"
+			},
+			"13001822": {
+				"blocks": 2,
+				"name": "Nikshol",
+				"turns": 11,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1228208",
+	"team": {
+		"896228": {
+			"blocks": 53,
+			"cas": 4,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Gardeners of Nurgle",
+			"pass": 0,
+			"prespp": 311,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 15,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 141
+		},
+		"909848": {
+			"blocks": 41,
+			"cas": 5,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Black Hearted Bloodseekers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 293,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 15,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 146
 		}
 	}
 }

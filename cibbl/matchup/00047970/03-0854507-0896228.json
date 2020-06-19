@@ -1,20 +1,279 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4125885",
+	"player": {
 		"854507": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Coven of the Mirrored Hall",
-			"scorediff": 0,
-			"tddiff": 0
+			"11439080": {
+				"blocks": 2,
+				"comp": 2,
+				"name": "Vol'arth the Brazen",
+				"pass": 5,
+				"prespp": 143,
+				"rush": 2,
+				"spp": 2,
+				"turns": 9,
+				"type": "R"
+			},
+			"11807607": {
+				"blocks": 10,
+				"mvp": 1,
+				"name": "Palehawk, the Revenant",
+				"prespp": 72,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"11851618": {
+				"blocks": 9,
+				"name": "Marius, the Herald",
+				"prespp": 63,
+				"turns": 16,
+				"type": "R"
+			},
+			"11926823": {
+				"name": "Berethan, the Soulless",
+				"prespp": 36,
+				"turns": 1,
+				"type": "R"
+			},
+			"11973355": {
+				"blocks": 2,
+				"name": "Nyerahd, the Cunning",
+				"prespp": 51,
+				"turns": 16,
+				"type": "R"
+			},
+			"12072676": {
+				"name": "Good Ol' Nodens",
+				"turns": 9,
+				"type": "R"
+			},
+			"12158370": {
+				"name": "Chaugnar Faugn",
+				"turns": 1,
+				"type": "R"
+			},
+			"12243333": {
+				"name": "Tulzscha",
+				"rush": 2,
+				"turns": 5,
+				"type": "R"
+			},
+			"12325373": {
+				"fouls": 2,
+				"name": "Horok Reborn",
+				"prespp": 18,
+				"rush": 8,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12379882": {
+				"blocks": 6,
+				"name": "Jyrygaax",
+				"prespp": 52,
+				"turns": 14,
+				"type": "R"
+			},
+			"12513563": {
+				"name": "Daoloth",
+				"turns": 9,
+				"type": "R"
+			},
+			"12617944": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Vikas Darya, Nemesis",
+				"prespp": 9,
+				"rush": 5,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12727516": {
+				"blocks": 4,
+				"name": "Agares, the Harbinger",
+				"prespp": 9,
+				"turns": 12,
+				"type": "R"
+			},
+			"12902151": {
+				"name": "Young Forktongue",
+				"prespp": 6,
+				"type": "R"
+			},
+			"12989080": {
+				"name": "Mighty Aiueb Gnshal",
+				"prespp": 3,
+				"rush": 4,
+				"spp": 3,
+				"td": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"12989081": {
+				"name": "Azhorra-Tha",
+				"type": "R"
+			}
 		},
 		"896228": {
-			"cas": 0,
-			"casdiff": 0,
+			"12103149": {
+				"blocks": 6,
+				"name": "Mortarion",
+				"prespp": 39,
+				"turns": 16,
+				"type": "B"
+			},
+			"12103152": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Ku'Gath",
+				"prespp": 28,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12114193": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Omphuross",
+				"prespp": 77,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12325545": {
+				"blocks": 7,
+				"name": "Halatoth",
+				"prespp": 41,
+				"turns": 16,
+				"type": "R"
+			},
+			"12407510": {
+				"blocks": 8,
+				"mvp": 1,
+				"name": "Kraarak",
+				"prespp": 46,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12465025": {
+				"blocks": 1,
+				"name": "Pligis",
+				"prespp": 11,
+				"turns": 3,
+				"type": "R"
+			},
+			"12494315": {
+				"blocks": 1,
+				"name": "Goulbar",
+				"prespp": 6,
+				"rush": 5,
+				"turns": 11,
+				"type": "R"
+			},
+			"12533831": {
+				"blocks": 1,
+				"fouls": 6,
+				"name": "Gassious",
+				"prespp": 8,
+				"turns": 15,
+				"type": "R"
+			},
+			"12608838": {
+				"name": "Bloodscalp",
+				"turns": 1,
+				"type": "R"
+			},
+			"12696907": {
+				"blocks": 5,
+				"name": "Fungallius",
+				"prespp": 19,
+				"rush": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12712713": {
+				"blocks": 2,
+				"name": "Syphidex",
+				"prespp": 8,
+				"turns": 11,
+				"type": "R"
+			},
+			"12867525": {
+				"blocks": 1,
+				"name": "Castelnuovo Rangone III",
+				"prespp": 7,
+				"turns": 1,
+				"type": "R"
+			},
+			"12886663": {
+				"blocks": 3,
+				"name": "Malvirus",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12943572": {
+				"name": "T'ng \"Dusty\" Ammdtss",
+				"turns": 1,
+				"type": "R"
+			},
+			"12999322": {
+				"name": "Corona",
+				"rush": 23,
+				"spp": 3,
+				"td": 1,
+				"turns": 11,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1225610",
+	"team": {
+		"854507": {
+			"blocks": 41,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 2,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Coven of the Mirrored Hall",
+			"pass": 5,
+			"prespp": 462,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 21,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 149
+		},
+		"896228": {
+			"blocks": 50,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gardeners of Nurgle",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 299,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 38,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 166
 		}
 	}
 }

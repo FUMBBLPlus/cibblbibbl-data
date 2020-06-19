@@ -1,20 +1,250 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4126143",
+	"player": {
 		"922672": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Gazbag's Hunters",
-			"scorediff": 0,
-			"tddiff": 0
+			"12515846": {
+				"blocks": 5,
+				"name": "Zunker",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12515857": {
+				"blocks": 3,
+				"name": "Bellek",
+				"prespp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12519672": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Nizic",
+				"prespp": 35,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12520609": {
+				"blocks": 6,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Ikuz",
+				"prespp": 24,
+				"rush": 8,
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12520610": {
+				"blocks": 5,
+				"name": "Azid",
+				"prespp": 30,
+				"turns": 16,
+				"type": "R"
+			},
+			"12612981": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Balck",
+				"prespp": 21,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12639294": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Galzar",
+				"prespp": 23,
+				"spp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"12667985": {
+				"blocks": 1,
+				"name": "Gulben",
+				"prespp": 20,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12727816": {
+				"blocks": 3,
+				"name": "GiLLad",
+				"prespp": 23,
+				"turns": 16,
+				"type": "B"
+			},
+			"12727817": {
+				"blocks": 3,
+				"name": "Frek",
+				"prespp": 21,
+				"turns": 16,
+				"type": "R"
+			},
+			"12926926": {
+				"blocks": 8,
+				"name": "GalazarD",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12926927": {
+				"name": "Finian",
+				"type": "R"
+			},
+			"12926928": {
+				"name": "Frishel",
+				"turns": 1,
+				"type": "R"
+			}
 		},
 		"944434": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Khorne's Doombringers",
+			"12870764": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Hrozulr",
+				"prespp": 21,
+				"spp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"12870765": {
+				"blocks": 14,
+				"name": "Smod",
+				"prespp": 35,
+				"turns": 17,
+				"type": "R"
+			},
+			"12870767": {
+				"blocks": 6,
+				"name": "Kruthreisnath",
+				"prespp": 29,
+				"turns": 17,
+				"type": "R"
+			},
+			"12870769": {
+				"blocks": 2,
+				"name": "Frustrud",
+				"prespp": 19,
+				"turns": 17,
+				"type": "R"
+			},
+			"12870770": {
+				"name": "Deathbraid",
+				"turns": 1,
+				"type": "R"
+			},
+			"12870776": {
+				"blocks": 2,
+				"name": "Mazror",
+				"prespp": 18,
+				"turns": 10,
+				"type": "R"
+			},
+			"12944938": {
+				"blocks": 1,
+				"name": "Blazescar",
+				"prespp": 8,
+				"turns": 3,
+				"type": "R"
+			},
+			"12957932": {
+				"blocks": 3,
+				"name": "Steelscar",
+				"prespp": 27,
+				"rush": 18,
+				"spp": 3,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12969113": {
+				"blocks": 2,
+				"name": "Kurna'loth",
+				"prespp": 10,
+				"turns": 17,
+				"type": "R"
+			},
+			"12973976": {
+				"blocks": 1,
+				"name": "Stronghide",
+				"turns": 8,
+				"type": "R"
+			},
+			"12973989": {
+				"fouls": 1,
+				"name": "Knukzaor",
+				"turns": 10,
+				"type": "R"
+			},
+			"13001119": {
+				"blocks": 1,
+				"dead": [
+					2,
+					8,
+					"blocked",
+					"12612981"
+				],
+				"name": "Mugdhuz",
+				"turns": 8,
+				"type": "R"
+			},
+			"STAR-Bilerot Vomitflesh": {
+				"blocks": 1,
+				"name": "Bilerot Vomitflesh",
+				"turns": 10,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1225931",
+	"team": {
+		"922672": {
+			"blocks": 56,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Gazbag's Hunters",
+			"pass": 0,
+			"prespp": 224,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 27,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 167
+		},
+		"944434": {
+			"blocks": 38,
+			"cas": 1,
+			"casdiff": -3,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Khorne's Doombringers",
+			"pass": 0,
+			"prespp": 167,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 18,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 150
 		}
 	}
 }

@@ -1,20 +1,246 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4122899",
+	"player": {
 		"943192": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Subsylvanian Hypnopipers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12851288": {
+				"blocks": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Viscount Erlich Draconis",
+				"prespp": 25,
+				"spp": 7,
+				"turns": 18,
+				"type": "R"
+			},
+			"12851292": {
+				"name": "Lord Jared van der Magritta",
+				"prespp": 16,
+				"rush": 14,
+				"spp": 3,
+				"td": 1,
+				"turns": 18,
+				"type": "R"
+			},
+			"12851295": {
+				"blocks": 2,
+				"cas": 1,
+				"comp": 1,
+				"name": "Lady Monica d'Acques",
+				"pass": 1,
+				"prespp": 23,
+				"rush": 6,
+				"spp": 3,
+				"turns": 18,
+				"type": "R"
+			},
+			"12851299": {
+				"fouls": 1,
+				"name": "Hunch",
+				"prespp": 2,
+				"turns": 4,
+				"type": "R"
+			},
+			"12851300": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Scratch",
+				"prespp": 2,
+				"turns": 18,
+				"type": "R"
+			},
+			"12851302": {
+				"blocks": 2,
+				"name": "Mooch",
+				"prespp": 2,
+				"turns": 18,
+				"type": "R"
+			},
+			"12851303": {
+				"name": "Poach",
+				"retired": true,
+				"type": "R"
+			},
+			"12851304": {
+				"blocks": 1,
+				"name": "Stench",
+				"turns": 10,
+				"type": "R"
+			},
+			"12851305": {
+				"name": "Grinch",
+				"prespp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12851307": {
+				"blocks": 1,
+				"name": "Wench",
+				"turns": 4,
+				"type": "R"
+			},
+			"12851506": {
+				"blocks": 6,
+				"name": "Baron Richard von Drak",
+				"prespp": 29,
+				"rush": 13,
+				"spp": 6,
+				"td": 2,
+				"turns": 18,
+				"type": "R"
+			},
+			"12897225": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Lord Bertram Strigovich",
+				"prespp": 16,
+				"spp": 2,
+				"turns": 18,
+				"type": "R"
+			},
+			"12925346": {
+				"name": "Scrunch",
+				"turns": 10,
+				"type": "R"
+			},
+			"12979295": {
+				"fouls": 1,
+				"name": "Munch",
+				"turns": 8,
+				"type": "R"
+			}
 		},
 		"947133": {
-			"cas": 0,
-			"casdiff": 0,
+			"12914944": {
+				"blocks": 3,
+				"name": "Otto Hartwich",
+				"turns": 8,
+				"type": "R"
+			},
+			"12914945": {
+				"blocks": 2,
+				"name": "Goswin Steinhauser",
+				"prespp": 7,
+				"turns": 13,
+				"type": "R"
+			},
+			"12914946": {
+				"name": "Reinhold Höss",
+				"turns": 3,
+				"type": "R"
+			},
+			"12914947": {
+				"name": "Siegmund Felder",
+				"turns": 2,
+				"type": "R"
+			},
+			"12914948": {
+				"name": "Rayner Wittke",
+				"turns": 3,
+				"type": "R"
+			},
+			"12914950": {
+				"blocks": 1,
+				"name": "Walter Herzfeld",
+				"turns": 1,
+				"type": "R"
+			},
+			"12914951": {
+				"blocks": 12,
+				"cas": 1,
+				"name": "Conrad Einhorn",
+				"prespp": 18,
+				"rush": 8,
+				"spp": 5,
+				"td": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"12914952": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "Lord Randolf Ehrenberg",
+				"prespp": 10,
+				"spp": 5,
+				"turns": 9,
+				"type": "R"
+			},
+			"12914954": {
+				"name": "Lady Ottilia Ehrenberg",
+				"prespp": 17,
+				"type": "R"
+			},
+			"12926827": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Giddeon the Golden",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12933584": {
+				"blocks": 8,
+				"name": "Reingard the Pious",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12963817": {
+				"comp": 1,
+				"name": "Nicolete de Mousillon",
+				"pass": 1,
+				"prespp": 12,
+				"rush": 12,
+				"spp": 1,
+				"turns": 13,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1222223",
+	"team": {
+		"943192": {
+			"blocks": 30,
+			"cas": 4,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Subsylvanian Hypnopipers",
+			"pass": 1,
+			"prespp": 117,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 33,
+			"score": 3,
+			"scorediff": 2,
+			"td": 3,
+			"tddiff": 2,
+			"turns": 172
+		},
+		"947133": {
+			"blocks": 37,
+			"cas": 2,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Bleakwood Haunters",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 84,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 20,
+			"score": 1,
+			"scorediff": -2,
+			"td": 1,
+			"tddiff": -2,
+			"turns": 97
 		}
 	}
 }

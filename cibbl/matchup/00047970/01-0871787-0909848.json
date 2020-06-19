@@ -1,20 +1,268 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4122484",
+	"player": {
 		"871787": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Malignant Curators",
-			"scorediff": 0,
-			"tddiff": 0
+			"11709010": {
+				"blocks": 1,
+				"fouls": 3,
+				"name": "Dando Enda",
+				"prespp": 16,
+				"turns": 5,
+				"type": "R"
+			},
+			"11709011": {
+				"blocks": 5,
+				"name": "Raus Juit",
+				"prespp": 182,
+				"rush": 14,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"11709013": {
+				"blocks": 1,
+				"name": "Kael Desini",
+				"prespp": 44,
+				"turns": 9,
+				"type": "R"
+			},
+			"11709018": {
+				"blocks": 2,
+				"name": "Font Eiridan",
+				"prespp": 60,
+				"turns": 12,
+				"type": "R"
+			},
+			"11814852": {
+				"name": "Pantheon Bane",
+				"prespp": 134,
+				"type": "R"
+			},
+			"12051832": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Amon",
+				"prespp": 56,
+				"turns": 15,
+				"type": "B"
+			},
+			"12423015": {
+				"blocks": 1,
+				"name": "Harkon Halvarson",
+				"prespp": 70,
+				"turns": 2,
+				"type": "R"
+			},
+			"12534057": {
+				"blocks": 1,
+				"name": "Bau Lang",
+				"prespp": 8,
+				"retired": true,
+				"turns": 8,
+				"type": "R"
+			},
+			"12615329": {
+				"blocks": 7,
+				"mvp": 1,
+				"name": "Arsady the Hung",
+				"prespp": 69,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12615340": {
+				"fouls": 1,
+				"name": "Axeman",
+				"turns": 4,
+				"type": "R"
+			},
+			"12664544": {
+				"blocks": 1,
+				"name": "Herrn Alignsterne",
+				"turns": 1,
+				"type": "R"
+			},
+			"12702407": {
+				"blocks": 5,
+				"name": "Shinesa",
+				"prespp": 133,
+				"turns": 16,
+				"type": "R"
+			},
+			"12728722": {
+				"name": "Dorcas",
+				"type": "R"
+			},
+			"12895695": {
+				"fouls": 2,
+				"name": "Arnórr",
+				"prespp": 8,
+				"turns": 15,
+				"type": "R"
+			},
+			"12990356": {
+				"blocks": 2,
+				"name": "dorjak curlns",
+				"turns": 9,
+				"type": "R"
+			}
 		},
 		"909848": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Black Hearted Bloodseekers",
+			"12315757": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Lythk the Merciless",
+				"prespp": 52,
+				"spp": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"12315759": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Fleshrender",
+				"prespp": 33,
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12315761": {
+				"comp": 1,
+				"name": "Kelriz the Unforgiving",
+				"pass": 1,
+				"prespp": 63,
+				"rush": 28,
+				"spp": 4,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12315763": {
+				"fouls": 1,
+				"name": "Oxhaar the Breaker",
+				"pass": 1,
+				"rush": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12424767": {
+				"blocks": 6,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Tailslasher the Unbroken",
+				"prespp": 39,
+				"spp": 7,
+				"turns": 10,
+				"type": "R"
+			},
+			"12431645": {
+				"blocks": 5,
+				"name": "Rythaal the Malevolent",
+				"prespp": 32,
+				"turns": 15,
+				"type": "R"
+			},
+			"12492739": {
+				"name": "Abraxasz",
+				"prespp": 31,
+				"type": "R"
+			},
+			"12597222": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Carth'aaros",
+				"prespp": 3,
+				"turns": 12,
+				"type": "R"
+			},
+			"12678251": {
+				"name": "Paruudon",
+				"prespp": 2,
+				"turns": 1,
+				"type": "R"
+			},
+			"12925105": {
+				"blocks": 4,
+				"name": "Lekkir",
+				"turns": 16,
+				"type": "R"
+			},
+			"12944722": {
+				"blocks": 1,
+				"name": "Koran, Open Wounds",
+				"prespp": 2,
+				"turns": 3,
+				"type": "R"
+			},
+			"12944726": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Harak the Horned",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12955285": {
+				"blocks": 2,
+				"name": "Dhogge",
+				"turns": 9,
+				"type": "R"
+			},
+			"12955286": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Brohdd",
+				"rush": 3,
+				"turns": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1221758",
+	"team": {
+		"871787": {
+			"blocks": 28,
+			"cas": 2,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
+			"name": "Malignant Curators",
+			"pass": 0,
+			"prespp": 780,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 14,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 128
+		},
+		"909848": {
+			"blocks": 36,
+			"cas": 4,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Black Hearted Bloodseekers",
+			"pass": 2,
+			"prespp": 257,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 32,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 144
 		}
 	}
 }

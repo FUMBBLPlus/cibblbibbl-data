@@ -1,20 +1,264 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4124582",
+	"player": {
 		"923140": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Dreadpeak's Delusionals",
-			"scorediff": 0,
-			"tddiff": 0
+			"12523353": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Goongol Nonose",
+				"prespp": 16,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12523354": {
+				"name": "Wuiq Squibbler",
+				"prespp": 56,
+				"type": "R"
+			},
+			"12523356": {
+				"blocks": 6,
+				"name": "Zurt Bohurt",
+				"prespp": 9,
+				"turns": 8,
+				"type": "R"
+			},
+			"12523358": {
+				"blocks": 3,
+				"name": "Jakdikt Junckt",
+				"prespp": 22,
+				"turns": 6,
+				"type": "R"
+			},
+			"12523364": {
+				"name": "Voorsirk Smellz",
+				"prespp": 10,
+				"rush": 13,
+				"turns": 16,
+				"type": "R"
+			},
+			"12523367": {
+				"blocks": 5,
+				"name": "Vukziz Phunginus",
+				"prespp": 28,
+				"turns": 16,
+				"type": "R"
+			},
+			"12537431": {
+				"fouls": 3,
+				"name": "Deellus the Deluded",
+				"prespp": 7,
+				"turns": 3,
+				"type": "R"
+			},
+			"12637501": {
+				"blocks": 5,
+				"fouls": 1,
+				"name": "Greembo Psilocybe",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12642272": {
+				"fouls": 1,
+				"mvp": 1,
+				"name": "Krokky Crackky",
+				"prespp": 3,
+				"spp": 5,
+				"turns": 7,
+				"type": "R"
+			},
+			"12722543": {
+				"blocks": 9,
+				"name": "Zigzag Zompar",
+				"prespp": 23,
+				"turns": 16,
+				"type": "R"
+			},
+			"12870987": {
+				"blocks": 3,
+				"name": "Custer \"Eye\" Custard",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12967069": {
+				"blocks": 1,
+				"name": "AriPhinny AriDeleted",
+				"turns": 3,
+				"type": "R"
+			},
+			"12967070": {
+				"fouls": 1,
+				"name": "Zaszlurt Phart Jr.",
+				"rush": 13,
+				"turns": 10,
+				"type": "R"
+			},
+			"12989257": {
+				"name": "Woolk Splatnet",
+				"rush": 1,
+				"spp": 3,
+				"td": 1,
+				"turns": 6,
+				"type": "R"
+			},
+			"12989258": {
+				"blocks": 1,
+				"name": "Grattock Squicknet",
+				"pass": 1,
+				"rush": 4,
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"947232": {
+			"12916670": {
+				"blocks": 6,
+				"name": "Eard, the King within the Mountain",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12916671": {
+				"blocks": 3,
+				"name": "Clodgy",
+				"prespp": 13,
+				"rush": 5,
+				"turns": 13,
+				"type": "R"
+			},
+			"12916672": {
+				"name": "Gawm",
+				"turns": 8,
+				"type": "R"
+			},
+			"12916673": {
+				"blocks": 4,
+				"name": "Gubber",
+				"prespp": 12,
+				"turns": 16,
+				"type": "R"
+			},
+			"12916674": {
+				"blocks": 2,
+				"name": "Pug",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12916677": {
+				"blocks": 2,
+				"name": "Ike",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12916678": {
+				"blocks": 5,
+				"comp": 1,
+				"name": "Blæst",
+				"pass": 6,
+				"prespp": 24,
+				"rush": 17,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12916679": {
+				"blocks": 3,
+				"name": "Byre",
+				"prespp": 24,
+				"turns": 4,
+				"type": "R"
+			},
+			"12916680": {
+				"blocks": 2,
+				"name": "Brynewelm",
+				"prespp": 18,
+				"turns": 4,
+				"type": "R"
+			},
+			"12916681": {
+				"blocks": 1,
+				"name": "Estmere",
+				"turns": 6,
+				"type": "R"
+			},
+			"12916682": {
+				"blocks": 5,
+				"name": "Brim",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12920020": {
+				"blocks": 2,
+				"dead": [
+					2,
+					7,
+					"blocked",
+					"12523353"
+				],
+				"name": "Slab",
+				"turns": 6,
+				"type": "R"
+			},
+			"12931448": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Fyr-Frea",
+				"prespp": 8,
+				"spp": 5,
+				"turns": 10,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1224132",
+	"team": {
+		"923140": {
+			"blocks": 40,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
+			"name": "Dreadpeak's Delusionals",
+			"pass": 1,
+			"prespp": 191,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 31,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 155
+		},
+		"947232": {
+			"blocks": 40,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Terror-Firma",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 6,
+			"prespp": 141,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 22,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 147
 		}
 	}
 }

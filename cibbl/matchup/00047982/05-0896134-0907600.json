@@ -1,20 +1,281 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4132715",
+	"player": {
 		"896134": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Rotfall Ironworks Rocketeers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12101571": {
+				"blocks": 2,
+				"name": "Krakshot Neek",
+				"prespp": 105,
+				"rush": 14,
+				"turns": 15,
+				"type": "R"
+			},
+			"12125540": {
+				"blocks": 7,
+				"cas": 2,
+				"name": "Rabid Rocket",
+				"prespp": 81,
+				"spp": 4,
+				"turns": 10,
+				"type": "B"
+			},
+			"12489638": {
+				"blocks": 12,
+				"name": "The Iron Rat",
+				"prespp": 29,
+				"turns": 16,
+				"type": "R"
+			},
+			"12528041": {
+				"blocks": 6,
+				"name": "\"Mark Three\"",
+				"prespp": 43,
+				"turns": 14,
+				"type": "R"
+			},
+			"12528043": {
+				"blocks": 1,
+				"name": "Noxxus Blyte",
+				"prespp": 23,
+				"turns": 10,
+				"type": "R"
+			},
+			"12680045": {
+				"name": "Skrykkin",
+				"prespp": 7,
+				"turns": 1,
+				"type": "R"
+			},
+			"12870307": {
+				"fouls": 1,
+				"name": "Heeyitch",
+				"rush": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12870308": {
+				"blocks": 3,
+				"name": "Yeek-yeek",
+				"prespp": 17,
+				"turns": 13,
+				"type": "R"
+			},
+			"12870309": {
+				"name": "Itch-Skratch",
+				"type": "R"
+			},
+			"12914781": {
+				"dead": [
+					1,
+					1,
+					"fouled",
+					"12726910"
+				],
+				"name": "Week-toe",
+				"prespp": 14,
+				"turns": 1,
+				"type": "R"
+			},
+			"12929431": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Shreekin",
+				"prespp": 8,
+				"spp": 5,
+				"turns": 11,
+				"type": "R"
+			},
+			"12967893": {
+				"blocks": 1,
+				"dead": [
+					2,
+					1,
+					"blocked",
+					"12281784"
+				],
+				"name": "Vilerat Laugh-Snicker",
+				"prespp": 5,
+				"turns": 8,
+				"type": "R"
+			},
+			"12999754": {
+				"blocks": 1,
+				"name": "Master Sapper Zeyikk",
+				"retired": true,
+				"turns": 7,
+				"type": "R"
+			},
+			"12999755": {
+				"blocks": 2,
+				"name": "Trykkpaw",
+				"turns": 14,
+				"type": "R"
+			},
+			"13014629": {
+				"blocks": 1,
+				"name": "Nikkin Gluepaw",
+				"turns": 7,
+				"type": "R"
+			}
 		},
 		"907600": {
-			"cas": 0,
-			"casdiff": 0,
+			"12281777": {
+				"blocks": 11,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Qunq Madripper",
+				"prespp": 78,
+				"spp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12281778": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Qhutch Pinefingers",
+				"prespp": 84,
+				"rush": 7,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12281780": {
+				"blocks": 1,
+				"name": "Tritch Crowlasher",
+				"prespp": 61,
+				"turns": 9,
+				"type": "R"
+			},
+			"12281784": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Big-large Xelk Prideborn",
+				"prespp": 67,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12323282": {
+				"blocks": 4,
+				"dead": [
+					1,
+					7,
+					"blocked",
+					"12125540"
+				],
+				"name": "Large-Big Cresh Windcutter",
+				"prespp": 63,
+				"turns": 6,
+				"type": "R"
+			},
+			"12491279": {
+				"blocks": 3,
+				"name": "Mung Heartbender",
+				"prespp": 16,
+				"rush": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12681658": {
+				"name": "Stalk Rapidchaser",
+				"turns": 8,
+				"type": "R"
+			},
+			"12706679": {
+				"name": "Skacxit Deadsplitter",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12726910": {
+				"fouls": 2,
+				"name": "Tuk Foulpaw",
+				"prespp": 7,
+				"turns": 1,
+				"type": "R"
+			},
+			"12879019": {
+				"fouls": 1,
+				"name": "Quikyiss Scweelfang",
+				"turns": 4,
+				"type": "R"
+			},
+			"12888128": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Qheeqet Barbtaker",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12925129": {
+				"blocks": 2,
+				"name": "Thich Deepshrieker",
+				"prespp": 28,
+				"rush": 21,
+				"spp": 3,
+				"td": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"12941920": {
+				"name": "Xuch Flintmaw",
+				"turns": 1,
+				"type": "R"
+			},
+			"13055557": {
+				"blocks": 1,
+				"name": "Snuol Highblight",
+				"rush": 5,
+				"turns": 15,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1234138",
+	"team": {
+		"896134": {
+			"blocks": 39,
+			"cas": 2,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Rotfall Ironworks Rocketeers",
+			"pass": 0,
+			"prespp": 332,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 15,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 135
+		},
+		"907600": {
+			"blocks": 40,
+			"cas": 6,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Deluge-Bearers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 418,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 35,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 137
 		}
 	}
 }

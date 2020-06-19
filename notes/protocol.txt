@@ -1,0 +1,21 @@
+1. run the cache_replays script
+2. run python
+    from cibblbibbl.admin import *
+    missingkillers()
+3. check fame killer awards generated and fix matchups for healed stars
+4. check for only F teams and exclude them
+5. check dead players of the following races:
+    Daemons of Tzeentch: TODO
+    Numas: create a file for the new player in cibblbibbl-data/player
+        {
+            "prevId": "12631951",
+            "prevdeadmatchId": 4055137,
+            "prevreason": "skeletonized"
+        }
+6. check killed players by the following teams:
+    Malal: create a file for the new player in cibblbibbl-data/player
+        {
+        	"prevId": "12030024",
+        	"prevdeadmatchId": 4065840,
+        	"prevreason": "malalized"
+        }

@@ -1,20 +1,268 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4124056",
+	"player": {
 		"942428": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Nagashizzar Nightmares",
-			"scorediff": 0,
-			"tddiff": 0
+			"12839831": {
+				"blocks": 13,
+				"name": "Dorfl",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839833": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Gladys",
+				"prespp": 9,
+				"spp": 2,
+				"turns": 1,
+				"type": "R"
+			},
+			"12839840": {
+				"blocks": 1,
+				"name": "Fluffy",
+				"prespp": 32,
+				"rush": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839854": {
+				"blocks": 9,
+				"mvp": 1,
+				"name": "Iumut",
+				"prespp": 11,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839878": {
+				"blocks": 2,
+				"name": "Gashnag",
+				"pass": -1,
+				"prespp": 9,
+				"rush": 20,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12839885": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Crugeth",
+				"prespp": 4,
+				"turns": 15,
+				"type": "R"
+			},
+			"12839887": {
+				"name": "Sremar",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12839893": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Clerus",
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12925736": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Dren",
+				"turns": 10,
+				"type": "R"
+			},
+			"12925737": {
+				"dead": [
+					2,
+					7,
+					"blocked",
+					"12975724"
+				],
+				"name": "Ugrox",
+				"prespp": 1,
+				"turns": 7,
+				"type": "R"
+			},
+			"12954350": {
+				"name": "Arkhan",
+				"turns": 8,
+				"type": "R"
+			},
+			"12954351": {
+				"blocks": 1,
+				"name": "Walach",
+				"prespp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12967151": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Isetasht",
+				"prespp": 5,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12994790": {
+				"blocks": 5,
+				"name": "Rex",
+				"turns": 15,
+				"type": "R"
+			}
 		},
 		"950765": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Vanhaldenschlosse Horror",
+			"12975721": {
+				"name": "'Coffin-Dodger' Karl Offenbach",
+				"prespp": 17,
+				"type": "R"
+			},
+			"12975722": {
+				"blocks": 7,
+				"name": "Able 'Putrid' Sigulo",
+				"turns": 16,
+				"type": "R"
+			},
+			"12975723": {
+				"blocks": 11,
+				"cas": 2,
+				"mvp": 1,
+				"name": "'Moaning' Lonny Eckhart",
+				"prespp": 7,
+				"spp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975724": {
+				"blocks": 14,
+				"cas": 1,
+				"name": "'Heartless' Herman Strange",
+				"prespp": 8,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975731": {
+				"name": "Rancid Hand of Remi the Defiler",
+				"prespp": 12,
+				"rush": 5,
+				"turns": 7,
+				"type": "R"
+			},
+			"12975738": {
+				"name": "Gregori 'Fluffy' Fandango",
+				"prespp": 2,
+				"retired": true,
+				"turns": 8,
+				"type": "R"
+			},
+			"12975931": {
+				"blocks": 3,
+				"name": "Bill 'Grimmer' Ray",
+				"turns": 14,
+				"type": "R"
+			},
+			"12975934": {
+				"name": "Madgar Romero",
+				"turns": 8,
+				"type": "R"
+			},
+			"12975936": {
+				"name": "Vincent 'Shuffles' Guerrero",
+				"prespp": 7,
+				"turns": 4,
+				"type": "R"
+			},
+			"12975937": {
+				"blocks": 1,
+				"name": "'Merry' Terrence Shelley",
+				"prespp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12975942": {
+				"blocks": 4,
+				"name": "Dario 'Dead' Toro",
+				"prespp": 3,
+				"turns": 9,
+				"type": "R"
+			},
+			"12977351": {
+				"blocks": 6,
+				"name": "Edgar 'Deadwood' Edward",
+				"prespp": 8,
+				"rush": 7,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12985699": {
+				"blocks": 5,
+				"name": "Adama 'Patch' Todd",
+				"turns": 16,
+				"type": "R"
+			},
+			"RAISED-23085_12925737_12999375": {
+				"name": "Ugrox",
+				"type": "D"
+			},
+			"STAR-Hack Enslash": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Hack Enslash",
+				"turns": 3,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1223562",
+	"team": {
+		"942428": {
+			"blocks": 42,
+			"cas": 3,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Nagashizzar Nightmares",
+			"pass": -1,
+			"prespp": 91,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 27,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 155
+		},
+		"950765": {
+			"blocks": 52,
+			"cas": 4,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Vanhaldenschlosse Horror",
+			"pass": 0,
+			"prespp": 66,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 12,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 141
 		}
 	}
 }

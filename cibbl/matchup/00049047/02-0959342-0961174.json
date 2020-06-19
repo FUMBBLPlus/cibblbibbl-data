@@ -1,0 +1,248 @@
+{
+	"!excluded": "no",
+	"matchId": "4143500",
+	"player": {
+		"959342": {
+			"13091639": {
+				"blocks": 6,
+				"name": "Arach-na-Gork",
+				"turns": 16,
+				"type": "R"
+			},
+			"13091640": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Arach-na-Mork",
+				"prespp": 3,
+				"spp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"13091681": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "He-who-dwells-by-the-river",
+				"prespp": 5,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"13091683": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "Ark-az-Boum",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"13091685": {
+				"blocks": 3,
+				"name": "Ark-az-badoum",
+				"turns": 13,
+				"type": "R"
+			},
+			"13091688": {
+				"blocks": 4,
+				"name": "Ark-az-badaboum",
+				"turns": 16,
+				"type": "R"
+			},
+			"13091689": {
+				"name": "Ark-az-tadam",
+				"type": "R"
+			},
+			"13091696": {
+				"blocks": 2,
+				"name": "Arok ven",
+				"rush": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"13091699": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Arok Mi Gal",
+				"rush": 17,
+				"spp": 5,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"13091702": {
+				"fouls": 2,
+				"name": "Arok tar An Tuhl",
+				"spp": 3,
+				"td": 1,
+				"turns": 11,
+				"type": "R"
+			},
+			"13091703": {
+				"fouls": 1,
+				"name": "Arok Roka",
+				"turns": 6,
+				"type": "R"
+			},
+			"13091707": {
+				"blocks": 2,
+				"name": "Arok Veuve Noire",
+				"turns": 16,
+				"type": "R"
+			},
+			"13091716": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Arok Bav Glu",
+				"turns": 7,
+				"type": "R"
+			}
+		},
+		"961174": {
+			"13115469": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "PtrusxllG",
+				"prespp": 9,
+				"spp": 2,
+				"turns": 14,
+				"type": "B"
+			},
+			"13115657": {
+				"name": "QuixPung",
+				"type": "R"
+			},
+			"13115663": {
+				"blocks": 8,
+				"name": "Xrthlupo",
+				"turns": 16,
+				"type": "R"
+			},
+			"13115667": {
+				"blocks": 1,
+				"name": "Yojklimahl",
+				"turns": 2,
+				"type": "R"
+			},
+			"13115676": {
+				"blocks": 3,
+				"name": "Xl",
+				"turns": 16,
+				"type": "R"
+			},
+			"13115681": {
+				"blocks": 1,
+				"dead": [
+					1,
+					3,
+					"blocked",
+					"13091640"
+				],
+				"name": "Pqr",
+				"turns": 3,
+				"type": "R"
+			},
+			"13115685": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "LLg",
+				"prespp": 3,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"13115689": {
+				"blocks": 2,
+				"name": "Ptr",
+				"rush": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"13115703": {
+				"blocks": 1,
+				"name": "Ick",
+				"turns": 12,
+				"type": "R"
+			},
+			"13155731": {
+				"blocks": 1,
+				"name": "Blixl",
+				"type": "R"
+			},
+			"13155735": {
+				"blocks": 2,
+				"name": "Plick",
+				"rush": 2,
+				"turns": 9,
+				"type": "R"
+			},
+			"13155739": {
+				"blocks": 3,
+				"name": "Sylvester Hottree",
+				"retired": true,
+				"turns": 6,
+				"type": "J"
+			},
+			"STAR-Phosphor": {
+				"dead": [
+					1,
+					3,
+					"fouled",
+					"13091716"
+				],
+				"name": "Phosphor",
+				"turns": 3,
+				"type": "S"
+			},
+			"STAR-Sulphur": {
+				"fouls": 2,
+				"name": "Sulphur",
+				"turns": 9,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1248193",
+	"team": {
+		"959342": {
+			"blocks": 37,
+			"cas": 4,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
+			"name": "Arachnarok's Forest Breeds",
+			"pass": 0,
+			"prespp": 8,
+			"prestige": 30,
+			"pts": 2,
+			"r": "W",
+			"rush": 18,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 160
+		},
+		"961174": {
+			"blocks": 31,
+			"cas": 2,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "PtrusxllG Paradox of Enigmas",
+			"pass": 0,
+			"prespp": 12,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 4,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 121
+		}
+	}
+}

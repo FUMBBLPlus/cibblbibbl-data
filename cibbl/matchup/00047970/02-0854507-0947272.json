@@ -1,20 +1,275 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4125204",
+	"player": {
 		"854507": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Coven of the Mirrored Hall",
-			"scorediff": 0,
-			"tddiff": 0
+			"11439080": {
+				"blocks": 1,
+				"name": "Vol'arth the Brazen",
+				"pass": 8,
+				"prespp": 143,
+				"rush": 19,
+				"turns": 8,
+				"type": "R"
+			},
+			"11807607": {
+				"blocks": 2,
+				"name": "Palehawk, the Revenant",
+				"prespp": 72,
+				"turns": 9,
+				"type": "R"
+			},
+			"11851618": {
+				"blocks": 8,
+				"name": "Marius, the Herald",
+				"pass": 1,
+				"prespp": 63,
+				"rush": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"11926823": {
+				"blocks": 5,
+				"name": "Berethan, the Soulless",
+				"prespp": 36,
+				"turns": 11,
+				"type": "R"
+			},
+			"11973355": {
+				"blocks": 4,
+				"name": "Nyerahd, the Cunning",
+				"prespp": 51,
+				"turns": 16,
+				"type": "R"
+			},
+			"12072676": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Good Ol' Nodens",
+				"rush": 6,
+				"turns": 12,
+				"type": "R"
+			},
+			"12158370": {
+				"name": "Chaugnar Faugn",
+				"type": "R"
+			},
+			"12243333": {
+				"name": "Tulzscha",
+				"type": "R"
+			},
+			"12325373": {
+				"name": "Horok Reborn",
+				"prespp": 18,
+				"turns": 4,
+				"type": "R"
+			},
+			"12379882": {
+				"blocks": 11,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Jyrygaax",
+				"prespp": 42,
+				"rush": 7,
+				"spp": 10,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12513563": {
+				"name": "Daoloth",
+				"turns": 8,
+				"type": "R"
+			},
+			"12617944": {
+				"name": "Vikas Darya, Nemesis",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12727516": {
+				"blocks": 4,
+				"name": "Agares, the Harbinger",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12902151": {
+				"blocks": 2,
+				"name": "Young Forktongue",
+				"prespp": 6,
+				"turns": 15,
+				"type": "R"
+			},
+			"12989080": {
+				"fouls": 1,
+				"name": "Mighty Aiueb Gnshal",
+				"prespp": 3,
+				"turns": 6,
+				"type": "R"
+			},
+			"12989081": {
+				"name": "Azhorra-Tha",
+				"pass": 1,
+				"rush": 1,
+				"turns": 11,
+				"type": "R"
+			}
 		},
 		"947272": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Frederheim Renegades",
+			"12917323": {
+				"blocks": 5,
+				"name": "Lucious Darkheart",
+				"prespp": 19,
+				"turns": 11,
+				"type": "R"
+			},
+			"12917324": {
+				"name": "Flia Glamiatrix",
+				"prespp": 8,
+				"type": "R"
+			},
+			"12917325": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Jihar Demonhost",
+				"prespp": 13,
+				"rush": 3,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12917327": {
+				"name": "Courante the Eternal",
+				"prespp": 11,
+				"type": "R"
+			},
+			"12917329": {
+				"name": "Courante the Lost",
+				"type": "R"
+			},
+			"12917331": {
+				"blocks": 3,
+				"fouls": 2,
+				"name": "Shal Tearburn",
+				"prespp": 6,
+				"turns": 12,
+				"type": "R"
+			},
+			"12917333": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Arhial Soulthief",
+				"prespp": 37,
+				"rush": 22,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12917334": {
+				"name": "Glamiatrix the Flayer",
+				"turns": 3,
+				"type": "R"
+			},
+			"12917346": {
+				"blocks": 7,
+				"name": "Agrthox the Fearless",
+				"prespp": 17,
+				"turns": 9,
+				"type": "R"
+			},
+			"12946924": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Fabian Quiridian",
+				"prespp": 9,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12962867": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Noraog Greymaw",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12966515": {
+				"name": "Tugaor the Fiend",
+				"type": "R"
+			},
+			"12967548": {
+				"blocks": 4,
+				"name": "Xnogr Lashtail",
+				"turns": 9,
+				"type": "R"
+			},
+			"12988167": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Tristan Goldhammer",
+				"retired": true,
+				"turns": 10,
+				"type": "J"
+			},
+			"STAR-Bilerot Vomitflesh": {
+				"blocks": 2,
+				"name": "Bilerot Vomitflesh",
+				"turns": 8,
+				"type": "S"
+			},
+			"STAR-Dorjak Sureclaw": {
+				"name": "Dorjak Sureclaw",
+				"turns": 8,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1224842",
+	"team": {
+		"854507": {
+			"blocks": 38,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Coven of the Mirrored Hall",
+			"pass": 10,
+			"prespp": 452,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 38,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 148
+		},
+		"947272": {
+			"blocks": 47,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Frederheim Renegades",
+			"pass": 0,
+			"prespp": 122,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 25,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 134
 		}
 	}
 }

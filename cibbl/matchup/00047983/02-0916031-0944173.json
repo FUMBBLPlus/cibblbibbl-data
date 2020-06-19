@@ -1,20 +1,232 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4123222",
+	"player": {
 		"916031": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Gorthor's Prophets Of Mork",
-			"scorediff": 0,
-			"tddiff": 0
+			"12413275": {
+				"blocks": 1,
+				"name": "Head Stompa",
+				"prespp": 90,
+				"rush": 42,
+				"turns": 16,
+				"type": "R"
+			},
+			"12426039": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Nose Snippa",
+				"prespp": 65,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12577257": {
+				"blocks": 3,
+				"name": "Nail Bita",
+				"prespp": 52,
+				"rush": 15,
+				"spp": 9,
+				"td": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12694017": {
+				"blocks": 7,
+				"cas": 3,
+				"name": "Heel Slappa",
+				"prespp": 61,
+				"spp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12715867": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Fibula Muncher",
+				"prespp": 17,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12900821": {
+				"blocks": 3,
+				"name": "Ankle Gnawer",
+				"turns": 4,
+				"type": "R"
+			},
+			"12966558": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Hroght",
+				"prespp": 7,
+				"spp": 5,
+				"turns": 16,
+				"type": "B"
+			},
+			"12990415": {
+				"name": "Nicholas Hotstone",
+				"retired": true,
+				"turns": 16,
+				"type": "J"
+			},
+			"12990416": {
+				"name": "Brian Weakstone",
+				"retired": true,
+				"turns": 16,
+				"type": "J"
+			},
+			"12990417": {
+				"name": "David Fastwing",
+				"retired": true,
+				"turns": 16,
+				"type": "J"
+			},
+			"12990418": {
+				"blocks": 1,
+				"name": "Graham Clumsyorc",
+				"retired": true,
+				"turns": 16,
+				"type": "J"
+			}
 		},
 		"944173": {
-			"cas": 0,
-			"casdiff": 0,
+			"12866375": {
+				"blocks": 7,
+				"comp": 1,
+				"name": "Tlaloci",
+				"pass": 1,
+				"prespp": 20,
+				"rush": 6,
+				"spp": 1,
+				"turns": 12,
+				"type": "R"
+			},
+			"12866376": {
+				"blocks": 4,
+				"name": "Chalchi",
+				"pass": 1,
+				"prespp": 16,
+				"rush": 15,
+				"turns": 11,
+				"type": "R"
+			},
+			"12866378": {
+				"name": "Xipi",
+				"type": "R"
+			},
+			"12866380": {
+				"blocks": 2,
+				"name": "Epunamuni",
+				"turns": 16,
+				"type": "R"
+			},
+			"12866381": {
+				"name": "Anchi",
+				"prespp": 7,
+				"rush": 10,
+				"spp": 3,
+				"td": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12866382": {
+				"name": "Ochosi",
+				"prespp": 12,
+				"turns": 3,
+				"type": "R"
+			},
+			"12866383": {
+				"name": "Oguni",
+				"prespp": 20,
+				"turns": 12,
+				"type": "R"
+			},
+			"12866384": {
+				"blocks": 7,
+				"name": "Darbi",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12866385": {
+				"blocks": 6,
+				"name": "Peet",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12925349": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Shay",
+				"prespp": 9,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12965557": {
+				"name": "Gamabi",
+				"prespp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12985472": {
+				"blocks": 2,
+				"name": "Meeka",
+				"turns": 10,
+				"type": "R"
+			},
+			"STAR-Helmut Wulf": {
+				"fouls": 1,
+				"name": "Helmut Wulf",
+				"turns": 4,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1222601",
+	"team": {
+		"916031": {
+			"blocks": 31,
+			"cas": 5,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Gorthor's Prophets Of Mork",
+			"pass": 0,
+			"prespp": 292,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 57,
+			"score": 3,
+			"scorediff": 2,
+			"td": 3,
+			"tddiff": 2,
+			"turns": 164
+		},
+		"944173": {
+			"blocks": 33,
+			"cas": 1,
+			"casdiff": -4,
+			"comp": 1,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cuexotl Jungle Daggers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 2,
+			"prespp": 122,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 31,
+			"score": 1,
+			"scorediff": -2,
+			"td": 1,
+			"tddiff": -2,
+			"turns": 140
 		}
 	}
 }

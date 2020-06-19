@@ -1,20 +1,243 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4122055",
+	"player": {
 		"931222": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Pride of Lybaras",
-			"scorediff": 0,
-			"tddiff": 0
+			"12658373": {
+				"blocks": 5,
+				"name": "Ochiph",
+				"prespp": 13,
+				"turns": 16,
+				"type": "R"
+			},
+			"12658375": {
+				"blocks": 1,
+				"name": "Hakiph",
+				"turns": 8,
+				"type": "R"
+			},
+			"12658376": {
+				"blocks": 5,
+				"name": "Nosophonb",
+				"turns": 16,
+				"type": "R"
+			},
+			"12658377": {
+				"name": "Sectochar",
+				"type": "R"
+			},
+			"12658378": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Wondrous Hezibi",
+				"prespp": 17,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12658381": {
+				"blocks": 10,
+				"mvp": 1,
+				"name": "Tremendous Bostesi",
+				"prespp": 22,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12658382": {
+				"blocks": 6,
+				"name": "Monumental Makof",
+				"prespp": 13,
+				"turns": 16,
+				"type": "B"
+			},
+			"12658383": {
+				"blocks": 4,
+				"name": "Repthosheph",
+				"prespp": 9,
+				"retired": true,
+				"turns": 12,
+				"type": "R"
+			},
+			"12714822": {
+				"blocks": 4,
+				"name": "Sumptuous Thikha",
+				"prespp": 26,
+				"turns": 13,
+				"type": "R"
+			},
+			"12872697": {
+				"blocks": 2,
+				"name": "Fabulous Pemkheza",
+				"prespp": 16,
+				"rush": 27,
+				"spp": 3,
+				"td": 1,
+				"turns": 11,
+				"type": "R"
+			},
+			"12889950": {
+				"blocks": 1,
+				"name": "Tepho",
+				"turns": 4,
+				"type": "R"
+			},
+			"12912439": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Hopokom The Temerarious",
+				"turns": 8,
+				"type": "R"
+			},
+			"12937156": {
+				"blocks": 1,
+				"name": "Fosokh",
+				"turns": 8,
+				"type": "R"
+			},
+			"12968034": {
+				"blocks": 1,
+				"name": "Terseh The Unhinged",
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"947184": {
-			"cas": 0,
-			"casdiff": 0,
+			"12915751": {
+				"blocks": 2,
+				"name": "Sobhis Ahmat",
+				"prespp": 10,
+				"turns": 11,
+				"type": "R"
+			},
+			"12915753": {
+				"blocks": 9,
+				"name": "Luxro Sethat",
+				"turns": 16,
+				"type": "R"
+			},
+			"12915755": {
+				"blocks": 2,
+				"name": "Isetasht Heror",
+				"prespp": 7,
+				"turns": 7,
+				"type": "R"
+			},
+			"12915756": {
+				"blocks": 6,
+				"name": "Saayt Heror",
+				"prespp": 15,
+				"rush": 10,
+				"turns": 15,
+				"type": "R"
+			},
+			"12915757": {
+				"blocks": 5,
+				"name": "Sebhor Inepes",
+				"prespp": 24,
+				"rush": 14,
+				"turns": 16,
+				"type": "R"
+			},
+			"12915765": {
+				"name": "Gensa Iuhe",
+				"prespp": 3,
+				"retired": true,
+				"turns": 10,
+				"type": "R"
+			},
+			"12915768": {
+				"blocks": 5,
+				"name": "Apheb Hethat",
+				"prespp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12915782": {
+				"blocks": 2,
+				"name": "Neshirkeosh Heqmut",
+				"prespp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12915816": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Khojupet Takhra",
+				"prespp": 13,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12915817": {
+				"name": "Esemhe Hapath",
+				"prespp": 2,
+				"turns": 7,
+				"type": "R"
+			},
+			"12925191": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Genten Apokis",
+				"prespp": 23,
+				"spp": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"12957943": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Tabashimen Iumut",
+				"prespp": 17,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1221231",
+	"team": {
+		"931222": {
+			"blocks": 45,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Pride of Lybaras",
+			"pass": 0,
+			"prespp": 116,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 27,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 160
+		},
+		"947184": {
+			"blocks": 52,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Charnel Valley Ouroboros",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 118,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 24,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 143
 		}
 	}
 }

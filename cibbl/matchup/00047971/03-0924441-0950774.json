@@ -1,20 +1,248 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4124984",
+	"player": {
 		"924441": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Zharrduk Hellcannons",
-			"scorediff": 0,
-			"tddiff": 0
+			"12545817": {
+				"blocks": 5,
+				"name": "Uzth ‘the Anvil’  Oreglair",
+				"prespp": 63,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545818": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Vikgon ‘the Boar’ Steelfire",
+				"prespp": 47,
+				"spp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"12545866": {
+				"blocks": 8,
+				"name": "Mordohz ‘the Ripper’ Goretongue",
+				"prespp": 46,
+				"turns": 11,
+				"type": "R"
+			},
+			"12545912": {
+				"blocks": 1,
+				"name": "Sindharr ‘the Charred’ Stormback",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545915": {
+				"comp": 1,
+				"mvp": 1,
+				"name": "Morgir ‘Mad Eye’ Ashcarver",
+				"pass": 10,
+				"prespp": 42,
+				"rush": 21,
+				"spp": 9,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545919": {
+				"blocks": 4,
+				"name": "Zyorth Blackhammer",
+				"prespp": 24,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545934": {
+				"blocks": 3,
+				"name": "Glazgoth Magmabeard",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"12545937": {
+				"blocks": 3,
+				"name": "Fharbaknul Sootstriker",
+				"prespp": 9,
+				"turns": 10,
+				"type": "R"
+			},
+			"12581129": {
+				"name": "Fhargrund Bronzefist",
+				"prespp": 18,
+				"retired": true,
+				"type": "R"
+			},
+			"12896181": {
+				"blocks": 3,
+				"name": "Ekhar Hellwhip",
+				"prespp": 2,
+				"turns": 7,
+				"type": "R"
+			},
+			"12896182": {
+				"blocks": 2,
+				"dead": [
+					1,
+					8,
+					"blocked",
+					"STAR-Hthark the Unstoppable"
+				],
+				"name": "Tagoth 'the biter' Darktooth",
+				"prespp": 5,
+				"turns": 8,
+				"type": "R"
+			},
+			"12918712": {
+				"blocks": 5,
+				"name": "Kargoth Smokefuse",
+				"turns": 16,
+				"type": "R"
+			},
+			"12929650": {
+				"fouls": 3,
+				"name": "Gontash Demonhoof",
+				"turns": 8,
+				"type": "R"
+			}
 		},
 		"950774": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Flamemasters of Zhurr",
+			"12975788": {
+				"name": "Gnytaazz Smalbut",
+				"type": "R"
+			},
+			"12975789": {
+				"name": "Vriomzart Bentoe",
+				"turns": 1,
+				"type": "R"
+			},
+			"12975790": {
+				"comp": 1,
+				"name": "Krubzaag Eagereater",
+				"pass": 3,
+				"rush": 23,
+				"spp": 4,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12975791": {
+				"blocks": 1,
+				"fouls": 3,
+				"name": "Sliirk Redcheater",
+				"turns": 9,
+				"type": "R"
+			},
+			"12975796": {
+				"blocks": 4,
+				"name": "G'kak Doomwound",
+				"turns": 16,
+				"type": "R"
+			},
+			"12975797": {
+				"blocks": 4,
+				"fouls": 1,
+				"name": "Bhalgrakh Hellhammer",
+				"turns": 13,
+				"type": "R"
+			},
+			"12975799": {
+				"blocks": 4,
+				"name": "Ezharr Cinderhoof",
+				"prespp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"12975800": {
+				"blocks": 3,
+				"fouls": 2,
+				"name": "Glazkatur Cinderhammer",
+				"prespp": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"12975801": {
+				"blocks": 5,
+				"cas": 1,
+				"fouls": 1,
+				"mvp": 1,
+				"name": "Tharkhorth Burnblaster",
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975802": {
+				"blocks": 5,
+				"name": "Darkhorth Dreadwhip",
+				"turns": 16,
+				"type": "R"
+			},
+			"12975809": {
+				"blocks": 4,
+				"name": "Ryrhak Rockhoof",
+				"prespp": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12993669": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Khoanuk Greycleaver",
+				"turns": 16,
+				"type": "R"
+			},
+			"STAR-Hthark the Unstoppable": {
+				"blocks": 12,
+				"cas": 1,
+				"name": "Hthark the Unstoppable",
+				"spp": 2,
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1224596",
+	"team": {
+		"924441": {
+			"blocks": 38,
+			"cas": 1,
+			"casdiff": -3,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Zharrduk Hellcannons",
+			"pass": 10,
+			"prespp": 296,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 21,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 152
+		},
+		"950774": {
+			"blocks": 45,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 1,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
+			"name": "Flamemasters of Zhurr",
+			"pass": 3,
+			"prespp": 10,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 23,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 155
 		}
 	}
 }

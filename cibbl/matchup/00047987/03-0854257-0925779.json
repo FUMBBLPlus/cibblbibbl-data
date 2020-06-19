@@ -1,20 +1,252 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4141456",
+	"player": {
 		"854257": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Grand Celestial Delegate",
-			"scorediff": 0,
-			"tddiff": 0
+			"11432424": {
+				"name": "After the Lotus Flowers Have Opened",
+				"prespp": 198,
+				"type": "R"
+			},
+			"11565341": {
+				"blocks": 5,
+				"name": "Sorrowfully An Ape Calls",
+				"prespp": 67,
+				"turns": 14,
+				"type": "R"
+			},
+			"11959633": {
+				"blocks": 1,
+				"cas": 1,
+				"fouls": 3,
+				"name": "Gnaw the Books",
+				"prespp": 9,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12248635": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Wild Herbs",
+				"prespp": 34,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12448596": {
+				"blocks": 3,
+				"comp": 1,
+				"name": "Moist Like Butter",
+				"pass": 1,
+				"prespp": 35,
+				"rush": 16,
+				"spp": 4,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12462496": {
+				"blocks": 5,
+				"cas": 2,
+				"name": "White Feathers On The Water",
+				"prespp": 22,
+				"spp": 4,
+				"turns": 15,
+				"type": "R"
+			},
+			"12510953": {
+				"blocks": 1,
+				"name": "Temple Tree Path",
+				"prespp": 9,
+				"rush": 6,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"12630692": {
+				"blocks": 3,
+				"name": "Still Snow at Dawn",
+				"prespp": 26,
+				"turns": 15,
+				"type": "R"
+			},
+			"12670897": {
+				"blocks": 3,
+				"name": "Walk Amidst the Corn",
+				"prespp": 8,
+				"turns": 15,
+				"type": "R"
+			},
+			"12873671": {
+				"blocks": 2,
+				"name": "Stone Lotus",
+				"prespp": 18,
+				"rush": 1,
+				"turns": 15,
+				"type": "B"
+			},
+			"12883759": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Dance of Discipline in Dreams",
+				"prespp": 5,
+				"spp": 2,
+				"turns": 2,
+				"type": "R"
+			},
+			"12938142": {
+				"name": "Spark of Stillness",
+				"type": "R"
+			},
+			"12998965": {
+				"blocks": 2,
+				"name": "Sleeping Frog, Crouching Cat",
+				"rush": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"13007618": {
+				"mvp": 1,
+				"name": "Vortex of Being",
+				"rush": 11,
+				"spp": 8,
+				"td": 1,
+				"turns": 11,
+				"type": "R"
+			}
 		},
 		"925779": {
+			"12566452": {
+				"blocks": 2,
+				"name": "Shulindi Calam",
+				"prespp": 20,
+				"turns": 6,
+				"type": "R"
+			},
+			"12566454": {
+				"blocks": 6,
+				"name": "Asanti Mahaa",
+				"prespp": 44,
+				"turns": 16,
+				"type": "R"
+			},
+			"12566455": {
+				"blocks": 4,
+				"name": "Rulinkie Gishama",
+				"prespp": 14,
+				"turns": 16,
+				"type": "R"
+			},
+			"12566457": {
+				"blocks": 1,
+				"name": "Xsa Tu",
+				"prespp": 32,
+				"turns": 2,
+				"type": "R"
+			},
+			"12566462": {
+				"dead": [
+					1,
+					1,
+					"blocked",
+					"11959633"
+				],
+				"name": "Slitchi Papapa",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12686039": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Xi Tsu",
+				"prespp": 42,
+				"rush": 16,
+				"spp": 5,
+				"turns": 10,
+				"type": "R"
+			},
+			"12686040": {
+				"blocks": 1,
+				"name": "Tong Pla",
+				"turns": 7,
+				"type": "R"
+			},
+			"12898116": {
+				"blocks": 2,
+				"name": "Stycl Xii",
+				"turns": 16,
+				"type": "R"
+			},
+			"12905878": {
+				"blocks": 3,
+				"name": "Tsi Tso",
+				"turns": 10,
+				"type": "R"
+			},
+			"12933434": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Santi Fi",
+				"turns": 11,
+				"type": "R"
+			},
+			"12933437": {
+				"name": "Xi Xi Xi",
+				"turns": 1,
+				"type": "R"
+			},
+			"13147799": {
+				"name": "Shabbu",
+				"turns": 10,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1245598",
+	"team": {
+		"854257": {
+			"blocks": 29,
+			"cas": 5,
+			"casdiff": 5,
+			"comp": 1,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Grand Celestial Delegate",
+			"pass": 1,
+			"prespp": 431,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 39,
+			"score": 3,
+			"scorediff": 3,
+			"td": 3,
+			"tddiff": 3,
+			"turns": 162
+		},
+		"925779": {
+			"blocks": 21,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -5,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Divine Sun",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 159,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 16,
+			"score": 0,
+			"scorediff": -3,
+			"td": 0,
+			"tddiff": -3,
+			"turns": 105
 		}
 	}
 }

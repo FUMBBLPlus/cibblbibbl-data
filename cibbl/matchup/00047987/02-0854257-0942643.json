@@ -1,20 +1,265 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4125626",
+	"player": {
 		"854257": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Grand Celestial Delegate",
-			"scorediff": 0,
-			"tddiff": 0
+			"11432424": {
+				"blocks": 10,
+				"comp": 1,
+				"name": "After the Lotus Flowers Have Opened",
+				"pass": -1,
+				"prespp": 197,
+				"rush": 4,
+				"spp": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"11565341": {
+				"blocks": 5,
+				"name": "Sorrowfully An Ape Calls",
+				"prespp": 67,
+				"turns": 15,
+				"type": "R"
+			},
+			"11959633": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Gnaw the Books",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12248635": {
+				"blocks": 5,
+				"name": "Wild Herbs",
+				"prespp": 34,
+				"turns": 13,
+				"type": "R"
+			},
+			"12448596": {
+				"blocks": 2,
+				"name": "Moist Like Butter",
+				"prespp": 35,
+				"rush": 19,
+				"turns": 15,
+				"type": "R"
+			},
+			"12462496": {
+				"blocks": 6,
+				"name": "White Feathers On The Water",
+				"prespp": 22,
+				"turns": 16,
+				"type": "R"
+			},
+			"12510953": {
+				"name": "Temple Tree Path",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12630692": {
+				"blocks": 9,
+				"name": "Still Snow at Dawn",
+				"prespp": 23,
+				"rush": 6,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12670897": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Walk Amidst the Corn",
+				"prespp": 6,
+				"spp": 2,
+				"turns": 9,
+				"type": "R"
+			},
+			"12873671": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Stone Lotus",
+				"prespp": 16,
+				"spp": 2,
+				"turns": 13,
+				"type": "B"
+			},
+			"12883759": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Dance of Discipline in Dreams",
+				"spp": 5,
+				"turns": 11,
+				"type": "R"
+			},
+			"12938139": {
+				"name": "Frog Carrying A Lantern",
+				"retired": true,
+				"turns": 2,
+				"type": "R"
+			},
+			"12938142": {
+				"blocks": 1,
+				"name": "Spark of Stillness",
+				"turns": 4,
+				"type": "R"
+			},
+			"12998965": {
+				"blocks": 2,
+				"name": "Sleeping Frog, Crouching Cat",
+				"rush": 4,
+				"turns": 6,
+				"type": "R"
+			}
 		},
 		"942643": {
-			"cas": 0,
-			"casdiff": 0,
+			"12842984": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Hattori Oni no Hanzo",
+				"prespp": 33,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12842985": {
+				"blocks": 9,
+				"name": "Hakuho Sho Yokozunas",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12842987": {
+				"blocks": 5,
+				"name": "Futabayama Sadaji Yokozunas",
+				"prespp": 18,
+				"turns": 14,
+				"type": "R"
+			},
+			"12842988": {
+				"blocks": 2,
+				"name": "Date Masamune",
+				"prespp": 11,
+				"turns": 14,
+				"type": "R"
+			},
+			"12842990": {
+				"blocks": 9,
+				"name": "Minamoto no Yoshitsune",
+				"pass": -1,
+				"prespp": 11,
+				"turns": 14,
+				"type": "R"
+			},
+			"12842991": {
+				"blocks": 3,
+				"name": "Dom Justo Takayama",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12842992": {
+				"name": "Takeda Nobushige",
+				"prespp": 9,
+				"turns": 9,
+				"type": "R"
+			},
+			"12842993": {
+				"blocks": 3,
+				"name": "Mori Ranmaru",
+				"prespp": 8,
+				"turns": 14,
+				"type": "R"
+			},
+			"12843000": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Sanda Yakimura",
+				"prespp": 11,
+				"spp": 5,
+				"turns": 14,
+				"type": "R"
+			},
+			"12843001": {
+				"dead": [
+					1,
+					7,
+					"blocked",
+					"12670897"
+				],
+				"name": "Keiji Maeda",
+				"prespp": 10,
+				"turns": 6,
+				"type": "R"
+			},
+			"12870358": {
+				"blocks": 3,
+				"name": "Toyotomi Hideyoshi",
+				"prespp": 25,
+				"rush": 26,
+				"spp": 6,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12970338": {
+				"blocks": 2,
+				"name": "Goto Mototsugu",
+				"turns": 8,
+				"type": "R"
+			},
+			"12984166": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Hojo Ujimasa",
+				"turns": 2,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1225325",
+	"team": {
+		"854257": {
+			"blocks": 52,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Grand Celestial Delegate",
+			"pass": -1,
+			"prespp": 418,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 33,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 149
+		},
+		"942643": {
+			"blocks": 49,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rōnin Reborn",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": -1,
+			"prespp": 161,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 26,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 159
 		}
 	}
 }

@@ -1,20 +1,268 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4131943",
+	"player": {
 		"947133": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Bleakwood Haunters",
-			"scorediff": 0,
-			"tddiff": 0
+			"12914944": {
+				"blocks": 1,
+				"name": "Otto Hartwich",
+				"turns": 10,
+				"type": "R"
+			},
+			"12914945": {
+				"blocks": 3,
+				"name": "Goswin Steinhauser",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12914946": {
+				"blocks": 2,
+				"name": "Reinhold Höss",
+				"turns": 16,
+				"type": "R"
+			},
+			"12914948": {
+				"blocks": 1,
+				"name": "Rayner Wittke",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12914950": {
+				"dead": [
+					1,
+					8,
+					"fouled",
+					"12999375"
+				],
+				"name": "Walter Herzfeld",
+				"turns": 1,
+				"type": "R"
+			},
+			"12914951": {
+				"blocks": 11,
+				"name": "Conrad Einhorn",
+				"prespp": 28,
+				"turns": 16,
+				"type": "R"
+			},
+			"12914952": {
+				"blocks": 9,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Lord Randolf Ehrenberg",
+				"prespp": 22,
+				"rush": -2,
+				"spp": 7,
+				"turns": 11,
+				"type": "R"
+			},
+			"12914954": {
+				"blocks": 1,
+				"name": "Lady Ottilia Ehrenberg",
+				"prespp": 29,
+				"rush": 9,
+				"spp": 3,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12926827": {
+				"blocks": 2,
+				"name": "Giddeon the Golden",
+				"prespp": 6,
+				"turns": 11,
+				"type": "R"
+			},
+			"12933584": {
+				"blocks": 5,
+				"name": "Reingard the Pious",
+				"prespp": 18,
+				"rush": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"12963817": {
+				"comp": 1,
+				"name": "Nicolete de Mousillon",
+				"pass": 3,
+				"prespp": 20,
+				"rush": 4,
+				"spp": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12993633": {
+				"blocks": 3,
+				"name": "Arcanius Niculescu",
+				"turns": 16,
+				"type": "R"
+			},
+			"13056604": {
+				"name": "Werner Buchheim",
+				"turns": 1,
+				"type": "R"
+			}
 		},
 		"950765": {
-			"cas": 0,
-			"casdiff": 0,
+			"12975721": {
+				"blocks": 7,
+				"name": "'Coffin-Dodger' Karl Offenbach",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975722": {
+				"dead": [
+					1,
+					2,
+					"blocked",
+					"12914952"
+				],
+				"name": "Able 'Putrid' Sigulo",
+				"turns": 2,
+				"type": "R"
+			},
+			"12975723": {
+				"blocks": 6,
+				"name": "'Moaning' Lonny Eckhart",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975724": {
+				"blocks": 5,
+				"name": "'Heartless' Herman Strange",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975931": {
+				"name": "Bill 'Grimmer' Ray",
+				"turns": 10,
+				"type": "R"
+			},
+			"12975934": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Madgar Romero",
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12975936": {
+				"fouls": 4,
+				"name": "Vincent 'Shuffles' Guerrero",
+				"prespp": 9,
+				"turns": 4,
+				"type": "R"
+			},
+			"12975937": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "'Merry' Terrence Shelley",
+				"prespp": 7,
+				"rush": 3,
+				"turns": 10,
+				"type": "R"
+			},
+			"12975942": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Dario 'Dead' Toro",
+				"prespp": 6,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12977351": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Edgar 'Deadwood' Edward",
+				"prespp": 11,
+				"rush": 3,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12999375": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Ugrox",
+				"prespp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12999378": {
+				"blocks": 4,
+				"name": "'Grimm' Walker Romero",
+				"turns": 16,
+				"type": "R"
+			},
+			"13061621": {
+				"dead": [
+					1,
+					4,
+					"dodgeFail",
+					null
+				],
+				"name": "Ed 'The Hand' Edmonds",
+				"rush": -2,
+				"turns": 3,
+				"type": "R"
+			},
+			"STAR-Sunken Sullivan": {
+				"blocks": 5,
+				"name": "Sunken Sullivan",
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1233133",
+	"team": {
+		"947133": {
+			"blocks": 38,
+			"cas": 1,
+			"casdiff": -3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Bleakwood Haunters",
+			"pass": 3,
+			"prespp": 137,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 19,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 154
+		},
+		"950765": {
+			"blocks": 41,
+			"cas": 4,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Vanhaldenschlosse Horror",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 90,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 4,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 167
 		}
 	}
 }

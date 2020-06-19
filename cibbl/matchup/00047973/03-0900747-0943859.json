@@ -1,20 +1,285 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4126089",
+	"player": {
 		"900747": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Black Monolith Worshippers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12173110": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Stonemuncher the Ancient",
+				"prespp": 39,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12173151": {
+				"blocks": 3,
+				"name": "Hrkas Prouddeath",
+				"prespp": 25,
+				"turns": 16,
+				"type": "R"
+			},
+			"12173155": {
+				"blocks": 14,
+				"cas": 1,
+				"name": "Frazsa Grimhand",
+				"prespp": 106,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12296160": {
+				"blocks": 6,
+				"name": "Krank Cracker",
+				"prespp": 40,
+				"rush": 4,
+				"turns": 16,
+				"type": "B"
+			},
+			"12399357": {
+				"blocks": 1,
+				"name": "Orja Coldless",
+				"prespp": 29,
+				"turns": 4,
+				"type": "R"
+			},
+			"12399363": {
+				"name": "Squishy Bob",
+				"prespp": 21,
+				"rush": 1,
+				"turns": 1,
+				"type": "R"
+			},
+			"12450012": {
+				"name": "Spliff Skyrim",
+				"prespp": 4,
+				"turns": 8,
+				"type": "R"
+			},
+			"12552414": {
+				"blocks": 1,
+				"name": "Uhras the Fearless",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"12581846": {
+				"blocks": 1,
+				"name": "Eldras the crowned",
+				"prespp": 50,
+				"rush": 17,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12581848": {
+				"dead": [
+					1,
+					1,
+					"blocked",
+					"STAR-Grig Per'th"
+				],
+				"name": "Craig Ratskin",
+				"prespp": 11,
+				"type": "R"
+			},
+			"12673210": {
+				"name": "Rsha Stomper",
+				"prespp": 37,
+				"type": "B"
+			},
+			"12714281": {
+				"blocks": 3,
+				"dead": [
+					2,
+					7,
+					"blocked",
+					"12861564"
+				],
+				"name": "Griff the Stoned",
+				"prespp": 2,
+				"turns": 7,
+				"type": "R"
+			},
+			"12872915": {
+				"mvp": 1,
+				"name": "Tarik the Haunted",
+				"prespp": 3,
+				"spp": 5,
+				"turns": 8,
+				"type": "R"
+			},
+			"12925099": {
+				"name": "Jean Observed",
+				"turns": 4,
+				"type": "R"
+			},
+			"13010330": {
+				"blocks": 2,
+				"name": "Charle Ironfist",
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"943859": {
-			"cas": 0,
-			"casdiff": 0,
+			"12861560": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Molgroth Ironskin",
+				"prespp": 26,
+				"spp": 5,
+				"turns": 12,
+				"type": "R"
+			},
+			"12861564": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Gnarth Yug-N'urth",
+				"prespp": 42,
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"12861565": {
+				"name": "Gnok Bootlicker",
+				"prespp": 11,
+				"type": "R"
+			},
+			"12861570": {
+				"blocks": 2,
+				"name": "Tukrask Krick",
+				"pass": 1,
+				"prespp": 14,
+				"rush": 3,
+				"turns": 14,
+				"type": "R"
+			},
+			"12861571": {
+				"name": "K'tik Kul-P'lut",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12928400": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Ramon Thunderguts",
+				"prespp": 14,
+				"rush": 6,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12999497": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Richard Grottyhammer",
+				"retired": true,
+				"turns": 7,
+				"type": "J"
+			},
+			"12999498": {
+				"name": "Fredrick Weaklightning",
+				"retired": true,
+				"turns": 4,
+				"type": "J"
+			},
+			"12999499": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Sylvester Paletree",
+				"retired": true,
+				"turns": 14,
+				"type": "J"
+			},
+			"12999500": {
+				"name": "Nicholas Strongshield",
+				"retired": true,
+				"turns": 4,
+				"type": "J"
+			},
+			"12999501": {
+				"dead": [
+					2,
+					4,
+					"dodgeFail",
+					null
+				],
+				"name": "Trey Weakbone",
+				"turns": 3,
+				"type": "J"
+			},
+			"12999502": {
+				"fouls": 1,
+				"name": "Tristan Goldfield",
+				"retired": true,
+				"type": "J"
+			},
+			"STAR-Grig Per'th": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Grig Per'th",
+				"spp": 2,
+				"turns": 16,
+				"type": "S"
+			},
+			"STAR-Grotty": {
+				"name": "Grotty",
+				"rush": 23,
+				"turns": 16,
+				"type": "S"
+			},
+			"STAR-Schworg'n'Borg": {
+				"blocks": 10,
+				"name": "Schworg'n'Borg",
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1225857",
+	"team": {
+		"900747": {
+			"blocks": 38,
+			"cas": 2,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Black Monolith Worshippers",
+			"pass": 0,
+			"prespp": 387,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 22,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 144
+		},
+		"943859": {
+			"blocks": 44,
+			"cas": 4,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Mountains of Mourn Tyrants",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 109,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 32,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 132
 		}
 	}
 }

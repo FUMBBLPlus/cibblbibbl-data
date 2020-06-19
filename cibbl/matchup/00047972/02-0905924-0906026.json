@@ -1,20 +1,258 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4124006",
+	"player": {
 		"905924": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Squill's Squig Pitt",
-			"scorediff": 0,
-			"tddiff": 0
+			"12254402": {
+				"name": "Spook",
+				"prespp": 32,
+				"type": "B"
+			},
+			"12263755": {
+				"name": "Gizmo The Gambler",
+				"pass": 1,
+				"prespp": 9,
+				"rush": 5,
+				"turns": 11,
+				"type": "R"
+			},
+			"12268727": {
+				"blocks": 8,
+				"name": "Redbone",
+				"prespp": 118,
+				"rush": 11,
+				"turns": 11,
+				"type": "R"
+			},
+			"12528884": {
+				"name": "Angron",
+				"prespp": 23,
+				"turns": 5,
+				"type": "R"
+			},
+			"12547748": {
+				"blocks": 6,
+				"name": "Wrex",
+				"prespp": 38,
+				"turns": 16,
+				"type": "R"
+			},
+			"12595120": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Grub The Inedible",
+				"turns": 14,
+				"type": "R"
+			},
+			"12622816": {
+				"name": "Oddgit",
+				"type": "R"
+			},
+			"12636263": {
+				"blocks": 2,
+				"name": "Skweegus Da Trapper",
+				"prespp": 3,
+				"rush": 4,
+				"spp": 3,
+				"td": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12691858": {
+				"name": "Glowgob",
+				"turns": 8,
+				"type": "R"
+			},
+			"12720683": {
+				"name": "Morskul Da Headstompa",
+				"type": "R"
+			},
+			"12878038": {
+				"name": "Chip Booz",
+				"turns": 8,
+				"type": "R"
+			},
+			"12924883": {
+				"name": "Azkul Darklighter",
+				"turns": 7,
+				"type": "R"
+			},
+			"12993388": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Skorfang",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"STAR-Bomber Dribblesnot": {
+				"blocks": 1,
+				"name": "Bomber Dribblesnot",
+				"turns": 3,
+				"type": "S"
+			},
+			"STAR-Swingin' Willy": {
+				"blocks": 1,
+				"name": "Swingin' Willy",
+				"turns": 1,
+				"type": "S"
+			}
 		},
 		"906026": {
+			"12411917": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Angry",
+				"prespp": 55,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12492987": {
+				"mvp": 1,
+				"name": "Urdin",
+				"prespp": 12,
+				"spp": 5,
+				"turns": 1,
+				"type": "R"
+			},
+			"12504901": {
+				"fouls": 1,
+				"name": "Tristan Hotwing",
+				"prespp": 7,
+				"turns": 8,
+				"type": "R"
+			},
+			"12586694": {
+				"blocks": 2,
+				"name": "Zerdack Handspin",
+				"pass": 1,
+				"prespp": 31,
+				"rush": 13,
+				"turns": 16,
+				"type": "R"
+			},
+			"12674697": {
+				"name": "Jerk Jerk",
+				"prespp": 3,
+				"turns": 1,
+				"type": "R"
+			},
+			"12702717": {
+				"fouls": 1,
+				"name": "Chef Henri",
+				"prespp": 3,
+				"turns": 6,
+				"type": "R"
+			},
+			"12750393": {
+				"name": "Bargain",
+				"turns": 1,
+				"type": "R"
+			},
+			"12871778": {
+				"blocks": 1,
+				"name": "Coke en stock",
+				"prespp": 51,
+				"turns": 11,
+				"type": "R"
+			},
+			"12887346": {
+				"name": "Karghan Onehanded",
+				"prespp": 6,
+				"turns": 1,
+				"type": "R"
+			},
+			"12903791": {
+				"blocks": 4,
+				"name": "Squizz Wizz",
+				"retired": true,
+				"turns": 7,
+				"type": "R"
+			},
+			"12913105": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Cory Strongspike",
+				"prespp": 7,
+				"turns": 10,
+				"type": "R"
+			},
+			"12952145": {
+				"blocks": 9,
+				"name": "Mani mad cap",
+				"prespp": 7,
+				"turns": 11,
+				"type": "R"
+			},
+			"12967150": {
+				"blocks": 3,
+				"name": "Lod Zeppelin",
+				"prespp": 10,
+				"rush": 6,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12968264": {
+				"fouls": 1,
+				"name": "Kaboom Rang",
+				"turns": 16,
+				"type": "R"
+			},
+			"12971954": {
+				"blocks": 5,
+				"name": "More Hungry",
+				"prespp": 2,
+				"turns": 8,
+				"type": "B"
+			}
+		}
+	},
+	"replayId": "1223494",
+	"team": {
+		"905924": {
+			"blocks": 24,
 			"cas": 0,
-			"casdiff": 0,
-			"name": "Karak Azog Outlaws",
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Squill's Squig Pitt",
+			"pass": 1,
+			"prespp": 223,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 20,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 108
+		},
+		"906026": {
+			"blocks": 32,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
+			"name": "Karak Azog Outlaws",
+			"pass": 1,
+			"prespp": 194,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 19,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 129
 		}
 	}
 }

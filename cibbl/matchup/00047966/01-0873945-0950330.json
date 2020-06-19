@@ -1,20 +1,283 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4122934",
+	"player": {
 		"873945": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Warhird Huscarls",
-			"scorediff": 0,
-			"tddiff": 0
+			"11747836": {
+				"blocks": 8,
+				"mvp": 1,
+				"name": "Bersi Thometillsson",
+				"prespp": 25,
+				"spp": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"11747837": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Firthgest Thiodolfsson",
+				"prespp": 43,
+				"rush": 9,
+				"spp": 5,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"11747839": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Kol Styrsson",
+				"pass": 1,
+				"prespp": 46,
+				"rush": 27,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"11747841": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Hall Solvisson",
+				"prespp": 10,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"11767823": {
+				"blocks": 8,
+				"cas": 2,
+				"name": "Martin Truestream",
+				"prespp": 16,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"11792772": {
+				"blocks": 3,
+				"name": "Horolf Hengerson",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"11850057": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Iri Iricsson",
+				"prespp": 23,
+				"spp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"11895166": {
+				"blocks": 7,
+				"name": "Ulric Whitelightning",
+				"prespp": 18,
+				"turns": 17,
+				"type": "R"
+			},
+			"11895168": {
+				"blocks": 3,
+				"name": "David Vilerock",
+				"prespp": 8,
+				"rush": 6,
+				"spp": 3,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"11938492": {
+				"name": "Yorick Clearstone",
+				"turns": 3,
+				"type": "R"
+			},
+			"11941163": {
+				"blocks": 5,
+				"name": "Xavier Silentsnake",
+				"prespp": 9,
+				"turns": 17,
+				"type": "R"
+			},
+			"11968875": {
+				"name": "Aaron Deephawk",
+				"turns": 1,
+				"type": "R"
+			},
+			"12874778": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Ake Forebear",
+				"prespp": 18,
+				"rush": 2,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12874779": {
+				"name": "Erik Alva",
+				"retired": true,
+				"turns": 1,
+				"type": "R"
+			},
+			"12960651": {
+				"blocks": 1,
+				"name": "Firthgest Hengerson",
+				"turns": 5,
+				"type": "R"
+			}
 		},
 		"950330": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Bogtrotters of Bol-A-Hat",
+			"12968475": {
+				"blocks": 3,
+				"name": "Stoned Ogham",
+				"prespp": 9,
+				"turns": 16,
+				"type": "B"
+			},
+			"12968476": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Fellrunner",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 8,
+				"type": "R"
+			},
+			"12968477": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Swamptreader",
+				"spp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"12968484": {
+				"blocks": 6,
+				"name": "Shinkicker",
+				"prespp": 7,
+				"turns": 17,
+				"type": "R"
+			},
+			"12968486": {
+				"blocks": 1,
+				"name": "Headbutter",
+				"prespp": 7,
+				"turns": 2,
+				"type": "R"
+			},
+			"12968492": {
+				"blocks": 2,
+				"name": "Mudslinger",
+				"prespp": 5,
+				"turns": 5,
+				"type": "R"
+			},
+			"12968494": {
+				"blocks": 8,
+				"name": "Faceplanter",
+				"turns": 17,
+				"type": "R"
+			},
+			"12968496": {
+				"name": "Foggy Dew",
+				"prespp": 6,
+				"rush": 16,
+				"spp": 6,
+				"td": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"12968497": {
+				"name": "Dewy Fog",
+				"turns": 1,
+				"type": "R"
+			},
+			"12968500": {
+				"blocks": 2,
+				"name": "Rainy Patch",
+				"pass": 1,
+				"prespp": 3,
+				"rush": 10,
+				"turns": 11,
+				"type": "R"
+			},
+			"12968502": {
+				"name": "Thick Mist",
+				"turns": 5,
+				"type": "R"
+			},
+			"12972887": {
+				"blocks": 1,
+				"name": "Long Shower",
+				"turns": 3,
+				"type": "R"
+			},
+			"12976014": {
+				"name": "Right Shower",
+				"rush": 13,
+				"turns": 10,
+				"type": "R"
+			},
+			"12977051": {
+				"name": "Modest Downpour",
+				"turns": 14,
+				"type": "R"
+			},
+			"12977053": {
+				"name": "Howling Gale",
+				"turns": 1,
+				"type": "R"
+			},
+			"STAR-Hernoggham": {
+				"blocks": 6,
+				"name": "Hernoggham",
+				"turns": 17,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1222246",
+	"team": {
+		"873945": {
+			"blocks": 57,
+			"cas": 7,
+			"casdiff": 6,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Warhird Huscarls",
+			"pass": 1,
+			"prespp": 222,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 44,
+			"score": 2,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 182
+		},
+		"950330": {
+			"blocks": 36,
+			"cas": 1,
+			"casdiff": -6,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Bogtrotters of Bol-A-Hat",
+			"pass": 1,
+			"prespp": 42,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 39,
+			"score": 2,
+			"scorediff": 0,
+			"td": 2,
+			"tddiff": 0,
+			"turns": 149
 		}
 	}
 }

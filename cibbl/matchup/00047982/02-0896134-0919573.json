@@ -1,20 +1,281 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4124132",
+	"player": {
 		"896134": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Rotfall Ironworks Rocketeers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12101571": {
+				"comp": 2,
+				"name": "Krakshot Neek",
+				"prespp": 102,
+				"rush": 7,
+				"spp": 2,
+				"turns": 9,
+				"type": "R"
+			},
+			"12125540": {
+				"blocks": 1,
+				"name": "Rabid Rocket",
+				"prespp": 79,
+				"turns": 1,
+				"type": "B"
+			},
+			"12135507": {
+				"blocks": 5,
+				"cas": 2,
+				"comp": 1,
+				"name": "Flitty Spleent",
+				"pass": 3,
+				"prespp": 110,
+				"rush": 9,
+				"spp": 8,
+				"td": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12489638": {
+				"blocks": 3,
+				"int": 1,
+				"name": "The Iron Rat",
+				"prespp": 25,
+				"rush": -5,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12528041": {
+				"blocks": 5,
+				"name": "\"Mark Three\"",
+				"prespp": 43,
+				"turns": 15,
+				"type": "R"
+			},
+			"12528043": {
+				"name": "Noxxus Blyte",
+				"prespp": 23,
+				"type": "R"
+			},
+			"12602507": {
+				"dead": [
+					1,
+					2,
+					"fouled",
+					"12469192"
+				],
+				"name": "Vermlikk",
+				"prespp": 3,
+				"turns": 1,
+				"type": "R"
+			},
+			"12680045": {
+				"name": "Skrykkin",
+				"prespp": 7,
+				"turns": 15,
+				"type": "R"
+			},
+			"12870307": {
+				"name": "Heeyitch",
+				"turns": 1,
+				"type": "R"
+			},
+			"12870308": {
+				"blocks": 1,
+				"name": "Yeek-yeek",
+				"prespp": 17,
+				"turns": 4,
+				"type": "R"
+			},
+			"12870309": {
+				"blocks": 3,
+				"name": "Itch-Skratch",
+				"turns": 7,
+				"type": "R"
+			},
+			"12914778": {
+				"blocks": 5,
+				"dead": [
+					2,
+					3,
+					"blocked",
+					"12469192"
+				],
+				"fouls": 1,
+				"name": "Crazed Kresneek",
+				"turns": 10,
+				"type": "R"
+			},
+			"12914781": {
+				"blocks": 2,
+				"name": "Week-toe",
+				"prespp": 12,
+				"turns": 12,
+				"type": "R"
+			},
+			"12929431": {
+				"name": "Shreekin",
+				"rush": 5,
+				"spp": 3,
+				"td": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"12967893": {
+				"mvp": 1,
+				"name": "Vilerat Laugh-Snicker",
+				"spp": 5,
+				"turns": 4,
+				"type": "R"
+			}
 		},
 		"919573": {
-			"cas": 0,
-			"casdiff": 0,
+			"12469184": {
+				"blocks": 6,
+				"name": "Blightbasher",
+				"prespp": 63,
+				"turns": 15,
+				"type": "B"
+			},
+			"12469186": {
+				"name": "Toerot",
+				"prespp": 51,
+				"type": "B"
+			},
+			"12469192": {
+				"blocks": 1,
+				"cas": 1,
+				"fouls": 7,
+				"name": "Znukch Clothclaw",
+				"pass": 5,
+				"prespp": 19,
+				"rush": 3,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12469194": {
+				"blocks": 2,
+				"name": "Crenq Brightear",
+				"prespp": 39,
+				"turns": 15,
+				"type": "R"
+			},
+			"12602557": {
+				"blocks": 1,
+				"name": "Trecnuach Tailring",
+				"prespp": 16,
+				"rush": -3,
+				"turns": 5,
+				"type": "R"
+			},
+			"12670287": {
+				"name": "Threlk Weavepaw",
+				"prespp": 18,
+				"rush": 8,
+				"turns": 9,
+				"type": "R"
+			},
+			"12898224": {
+				"blocks": 6,
+				"name": "Hearthunter",
+				"prespp": 16,
+				"turns": 14,
+				"type": "B"
+			},
+			"12933900": {
+				"blocks": 11,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Skullbuster",
+				"prespp": 11,
+				"rush": 5,
+				"spp": 10,
+				"td": 1,
+				"turns": 15,
+				"type": "B"
+			},
+			"12984639": {
+				"blocks": 1,
+				"name": "Brian Fasttree",
+				"retired": true,
+				"turns": 8,
+				"type": "J"
+			},
+			"12984640": {
+				"blocks": 3,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Osmond Bluehawk",
+				"retired": true,
+				"spp": 2,
+				"turns": 8,
+				"type": "J"
+			},
+			"12984641": {
+				"blocks": 1,
+				"name": "Vincent Hardstream",
+				"retired": true,
+				"turns": 9,
+				"type": "J"
+			},
+			"12984642": {
+				"blocks": 2,
+				"name": "Brian Hotbone",
+				"pass": -1,
+				"retired": true,
+				"rush": 6,
+				"turns": 8,
+				"type": "J"
+			},
+			"STAR-Gnawguts": {
+				"blocks": 10,
+				"name": "Gnawguts",
+				"turns": 15,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1223638",
+	"team": {
+		"896134": {
+			"blocks": 25,
+			"cas": 2,
+			"casdiff": -2,
+			"comp": 3,
+			"fouls": 1,
+			"int": 1,
+			"mvp": 1,
+			"name": "Rotfall Ironworks Rocketeers",
+			"pass": 3,
+			"prespp": 421,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 16,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 117
+		},
+		"919573": {
+			"blocks": 44,
+			"cas": 4,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 8,
+			"int": 0,
+			"mvp": 1,
 			"name": "Ragtag Animal Training Sartors",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 4,
+			"prespp": 233,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 19,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 136
 		}
 	}
 }

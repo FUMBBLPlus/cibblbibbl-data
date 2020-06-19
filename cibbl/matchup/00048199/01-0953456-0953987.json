@@ -1,0 +1,208 @@
+{
+	"!excluded": "no",
+	"matchId": "4129407",
+	"player": {
+		"953456": {
+			"13019071": {
+				"name": "Berkeder Gughlugdai",
+				"turns": 15,
+				"type": "R"
+			},
+			"13019072": {
+				"name": "Olziytder Boroldaiuyalbidai",
+				"turns": 2,
+				"type": "R"
+			},
+			"13019076": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Yekeidunder Qoriqachadai",
+				"turns": 10,
+				"type": "R"
+			},
+			"13019082": {
+				"blocks": 4,
+				"name": "Temurgelgei Urusder",
+				"turns": 15,
+				"type": "R"
+			},
+			"13019084": {
+				"blocks": 3,
+				"name": "Yesuongkegelgei Bededer",
+				"turns": 15,
+				"type": "R"
+			},
+			"13019087": {
+				"blocks": 1,
+				"name": "Chigugelgei Megetuder",
+				"turns": 15,
+				"type": "R"
+			},
+			"13019090": {
+				"blocks": 4,
+				"name": "Ukilengelgei Sinkurder",
+				"turns": 15,
+				"type": "R"
+			},
+			"13019091": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Enx Orek",
+				"rush": 4,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"13019093": {
+				"blocks": 3,
+				"name": "Bogen Orek",
+				"rush": 20,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"13019098": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Qara Nokai",
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"13019105": {
+				"blocks": 10,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Buqa Nokai",
+				"spp": 7,
+				"turns": 15,
+				"type": "R"
+			}
+		},
+		"953987": {
+			"13026662": {
+				"blocks": 13,
+				"cas": 1,
+				"name": "Zurgh",
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"13026663": {
+				"blocks": 14,
+				"name": "Xexxes",
+				"turns": 16,
+				"type": "B"
+			},
+			"13026664": {
+				"blocks": 7,
+				"name": "Rarxa",
+				"turns": 16,
+				"type": "B"
+			},
+			"13026665": {
+				"blocks": 6,
+				"dead": [
+					1,
+					8,
+					"blocked",
+					"13019105"
+				],
+				"name": "Morogg",
+				"turns": 8,
+				"type": "B"
+			},
+			"13026666": {
+				"blocks": 2,
+				"name": "Qreel",
+				"turns": 16,
+				"type": "R"
+			},
+			"13026667": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Ukell",
+				"rush": 37,
+				"spp": 11,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13026668": {
+				"name": "Raarsh",
+				"turns": 13,
+				"type": "R"
+			},
+			"13026669": {
+				"name": "Vraash",
+				"rush": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"13026670": {
+				"name": "Zoarg",
+				"turns": 9,
+				"type": "R"
+			},
+			"13026671": {
+				"name": "Orog",
+				"turns": 16,
+				"type": "R"
+			},
+			"13026672": {
+				"blocks": 1,
+				"name": "Tregg",
+				"pass": 1,
+				"rush": 2,
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1229832",
+	"team": {
+		"953456": {
+			"blocks": 40,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Kuj Black Kites",
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 24,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 147
+		},
+		"953987": {
+			"blocks": 46,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Zenzoat Stranglers",
+			"pass": 1,
+			"prespp": 0,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 43,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 158
+		}
+	}
+}

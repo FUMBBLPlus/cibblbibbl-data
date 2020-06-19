@@ -1,0 +1,227 @@
+{
+	"!excluded": "no",
+	"matchId": "4180703",
+	"player": {
+		"979828": {
+			"13379218": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "Griefbringer-Martial",
+				"turns": 8,
+				"type": "R"
+			},
+			"13379221": {
+				"blocks": 8,
+				"name": "Shadowdart-Revered",
+				"rush": 12,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"13379227": {
+				"blocks": 4,
+				"dead": [
+					2,
+					3,
+					"dodgeFail",
+					null
+				],
+				"name": "Tempest of Talons-Revered",
+				"rush": 11,
+				"turns": 10,
+				"type": "R"
+			},
+			"13379235": {
+				"blocks": 8,
+				"name": "Khainemarked-Aristocratic",
+				"turns": 16,
+				"type": "R"
+			},
+			"13379243": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Wyrmscale",
+				"turns": 8,
+				"type": "R"
+			},
+			"13379249": {
+				"blocks": 2,
+				"name": "Spiteheart",
+				"turns": 14,
+				"type": "R"
+			},
+			"13379254": {
+				"blocks": 6,
+				"name": "Soulblaze",
+				"turns": 14,
+				"type": "R"
+			},
+			"13379258": {
+				"blocks": 5,
+				"fouls": 1,
+				"name": "Serpentheart",
+				"turns": 16,
+				"type": "R"
+			},
+			"13379262": {
+				"dead": [
+					2,
+					1,
+					"fouled",
+					"13392410"
+				],
+				"name": "Poisonblade",
+				"turns": 4,
+				"type": "R"
+			},
+			"13379265": {
+				"blocks": 2,
+				"name": "Headreaper",
+				"turns": 16,
+				"type": "R"
+			},
+			"13379277": {
+				"blocks": 6,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Granitescence-Revered",
+				"rush": 11,
+				"spp": 10,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			}
+		},
+		"980716": {
+			"13392396": {
+				"blocks": 11,
+				"name": "Blebious",
+				"turns": 16,
+				"type": "R"
+			},
+			"13392398": {
+				"blocks": 9,
+				"name": "Ulceruenza",
+				"turns": 16,
+				"type": "R"
+			},
+			"13392401": {
+				"blocks": 11,
+				"name": "Eczemeumon",
+				"turns": 16,
+				"type": "R"
+			},
+			"13392403": {
+				"blocks": 3,
+				"name": "Ebolintu",
+				"turns": 4,
+				"type": "R"
+			},
+			"13392405": {
+				"blocks": 2,
+				"dead": [
+					2,
+					5,
+					"blocked",
+					"13379277"
+				],
+				"name": "Glutrastur",
+				"turns": 12,
+				"type": "R"
+			},
+			"13392407": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Verrucius",
+				"rush": 1,
+				"spp": 5,
+				"turns": 13,
+				"type": "R"
+			},
+			"13392408": {
+				"name": "Bronkothia",
+				"turns": 7,
+				"type": "R"
+			},
+			"13392409": {
+				"name": "Glulgus",
+				"turns": 8,
+				"type": "R"
+			},
+			"13392410": {
+				"fouls": 1,
+				"name": "Festerid",
+				"turns": 11,
+				"type": "R"
+			},
+			"13392411": {
+				"name": "Ekscremustra",
+				"turns": 7,
+				"type": "R"
+			},
+			"13392412": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Verrucosa",
+				"turns": 16,
+				"type": "R"
+			},
+			"13392413": {
+				"blocks": 1,
+				"name": "Yigulan",
+				"turns": 7,
+				"type": "R"
+			},
+			"RAISED-27729_13379262_13409651": {
+				"name": "Poisonblade",
+				"type": "D"
+			}
+		}
+	},
+	"replayId": "1293161",
+	"team": {
+		"979828": {
+			"blocks": 46,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Khainite Dreadlords",
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 30,
+			"pts": 2,
+			"r": "W",
+			"rush": 34,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 138
+		},
+		"980716": {
+			"blocks": 40,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Emperor's True Face",
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 1,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 133
+		}
+	}
+}

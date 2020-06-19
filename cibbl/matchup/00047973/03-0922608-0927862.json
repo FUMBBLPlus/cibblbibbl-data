@@ -1,20 +1,245 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4125867",
+	"player": {
 		"922608": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Horsemen of The Great Kurgan",
-			"scorediff": 0,
-			"tddiff": 0
+			"12514742": {
+				"blocks": 8,
+				"name": "Gore-Clad",
+				"prespp": 38,
+				"turns": 16,
+				"type": "R"
+			},
+			"12514754": {
+				"blocks": 4,
+				"name": "Khomarr of Hastling",
+				"prespp": 25,
+				"turns": 9,
+				"type": "R"
+			},
+			"12576997": {
+				"blocks": 6,
+				"name": "Second Prince of Fell Pleasures",
+				"prespp": 47,
+				"turns": 16,
+				"type": "R"
+			},
+			"12578183": {
+				"blocks": 1,
+				"name": "Unbar the Reborn",
+				"prespp": 36,
+				"turns": 8,
+				"type": "R"
+			},
+			"12612790": {
+				"blocks": 12,
+				"cas": 1,
+				"name": "Second Corrupt Father of Plagues",
+				"prespp": 33,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12639307": {
+				"blocks": 1,
+				"name": "Fraygrek of Kul",
+				"prespp": 3,
+				"turns": 8,
+				"type": "R"
+			},
+			"12693226": {
+				"blocks": 8,
+				"name": "Tales of Cormac",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12871491": {
+				"blocks": 1,
+				"name": "Yggir of Deitzaad",
+				"turns": 16,
+				"type": "R"
+			},
+			"12911010": {
+				"blocks": 7,
+				"name": "Fourth Changer of ways",
+				"prespp": 7,
+				"rush": 14,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12916456": {
+				"blocks": 7,
+				"name": "Legend of Kurgan",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12929383": {
+				"blocks": 4,
+				"name": "Asavar the Great",
+				"prespp": 11,
+				"rush": 21,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12979576": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Harsk of Seizask",
+				"prespp": 4,
+				"spp": 5,
+				"turns": 8,
+				"type": "R"
+			},
+			"12991817": {
+				"blocks": 2,
+				"name": "Qerk of Kul",
+				"turns": 8,
+				"type": "R"
+			}
 		},
 		"927862": {
-			"cas": 0,
+			"12598978": {
+				"blocks": 7,
+				"name": "Morgur Slogga",
+				"prespp": 40,
+				"turns": 16,
+				"type": "R"
+			},
+			"12598989": {
+				"blocks": 7,
+				"name": "Ugga da One-legged",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12598997": {
+				"blocks": 7,
+				"name": "Gadzooks Gormless",
+				"prespp": 19,
+				"turns": 16,
+				"type": "R"
+			},
+			"12599001": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Grindok Gizzbut",
+				"prespp": 18,
+				"spp": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"12599015": {
+				"name": "Fuggbang",
+				"prespp": 15,
+				"rush": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12599016": {
+				"name": "Grotgrot",
+				"prespp": 3,
+				"type": "R"
+			},
+			"12615324": {
+				"blocks": 1,
+				"name": "Mistah Beegs",
+				"prespp": 17,
+				"retired": true,
+				"turns": 3,
+				"type": "R"
+			},
+			"12691051": {
+				"blocks": 6,
+				"name": "Skabgutz Redeyez",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12715445": {
+				"fouls": 2,
+				"name": "Bukkit",
+				"turns": 9,
+				"type": "R"
+			},
+			"12729015": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Naznob",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12937304": {
+				"blocks": 2,
+				"name": "Dags",
+				"turns": 16,
+				"type": "R"
+			},
+			"12989363": {
+				"fouls": 2,
+				"name": "Snagguz",
+				"turns": 8,
+				"type": "R"
+			},
+			"13003197": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Gorsnarl Ironhide",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1225603",
+	"team": {
+		"922608": {
+			"blocks": 62,
+			"cas": 1,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Horsemen of The Great Kurgan",
+			"pass": 0,
+			"prespp": 230,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 35,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 169
+		},
+		"927862": {
+			"blocks": 43,
+			"cas": 1,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
 			"name": "Beegrok Massif Mob",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 141,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 5,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 159
 		}
 	}
 }

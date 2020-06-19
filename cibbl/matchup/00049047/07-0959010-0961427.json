@@ -1,0 +1,237 @@
+{
+	"!excluded": "no",
+	"matchId": "4160339",
+	"player": {
+		"959010": {
+			"13087459": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Hyperion",
+				"prespp": 20,
+				"spp": 2,
+				"turns": 15,
+				"type": "B"
+			},
+			"13087463": {
+				"blocks": 5,
+				"name": "Prometheus",
+				"prespp": 4,
+				"rush": 4,
+				"turns": 15,
+				"type": "B"
+			},
+			"13087465": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Oceanus",
+				"prespp": 7,
+				"spp": 5,
+				"turns": 15,
+				"type": "B"
+			},
+			"13087468": {
+				"blocks": 5,
+				"name": "Atlas",
+				"prespp": 20,
+				"turns": 15,
+				"type": "B"
+			},
+			"13087481": {
+				"name": "Ladybug",
+				"prespp": 10,
+				"type": "R"
+			},
+			"13087488": {
+				"name": "Dragonfly",
+				"rush": -1,
+				"turns": 15,
+				"type": "R"
+			},
+			"13087489": {
+				"blocks": 1,
+				"name": "Hummingbird",
+				"turns": 15,
+				"type": "R"
+			},
+			"13087494": {
+				"name": "Chickadee",
+				"prespp": 3,
+				"turns": 10,
+				"type": "R"
+			},
+			"13087506": {
+				"name": "Finch",
+				"prespp": 9,
+				"turns": 8,
+				"type": "R"
+			},
+			"13169204": {
+				"blocks": 1,
+				"name": "Mosquito",
+				"turns": 15,
+				"type": "R"
+			},
+			"13226860": {
+				"blocks": 1,
+				"dead": [
+					1,
+					2,
+					"blocked",
+					"13119049"
+				],
+				"name": "Butterfly",
+				"type": "R"
+			},
+			"13226868": {
+				"int": 1,
+				"name": "Bumblebee",
+				"rush": 7,
+				"spp": 2,
+				"turns": 3,
+				"type": "R"
+			},
+			"13279210": {
+				"name": "Gnat",
+				"rush": 7,
+				"turns": 11,
+				"type": "R"
+			}
+		},
+		"961427": {
+			"13119044": {
+				"blocks": 1,
+				"name": "Aeghir",
+				"prespp": 10,
+				"rush": 14,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"13119045": {
+				"blocks": 7,
+				"mvp": 1,
+				"name": "Ran",
+				"prespp": 11,
+				"spp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"13119048": {
+				"blocks": 1,
+				"name": "Dufa",
+				"prespp": 15,
+				"turns": 1,
+				"type": "R"
+			},
+			"13119049": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Hefring",
+				"prespp": 8,
+				"spp": 2,
+				"turns": 5,
+				"type": "R"
+			},
+			"13119051": {
+				"name": "Hrönn",
+				"turns": 15,
+				"type": "R"
+			},
+			"13119052": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Bölge",
+				"prespp": 3,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"13119053": {
+				"blocks": 1,
+				"name": "Dröfn",
+				"prespp": 1,
+				"rush": 7,
+				"spp": 3,
+				"td": 1,
+				"turns": 11,
+				"type": "R"
+			},
+			"13119054": {
+				"name": "Kolga",
+				"prespp": 3,
+				"turns": 15,
+				"type": "R"
+			},
+			"13177146": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Himminglaeva",
+				"pass": 4,
+				"prespp": 9,
+				"rush": 11,
+				"spp": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"13222187": {
+				"blocks": 1,
+				"name": "Blodughadda",
+				"prespp": 3,
+				"turns": 15,
+				"type": "R"
+			},
+			"13251411": {
+				"name": "Cory Clumsylightning",
+				"retired": true,
+				"turns": 9,
+				"type": "J"
+			}
+		}
+	},
+	"replayId": "1268896",
+	"team": {
+		"959010": {
+			"blocks": 26,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 1,
+			"mvp": 1,
+			"name": "Towering Titans of Tartarox",
+			"pass": 0,
+			"prespp": 73,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 17,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 137
+		},
+		"961427": {
+			"blocks": 15,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Dökkálfar Dreki",
+			"pass": 4,
+			"prespp": 63,
+			"prestige": 30,
+			"pts": 2,
+			"r": "W",
+			"rush": 32,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 129
+		}
+	}
+}

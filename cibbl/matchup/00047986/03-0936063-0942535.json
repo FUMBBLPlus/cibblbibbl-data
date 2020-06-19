@@ -1,20 +1,247 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4127570",
+	"player": {
 		"936063": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Longbeard Grudgebearers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12738741": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Sunforth Slateborn",
+				"prespp": 22,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12738742": {
+				"blocks": 3,
+				"name": "Imtrek Soulreaper",
+				"prespp": 23,
+				"turns": 16,
+				"type": "R"
+			},
+			"12738744": {
+				"blocks": 5,
+				"name": "Sevatar Of Mithril Hall",
+				"prespp": 19,
+				"turns": 14,
+				"type": "R"
+			},
+			"12738745": {
+				"blocks": 1,
+				"name": "Garro Rockbiter",
+				"prespp": 31,
+				"turns": 3,
+				"type": "R"
+			},
+			"12738746": {
+				"name": "Flint Fireforge",
+				"turns": 1,
+				"type": "R"
+			},
+			"12738747": {
+				"blocks": 2,
+				"name": "Tasslhoff Burrfoot",
+				"prespp": 10,
+				"turns": 9,
+				"type": "R"
+			},
+			"12738749": {
+				"name": "Fizban Brightstaff",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12738750": {
+				"blocks": 2,
+				"name": "Sturm Brightblade",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12738751": {
+				"blocks": 10,
+				"fouls": 2,
+				"name": "Eriph The Shank",
+				"prespp": 15,
+				"turns": 15,
+				"type": "R"
+			},
+			"12886335": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Spider Pericolo",
+				"prespp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12938137": {
+				"blocks": 2,
+				"name": "Basher SilentScream",
+				"prespp": 8,
+				"turns": 11,
+				"type": "R"
+			},
+			"12948323": {
+				"blocks": 1,
+				"name": "Athrogate Bwahaha",
+				"prespp": 19,
+				"turns": 12,
+				"type": "R"
+			},
+			"12967534": {
+				"blocks": 6,
+				"name": "Courdal Slaughter",
+				"prespp": 4,
+				"turns": 8,
+				"type": "B"
+			},
+			"12970690": {
+				"fouls": 1,
+				"name": "Monkrose Yellowfist",
+				"turns": 8,
+				"type": "R"
+			},
+			"13003222": {
+				"name": "Grim Entreri",
+				"turns": 8,
+				"type": "R"
+			}
 		},
 		"942535": {
+			"12840992": {
+				"blocks": 6,
+				"name": "Father Grungi",
+				"prespp": 19,
+				"turns": 16,
+				"type": "R"
+			},
+			"12840993": {
+				"blocks": 6,
+				"name": "Tungil Quicksilverson",
+				"prespp": 18,
+				"turns": 16,
+				"type": "R"
+			},
+			"12840996": {
+				"blocks": 1,
+				"name": "Borek Steamforce",
+				"prespp": 28,
+				"rush": 32,
+				"spp": 6,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12840999": {
+				"blocks": 4,
+				"name": "Hammet Goldstriker",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841000": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Uri Steelwall",
+				"prespp": 15,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841001": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Vardak Towerlord",
+				"prespp": 17,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841005": {
+				"name": "Snorri Ironson",
+				"type": "R"
+			},
+			"12841006": {
+				"blocks": 2,
+				"fouls": 5,
+				"name": "Haggle Sourfist",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841007": {
+				"blocks": 8,
+				"fouls": 1,
+				"name": "Mordak Runemaster",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841008": {
+				"blocks": 6,
+				"name": "Nix Stonefist",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841010": {
+				"blocks": 2,
+				"name": "Vilk Silverton",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"12907698": {
+				"blocks": 5,
+				"name": "Bjorn Dragonbane",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1227578",
+	"team": {
+		"936063": {
+			"blocks": 37,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
+			"name": "Longbeard Grudgebearers",
+			"pass": 0,
+			"prespp": 182,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 0,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 153
+		},
+		"942535": {
+			"blocks": 53,
+			"cas": 1,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Star Metal Sentinels",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 144,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 32,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 176
 		}
 	}
 }

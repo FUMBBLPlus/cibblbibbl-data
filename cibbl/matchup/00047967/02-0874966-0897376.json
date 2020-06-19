@@ -1,20 +1,281 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4125243",
+	"player": {
 		"874966": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Modryn's Midnight Meddlers",
-			"scorediff": 0,
-			"tddiff": 0
+			"11764921": {
+				"name": "Morlanna",
+				"prespp": 97,
+				"type": "R"
+			},
+			"11967724": {
+				"blocks": 6,
+				"comp": 1,
+				"name": "Hauclir",
+				"pass": 9,
+				"prespp": 105,
+				"rush": 3,
+				"spp": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12052561": {
+				"name": "Mereia",
+				"prespp": 71,
+				"turns": 2,
+				"type": "R"
+			},
+			"12231028": {
+				"blocks": 5,
+				"name": "Nimrodel",
+				"prespp": 52,
+				"rush": 16,
+				"spp": 3,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12351587": {
+				"blocks": 4,
+				"name": "Beldroth Boombark",
+				"prespp": 30,
+				"turns": 17,
+				"type": "B"
+			},
+			"12462256": {
+				"blocks": 1,
+				"name": "Isilvar",
+				"prespp": 29,
+				"rush": 2,
+				"turns": 7,
+				"type": "R"
+			},
+			"12537383": {
+				"name": "Kivan",
+				"prespp": 21,
+				"type": "R"
+			},
+			"12585132": {
+				"name": "Caelir",
+				"prespp": 18,
+				"turns": 17,
+				"type": "R"
+			},
+			"12684362": {
+				"name": "Finavar",
+				"prespp": 26,
+				"turns": 16,
+				"type": "R"
+			},
+			"12871150": {
+				"name": "Aetharon",
+				"prespp": 19,
+				"retired": true,
+				"turns": 2,
+				"type": "R"
+			},
+			"12888768": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Aertan",
+				"prespp": 19,
+				"spp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"12913993": {
+				"blocks": 2,
+				"name": "Aerys",
+				"turns": 8,
+				"type": "R"
+			},
+			"12944290": {
+				"blocks": 1,
+				"name": "Thelion",
+				"turns": 8,
+				"type": "R"
+			},
+			"12983968": {
+				"name": "Jokleel",
+				"type": "R"
+			},
+			"12994906": {
+				"blocks": 2,
+				"name": "Coaran",
+				"turns": 11,
+				"type": "R"
+			}
 		},
 		"897376": {
+			"12122273": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Deep Root",
+				"prespp": 53,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12122274": {
+				"blocks": 5,
+				"name": "Long Branch",
+				"prespp": 35,
+				"turns": 17,
+				"type": "R"
+			},
+			"12122276": {
+				"blocks": 2,
+				"comp": 1,
+				"name": "White Leaf",
+				"pass": 5,
+				"prespp": 54,
+				"rush": 8,
+				"spp": 1,
+				"turns": 12,
+				"type": "R"
+			},
+			"12122280": {
+				"fouls": 3,
+				"name": "Lichen",
+				"prespp": 16,
+				"turns": 5,
+				"type": "R"
+			},
+			"12171988": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Nut",
+				"prespp": 25,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12501405": {
+				"name": "Fruit",
+				"prespp": 7,
+				"type": "R"
+			},
+			"12515971": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Vine",
+				"prespp": 17,
+				"turns": 17,
+				"type": "R"
+			},
+			"12529934": {
+				"comp": 1,
+				"fouls": 1,
+				"name": "Fungus",
+				"pass": 8,
+				"spp": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12529938": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Slip Stream",
+				"prespp": 20,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"12559341": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Hollow",
+				"prespp": 27,
+				"rush": 5,
+				"spp": 8,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"12580870": {
+				"name": "Shoot",
+				"turns": 2,
+				"type": "R"
+			},
+			"12710019": {
+				"blocks": 1,
+				"name": "Crooked Creek",
+				"turns": 2,
+				"type": "R"
+			},
+			"12877433": {
+				"blocks": 1,
+				"dead": [
+					1,
+					3,
+					"dodgeFail",
+					null
+				],
+				"name": "Black Drape",
+				"prespp": 18,
+				"turns": 2,
+				"type": "R"
+			},
+			"12915365": {
+				"blocks": 6,
+				"name": "Charred Lumber",
+				"prespp": 8,
+				"rush": 10,
+				"turns": 17,
+				"type": "R"
+			},
+			"STAR-Aimhirghin Glúingel": {
+				"blocks": 2,
+				"fouls": 4,
+				"name": "Aimhirghin Glúingel",
+				"turns": 5,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1224884",
+	"team": {
+		"874966": {
+			"blocks": 24,
 			"cas": 0,
-			"casdiff": 0,
-			"name": "Darkenwood Sentinels",
+			"casdiff": -4,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Modryn's Midnight Meddlers",
+			"pass": 9,
+			"prespp": 487,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 21,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 137
+		},
+		"897376": {
+			"blocks": 43,
+			"cas": 4,
+			"casdiff": 4,
+			"comp": 2,
+			"fouls": 9,
+			"int": 0,
+			"mvp": 1,
+			"name": "Darkenwood Sentinels",
+			"pass": 13,
+			"prespp": 280,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 23,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 164
 		}
 	}
 }

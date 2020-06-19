@@ -1,20 +1,263 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4129798",
+	"player": {
 		"874302": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Grasparossa B.B.C",
-			"scorediff": 0,
-			"tddiff": 0
+			"11754146": {
+				"blocks": 1,
+				"name": "Spilamberto",
+				"prespp": 127,
+				"rush": 5,
+				"spp": 3,
+				"td": 1,
+				"turns": 12,
+				"type": "R"
+			},
+			"11783522": {
+				"name": "Modena",
+				"prespp": 127,
+				"rush": 1,
+				"turns": 2,
+				"type": "R"
+			},
+			"11967732": {
+				"blocks": 7,
+				"name": "Formigine III",
+				"prespp": 80,
+				"turns": 17,
+				"type": "R"
+			},
+			"12062178": {
+				"blocks": 4,
+				"name": "Castelfranco Emilia II",
+				"prespp": 47,
+				"turns": 10,
+				"type": "R"
+			},
+			"12223648": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Savignano sul Panaro III",
+				"pass": 3,
+				"prespp": 30,
+				"rush": 4,
+				"spp": 5,
+				"turns": 10,
+				"type": "R"
+			},
+			"12255081": {
+				"blocks": 5,
+				"name": "Sassuolo II",
+				"prespp": 25,
+				"turns": 17,
+				"type": "R"
+			},
+			"12496458": {
+				"name": "San Cesario sul Panaro IV",
+				"prespp": 32,
+				"type": "R"
+			},
+			"12514876": {
+				"blocks": 3,
+				"name": "Fiorano VII",
+				"turns": 16,
+				"type": "R"
+			},
+			"12514881": {
+				"blocks": 1,
+				"name": "Vignola II",
+				"prespp": 24,
+				"turns": 11,
+				"type": "R"
+			},
+			"12595023": {
+				"blocks": 3,
+				"name": "Castelvetro IV",
+				"prespp": 31,
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12908378": {
+				"blocks": 7,
+				"name": "Castelnuovo Rangone IV",
+				"prespp": 19,
+				"turns": 16,
+				"type": "R"
+			},
+			"13019363": {
+				"blocks": 1,
+				"name": "Marano sul Panaro VIII",
+				"prespp": 2,
+				"turns": 7,
+				"type": "R"
+			},
+			"13026124": {
+				"dead": [
+					2,
+					4,
+					"blocked",
+					"STAR-Wreacking Baargh"
+				],
+				"name": "Maranello VI",
+				"turns": 9,
+				"type": "R"
+			},
+			"13026126": {
+				"blocks": 2,
+				"name": "Prignano sulla Secchia VII",
+				"turns": 17,
+				"type": "R"
+			}
 		},
 		"949708": {
+			"12959527": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Strayox Murag",
+				"prespp": 21,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12959535": {
+				"blocks": 2,
+				"name": "Gor Murag Broken",
+				"turns": 7,
+				"type": "R"
+			},
+			"12959537": {
+				"blocks": 4,
+				"name": "Gor Nakkoz Riven",
+				"prespp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"12959539": {
+				"blocks": 2,
+				"name": "Gor Murag Twoface",
+				"prespp": 2,
+				"turns": 9,
+				"type": "R"
+			},
+			"12959540": {
+				"blocks": 8,
+				"name": "Gor Khenek Silvertooth",
+				"prespp": 8,
+				"rush": 5,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12959542": {
+				"blocks": 12,
+				"name": "Doe Khenek Provider",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12959543": {
+				"name": "Ungor Khenek Forgotten",
+				"prespp": 12,
+				"turns": 7,
+				"type": "R"
+			},
+			"12959544": {
+				"name": "Doe Nakkoz Spite",
+				"prespp": 8,
+				"rush": 19,
+				"turns": 5,
+				"type": "R"
+			},
+			"12971833": {
+				"mvp": 1,
+				"name": "Gorthor Non Unwanted",
+				"prespp": 17,
+				"spp": 5,
+				"type": "R"
+			},
+			"12971834": {
+				"name": "Gor Khenek Wit",
+				"turns": 10,
+				"type": "R"
+			},
+			"12984663": {
+				"blocks": 4,
+				"name": "Gorwitt Khenekson",
+				"prespp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"13015306": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Revenge Nakkoz",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"STAR-The Bone Collector": {
+				"blocks": 10,
+				"name": "The Bone Collector",
+				"turns": 16,
+				"type": "S"
+			},
+			"STAR-Wreacking Baargh": {
+				"blocks": 7,
+				"cas": 2,
+				"name": "Wreacking Baargh",
+				"spp": 4,
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1230300",
+	"team": {
+		"874302": {
+			"blocks": 35,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Grasparossa B.B.C",
+			"pass": 3,
+			"prespp": 544,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 29,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 160
+		},
+		"949708": {
+			"blocks": 62,
+			"cas": 4,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Cerberus Beast",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 84,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 24,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 165
 		}
 	}
 }

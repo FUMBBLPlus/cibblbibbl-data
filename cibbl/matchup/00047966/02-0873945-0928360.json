@@ -1,20 +1,245 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4124482",
+	"player": {
 		"873945": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Warhird Huscarls",
-			"scorediff": 0,
-			"tddiff": 0
+			"11747836": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Bersi Thometillsson",
+				"prespp": 30,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"11747837": {
+				"blocks": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Firthgest Thiodolfsson",
+				"prespp": 48,
+				"rush": 4,
+				"spp": 10,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"11747839": {
+				"blocks": 1,
+				"name": "Kol Styrsson",
+				"prespp": 48,
+				"rush": 14,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"11747841": {
+				"blocks": 6,
+				"name": "Hall Solvisson",
+				"prespp": 12,
+				"turns": 16,
+				"type": "R"
+			},
+			"11767823": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Martin Truestream",
+				"prespp": 20,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"11792772": {
+				"blocks": 6,
+				"name": "Horolf Hengerson",
+				"prespp": 6,
+				"turns": 14,
+				"type": "R"
+			},
+			"11850057": {
+				"blocks": 6,
+				"comp": 1,
+				"name": "Iri Iricsson",
+				"prespp": 25,
+				"rush": 13,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"11895166": {
+				"blocks": 7,
+				"cas": 2,
+				"name": "Ulric Whitelightning",
+				"prespp": 18,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"11895168": {
+				"blocks": 7,
+				"name": "David Vilerock",
+				"prespp": 11,
+				"turns": 16,
+				"type": "R"
+			},
+			"11938492": {
+				"name": "Yorick Clearstone",
+				"type": "R"
+			},
+			"11941163": {
+				"blocks": 7,
+				"name": "Xavier Silentsnake",
+				"prespp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"11968875": {
+				"name": "Aaron Deephawk",
+				"type": "R"
+			},
+			"12874778": {
+				"blocks": 2,
+				"name": "Ake Forebear",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"12960651": {
+				"name": "Firthgest Hengerson",
+				"type": "R"
+			}
 		},
 		"928360": {
+			"12607999": {
+				"blocks": 8,
+				"name": "Grendel",
+				"prespp": 32,
+				"turns": 12,
+				"type": "B"
+			},
+			"12608002": {
+				"mvp": 1,
+				"name": "Baldur",
+				"prespp": 18,
+				"spp": 5,
+				"turns": 1,
+				"type": "R"
+			},
+			"12608004": {
+				"blocks": 1,
+				"name": "Surtr",
+				"prespp": 29,
+				"turns": 14,
+				"type": "R"
+			},
+			"12608011": {
+				"blocks": 1,
+				"name": "Heidrek",
+				"prespp": 5,
+				"turns": 13,
+				"type": "R"
+			},
+			"12608023": {
+				"name": "Vali",
+				"prespp": 8,
+				"turns": 9,
+				"type": "R"
+			},
+			"12608031": {
+				"blocks": 1,
+				"name": "Narfi",
+				"prespp": 19,
+				"turns": 12,
+				"type": "R"
+			},
+			"12608034": {
+				"blocks": 2,
+				"name": "Mokkurkalfi",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12608036": {
+				"blocks": 2,
+				"name": "Halogi",
+				"prespp": 16,
+				"turns": 6,
+				"type": "R"
+			},
+			"12624317": {
+				"blocks": 2,
+				"name": "Ullr",
+				"prespp": 42,
+				"rush": 12,
+				"turns": 13,
+				"type": "R"
+			},
+			"12683077": {
+				"blocks": 1,
+				"name": "Skoll Jr",
+				"prespp": 4,
+				"turns": 5,
+				"type": "R"
+			},
+			"12929186": {
+				"blocks": 4,
+				"name": "Erikson",
+				"prespp": 6,
+				"turns": 16,
+				"type": "R"
+			},
+			"12968039": {
+				"blocks": 2,
+				"name": "Jurgen",
+				"turns": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1224029",
+	"team": {
+		"873945": {
+			"blocks": 62,
+			"cas": 5,
+			"casdiff": 5,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Warhird Huscarls",
+			"pass": 0,
+			"prespp": 247,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 31,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 174
+		},
+		"928360": {
+			"blocks": 24,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -5,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gorequeen's Raiders",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 195,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 12,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 126
 		}
 	}
 }

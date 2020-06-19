@@ -1,20 +1,243 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4125248",
+	"player": {
 		"945880": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Rot Mansion Couriers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12893991": {
+				"blocks": 7,
+				"cas": 2,
+				"name": "Slaugox Gnarlsore",
+				"prespp": 35,
+				"spp": 4,
+				"turns": 10,
+				"type": "R"
+			},
+			"12893992": {
+				"blocks": 3,
+				"name": "Ghoyle Poxgut",
+				"prespp": 25,
+				"rush": 20,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12893994": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Malarestus Plaguehelm",
+				"prespp": 9,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12893996": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Verrucugnus Toadflesh",
+				"prespp": 22,
+				"rush": 23,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12894003": {
+				"blocks": 8,
+				"name": "Maggonellus Rankpulp",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12894013": {
+				"fouls": 2,
+				"name": "Poid",
+				"prespp": 3,
+				"turns": 5,
+				"type": "R"
+			},
+			"12894018": {
+				"name": "Rakk",
+				"prespp": 2,
+				"retired": true,
+				"type": "R"
+			},
+			"12894023": {
+				"name": "Mould",
+				"turns": 1,
+				"type": "R"
+			},
+			"12894027": {
+				"fouls": 2,
+				"name": "Snat",
+				"turns": 14,
+				"type": "R"
+			},
+			"12928411": {
+				"name": "Byile",
+				"turns": 8,
+				"type": "R"
+			},
+			"12928413": {
+				"fouls": 2,
+				"name": "Plack",
+				"prespp": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12933983": {
+				"fouls": 1,
+				"name": "Gherm",
+				"prespp": 4,
+				"turns": 12,
+				"type": "R"
+			},
+			"12969572": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Typhyidus Goreblob",
+				"prespp": 19,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"12988213": {
+				"name": "Glop",
+				"type": "R"
+			}
 		},
 		"950929": {
-			"cas": 0,
-			"casdiff": 0,
+			"12978273": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Azrael",
+				"pass": 1,
+				"prespp": 36,
+				"rush": 11,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12978274": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "P'aa-P'aa",
+				"prespp": 11,
+				"turns": 9,
+				"type": "R"
+			},
+			"12978280": {
+				"name": "Ang'reee-eee",
+				"turns": 13,
+				"type": "R"
+			},
+			"12978281": {
+				"blocks": 1,
+				"name": "Sp'azz'eee",
+				"prespp": 5,
+				"turns": 2,
+				"type": "R"
+			},
+			"12978286": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "M'eeen'eee",
+				"prespp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12978295": {
+				"name": "Kr'ayy'zeee",
+				"type": "R"
+			},
+			"12978342": {
+				"fouls": 1,
+				"name": "Drrr'teee",
+				"rush": 8,
+				"spp": 3,
+				"td": 1,
+				"turns": 12,
+				"type": "R"
+			},
+			"12978379": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Gore'gamel",
+				"prespp": 11,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12978961": {
+				"blocks": 5,
+				"name": "M’aa’jin B’uu",
+				"prespp": 12,
+				"turns": 10,
+				"type": "R"
+			},
+			"13005440": {
+				"name": "B'Arr'Nee",
+				"turns": 10,
+				"type": "R"
+			},
+			"13005441": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Ulric Hotlightning",
+				"turns": 13,
+				"type": "J"
+			},
+			"MERC-1224889-950929M1": {
+				"blocks": 5,
+				"name": "Merc Lord of Change 1",
+				"turns": 5,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1224889",
+	"team": {
+		"945880": {
+			"blocks": 26,
+			"cas": 4,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
+			"name": "Rot Mansion Couriers",
+			"pass": 0,
+			"prespp": 138,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 43,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 145
+		},
+		"950929": {
+			"blocks": 21,
+			"cas": 3,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Gliding 'n' Gnashing Gnaps",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 80,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 19,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 122
 		}
 	}
 }

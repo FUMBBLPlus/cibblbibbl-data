@@ -1,20 +1,260 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4134012",
+	"player": {
 		"900747": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Black Monolith Worshippers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12173110": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Stonemuncher the Ancient",
+				"prespp": 41,
+				"spp": 2,
+				"turns": 15,
+				"type": "B"
+			},
+			"12173151": {
+				"blocks": 2,
+				"name": "Hrkas Prouddeath",
+				"prespp": 30,
+				"turns": 16,
+				"type": "R"
+			},
+			"12173155": {
+				"name": "Frazsa Grimhand",
+				"prespp": 108,
+				"type": "R"
+			},
+			"12296160": {
+				"name": "Krank Cracker",
+				"prespp": 40,
+				"type": "B"
+			},
+			"12399357": {
+				"blocks": 13,
+				"mvp": 1,
+				"name": "Orja Coldless",
+				"prespp": 29,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12399363": {
+				"name": "Squishy Bob",
+				"prespp": 21,
+				"turns": 10,
+				"type": "R"
+			},
+			"12450012": {
+				"name": "Spliff Skyrim",
+				"prespp": 4,
+				"turns": 1,
+				"type": "R"
+			},
+			"12552414": {
+				"blocks": 4,
+				"name": "Uhras the Fearless",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"12581846": {
+				"name": "Eldras the crowned",
+				"prespp": 53,
+				"rush": 18,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12673210": {
+				"blocks": 6,
+				"name": "Rsha Stomper",
+				"prespp": 39,
+				"turns": 11,
+				"type": "B"
+			},
+			"12872915": {
+				"blocks": 3,
+				"name": "Tarik the Haunted",
+				"prespp": 8,
+				"turns": 9,
+				"type": "R"
+			},
+			"12925099": {
+				"blocks": 2,
+				"fouls": 3,
+				"name": "Jean Observed",
+				"turns": 11,
+				"type": "R"
+			},
+			"13010330": {
+				"blocks": 3,
+				"name": "Charle Ironfist",
+				"turns": 16,
+				"type": "R"
+			},
+			"13011282": {
+				"blocks": 6,
+				"name": "Daniel Mouththooth",
+				"turns": 16,
+				"type": "R"
+			},
+			"13011283": {
+				"dead": [
+					1,
+					5,
+					"dodgeFail",
+					null
+				],
+				"name": "Ralf the Brave",
+				"turns": 4,
+				"type": "R"
+			}
 		},
 		"922672": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Gazbag's Hunters",
+			"12515846": {
+				"blocks": 4,
+				"name": "Zunker",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"12515857": {
+				"blocks": 1,
+				"name": "Bellek",
+				"prespp": 4,
+				"rush": 9,
+				"turns": 9,
+				"type": "R"
+			},
+			"12519672": {
+				"blocks": 1,
+				"name": "Nizic",
+				"prespp": 37,
+				"turns": 4,
+				"type": "R"
+			},
+			"12520609": {
+				"blocks": 7,
+				"name": "Ikuz",
+				"prespp": 31,
+				"turns": 16,
+				"type": "R"
+			},
+			"12520610": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Azid",
+				"prespp": 35,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12612981": {
+				"blocks": 10,
+				"cas": 1,
+				"name": "Balck",
+				"prespp": 25,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12639294": {
+				"blocks": 2,
+				"name": "Galzar",
+				"prespp": 27,
+				"turns": 3,
+				"type": "R"
+			},
+			"12667985": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Gulben",
+				"prespp": 23,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12727816": {
+				"blocks": 5,
+				"name": "GiLLad",
+				"prespp": 25,
+				"turns": 13,
+				"type": "B"
+			},
+			"12727817": {
+				"blocks": 5,
+				"name": "Frek",
+				"prespp": 21,
+				"rush": 13,
+				"turns": 16,
+				"type": "R"
+			},
+			"12926926": {
+				"blocks": 5,
+				"name": "GalazarD",
+				"prespp": 6,
+				"rush": 1,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12926927": {
+				"name": "Finian",
+				"type": "R"
+			},
+			"12926928": {
+				"blocks": 1,
+				"name": "Frishel",
+				"turns": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1235872",
+	"team": {
+		"900747": {
+			"blocks": 48,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Black Monolith Worshippers",
+			"pass": 0,
+			"prespp": 393,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 18,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 157
+		},
+		"922672": {
+			"blocks": 50,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Gazbag's Hunters",
+			"pass": 0,
+			"prespp": 254,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 23,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 150
 		}
 	}
 }

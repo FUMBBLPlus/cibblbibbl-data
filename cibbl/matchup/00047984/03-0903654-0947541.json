@@ -1,20 +1,262 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4127287",
+	"player": {
 		"903654": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Scions of Neferata",
-			"scorediff": 0,
-			"tddiff": 0
+			"12219673": {
+				"name": "Ahmose",
+				"prespp": 124,
+				"rush": 15,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12219676": {
+				"blocks": 12,
+				"name": "Senenmut",
+				"prespp": 101,
+				"turns": 16,
+				"type": "R"
+			},
+			"12219678": {
+				"blocks": 4,
+				"int": 1,
+				"name": "Merenre",
+				"pass": -1,
+				"prespp": 54,
+				"rush": 4,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12219681": {
+				"name": "Haremhab",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12219683": {
+				"blocks": 3,
+				"name": "Intef",
+				"prespp": 12,
+				"turns": 12,
+				"type": "R"
+			},
+			"12219684": {
+				"blocks": 4,
+				"name": "Sihathor",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12227199": {
+				"name": "Kentetenka",
+				"prespp": 135,
+				"rush": 12,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12443530": {
+				"name": "Nofret",
+				"prespp": 2,
+				"type": "R"
+			},
+			"12500720": {
+				"blocks": 3,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Bunefer",
+				"prespp": 31,
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"12887791": {
+				"blocks": 3,
+				"name": "Akhenaten",
+				"prespp": 9,
+				"turns": 12,
+				"type": "R"
+			},
+			"12927272": {
+				"blocks": 1,
+				"name": "Thutmose",
+				"turns": 13,
+				"type": "R"
+			},
+			"12927273": {
+				"name": "Narmer",
+				"turns": 16,
+				"type": "R"
+			},
+			"12928110": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Meresankh",
+				"pass": 3,
+				"prespp": 9,
+				"rush": 9,
+				"spp": 4,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12985502": {
+				"name": "Shepseska",
+				"turns": 5,
+				"type": "R"
+			}
 		},
 		"947541": {
+			"12921841": {
+				"blocks": 2,
+				"name": "Alfred Wegrzyn",
+				"prespp": 11,
+				"rush": -1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12921842": {
+				"blocks": 6,
+				"name": "Zanzi Hornek",
+				"prespp": 31,
+				"rush": 10,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12921843": {
+				"name": "Rakkon Grieri",
+				"prespp": 18,
+				"type": "R"
+			},
+			"12921846": {
+				"name": "Suc Hawaste",
+				"type": "R"
+			},
+			"12921847": {
+				"name": "Bagob Lehd",
+				"turns": 6,
+				"type": "R"
+			},
+			"12921849": {
+				"blocks": 3,
+				"name": "Sehren Dernow",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12921851": {
+				"blocks": 4,
+				"name": "Pahr Tyfahvir",
+				"prespp": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"12921855": {
+				"blocks": 1,
+				"name": "Sukht Ohnoften",
+				"turns": 5,
+				"type": "R"
+			},
+			"12979940": {
+				"blocks": 5,
+				"name": "Imma Schnack",
+				"turns": 16,
+				"type": "R"
+			},
+			"12979941": {
+				"blocks": 2,
+				"name": "Whimi Imtooyoungtadi",
+				"turns": 13,
+				"type": "R"
+			},
+			"12979942": {
+				"blocks": 1,
+				"name": "Wekom Twaiheil",
+				"prespp": 4,
+				"turns": 13,
+				"type": "R"
+			},
+			"12981089": {
+				"name": "Bastmi Yup",
+				"type": "R"
+			},
+			"13003483": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Gustavus Darrow",
+				"rush": 15,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"13003484": {
+				"blocks": 1,
+				"name": "Illshoyu Ramen",
+				"turns": 5,
+				"type": "R"
+			},
+			"STAR-Count Luthor Von Drakenborg": {
+				"blocks": 7,
+				"name": "Count Luthor Von Drakenborg",
+				"turns": 16,
+				"type": "S"
+			},
+			"STAR-Quasimordor": {
+				"blocks": 3,
+				"name": "Quasimordor",
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1227249",
+	"team": {
+		"903654": {
+			"blocks": 31,
+			"cas": 1,
+			"casdiff": 1,
+			"comp": 1,
+			"fouls": 0,
+			"int": 1,
+			"mvp": 1,
+			"name": "Scions of Neferata",
+			"pass": 2,
+			"prespp": 486,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 40,
+			"score": 3,
+			"scorediff": 2,
+			"td": 3,
+			"tddiff": 2,
+			"turns": 170
+		},
+		"947541": {
+			"blocks": 37,
 			"cas": 0,
-			"casdiff": 0,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grim Shade Stalkers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 68,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 24,
+			"score": 1,
+			"scorediff": -2,
+			"td": 1,
+			"tddiff": -2,
+			"turns": 165
 		}
 	}
 }

@@ -1,20 +1,240 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4134917",
+	"player": {
 		"855120": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Trantio Dragon Hawks",
-			"scorediff": 0,
-			"tddiff": 0
+			"11596541": {
+				"blocks": 4,
+				"name": "Innocenzo Mastrogiacomo",
+				"prespp": 62,
+				"turns": 16,
+				"type": "R"
+			},
+			"11596545": {
+				"fouls": 1,
+				"name": "Cassiopea Canova",
+				"prespp": 7,
+				"type": "R"
+			},
+			"11921959": {
+				"blocks": 5,
+				"name": "Valfredo Merlino",
+				"prespp": 18,
+				"turns": 10,
+				"type": "R"
+			},
+			"12244086": {
+				"blocks": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Brathig Bitterchin",
+				"prespp": 47,
+				"spp": 7,
+				"turns": 13,
+				"type": "R"
+			},
+			"12346201": {
+				"blocks": 3,
+				"name": "Tabaldin",
+				"prespp": 143,
+				"rush": 11,
+				"turns": 9,
+				"type": "R"
+			},
+			"12449939": {
+				"blocks": 1,
+				"name": "Tredon Coldarm",
+				"prespp": 24,
+				"turns": 3,
+				"type": "R"
+			},
+			"12522995": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Ulrico Sindoni",
+				"prespp": 19,
+				"turns": 2,
+				"type": "R"
+			},
+			"12613508": {
+				"name": "Candido Antonetti",
+				"turns": 8,
+				"type": "R"
+			},
+			"12616813": {
+				"blocks": 4,
+				"cas": 2,
+				"name": "Bel-Aaldebror",
+				"prespp": 37,
+				"rush": 5,
+				"spp": 7,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"12690429": {
+				"blocks": 7,
+				"name": "Goswin Heitz",
+				"prespp": 34,
+				"turns": 16,
+				"type": "R"
+			},
+			"12868229": {
+				"blocks": 3,
+				"name": "Carmela Di Lillo",
+				"turns": 16,
+				"type": "R"
+			},
+			"13006874": {
+				"name": "Iona Cestaro",
+				"turns": 5,
+				"type": "R"
+			},
+			"13036348": {
+				"blocks": 1,
+				"name": "Rithelivo",
+				"prespp": 7,
+				"rush": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"13092894": {
+				"blocks": 3,
+				"name": "Gionata Mello",
+				"turns": 9,
+				"type": "R"
+			}
 		},
 		"949774": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Nuln Golden Eagles",
+			"12959118": {
+				"blocks": 2,
+				"name": "Friedwart Weidemann",
+				"prespp": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"12959121": {
+				"blocks": 9,
+				"name": "Emmerich Keppler",
+				"prespp": 9,
+				"turns": 17,
+				"type": "R"
+			},
+			"12959122": {
+				"blocks": 8,
+				"name": "Rochelle Eckstein",
+				"prespp": 10,
+				"turns": 17,
+				"type": "R"
+			},
+			"12959127": {
+				"blocks": 5,
+				"mvp": 1,
+				"name": "Francisco Yañez",
+				"prespp": 24,
+				"rush": 24,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12959128": {
+				"blocks": 1,
+				"fouls": 6,
+				"name": "Manfred Senger",
+				"prespp": 6,
+				"turns": 11,
+				"type": "R"
+			},
+			"12959133": {
+				"blocks": 3,
+				"name": "Ewald Kümmel",
+				"rush": 3,
+				"turns": 17,
+				"type": "R"
+			},
+			"12959135": {
+				"name": "Adela Linse",
+				"type": "R"
+			},
+			"12959145": {
+				"blocks": 6,
+				"name": "Frank Fellner",
+				"prespp": 7,
+				"turns": 17,
+				"type": "R"
+			},
+			"12982284": {
+				"name": "Aimar Steinmeyer",
+				"prespp": 9,
+				"type": "R"
+			},
+			"12998464": {
+				"blocks": 3,
+				"name": "Henrietta Thomalla",
+				"prespp": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"13093027": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "George Palerock",
+				"retired": true,
+				"turns": 11,
+				"type": "J"
+			},
+			"STAR-Vinny Valhalla": {
+				"blocks": 1,
+				"name": "Vinny Valhalla",
+				"turns": 5,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1236944",
+	"team": {
+		"855120": {
+			"blocks": 39,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Trantio Dragon Hawks",
+			"pass": 0,
+			"prespp": 398,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 32,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 133
+		},
+		"949774": {
+			"blocks": 39,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
+			"name": "Nuln Golden Eagles",
+			"pass": 0,
+			"prespp": 71,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 27,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 145
 		}
 	}
 }

@@ -1,20 +1,256 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4123035",
+	"player": {
 		"905886": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Sabre Mountain Rattlers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12253779": {
+				"blocks": 3,
+				"name": "Charles Umpherston Aitchison",
+				"prespp": 37,
+				"turns": 14,
+				"type": "B"
+			},
+			"12253780": {
+				"blocks": 6,
+				"name": "Gyles Mackrell",
+				"prespp": 38,
+				"turns": 16,
+				"type": "B"
+			},
+			"12253781": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Samuel White Baker",
+				"prespp": 53,
+				"spp": 2,
+				"turns": 12,
+				"type": "B"
+			},
+			"12253782": {
+				"blocks": 3,
+				"name": "Basil Eddis",
+				"prespp": 36,
+				"turns": 10,
+				"type": "B"
+			},
+			"12253784": {
+				"name": "Eldred Pottinger",
+				"prespp": 19,
+				"type": "B"
+			},
+			"12253785": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "E. W. Middlemast",
+				"prespp": 41,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"12261642": {
+				"blocks": 2,
+				"name": "William Cotton Oswell",
+				"prespp": 31,
+				"turns": 11,
+				"type": "B"
+			},
+			"12331221": {
+				"blocks": 9,
+				"name": "John Laird Mair Lawrence",
+				"prespp": 45,
+				"rush": 12,
+				"turns": 16,
+				"type": "B"
+			},
+			"12452889": {
+				"fouls": 5,
+				"mvp": 1,
+				"name": "Geoff Boggletrot",
+				"prespp": 6,
+				"spp": 5,
+				"turns": 6,
+				"type": "R"
+			},
+			"12595032": {
+				"name": "Fredrick Bothleschwitt",
+				"turns": 9,
+				"type": "R"
+			},
+			"12595033": {
+				"name": "Priscilla Archimedes",
+				"pass": 1,
+				"prespp": 12,
+				"rush": 8,
+				"turns": 5,
+				"type": "R"
+			},
+			"12642584": {
+				"name": "Hiram Macpherson",
+				"rush": 13,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12642585": {
+				"fouls": 1,
+				"name": "Duncan Quigley",
+				"turns": 3,
+				"type": "R"
+			}
 		},
 		"950774": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Flamemasters of Zhurr",
+			"12975788": {
+				"name": "Gnytaazz Smalbut",
+				"type": "R"
+			},
+			"12975789": {
+				"name": "Vriomzart Bentoe",
+				"type": "R"
+			},
+			"12975790": {
+				"name": "Krubzaag Eagereater",
+				"rush": 9,
+				"turns": 7,
+				"type": "R"
+			},
+			"12975791": {
+				"name": "Sliirk Redcheater",
+				"type": "R"
+			},
+			"12975796": {
+				"blocks": 5,
+				"name": "G'kak Doomwound",
+				"turns": 16,
+				"type": "R"
+			},
+			"12975797": {
+				"blocks": 4,
+				"name": "Bhalgrakh Hellhammer",
+				"turns": 8,
+				"type": "R"
+			},
+			"12975799": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Ezharr Cinderhoof",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975800": {
+				"blocks": 5,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Glazkatur Cinderhammer",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12975801": {
+				"blocks": 6,
+				"name": "Tharkhorth Burnblaster",
+				"turns": 16,
+				"type": "R"
+			},
+			"12975802": {
+				"blocks": 1,
+				"name": "Darkhorth Dreadwhip",
+				"turns": 16,
+				"type": "R"
+			},
+			"12975809": {
+				"blocks": 6,
+				"name": "Ryrhak Rockhoof",
+				"rush": 19,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"MERC-1222386-950774M1": {
+				"dead": [
+					2,
+					8,
+					"blocked",
+					"12253785"
+				],
+				"fouls": 5,
+				"name": "Merc Hobgoblin 1",
+				"turns": 11,
+				"type": "M"
+			},
+			"MERC-1222386-950774M2": {
+				"fouls": 1,
+				"name": "Merc Chaos Dwarf Blocker 1",
+				"turns": 4,
+				"type": "M"
+			},
+			"MERC-1222386-950774M3": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Merc Minotaur 1",
+				"spp": 2,
+				"turns": 8,
+				"type": "M"
+			},
+			"STAR-Hthark the Unstoppable": {
+				"blocks": 7,
+				"name": "Hthark the Unstoppable",
+				"turns": 16,
+				"type": "S"
+			},
+			"STAR-Schworg'n'Borg": {
+				"blocks": 8,
+				"name": "Schworg'n'Borg",
+				"turns": 16,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1222386",
+	"team": {
+		"905886": {
+			"blocks": 38,
+			"cas": 3,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
+			"name": "Sabre Mountain Rattlers",
+			"pass": 1,
+			"prespp": 318,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 33,
+			"score": 1,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 1,
+			"tddiff": 0,
+			"turns": 134
+		},
+		"950774": {
+			"blocks": 48,
+			"cas": 4,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
+			"name": "Flamemasters of Zhurr",
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 28,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 166
 		}
 	}
 }
