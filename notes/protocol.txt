@@ -1,21 +1,20 @@
-1. run the cache_replays script
-2. run python
-    from cibblbibbl.admin import *
-    missingkillers()
-3. check fame killer awards generated and fix matchups for healed stars
-4. check for only F teams and exclude them
-5. check dead players of the following races:
-    Daemons of Tzeentch: TODO
-    Numas: create a file for the new player in cibblbibbl-data/player
-        {
-            "prevId": "12631951",
-            "prevdeadmatchId": 4055137,
-            "prevreason": "skeletonized"
-        }
-6. check killed players by the following teams:
-    Malal: create a file for the new player in cibblbibbl-data/player
-        {
-        	"prevId": "12030024",
-        	"prevdeadmatchId": 4065840,
-        	"prevreason": "malalized"
-        }
+ 1. Ensure that artworks for awards and achievements are done for new types of tournaments/achievements.
+ 2. Create config files for the new achievements.
+ 3. cibblbibbl/cibblbibbl/jupyter/set_tournament_configs.ipynb
+ 4. python cache_replays.py
+ 5. python resolve_unchained.py
+ 6. python resolve_killedstars.py
+ 7. python show_deadwithmissingkillers.py
+ 8. copypaste results to CIBBL admins channel and delegate the task to someone; once they provide the info:
+ 9. python resolve_missingkillers.py
+10. python exclude_teams.py
+11. python chain_exotic_transfers.py
+12. python export_standings.py
+13. python export_playerperformances.py
+14. python export_bestplayers.py
+15. cibblbibbl/cibblbibbl/jupyter/set_tournament_awarded_status.ipynb
+	1. set awarded to yes for finished tournaments
+	2. run the last block to set status for achievements too
+	TODO: make a script for this step
+16. python export_awards.py 51681-52456
+17. python export_awards_bbcode.py 51681-52456

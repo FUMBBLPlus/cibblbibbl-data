@@ -1,0 +1,203 @@
+{
+	"!excluded": "no",
+	"matchId": "4227847",
+	"player": {
+		"999513": {
+			"13685211": {
+				"blocks": 7,
+				"name": "Jimmu",
+				"turns": 16,
+				"type": "R"
+			},
+			"13685212": {
+				"blocks": 5,
+				"name": "Suizei",
+				"turns": 9,
+				"type": "R"
+			},
+			"13685213": {
+				"blocks": 11,
+				"cas": 2,
+				"name": "Annei",
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"13685214": {
+				"blocks": 8,
+				"name": "Itoku",
+				"turns": 16,
+				"type": "R"
+			},
+			"13685215": {
+				"mvp": 1,
+				"name": "Koan",
+				"rush": 14,
+				"spp": 8,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"13685216": {
+				"blocks": 1,
+				"name": "Korei",
+				"turns": 16,
+				"type": "R"
+			},
+			"13685217": {
+				"blocks": 3,
+				"name": "Kaikan",
+				"turns": 10,
+				"type": "R"
+			},
+			"13685218": {
+				"blocks": 3,
+				"name": "Sujin",
+				"turns": 16,
+				"type": "R"
+			},
+			"13685219": {
+				"blocks": 3,
+				"name": "Suinin",
+				"turns": 16,
+				"type": "R"
+			},
+			"13685220": {
+				"blocks": 5,
+				"name": "Jingu",
+				"turns": 8,
+				"type": "R"
+			},
+			"13685221": {
+				"blocks": 5,
+				"name": "Ojin",
+				"turns": 16,
+				"type": "R"
+			}
+		},
+		"999667": {
+			"13687496": {
+				"blocks": 7,
+				"dead": [
+					1,
+					8,
+					"blocked",
+					"13685213"
+				],
+				"name": "Tolui the Deceitful",
+				"turns": 8,
+				"type": "R"
+			},
+			"13687498": {
+				"blocks": 7,
+				"name": "Merciless Oghul",
+				"turns": 9,
+				"type": "R"
+			},
+			"13687499": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Ariq Boke",
+				"rush": 17,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"13687501": {
+				"blocks": 9,
+				"name": "Khatun the Decadent",
+				"turns": 16,
+				"type": "R"
+			},
+			"13687502": {
+				"blocks": 5,
+				"name": "Tuda Mengu",
+				"turns": 16,
+				"type": "R"
+			},
+			"13687503": {
+				"blocks": 4,
+				"name": "Berke",
+				"turns": 16,
+				"type": "R"
+			},
+			"13687504": {
+				"blocks": 2,
+				"name": "Qulpa",
+				"turns": 4,
+				"type": "R"
+			},
+			"13687506": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Jani Beg",
+				"spp": 2,
+				"turns": 14,
+				"type": "R"
+			},
+			"13687507": {
+				"blocks": 2,
+				"name": "Berdi Beg",
+				"turns": 16,
+				"type": "R"
+			},
+			"13687508": {
+				"blocks": 5,
+				"name": "Khidr the Fallen",
+				"turns": 16,
+				"type": "R"
+			},
+			"13687510": {
+				"blocks": 1,
+				"name": "Murad the Savage",
+				"turns": 9,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1347555",
+	"team": {
+		"999513": {
+			"blocks": 51,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Teikoku Koi",
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 30,
+			"pts": 3,
+			"r": "W",
+			"rush": 14,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 155
+		},
+		"999667": {
+			"blocks": 50,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Purple Horde",
+			"pass": 0,
+			"prespp": 0,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 17,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 140
+		}
+	}
+}

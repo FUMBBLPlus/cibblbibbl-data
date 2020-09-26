@@ -1,0 +1,226 @@
+{
+	"!excluded": "no",
+	"matchId": "4209165",
+	"player": {
+		"988785": {
+			"13520156": {
+				"blocks": 2,
+				"comp": 1,
+				"name": "Fildarae the Katana",
+				"pass": 4,
+				"prespp": 9,
+				"rush": 22,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"13520157": {
+				"blocks": 6,
+				"name": "Neia the Uchigatana",
+				"prespp": 4,
+				"rush": 4,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"13520158": {
+				"blocks": 4,
+				"name": "Lura the Wakizashi",
+				"turns": 13,
+				"type": "R"
+			},
+			"13520159": {
+				"name": "Acolyte Phinara",
+				"turns": 10,
+				"type": "R"
+			},
+			"13520160": {
+				"blocks": 1,
+				"name": "Acolyte Rina",
+				"turns": 8,
+				"type": "R"
+			},
+			"13520161": {
+				"blocks": 1,
+				"name": "Acolyte Naevys",
+				"turns": 13,
+				"type": "R"
+			},
+			"13520162": {
+				"blocks": 10,
+				"name": "Acolyte Alyndra",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"13520163": {
+				"blocks": 2,
+				"name": "Acolyte Eletha",
+				"prespp": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"13520164": {
+				"blocks": 1,
+				"dead": [
+					1,
+					4,
+					"blocked",
+					"13559151"
+				],
+				"name": "Acolyte Lithoniel",
+				"turns": 4,
+				"type": "R"
+			},
+			"13520165": {
+				"name": "Acolyte Neia",
+				"turns": 16,
+				"type": "R"
+			},
+			"13520166": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "Acolyte Darunia",
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			}
+		},
+		"991172": {
+			"13559146": {
+				"blocks": 7,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Heinrich von Morgenstern",
+				"spp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"13559151": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Wilhelm von Ganz",
+				"rush": 21,
+				"spp": 5,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"13559158": {
+				"blocks": 5,
+				"name": "Gottfried von Bruckner",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13559168": {
+				"blocks": 8,
+				"name": "Gerhard von Aric",
+				"turns": 16,
+				"type": "R"
+			},
+			"13559170": {
+				"blocks": 2,
+				"name": "Otto von Vandam",
+				"prespp": 2,
+				"turns": 5,
+				"type": "R"
+			},
+			"13559173": {
+				"blocks": 4,
+				"cas": 1,
+				"name": "Siegfried von Glick",
+				"prespp": 5,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13559175": {
+				"blocks": 1,
+				"name": "Karl von Gruber",
+				"turns": 9,
+				"type": "R"
+			},
+			"13559176": {
+				"blocks": 3,
+				"name": "Konrad von Kaspen",
+				"turns": 16,
+				"type": "R"
+			},
+			"13559177": {
+				"name": "Winrich von Einholt",
+				"turns": 16,
+				"type": "R"
+			},
+			"13559190": {
+				"name": "Johann von Schiffer",
+				"type": "R"
+			},
+			"13559198": {
+				"blocks": 2,
+				"name": "Werner von Krieber",
+				"turns": 10,
+				"type": "R"
+			},
+			"13560789": {
+				"fouls": 1,
+				"name": "Julius Coldtree",
+				"retired": true,
+				"turns": 16,
+				"type": "J"
+			},
+			"MERC-1326029-991172M1": {
+				"fouls": 1,
+				"name": "Merc Warrior of Ulric 1",
+				"turns": 6,
+				"type": "M"
+			}
+		}
+	},
+	"replayId": "1326029",
+	"team": {
+		"988785": {
+			"blocks": 31,
+			"cas": 0,
+			"casdiff": -3,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Sisters of the Blade",
+			"pass": 4,
+			"prespp": 22,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 26,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 141
+		},
+		"991172": {
+			"blocks": 37,
+			"cas": 3,
+			"casdiff": 3,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Hammers of the White Wolf",
+			"pass": 0,
+			"prespp": 9,
+			"prestige": 10,
+			"pts": 1,
+			"r": "D",
+			"rush": 21,
+			"score": 1,
+			"scorediff": 0,
+			"td": 1,
+			"tddiff": 0,
+			"turns": 157
+		}
+	}
+}

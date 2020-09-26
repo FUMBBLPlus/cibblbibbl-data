@@ -1,0 +1,246 @@
+{
+	"!excluded": "no",
+	"matchId": "4232516",
+	"player": {
+		"959010": {
+			"13087459": {
+				"blocks": 11,
+				"name": "Hyperion",
+				"prespp": 50,
+				"turns": 15,
+				"type": "B"
+			},
+			"13087463": {
+				"blocks": 3,
+				"cas": 2,
+				"name": "Prometheus",
+				"prespp": 15,
+				"spp": 4,
+				"turns": 15,
+				"type": "B"
+			},
+			"13087465": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "Oceanus",
+				"prespp": 34,
+				"spp": 2,
+				"turns": 15,
+				"type": "B"
+			},
+			"13087481": {
+				"name": "Ladybug",
+				"pass": 1,
+				"prespp": 15,
+				"rush": 14,
+				"turns": 8,
+				"type": "R"
+			},
+			"13087488": {
+				"name": "Dragonfly",
+				"turns": 11,
+				"type": "R"
+			},
+			"13087506": {
+				"name": "Finch",
+				"prespp": 15,
+				"rush": 2,
+				"turns": 7,
+				"type": "R"
+			},
+			"13226868": {
+				"name": "Bumblebee",
+				"prespp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"13279210": {
+				"name": "Gnat",
+				"rush": 8,
+				"spp": 3,
+				"td": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"13593900": {
+				"name": "Lucky Butterfly",
+				"pass": 1,
+				"prespp": 4,
+				"turns": 4,
+				"type": "R"
+			},
+			"13593913": {
+				"fouls": 1,
+				"name": "Tinkerbelle",
+				"turns": 12,
+				"type": "R"
+			},
+			"13680798": {
+				"fouls": 1,
+				"name": "Mudskipper",
+				"prespp": 3,
+				"turns": 8,
+				"type": "R"
+			},
+			"13695084": {
+				"name": "Hummingbird",
+				"turns": 3,
+				"type": "R"
+			},
+			"13695100": {
+				"name": "Trixie Pixie",
+				"prespp": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"13719224": {
+				"blocks": 3,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Atlas",
+				"spp": 7,
+				"turns": 15,
+				"type": "B"
+			},
+			"13719227": {
+				"name": "Chickadee",
+				"turns": 12,
+				"type": "R"
+			}
+		},
+		"961427": {
+			"13119048": {
+				"blocks": 8,
+				"name": "Dufa",
+				"prespp": 25,
+				"turns": 15,
+				"type": "R"
+			},
+			"13119049": {
+				"mvp": 1,
+				"name": "Hefring",
+				"prespp": 10,
+				"spp": 5,
+				"turns": 10,
+				"type": "R"
+			},
+			"13119051": {
+				"name": "Hrönn",
+				"retired": true,
+				"turns": 11,
+				"type": "R"
+			},
+			"13119052": {
+				"blocks": 4,
+				"name": "Bölge",
+				"prespp": 16,
+				"rush": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"13177146": {
+				"blocks": 1,
+				"comp": 2,
+				"name": "Himminglaeva",
+				"pass": 9,
+				"prespp": 31,
+				"rush": 22,
+				"spp": 5,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"13574899": {
+				"blocks": 5,
+				"name": "Mimir",
+				"prespp": 16,
+				"turns": 7,
+				"type": "R"
+			},
+			"13643243": {
+				"name": "Frøya",
+				"prespp": 4,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"13719009": {
+				"name": "Graham Fastbone",
+				"retired": true,
+				"turns": 15,
+				"type": "J"
+			},
+			"13719010": {
+				"name": "Trey Vilerock",
+				"retired": true,
+				"turns": 6,
+				"type": "J"
+			},
+			"13719011": {
+				"blocks": 2,
+				"dead": [
+					1,
+					8,
+					"blocked",
+					"13087463"
+				],
+				"name": "Cory Strongbrook",
+				"turns": 8,
+				"type": "J"
+			},
+			"13719012": {
+				"blocks": 1,
+				"name": "William Darklightning",
+				"retired": true,
+				"turns": 9,
+				"type": "J"
+			}
+		}
+	},
+	"replayId": "1352858",
+	"team": {
+		"959010": {
+			"blocks": 24,
+			"cas": 4,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Towering Titans of Tartarox",
+			"pass": 2,
+			"prespp": 140,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 24,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 156
+		},
+		"961427": {
+			"blocks": 21,
+			"cas": 0,
+			"casdiff": -4,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Dökkálfar Dreki",
+			"pass": 9,
+			"prespp": 102,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 23,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 126
+		}
+	}
+}

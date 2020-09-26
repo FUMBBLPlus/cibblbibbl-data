@@ -1,0 +1,227 @@
+{
+	"!excluded": "no",
+	"matchId": "4233107",
+	"player": {
+		"1001303": {
+			"13715275": {
+				"blocks": 12,
+				"name": "Abul-Simbel",
+				"turns": 17,
+				"type": "R"
+			},
+			"13715277": {
+				"blocks": 6,
+				"name": "Tefast Apoto",
+				"prespp": 16,
+				"rush": 26,
+				"spp": 3,
+				"td": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"13715278": {
+				"name": "Kasut Nebaten",
+				"prespp": 4,
+				"turns": 5,
+				"type": "R"
+			},
+			"13715279": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Gensa Heror",
+				"prespp": 4,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"13715280": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "Apar Tabra",
+				"rush": 4,
+				"spp": 5,
+				"turns": 17,
+				"type": "R"
+			},
+			"13715285": {
+				"blocks": 6,
+				"name": "Tuba",
+				"turns": 16,
+				"type": "R"
+			},
+			"13715287": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Yafeu",
+				"turns": 12,
+				"type": "R"
+			},
+			"13715294": {
+				"blocks": 4,
+				"name": "Sechet",
+				"turns": 7,
+				"type": "R"
+			},
+			"13715303": {
+				"blocks": 3,
+				"name": "Maibe",
+				"turns": 8,
+				"type": "R"
+			},
+			"13715309": {
+				"blocks": 3,
+				"name": "Merit",
+				"turns": 17,
+				"type": "R"
+			},
+			"13715310": {
+				"blocks": 2,
+				"dead": [
+					1,
+					5,
+					"blocked",
+					"13720697"
+				],
+				"fouls": 2,
+				"name": "Badru",
+				"turns": 4,
+				"type": "R"
+			},
+			"13721480": {
+				"blocks": 10,
+				"name": "Arkham the Black",
+				"turns": 17,
+				"type": "R"
+			}
+		},
+		"1001645": {
+			"13720697": {
+				"blocks": 6,
+				"cas": 2,
+				"name": "Strondor",
+				"spp": 4,
+				"turns": 17,
+				"type": "B"
+			},
+			"13720698": {
+				"blocks": 5,
+				"name": "Bozlog",
+				"prespp": 2,
+				"turns": 17,
+				"type": "B"
+			},
+			"13720699": {
+				"name": "Urmok Daleg",
+				"turns": 8,
+				"type": "R"
+			},
+			"13720700": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Thulgor",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 3,
+				"type": "B"
+			},
+			"13720701": {
+				"blocks": 3,
+				"comp": 2,
+				"name": "Taldon Blair",
+				"pass": 2,
+				"rush": 8,
+				"spp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"13720702": {
+				"blocks": 3,
+				"name": "Kaiden Galbront",
+				"turns": 17,
+				"type": "R"
+			},
+			"13720703": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Tristan Galbront",
+				"spp": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"13720704": {
+				"blocks": 1,
+				"name": "Cragan Dines",
+				"turns": 17,
+				"type": "R"
+			},
+			"13720705": {
+				"name": "Braxton Scarsol",
+				"type": "R"
+			},
+			"13720706": {
+				"blocks": 1,
+				"name": "Raga Roland",
+				"turns": 3,
+				"type": "R"
+			},
+			"13720707": {
+				"name": "Daka Dribbelsnot",
+				"turns": 12,
+				"type": "R"
+			},
+			"13721241": {
+				"blocks": 3,
+				"name": "Duane Grottystream",
+				"pass": -1,
+				"retired": true,
+				"turns": 17,
+				"type": "J"
+			}
+		}
+	},
+	"replayId": "1353535",
+	"team": {
+		"1001303": {
+			"blocks": 59,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
+			"name": "Geheb's Lions",
+			"pass": 0,
+			"prespp": 24,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 30,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 154
+		},
+		"1001645": {
+			"blocks": 26,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 2,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Grimbonian Giants",
+			"pass": 1,
+			"prespp": 7,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 8,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 141
+		}
+	}
+}

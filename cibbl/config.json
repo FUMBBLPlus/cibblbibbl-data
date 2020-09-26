@@ -3,15 +3,33 @@
 		"cbe01"
 	],
 	"code": {
+		"!NOTES": {
+			"longname": "Maximum FUMBBL length is 50 minus 'CIBBL - Y99, Summer - ' which lets 27; shorname line end should be LEQ than 55 with tab size of 4. CAYCE is max length."
+		},
 		"CACC": {
 			"bestplayersname": "Altdorf College Honorary Graduate",
 			"shortname": "Altdorf College Cup",
 			"longname": "Altdorf College Cup"
 		},
+		"CAYCE": {
+			"bestplayersname": "All You Can Eat",
+			"shortname": "Eichenschatten Grand Feast",
+			"longname": "Eichenschatten Grand Feast"
+		},
+		"CBB": {
+			"bestplayersname": "Blitzing Beauty",
+			"shortname": "City of Spires B. P. Bowl",
+			"longname": "City of Spires Beauty Pageant Bowl"
+		},
 		"CBC": {
 			"bestplayersname": "Rising Out Of Carnage",
 			"shortname": "Bloodskull Chalice",
 			"longname": "Bloodskull Chalice"
+		},
+		"CBR": {
+			"bestplayersname": "Blood Rage",
+			"shortname": "Brass Keep Tournament",
+			"longname": "Brass Keep Tournament"
 		},
 		"CCAK": {
 			"bestplayersname": "Inspired Drinker",
@@ -33,15 +51,40 @@
 			"shortname": "CabalVision Invitational",
 			"longname": "CabalVision Invitational"
 		},
+		"CDOG": {
+			"bestplayersname": "Death or Glory",
+			"shortname": "Karak Kadrin Clash",
+			"longname": "Karak Kadrin Clash"
+		},
 		"CEE": {
 			"bestplayersname": "Not With A Whimper, But With A Bang",
 			"shortname": "Explosion’s Edge",
 			"longname": "Explosion’s Edge"
 		},
+		"CES": {
+			"bestplayersname": "Escapist",
+			"shortname": "Inevitable City Wanderer C.",
+			"longname": "Inevitable City Wanderer Cup"
+		},
+		"CET": {
+			"bestplayersname": "Eternal",
+			"shortname": "Khemri Liche Bowl Cup",
+			"longname": "Khemri Liche Bowl Cup"
+		},
+		"CF": {
+			"bestplayersname": "Futuristic",
+			"shortname": "Nuln Invitational",
+			"longname": "Nuln Invitational"
+		},
 		"CFG": {
 			"bestplayersname": "Flying Colors",
 			"shortname": "Feather's Gate",
 			"longname": "Feather's Gate"
+		},
+		"CFT": {
+			"bestplayersname": "First Try",
+			"shortname": "Losterikson’s First T.",
+			"longname": "Losterikson’s First Tournament"
 		},
 		"CGCECC": {
 			"bestplayersname": "A Special Specimen Indeed",
@@ -57,6 +100,11 @@
 			"bestplayersname": "Exemplar of Glory",
 			"shortname": "Heart of Glory",
 			"longname": "Heart of Glory"
+		},
+		"CIC": {
+			"bestplayersname": "Ice Cold",
+			"shortname": "Praag Invasion Tourney",
+			"longname": "Praag Invasion Tourney"
 		},
 		"CLC": {
 			"bestplayersname": "Growth Potential",
@@ -88,10 +136,20 @@
 			"shortname": "Mushroom Gate",
 			"longname": "Mushroom Gate"
 		},
+		"CNB": {
+			"bestplayersname": "Nuffle's Blessing",
+			"shortname": "The Gilded Throne",
+			"longname": "The Gilded Throne"
+		},
 		"COC": {
 			"bestplayersname": "Lords of Balance (Obsidian)",
 			"shortname": "Obsidian Chalice",
 			"longname": "Obsidian Chalice"
+		},
+		"CP": {
+			"bestplayersname": "Pathfinder",
+			"shortname": "Skeggi Invitational",
+			"longname": "Skeggi Invitational"
 		},
 		"CPC": {
 			"bestplayersname": "Lords of Balance (Pearl)",
@@ -108,6 +166,21 @@
 			"shortname": "Sleeper's Gate",
 			"longname": "Sleeper's Gate"
 		},
+		"CSLA": {
+			"bestplayersname": "Slasher",
+			"shortname": "Messerheim Invitational",
+			"longname": "Messerheim Invitational"
+		},
+		"CSLE": {
+			"bestplayersname": "Sleepless",
+			"shortname": "CV Late Night Special T.",
+			"longname": "Cabalvision Late Night Special Tourney"
+		},
+		"CT1P": {
+			"bestplayersname": "The 1%",
+			"shortname": "Weijin Grand Nobility T.",
+			"longname": "Weijin Grand Nobility Tourney"
+		},
 		"CTGB": {
 			"bestplayersname": "Master of the Black Gate",
 			"shortname": "Twin Gates (Black)",
@@ -118,10 +191,20 @@
 			"shortname": "Twin Gates (White)",
 			"longname": "Twin Gates (White)"
 		},
+		"CTU": {
+			"bestplayersname": "Thumb Up",
+			"shortname": "Athel Loren Green Thumb C.",
+			"longname": "Athel Loren Green Thumb Cup"
+		},
 		"CVC": {
 			"bestplayersname": "Sipping The Witches Brew",
 			"shortname": "Vile Cauldron",
 			"longname": "Vile Cauldron"
+		},
+		"CWUC": {
+			"bestplayersname": "Wake Up Call",
+			"shortname": "CV Early Morning Special T.",
+			"longname": "Cabalvision Early Morning Special Tourney"
 		},
 		"CYS": {
 			"bestplayersname": "Promise of Greatness",
@@ -184,21 +267,26 @@
 			"longname": "Cloth Division"
 		},
 		"D12": {
-			"bestplayersname": null,
+			"bestplayersname": "Excellent on Paper",
 			"shortname": "Paper Division",
 			"longname": "Paper Division"
 		},
 		"D13": {
-			"bestplayersname": null,
+			"bestplayersname": "Leather Rebel",
 			"shortname": "Leather Division",
 			"longname": "Leather Division"
 		},
 		"D14": {
-			"bestplayersname": null,
+			"bestplayersname": "Stick in the Mud",
 			"shortname": "Mud Division",
 			"longname": "Mud Division"
 		},
 		"D15": {
+			"bestplayersname": "Dust Devil",
+			"shortname": "Dust Division",
+			"longname": "Dust Division"
+		},
+		"D16": {
 			"bestplayersname": null,
 			"shortname": "Rock Division",
 			"longname": "Rock Division"

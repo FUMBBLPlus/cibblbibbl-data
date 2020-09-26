@@ -1,0 +1,222 @@
+{
+	"!excluded": "no",
+	"matchId": "4232529",
+	"player": {
+		"999653": {
+			"13687336": {
+				"blocks": 6,
+				"name": "The Messenger",
+				"turns": 16,
+				"type": "B"
+			},
+			"13687337": {
+				"blocks": 12,
+				"name": "The Quiet Mountain",
+				"prespp": 11,
+				"turns": 16,
+				"type": "B"
+			},
+			"13687339": {
+				"blocks": 7,
+				"cas": 1,
+				"name": "The Philosopher",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"13687341": {
+				"blocks": 11,
+				"name": "The Chronicler",
+				"turns": 16,
+				"type": "B"
+			},
+			"13687345": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Hope Skylight",
+				"prespp": 6,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13687346": {
+				"blocks": 4,
+				"name": "Faith Thunder",
+				"rush": 10,
+				"spp": 3,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"13687347": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Foresight Comet",
+				"prespp": 3,
+				"rush": 18,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"13687348": {
+				"blocks": 2,
+				"name": "Wanderlust Wingsoul",
+				"turns": 16,
+				"type": "R"
+			},
+			"13687349": {
+				"blocks": 2,
+				"name": "Peace Treebark",
+				"turns": 16,
+				"type": "R"
+			},
+			"13687350": {
+				"blocks": 3,
+				"name": "Intuition Clifftop",
+				"turns": 15,
+				"type": "R"
+			},
+			"13687351": {
+				"blocks": 1,
+				"name": "Justice Cavedome",
+				"turns": 10,
+				"type": "R"
+			}
+		},
+		"999667": {
+			"13687498": {
+				"blocks": 11,
+				"name": "Merciless Oghul",
+				"prespp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"13687499": {
+				"blocks": 3,
+				"name": "Ariq Boke",
+				"prespp": 11,
+				"rush": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"13687501": {
+				"blocks": 4,
+				"name": "Khatun the Decadent",
+				"prespp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"13687502": {
+				"blocks": 1,
+				"name": "Tuda Mengu",
+				"prespp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"13687503": {
+				"blocks": 3,
+				"name": "Berke",
+				"prespp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"13687504": {
+				"dead": [
+					2,
+					1,
+					"blocked",
+					"13687339"
+				],
+				"fouls": 1,
+				"name": "Qulpa",
+				"prespp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"13687506": {
+				"blocks": 6,
+				"name": "Jani Beg",
+				"prespp": 8,
+				"turns": 14,
+				"type": "R"
+			},
+			"13687507": {
+				"blocks": 1,
+				"name": "Berdi Beg",
+				"prespp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"13687508": {
+				"blocks": 1,
+				"name": "Khidr the Fallen",
+				"turns": 14,
+				"type": "R"
+			},
+			"13687510": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Murad the Savage",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"13692798": {
+				"blocks": 11,
+				"mvp": 1,
+				"name": "Hadji the Bloodless",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1352886",
+	"team": {
+		"999653": {
+			"blocks": 55,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Tengalusho Tramplers",
+			"pass": 0,
+			"prespp": 27,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 28,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 163
+		},
+		"999667": {
+			"blocks": 44,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Purple Horde",
+			"pass": 0,
+			"prespp": 48,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 7,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 155
+		}
+	}
+}
