@@ -1,20 +1,251 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4233609",
+	"player": {
 		"950644": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Drakwold Thicketkeepers",
-			"scorediff": 0,
-			"tddiff": 0
+			"12973779": {
+				"blocks": 4,
+				"name": "Kodama",
+				"prespp": 28,
+				"turns": 16,
+				"type": "R"
+			},
+			"12973788": {
+				"blocks": 5,
+				"name": "Meliae",
+				"prespp": 25,
+				"turns": 16,
+				"type": "R"
+			},
+			"12973793": {
+				"blocks": 8,
+				"name": "Metsavana",
+				"prespp": 15,
+				"turns": 16,
+				"type": "R"
+			},
+			"12973818": {
+				"blocks": 5,
+				"comp": 1,
+				"name": "Nariphon",
+				"pass": 2,
+				"prespp": 19,
+				"rush": 4,
+				"spp": 1,
+				"turns": 14,
+				"type": "R"
+			},
+			"12978574": {
+				"blocks": 2,
+				"comp": 1,
+				"fouls": 1,
+				"name": "Beorl",
+				"pass": 5,
+				"prespp": 37,
+				"rush": 4,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"12980899": {
+				"blocks": 12,
+				"name": "Trey Blueeagle",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"13003636": {
+				"blocks": 1,
+				"name": "Ian Deeptree",
+				"prespp": 10,
+				"turns": 16,
+				"type": "R"
+			},
+			"13571049": {
+				"blocks": 6,
+				"comp": 1,
+				"name": "Gabrielle Carsys",
+				"pass": 3,
+				"prespp": 16,
+				"rush": 5,
+				"spp": 4,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"13634227": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Adalyn Nevarious",
+				"prespp": 7,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"13703159": {
+				"name": "Evangeline Acear",
+				"prespp": 3,
+				"rush": 15,
+				"spp": 3,
+				"td": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"13718363": {
+				"comp": 1,
+				"mvp": 1,
+				"name": "Adelyn Caylus",
+				"pass": 1,
+				"rush": 1,
+				"spp": 6,
+				"turns": 15,
+				"type": "R"
+			}
 		},
 		"980716": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Emperor's True Face",
+			"13392396": {
+				"blocks": 8,
+				"name": "Blebious",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"13392398": {
+				"blocks": 8,
+				"name": "Ulceruenza",
+				"prespp": 14,
+				"turns": 16,
+				"type": "R"
+			},
+			"13392401": {
+				"blocks": 8,
+				"mvp": 1,
+				"name": "Eczemeumon",
+				"prespp": 24,
+				"spp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"13392403": {
+				"dead": [
+					1,
+					2,
+					"blocked",
+					"13634227"
+				],
+				"name": "Ebolintu",
+				"turns": 1,
+				"type": "R"
+			},
+			"13392407": {
+				"blocks": 6,
+				"comp": 1,
+				"name": "Verrucius",
+				"pass": 1,
+				"prespp": 48,
+				"rush": 16,
+				"spp": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"13392408": {
+				"fouls": 1,
+				"name": "Bronkothia",
+				"turns": 9,
+				"type": "R"
+			},
+			"13392409": {
+				"name": "Glulgus",
+				"turns": 6,
+				"type": "R"
+			},
+			"13392410": {
+				"fouls": 1,
+				"name": "Festerid",
+				"prespp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"13409651": {
+				"name": "Poisonblade",
+				"prespp": 6,
+				"turns": 5,
+				"type": "R"
+			},
+			"13560042": {
+				"name": "Epidemoth",
+				"turns": 9,
+				"type": "R"
+			},
+			"13560043": {
+				"blocks": 10,
+				"name": "Bronkosus",
+				"prespp": 17,
+				"rush": 9,
+				"spp": 3,
+				"td": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"13724042": {
+				"fouls": 2,
+				"name": "Fleshpity",
+				"rush": 4,
+				"spp": 3,
+				"td": 1,
+				"turns": 9,
+				"type": "R"
+			},
+			"13725209": {
+				"name": "Plagueanon",
+				"turns": 7,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1354114",
+	"team": {
+		"950644": {
+			"blocks": 49,
+			"cas": 2,
+			"casdiff": 2,
+			"comp": 4,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Drakwold Thicketkeepers",
+			"pass": 11,
+			"prespp": 177,
+			"prestige": 0,
+			"pts": 1,
+			"r": "D",
+			"rush": 29,
+			"score": 2,
 			"scorediff": 0,
-			"tddiff": 0
+			"td": 2,
+			"tddiff": 0,
+			"turns": 170
+		},
+		"980716": {
+			"blocks": 40,
+			"cas": 0,
+			"casdiff": -2,
+			"comp": 1,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
+			"name": "Emperor's True Face",
+			"pass": 1,
+			"prespp": 118,
+			"prestige": 0,
+			"pts": 1,
+			"r": "D",
+			"rush": 29,
+			"score": 2,
+			"scorediff": 0,
+			"td": 2,
+			"tddiff": 0,
+			"turns": 130
 		}
 	}
 }

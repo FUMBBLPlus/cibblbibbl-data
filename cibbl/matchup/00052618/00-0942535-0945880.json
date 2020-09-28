@@ -1,20 +1,244 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4233717",
+	"player": {
 		"942535": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Star Metal Sentinels",
-			"scorediff": 0,
-			"tddiff": 0
+			"12840992": {
+				"blocks": 5,
+				"name": "Father Grungi",
+				"prespp": 32,
+				"turns": 16,
+				"type": "R"
+			},
+			"12840993": {
+				"blocks": 4,
+				"name": "Tungil Quicksilverson",
+				"prespp": 35,
+				"turns": 16,
+				"type": "R"
+			},
+			"12840996": {
+				"blocks": 1,
+				"name": "Borek Steamforce",
+				"prespp": 76,
+				"rush": 10,
+				"spp": 3,
+				"td": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"12840999": {
+				"blocks": 2,
+				"mvp": 1,
+				"name": "Hammet Goldstriker",
+				"prespp": 44,
+				"spp": 5,
+				"turns": 7,
+				"type": "R"
+			},
+			"12841000": {
+				"blocks": 4,
+				"name": "Uri Steelwall",
+				"prespp": 33,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841001": {
+				"blocks": 10,
+				"cas": 2,
+				"name": "Vardak Towerlord",
+				"prespp": 51,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841005": {
+				"blocks": 4,
+				"name": "Snorri Ironson",
+				"turns": 10,
+				"type": "R"
+			},
+			"12841006": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "Haggle Sourfist",
+				"prespp": 6,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841007": {
+				"blocks": 2,
+				"name": "Mordak Runemaster",
+				"prespp": 16,
+				"turns": 16,
+				"type": "R"
+			},
+			"12841008": {
+				"blocks": 3,
+				"name": "Nix Stonefist",
+				"prespp": 9,
+				"turns": 7,
+				"type": "R"
+			},
+			"12841010": {
+				"blocks": 1,
+				"name": "Vilk Silverton",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"12907698": {
+				"blocks": 7,
+				"name": "Bjorn Dragonbane",
+				"prespp": 35,
+				"turns": 16,
+				"type": "R"
+			}
 		},
 		"945880": {
-			"cas": 0,
-			"casdiff": 0,
+			"12893991": {
+				"blocks": 12,
+				"cas": 1,
+				"name": "Slaugox Gnarlsore",
+				"prespp": 60,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"12893992": {
+				"blocks": 10,
+				"mvp": 1,
+				"name": "Ghoyle Poxgut",
+				"prespp": 44,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"12893994": {
+				"blocks": 9,
+				"name": "Malarestus Plaguehelm",
+				"prespp": 20,
+				"turns": 16,
+				"type": "R"
+			},
+			"12893996": {
+				"blocks": 7,
+				"name": "Verrucugnus Toadflesh",
+				"prespp": 45,
+				"turns": 16,
+				"type": "R"
+			},
+			"12894003": {
+				"blocks": 10,
+				"name": "Maggonellus Rankpulp",
+				"prespp": 35,
+				"turns": 16,
+				"type": "R"
+			},
+			"12894013": {
+				"fouls": 1,
+				"name": "Poid",
+				"prespp": 3,
+				"turns": 16,
+				"type": "R"
+			},
+			"12894023": {
+				"name": "Mould",
+				"rush": 10,
+				"turns": 15,
+				"type": "R"
+			},
+			"12894027": {
+				"fouls": 1,
+				"name": "Snat",
+				"prespp": 3,
+				"turns": 8,
+				"type": "R"
+			},
+			"12933983": {
+				"name": "Gherm",
+				"prespp": 4,
+				"turns": 5,
+				"type": "R"
+			},
+			"12969572": {
+				"blocks": 12,
+				"cas": 1,
+				"name": "Typhyidus Goreblob",
+				"prespp": 50,
+				"rush": 11,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13005644": {
+				"dead": [
+					1,
+					6,
+					"blocked",
+					"12841001"
+				],
+				"name": "Slyim",
+				"turns": 6,
+				"type": "R"
+			},
+			"13181282": {
+				"blocks": 9,
+				"name": "Uconaabûlbox the Pheculent",
+				"prespp": 9,
+				"turns": 16,
+				"type": "B"
+			},
+			"13613340": {
+				"name": "Komop",
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1354233",
+	"team": {
+		"942535": {
+			"blocks": 52,
+			"cas": 3,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Star Metal Sentinels",
+			"pass": 0,
+			"prespp": 354,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 10,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 160
+		},
+		"945880": {
+			"blocks": 69,
+			"cas": 2,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
 			"name": "Rot Mansion Couriers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 273,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 21,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 162
 		}
 	}
 }

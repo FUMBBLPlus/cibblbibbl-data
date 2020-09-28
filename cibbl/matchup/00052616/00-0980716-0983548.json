@@ -1,20 +1,250 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4233552",
+	"player": {
 		"980716": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Emperor's True Face",
-			"scorediff": 0,
-			"tddiff": 0
+			"13392396": {
+				"blocks": 10,
+				"name": "Blebious",
+				"prespp": 7,
+				"turns": 17,
+				"type": "R"
+			},
+			"13392398": {
+				"blocks": 11,
+				"name": "Ulceruenza",
+				"prespp": 14,
+				"turns": 17,
+				"type": "R"
+			},
+			"13392401": {
+				"blocks": 13,
+				"name": "Eczemeumon",
+				"prespp": 24,
+				"turns": 17,
+				"type": "R"
+			},
+			"13392403": {
+				"blocks": 6,
+				"name": "Ebolintu",
+				"turns": 17,
+				"type": "R"
+			},
+			"13392407": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Verrucius",
+				"prespp": 40,
+				"rush": 24,
+				"spp": 8,
+				"td": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"13392408": {
+				"fouls": 1,
+				"name": "Bronkothia",
+				"turns": 8,
+				"type": "R"
+			},
+			"13392409": {
+				"fouls": 1,
+				"name": "Glulgus",
+				"turns": 7,
+				"type": "R"
+			},
+			"13392410": {
+				"name": "Festerid",
+				"prespp": 2,
+				"type": "R"
+			},
+			"13392413": {
+				"name": "Yigulan",
+				"retired": true,
+				"turns": 4,
+				"type": "R"
+			},
+			"13409651": {
+				"blocks": 2,
+				"name": "Poisonblade",
+				"prespp": 6,
+				"turns": 11,
+				"type": "R"
+			},
+			"13560042": {
+				"blocks": 1,
+				"name": "Epidemoth",
+				"turns": 14,
+				"type": "R"
+			},
+			"13560043": {
+				"blocks": 2,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Bronkosus",
+				"prespp": 10,
+				"spp": 7,
+				"turns": 12,
+				"type": "R"
+			},
+			"13724042": {
+				"name": "Fleshpity",
+				"turns": 11,
+				"type": "R"
+			},
+			"MERC-1354056-980716M1": {
+				"blocks": 3,
+				"name": "Merc Rotter 1",
+				"turns": 17,
+				"type": "M"
+			}
 		},
 		"983548": {
-			"cas": 0,
+			"13437093": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Varg \"the Wickedness\"",
+				"prespp": 18,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13437099": {
+				"blocks": 4,
+				"name": "Blackthorn",
+				"prespp": 16,
+				"rush": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13437100": {
+				"blocks": 1,
+				"name": "Necrobutcher",
+				"prespp": 7,
+				"rush": 9,
+				"turns": 14,
+				"type": "R"
+			},
+			"13437101": {
+				"blocks": 6,
+				"name": "Hellhammer",
+				"prespp": 19,
+				"turns": 11,
+				"type": "R"
+			},
+			"13437102": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Maniac",
+				"pass": 3,
+				"prespp": 3,
+				"rush": 5,
+				"spp": 1,
+				"turns": 13,
+				"type": "R"
+			},
+			"13437105": {
+				"blocks": 5,
+				"name": "Teloch",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13437109": {
+				"name": "Ghul",
+				"type": "R"
+			},
+			"13437112": {
+				"name": "Samoth",
+				"prespp": 23,
+				"rush": 7,
+				"turns": 3,
+				"type": "R"
+			},
+			"13437118": {
+				"blocks": 2,
+				"name": "Demonaz",
+				"prespp": 8,
+				"rush": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"13437119": {
+				"blocks": 1,
+				"name": "Horgh",
+				"turns": 10,
+				"type": "R"
+			},
+			"13585443": {
+				"blocks": 9,
+				"name": "Euronymous \"Lord of Hell\"",
+				"prespp": 22,
+				"turns": 16,
+				"type": "R"
+			},
+			"13631045": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Fenriz \"Throne of Darkness\"",
+				"prespp": 12,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13707904": {
+				"blocks": 4,
+				"mvp": 1,
+				"name": "\"Dead\"",
+				"prespp": 2,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1354056",
+	"team": {
+		"980716": {
+			"blocks": 54,
+			"cas": 2,
 			"casdiff": 0,
+			"comp": 0,
+			"fouls": 2,
+			"int": 0,
+			"mvp": 1,
+			"name": "Emperor's True Face",
+			"pass": 0,
+			"prespp": 103,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 24,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 169
+		},
+		"983548": {
+			"blocks": 47,
+			"cas": 2,
+			"casdiff": 0,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Song of Hatred",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 3,
+			"prespp": 132,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 28,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 162
 		}
 	}
 }

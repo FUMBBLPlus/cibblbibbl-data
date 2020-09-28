@@ -1,20 +1,281 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4233367",
+	"player": {
 		"946354": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Pahuax Huntmasters",
-			"scorediff": 0,
-			"tddiff": 0
+			"12901784": {
+				"blocks": 5,
+				"name": "Black-headed Dwarf Slayer",
+				"prespp": 40,
+				"turns": 10,
+				"type": "R"
+			},
+			"12901805": {
+				"name": "Deceptive Mimicker",
+				"prespp": 57,
+				"type": "R"
+			},
+			"12901816": {
+				"blocks": 1,
+				"name": "Blade Striker",
+				"pass": 1,
+				"prespp": 21,
+				"rush": 5,
+				"turns": 18,
+				"type": "R"
+			},
+			"12901819": {
+				"comp": 3,
+				"name": "Bizarre-nosed Sniffer",
+				"pass": 7,
+				"prespp": 52,
+				"rush": 48,
+				"spp": 6,
+				"td": 1,
+				"turns": 18,
+				"type": "R"
+			},
+			"12901822": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Two-toned Soft-nosed Seeker",
+				"prespp": 15,
+				"spp": 5,
+				"turns": 16,
+				"type": "R"
+			},
+			"13063716": {
+				"name": "Side-Striped Runner",
+				"prespp": 27,
+				"rush": 17,
+				"spp": 9,
+				"td": 3,
+				"turns": 18,
+				"type": "R"
+			},
+			"13282429": {
+				"name": "Spectral Stander",
+				"type": "R"
+			},
+			"13378204": {
+				"blocks": 1,
+				"name": "Soft-Horned Impaler",
+				"turns": 17,
+				"type": "R"
+			},
+			"13603886": {
+				"blocks": 1,
+				"name": "Blue-legged Stalker",
+				"turns": 10,
+				"type": "R"
+			},
+			"13603888": {
+				"blocks": 1,
+				"name": "Hooded Huntsman",
+				"prespp": 6,
+				"turns": 17,
+				"type": "R"
+			},
+			"13644699": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Carpet Smoker",
+				"prespp": 8,
+				"spp": 2,
+				"turns": 18,
+				"type": "R"
+			},
+			"13657030": {
+				"name": "Globe-Horned Herder",
+				"turns": 15,
+				"type": "R"
+			},
+			"13664668": {
+				"name": "Panther Preyer",
+				"prespp": 3,
+				"type": "R"
+			},
+			"13714097": {
+				"name": "Sylvester Hotbrook",
+				"retired": true,
+				"turns": 4,
+				"type": "J"
+			},
+			"STAR-Uso Mad Shrimp": {
+				"blocks": 6,
+				"name": "Uso Mad Shrimp",
+				"turns": 17,
+				"type": "S"
+			}
 		},
 		"959010": {
-			"cas": 0,
-			"casdiff": 0,
+			"13087459": {
+				"blocks": 10,
+				"cas": 3,
+				"name": "Hyperion",
+				"prespp": 50,
+				"spp": 6,
+				"turns": 17,
+				"type": "B"
+			},
+			"13087463": {
+				"blocks": 5,
+				"name": "Prometheus",
+				"prespp": 19,
+				"turns": 17,
+				"type": "B"
+			},
+			"13087465": {
+				"blocks": 6,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Oceanus",
+				"pass": 1,
+				"prespp": 36,
+				"rush": 5,
+				"spp": 7,
+				"turns": 17,
+				"type": "B"
+			},
+			"13087481": {
+				"name": "Ladybug",
+				"prespp": 15,
+				"rush": 11,
+				"turns": 2,
+				"type": "R"
+			},
+			"13087488": {
+				"blocks": 1,
+				"name": "Dragonfly",
+				"turns": 17,
+				"type": "R"
+			},
+			"13087506": {
+				"blocks": 1,
+				"name": "Finch",
+				"pass": 1,
+				"prespp": 15,
+				"rush": 3,
+				"spp": 3,
+				"td": 1,
+				"turns": 11,
+				"type": "R"
+			},
+			"13226868": {
+				"fouls": 1,
+				"name": "Bumblebee",
+				"prespp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"13279210": {
+				"name": "Gnat",
+				"pass": 1,
+				"prespp": 3,
+				"rush": 22,
+				"spp": 3,
+				"td": 1,
+				"turns": 10,
+				"type": "R"
+			},
+			"13593900": {
+				"name": "Lucky Butterfly",
+				"prespp": 4,
+				"turns": 6,
+				"type": "R"
+			},
+			"13593913": {
+				"fouls": 1,
+				"name": "Tinkerbelle",
+				"pass": 1,
+				"rush": 8,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "R"
+			},
+			"13680798": {
+				"blocks": 1,
+				"name": "Mudskipper",
+				"prespp": 3,
+				"turns": 15,
+				"type": "R"
+			},
+			"13695084": {
+				"blocks": 1,
+				"name": "Hummingbird",
+				"turns": 8,
+				"type": "R"
+			},
+			"13695100": {
+				"fouls": 1,
+				"name": "Trixie Pixie",
+				"prespp": 2,
+				"turns": 8,
+				"type": "R"
+			},
+			"13719224": {
+				"blocks": 6,
+				"name": "Atlas",
+				"prespp": 7,
+				"turns": 17,
+				"type": "B"
+			},
+			"13719227": {
+				"name": "Chickadee",
+				"turns": 3,
+				"type": "R"
+			},
+			"13724113": {
+				"name": "Beetle",
+				"turns": 2,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1353821",
+	"team": {
+		"946354": {
+			"blocks": 17,
+			"cas": 1,
+			"casdiff": -4,
+			"comp": 3,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Pahuax Huntmasters",
+			"pass": 8,
+			"prespp": 229,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 70,
+			"score": 4,
+			"scorediff": 1,
+			"td": 4,
+			"tddiff": 1,
+			"turns": 178
+		},
+		"959010": {
+			"blocks": 31,
+			"cas": 5,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 3,
+			"int": 0,
+			"mvp": 1,
 			"name": "Towering Titans of Tartarox",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 4,
+			"prespp": 156,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 49,
+			"score": 3,
+			"scorediff": -1,
+			"td": 3,
+			"tddiff": -1,
+			"turns": 176
 		}
 	}
 }

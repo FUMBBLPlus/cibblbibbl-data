@@ -1,20 +1,285 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4233775",
+	"player": {
 		"989744": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Brandystock Barrelers",
-			"scorediff": 0,
-			"tddiff": 0
+			"13535261": {
+				"blocks": 8,
+				"name": "Buglum",
+				"prespp": 14,
+				"turns": 17,
+				"type": "B"
+			},
+			"13535276": {
+				"blocks": 3,
+				"name": "Henry Kingscup",
+				"prespp": 28,
+				"turns": 7,
+				"type": "R"
+			},
+			"13535277": {
+				"name": "Billy Kingscup",
+				"rush": 3,
+				"turns": 3,
+				"type": "R"
+			},
+			"13535304": {
+				"blocks": 1,
+				"comp": 1,
+				"name": "Grasyon Scott",
+				"pass": -2,
+				"prespp": 9,
+				"rush": 5,
+				"spp": 1,
+				"turns": 8,
+				"type": "R"
+			},
+			"13535305": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Rufus Featherbottom",
+				"rush": 9,
+				"turns": 17,
+				"type": "R"
+			},
+			"13535308": {
+				"name": "Maxime Gluttonbelly",
+				"prespp": 1,
+				"turns": 3,
+				"type": "R"
+			},
+			"13535309": {
+				"name": "Maraulf Took-Brandybuck",
+				"rush": 6,
+				"turns": 2,
+				"type": "R"
+			},
+			"13535310": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Charibert Boffin",
+				"prespp": 8,
+				"turns": 7,
+				"type": "R"
+			},
+			"13535312": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Ceredic Underfoot",
+				"turns": 6,
+				"type": "R"
+			},
+			"13535313": {
+				"fouls": 1,
+				"name": "Theobald Button",
+				"turns": 10,
+				"type": "R"
+			},
+			"13535383": {
+				"fouls": 1,
+				"name": "Marvin Butterfoot",
+				"turns": 6,
+				"type": "R"
+			},
+			"13535411": {
+				"blocks": 1,
+				"fouls": 2,
+				"name": "Greta Butterfoot",
+				"pass": -1,
+				"prespp": 7,
+				"rush": 1,
+				"turns": 17,
+				"type": "R"
+			},
+			"13625170": {
+				"blocks": 11,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Mogdium",
+				"prespp": 6,
+				"spp": 7,
+				"turns": 17,
+				"type": "B"
+			},
+			"13721956": {
+				"name": "Cael Rum-Belly",
+				"turns": 1,
+				"type": "R"
+			},
+			"STAR-Bertha Bigfist": {
+				"blocks": 13,
+				"name": "Bertha Bigfist",
+				"turns": 16,
+				"type": "S"
+			},
+			"STAR-Deeproot Strongbranch": {
+				"blocks": 10,
+				"name": "Deeproot Strongbranch",
+				"turns": 17,
+				"type": "S"
+			}
 		},
 		"993616": {
-			"cas": 0,
+			"13594635": {
+				"blocks": 1,
+				"dead": [
+					1,
+					7,
+					"fouled",
+					"13535313"
+				],
+				"name": "Urian Felforge",
+				"prespp": 7,
+				"turns": 6,
+				"type": "R"
+			},
+			"13594659": {
+				"blocks": 4,
+				"name": "Grimm Ironborn",
+				"prespp": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"13594667": {
+				"blocks": 8,
+				"name": "Alrak Stonestand",
+				"prespp": 22,
+				"turns": 17,
+				"type": "R"
+			},
+			"13594765": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Dolvir Runeflame",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 10,
+				"type": "R"
+			},
+			"13594773": {
+				"name": "Gorvid Brewhouse",
+				"turns": 8,
+				"type": "R"
+			},
+			"13594776": {
+				"name": "Rhob \"Happy Feet\" Crookclaw",
+				"pass": 1,
+				"prespp": 40,
+				"rush": 39,
+				"spp": 6,
+				"td": 2,
+				"turns": 17,
+				"type": "R"
+			},
+			"13594779": {
+				"blocks": 1,
+				"mvp": 1,
+				"name": "Dunmir Silverpike",
+				"spp": 5,
+				"turns": 10,
+				"type": "R"
+			},
+			"13594786": {
+				"blocks": 3,
+				"cas": 1,
+				"dead": [
+					2,
+					4,
+					"dodgeFail",
+					null
+				],
+				"name": "Morgrin Dragonblade",
+				"prespp": 19,
+				"rush": 5,
+				"spp": 2,
+				"turns": 12,
+				"type": "R"
+			},
+			"13594788": {
+				"blocks": 3,
+				"name": "Elthor Flux",
+				"prespp": 8,
+				"turns": 6,
+				"type": "R"
+			},
+			"13594796": {
+				"blocks": 3,
+				"name": "Gorian Mountainblood",
+				"prespp": 30,
+				"turns": 17,
+				"type": "R"
+			},
+			"13594798": {
+				"blocks": 4,
+				"name": "Thorian Steelhammer",
+				"prespp": 7,
+				"turns": 17,
+				"type": "R"
+			},
+			"13658065": {
+				"blocks": 4,
+				"name": "Danur Torchlight",
+				"turns": 17,
+				"type": "R"
+			},
+			"13693979": {
+				"blocks": 5,
+				"name": "Randal Bronzeskin",
+				"turns": 17,
+				"type": "R"
+			},
+			"13721568": {
+				"blocks": 3,
+				"fouls": 1,
+				"name": "The Silvershield",
+				"turns": 7,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1354329",
+	"team": {
+		"989744": {
+			"blocks": 50,
+			"cas": 2,
 			"casdiff": 0,
+			"comp": 1,
+			"fouls": 7,
+			"int": 0,
+			"mvp": 1,
+			"name": "Brandystock Barrelers",
+			"pass": -3,
+			"prespp": 73,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 24,
+			"score": 0,
+			"scorediff": -2,
+			"td": 0,
+			"tddiff": -2,
+			"turns": 154
+		},
+		"993616": {
+			"blocks": 41,
+			"cas": 2,
+			"casdiff": 0,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
 			"name": "Everpeak Silvershields",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 137,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 44,
+			"score": 2,
+			"scorediff": 2,
+			"td": 2,
+			"tddiff": 2,
+			"turns": 178
 		}
 	}
 }

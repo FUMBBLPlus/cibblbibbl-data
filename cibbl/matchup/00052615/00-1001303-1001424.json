@@ -1,20 +1,228 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4233643",
+	"player": {
 		"1001303": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Geheb's Lions",
-			"scorediff": 0,
-			"tddiff": 0
+			"13715275": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Abul-Simbel",
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"13715277": {
+				"blocks": 4,
+				"name": "Tefast Apoto",
+				"prespp": 19,
+				"rush": 9,
+				"turns": 15,
+				"type": "R"
+			},
+			"13715278": {
+				"blocks": 10,
+				"name": "Kasut Nebaten",
+				"prespp": 4,
+				"turns": 15,
+				"type": "R"
+			},
+			"13715279": {
+				"blocks": 4,
+				"name": "Gensa Heror",
+				"prespp": 6,
+				"turns": 15,
+				"type": "R"
+			},
+			"13715280": {
+				"blocks": 9,
+				"mvp": 1,
+				"name": "Apar Tabra",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"13715285": {
+				"blocks": 4,
+				"fouls": 1,
+				"name": "Tuba",
+				"turns": 15,
+				"type": "R"
+			},
+			"13715287": {
+				"blocks": 6,
+				"name": "Yafeu",
+				"turns": 15,
+				"type": "R"
+			},
+			"13715294": {
+				"blocks": 2,
+				"dead": [
+					2,
+					5,
+					"blocked",
+					"13725719"
+				],
+				"name": "Sechet",
+				"turns": 12,
+				"type": "R"
+			},
+			"13715303": {
+				"blocks": 2,
+				"fouls": 2,
+				"name": "Maibe",
+				"turns": 15,
+				"type": "R"
+			},
+			"13715309": {
+				"blocks": 5,
+				"cas": 1,
+				"fouls": 2,
+				"name": "Merit",
+				"spp": 2,
+				"turns": 13,
+				"type": "R"
+			},
+			"13721480": {
+				"blocks": 7,
+				"name": "Arkham the Black",
+				"turns": 15,
+				"type": "R"
+			}
 		},
 		"1001424": {
-			"cas": 0,
-			"casdiff": 0,
+			"13717224": {
+				"blocks": 1,
+				"name": "Pickles",
+				"type": "B"
+			},
+			"13717225": {
+				"blocks": 5,
+				"name": "Scooter",
+				"turns": 13,
+				"type": "B"
+			},
+			"13717226": {
+				"blocks": 7,
+				"mvp": 1,
+				"name": "Ivan the Terrifying",
+				"rush": 8,
+				"spp": 8,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"13717228": {
+				"blocks": 1,
+				"name": "'Bigfoot' Yuriy",
+				"turns": 8,
+				"type": "R"
+			},
+			"13717229": {
+				"blocks": 5,
+				"name": "Pavlo Right",
+				"prespp": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"13717231": {
+				"name": "Pylyp the Pale",
+				"type": "R"
+			},
+			"13717232": {
+				"blocks": 1,
+				"name": "Oddman George",
+				"turns": 15,
+				"type": "R"
+			},
+			"13717233": {
+				"blocks": 5,
+				"name": "Peter the Lame",
+				"turns": 15,
+				"type": "R"
+			},
+			"13717234": {
+				"blocks": 4,
+				"name": "Ostap the Apeman",
+				"pass": 1,
+				"rush": 5,
+				"turns": 15,
+				"type": "R"
+			},
+			"13725718": {
+				"blocks": 2,
+				"name": "Graham Hideousbrook",
+				"retired": true,
+				"turns": 7,
+				"type": "J"
+			},
+			"13725719": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Edward Goldstream",
+				"retired": true,
+				"spp": 2,
+				"turns": 12,
+				"type": "J"
+			},
+			"13725720": {
+				"blocks": 1,
+				"name": "Harold Deeporc",
+				"retired": true,
+				"turns": 15,
+				"type": "J"
+			},
+			"STAR-Boris Rolanov": {
+				"name": "Boris Rolanov",
+				"rush": 19,
+				"turns": 10,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1354157",
+	"team": {
+		"1001303": {
+			"blocks": 64,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 0,
+			"fouls": 5,
+			"int": 0,
+			"mvp": 1,
+			"name": "Geheb's Lions",
+			"pass": 0,
+			"prespp": 34,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 9,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 160
+		},
+		"1001424": {
+			"blocks": 33,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Carnival of Curiosity",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 5,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 32,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 140
 		}
 	}
 }

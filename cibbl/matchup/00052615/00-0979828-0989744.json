@@ -1,20 +1,258 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4233802",
+	"player": {
 		"979828": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Khainite Dreadlords",
-			"scorediff": 0,
-			"tddiff": 0
+			"13379218": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Griefbringer-Martial",
+				"prespp": 6,
+				"rush": 7,
+				"spp": 3,
+				"td": 1,
+				"turns": 4,
+				"type": "R"
+			},
+			"13379243": {
+				"blocks": 5,
+				"name": "Wyrmscale",
+				"prespp": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"13379254": {
+				"name": "Soulblaze",
+				"prespp": 14,
+				"type": "R"
+			},
+			"13379258": {
+				"blocks": 4,
+				"name": "Serpentheart",
+				"turns": 15,
+				"type": "R"
+			},
+			"13379277": {
+				"blocks": 7,
+				"cas": 1,
+				"comp": 1,
+				"mvp": 1,
+				"name": "Granitescence-Revered",
+				"pass": 2,
+				"prespp": 32,
+				"rush": 21,
+				"spp": 14,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13427899": {
+				"blocks": 6,
+				"comp": 1,
+				"name": "Tempest of Talons-Revered",
+				"pass": -2,
+				"prespp": 16,
+				"rush": 4,
+				"spp": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"13585720": {
+				"blocks": 8,
+				"cas": 1,
+				"comp": 2,
+				"name": "Amari Atiaran",
+				"pass": 1,
+				"prespp": 17,
+				"rush": 6,
+				"spp": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"13725213": {
+				"blocks": 7,
+				"comp": 1,
+				"name": "Fury of Stealth",
+				"pass": 3,
+				"prespp": 8,
+				"rush": 9,
+				"spp": 7,
+				"td": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"13725330": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Diego Cafe-",
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13725335": {
+				"name": "Tristan Truebrook",
+				"retired": true,
+				"turns": 4,
+				"type": "J"
+			},
+			"13725336": {
+				"blocks": 1,
+				"name": "Julius Grottybrook",
+				"retired": true,
+				"turns": 10,
+				"type": "J"
+			},
+			"13725337": {
+				"blocks": 1,
+				"name": "Fredrick Clearwing",
+				"retired": true,
+				"turns": 12,
+				"type": "J"
+			}
 		},
 		"989744": {
-			"cas": 0,
-			"casdiff": 0,
+			"13535261": {
+				"blocks": 9,
+				"mvp": 1,
+				"name": "Buglum",
+				"prespp": 14,
+				"spp": 5,
+				"turns": 16,
+				"type": "B"
+			},
+			"13535276": {
+				"blocks": 1,
+				"name": "Henry Kingscup",
+				"prespp": 33,
+				"turns": 1,
+				"type": "R"
+			},
+			"13535277": {
+				"name": "Billy Kingscup",
+				"type": "R"
+			},
+			"13535304": {
+				"name": "Grasyon Scott",
+				"prespp": 10,
+				"turns": 2,
+				"type": "R"
+			},
+			"13535305": {
+				"blocks": 3,
+				"name": "Rufus Featherbottom",
+				"turns": 13,
+				"type": "R"
+			},
+			"13535308": {
+				"blocks": 3,
+				"name": "Maxime Gluttonbelly",
+				"prespp": 4,
+				"turns": 12,
+				"type": "R"
+			},
+			"13535309": {
+				"blocks": 1,
+				"name": "Maraulf Took-Brandybuck",
+				"turns": 9,
+				"type": "R"
+			},
+			"13535310": {
+				"blocks": 2,
+				"fouls": 1,
+				"name": "Charibert Boffin",
+				"prespp": 8,
+				"turns": 16,
+				"type": "R"
+			},
+			"13535312": {
+				"blocks": 2,
+				"fouls": 2,
+				"name": "Ceredic Underfoot",
+				"turns": 11,
+				"type": "R"
+			},
+			"13535313": {
+				"blocks": 1,
+				"name": "Theobald Button",
+				"turns": 1,
+				"type": "R"
+			},
+			"13535383": {
+				"name": "Marvin Butterfoot",
+				"turns": 2,
+				"type": "R"
+			},
+			"13535411": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Greta Butterfoot",
+				"prespp": 7,
+				"rush": 1,
+				"spp": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"13625170": {
+				"blocks": 11,
+				"cas": 3,
+				"name": "Mogdium",
+				"prespp": 13,
+				"spp": 6,
+				"turns": 16,
+				"type": "B"
+			},
+			"13721956": {
+				"blocks": 1,
+				"fouls": 1,
+				"name": "Cael Rum-Belly",
+				"turns": 4,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1354359",
+	"team": {
+		"979828": {
+			"blocks": 42,
+			"cas": 5,
+			"casdiff": 1,
+			"comp": 5,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Khainite Dreadlords",
+			"pass": 4,
+			"prespp": 101,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 47,
+			"score": 5,
+			"scorediff": 5,
+			"td": 5,
+			"tddiff": 5,
+			"turns": 139
+		},
+		"989744": {
+			"blocks": 35,
+			"cas": 4,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 4,
+			"int": 0,
+			"mvp": 1,
 			"name": "Brandystock Barrelers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 89,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 1,
+			"score": 0,
+			"scorediff": -5,
+			"td": 0,
+			"tddiff": -5,
+			"turns": 114
 		}
 	}
 }

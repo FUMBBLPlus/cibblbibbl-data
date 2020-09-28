@@ -1,20 +1,244 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4233548",
+	"player": {
 		"1001186": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Terminal Harmony",
-			"scorediff": 0,
-			"tddiff": 0
+			"13713321": {
+				"blocks": 2,
+				"name": "Tholgareth",
+				"turns": 3,
+				"type": "R"
+			},
+			"13713322": {
+				"blocks": 2,
+				"name": "Rakiruz",
+				"prespp": 8,
+				"rush": 23,
+				"turns": 17,
+				"type": "R"
+			},
+			"13713323": {
+				"name": "Zonereth",
+				"type": "R"
+			},
+			"13713325": {
+				"blocks": 6,
+				"name": "Crynsan",
+				"prespp": 4,
+				"turns": 17,
+				"type": "R"
+			},
+			"13713326": {
+				"blocks": 4,
+				"name": "Xahrlyx",
+				"turns": 17,
+				"type": "R"
+			},
+			"13713327": {
+				"blocks": 8,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Voxvyce",
+				"prespp": 10,
+				"spp": 7,
+				"turns": 17,
+				"type": "R"
+			},
+			"13713328": {
+				"blocks": 5,
+				"dead": [
+					1,
+					7,
+					"blocked",
+					"13720700"
+				],
+				"name": "Cahrless",
+				"prespp": 7,
+				"turns": 7,
+				"type": "R"
+			},
+			"13713329": {
+				"blocks": 6,
+				"name": "Uhrvynia",
+				"turns": 17,
+				"type": "R"
+			},
+			"13713330": {
+				"blocks": 4,
+				"name": "Daemriane",
+				"turns": 14,
+				"type": "R"
+			},
+			"13713332": {
+				"blocks": 6,
+				"name": "Catvielle",
+				"prespp": 4,
+				"turns": 15,
+				"type": "R"
+			},
+			"13713334": {
+				"blocks": 4,
+				"name": "Daemvielle",
+				"turns": 17,
+				"type": "R"
+			},
+			"13719331": {
+				"blocks": 1,
+				"name": "Gholfrick",
+				"prespp": 2,
+				"turns": 6,
+				"type": "R"
+			},
+			"13720793": {
+				"blocks": 3,
+				"name": "Intuition Clifftop",
+				"turns": 16,
+				"type": "R"
+			},
+			"13720804": {
+				"blocks": 2,
+				"name": "Yolvokh",
+				"turns": 17,
+				"type": "R"
+			}
 		},
 		"1001645": {
-			"cas": 0,
-			"casdiff": 0,
+			"13720697": {
+				"blocks": 7,
+				"name": "Strondor",
+				"prespp": 9,
+				"rush": 12,
+				"spp": 3,
+				"td": 1,
+				"turns": 16,
+				"type": "B"
+			},
+			"13720698": {
+				"blocks": 5,
+				"cas": 1,
+				"name": "Bozlog",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"13720699": {
+				"blocks": 7,
+				"name": "Urmok Daleg",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13720700": {
+				"blocks": 13,
+				"cas": 1,
+				"mvp": 1,
+				"name": "Thulgor",
+				"prespp": 10,
+				"spp": 7,
+				"turns": 16,
+				"type": "B"
+			},
+			"13720701": {
+				"blocks": 1,
+				"name": "Taldon Blair",
+				"prespp": 4,
+				"rush": -2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13720702": {
+				"blocks": 6,
+				"name": "Kaiden Galbront",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13720703": {
+				"name": "Tristan Galbront",
+				"prespp": 2,
+				"type": "R"
+			},
+			"13720704": {
+				"blocks": 2,
+				"name": "Cragan Dines",
+				"turns": 14,
+				"type": "R"
+			},
+			"13720705": {
+				"name": "Braxton Scarsol",
+				"type": "R"
+			},
+			"13720706": {
+				"blocks": 2,
+				"name": "Raga Roland",
+				"rush": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"13720707": {
+				"name": "Daka Dribbelsnot",
+				"turns": 16,
+				"type": "R"
+			},
+			"13722854": {
+				"blocks": 1,
+				"name": "Chance Kildarien",
+				"turns": 15,
+				"type": "R"
+			},
+			"13722871": {
+				"blocks": 3,
+				"name": "Paxton Wonder",
+				"prespp": 2,
+				"turns": 16,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1354044",
+	"team": {
+		"1001186": {
+			"blocks": 53,
+			"cas": 1,
+			"casdiff": -1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Terminal Harmony",
+			"pass": 0,
+			"prespp": 35,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 23,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 180
+		},
+		"1001645": {
+			"blocks": 47,
+			"cas": 2,
+			"casdiff": 1,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Grimbonian Giants",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 33,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 12,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 172
 		}
 	}
 }

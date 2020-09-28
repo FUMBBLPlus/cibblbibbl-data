@@ -1,20 +1,257 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4233675",
+	"player": {
 		"993616": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Everpeak Silvershields",
-			"scorediff": 0,
-			"tddiff": 0
+			"13594635": {
+				"blocks": 1,
+				"cas": 1,
+				"fouls": 1,
+				"name": "Urian Felforge",
+				"spp": 2,
+				"turns": 5,
+				"type": "R"
+			},
+			"13594659": {
+				"blocks": 3,
+				"name": "Grimm Ironborn",
+				"turns": 16,
+				"type": "R"
+			},
+			"13594667": {
+				"blocks": 5,
+				"cas": 2,
+				"mvp": 1,
+				"name": "Alrak Stonestand",
+				"prespp": 9,
+				"spp": 9,
+				"turns": 16,
+				"type": "R"
+			},
+			"13594765": {
+				"blocks": 1,
+				"name": "Dolvir Runeflame",
+				"prespp": 2,
+				"turns": 1,
+				"type": "R"
+			},
+			"13594773": {
+				"name": "Gorvid Brewhouse",
+				"turns": 8,
+				"type": "R"
+			},
+			"13594776": {
+				"blocks": 1,
+				"cas": 1,
+				"name": "Rhob \"Happy Feet\" Crookclaw",
+				"prespp": 26,
+				"rush": 36,
+				"spp": 8,
+				"td": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13594779": {
+				"blocks": 3,
+				"name": "Dunmir Silverpike",
+				"turns": 16,
+				"type": "R"
+			},
+			"13594786": {
+				"blocks": 5,
+				"name": "Morgrin Dragonblade",
+				"prespp": 17,
+				"turns": 16,
+				"type": "R"
+			},
+			"13594788": {
+				"name": "Elthor Flux",
+				"prespp": 8,
+				"turns": 1,
+				"type": "R"
+			},
+			"13594796": {
+				"blocks": 8,
+				"cas": 1,
+				"name": "Gorian Mountainblood",
+				"prespp": 24,
+				"spp": 2,
+				"turns": 16,
+				"type": "R"
+			},
+			"13594798": {
+				"blocks": 1,
+				"name": "Thorian Steelhammer",
+				"prespp": 7,
+				"turns": 16,
+				"type": "R"
+			},
+			"13658065": {
+				"name": "Danur Torchlight",
+				"turns": 1,
+				"type": "R"
+			},
+			"13693979": {
+				"blocks": 5,
+				"name": "Randal Bronzeskin",
+				"turns": 16,
+				"type": "R"
+			},
+			"13721568": {
+				"name": "The Silvershield",
+				"type": "R"
+			}
 		},
 		"996946": {
-			"cas": 0,
-			"casdiff": 0,
+			"13646209": {
+				"blocks": 3,
+				"mvp": 1,
+				"name": "Eduardo Elf-smasher",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 16,
+				"type": "B"
+			},
+			"13646210": {
+				"blocks": 6,
+				"name": "Gunther \"GreatHammer\"",
+				"prespp": 5,
+				"turns": 16,
+				"type": "B"
+			},
+			"13646211": {
+				"blocks": 4,
+				"name": "Nagg Granitecruncher",
+				"prespp": 5,
+				"turns": 16,
+				"type": "B"
+			},
+			"13646213": {
+				"name": "Cabbage",
+				"turns": 4,
+				"type": "R"
+			},
+			"13646215": {
+				"name": "Kayden Quickfinga",
+				"rush": 2,
+				"turns": 2,
+				"type": "R"
+			},
+			"13646216": {
+				"fouls": 2,
+				"name": "Spinach",
+				"pass": 1,
+				"rush": 4,
+				"turns": 16,
+				"type": "R"
+			},
+			"13646217": {
+				"blocks": 11,
+				"cas": 1,
+				"name": "Groth Krush",
+				"prespp": 21,
+				"spp": 2,
+				"turns": 16,
+				"type": "B"
+			},
+			"13646218": {
+				"name": "Zaakk Swift",
+				"type": "R"
+			},
+			"13646219": {
+				"name": "Rocky",
+				"turns": 4,
+				"type": "R"
+			},
+			"13692794": {
+				"dead": [
+					2,
+					2,
+					"blocked",
+					"13594635"
+				],
+				"name": "Brian Scythia",
+				"turns": 4,
+				"type": "R"
+			},
+			"13722609": {
+				"blocks": 7,
+				"name": "Jorge Gessane",
+				"turns": 16,
+				"type": "B"
+			},
+			"13722610": {
+				"name": "Fredrick Hideousorc",
+				"retired": true,
+				"rush": 8,
+				"spp": 3,
+				"td": 1,
+				"turns": 4,
+				"type": "J"
+			},
+			"STAR-Bomber Dribblesnot": {
+				"dead": [
+					1,
+					7,
+					"blocked",
+					"13594667"
+				],
+				"name": "Bomber Dribblesnot",
+				"turns": 7,
+				"type": "S"
+			},
+			"STAR-Garbage Throttlesnot": {
+				"blocks": 4,
+				"fouls": 4,
+				"name": "Garbage Throttlesnot",
+				"turns": 9,
+				"type": "S"
+			}
+		}
+	},
+	"replayId": "1354186",
+	"team": {
+		"993616": {
+			"blocks": 33,
+			"cas": 5,
+			"casdiff": 4,
+			"comp": 0,
+			"fouls": 1,
+			"int": 0,
+			"mvp": 1,
+			"name": "Everpeak Silvershields",
+			"pass": 0,
+			"prespp": 93,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 36,
+			"score": 2,
+			"scorediff": 1,
+			"td": 2,
+			"tddiff": 1,
+			"turns": 144
+		},
+		"996946": {
+			"blocks": 35,
+			"cas": 1,
+			"casdiff": -4,
+			"comp": 0,
+			"fouls": 6,
+			"int": 0,
+			"mvp": 1,
 			"name": "Thunder Peak Frosthorns",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 1,
+			"prespp": 36,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 14,
+			"score": 1,
+			"scorediff": -1,
+			"td": 1,
+			"tddiff": -1,
+			"turns": 130
 		}
 	}
 }

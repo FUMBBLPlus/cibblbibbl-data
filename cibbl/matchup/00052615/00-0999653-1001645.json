@@ -1,20 +1,242 @@
 {
 	"!excluded": "no",
-	"player": {},
-	"team": {
+	"matchId": "4233610",
+	"player": {
 		"1001645": {
-			"cas": 0,
-			"casdiff": 0,
-			"name": "Grimbonian Giants",
-			"scorediff": 0,
-			"tddiff": 0
+			"13720697": {
+				"blocks": 6,
+				"cas": 1,
+				"name": "Strondor",
+				"prespp": 12,
+				"spp": 2,
+				"turns": 15,
+				"type": "B"
+			},
+			"13720698": {
+				"blocks": 3,
+				"cas": 1,
+				"name": "Bozlog",
+				"prespp": 4,
+				"spp": 2,
+				"turns": 15,
+				"type": "B"
+			},
+			"13720699": {
+				"blocks": 3,
+				"name": "Urmok Daleg",
+				"prespp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"13720700": {
+				"blocks": 10,
+				"name": "Thulgor",
+				"prespp": 17,
+				"turns": 15,
+				"type": "B"
+			},
+			"13720701": {
+				"comp": 1,
+				"mvp": 1,
+				"name": "Taldon Blair",
+				"pass": 1,
+				"prespp": 4,
+				"rush": 8,
+				"spp": 6,
+				"turns": 9,
+				"type": "R"
+			},
+			"13720702": {
+				"blocks": 2,
+				"name": "Kaiden Galbront",
+				"prespp": 2,
+				"turns": 15,
+				"type": "R"
+			},
+			"13720703": {
+				"blocks": 1,
+				"name": "Tristan Galbront",
+				"prespp": 2,
+				"turns": 11,
+				"type": "R"
+			},
+			"13720704": {
+				"blocks": 1,
+				"name": "Cragan Dines",
+				"turns": 10,
+				"type": "R"
+			},
+			"13720705": {
+				"blocks": 2,
+				"name": "Braxton Scarsol",
+				"turns": 15,
+				"type": "R"
+			},
+			"13720706": {
+				"blocks": 2,
+				"name": "Raga Roland",
+				"turns": 11,
+				"type": "R"
+			},
+			"13720707": {
+				"name": "Daka Dribbelsnot",
+				"type": "R"
+			},
+			"13722854": {
+				"blocks": 1,
+				"name": "Chance Kildarien",
+				"pass": -1,
+				"turns": 5,
+				"type": "R"
+			},
+			"13722871": {
+				"blocks": 2,
+				"cas": 1,
+				"name": "Paxton Wonder",
+				"prespp": 2,
+				"spp": 2,
+				"turns": 15,
+				"type": "R"
+			}
 		},
 		"999653": {
-			"cas": 0,
-			"casdiff": 0,
+			"13687336": {
+				"blocks": 6,
+				"mvp": 1,
+				"name": "The Messenger",
+				"prespp": 5,
+				"spp": 5,
+				"turns": 13,
+				"type": "B"
+			},
+			"13687337": {
+				"blocks": 8,
+				"name": "The Quiet Mountain",
+				"prespp": 13,
+				"turns": 15,
+				"type": "B"
+			},
+			"13687341": {
+				"blocks": 6,
+				"name": "The Chronicler",
+				"prespp": 7,
+				"turns": 15,
+				"type": "B"
+			},
+			"13687345": {
+				"blocks": 1,
+				"name": "Hope Skylight",
+				"prespp": 10,
+				"rush": 24,
+				"spp": 3,
+				"td": 1,
+				"turns": 15,
+				"type": "R"
+			},
+			"13687346": {
+				"blocks": 2,
+				"name": "Faith Thunder",
+				"prespp": 10,
+				"turns": 3,
+				"type": "R"
+			},
+			"13687347": {
+				"blocks": 4,
+				"name": "Foresight Comet",
+				"prespp": 21,
+				"turns": 15,
+				"type": "R"
+			},
+			"13687348": {
+				"blocks": 2,
+				"name": "Wanderlust Wingsoul",
+				"turns": 7,
+				"type": "R"
+			},
+			"13719566": {
+				"blocks": 5,
+				"name": "Wisdom Sunset",
+				"prespp": 6,
+				"turns": 12,
+				"type": "R"
+			},
+			"13722538": {
+				"blocks": 9,
+				"cas": 1,
+				"name": "The Rumbling Giant",
+				"prespp": 10,
+				"spp": 2,
+				"turns": 10,
+				"type": "B"
+			},
+			"13723563": {
+				"blocks": 2,
+				"name": "Freedom Lightning",
+				"rush": 7,
+				"turns": 12,
+				"type": "R"
+			},
+			"13723564": {
+				"name": "Joy Greenleaf",
+				"turns": 5,
+				"type": "R"
+			},
+			"13723565": {
+				"dead": [
+					1,
+					2,
+					"blocked",
+					"13720697"
+				],
+				"name": "Gratitude Silverpond",
+				"turns": 1,
+				"type": "R"
+			}
+		}
+	},
+	"replayId": "1354118",
+	"team": {
+		"1001645": {
+			"blocks": 33,
+			"cas": 3,
+			"casdiff": 2,
+			"comp": 1,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
+			"name": "Grimbonian Giants",
+			"pass": 0,
+			"prespp": 45,
+			"prestige": 0,
+			"pts": 0,
+			"r": "L",
+			"rush": 8,
+			"score": 0,
+			"scorediff": -1,
+			"td": 0,
+			"tddiff": -1,
+			"turns": 151
+		},
+		"999653": {
+			"blocks": 45,
+			"cas": 1,
+			"casdiff": -2,
+			"comp": 0,
+			"fouls": 0,
+			"int": 0,
+			"mvp": 1,
 			"name": "Tengalusho Tramplers",
-			"scorediff": 0,
-			"tddiff": 0
+			"pass": 0,
+			"prespp": 82,
+			"prestige": 0,
+			"pts": 3,
+			"r": "W",
+			"rush": 31,
+			"score": 1,
+			"scorediff": 1,
+			"td": 1,
+			"tddiff": 1,
+			"turns": 123
 		}
 	}
 }
